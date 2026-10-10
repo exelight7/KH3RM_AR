@@ -458,3 +458,6 @@ eview2_page.py (dump/fix/mark/flags N; pages = 300 translated rows in story orde
 2026-10-10 RELEASE-080 T1 installer: tools\installer (WPF .NET 8, NuGet.config for nuget.org), embeds BUILD-5 pak (sha e43d8f97 = ~mods copy = SWAP_LOG), original XAML art, ar/en UI, app.ico drawn by us; EXE 70.9 MB.
 2026-10-10 RELEASE-080 T2 tests: --selftest 22/22 PASS (steam vdf/acf, epic dat, browse, process check, install/remove on temp tree); ui_ar.png and ui_en.png rendered with --render.
 2026-10-10 RELEASE-080 T3 release prep: gh 2.102.0 official zip (sha ae64e556...) in tools\gh-2.102.0, not logged in; assets + RELEASE_NOTES.md ready; waiting for user gh auth login.
+2026-10-10 REVIEW-3 T1-T5: review3.tsv applied (5 rows: Isla de Muerta 01505, 05962, 01392, 03913, 06084); glossary KH3 form retired; row 05050 skipped (text is in 05051).
+2026-10-10 REVIEW-3 T6-T7: 01302/01304 unchanged (addressee not clearly male); UNSURE_REVIEW2.md marked resolved.
+2026-10-10 REVIEW-3 T8 close: refresh, secret_check, PROJECT_MAP 3 4 8 + CHANGELOG, private commit. BUILD-6 / v0.8.1 needed to install.

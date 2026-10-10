@@ -1,4 +1,4 @@
-# KH3RM_AR — تعريب Kingdom Hearts III + Re Mind
+﻿# KH3RM_AR — تعريب Kingdom Hearts III + Re Mind
 
 <div dir="rtl">
 
@@ -18,7 +18,7 @@
 (الأرقام من `state/STATS.md`، المجموع {{ROWS}} نصا.)
 
 ### التنزيل
-**[نزّل الإصدار 0.8.0 (نسخة تجريبية)](https://github.com/exelight7/KH3RM_AR/releases/tag/v0.8.0)**: شغّل `KH3RM_AR_Setup_v0.8.0.exe`، وسيجد المثبّت مجلد اللعبة (Steam أو Epic) وينسخ الملف ويتحقق منه. إن ظهرت نافذة SmartScreen (البرنامج غير موقّع): «مزيد من المعلومات» ثم «تشغيل على أي حال».
+**[نزّل الإصدار 0.8.0 (نسخة تجريبية)](https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.0)**: شغّل `KH3RM_AR_Setup_v0.8.0.exe`، وسيجد المثبّت مجلد اللعبة (Steam أو Epic) وينسخ الملف ويتحقق منه. إن ظهرت نافذة SmartScreen (البرنامج غير موقّع): «مزيد من المعلومات» ثم «تشغيل على أي حال».
 
 ![واجهة المثبّت](docs/img/ui_ar.png)
 
@@ -75,7 +75,7 @@
 (From `state/STATS.md`, {{ROWS}} strings in total.)
 
 ### Download
-**[Get v0.8.0 (pre-release)](https://github.com/exelight7/KH3RM_AR/releases/tag/v0.8.0)**: run `KH3RM_AR_Setup_v0.8.0.exe`; it finds the game folder (Steam or Epic), copies the pak and verifies it. If Windows SmartScreen appears (the app is unsigned): More info > Run anyway.
+**[Get 0.8.0 (pre-release)](https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.0)**: run `KH3RM_AR_Setup_v0.8.0.exe`; it finds the game folder (Steam or Epic), copies the pak and verifies it. If Windows SmartScreen appears (the app is unsigned): More info > Run anyway.
 
 ![Installer](docs/img/ui_ar.png)
 

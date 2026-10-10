@@ -430,7 +430,7 @@ KH2 used a fixed-cell bitmap atlas; KH3 uses a rebuilt TresFont (Segoe UI) with 
 | Chamber of Waking | قاعة اليقظة | approved | KH2 | 1 | 15332 | KH2 nm / ca / eh / lm / he / title / gumi / ; eh |
 | Garden of Assemblage | حديقة التجمع | approved | KH2 | 1 | 13767 | KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد |
 | Gorge | المضيق | approved | KH2 | 1 | 13637 | KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 609 |
-| Isla de Muerta | جزيرة الموتى | approved | KH3-new | 1 | 01505 | supervisor REVIEW-1 |
+| Isla de Muerta | إيسلا دي مويرتا | approved | KH2 | 1 | 01505 | supervisor REVIEW-3 (KH3 form جزيرة الموتى retired) |
 | Krei Tech | كراي تك | approved | KH3-new | 1 | 09455 | supervisor REVIEW-1 |
 | Merlin's House | بيت ميرلين | approved | KH2 | 1 | 13766 | KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / عالم الظلال / TWTNW / بلدة الش |
 | Overlook | الإطلالة | approved | KH2 | 1 | 13595 | KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 615 |

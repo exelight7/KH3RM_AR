@@ -1,5 +1,9 @@
 # Changelog
 
+## REVIEW-3 (2026-10-10)
+- 5 rows corrected (`review\corrections\applied\review3.tsv`): 01505 Isla de Muerta (KH2 form), 05962, 01392, 03913, 06084. Row 05050 skipped (fragment is in 05051). 01302/01304 unchanged (addressee not clearly male). Glossary: KH3 form retired.
+- `review\UNSURE_REVIEW2.md` marked resolved. Not installed: needs BUILD-6 / v0.8.1.
+
 ## RELEASE-080 (2026-10-10)
 - Installer `tools/installer/` (WPF .NET 8, single self-contained EXE, embedded BUILD-5 pak, SHA256 check, Steam/Epic detection, Arabic/English UI, original XAML art, `--selftest`/`--render`/`--icon`); release v0.8.0 (pre-release) prepared in `out/release/v0.8.0/`; README Download section; `tools/gh-*` ignored.
 
