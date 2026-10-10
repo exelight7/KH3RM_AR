@@ -1,4 +1,4 @@
-﻿# KH3RM_AR — تعريب Kingdom Hearts III + Re Mind
+# KH3RM_AR — تعريب Kingdom Hearts III + Re Mind
 
 <div dir="rtl">
 
