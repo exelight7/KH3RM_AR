@@ -69,3 +69,10 @@ def norm_en(s):
 def term_re(term, flags=re.I):
     """whole-word match for an EN term (term may start/end with punctuation)"""
     return re.compile(r'(?<!\w)' + re.escape(norm_en(term)) + r'(?!\w)', flags)
+
+
+def load_images_strings():
+    r"""-> rows of translation\images_strings.tsv as dicts (id, EN, AR, status, category='images'); kept out of load_translation."""
+    rows = read_tsv(os.path.join(ROOT, 'translation', 'images_strings.tsv'))
+    h = rows[0]
+    return [dict(zip(h, r), category='images') for r in rows[1:]]

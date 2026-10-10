@@ -74,7 +74,7 @@ def main():
         p = os.path.join(PUB, f)
         shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
     put('README.md', readme())
-    for f in ('PROJECT_MAP.md', 'CHANGELOG.md'): doc(f, keys)
+    for f in ('PROJECT_MAP.md', 'CHANGELOG.md', 'FAQ.md', '.github/ISSUE_TEMPLATE/bug_report.yml', 'docs/TESTER_GUIDE.md'): doc(f, keys)
     put('LICENSE_TODO.md', '# License - undecided\n\nThe project owner has not chosen a license yet. Until then: all rights reserved for our Arabic text; '
         'unofficial fan translation, not affiliated with Square Enix or Disney. The `LICENSE` file in this repository is the '
         'GitHub-generated default (GPL v2) from the repository creation; it is not a decision about the translation text.\n')

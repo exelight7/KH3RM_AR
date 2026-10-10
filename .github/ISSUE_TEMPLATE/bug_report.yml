@@ -1,0 +1,33 @@
+name: Bug report / بلاغ عن مشكلة
+description: One-line problem report for the Arabic translation
+body:
+  - type: input
+    id: words
+    attributes:
+      label: Row id or the words you saw / رقم السطر أو الكلمات
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where in the game / المكان
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Problem type / نوع المشكلة
+      options: [cut, reversed, english, meaning, boxes, crash]
+    validations:
+      required: true
+  - type: input
+    id: build
+    attributes:
+      label: Version / الإصدار
+  - type: textarea
+    id: note
+    attributes:
+      label: Notes / ملاحظات
+  - type: markdown
+    attributes:
+      value: Please do not attach game files. / لا ترفق ملفات اللعبة.

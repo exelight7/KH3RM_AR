@@ -1,5 +1,14 @@
 # Changelog
 
+## TESTER-KIT (2026-10-10)
+- `tools/find_text.py` (Arabic with/without ال, pre-shaped input via the shaper, `--ids`, `--around`), `tools/apply_feedback.py` -> `review/FEEDBACK_REPORT.md`, tests for both (added to refresh.bat), `state/FEEDBACK_TEMPLATE.tsv`.
+- `docs/TESTER_GUIDE.md`, `FAQ.md`, `.github/ISSUE_TEMPLATE/bug_report.yml` (public; added to make_public).
+- 0.9.0 draft: real counts (5 unreadable HUD textures, 47 styled logos, 16 minigame HUDs).
+
+## LIGHT-1 (2026-10-10)
+- `stats.py` / `make_review.py`: category "images" (18 rows of `images_strings.tsv`, own row after TOTAL; other numbers unchanged); `tsvlib.load_images_strings`. Validator on those rows: 0 flags.
+- `docs/RELEASE_DRAFT_0.9.0.md` (AR + EN, not published), `tools/fill_release_notes.py` (dry run), supervisor test report section in `technical/IMAGES_MASS_CHECKLIST.md`.
+
 ## IMAGES-MASS (2026-10-10)
 - Images pak `pakchunk98-arabic-images_P.pak` (194 textures, 1,240 text boxes; installed beside the text pak, not released): command menu headers of all 14 world styles + the dance/ship copies, chain/shotlock/Data Greeting/Premium/Slideshow labels, 128 of 150 Game Help pictures, 25 area banners, 9 Classic Kingdom LCD textures, 11 shared HUD textures (English cell only). 193 of the 234-texture repaint plan = 82.5 %; the rest listed with reasons in `technical/IMAGES_STILL_ENGLISH.tsv`.
 - `tools/texture_text.py` mass pipeline: erase box separate from the text box, fills `heal` (screenshot labels), `inpaint` (plates), `holes` + effect `knockout` (cut-out plates), row-gradient fill colour, 1 px stroke for text >= 24 px, linked/grouped sizes, `tpl:` template sources, per-texture checks (re-parse, size/format/mips, changed blocks, >= 2 px margin, no pixel changed outside the boxes) and before/after sheets.

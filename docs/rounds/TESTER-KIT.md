@@ -1,0 +1,2 @@
+# TESTER-KIT (Sonnet 5.5, LOW)
+Tasks: tools/find_text.py (+test); docs/TESTER_GUIDE.md, state/FEEDBACK_TEMPLATE.tsv, tools/apply_feedback.py (+test); public FAQ.md + .github/ISSUE_TEMPLATE/bug_report.yml via make_public; fix 0.9.0 draft counts; refresh, secret_check, map, changelog, commit "TESTER-KIT", publish.bat. Arabic only from project files or escapes (generated via a Buckwalter-to-Arabic helper). No builds/installs/downloads; game folder untouched.
