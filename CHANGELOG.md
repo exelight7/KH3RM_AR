@@ -1,5 +1,8 @@
 # Changelog
 
+## RELEASE-080 (2026-10-10)
+- Installer `tools/installer/` (WPF .NET 8, single self-contained EXE, embedded BUILD-5 pak, SHA256 check, Steam/Epic detection, Arabic/English UI, original XAML art, `--selftest`/`--render`/`--icon`); release v0.8.0 (pre-release) prepared in `out/release/v0.8.0/`; README Download section; `tools/gh-*` ignored.
+
 ## PUBLISH-1 (2026-10-10)
 - Public repository https://github.com/exelight7/KH3RM_AR: `tools/make_public.py` (Arabic-only export), `tools/public_check.py` + tests, `tools/publish.bat`, `tools/make_release.py`, README (Arabic + English), pre-release `v0.5-test (BUILD-5)`.
 

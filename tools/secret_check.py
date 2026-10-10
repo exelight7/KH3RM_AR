@@ -3,7 +3,7 @@ import os, re, subprocess, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BAD_EXT = ('.pak', '.uasset', '.uexp', '.ubulk', '.ttf', '.otf', '.usm', '.locres', '.exe', '.dll', '.bin', '.umap')
-BAD_PREFIX = ('extracted/', 'out/builds/', 'out/old/', 'tools/KEY_SOURCE.txt', 'tools/repak-')
+BAD_PREFIX = ('extracted/', 'out/builds/', 'out/old/', 'tools/KEY_SOURCE.txt', 'tools/repak-', 'tools/gh-', 'tools/installer/bin/', 'tools/installer/obj/')
 git = lambda *a: subprocess.run(['git', '-C', ROOT, *a], capture_output=True, check=True).stdout
 
 

@@ -17,7 +17,12 @@
 
 (الأرقام من `state/STATS.md`، المجموع 17222 نصا.)
 
-### التثبيت
+### التنزيل
+**[نزّل الإصدار 0.8.0 (نسخة تجريبية)](https://github.com/exelight7/KH3RM_AR/releases/tag/v0.8.0)**: شغّل `KH3RM_AR_Setup_v0.8.0.exe`، وسيجد المثبّت مجلد اللعبة (Steam أو Epic) وينسخ الملف ويتحقق منه. إن ظهرت نافذة SmartScreen (البرنامج غير موقّع): «مزيد من المعلومات» ثم «تشغيل على أي حال».
+
+![واجهة المثبّت](docs/img/ui_ar.png)
+
+### التثبيت اليدوي
 1. نزّل `pakchunk99-arabic_P.pak` من صفحة [Releases](../../releases) (أو شغّل `INSTALL_AR.bat` وسيفعل الخطوات تلقائيا).
 2. انسخه إلى مجلد `Content\Paks\~mods` داخل مجلد اللعبة، مثلا:
    `C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS III\KINGDOM HEARTS III\Content\Paks\~mods`
@@ -69,7 +74,12 @@
 
 (From `state/STATS.md`, 17222 strings in total.)
 
-### Install
+### Download
+**[Get v0.8.0 (pre-release)](https://github.com/exelight7/KH3RM_AR/releases/tag/v0.8.0)**: run `KH3RM_AR_Setup_v0.8.0.exe`; it finds the game folder (Steam or Epic), copies the pak and verifies it. If Windows SmartScreen appears (the app is unsigned): More info > Run anyway.
+
+![Installer](docs/img/ui_ar.png)
+
+### Manual install
 1. Download `pakchunk99-arabic_P.pak` from [Releases](../../releases) (or run `INSTALL_AR.bat`, which does the steps below).
 2. Copy it into the game's `Content\Paks\~mods` folder, e.g.
    `C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS III\KINGDOM HEARTS III\Content\Paks\~mods`

@@ -1,0 +1,43 @@
+<UserControl x:Class="Kh3rmAr.Emblem"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Original art: a glowing gold heart with a keyhole. 200 x 200 design units. -->
+    <Viewbox Stretch="Uniform">
+        <Canvas Width="200" Height="200">
+            <Ellipse Canvas.Left="-10" Canvas.Top="-10" Width="220" Height="220">
+                <Ellipse.Fill>
+                    <RadialGradientBrush>
+                        <GradientStop Color="#55FFD36B" Offset="0"/>
+                        <GradientStop Color="#22F2B84B" Offset="0.55"/>
+                        <GradientStop Color="#00F2B84B" Offset="1"/>
+                    </RadialGradientBrush>
+                </Ellipse.Fill>
+            </Ellipse>
+            <!-- soft glow copy -->
+            <Path Canvas.Left="32" Canvas.Top="38" Width="136" Height="118" Stretch="Fill" Fill="#FFE08A" Opacity="0.75"
+                  Data="M 50,85 C 10,55 0,30 0,20 C 0,5 12,0 25,0 C 38,0 47,8 50,18 C 53,8 62,0 75,0 C 88,0 100,5 100,20 C 100,30 90,55 50,85 Z">
+                <Path.Effect><BlurEffect Radius="18"/></Path.Effect>
+            </Path>
+            <!-- heart -->
+            <Path Canvas.Left="35" Canvas.Top="40" Width="130" Height="112" Stretch="Fill" StrokeThickness="2.5"
+                  Data="M 50,85 C 10,55 0,30 0,20 C 0,5 12,0 25,0 C 38,0 47,8 50,18 C 53,8 62,0 75,0 C 88,0 100,5 100,20 C 100,30 90,55 50,85 Z">
+                <Path.Fill>
+                    <RadialGradientBrush Center="0.35,0.3" GradientOrigin="0.3,0.25" RadiusX="0.9" RadiusY="0.9">
+                        <GradientStop Color="#FFFBE3" Offset="0"/>
+                        <GradientStop Color="#FFD66E" Offset="0.45"/>
+                        <GradientStop Color="#E0932A" Offset="1"/>
+                    </RadialGradientBrush>
+                </Path.Fill>
+                <Path.Stroke>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="#FFFFFF" Offset="0"/>
+                        <GradientStop Color="#F2B84B" Offset="1"/>
+                    </LinearGradientBrush>
+                </Path.Stroke>
+            </Path>
+            <!-- keyhole -->
+            <Ellipse Canvas.Left="88" Canvas.Top="72" Width="24" Height="24" Fill="#101A44"/>
+            <Polygon Points="93,90 107,90 113,122 87,122" Fill="#101A44"/>
+        </Canvas>
+    </Viewbox>
+</UserControl>

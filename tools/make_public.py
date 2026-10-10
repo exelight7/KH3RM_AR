@@ -34,7 +34,7 @@ def doc(rel, keys, src=None):
 def tools_copy(rel):
     if os.path.isdir(os.path.join(ROOT, rel)):
         for f in sorted(os.listdir(os.path.join(ROOT, rel))):
-            if f.startswith('repak-') or f in ('__pycache__', 'KEY_SOURCE.txt'): continue
+            if f.startswith(('repak-', 'gh-')) or f in ('__pycache__', 'KEY_SOURCE.txt', 'bin', 'obj'): continue
             tools_copy(rel + '/' + f)
     else:
         os.makedirs(os.path.dirname(os.path.join(PUB, rel)), exist_ok=True)
@@ -82,8 +82,12 @@ def main():
     tech = TECH + sorted(os.path.basename(f) for f in glob.glob(os.path.join(ROOT, 'technical', '*CHECKLIST.md')))
     for f in tech: doc('technical/' + f, keys)
     n = translation(keys)
+    img = os.path.join(ROOT, 'out', 'release', 'v0.8.0', 'ui_ar.png')   # ponytail: hard-coded to the current release
+    if os.path.exists(img):
+        os.makedirs(os.path.join(PUB, 'docs', 'img'), exist_ok=True)
+        shutil.copyfile(img, os.path.join(PUB, 'docs', 'img', 'ui_ar.png'))
     for f in sorted(os.listdir(os.path.join(ROOT, 'tools'))):
-        if f.startswith('repak-') or f in ('__pycache__', 'KEY_SOURCE.txt'): continue
+        if f.startswith(('repak-', 'gh-')) or f in ('__pycache__', 'KEY_SOURCE.txt', 'bin', 'obj'): continue
         tools_copy('tools/' + f)
     for f in sorted(glob.glob(os.path.join(ROOT, '*.bat'))): tools_copy(os.path.basename(f))
     print(f'make_public: {n} translation rows written to {PUB}')

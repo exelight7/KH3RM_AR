@@ -455,3 +455,6 @@ eview2_page.py (dump/fix/mark/flags N; pages = 300 translated rows in story orde
 2026-10-10 PUBLISH-1 T4-T5 push+release: pushed bd4d553 to exelight7/KH3RM_AR main (no auth prompt); README Arabic+English; out\release\ prepared (pak sha e43d8f97 = installed copy, SHA256.txt, INSTALL_AR.bat, REMOVE_AR.bat tested on a temp tree); gh not installed, Release left to the user (steps in LAST_REPORT).
 2026-10-10 PUBLISH-1 T6-T7 rules+verify: tools\publish.bat, RULES.md and PROJECT_MAP 3 4 8 10; ls-remote shows main; 190 files on origin/main, forbidden scan clean.
 2026-10-10 PUBLISH-1 T8 close: refresh 0 ERR, secret_check PASS, private commit (no push).
+2026-10-10 RELEASE-080 T1 installer: tools\installer (WPF .NET 8, NuGet.config for nuget.org), embeds BUILD-5 pak (sha e43d8f97 = ~mods copy = SWAP_LOG), original XAML art, ar/en UI, app.ico drawn by us; EXE 70.9 MB.
+2026-10-10 RELEASE-080 T2 tests: --selftest 22/22 PASS (steam vdf/acf, epic dat, browse, process check, install/remove on temp tree); ui_ar.png and ui_en.png rendered with --render.
+2026-10-10 RELEASE-080 T3 release prep: gh 2.102.0 official zip (sha ae64e556...) in tools\gh-2.102.0, not logged in; assets + RELEASE_NOTES.md ready; waiting for user gh auth login.

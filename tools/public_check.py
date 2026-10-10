@@ -6,7 +6,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import secret_check
 ROOT = secret_check.ROOT
 BAD_EXT = secret_check.BAD_EXT + ('.ubulk', '.umap', '.pak')
-BAD_PREFIX = ('extracted/', 'out/', 'tools/repak-', 'tools/KEY_SOURCE.txt', 'review/gpt/', 'review/script/', 'review/md/',
+BAD_PREFIX = ('extracted/', 'out/', 'tools/repak-', 'tools/gh-', 'tools/installer/bin/', 'tools/installer/obj/', 'tools/KEY_SOURCE.txt', 'review/gpt/', 'review/script/', 'review/md/',
               'screenshots/', '.codex/', '.serena/', 'state/LAST_REPORT.md', 'public_repo/')
 MAX = 25 * 1024 * 1024
 LATIN = re.compile(r"(?:[A-Za-z][A-Za-z'.,!?-]*\s+){5}[A-Za-z][A-Za-z'.,!?-]*")
