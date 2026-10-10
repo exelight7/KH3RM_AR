@@ -1,6 +1,6 @@
 """SWAP-1/TEST50/BUILD-1/FULL-1/TRANS-4/BUILD-4: generate SWAP_TO_F1.bat, SWAP_TO_F2.bat, SWAP_TO_TEST50.bat, SWAP_TO_BUILD1.bat,
 SWAP_TO_BUILD2.bat, SWAP_TO_BUILD3.bat, SWAP_TO_BUILD4.bat, SWAP_TO_BUILD5.bat, SWAP_TO_BUILD6.bat,
-REMOVE_ARABIC.bat in the project root (CRLF)."""
+REMOVE_ARABIC.bat, SWAP_TO_IMAGES_PILOT.bat, REMOVE_IMAGES_PILOT.bat (FINAL-1: touch only pakchunk98-arabic-images_P.pak) in the project root (CRLF)."""
 import os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # the .bat files stay pure ASCII (cmd mis-parses UTF-8 bytes after chcp 65001); Arabic lines live in tools\swap_msgs\*.txt and are shown with `type`
@@ -14,6 +14,8 @@ MSGS = {
     'done_BUILD4': 'تم: BUILD-4 مثبت الآن / Done: BUILD-4 installed',
     'done_BUILD5': 'تم: BUILD-5 مثبت الآن / Done: BUILD-5 installed',
     'done_BUILD6': 'تم: BUILD-6 مثبت الآن / Done: BUILD-6 installed',
+    'done_IMAGES_PILOT': 'تم: تجربة الصور مثبتة الآن بجانب التعريب النصي / Done: image pilot installed next to the text pak',
+    'done_REMOVE_IMAGES': 'تم: حُذفت تجربة الصور، والتعريب النصي باقٍ / Done: image pilot removed, text pak kept',
     'done_REMOVE': 'تم: حُذف التعريب من اللعبة / Done: Arabic removed',
     'running': 'اللعبة تعمل الآن. أغلقها ثم شغّل هذا الملف من جديد. / The game is running. Close it, then run this file again.',
     'permfail': 'فشل: لا توجد صلاحية على مجلد اللعبة / FAILED: no permission on the game folder',
@@ -37,8 +39,8 @@ set "GOT=-"
 tasklist /FI "IMAGENAME eq KINGDOM HEARTS III*" 2>nul | find /I "KINGDOM HEARTS III" >nul
 if not errorlevel 1 goto running
 @CHECKSRC@
-del /q "%MODS%\pakchunk99-*_P.pak" 2>nul
-if exist "%MODS%\pakchunk99-*_P.pak" goto perm
+del /q "%MODS%\@DEL@" 2>nul
+if exist "%MODS%\@DEL@" goto perm
 '''
 SWAP = r'''if not exist "%MODS%" mkdir "%MODS%" 2>nul
 copy /y "%SRC%" "%MODS%\" >nul 2>nul
@@ -57,7 +59,7 @@ REMOVE = r'''dir /b "%MODS%" 2>nul | findstr "^" >nul
 if errorlevel 1 rd "%MODS%" 2>nul
 call :log OK
 echo.
-type "@MSG@done_REMOVE.txt"
+type "@MSG@done_%ACT%.txt"
 goto end
 '''
 TAIL = r'''
@@ -121,7 +123,12 @@ def write(name, body):
     s = (body + TAIL).replace('@TAB@', TAB).replace('@MSG@', MSG)
     with open(os.path.join(ROOT, name), 'w', encoding='utf-8', newline='') as f:
         f.write(s.replace('\n', '\r\n'))
+TEXT = 'pakchunk99-*_P.pak'                  # text builds: any of our pakchunk99 paks
+PILOT = 'pakchunk98-arabic-images_P.pak'      # FINAL-1 image pilot: only this one file, never the text pak
 for v in B:
-    h = HEAD.replace('@ACT@', v).replace('@SRC@', B[v]).replace('@WANT@', H[v]).replace('@CHECKSRC@', CHECK)
+    h = HEAD.replace('@ACT@', v).replace('@SRC@', B[v]).replace('@WANT@', H[v]).replace('@CHECKSRC@', CHECK).replace('@DEL@', TEXT)
     write(f'SWAP_TO_{v}.bat', h + SWAP)
-write('REMOVE_ARABIC.bat', HEAD.replace('@ACT@', 'REMOVE').replace('@SRC@', '-').replace('@WANT@', '-').replace('@CHECKSRC@', '') + REMOVE)
+write('REMOVE_ARABIC.bat', HEAD.replace('@ACT@', 'REMOVE').replace('@SRC@', '-').replace('@WANT@', '-').replace('@CHECKSRC@', '').replace('@DEL@', TEXT) + REMOVE)
+write('SWAP_TO_IMAGES_PILOT.bat', HEAD.replace('@ACT@', 'IMAGES_PILOT').replace('@SRC@', r'%~dp0out' + chr(92) + r'builds' + chr(92) + 'IMAGES-PILOT' + chr(92) + PILOT)
+      .replace('@WANT@', '75a944612fab129687e15a7d77dadbd843a68ecde21810ae1cd0c35fea84853e').replace('@CHECKSRC@', CHECK).replace('@DEL@', PILOT) + SWAP)
+write('REMOVE_IMAGES_PILOT.bat', HEAD.replace('@ACT@', 'REMOVE_IMAGES').replace('@SRC@', '-').replace('@WANT@', '-').replace('@CHECKSRC@', '').replace('@DEL@', PILOT) + REMOVE)

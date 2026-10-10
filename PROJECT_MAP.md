@@ -23,7 +23,9 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 
 - **Phase:** BUILD-6 installed and released as **0.8.1** (2026-10-10): `pakchunk99-arabic_P.pak` sha f6e8be85..., 4,889,997 B, in `~mods` via `SWAP_TO_BUILD6.bat`. 95.3 % of rows installed (16,415 / 17,222); the 807 `todo` rows carry a `skip:` note. Verified 0.6 %.
 - **Last round:** FINAL-1 part 1 (2026-10-10). Row 05051 fixed (`review\corrections\applied\final1_fix.tsv`); BUILD-6 = the BUILD-5 pipeline unchanged (`tools\build_build6.py` wraps `build_build4.py`); 6 entries differ from BUILD-5 (01392 01505 03913 05051 05962 06084, list in `out\builds\BUILD-6\diff_vs_build5.tsv`); 73 files SHA256 PASS, round trip 16,391 exact + 24 same-visual + 0 fail, validate 0 ERR. Installer 0.8.1 (21/21 self tests PASS). Release **0.8.1** (pre-release, 5 assets verified): https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.1 . Details: `state\LAST_REPORT.md`.
-- **Next step:** FINAL-1 part 2 (image pilot: inventory, texture codec, text renderer, 3-texture pilot pak `pakchunk98-arabic-images_P.pak`); screenshots per `technical\BUILD6_CHECKLIST.md` (6 places).
+- **Image pilot (FINAL-1 part 2, 2026-10-10, installed, NOT released):** `out\builds\IMAGES-PILOT\pakchunk98-arabic-images_P.pak` (sha 75a94461..., 307,669 B) sits in `~mods` NEXT TO the BUILD-6 text pak (`SWAP_TO_IMAGES_PILOT.bat`; `REMOVE_IMAGES_PILOT.bat` deletes only the pilot). 3 textures, 16 text boxes: command menu header `HudCmdTextTT01_loc` (Twilight Town style), area banner `mapName_tt01` (The Neighborhood), Game Help picture `HelpItem01600` (Synthesis). Inventory: 324 textures with English (`technical\IMAGES_INVENTORY.tsv`, plan `technical\IMAGES_PLAN.md`); codec round trip byte-identical on 18 textures.
+- **What the user must screenshot:** the 3 pilot places in `technical\IMAGES_PILOT_CHECKLIST.md` (command header in Twilight Town, the area banner on entering The Neighborhood, Game Help › Synthesis picture) + `technical\BUILD6_CHECKLIST.md` (6 places).
+- **Next step:** IMAGES-MASS (rect lists by priority: banners, command headers, battle HUD cells, autosave; then tutorial pictures; then minigames/styled logos) → release 0.9.0 → user screenshots → 1.0.0.
 - **Public repository:** https://github.com/exelight7/KH3RM_AR (README Download points at 0.8.1, roadmap 0.8.x text fixes / 0.9.0 images / 1.0.0 after full testing). See section 10.
 - **Releases:** 0.8.0 (BUILD-5, RELEASE-080) and 0.8.1 (BUILD-6, FINAL-1), both pre-release, tags without "v".
 
@@ -81,6 +83,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | 2026-10-10 | Release tag names have NO "v": `0.8.0`, future rounds use `0.8.x` (asset file names keep `v`, e.g. `KH3RM_AR_Setup_v0.8.0.exe`); Release 0.8.0 is live as pre-release with 5 assets (sizes/SHA256 verified) | user, RELEASE-080b |
 | 2026-10-10 | BUILD-6 = the BUILD-5 pipeline unchanged (REVIEW-3 + row 05051); release 0.8.1 created on the user's explicit FINAL-1 instruction before the BUILD-6 checklist screenshots (exception to the PUBLISH-1 release rule, this round only) | user, FINAL-1 |
 | 2026-10-10 | Arabic in round prompts arrives as \uXXXX escapes; the tool layer may turn them into Arabic before Python runs, so fragments are decoded from hex code points (`chr(int(h, 16))`) | executor, FINAL-1 |
+| 2026-10-10 | Images: textures are edited in place (same format, size, mips; only changed 4x4 blocks re-encoded) and shipped in a separate optional pak `pakchunk98-arabic-images_P.pak` beside the text pak (the only case with two of our paks in `~mods`); brand wordmarks (KINGDOM HEARTS III, Re Mind, Classic Kingdom titles, VERUM REX, world logos such as Monsters, Inc.), key names, credits and language names keep English; Arabic text comes from the translation rows / glossary, drawn with Segoe UI | user, FINAL-1 |
 
 ## 5. Folders and key files (auto)
 
@@ -91,6 +94,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `PROJECT_MAP.md` | PROJECT_MAP — KH3 Arabic (start here) |
 | `README.md` | تعريب Kingdom Hearts III + Re Mind |
 | `REMOVE_ARABIC.bat` | chcp 65001 >nul |
+| `REMOVE_IMAGES_PILOT.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD1.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD2.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD3.bat` | chcp 65001 >nul |
@@ -99,6 +103,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `SWAP_TO_BUILD6.bat` | chcp 65001 >nul |
 | `SWAP_TO_F1.bat` | chcp 65001 >nul |
 | `SWAP_TO_F2.bat` | chcp 65001 >nul |
+| `SWAP_TO_IMAGES_PILOT.bat` | chcp 65001 >nul |
 | `SWAP_TO_TEST50.bat` | chcp 65001 >nul |
 | `docs\` | project docs: INDEX (doc list), SUPERVISOR (full supervisor instructions) |
 | `docs\INDEX.md` | Docs index |
@@ -135,12 +140,17 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `technical\BUILD5_CHECKLIST.md` | قائمة فحص BUILD-5 |
 | `technical\BUILD6_CHECKLIST.md` | قائمة فحص BUILD-6 |
 | `technical\FIELD_WIDTHS.tsv` | TSV, columns: prefix, keys, movie, field, font, font_id, size_pt, x0, x1, y0, y1, max_lines, reflow, evidence |
+| `technical\IMAGES_INVENTORY.tsv` | TSV, columns: asset, group, size, format, mips, storage, pak, screen, english, plan, priority |
+| `technical\IMAGES_PILOT_CHECKLIST.md` | قائمة فحص تجربة الصور (IMAGES-PILOT) |
+| `technical\IMAGES_PLAN.md` | IMAGES_PLAN — English text inside textures (FINAL-1 part 2) |
 | `technical\RECON_KH3.md` | RECON_KH3 — Kingdom Hearts III + Re Mind (Steam), read-only recon |
 | `technical\SHAPER_SPEC.md` | SHAPER_SPEC — Arabic pre-shaper for KH3 Scaleform text |
 | `technical\TAGS.md` | TAGS — markup in KH3 English text (VERIFIED from `extracted\text_en.tsv`, 17,222 entries) |
 | `technical\TEST50_CHECKLIST.md` | قائمة فحص TEST50 |
 | `technical\TEXT_COUNTS.tsv` | TSV, columns: level, name, category, entries, empty, unique_texts, words, chars |
 | `technical\TEXT_COVERAGE.md` | TEXT_COVERAGE — every source of visible text (FULL-1) |
+| `technical\images_rects.tsv` | TSV, columns: asset, box, source, fill, align, effect, scale, pad, rotate, note |
+| `technical\images_words.tsv` | TSV, columns: asset, screen, english, plan, priority |
 | `technical\theater_order.tsv` | TSV, columns: event, theater_scene_key |
 | `tools\` | all scripts (Python 3.12, run from the project root) + repak |
 | `tools\TOOLS.md` | Tools (official sources only) |
@@ -164,6 +174,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `tools\gfx_layout.py` | Read-only (BUILD-4): where a Scaleform movie places its characters. For every DefineSprite (tag 39) and the root |
 | `tools\gloss3_apply.py` | One-time (TRANS-1 part 1): apply supervisor decisions on the pending glossary conflicts. Do not re-run. |
 | `tools\gloss_hits.py` | TRANS-2 helper: glossary terms (approved, not type menu unless exact row match) that occur in a dump file. |
+| `tools\images_inventory.py` | Read-only (FINAL-1 part 2): inventory of the textures that show English text. |
 | `tools\import_kh2_glossary.py` | One-time/idempotent (GLOSS-1): import translation\kh2_glossary.md (finished KH2 project, Arabic Markdown tables) |
 | `tools\locres.py` | UE4 .locres reader/writer (legacy v0 and compact v1, as shipped by KH3 / UE 4.17). |
 | `tools\make_glossary.py` | translation\glossary.tsv (source of truth) -> recount kh3_count/example_ids from translation\<cat>\*.tsv EN |
@@ -195,6 +206,8 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `tools\test_validate.py` | unit tests for validate.py |
 | `tools\text_counts.py` | Read-only: entry/word counts per category for the English locres export (extracted/text_en.tsv). |
 | `tools\text_coverage.py` | Read-only (FULL-1 Part D): inventory of every source of player-visible text in the installed game. |
+| `tools\texture_codec.py` | UE4.17 cooked Texture2D (.uasset/.uexp[/.ubulk]) reader/writer + pixel codec (FINAL-1). |
+| `tools\texture_text.py` | Repaint English text inside a texture with Arabic (FINAL-1 part 2, image pilot). |
 | `tools\trans1_report.py` | TRANS-1: write state\LAST_REPORT.md (data parts generated from translation\menus_ui). One-time helper. |
 | `tools\trans2_report.py` | TRANS-2: write state\LAST_REPORT.md (data parts generated from translation\ and review\corrections\applied). One-time helper. |
 | `tools\trans4_page.py` | TRANS-4 helper: story dialogue and cutscene subtitles page by page in the order of review\script\ (script_NNN.md, |
@@ -230,7 +243,10 @@ All commands from the project root (`C:\filessss\mewo\kh3fm-arabic`).
 - **Build the TEST50 test pak:** `python -I tools\build_test50.py` → `out\builds\TEST50\pakchunk99-test50_P.pak` + `pak_verify_sha256.tsv` + `rows.tsv` (needs font_fields.tsv). Older: `tools\build_arabictest2.py` (F1/F2 title paks)
 - **Measure text fields of a movie:** `python -I tools\gfx_edittext.py <movie.uexp>...`
 - **Offline join/size preview:** `python -I tools\preview_text.py <TresFont.uasset> 3 30 2 out.png "نص"`
-- **Swap the test pak (double-click in the project root, close the game first):** `SWAP_TO_BUILD1.bat` / `SWAP_TO_TEST50.bat` / `SWAP_TO_F1.bat` / `SWAP_TO_F2.bat` delete our `pakchunk99-*_P.pak` from `~mods`, copy the BUILD-1 pak, the TEST50 pak or the ARABIC-TEST-2 F1/F2 pak from `out\builds\`, verify SHA256 against the build and print Arabic + English "Done"..."v"..."0.8.1 (pre-release)" --notes-file out\release\v0.8.1\RELEASE_NOTES.md <5 assets>` (user logged in), then `gh release view 0.8.1 --json assets` against `SHA256SUMS.txt`. The README download version is `RELEASE` in `tools\make_public.py`.
+- **Swap the test pak (double-click in the project root, close the game first):** `SWAP_TO_BUILD1.bat` / `SWAP_TO_TEST50.bat` / `SWAP_TO_F1.bat` / `SWAP_TO_F2.bat` delete our `pakchunk99-*_P.pak` from `~mods`, copy the BUILD-1 pak, the TEST50 pak or the ARABIC-TEST-2 F1/F2 pak from `out\builds\`, verify SHA256 against the build and print Arabic + English "Done" (it asks for admin rights only if the copy fails for permissions). `REMOVE_ARABIC.bat` deletes our pak and the empty `~mods`. All three refuse to run while KINGDOM HEARTS III is running and append to `state\SWAP_LOG.tsv` (time, action, hash, result). Scripts are generated by `tools\make_swap_scripts.py` (pure ASCII; messages in `tools\swap_msgs\`). Other paks: copy by hand into `C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS III\KINGDOM HEARTS III\Content\Paks\~mods\`, only one of ours at a time (`technical\RECON_KH3.md` §12).
+- **Images (FINAL-1):** inventory `python -I tools\images_inventory.py` (read-only; extracts missing textures into `extracted\assets`) → `technical\IMAGES_INVENTORY.tsv` + `out\builds\IMAGES\ref\` PNGs/contact sheets (words by eye in `technical\images_words.tsv`); codec `python -I tools\texture_codec.py info|png|roundtrip`; repaint: rects in `technical\images_rects.tsv`, `python -I tools\texture_text.py preview` (before/after PNGs) / `pilot` (pak + verify) / `--installed`; install `SWAP_TO_IMAGES_PILOT.bat`, remove `REMOVE_IMAGES_PILOT.bat` (both touch only `pakchunk98-arabic-images_P.pak`; the pilot sha is pinned in `tools\make_swap_scripts.py`).
+- **Commit:** after `tools\refresh.bat` exits 0; `tools\secret_check.py` must PASS.
+- **Installer / release (RELEASE-080):** build the EXE: `cd tools\installer` then `dotnet publish -c Release -o ..\..\out\release\vX\publish` (needs .NET 8 SDK; embeds `out\builds\BUILD-6\pakchunk99-arabic_P.pak` since 0.8.1, override with `-p:PakPath=...`; for a new BUILD update `Core.ExpectedSha`, `Core.Version`, csproj `Version` + `PakPath` and the SelfTest label). Tests: `KH3RM_AR_Setup.exe --selftest out.txt`; screenshots: `--render ar|en out.png`; icon: `--icon app.ico`. GitHub CLI 2.102.0 (official zip, sha ae64e556...) is in `tools\gh-2.102.0\x\bin\gh.exe` (gitignored); release (tag without "v"..."0.8.1 (pre-release)" --notes-file out\release\v0.8.1\RELEASE_NOTES.md <5 assets>` (user logged in), then `gh release view 0.8.1 --json assets` against `SHA256SUMS.txt`. The README download version is `RELEASE` in `tools\make_public.py`.
 
 ## 7. Numbers (auto)
 
@@ -253,7 +269,7 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 - Row 15964 (LV UP!) is installed (BUILD-5/6) (1,067 of 1,621 units in HudRight #109); confirm by screenshot. Supervisor review still open: lyrics (own MSA wording), the Re Mind batch. (Unsure rows decided in REVIEW-3; row 05051 fixed and installed in FINAL-1; 01302/01304 addressee gender not clear from the script, left feminine.)
 - Row 05955 uses the feminine «حاملة كيبلايد» (glossary second form); its GLOSS warning is accepted.
 - Field guesses to confirm in-game: field/battle voice = Subtitle #1; 49 "(EN widest)" namespaces (tutorial popups, game-over hints, gummi menus, mission/settings help) break at their widest mid-sentence EN line; settings graphics/keyboard and the streaming notice have only engine-wrapped EN paragraphs (no width evidence).
-- Images/videos with English words: 315 assets ≈ 958 words (`technical\TEXT_COVERAGE.md` §5), later texture phase; signage decals in maps not counted.
+- Image pilot (FINAL-1): waiting for the 3 screenshots (`technical\IMAGES_PILOT_CHECKLIST.md`); open: banner font weight/size (Segoe UI Regular is lighter than the English display faces), glow strength, plain Arabic vs. effects for the 47 styled logos; 1 texture (`SlideShowTx_loc`) still to read at full size; 3D map signage and videos not covered. Inventory: 324 textures (`technical\IMAGES_PLAN.md`).
 - `؟` still unproven (ASCII `?` kept, now a validator ERR); tutorial control lists in the flush-left Game Help field.
 - Glossary: Tangled = متشابك (supervisor to verify); 51 TRANS-3 proposed terms; tutorial line "جرب إلقاء نار" keeps the bare command name.
 - Installer is unsigned (SmartScreen warning); no art file supplied yet (`tools\installer\art\`); Epic detection is tested on fake files only.
@@ -287,7 +303,7 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 - 2026-10-10 **PUBLISH-1** (6 entries) — last: T8 close: refresh 0 ERR, secret_check PASS, private commit (no push).
 - 2026-10-10 **RELEASE-080** (3 entries) — last: T3 release prep: gh 2.102.0 official zip (sha ae64e556...) in tools\gh-2.102.0, not logged in; assets + RELEASE_NOTES.md ready; waiting for user gh auth login.
 - 2026-10-10 **REVIEW-3** (3 entries) — last: T8 close: refresh, secret_check, PROJECT_MAP 3 4 8 + CHANGELOG, private commit. BUILD-6 / v0.8.1 needed to install.
-- 2026-10-10 **FINAL-1** (12 entries) — last: T4 notes: Arabic then English, "..." (REVIEW-3 5 rows, 05051, STATS numbers), SmartScreen/legal/font notes kept.
+- 2026-10-10 **FINAL-1** (28 entries) — last: DONE; next: user screenshots of the pilot, then IMAGES-MASS -> 0.9.0 -> screenshots -> 1.0.0.
 
 ## 10. Public repository
 

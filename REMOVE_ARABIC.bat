@@ -16,7 +16,7 @@ dir /b "%MODS%" 2>nul | findstr "^" >nul
 if errorlevel 1 rd "%MODS%" 2>nul
 call :log OK
 echo.
-type "%~dp0tools\swap_msgs\done_REMOVE.txt"
+type "%~dp0tools\swap_msgs\done_%ACT%.txt"
 goto end
 
 :running

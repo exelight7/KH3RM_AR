@@ -9,7 +9,7 @@ import secret_check
 ROOT = secret_check.ROOT
 PUB = os.path.join(ROOT, 'public_repo')
 KEEP = {'.git', 'LICENSE'}                         # remote content we never touch
-TECH = ['RECON_KH3.md', 'SHAPER_SPEC.md', 'FIELD_WIDTHS.tsv', 'TAGS.md']   # + *CHECKLIST.md
+TECH = ['RECON_KH3.md', 'SHAPER_SPEC.md', 'FIELD_WIDTHS.tsv', 'TAGS.md', 'IMAGES_PLAN.md']   # + *CHECKLIST.md
 COLS = ['id', 'namespace', 'key', 'source_hash', 'AR', 'status', 'note']
 NOTE_ID = 'state/PROGRESS.md'
 RELEASE = '0.8.1'                                  # README download link + installer screenshot

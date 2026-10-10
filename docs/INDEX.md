@@ -22,6 +22,8 @@ Every round prompt is saved here verbatim as `docs\rounds\<ROUND>.md` (a resumed
 - [BUILD2_CHECKLIST.md](../technical/BUILD2_CHECKLIST.md) — in-game checks for the installed BUILD-2
 - [BUILD5_CHECKLIST.md](../technical/BUILD5_CHECKLIST.md) — in-game checks for BUILD-5 (8 places)
 - [BUILD6_CHECKLIST.md](../technical/BUILD6_CHECKLIST.md) — in-game checks for the installed BUILD-6 / release 0.8.1 (6 places)
+- [IMAGES_PLAN.md](../technical/IMAGES_PLAN.md) — English text inside textures: inventory summary, keep-English list, codec/renderer, pilot, next steps (FINAL-1); full list `technical\IMAGES_INVENTORY.tsv` (private)
+- [IMAGES_PILOT_CHECKLIST.md](../technical/IMAGES_PILOT_CHECKLIST.md) — in-game checks for the image pilot pak (3 places) and how to remove it
 
 ## state\
 - [PROGRESS.md](../state/PROGRESS.md) — round log

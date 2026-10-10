@@ -472,3 +472,18 @@ eview2_page.py (dump/fix/mark/flags N; pages = 300 translated rows in story orde
 2026-10-10 FINAL-1 T3 assets: out\release\v0.8.1\ (exe, pak, SHA256SUMS.txt, ui_ar.png, ui_en.png, RELEASE_NOTES.md).
 2026-10-10 FINAL-1 T4 release: gh release create 0.8.1 --prerelease, title "0.8.1 (pre-release)"..."what changed since 0.8.0" (REVIEW-3 5 rows, 05051, STATS numbers), SmartScreen/legal/font notes kept.
 2026-10-10 FINAL-1 T5 public: README template {{VER}} = RELEASE 0.8.1 in make_public.py, roadmap section (ar+en), docs\INDEX + PROJECT_MAP 3 4 6 8 + CHANGELOG before publishing; refresh 0 ERR, secret_check PASS.
+2026-10-10 FINAL-1 T5 publish: publish.bat exit 0, public commit 739e622 (sync: FINAL-1), 211 files on origin/main, no pak/uasset/exe; only docs/img/ui_ar.png as image.
+2026-10-10 FINAL-1 T6 close: refresh 0 ERR, secret_check PASS, LAST_REPORT part 1, private commit "...".
+2026-10-10 FINAL-1 PART 1 DONE; resume point = PART 2 step 7 (image inventory).
+2026-10-10 FINAL-1 T7 inventory: tools\images_inventory.py; 324 textures with English (title 26, scaleform_loc 89, tutorial 150, menus 2, logo 25, other 9, shared 23) in technical\IMAGES_INVENTORY.tsv; words read by eye from the contact sheets (technical\images_words.tsv).
+2026-10-10 FINAL-1 T7 checks: 561 movies hold only external image refs (1009/1008) and one empty JPEG tag; 287 TexturePump assets are cutscene streaming lists (no pixels); 42 textures keep English (brands, keys, credits).
+2026-10-10 FINAL-1 T7 plan: technical\IMAGES_PLAN.md (Markdown); contact sheets out\builds\IMAGES\ref\sheet_*.png (private).
+2026-10-10 FINAL-1 T8 codec: tools\texture_codec.py (Texture2D uexp/ubulk, texture2ddecoder 1.0.6 + etcpak 0.9.15, block-patch encode); TOOLS.md with wheel SHA256.
+2026-10-10 FINAL-1 T8 proof: byte-identical round trip on 18 textures (BC7 +/- mips, DXT5, BGRA +/- mips, BC4 with ubulk); full re-encode = same size, pixel diff reported (out\builds\IMAGES\roundtrip.tsv).
+2026-10-10 FINAL-1 T8 fix: ubulk mip offsets are relative to BulkDataStartOffset (found by the BC4 test).
+2026-10-10 FINAL-1 T9 renderer: tools\texture_text.py (fill clear/vlerp/fit/flat, sampled fill/outline/glow, Segoe UI BASIC layout on shaper output, 1x hinted below 24 px so dots/hamza stay); rects in technical\images_rects.tsv.
+2026-10-10 FINAL-1 T10 pilot: pakchunk98-arabic-images_P.pak 307,669 B sha 75a94461 (HudCmdTextTT01_loc, mapName_tt01, HelpItem01600; 16 boxes); 6 files list/hash-list/unpack PASS, uexp re-parse PASS.
+2026-10-10 FINAL-1 T10 install: SWAP_TO_IMAGES_PILOT.bat OK next to BUILD-6 (f6e8be85 unchanged); REMOVE_IMAGES_PILOT.bat tested (text pak kept), pilot reinstalled; technical\IMAGES_PILOT_CHECKLIST.md (Arabic, 3 places).
+2026-10-10 FINAL-1 T11 close: refresh 0 ERR, secret_check PASS, PROJECT_MAP 3 4 6 8 + CHANGELOG + LAST_REPORT part 2, private commit "...".
+2026-10-10 FINAL-1 T11 publish: publish.bat with IMAGES_PLAN.md, IMAGES_PILOT_CHECKLIST.md and the new tools only (no textures, sheets, uasset/uexp/ubulk or pak).
+2026-10-10 FINAL-1 DONE; next: user screenshots of the pilot, then IMAGES-MASS -> 0.9.0 -> screenshots -> 1.0.0.
