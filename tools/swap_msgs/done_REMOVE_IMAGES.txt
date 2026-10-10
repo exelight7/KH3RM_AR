@@ -1,1 +1,1 @@
-تم: حُذفت تجربة الصور، والتعريب النصي باقٍ / Done: image pilot removed, text pak kept
+تم: حُذفت حزمة الصور، والتعريب النصي باقٍ / Done: images pak removed, text pak kept

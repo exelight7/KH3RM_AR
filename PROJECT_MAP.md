@@ -21,12 +21,12 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 
 ## 3. Current phase, last round, next step
 
-- **Phase:** BUILD-7 installed and released as **0.8.2** (2026-10-10): `pakchunk99-arabic_P.pak` sha f9e23f37..., 4,889,918 B, in `~mods` via `SWAP_TO_BUILD7.bat` (the image pilot pak stays beside it). 95.3 % of rows installed (16,415 / 17,222); the 807 `todo` rows carry a `skip:` note. Verified 0.6 %.
-- **Last round (SYNC-BUILD7, 2026-10-10):** all 6 cloud PRs merged; `tools\sync_cloud.bat` applied the cloud second pass (69 files; 182 rows really changed: tutorials 54, Re Mind 31, items/abilities 27, menus 26, journal 26, subtitles 16, dialogue 2; 16,106 rows carry the note "..."); glossary aligned (Diving Strike, Powerwild, Frost Serpent, Monsters Inc); BUILD-7 = the BUILD-6 pipeline unchanged (`tools\build_build7.py`), 73 files SHA256 PASS, round trip 16,391 exact + 24 same-visual + 0 fail, 15 overflow rows as in BUILD-6 (none from the changed Risk label); installer 0.8.2 (22/22 self tests PASS); release **0.8.2** (pre-release, 5 assets verified): https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.2 . Details: `state\LAST_REPORT.md`.
-- **Image pilot (FINAL-1 part 2, 2026-10-10, installed, NOT released):** `out\builds\IMAGES-PILOT\pakchunk98-arabic-images_P.pak` (sha 75a94461..., 307,669 B) sits in `~mods` NEXT TO the BUILD-6 text pak (`SWAP_TO_IMAGES_PILOT.bat`; `REMOVE_IMAGES_PILOT.bat` deletes only the pilot). 3 textures, 16 text boxes: command menu header `HudCmdTextTT01_loc` (Twilight Town style), area banner `mapName_tt01` (The Neighborhood), Game Help picture `HelpItem01600` (Synthesis). Inventory: 324 textures with English (`technical\IMAGES_INVENTORY.tsv`, plan `technical\IMAGES_PLAN.md`); codec round trip byte-identical on 18 textures.
-- **What the user must screenshot:** the 3 pilot places in `technical\IMAGES_PILOT_CHECKLIST.md` (command header in Twilight Town, the area banner on entering The Neighborhood, Game Help › Synthesis picture) + `technical\BUILD7_CHECKLIST.md` (4 places) + `technical\BUILD6_CHECKLIST.md` (6 places).
+- **Phase:** BUILD-7 installed and released as **0.8.2** (2026-10-10): `pakchunk99-arabic_P.pak` sha f9e23f37..., 4,889,918 B, in `~mods` via `SWAP_TO_BUILD7.bat` (the IMAGES-MASS images pak stays beside it). 95.3 % of rows installed (16,415 / 17,222); the 807 `todo` rows carry a `skip:` note. Verified 0.6 %.
+- **Round before (SYNC-BUILD7, 2026-10-10):** all 6 cloud PRs merged; `tools\sync_cloud.bat` applied the cloud second pass (69 files; 182 rows really changed: tutorials 54, Re Mind 31, items/abilities 27, menus 26, journal 26, subtitles 16, dialogue 2; 16,106 rows carry the note "..."); glossary aligned (Diving Strike, Powerwild, Frost Serpent, Monsters Inc); BUILD-7 = the BUILD-6 pipeline unchanged (`tools\build_build7.py`), 73 files SHA256 PASS, round trip 16,391 exact + 24 same-visual + 0 fail, 15 overflow rows as in BUILD-6 (none from the changed Risk label); installer 0.8.2 (22/22 self tests PASS); release **0.8.2** (pre-release, 5 assets verified): https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.2 . Details: `state\LAST_REPORT.md`.
+- **Last round (IMAGES-MASS, 2026-10-10, installed, NOT released):** images pak `out\builds\IMAGES-MASS\pakchunk98-arabic-images_P.pak` (sha 233ef228..., 39,154,907 B, 194 textures, 1,240 text boxes, 388 files SHA256 PASS) sits in `~mods` NEXT TO the BUILD-7 text pak (`SWAP_TO_IMAGES_MASS.bat`; `REMOVE_IMAGES.bat` deletes only the images pak). The images pak is **optional, separate and removable**; it replaced the 3-texture pilot (pilot textures re-rendered with the new stroke rule). **Images repainted: 193 of the 234-texture repaint plan = 82.5 %** (+ SlideShowTx, read full size): command headers 16 + HUD/menus 5, tutorial pictures 128 of 150, area banners 25 of 25, LSI 9 of 9, shared HUD 11 of 14. Still English with the reason: `technical\IMAGES_STILL_ENGLISH.tsv` (16 minigame HUDs = next step, styled logos, brands, unreadable or text-free pictures). New image strings (no translation row): `translation\images_strings.tsv` (I0001-I0018).
+- **What the user must screenshot:** the 6 places in `technical\IMAGES_MASS_CHECKLIST.md` (command header, shop tutorial picture, area banner, key help, LSI taxi game, battle HUD/autosave) + `technical\BUILD7_CHECKLIST.md` (4 places) + `technical\BUILD6_CHECKLIST.md` (6 places).
 - **Cloud review prep (CLOUD-PREP, 2026-10-10):** private repo `exelight7/KH3RM_AR_work` created and filled from `cloud_repo\` (`tools\make_cloud.py`, `cloud_check.py`, `cloud_secret_check.py`, `sync_cloud.bat`, GitHub Action `check`); 4 ranges of the 32 script pages in `review\cloud\TASKS.md`; details `docs\CLOUD_WORKFLOW.md`, `state\LAST_REPORT.md`. Public repo not touched.
-- **Next step:** user screenshots (BUILD-7 checklist, image pilot); IMAGES-MASS (rect lists by priority: banners, command headers, battle HUD cells, autosave; then tutorial pictures; then minigames/styled logos) -> release 0.9.0 -> user screenshots -> 1.0.0 (still LOCKED, see section 4).
+- **Next step:** user screenshots (IMAGES-MASS checklist, BUILD-7 checklist) and the user's verdict on the images pak; 0.9.0 (with the images pak) waits for that verdict; then the 16 minigame HUD textures (resume point in `state\PROGRESS.md`) and the 47 styled logos -> user screenshots -> 1.0.0 (still LOCKED, see section 4).
 - **Public repository:** https://github.com/exelight7/KH3RM_AR (README Download points at 0.8.2, roadmap 0.8.x text fixes / 0.9.0 images / 1.0.0 after full testing). See section 10.
 - **Releases:** 0.8.0 (BUILD-5, RELEASE-080), 0.8.1 (BUILD-6, FINAL-1) and 0.8.2 (BUILD-7, SYNC-BUILD7), all pre-release, tags without "v".
 
@@ -34,6 +34,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 
 | date | decision | source |
 |---|---|---|
+| 2026-10-10 | IMAGES-MASS: images pak = optional second pak `pakchunk98-arabic-images_P.pak` beside the text pak, removable alone (`REMOVE_IMAGES.bat`); repaint plan = 234 inventory textures; styled logos, brand wordmarks and keep rows untouched; text >= 24 px gets a 1 px stroke in its own colour, smaller text at 1x without stroke; format/size/mips kept, only changed 4x4 blocks re-encoded; Arabic only from translation rows / `translation\images_strings.tsv`; 0.9.0 waits for the user's verdict | supervisor, docs/rounds/IMAGES-MASS.md |
 | 2026-10-10 | BUILD-5 = the BUILD-4 pipeline unchanged on the reviewed text (no build logic change); the swap script pins the sha of the pak file that is installed | docs/rounds/BUILD-5.md |
 | 2026-10-08 | Font = Segoe UI Regular (weight 400), never Noto Sans Arabic, never IBM Plex | user; RECON_KH3 header |
 | 2026-10-08 | Culture `en` is replaced (our pak overrides `Localization/Game/en/*.locres`); English voice unaffected | PIPE-1, RECON_KH3 §8 |
@@ -100,6 +101,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `PROJECT_MAP.md` | PROJECT_MAP — KH3 Arabic (start here) |
 | `README.md` | تعريب Kingdom Hearts III + Re Mind |
 | `REMOVE_ARABIC.bat` | chcp 65001 >nul |
+| `REMOVE_IMAGES.bat` | chcp 65001 >nul |
 | `REMOVE_IMAGES_PILOT.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD1.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD2.bat` | chcp 65001 >nul |
@@ -110,6 +112,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `SWAP_TO_BUILD7.bat` | chcp 65001 >nul |
 | `SWAP_TO_F1.bat` | chcp 65001 >nul |
 | `SWAP_TO_F2.bat` | chcp 65001 >nul |
+| `SWAP_TO_IMAGES_MASS.bat` | chcp 65001 >nul |
 | `SWAP_TO_IMAGES_PILOT.bat` | chcp 65001 >nul |
 | `SWAP_TO_TEST50.bat` | chcp 65001 >nul |
 | `cloud_repo\` | (no description) |
@@ -154,15 +157,17 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `technical\BUILD7_CHECKLIST.md` | قائمة فحص BUILD-7 |
 | `technical\FIELD_WIDTHS.tsv` | TSV, columns: prefix, keys, movie, field, font, font_id, size_pt, x0, x1, y0, y1, max_lines, reflow, evidence |
 | `technical\IMAGES_INVENTORY.tsv` | TSV, columns: asset, group, size, format, mips, storage, pak, screen, english, plan, priority |
+| `technical\IMAGES_MASS_CHECKLIST.md` | قائمة فحص حزمة الصور (IMAGES-MASS) |
 | `technical\IMAGES_PILOT_CHECKLIST.md` | قائمة فحص تجربة الصور (IMAGES-PILOT) |
 | `technical\IMAGES_PLAN.md` | IMAGES_PLAN — English text inside textures (FINAL-1 part 2) |
+| `technical\IMAGES_STILL_ENGLISH.tsv` | TSV, columns: asset, group, reason |
 | `technical\RECON_KH3.md` | RECON_KH3 — Kingdom Hearts III + Re Mind (Steam), read-only recon |
 | `technical\SHAPER_SPEC.md` | SHAPER_SPEC — Arabic pre-shaper for KH3 Scaleform text |
 | `technical\TAGS.md` | TAGS — markup in KH3 English text (VERIFIED from `extracted\text_en.tsv`, 17,222 entries) |
 | `technical\TEST50_CHECKLIST.md` | قائمة فحص TEST50 |
 | `technical\TEXT_COUNTS.tsv` | TSV, columns: level, name, category, entries, empty, unique_texts, words, chars |
 | `technical\TEXT_COVERAGE.md` | TEXT_COVERAGE — every source of visible text (FULL-1) |
-| `technical\images_rects.tsv` | TSV, columns: asset, box, source, fill, align, effect, scale, pad, rotate, note |
+| `technical\images_rects.tsv` | TSV, columns: asset, box, source, fill, align, effect, scale, pad, rotate, size, erase, note |
 | `technical\images_words.tsv` | TSV, columns: asset, screen, english, plan, priority |
 | `technical\theater_order.tsv` | TSV, columns: event, theater_scene_key |
 | `tools\` | all scripts (Python 3.12, run from the project root) + repak |
@@ -190,7 +195,9 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `tools\gfx_layout.py` | Read-only (BUILD-4): where a Scaleform movie places its characters. For every DefineSprite (tag 39) and the root |
 | `tools\gloss3_apply.py` | One-time (TRANS-1 part 1): apply supervisor decisions on the pending glossary conflicts. Do not re-run. |
 | `tools\gloss_hits.py` | TRANS-2 helper: glossary terms (approved, not type menu unless exact row match) that occur in a dump file. |
+| `tools\images_banner_rects.py` | Area banners (IMAGES-MASS): technical\images_rects.tsv rows for the 25 mapName_* textures of the repaint plan. |
 | `tools\images_inventory.py` | Read-only (FINAL-1 part 2): inventory of the textures that show English text. |
+| `tools\images_tutorial_rects.py` | Tutorial pictures (IMAGES-MASS): technical\images_work\tutorial_spec.tsv -> technical\images_rects.tsv rows for every |
 | `tools\import_kh2_glossary.py` | One-time/idempotent (GLOSS-1): import translation\kh2_glossary.md (finished KH2 project, Arabic Markdown tables) |
 | `tools\locres.py` | UE4 .locres reader/writer (legacy v0 and compact v1, as shipped by KH3 / UE 4.17). |
 | `tools\make_cloud.py` | Regenerate cloud_repo\ (git repo of the PRIVATE github.com/exelight7/KH3RM_AR_work) from the private project: exactly what a Linux |
@@ -227,7 +234,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `tools\text_counts.py` | Read-only: entry/word counts per category for the English locres export (extracted/text_en.tsv). |
 | `tools\text_coverage.py` | Read-only (FULL-1 Part D): inventory of every source of player-visible text in the installed game. |
 | `tools\texture_codec.py` | UE4.17 cooked Texture2D (.uasset/.uexp[/.ubulk]) reader/writer + pixel codec (FINAL-1). |
-| `tools\texture_text.py` | Repaint English text inside a texture with Arabic (FINAL-1 part 2, image pilot). |
+| `tools\texture_text.py` | Repaint English text inside a texture with Arabic (FINAL-1 pilot, IMAGES-MASS). |
 | `tools\trans1_report.py` | TRANS-1: write state\LAST_REPORT.md (data parts generated from translation\menus_ui). One-time helper. |
 | `tools\trans2_report.py` | TRANS-2: write state\LAST_REPORT.md (data parts generated from translation\ and review\corrections\applied). One-time helper. |
 | `tools\trans4_page.py` | TRANS-4 helper: story dialogue and cutscene subtitles page by page in the order of review\script\ (script_NNN.md, |
@@ -244,6 +251,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `translation\en_source.tsv` | TSV, columns: namespace, key, source_hash, text, category, file |
 | `translation\glossary.md` | Glossary — KH3 Arabic |
 | `translation\glossary.tsv` | TSV, columns: en, ar, type, source, status, kh3_count, example_ids, note |
+| `translation\images_strings.tsv` | TSV, columns: id, asset, EN, AR, status, note |
 | `translation\kh2_glossary.md` | مسرد مصطلحات KH2FM (المصدر الوحيد للحقيقة لأسماء الأعلام) |
 | `translation\typo_patterns.tsv` | TSV, columns: pattern, correct, note |
 
@@ -264,7 +272,7 @@ All commands from the project root (`C:\filessss\mewo\kh3fm-arabic`).
 - **Measure text fields of a movie:** `python -I tools\gfx_edittext.py <movie.uexp>...`
 - **Offline join/size preview:** `python -I tools\preview_text.py <TresFont.uasset> 3 30 2 out.png "نص"`
 - **Swap the test pak (double-click in the project root, close the game first):** `SWAP_TO_BUILD1.bat` / `SWAP_TO_TEST50.bat` / `SWAP_TO_F1.bat` / `SWAP_TO_F2.bat` delete our `pakchunk99-*_P.pak` from `~mods`, copy the BUILD-1 pak, the TEST50 pak or the ARABIC-TEST-2 F1/F2 pak from `out\builds\`, verify SHA256 against the build and print Arabic + English "Done" (it asks for admin rights only if the copy fails for permissions). `REMOVE_ARABIC.bat` deletes our pak and the empty `~mods`. All three refuse to run while KINGDOM HEARTS III is running and append to `state\SWAP_LOG.tsv` (time, action, hash, result). Scripts are generated by `tools\make_swap_scripts.py` (pure ASCII; messages in `tools\swap_msgs\`). Other paks: copy by hand into `C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS III\KINGDOM HEARTS III\Content\Paks\~mods\`, only one of ours at a time (`technical\RECON_KH3.md` §12).
-- **Images (FINAL-1):** inventory `python -I tools\images_inventory.py` (read-only; extracts missing textures into `extracted\assets`) → `technical\IMAGES_INVENTORY.tsv` + `out\builds\IMAGES\ref\` PNGs/contact sheets (words by eye in `technical\images_words.tsv`); codec `python -I tools\texture_codec.py info|png|roundtrip`; repaint: rects in `technical\images_rects.tsv`, `python -I tools\texture_text.py preview` (before/after PNGs) / `pilot` (pak + verify) / `--installed`; install `SWAP_TO_IMAGES_PILOT.bat`, remove `REMOVE_IMAGES_PILOT.bat` (both touch only `pakchunk98-arabic-images_P.pak`; the pilot sha is pinned in `tools\make_swap_scripts.py`).
+- **Images (FINAL-1, IMAGES-MASS):** inventory `python -I tools\images_inventory.py` (read-only) → `technical\IMAGES_INVENTORY.tsv`; codec `python -I tools\texture_codec.py info|png|roundtrip`; rects in `technical\images_rects.tsv` (tutorial rows from `technical\images_work\tutorial_spec.tsv` via `python -I tools\images_tutorial_rects.py technical\images_work\tutorial_spec.tsv [ids]`, banner rows via `python -I tools\images_banner_rects.py`); build `python -I tools\texture_text.py mass` (all, ~2 min: assets in `out\builds\IMAGES-MASS\assets\`, `checks.tsv`, `repaint_log.tsv`, before/after sheets in `ref\` (private), pak + list/hash-list/unpack SHA256 + uexp re-parse) or `mass <asset-substring>` (render + checks only); `--installed` compares `~mods`. Install `SWAP_TO_IMAGES_MASS.bat` (from cmd), remove `REMOVE_IMAGES.bat` (both touch only `pakchunk98-arabic-images_P.pak`; sha pinned in `tools\make_swap_scripts.py`: after a rebuild update it and regenerate). Images % and the still-English list come from `tools\stats.py`.
 - **Commit:** after `tools\refresh.bat` exits 0; `tools\secret_check.py` must PASS.
 - **Installer / release (RELEASE-080):** build the EXE: `cd tools\installer` then `dotnet publish -c Release -o ..\..\out\release\vX\publish` (needs .NET 8 SDK; embeds `out\builds\BUILD-7\pakchunk99-arabic_P.pak` since 0.8.2 (csproj `PakPath` default must be changed too), override with `-p:PakPath=...`; for a new BUILD update `Core.ExpectedSha`, `Core.Version`, csproj `Version` + `PakPath` and the SelfTest label). Tests: `KH3RM_AR_Setup.exe --selftest out.txt`; screenshots: `--render ar|en out.png`; icon: `--icon app.ico`. GitHub CLI 2.102.0 (official zip, sha ae64e556...) is in `tools\gh-2.102.0\x\bin\gh.exe` (gitignored); release (tag without "v"..."0.8.2 (pre-release)" --notes-file out\release\v0.8.2\RELEASE_NOTES.md <5 assets>` (user logged in), then `gh release view 0.8.2 --json assets` against `SHA256SUMS.txt`. The README download version is `RELEASE` in `tools\make_public.py`.
 
@@ -282,6 +290,9 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 | subtitles_cutscenes | 6336 | 6083 (96.0%) | 6083 (96.0%) | 6083 (96.0%) | 1 (0.0%) |
 | tutorials | 614 | 613 (99.8%) | 613 (99.8%) | 613 (99.8%) | 0 (0.0%) |
 | TOTAL | 17222 | 16415 (95.3%) | 16415 (95.3%) | 16415 (95.3%) | 98 (0.6%) |
+| images | textures with English | repaint plan | repainted | images repainted % |
+|---|---|---|---|---|
+| all groups | 324 | 234 | 193 | 82.5% |
 
 ## 8. Open questions
 
@@ -290,7 +301,7 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 - Row 15964 (LV UP!) is installed (BUILD-5/6) (1,067 of 1,621 units in HudRight #109); confirm by screenshot. Supervisor review still open: lyrics (own MSA wording), the Re Mind batch. (Unsure rows decided in REVIEW-3; row 05051 fixed and installed in FINAL-1; 01302/01304 addressee gender not clear from the script, left feminine.)
 - Row 05955 uses the feminine «حاملة كيبلايد» (glossary second form); its GLOSS warning is accepted.
 - Field guesses to confirm in-game: field/battle voice = Subtitle #1; 49 "(EN widest)" namespaces (tutorial popups, game-over hints, gummi menus, mission/settings help) break at their widest mid-sentence EN line; settings graphics/keyboard and the streaming notice have only engine-wrapped EN paragraphs (no width evidence).
-- Image pilot (FINAL-1): waiting for the 3 screenshots (`technical\IMAGES_PILOT_CHECKLIST.md`); open: banner font weight/size (Segoe UI Regular is lighter than the English display faces), glow strength, plain Arabic vs. effects for the 47 styled logos; 1 texture (`SlideShowTx_loc`) still to read at full size; 3D map signage and videos not covered. Inventory: 324 textures (`technical\IMAGES_PLAN.md`).
+- Images pak (IMAGES-MASS): waiting for the 6 screenshots (`technical\IMAGES_MASS_CHECKLIST.md`) and the user's verdict (0.9.0 waits). Open: 16 minigame HUD textures not yet repainted; 47 styled logos (plain Arabic vs. effect layers); Kairi HUD name over an ornament; 18 new image strings (`translation\images_strings.tsv`, status translated) need review; the ps4 copy of HelpItem30402 is not repainted (layout differs, PC loads the windows copy); 3D map signage and videos not covered.
 - `؟` still unproven (ASCII `?` kept, now a validator ERR); tutorial control lists in the flush-left Game Help field.
 - Glossary: Tangled = متشابك (supervisor to verify); 51 TRANS-3 proposed terms; tutorial line "جرب إلقاء نار" keeps the bare command name.
 - Installer is unsigned (SmartScreen warning); no art file supplied yet (`tools\installer\art\`); Epic detection is tested on fake files only.
@@ -327,6 +338,7 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 - 2026-10-10 **FINAL-1** (28 entries) — last: DONE; next: user screenshots of the pilot, then IMAGES-MASS -> 0.9.0 -> screenshots -> 1.0.0.
 - 2026-10-10 **CLOUD-PREP** (27 entries) — last: DONE.
 - 2026-10-10 **SYNC-BUILD7** (5 entries) — last: T5 release 0.8.2 (pre-release): 5 assets, sizes/SHA256 match SHA256SUMS.txt (gh release view).
+- 2026-10-10 **IMAGES-MASS** (7 entries) — last: cat 5 (shared HUD) DONE: 11 of 14 repainted (English cell only; other-language cells untouched): autosave_01, HudStatusTxt, HudStatusTxtCA, HudCamera03, HudCodeInfo_text, HudKeyhole_02, ItemListLibrary_bmpIcon, MarkLibrary_01, HudBlackPearlChase_02, Hud_LuxordText (VS kept), battlereport_01. Kept: HudRight03 (no English text found in the 64x64 texture, heart icon only), HudKairi_01 (name painted over an ornament with a matching glow copy), SpecialShip_02 (LV/MAX 6-8 px, unreadable). New strings I0013-I0018.
 
 ## 10. Public repository
 

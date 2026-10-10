@@ -10,3 +10,7 @@
 | subtitles_cutscenes | 6336 | 6083 (96.0%) | 6083 (96.0%) | 6083 (96.0%) | 1 (0.0%) |
 | tutorials | 614 | 613 (99.8%) | 613 (99.8%) | 613 (99.8%) | 0 (0.0%) |
 | TOTAL | 17222 | 16415 (95.3%) | 16415 (95.3%) | 16415 (95.3%) | 98 (0.6%) |
+
+| images | textures with English | repaint plan | repainted | images repainted % |
+|---|---|---|---|---|
+| all groups | 324 | 234 | 193 | 82.5% |

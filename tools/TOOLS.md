@@ -28,4 +28,6 @@ AES key: see `KEY_SOURCE.txt` only.
 - `update_map.py` - regenerates the (auto) sections of PROJECT_MAP.md; run by refresh.bat.
 - `texture_codec.py` - UE4.17 Texture2D uasset/uexp/ubulk reader/writer + BCn/BGRA decode (texture2ddecoder) and block-patch encode (etcpak); `roundtrip` = byte-identical check (FINAL-1).
 - `images_inventory.py` - read-only inventory of textures with English text → technical\IMAGES_INVENTORY.tsv, PNGs and contact sheets in out\builds\IMAGES\ref\ (FINAL-1).
-- `texture_text.py` - repaints a text rectangle of a texture with pre-shaped Arabic drawn from Segoe UI outlines (technical\images_rects.tsv) (FINAL-1).
+- `texture_text.py` - repaints text rectangles of textures with pre-shaped Arabic drawn from Segoe UI outlines (technical\images_rects.tsv); `mass` builds the images pak with per-texture checks (FINAL-1, IMAGES-MASS).
+- `images_tutorial_rects.py` - Game Help picture spec (technical\images_work\tutorial_spec.tsv) -> images_rects.tsv rows for every platform copy (IMAGES-MASS).
+- `images_banner_rects.py` - area banner rows (line split, cut-out plates, stencil letters) -> images_rects.tsv (IMAGES-MASS).

@@ -45,7 +45,12 @@ Other sources checked:
 
 In-game checks: `technical\IMAGES_PILOT_CHECKLIST.md`.
 
-## 5. Next steps
+## 5. IMAGES-MASS (2026-10-10, installed, not released)
+
+`out\builds\IMAGES-MASS\pakchunk98-arabic-images_P.pak` replaces the pilot: 194 textures, 1,240 boxes; 193 of the 234 planned = 82.5 % (+ SlideShowTx). Rules: 1 px stroke in the text colour from 24 px; screenshot labels healed stroke by stroke (`heal`), plates inpainted, cut-out plates refilled and the Arabic cut out (`knockout`); only the English cell in multi-language textures. Still English with reasons: `technical\IMAGES_STILL_ENGLISH.tsv`. Checks: `out\builds\IMAGES-MASS\checks.tsv` (all PASS). In-game checks: `technical\IMAGES_MASS_CHECKLIST.md`.
+Next: user screenshots (verdict decides 0.9.0); 16 minigame HUD textures; 47 styled logos.
+
+## 6. Next steps (FINAL-1, kept for history)
 
 1. **User screenshots** of the 3 pilot places (checklist). Decide: font size/weight for banners (Segoe UI Regular looks lighter than the English display faces), glow strength, whether area banners may use a bolder look.
 2. **IMAGES-MASS:** rect lists for priority 1 (area banners, command headers, battle HUD cells, autosave), then priority 2 (tutorial pictures; one list per image id), then 3 (minigames, styled logos); styled logos need a separate decision (plain Arabic vs. effect layers).

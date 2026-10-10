@@ -1,5 +1,10 @@
 # Changelog
 
+## IMAGES-MASS (2026-10-10)
+- Images pak `pakchunk98-arabic-images_P.pak` (194 textures, 1,240 text boxes; installed beside the text pak, not released): command menu headers of all 14 world styles + the dance/ship copies, chain/shotlock/Data Greeting/Premium/Slideshow labels, 128 of 150 Game Help pictures, 25 area banners, 9 Classic Kingdom LCD textures, 11 shared HUD textures (English cell only). 193 of the 234-texture repaint plan = 82.5 %; the rest listed with reasons in `technical/IMAGES_STILL_ENGLISH.tsv`.
+- `tools/texture_text.py` mass pipeline: erase box separate from the text box, fills `heal` (screenshot labels), `inpaint` (plates), `holes` + effect `knockout` (cut-out plates), row-gradient fill colour, 1 px stroke for text >= 24 px, linked/grouped sizes, `tpl:` template sources, per-texture checks (re-parse, size/format/mips, changed blocks, >= 2 px margin, no pixel changed outside the boxes) and before/after sheets.
+- New: `tools/images_tutorial_rects.py`, `tools/images_banner_rects.py`, `technical/images_work/`, `translation/images_strings.tsv` (18 strings with no translation row), `technical/IMAGES_MASS_CHECKLIST.md`, `SWAP_TO_IMAGES_MASS.bat`, `REMOVE_IMAGES.bat`; `tools/stats.py` reports "...".
+
 ## SYNC-BUILD7 (2026-10-10)
 - Cloud second-pass review synced (`tools\sync_cloud.bat`, PRs 1-6 merged): 69 correction files, 182 rows changed, 16,106 rows noted "...". `tools/apply_corrections.py`: an id corrected by two parallel cloud files is merged (identical results, or a check mark plus one real change); two different real changes still refuse.
 - Glossary aligned with the corrected rows (Diving Strike, Powerwild, Frost Serpent, Monsters Inc), approved, note "supervisor SYNC-BUILD7".
