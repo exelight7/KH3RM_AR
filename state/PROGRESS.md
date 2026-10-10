@@ -452,3 +452,6 @@ eview2_page.py (dump/fix/mark/flags N; pages = 300 translated rows in story orde
 2026-10-10 PUBLISH-1 T1 make_public: tools\make_public.py writes public_repo\ (Arabic-only translation, docs, tools, README template); 17,222 rows exported, key lines and quoted English phrases scrubbed.
 2026-10-10 PUBLISH-1 T2 public_check: tools\public_check.py + test_public_check.py PASS (forbidden paths, EN column, Latin sentences in AR, key, 25 MB, shared history).
 2026-10-10 PUBLISH-1 T3 clone: github.com/exelight7/KH3RM_AR cloned (had only LICENSE GPL v2 + stub README, kept LICENSE); public_repo\ in .gitignore; publish.bat written.
+2026-10-10 PUBLISH-1 T4-T5 push+release: pushed bd4d553 to exelight7/KH3RM_AR main (no auth prompt); README Arabic+English; out\release\ prepared (pak sha e43d8f97 = installed copy, SHA256.txt, INSTALL_AR.bat, REMOVE_AR.bat tested on a temp tree); gh not installed, Release left to the user (steps in LAST_REPORT).
+2026-10-10 PUBLISH-1 T6-T7 rules+verify: tools\publish.bat, RULES.md and PROJECT_MAP 3 4 8 10; ls-remote shows main; 190 files on origin/main, forbidden scan clean.
+2026-10-10 PUBLISH-1 T8 close: refresh 0 ERR, secret_check PASS, private commit (no push).
