@@ -1,85 +1,85 @@
 id	namespace	key	source_hash	AR	status	note
-10021	kh3_fieldvoice_ts.chat	sora_0010	3e52a19e	نعم! فزت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10022	kh3_fieldvoice_ts.chat	sora_0020	b0dda67d	أوه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10023	kh3_fieldvoice_ts.chat	sora_0050	ba18af64	المدخل مسدود<br><i(on)>بمكعبات?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10024	kh3_fieldvoice_ts.chat	sora_0060	3497a887	نعم، ربما. سأحاول.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10025	kh3_fieldvoice_ts.chat	sora_0070	f83da819	كيف سنصل إلى ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10026	kh3_fieldvoice_ts.chat	sora_0080	211dbab5	صبار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10027	kh3_fieldvoice_ts.chat	sora_0090	edb7ba2b	واو! مهلا، ماذا حدث<br>لصوتي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10028	kh3_fieldvoice_ts.chat	sora_0100	695ded6f	ها نحن. التالي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10029	kh3_fieldvoice_ts.chat	sora_0110	a5f7edf1	لم ننته بعد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10030	kh3_fieldvoice_ts.chat	sora_0120	2b78ea12	نعم، نعم، هاتوا المزيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10031	kh3_fieldvoice_ts.chat	sora_0130	e7d2ea8c	هل هذا هو?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10032	kh3_fieldvoice_ts.chat	sora_0140	ed17e395	هذا هو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10033	kh3_fieldvoice_ts.chat	donald_0030	48cf7351	<pb(0.72)>إنه سريع جدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10034	kh3_fieldvoice_ts.chat	donald_0040	420a7a48	هناك في الأعلى!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10035	kh3_fieldvoice_ts.chat	donald_0050	8ea07ad6	انظر يا سورا! مكعبات!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10036	kh3_fieldvoice_ts.chat	donald_0060	002f7d35	نقترب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10037	kh3_fieldvoice_ts.chat	donald_0070	cc857dab	مهلا، أليس هذا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10038	kh3_fieldvoice_ts.chat	donald_0080	15a56f07	وأنا أيضا!<pb(2.0)>...مهلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10039	kh3_fieldvoice_ts.chat	donald_0090	d90f6f99	سورا، يجب أن نصل<br>إلى متجر الألعاب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10040	kh3_fieldvoice_ts.chat	donald_0100	5de538dd	أرجو أن تكون الألعاب بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10041	kh3_fieldvoice_ts.chat	donald_0110	914f3843	يجب أن ننقذ باز!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10042	kh3_fieldvoice_ts.chat	goofy_0010	09ab32a8	سورا، أظن أن الترامبولين<br>ستعيدنا إلى غرفة آندي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10043	kh3_fieldvoice_ts.chat	goofy_0020	8724354b	اسمعوا، يبدو هذا مدخلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10044	kh3_fieldvoice_ts.chat	goofy_0030	4b8e35d5	يا سلام!<br>أشم رائحة شيء لذيذ!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10045	kh3_fieldvoice_ts.chat	goofy_0060	036e3bb1	أتظن أن هناك طريقة<br>لإصابته من بعيد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10046	kh3_fieldvoice_ts.chat	goofy_0070	cfc43b2f	مهلا، هناك بعضها هناك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10047	kh3_fieldvoice_ts.chat	goofy_0080	16e42983	سنحتاج إلى أكثر من ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10048	kh3_fieldvoice_ts.chat	goofy_0090	da4e291d	نعم، وهو طريقنا للصعود<br>إلى الممر المظلم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10049	kh3_fieldvoice_ts.chat	goofy_0100	5ea47e59	مهلا، صوتك مضحك.<br>...يا للعجب، وصوتي أيضا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10050	kh3_fieldvoice_ts.chat	goofy_0110	920e7ec7	هيا، لنتوجه<br>إلى متجر الألعاب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10051	kh3_fieldvoice_ts.chat	goofy_0120	1c817924	يا للعجب، أنا قلق نوعا ما<br>على أصدقائنا الجدد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10052	kh3_fieldvoice_ts.chat	goofy_0130	d02b79ba	قال هام إن ريكس<br>في قسم ألعاب الفيديو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10053	kh3_fieldvoice_ts.chat	woody_0010	fe27cb6c	غالاكسي تويز في<br>الجهة الأخرى من البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10054	kh3_fieldvoice_ts.chat	woody_0020	70a8cc8f	نعم... وكل واحد يؤدي<br>إلى مكان مختلف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10055	kh3_fieldvoice_ts.chat	woody_0040	b6c7c508	يجب أن نتسلل<br>بينما المروحة متوقفة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10056	kh3_fieldvoice_ts.chat	woody_0060	f4e2c275	أظنه يأتي<br>من هناك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10057	kh3_fieldvoice_ts.chat	woody_0070	3848c2eb	مهلا... أظنني أرى<br>نمطا في حركته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10058	kh3_fieldvoice_ts.chat	woody_0080	e168d047	استمر يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10059	kh3_fieldvoice_ts.chat	woody_0090	2dc2d0d9	لا بد أن هذه هي النافذة<br>التي ذكرها الرقيب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10060	kh3_fieldvoice_ts.chat	woody_0100	a928879d	هل تستطيع استخدام الجيغاس<br>لتحريكها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10061	kh3_fieldvoice_ts.chat	woody_0110	65828703	حسنا، <i(on)>هناك<i(off)> المزيد<br>من المكعبات هنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10062	kh3_fieldvoice_ts.chat	woody_0120	eb0d80e0	همم... وماذا عن هناك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10063	kh3_fieldvoice_ts.chat	woody_0130	27a7807e	اسمعني يا باز!<br>صوتي مثل الفضائيين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10064	kh3_fieldvoice_ts.chat	woody_0140	2d628967	نعم، أو—وهذا أفضل—راعي بقر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10065	kh3_fieldvoice_ts.chat	woody_0150	e1c889f9	سورا، انظر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10066	kh3_fieldvoice_ts.chat	woody_0160	6f478e1a	تريد أن تلتقط صورتي?<br>حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10067	kh3_fieldvoice_ts.chat	buzz_0010	743c42bc	حسنا، أول ما علينا فعله<br>هو التوجه إلى الشارع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10068	kh3_fieldvoice_ts.chat	buzz_0020	fab3455f	همم... ثلاث سكك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10069	kh3_fieldvoice_ts.chat	buzz_0040	3cdc4cd8	الآن! هيا، هيا، هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10070	kh3_fieldvoice_ts.chat	buzz_0060	7ef94ba5	مهلا... هل تسمعون شيئا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10071	kh3_fieldvoice_ts.chat	buzz_0070	b2534b3b	ربما إن استخدمنا المدافع<br>على تلك الآليات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10072	kh3_fieldvoice_ts.chat	buzz_0080	6b735997	أوشكنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10073	kh3_fieldvoice_ts.chat	buzz_0090	a7d95909	ماذا?! هذا محرج<br>نوعا ما. من قال ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10074	kh3_fieldvoice_ts.chat	buzz_0100	23330e4d	وودي، أظن أن يوزورا هنا<pb(1.2)>سيكون حارس فضاء<br>مبهرا، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10075	kh3_fieldvoice_ts.chat	buzz_0110	ef990ed3	هناك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10076	kh3_fieldvoice_ts.chat	buzz_0120	61160930	تأكد من تصوير جانبي الأفضل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10077	kh3_fieldvoice_ts.talk	woody_0010	fe27cb6c	هل أنت مستعد يا سورا? المحطة التالية: متجر الألعاب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10078	kh3_fieldvoice_ts.talk	woody_0020	70a8cc8f	يجب أن نجد تلك الألعاب المفقودة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10079	kh3_fieldvoice_ts.talk	woody_0030	bc02cc11	لا يمكننا العودة إلى البيت دون ريكس.<br>لا نترك لعبة خلفنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10080	kh3_fieldvoice_ts.talk	woody_0040	b6c7c508	ستكون بخير يا باز. يجب أن تكون بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10081	kh3_fieldvoice_ts.talk	woody_0050	7a6dc596	شكرا مجددا لأنك ساعدتني<br>على إعادة أصدقائي إلى البيت سالمين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10082	kh3_fieldvoice_ts.talk	woody_0060	f4e2c275	قل الكلمة فقط إن أردت مساعدتنا<br>في جمع أولئك الدخلاء المقنعين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10083	kh3_fieldvoice_ts.talk	woody_0070	3848c2eb	تذكر، يمكنك زيارتنا في أي وقت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10084	kh3_fieldvoice_ts.talk	buzz_0010	743c42bc	أرجو حقا أن نجد بعض الأجوبة<br>في غالاكسي تويز.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10085	kh3_fieldvoice_ts.talk	buzz_0020	fab3455f	وكأن افتقاد آندي لم يكن كافيا،<br>صارت لدينا الآن مشاكل أكبر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10086	kh3_fieldvoice_ts.talk	buzz_0030	361945c1	أرجو أن يكون ريكس بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10087	kh3_fieldvoice_ts.talk	buzz_0040	3cdc4cd8	سورا، دونالد، غوفي—لقاؤكم دائما من دواعي سروري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10088	kh3_fieldvoice_ts.talk	buzz_0050	f0764c46	لديكم عتاد جديد. مبهر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10089	kh3_fieldvoice_ts.talk	buzz_0060	7ef94ba5	إذن، هل أنجزتم مهمتكم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10090	kh3_fieldvoice_ts.talk	hamm_0010	c8fa42f3	مهلا، من كان يتوقع. أنا أتحدث إلى يوزورا <i(on)>نفسه<i(off)>!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10091	kh3_fieldvoice_ts.talk	hamm_0020	46754510	شكرا يا رفاق! لقد أنقذتمونا حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10092	kh3_fieldvoice_ts.talk	hamm_0030	8adf458e	إن احتجتم يوما إلى بعض الفكة،<br>فأنا خنزيركم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10093	kh3_fieldvoice_ts.talk	rex_0010	af535955	أنا مبهور تماما.<br>لعبتكم هي المفضلة لدي على الإطلاق!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10094	kh3_fieldvoice_ts.talk	rex_0020	21dc5eb6	أوه، سأبقى دائما أكبر معجبيكم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10095	kh3_fieldvoice_ts.talk	rex_0030	ed765e28	أرجوكم عودوا لنلعب لعبتكم معا.<br>لقد كنت أتدرب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10096	kh3_fieldvoice_ts.talk	rex_0040	e7b35731	أنتم محظوظون جدا!<br>ليتني أستطيع أن أكون في لعبة فيديو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10097	kh3_fieldvoice_ts.talk	sarge_0010	2f6551a7	سيدي! الدخلاء المقنعون ما زالوا<br>يتجولون جماعات.<pb(3.4)>وعدا ذلك، الوضع على حاله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10098	kh3_fieldvoice_ts.talk	sarge_0020	a1ea5644	سيدي! أبلغ رجالي عن عدد من<br>الدخلاء الأقوياء في غالاكسي تويز.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10099	kh3_fieldvoice_ts.talk	alien1_0010	3d1ba0c7	مساعدون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10100	kh3_fieldvoice_ts.talk	alien1_0020	b394a724	أصدقاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10101	kh3_fieldvoice_ts.talk	alien2_0010	650509ef	من الخارج.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10102	kh3_fieldvoice_ts.talk	alien2_0020	eb8a0e0c	من الخارج.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10103	kh3_fieldvoice_ts.talk	alien3_0010	e4206cc8	مرحبا بكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10104	kh3_fieldvoice_ts.talk	alien3_0020	6aaf6b2b	مرحبا بكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10021	kh3_fieldvoice_ts.chat	sora_0010	3e52a19e	نعم! فزت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10022	kh3_fieldvoice_ts.chat	sora_0020	b0dda67d	أوه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10023	kh3_fieldvoice_ts.chat	sora_0050	ba18af64	المدخل مسدود<br><i(on)>بمكعبات?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10024	kh3_fieldvoice_ts.chat	sora_0060	3497a887	نعم، ربما. سأحاول.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10025	kh3_fieldvoice_ts.chat	sora_0070	f83da819	كيف سنصل إلى ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10026	kh3_fieldvoice_ts.chat	sora_0080	211dbab5	صبار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10027	kh3_fieldvoice_ts.chat	sora_0090	edb7ba2b	واو! مهلا، ماذا حدث<br>لصوتي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10028	kh3_fieldvoice_ts.chat	sora_0100	695ded6f	ها نحن. التالي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10029	kh3_fieldvoice_ts.chat	sora_0110	a5f7edf1	لم ننته بعد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10030	kh3_fieldvoice_ts.chat	sora_0120	2b78ea12	نعم، نعم، هاتوا المزيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10031	kh3_fieldvoice_ts.chat	sora_0130	e7d2ea8c	هل هذا هو?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10032	kh3_fieldvoice_ts.chat	sora_0140	ed17e395	هذا هو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10033	kh3_fieldvoice_ts.chat	donald_0030	48cf7351	<pb(0.72)>إنه سريع جدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10034	kh3_fieldvoice_ts.chat	donald_0040	420a7a48	هناك في الأعلى!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10035	kh3_fieldvoice_ts.chat	donald_0050	8ea07ad6	انظر يا سورا! مكعبات!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10036	kh3_fieldvoice_ts.chat	donald_0060	002f7d35	نقترب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10037	kh3_fieldvoice_ts.chat	donald_0070	cc857dab	مهلا، أليس هذا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10038	kh3_fieldvoice_ts.chat	donald_0080	15a56f07	وأنا أيضا!<pb(2.0)>...مهلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10039	kh3_fieldvoice_ts.chat	donald_0090	d90f6f99	سورا، يجب أن نصل<br>إلى متجر الألعاب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10040	kh3_fieldvoice_ts.chat	donald_0100	5de538dd	أرجو أن تكون الألعاب بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10041	kh3_fieldvoice_ts.chat	donald_0110	914f3843	يجب أن ننقذ باز!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10042	kh3_fieldvoice_ts.chat	goofy_0010	09ab32a8	سورا، أظن أن الترامبولين<br>ستعيدنا إلى غرفة آندي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10043	kh3_fieldvoice_ts.chat	goofy_0020	8724354b	اسمعوا، يبدو هذا مدخلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10044	kh3_fieldvoice_ts.chat	goofy_0030	4b8e35d5	يا سلام!<br>أشم رائحة شيء لذيذ!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10045	kh3_fieldvoice_ts.chat	goofy_0060	036e3bb1	أتظن أن هناك طريقة<br>لإصابته من بعيد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10046	kh3_fieldvoice_ts.chat	goofy_0070	cfc43b2f	مهلا، هناك بعضها هناك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10047	kh3_fieldvoice_ts.chat	goofy_0080	16e42983	سنحتاج إلى أكثر من ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10048	kh3_fieldvoice_ts.chat	goofy_0090	da4e291d	نعم، وهو طريقنا للصعود<br>إلى الممر المظلم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10049	kh3_fieldvoice_ts.chat	goofy_0100	5ea47e59	مهلا، صوتك مضحك.<br>...يا للعجب، وصوتي أيضا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10050	kh3_fieldvoice_ts.chat	goofy_0110	920e7ec7	هيا، لنتوجه<br>إلى متجر الألعاب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10051	kh3_fieldvoice_ts.chat	goofy_0120	1c817924	يا للعجب، أنا قلق نوعا ما<br>على أصدقائنا الجدد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10052	kh3_fieldvoice_ts.chat	goofy_0130	d02b79ba	قال هام إن ريكس<br>في قسم ألعاب الفيديو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10053	kh3_fieldvoice_ts.chat	woody_0010	fe27cb6c	غالاكسي تويز في<br>الجهة الأخرى من البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10054	kh3_fieldvoice_ts.chat	woody_0020	70a8cc8f	نعم... وكل واحد يؤدي<br>إلى مكان مختلف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10055	kh3_fieldvoice_ts.chat	woody_0040	b6c7c508	يجب أن نتسلل<br>بينما المروحة متوقفة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10056	kh3_fieldvoice_ts.chat	woody_0060	f4e2c275	أظنه يأتي<br>من هناك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10057	kh3_fieldvoice_ts.chat	woody_0070	3848c2eb	مهلا... أظنني أرى<br>نمطا في حركته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10058	kh3_fieldvoice_ts.chat	woody_0080	e168d047	استمر يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10059	kh3_fieldvoice_ts.chat	woody_0090	2dc2d0d9	لا بد أن هذه هي النافذة<br>التي ذكرها الرقيب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10060	kh3_fieldvoice_ts.chat	woody_0100	a928879d	هل تستطيع استخدام الجيغاس<br>لتحريكها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10061	kh3_fieldvoice_ts.chat	woody_0110	65828703	حسنا، <i(on)>هناك<i(off)> المزيد<br>من المكعبات هنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10062	kh3_fieldvoice_ts.chat	woody_0120	eb0d80e0	همم... وماذا عن هناك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10063	kh3_fieldvoice_ts.chat	woody_0130	27a7807e	اسمعني يا باز!<br>صوتي مثل الفضائيين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10064	kh3_fieldvoice_ts.chat	woody_0140	2d628967	نعم، أو—وهذا أفضل—راعي بقر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10065	kh3_fieldvoice_ts.chat	woody_0150	e1c889f9	سورا، انظر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10066	kh3_fieldvoice_ts.chat	woody_0160	6f478e1a	تريد أن تلتقط صورتي?<br>حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10067	kh3_fieldvoice_ts.chat	buzz_0010	743c42bc	حسنا، أول ما علينا فعله<br>هو التوجه إلى الشارع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10068	kh3_fieldvoice_ts.chat	buzz_0020	fab3455f	همم... ثلاث سكك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10069	kh3_fieldvoice_ts.chat	buzz_0040	3cdc4cd8	الآن! هيا، هيا، هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10070	kh3_fieldvoice_ts.chat	buzz_0060	7ef94ba5	مهلا... هل تسمعون شيئا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10071	kh3_fieldvoice_ts.chat	buzz_0070	b2534b3b	ربما إن استخدمنا المدافع<br>على تلك الآليات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10072	kh3_fieldvoice_ts.chat	buzz_0080	6b735997	أوشكنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10073	kh3_fieldvoice_ts.chat	buzz_0090	a7d95909	ماذا?! هذا محرج<br>نوعا ما. من قال ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10074	kh3_fieldvoice_ts.chat	buzz_0100	23330e4d	وودي، أظن أن يوزورا هنا<pb(1.2)>سيكون حارس فضاء<br>مبهرا، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10075	kh3_fieldvoice_ts.chat	buzz_0110	ef990ed3	هناك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10076	kh3_fieldvoice_ts.chat	buzz_0120	61160930	تأكد من تصوير جانبي الأفضل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10077	kh3_fieldvoice_ts.talk	woody_0010	fe27cb6c	هل أنت مستعد يا سورا? المحطة التالية: متجر الألعاب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10078	kh3_fieldvoice_ts.talk	woody_0020	70a8cc8f	يجب أن نجد تلك الألعاب المفقودة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10079	kh3_fieldvoice_ts.talk	woody_0030	bc02cc11	لا يمكننا العودة إلى البيت دون ريكس.<br>لا نترك لعبة خلفنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10080	kh3_fieldvoice_ts.talk	woody_0040	b6c7c508	ستكون بخير يا باز. يجب أن تكون بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10081	kh3_fieldvoice_ts.talk	woody_0050	7a6dc596	شكرا مجددا لأنك ساعدتني<br>على إعادة أصدقائي إلى البيت سالمين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10082	kh3_fieldvoice_ts.talk	woody_0060	f4e2c275	قل الكلمة فقط إن أردت مساعدتنا<br>في جمع أولئك الدخلاء المقنعين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10083	kh3_fieldvoice_ts.talk	woody_0070	3848c2eb	تذكر، يمكنك زيارتنا في أي وقت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10084	kh3_fieldvoice_ts.talk	buzz_0010	743c42bc	أرجو حقا أن نجد بعض الأجوبة<br>في غالاكسي تويز.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10085	kh3_fieldvoice_ts.talk	buzz_0020	fab3455f	وكأن افتقاد آندي لم يكن كافيا،<br>صارت لدينا الآن مشاكل أكبر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10086	kh3_fieldvoice_ts.talk	buzz_0030	361945c1	أرجو أن يكون ريكس بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10087	kh3_fieldvoice_ts.talk	buzz_0040	3cdc4cd8	سورا، دونالد، غوفي—لقاؤكم دائما من دواعي سروري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10088	kh3_fieldvoice_ts.talk	buzz_0050	f0764c46	لديكم عتاد جديد. مبهر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10089	kh3_fieldvoice_ts.talk	buzz_0060	7ef94ba5	إذن، هل أنجزتم مهمتكم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10090	kh3_fieldvoice_ts.talk	hamm_0010	c8fa42f3	مهلا، من كان يتوقع. أنا أتحدث إلى يوزورا <i(on)>نفسه<i(off)>!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10091	kh3_fieldvoice_ts.talk	hamm_0020	46754510	شكرا يا رفاق! لقد أنقذتمونا حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10092	kh3_fieldvoice_ts.talk	hamm_0030	8adf458e	إن احتجتم يوما إلى بعض الفكة،<br>فأنا خنزيركم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10093	kh3_fieldvoice_ts.talk	rex_0010	af535955	أنا مبهور تماما.<br>لعبتكم هي المفضلة لدي على الإطلاق!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10094	kh3_fieldvoice_ts.talk	rex_0020	21dc5eb6	أوه، سأبقى دائما أكبر معجبيكم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10095	kh3_fieldvoice_ts.talk	rex_0030	ed765e28	أرجوكم عودوا لنلعب لعبتكم معا.<br>لقد كنت أتدرب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10096	kh3_fieldvoice_ts.talk	rex_0040	e7b35731	أنتم محظوظون جدا!<br>ليتني أستطيع أن أكون في لعبة فيديو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10097	kh3_fieldvoice_ts.talk	sarge_0010	2f6551a7	سيدي! الدخلاء المقنعون ما زالوا<br>يتجولون جماعات.<pb(3.4)>وعدا ذلك، الوضع على حاله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10098	kh3_fieldvoice_ts.talk	sarge_0020	a1ea5644	سيدي! أبلغ رجالي عن عدد من<br>الدخلاء الأقوياء في غالاكسي تويز.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10099	kh3_fieldvoice_ts.talk	alien1_0010	3d1ba0c7	مساعدون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10100	kh3_fieldvoice_ts.talk	alien1_0020	b394a724	أصدقاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10101	kh3_fieldvoice_ts.talk	alien2_0010	650509ef	من الخارج.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10102	kh3_fieldvoice_ts.talk	alien2_0020	eb8a0e0c	من الخارج.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10103	kh3_fieldvoice_ts.talk	alien3_0010	e4206cc8	مرحبا بكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10104	kh3_fieldvoice_ts.talk	alien3_0020	6aaf6b2b	مرحبا بكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

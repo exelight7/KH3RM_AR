@@ -18,7 +18,7 @@
 (الأرقام من `state/STATS.md`، المجموع 17222 نصا.)
 
 ### التنزيل
-**[نزّل الإصدار 0.8.1 (نسخة تجريبية)](https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.1)**: شغّل `KH3RM_AR_Setup_v0.8.1.exe`، وسيجد المثبّت مجلد اللعبة (Steam أو Epic) وينسخ الملف ويتحقق منه. إن ظهرت نافذة SmartScreen (البرنامج غير موقّع): «مزيد من المعلومات» ثم «تشغيل على أي حال».
+**[نزّل الإصدار 0.8.2 (نسخة تجريبية)](https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.2)**: شغّل `KH3RM_AR_Setup_v0.8.2.exe`، وسيجد المثبّت مجلد اللعبة (Steam أو Epic) وينسخ الملف ويتحقق منه. إن ظهرت نافذة SmartScreen (البرنامج غير موقّع): «مزيد من المعلومات» ثم «تشغيل على أي حال».
 
 ![واجهة المثبّت](docs/img/ui_ar.png)
 
@@ -80,7 +80,7 @@
 (From `state/STATS.md`, 17222 strings in total.)
 
 ### Download
-**[Get 0.8.1 (pre-release)](https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.1)**: run `KH3RM_AR_Setup_v0.8.1.exe`; it finds the game folder (Steam or Epic), copies the pak and verifies it. If Windows SmartScreen appears (the app is unsigned): More info > Run anyway.
+**[Get 0.8.2 (pre-release)](https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.2)**: run `KH3RM_AR_Setup_v0.8.2.exe`; it finds the game folder (Steam or Epic), copies the pak and verifies it. If Windows SmartScreen appears (the app is unsigned): More info > Run anyway.
 
 ![Installer](docs/img/ui_ar.png)
 

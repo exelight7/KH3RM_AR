@@ -1,13 +1,13 @@
 id	namespace	key	source_hash	AR	status	note
-07870	kh3_fieldvoice_bt.chat	sora_1040	d8da3e6b	زيهانورت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-07871	kh3_fieldvoice_bt.chat	donald_0010	0aea742c	قد تكون فرصتنا الأخيرة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-07872	kh3_fieldvoice_bt.chat	donald_0020	846573cf	سورا، لنتفقد البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-07873	kh3_fieldvoice_bt.chat	goofy_0010	09ab32a8	سورا، يجب أن نستعد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-07874	kh3_fieldvoice_bt.chat	goofy_0020	8724354b	لا بد أن زيهانورت<br>في مكان ما في البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-07875	kh3_fieldvoice_bt.chat	Xehanort_1020	a9fdb7ae	نحن في البداية فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-07876	kh3_fieldvoice_bt.chat	Xehanort_1050	a338beb7	تعال يا كينغدوم هارتس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-07877	kh3_fieldvoice_bt.chat	Xehanort_1070	e11db9ca	ينتهي الأمر هنا والآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-07878	kh3_fieldvoice_bt.talk	donald_0010	0aea742c	أين ذهب زيهانورت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-07879	kh3_fieldvoice_bt.talk	donald_0020	846573cf	يجب أن نستعد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-07880	kh3_fieldvoice_bt.talk	goofy_0010	09ab32a8	أعرف أن المكان جميل، لكن لا تخفض حذرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-07881	kh3_fieldvoice_bt.talk	goofy_0020	8724354b	سورا، من الأفضل أن نكون مستعدين لأي شيء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07870	kh3_fieldvoice_bt.chat	sora_1040	d8da3e6b	زيهانورت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07871	kh3_fieldvoice_bt.chat	donald_0010	0aea742c	قد تكون فرصتنا الأخيرة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07872	kh3_fieldvoice_bt.chat	donald_0020	846573cf	سورا، لنتفقد البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07873	kh3_fieldvoice_bt.chat	goofy_0010	09ab32a8	سورا، يجب أن نستعد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07874	kh3_fieldvoice_bt.chat	goofy_0020	8724354b	لا بد أن زيهانورت<br>في مكان ما في البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07875	kh3_fieldvoice_bt.chat	Xehanort_1020	a9fdb7ae	نحن في البداية فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07876	kh3_fieldvoice_bt.chat	Xehanort_1050	a338beb7	تعال يا كينغدوم هارتس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07877	kh3_fieldvoice_bt.chat	Xehanort_1070	e11db9ca	ينتهي الأمر هنا والآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07878	kh3_fieldvoice_bt.talk	donald_0010	0aea742c	أين ذهب زيهانورت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07879	kh3_fieldvoice_bt.talk	donald_0020	846573cf	يجب أن نستعد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07880	kh3_fieldvoice_bt.talk	goofy_0010	09ab32a8	أعرف أن المكان جميل، لكن لا تخفض حذرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07881	kh3_fieldvoice_bt.talk	goofy_0020	8724354b	سورا، من الأفضل أن نكون مستعدين لأي شيء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

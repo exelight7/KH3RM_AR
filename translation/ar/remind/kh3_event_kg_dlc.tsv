@@ -1,459 +1,459 @@
 id	namespace	key	source_hash	AR	status	note
-04225	kh3_event_kg_dlc.kg951a	kg9510020ms0	b5835db5	إذن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04226	kh3_event_kg_dlc.kg951a	kg9510030xy0	d59fe0d7	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04227	kh3_event_kg_dlc.kg951a	kg9510030xy1	6d2387b2	إنه يبعد الظلام. مفيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04228	kh3_event_kg_dlc.kg951a	kg9510040ms0_1	38181e2f	قلت لك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04229	kh3_event_kg_dlc.kg951a	kg9510040ms0_2	2aadb1c1	إذن، كيف كانت الجولة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04230	kh3_event_kg_dlc.kg951a	kg9510040ms1	891ca705	الجولة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04231	kh3_event_kg_dlc.kg951a	kg9510050xy0	51bc7d02	تعلمت... سبب وجودي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04232	kh3_event_kg_dlc.kg951a	kg9510060ms0_1	3b73e415	أوه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04233	kh3_event_kg_dlc.kg951a	kg9510060ms0_2	29c64bfb	أخبرني المزيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04234	kh3_event_kg_dlc.kg951a	kg9510070xy0_1	0539d81e	حول العالم، يعيش الناس<br>حياة تبدو هادئة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04235	kh3_event_kg_dlc.kg951a	kg9510070xy0_2	178c77f0	يظنون أنفسهم أخلاقيين<br>وفضلاء، لكنه كله تمثيل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04236	kh3_event_kg_dlc.kg951a	kg9510070xy0_3	af301095	الظلام يكمن في أعماق قلب كل واحد منهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04237	kh3_event_kg_dlc.kg951a	kg9510070xy0_4	32e7282c	ونورهم مجرد مهزلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04238	kh3_event_kg_dlc.kg951a	kg9510080ms0_1	336002b3	يبدو أن جولتك حول العالم<br>فتحت عينيك،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04239	kh3_event_kg_dlc.kg951a	kg9510080ms0_1b	6605df3f	لكنك حصلت على أكثر قليلا<br>مما توقعت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04240	kh3_event_kg_dlc.kg951a	kg9510080ms0_2	21d5ad5d	لا بد أنك رأيت الكثير من الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04241	kh3_event_kg_dlc.kg951a	kg9510090xy0_1	0d2a3eb8	الضعفاء، الذين<br>يرغبون في قوة أعظم،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04242	kh3_event_kg_dlc.kg951a	kg9510090xy0_2	1f9f9156	يسلبون الأقوياء قوتهم ببساطة،<br>ويقنعون أنفسهم بأنهم استحقوها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04243	kh3_event_kg_dlc.kg951a	kg9510090xy0_3	a723f633	هكذا يتلوث الناس<br>بالظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04244	kh3_event_kg_dlc.kg951a	kg9510090xy0_4	3af4ce8a	يصدقون ما يريدون تصديقه،<br>ويبررون ذلك بأسباب جوفاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04245	kh3_event_kg_dlc.kg951a	kg9510090xy0_5	8248a9ef	يكررون هذه الدورة،<br>فيزداد ظلامهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04246	kh3_event_kg_dlc.kg951a	kg9510100ms0_1	cf15eff1	إذن تقول إن الضعفاء يشعرون بالحاجة إلى<br>تبرير أفعالهم للحفاظ على شعورهم بذواتهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04247	kh3_event_kg_dlc.kg951a	kg9510100ms0_2	dda0401f	ولا يمكنك تجاهل ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04248	kh3_event_kg_dlc.kg951a	kg9510110xy0_1	f15fd3fa	لا، من الأفضل أن يحكمهم الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04249	kh3_event_kg_dlc.kg951a	kg9510110xy0_2	e3ea7c14	الناس يحملون أوهام امتلاك القوة،<br>لكنها كذبة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04250	kh3_event_kg_dlc.kg951a	kg9510110xy0_3	5b561b71	ليسوا سوى خراف تتظاهر بأنها ذئاب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04251	kh3_event_kg_dlc.kg951a	kg9510110xy0_4	c68123c8	مع أنني أعترف، أفهم لماذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04252	kh3_event_kg_dlc.kg951a	kg9510120ms0_1	cc7e15cb	أوه، لم أسمع هذا من قبل،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04253	kh3_event_kg_dlc.kg951a	kg9510120ms0_2	decbba25	حامل الكيبلايد مستعد للوقوف في صف الظلام?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04254	kh3_event_kg_dlc.kg951a	kg9510120ms0_3	6677dd40	لماذا لا تتركهم حتى<br>يبتلعهم الظلام?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04255	kh3_event_kg_dlc.kg951a	kg9510130xy0_1	f23429c0	لأنهم لو تركوا وشأنهم، لسقط العالم<br>في الفوضى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04256	kh3_event_kg_dlc.kg951a	kg9510130xy0_2	e081862e	لا بد من وجود نظام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04257	kh3_event_kg_dlc.kg951a	kg9510140ms0	b085a547	هل أنت متأكد من ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04258	kh3_event_kg_dlc.kg951a	kg9510140ms1	0839c222	لماذا لا تجلس وتشاهد ما سيحدث?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04259	kh3_event_kg_dlc.kg951a	kg9510150xy0_1	f788278e	فهم القلوب صعب؛<br>والمشاعر التي بداخلها أصعب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04260	kh3_event_kg_dlc.kg951a	kg9510150xy0_2	e53d8860	أدرك فقط أنه من السهل أن<br>نرفض ما لا نفهمه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04261	kh3_event_kg_dlc.kg951a	kg9510160ms0	7a4bd3cb	حسنا، حسنا... العالم يحتاج<br>إليك، سأسلم لك بهذه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04262	kh3_event_kg_dlc.kg951a	kg9510170xy0_1	f4e3ddb4	لا أعرف ما الذي أستطيع فعله، لكنني سأتحرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04263	kh3_event_kg_dlc.kg951a	kg9510170xy0_2	e656725a	ما سيأتي بعد ذلك أهم من أن نتركه للصدفة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04264	kh3_event_kg_dlc.kg951a	kg9510180ms0_1	c2ba0719	أظن أن ترك النور الزائف يحدد<br>المستقبل قد يكون... خطوة سيئة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04225	kh3_event_kg_dlc.kg951a	kg9510020ms0	b5835db5	إذن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04226	kh3_event_kg_dlc.kg951a	kg9510030xy0	d59fe0d7	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04227	kh3_event_kg_dlc.kg951a	kg9510030xy1	6d2387b2	إنه يبعد الظلام. مفيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04228	kh3_event_kg_dlc.kg951a	kg9510040ms0_1	38181e2f	قلت لك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04229	kh3_event_kg_dlc.kg951a	kg9510040ms0_2	2aadb1c1	إذن، كيف كانت الجولة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04230	kh3_event_kg_dlc.kg951a	kg9510040ms1	891ca705	الجولة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04231	kh3_event_kg_dlc.kg951a	kg9510050xy0	51bc7d02	تعلمت... سبب وجودي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04232	kh3_event_kg_dlc.kg951a	kg9510060ms0_1	3b73e415	أوه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04233	kh3_event_kg_dlc.kg951a	kg9510060ms0_2	29c64bfb	أخبرني المزيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04234	kh3_event_kg_dlc.kg951a	kg9510070xy0_1	0539d81e	حول العالم، يعيش الناس<br>حياة تبدو هادئة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04235	kh3_event_kg_dlc.kg951a	kg9510070xy0_2	178c77f0	يظنون أنفسهم أخلاقيين<br>وفضلاء، لكنه كله تمثيل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04236	kh3_event_kg_dlc.kg951a	kg9510070xy0_3	af301095	الظلام يكمن في أعماق قلب كل واحد منهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04237	kh3_event_kg_dlc.kg951a	kg9510070xy0_4	32e7282c	ونورهم مجرد مهزلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04238	kh3_event_kg_dlc.kg951a	kg9510080ms0_1	336002b3	يبدو أن جولتك حول العالم<br>فتحت عينيك،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04239	kh3_event_kg_dlc.kg951a	kg9510080ms0_1b	6605df3f	لكنك حصلت على أكثر قليلا<br>مما توقعت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04240	kh3_event_kg_dlc.kg951a	kg9510080ms0_2	21d5ad5d	لا بد أنك رأيت الكثير من الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04241	kh3_event_kg_dlc.kg951a	kg9510090xy0_1	0d2a3eb8	الضعفاء، الذين<br>يرغبون في قوة أعظم،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04242	kh3_event_kg_dlc.kg951a	kg9510090xy0_2	1f9f9156	يسلبون الأقوياء قوتهم ببساطة،<br>ويقنعون أنفسهم بأنهم استحقوها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04243	kh3_event_kg_dlc.kg951a	kg9510090xy0_3	a723f633	هكذا يتلوث الناس<br>بالظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04244	kh3_event_kg_dlc.kg951a	kg9510090xy0_4	3af4ce8a	يصدقون ما يريدون تصديقه،<br>ويبررون ذلك بأسباب جوفاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04245	kh3_event_kg_dlc.kg951a	kg9510090xy0_5	8248a9ef	يكررون هذه الدورة،<br>فيزداد ظلامهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04246	kh3_event_kg_dlc.kg951a	kg9510100ms0_1	cf15eff1	إذن تقول إن الضعفاء يشعرون بالحاجة إلى<br>تبرير أفعالهم للحفاظ على شعورهم بذواتهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04247	kh3_event_kg_dlc.kg951a	kg9510100ms0_2	dda0401f	ولا يمكنك تجاهل ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04248	kh3_event_kg_dlc.kg951a	kg9510110xy0_1	f15fd3fa	لا، من الأفضل أن يحكمهم الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04249	kh3_event_kg_dlc.kg951a	kg9510110xy0_2	e3ea7c14	الناس يحملون أوهام امتلاك القوة،<br>لكنها كذبة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04250	kh3_event_kg_dlc.kg951a	kg9510110xy0_3	5b561b71	ليسوا سوى خراف تتظاهر بأنها ذئاب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04251	kh3_event_kg_dlc.kg951a	kg9510110xy0_4	c68123c8	مع أنني أعترف، أفهم لماذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04252	kh3_event_kg_dlc.kg951a	kg9510120ms0_1	cc7e15cb	أوه، لم أسمع هذا من قبل،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04253	kh3_event_kg_dlc.kg951a	kg9510120ms0_2	decbba25	حامل الكيبلايد مستعد للوقوف في صف الظلام?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04254	kh3_event_kg_dlc.kg951a	kg9510120ms0_3	6677dd40	لماذا لا تتركهم حتى<br>يبتلعهم الظلام?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04255	kh3_event_kg_dlc.kg951a	kg9510130xy0_1	f23429c0	لأنهم لو تركوا وشأنهم، لسقط العالم<br>في الفوضى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04256	kh3_event_kg_dlc.kg951a	kg9510130xy0_2	e081862e	لا بد من وجود نظام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04257	kh3_event_kg_dlc.kg951a	kg9510140ms0	b085a547	هل أنت متأكد من ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04258	kh3_event_kg_dlc.kg951a	kg9510140ms1	0839c222	لماذا لا تجلس وتشاهد ما سيحدث?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04259	kh3_event_kg_dlc.kg951a	kg9510150xy0_1	f788278e	فهم القلوب صعب؛<br>والمشاعر التي بداخلها أصعب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04260	kh3_event_kg_dlc.kg951a	kg9510150xy0_2	e53d8860	أدرك فقط أنه من السهل أن<br>نرفض ما لا نفهمه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04261	kh3_event_kg_dlc.kg951a	kg9510160ms0	7a4bd3cb	حسنا، حسنا... العالم يحتاج<br>إليك، سأسلم لك بهذه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04262	kh3_event_kg_dlc.kg951a	kg9510170xy0_1	f4e3ddb4	لا أعرف ما الذي أستطيع فعله، لكنني سأتحرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04263	kh3_event_kg_dlc.kg951a	kg9510170xy0_2	e656725a	ما سيأتي بعد ذلك أهم من أن نتركه للصدفة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04264	kh3_event_kg_dlc.kg951a	kg9510180ms0_1	c2ba0719	أظن أن ترك النور الزائف يحدد<br>المستقبل قد يكون... خطوة سيئة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04265	kh3_event_kg_dlc.kg951a	kg9510180ms0_1b	f3750baa		todo	
-04266	kh3_event_kg_dlc.kg951a	kg9510180ms0_2	d00fa8f7	إذن? تستطيع أن تحدث فرقا، فأنت تملك القوة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04267	kh3_event_kg_dlc.kg951a	kg9510180ms0_3	68b3cf92	ماذا تريد للعالم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04268	kh3_event_kg_dlc.kg951a	kg9510190xy0_1	fcf03b12	القوة، إيه...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04269	kh3_event_kg_dlc.kg951a	kg9510190xy0_2	ee4594fc	من يدري? تدريبي يقترب من نهايته،<br>والاختبار ليس بعيدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04266	kh3_event_kg_dlc.kg951a	kg9510180ms0_2	d00fa8f7	إذن? تستطيع أن تحدث فرقا، فأنت تملك القوة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04267	kh3_event_kg_dlc.kg951a	kg9510180ms0_3	68b3cf92	ماذا تريد للعالم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04268	kh3_event_kg_dlc.kg951a	kg9510190xy0_1	fcf03b12	القوة، إيه...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04269	kh3_event_kg_dlc.kg951a	kg9510190xy0_2	ee4594fc	من يدري? تدريبي يقترب من نهايته،<br>والاختبار ليس بعيدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04270	kh3_event_kg_dlc.kg951a	kg9510190xy0_2b	4c7d2d98		todo	
-04271	kh3_event_kg_dlc.kg951a	kg9510190xy0_3	56f9f399	ربما أحصل على بعض الوضوح حينها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04272	kh3_event_kg_dlc.kg951a	kg9510200ms0_1	060ae74e	هل ستترك الاختبار يقرر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04273	kh3_event_kg_dlc.kg951a	kg9510200ms0_2	14bf48a0	اسمع مني، النتائج لا تهم.<br>أنت تؤمن بأن العالم يحتاج إليك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04274	kh3_event_kg_dlc.kg951a	kg9510200ms0_3	ac032fc5	يبدو أنك تعرف مسبقا إلى أين أنت ذاهب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04275	kh3_event_kg_dlc.kg951a	kg9510220xy0_1	3a9edc62	الأمر غريب. بطريقة ما، أشعر إلى أين<br>يفترض أن أذهب، وما يفترض أن أفعل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04276	kh3_event_kg_dlc.kg951a	kg9510220xy0_2	282b738c	نعم، حتى هذا المعطف، فيه شيء مألوف،<br>كأنني مقدر لي أن أرتديه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04277	kh3_event_kg_dlc.kg951a	kg9510230ms0	09dfaafc	همم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04278	kh3_event_kg_dlc.kg951a	kg9510240ms0	e89b0c6f	لا... ستتخلى عنه قريبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04279	kh3_event_kg_dlc.kg951a	kg9510250xy0	8887b10d	ماذا تقصد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04280	kh3_event_kg_dlc.kg951a	kg9510260ms0	22557ae3	أقصد أنك ذات يوم ستتجاوزه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04281	kh3_event_kg_dlc.kg951a	kg9510270xy0	4249c781	كيف ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04282	kh3_event_kg_dlc.kg951a	kg9510280ms0_1	0ba50fa6	إن كنت تملك قوة عظيمة حقا،<br>فلن يتمكن الظلام من التحكم بك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04271	kh3_event_kg_dlc.kg951a	kg9510190xy0_3	56f9f399	ربما أحصل على بعض الوضوح حينها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04272	kh3_event_kg_dlc.kg951a	kg9510200ms0_1	060ae74e	هل ستترك الاختبار يقرر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04273	kh3_event_kg_dlc.kg951a	kg9510200ms0_2	14bf48a0	اسمع مني، النتائج لا تهم.<br>أنت تؤمن بأن العالم يحتاج إليك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04274	kh3_event_kg_dlc.kg951a	kg9510200ms0_3	ac032fc5	يبدو أنك تعرف مسبقا إلى أين أنت ذاهب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04275	kh3_event_kg_dlc.kg951a	kg9510220xy0_1	3a9edc62	الأمر غريب. بطريقة ما، أشعر إلى أين<br>يفترض أن أذهب، وما يفترض أن أفعل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04276	kh3_event_kg_dlc.kg951a	kg9510220xy0_2	282b738c	نعم، حتى هذا المعطف، فيه شيء مألوف،<br>كأنني مقدر لي أن أرتديه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04277	kh3_event_kg_dlc.kg951a	kg9510230ms0	09dfaafc	همم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04278	kh3_event_kg_dlc.kg951a	kg9510240ms0	e89b0c6f	لا... ستتخلى عنه قريبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04279	kh3_event_kg_dlc.kg951a	kg9510250xy0	8887b10d	ماذا تقصد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04280	kh3_event_kg_dlc.kg951a	kg9510260ms0	22557ae3	أقصد أنك ذات يوم ستتجاوزه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04281	kh3_event_kg_dlc.kg951a	kg9510270xy0	4249c781	كيف ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04282	kh3_event_kg_dlc.kg951a	kg9510280ms0_1	0ba50fa6	إن كنت تملك قوة عظيمة حقا،<br>فلن يتمكن الظلام من التحكم بك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04283	kh3_event_kg_dlc.kg951a	kg9510280ms0_1b	97957054		todo	
-04284	kh3_event_kg_dlc.kg951a	kg9510280ms0_2	1910a048	لن تحتاج إلى معطف قديم سخيف لتبقى بأمان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04285	kh3_event_kg_dlc.kg951a	kg9510280ms0_3	a1acc72d	بل ستكون أنت من يتحكم<br>بالظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04286	kh3_event_kg_dlc.kg951a	kg9510280ms0_4	3c7bff94	أما أنا، فأنا جبان أكثر<br>من أن أخلع معطفي أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04287	kh3_event_kg_dlc.kg951a	kg9510290xy0	5bb18ce6	من أنت حقا?<br>هل أنت عراف أو شيء كهذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04288	kh3_event_kg_dlc.kg951a	kg9510300ms0_1	f7d0e2e4	حسنا، يمكنني أن أكذب وأقول إنني كذلك،<br>بينما أنا في الحقيقة فنان عبقري، أو حتى عالم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04284	kh3_event_kg_dlc.kg951a	kg9510280ms0_2	1910a048	لن تحتاج إلى معطف قديم سخيف لتبقى بأمان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04285	kh3_event_kg_dlc.kg951a	kg9510280ms0_3	a1acc72d	بل ستكون أنت من يتحكم<br>بالظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04286	kh3_event_kg_dlc.kg951a	kg9510280ms0_4	3c7bff94	أما أنا، فأنا جبان أكثر<br>من أن أخلع معطفي أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04287	kh3_event_kg_dlc.kg951a	kg9510290xy0	5bb18ce6	من أنت حقا?<br>هل أنت عراف أو شيء كهذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04288	kh3_event_kg_dlc.kg951a	kg9510300ms0_1	f7d0e2e4	حسنا، يمكنني أن أكذب وأقول إنني كذلك،<br>بينما أنا في الحقيقة فنان عبقري، أو حتى عالم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04289	kh3_event_kg_dlc.kg951a	kg9510300ms0_1b	e1f19095		todo	
-04290	kh3_event_kg_dlc.kg951a	kg9510300ms0_2	e5654d0a	يمكنني أن أقول لك إنني أحلم بسلام العالم،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04291	kh3_event_kg_dlc.kg951a	kg9510300ms0_2b	6f7e9776	بينما أنا في الحقيقة أخطط لتدميره.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04292	kh3_event_kg_dlc.kg951a	kg9510300ms0_3	5dd92a6f	الحقيقة هي ما تراه بعينيك،<br>لا ما تسمعه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04293	kh3_event_kg_dlc.kg951a	kg9510310xy0	474f3f73	إذن، ما اسمك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04294	kh3_event_kg_dlc.kg951a	kg9510320ms0_1	f4bb18de	ماذا قلت للتو―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04295	kh3_event_kg_dlc.kg951a	kg9510320ms0_2	e60eb730	لا بأس، أظن أنه لا ضرر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04296	kh3_event_kg_dlc.kg951a	kg9510320ms0_3	5eb2d055	اسمي―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04297	kh3_event_kg_dlc.kg951a	kg9510320ms1	552193f8	أنا معلم مفقود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04298	kh3_event_kg_dlc.kg951a	kg9510330xy0	8d8149ff	معلم... مفقود...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04299	kh3_event_kg_dlc.kg951a	kg9510340ms0	69be6948	ليكن قلبك مفتاحك الهادي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04300	kh3_event_kg_dlc.kg952a	kg9520000txt	6eff27d7	<i(on)>بعد 75 عاما―<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04301	kh3_event_kg_dlc.kg952a	kg9520010x20	a2b9405f	ما المضحك أيها العجوز?<br>هل تشاركنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04302	kh3_event_kg_dlc.kg952a	kg9520020xn0_1	3339a714	أقف هنا اليوم بسبب لقاء مقدر،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04303	kh3_event_kg_dlc.kg952a	kg9520020xn0_2	218c08fa	قبل سنوات طويلة جدا، حين كنت فتى يافعا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04304	kh3_event_kg_dlc.kg952a	kg9520020xn0_3	99306f9f	لم أعرف قط من كان، وربما لن أعرف أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04305	kh3_event_kg_dlc.kg952a	kg9520020xn1	b7258c79	لكنني أرى الآن الحقيقة التي تحدث عنها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04306	kh3_event_kg_dlc.kg952a	kg9520030x20_1	5df741a5	ليس لدينا وقت لحكايات ما قبل النوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04307	kh3_event_kg_dlc.kg952a	kg9520030x20_2	4f42ee4b	بدون الفتى، ما زلنا ينقصنا<br>الوعاء الثالث عشر،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04308	kh3_event_kg_dlc.kg952a	kg9520030x20_3	f7fe892e	أما الاثنا عشر الآخرون،<br>فثلاثة منا فقط هنا الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04309	kh3_event_kg_dlc.kg952a	kg9520030x20_4	6a29b197	هل أنت متأكد تماما أن الآخرين عادوا<br>إلى أزمنتهم الخاصة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04310	kh3_event_kg_dlc.kg952a	kg9520040x70_1	23a76fe0	مارلوكسيا ولارزين كلاهما هنا في هذا الزمن،<br>يحاولان تحديد موقع القلوب السبعة الجديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04311	kh3_event_kg_dlc.kg952a	kg9520040x70_2	3112c00e	لوكسورد أيضا في مكان ما في هذا العصر،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04312	kh3_event_kg_dlc.kg952a	kg9520040x71_1	b802238f	لكنه بعد لقائنا الأخير ذهب يبحث<br>عن شيء ما، بأمر منك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04313	kh3_event_kg_dlc.kg952a	kg9520040x71_2	aab78c61	أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04314	kh3_event_kg_dlc.kg952a	kg9520050x20_1	584b4feb	أوه، ذلك، صحيح...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04315	kh3_event_kg_dlc.kg952a	kg9520050x20_2	4afee005	حسنا، لنقل إن ما يفعله<br>سيفيدنا على المدى البعيد،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04316	kh3_event_kg_dlc.kg952a	kg9520050x20_3	f2428760	لكنه ليس مهما حقا<br>في هذه اللحظة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04317	kh3_event_kg_dlc.kg952a	kg9520050x20_4	6f95bfd9	تابع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04318	kh3_event_kg_dlc.kg952a	kg9520060x70	0b1de8a8	تخفي أوراقك كعادتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04319	kh3_event_kg_dlc.kg952a	kg9520070x70_1	217968c7	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04320	kh3_event_kg_dlc.kg952a	kg9520070x70_2	33ccc729	قلوب أنسيم وزيمناس وفانيتاس<br>ونسخة ريكو وزيهانورت الشاب	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04321	kh3_event_kg_dlc.kg952a	kg9520070x70_4	16a798f5	عادت إلى حيث أتت،<br>وتجمعت من جديد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04322	kh3_event_kg_dlc.kg952a	kg9520070x70_5	ae1bff90	كل واحد منها يبحث عن حارس للنور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04323	kh3_event_kg_dlc.kg952a	kg9520080x20_1	5286ae6a	إذن الذين صاروا بشرا، ثم عادوا<br>إلى اللا أحد مرة أخرى هم أنا وأنت،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04324	kh3_event_kg_dlc.kg952a	kg9520080x21_1	c923e205	ولوكسورد ومارلوكسيا ولارزين، أي خمسة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04325	kh3_event_kg_dlc.kg952a	kg9520080x21_2	db964deb	أما الذين من الماضي والمنقولين إلى نسخ فهم<br>أنسيم وزيمناس وفانيتاس ونسخة ريكو،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04290	kh3_event_kg_dlc.kg951a	kg9510300ms0_2	e5654d0a	يمكنني أن أقول لك إنني أحلم بسلام العالم،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04291	kh3_event_kg_dlc.kg951a	kg9510300ms0_2b	6f7e9776	بينما أنا في الحقيقة أخطط لتدميره.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04292	kh3_event_kg_dlc.kg951a	kg9510300ms0_3	5dd92a6f	الحقيقة هي ما تراه بعينيك،<br>لا ما تسمعه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04293	kh3_event_kg_dlc.kg951a	kg9510310xy0	474f3f73	إذن، ما اسمك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04294	kh3_event_kg_dlc.kg951a	kg9510320ms0_1	f4bb18de	ماذا قلت للتو―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04295	kh3_event_kg_dlc.kg951a	kg9510320ms0_2	e60eb730	لا بأس، أظن أنه لا ضرر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04296	kh3_event_kg_dlc.kg951a	kg9510320ms0_3	5eb2d055	اسمي―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04297	kh3_event_kg_dlc.kg951a	kg9510320ms1	552193f8	أنا معلم مفقود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04298	kh3_event_kg_dlc.kg951a	kg9510330xy0	8d8149ff	معلم... مفقود...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04299	kh3_event_kg_dlc.kg951a	kg9510340ms0	69be6948	ليكن قلبك مفتاحك الذي يرشدك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04300	kh3_event_kg_dlc.kg952a	kg9520000txt	6eff27d7	<i(on)>بعد 75 عاما―<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04301	kh3_event_kg_dlc.kg952a	kg9520010x20	a2b9405f	ما المضحك أيها العجوز?<br>هل تشاركنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04302	kh3_event_kg_dlc.kg952a	kg9520020xn0_1	3339a714	أقف هنا اليوم بسبب لقاء مقدر،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04303	kh3_event_kg_dlc.kg952a	kg9520020xn0_2	218c08fa	قبل سنوات طويلة جدا، حين كنت فتى يافعا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04304	kh3_event_kg_dlc.kg952a	kg9520020xn0_3	99306f9f	لم أعرف قط من كان، وربما لن أعرف أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04305	kh3_event_kg_dlc.kg952a	kg9520020xn1	b7258c79	لكنني أرى الآن الحقيقة التي تحدث عنها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04306	kh3_event_kg_dlc.kg952a	kg9520030x20_1	5df741a5	ليس لدينا وقت لحكايات ما قبل النوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04307	kh3_event_kg_dlc.kg952a	kg9520030x20_2	4f42ee4b	بدون الفتى، ما زلنا ينقصنا<br>الوعاء الثالث عشر،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04308	kh3_event_kg_dlc.kg952a	kg9520030x20_3	f7fe892e	أما الاثنا عشر الآخرون،<br>فثلاثة منا فقط هنا الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04309	kh3_event_kg_dlc.kg952a	kg9520030x20_4	6a29b197	هل أنت متأكد تماما أن الآخرين عادوا<br>إلى أزمنتهم الخاصة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04310	kh3_event_kg_dlc.kg952a	kg9520040x70_1	23a76fe0	مارلوكسيا ولارزين كلاهما هنا في هذا الزمن،<br>يحاولان تحديد موقع القلوب السبعة الجديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04311	kh3_event_kg_dlc.kg952a	kg9520040x70_2	3112c00e	لوكسورد أيضا في مكان ما في هذا العصر،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04312	kh3_event_kg_dlc.kg952a	kg9520040x71_1	b802238f	لكنه بعد لقائنا الأخير ذهب يبحث<br>عن شيء ما، بأمر منك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04313	kh3_event_kg_dlc.kg952a	kg9520040x71_2	aab78c61	أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04314	kh3_event_kg_dlc.kg952a	kg9520050x20_1	584b4feb	أوه، ذلك، صحيح...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04315	kh3_event_kg_dlc.kg952a	kg9520050x20_2	4afee005	حسنا، لنقل إن ما يفعله<br>سيفيدنا على المدى البعيد،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04316	kh3_event_kg_dlc.kg952a	kg9520050x20_3	f2428760	لكنه ليس مهما حقا<br>في هذه اللحظة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04317	kh3_event_kg_dlc.kg952a	kg9520050x20_4	6f95bfd9	تابع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04318	kh3_event_kg_dlc.kg952a	kg9520060x70	0b1de8a8	تخفي أوراقك كعادتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04319	kh3_event_kg_dlc.kg952a	kg9520070x70_1	217968c7	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04320	kh3_event_kg_dlc.kg952a	kg9520070x70_2	33ccc729	قلوب أنسيم وزيمناس وفانيتاس<br>ونسخة ريكو وزيهانورت الشاب	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04321	kh3_event_kg_dlc.kg952a	kg9520070x70_4	16a798f5	عادت إلى حيث أتت،<br>وتجمعت من جديد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04322	kh3_event_kg_dlc.kg952a	kg9520070x70_5	ae1bff90	كل واحد منها يبحث عن حارس للنور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04323	kh3_event_kg_dlc.kg952a	kg9520080x20_1	5286ae6a	إذن الذين صاروا بشرا، ثم عادوا<br>إلى اللا أحد مرة أخرى هم أنا وأنت،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04324	kh3_event_kg_dlc.kg952a	kg9520080x21_1	c923e205	ولوكسورد ومارلوكسيا ولارزين، أي خمسة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04325	kh3_event_kg_dlc.kg952a	kg9520080x21_2	db964deb	أما الذين من الماضي والمنقولين إلى نسخ فهم<br>أنسيم وزيمناس وفانيتاس ونسخة ريكو،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04326	kh3_event_kg_dlc.kg952a	kg9520080x21_2b	ff4d1efe		todo	
-04327	kh3_event_kg_dlc.kg952a	kg9520080x21_3	632a2a8e	والنسخة الأصغر من العجوز. وإذا أضفنا<br>العجوز، يصبح المجموع أحد عشر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04328	kh3_event_kg_dlc.kg952a	kg9520080x21_4	fefd1237	أظن أننا ما زلنا نحتاج اثنين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04329	kh3_event_kg_dlc.kg952a	kg9520090xn0_1	3c4848db	الآن يجب أن نناقش سبب اجتماعنا هنا اليوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04330	kh3_event_kg_dlc.kg952a	kg9520090xn0_2	2efde735	تجسداتي من الأزمنة الماضية،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04331	kh3_event_kg_dlc.kg952a	kg9520090xn0_3	96418050	الأوعية التي نقلت إليها قلبي<br>وجوهري، قد دمرت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04332	kh3_event_kg_dlc.kg952a	kg9520090xn0_3b	6a5dbc83	لذلك أعدت إلى ما ترونه الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04333	kh3_event_kg_dlc.kg952a	kg9520090xn1_1	a7ed04b4	كي يختفي المرء تماما، يجب أن يعاد قلبه<br>وجسده إلى شكلهما الأصلي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04334	kh3_event_kg_dlc.kg952a	kg9520090xn1_2	b558ab5a	وهذا أحد أسباب توزيعي<br>لقلبي على عدة أوعية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04335	kh3_event_kg_dlc.kg952a	kg9520090xn1_3	0de4cc3f	أنسيم وزيمناس نشآ من تيرا، أو بالأحرى<br>من شكله الشاب—وقد أعيد هو أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04336	kh3_event_kg_dlc.kg952a	kg9520090xn2_1	d073d644	لكن قلبي عاد<br>إلي، بينما قلبه ما زال مفقودا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04337	kh3_event_kg_dlc.kg952a	kg9520090xn2_1b	afd89e9d	قررت أن أملأ هذا الوعاء الفارغ<br>بقلبي—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04338	kh3_event_kg_dlc.kg952a	kg9520090xn2_2	c2c679aa	نعم، القلب نفسه الذي سكن<br>سابقا في تيرا الشاب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04339	kh3_event_kg_dlc.kg952a	kg9520100x20_1	aef34328	إذن هذا يجعلهم اثني عشر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04340	kh3_event_kg_dlc.kg952a	kg9520100x20_2	bc46ecc6	فمن نختار ليحل محل الفتى?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04341	kh3_event_kg_dlc.kg952a	kg9520110x70_1	d51f6323	عشرون نسخة صنعها فيكسن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04342	kh3_event_kg_dlc.kg952a	kg9520110x70_2	c7aacccd	الاثنتا عشرة الأولى لم تكن أكثر من<br>دمى، بالكاد بشرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04343	kh3_event_kg_dlc.kg952a	kg9520110x70_3	7f16aba8	النموذج الأولي كان نسخة ريكو،<br>ثم صنع رقم i.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04344	kh3_event_kg_dlc.kg952a	kg9520110x70_4	e2c19311	هذا يتركنا مع ستة. قلوب أنسيم وزيمناس وفانيتاس<br>ونسخة ريكو وزيهانورت الشاب—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04345	kh3_event_kg_dlc.kg952a	kg9520110x70_4b	3b7eb39c	خمسة أوعية، وبقي واحد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04327	kh3_event_kg_dlc.kg952a	kg9520080x21_3	632a2a8e	والنسخة الأصغر من العجوز. وإذا أضفنا<br>العجوز، يصبح المجموع أحد عشر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04328	kh3_event_kg_dlc.kg952a	kg9520080x21_4	fefd1237	أظن أننا ما زلنا نحتاج اثنين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04329	kh3_event_kg_dlc.kg952a	kg9520090xn0_1	3c4848db	الآن يجب أن نناقش سبب اجتماعنا هنا اليوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04330	kh3_event_kg_dlc.kg952a	kg9520090xn0_2	2efde735	تجسداتي من الأزمنة الماضية،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04331	kh3_event_kg_dlc.kg952a	kg9520090xn0_3	96418050	الأوعية التي نقلت إليها قلبي<br>وجوهري، قد دمرت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04332	kh3_event_kg_dlc.kg952a	kg9520090xn0_3b	6a5dbc83	لذلك أعدت إلى ما ترونه الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04333	kh3_event_kg_dlc.kg952a	kg9520090xn1_1	a7ed04b4	كي يختفي المرء تماما، يجب أن يعاد قلبه<br>وجسده إلى شكلهما الأصلي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04334	kh3_event_kg_dlc.kg952a	kg9520090xn1_2	b558ab5a	وهذا أحد أسباب توزيعي<br>لقلبي على عدة أوعية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04335	kh3_event_kg_dlc.kg952a	kg9520090xn1_3	0de4cc3f	أنسيم وزيمناس نشآ من تيرا، أو بالأحرى<br>من شكله الشاب—وقد أعيد هو أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04336	kh3_event_kg_dlc.kg952a	kg9520090xn2_1	d073d644	لكن قلبي عاد<br>إلي، بينما قلبه ما زال مفقودا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04337	kh3_event_kg_dlc.kg952a	kg9520090xn2_1b	afd89e9d	قررت أن أملأ هذا الوعاء الفارغ<br>بقلبي—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04338	kh3_event_kg_dlc.kg952a	kg9520090xn2_2	c2c679aa	نعم، القلب نفسه الذي سكن<br>سابقا في تيرا الشاب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04339	kh3_event_kg_dlc.kg952a	kg9520100x20_1	aef34328	إذن هذا يجعلهم اثني عشر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04340	kh3_event_kg_dlc.kg952a	kg9520100x20_2	bc46ecc6	فمن نختار ليحل محل الفتى?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04341	kh3_event_kg_dlc.kg952a	kg9520110x70_1	d51f6323	عشرون نسخة صنعها فيكسن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04342	kh3_event_kg_dlc.kg952a	kg9520110x70_2	c7aacccd	الاثنتا عشرة الأولى لم تكن أكثر من<br>دمى، بالكاد بشرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04343	kh3_event_kg_dlc.kg952a	kg9520110x70_3	7f16aba8	النموذج الأولي كان نسخة ريكو،<br>ثم صنع رقم i.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04344	kh3_event_kg_dlc.kg952a	kg9520110x70_4	e2c19311	هذا يتركنا مع ستة. قلوب أنسيم وزيمناس وفانيتاس<br>ونسخة ريكو وزيهانورت الشاب—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04345	kh3_event_kg_dlc.kg952a	kg9520110x70_4b	3b7eb39c	خمسة أوعية، وبقي واحد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04346	kh3_event_kg_dlc.kg952a	kg9520110x70_4c	83c2d4f9		todo	
-04347	kh3_event_kg_dlc.kg952a	kg9520110x71_1	4eba2f4c	فيكسن وديميكس مرشحان،<br>لكنهما احتياط في أفضل الأحوال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04348	kh3_event_kg_dlc.kg952a	kg9520110x71_2	5c0f80a2	خطة النسخة الأخيرة هي أن نمنحها<br>قلبا مرتبطا بقلب سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04349	kh3_event_kg_dlc.kg952a	kg9520120x20_1	ad98b912	مرتبط بسورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04350	kh3_event_kg_dlc.kg952a	kg9520120x20_2	bf2d16fc	هل لديك أحد في بالك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04351	kh3_event_kg_dlc.kg952a	kg9520130x70_1	d6749919	النموذج الأولي الثاني الذي صنع، رقم i.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04352	kh3_event_kg_dlc.kg952a	kg9520130x70_2	c4c136f7	ومع أنه محي من الذاكرة،<br>فقد بقي في سجلات فيكسن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04353	kh3_event_kg_dlc.kg952a	kg9520130x70_3	7c7d5192	وجوده مرتبط ارتباطا وثيقا بذكريات سورا،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04354	kh3_event_kg_dlc.kg952a	kg9520130x70_3b	097eb790	ولذلك يفترض أن يكون أكثر من<br>كاف لحاجتنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04355	kh3_event_kg_dlc.kg952a	kg9520140x20	0816f567	رقم i...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04356	kh3_event_kg_dlc.kg952a	kg9520140x21	b0aa9202	عدد خيالي، يا للملاءمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04357	kh3_event_kg_dlc.kg952a	kg9520150x70_1	d3c89757	بينما ينشغل زيهانورت الشاب<br>بنقل القلوب،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04358	kh3_event_kg_dlc.kg952a	kg9520150x70_2	c17d38b9	علي أن أؤدي واجبي. سأذهب<br>لأستعيد فيكسن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04359	kh3_event_kg_dlc.kg952a	kg9520160x20_1	ab4f4d66	موثوق كعادتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04360	kh3_event_kg_dlc.kg952a	kg9520160x20_2	b9fae288	يبدو لي أنك تمسك<br>بكل شيء بإحكام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04361	kh3_event_kg_dlc.kg952a	kg9520160x20_3	014685ed	حسنا، سأذهب لأؤدي دوري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04362	kh3_event_kg_dlc.kg952a	kg9520170x70	ef5fb6c9	الخطة، كما اتفقنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04363	kh3_event_kg_dlc.kg952a	kg9520180xn0	d9a92e05	ليكن قلبك مفتاحك الهادي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04364	kh3_event_kg_dlc.kg702r	kg702r0010cs0_1	44848893	<i(on)>القلب الذي تملكه الآن كان موجودا<br>في ذلك الزمن أصلا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04365	kh3_event_kg_dlc.kg702r	kg702r0010cs0_2	5631277d	<i(on)>لقد عاد إلى ذلك الماضي من قبل.<br>ولا شيء يغير هذه الحقيقة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04366	kh3_event_kg_dlc.kg702r	kg702r0020cs0_1	465a8fb4	<i(on)>المكان الذي ستعود إليه هو الشق في نسيج<br>الزمن الذي نشأ حين غيرت<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04367	kh3_event_kg_dlc.kg702r	kg702r0020cs0_1b	17f9349f	<i(on)>قدرك، ثم غيرته مرة أخرى.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04368	kh3_event_kg_dlc.kg702r	kg702r0020cs0_2	54ef205a	<i(on)>كي لا تبتعد كثيرا عن<br>قوة اليقظة الحقيقية،<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04369	kh3_event_kg_dlc.kg702r	kg702r0020cs0_3	ec53473f	<i(on)>ستدخل قلوب الحراس وتمر عبرها<br>حتى تبلغ قلب كايري.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04370	kh3_event_kg_dlc.kg702r	kg702r0030cs0_1	47ef72a9	<i(on)>كل شعور أحسه كل حارس منهم...<br>الحزن والقلق والخوف واللطف.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04371	kh3_event_kg_dlc.kg702r	kg702r0030cs0_2	555add47	<i(on)>كل ما رأوه، وكل ما<br>أحسوا به حينها،<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04372	kh3_event_kg_dlc.kg702r	kg702r0030cs0_3	ede6ba22	<i(on)>ستشق طريقك خلاله، وتعبر<br>قلوبهم، وتغوص أعمق فأعمق.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04347	kh3_event_kg_dlc.kg952a	kg9520110x71_1	4eba2f4c	فيكسن وديميكس مرشحان،<br>لكنهما احتياط في أفضل الأحوال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04348	kh3_event_kg_dlc.kg952a	kg9520110x71_2	5c0f80a2	خطة النسخة الأخيرة هي أن نمنحها<br>قلبا مرتبطا بقلب سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04349	kh3_event_kg_dlc.kg952a	kg9520120x20_1	ad98b912	مرتبط بسورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04350	kh3_event_kg_dlc.kg952a	kg9520120x20_2	bf2d16fc	هل لديك أحد في بالك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04351	kh3_event_kg_dlc.kg952a	kg9520130x70_1	d6749919	النموذج الأولي الثاني الذي صنع، رقم i.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04352	kh3_event_kg_dlc.kg952a	kg9520130x70_2	c4c136f7	ومع أنه محي من الذاكرة،<br>فقد بقي في سجلات فيكسن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04353	kh3_event_kg_dlc.kg952a	kg9520130x70_3	7c7d5192	وجوده مرتبط ارتباطا وثيقا بذكريات سورا،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04354	kh3_event_kg_dlc.kg952a	kg9520130x70_3b	097eb790	ولذلك يفترض أن يكون أكثر من<br>كاف لحاجتنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04355	kh3_event_kg_dlc.kg952a	kg9520140x20	0816f567	رقم i...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04356	kh3_event_kg_dlc.kg952a	kg9520140x21	b0aa9202	عدد خيالي، يا للملاءمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04357	kh3_event_kg_dlc.kg952a	kg9520150x70_1	d3c89757	بينما ينشغل زيهانورت الشاب<br>بنقل القلوب،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04358	kh3_event_kg_dlc.kg952a	kg9520150x70_2	c17d38b9	علي أن أؤدي واجبي. سأذهب<br>لأستعيد فيكسن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04359	kh3_event_kg_dlc.kg952a	kg9520160x20_1	ab4f4d66	موثوق كعادتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04360	kh3_event_kg_dlc.kg952a	kg9520160x20_2	b9fae288	يبدو لي أنك تمسك<br>بكل شيء بإحكام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04361	kh3_event_kg_dlc.kg952a	kg9520160x20_3	014685ed	حسنا، سأذهب لأؤدي دوري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04362	kh3_event_kg_dlc.kg952a	kg9520170x70	ef5fb6c9	الخطة، كما اتفقنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04363	kh3_event_kg_dlc.kg952a	kg9520180xn0	d9a92e05	ليكن قلبك مفتاحك الذي يرشدك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04364	kh3_event_kg_dlc.kg702r	kg702r0010cs0_1	44848893	<i(on)>القلب الذي تملكه الآن كان موجودا<br>في ذلك الزمن أصلا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04365	kh3_event_kg_dlc.kg702r	kg702r0010cs0_2	5631277d	<i(on)>لقد عاد إلى ذلك الماضي من قبل.<br>ولا شيء يغير هذه الحقيقة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04366	kh3_event_kg_dlc.kg702r	kg702r0020cs0_1	465a8fb4	<i(on)>المكان الذي ستعود إليه هو الشق في نسيج<br>الزمن الذي نشأ حين غيرت<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04367	kh3_event_kg_dlc.kg702r	kg702r0020cs0_1b	17f9349f	<i(on)>قدرك، ثم غيرته مرة أخرى.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04368	kh3_event_kg_dlc.kg702r	kg702r0020cs0_2	54ef205a	<i(on)>كي لا تبتعد كثيرا عن<br>قوة اليقظة الحقيقية،<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04369	kh3_event_kg_dlc.kg702r	kg702r0020cs0_3	ec53473f	<i(on)>ستدخل قلوب الحراس وتمر عبرها<br>حتى تبلغ قلب كايري.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04370	kh3_event_kg_dlc.kg702r	kg702r0030cs0_1	47ef72a9	<i(on)>كل شعور أحسه كل حارس منهم...<br>الحزن والقلق والخوف واللطف.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04371	kh3_event_kg_dlc.kg702r	kg702r0030cs0_2	555add47	<i(on)>كل ما رأوه، وكل ما<br>أحسوا به حينها،<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04372	kh3_event_kg_dlc.kg702r	kg702r0030cs0_3	ede6ba22	<i(on)>ستشق طريقك خلاله، وتعبر<br>قلوبهم، وتغوص أعمق فأعمق.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04373	kh3_event_kg_dlc.kg702r	kg702r0030cs0_3b	a4063648		todo	
-04374	kh3_event_kg_dlc.kg702r	kg702r0040cs0_1	43e681fa	<i(on)>لا أعرف على وجه اليقين ما ينتظرك في النهاية،<br>أو ما ستتمكن من فعله فعلا،<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04375	kh3_event_kg_dlc.kg702r	kg702r0040cs0_2	51532e14	<i(on)>لكنك بتتبع الصلة بين القلوب<br>ستكتشف حقيقة أعظم―<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04376	kh3_event_kg_dlc.kg702r	kg702r0040cs0_3	e9ef4971	<i(on)>حقيقة ستساعدك بلا شك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04377	kh3_event_kg_dlc.kg702r	kg702r0050cs0_1	42537ce7	<i(on)>لكن... في مجرى الزمن في الماضي، لن يتاح لك سوى<br>الوقت حتى لحظة مغادرتك إلى هنا،<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04378	kh3_event_kg_dlc.kg702r	kg702r0050cs0_2	50e6d309	<i(on)>لذا عليك أن تجد قلب كايري<br>وتعيده قبل ذلك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04379	kh3_event_kg_dlc.kg702r	kg702r0060cs0_1	408d7bc0	<i(on)>هذه كل النصائح التي أستطيع تقديمها.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04380	kh3_event_kg_dlc.kg702r	kg702r0060cs0_2	5238d42e	<i(on)>وبعدها لا أستطيع إلا أن أقول،<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04381	kh3_event_kg_dlc.kg702r	kg702r0060cs0_3	ea84b34b	<i(on)>ليكن قلبك... مفتاحك الهادي.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04382	kh3_event_kg_dlc.kg702r	kg702r0100sr0_1	fa454a90	هذا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04383	kh3_event_kg_dlc.kg702r	kg702r0100sr0_2	e8f0e57e	هو قلب فين...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04384	kh3_event_kg_dlc.kg702r	kg702r0110sr0	83953d74	فين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04385	kh3_event_kg_dlc.kg702r	kg702r0120sr0	2c3c70be	فين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04386	kh3_event_kg_dlc.kg702r	kg702r0135txt	c22cacc3	لا، اتركه وشأنه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04387	kh3_event_kg_dlc.kg702r	kg702r0150sr0	cd78d62d	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04388	kh3_event_kg_dlc.kg702r	kg702r0155txt	460f3116	إنه نقي جدا...<br>والقلب النقي قد يكون أكثر القلوب إهمالا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04389	kh3_event_kg_dlc.kg702r	kg702r0160sr0	62d19be7	من أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04390	kh3_event_kg_dlc.kg702r	kg702r0165txt	e9a67cdc	...الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04391	kh3_event_kg_dlc.kg702r	kg702r0170sr0_1	fe4cb9c3	الظلام?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04392	kh3_event_kg_dlc.kg702r	kg702r0170sr0_2	ecf9162d	...فانيتاس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04393	kh3_event_kg_dlc.kg702s	kg702s0190sr0	ef94ee6c	هذا كل شيء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04394	kh3_event_kg_dlc.kg702s	kg702s0220kr0	8fec473e	آكسل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04395	kh3_event_kg_dlc.kg702s	kg702s0230mm0	a02dfa1f	لا! سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04396	kh3_event_kg_dlc.kg702s	kg702s0240go0	e97bb390	دونالد، لا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04397	kh3_event_kg_dlc.kg702s	kg702s0250do0	fb825a26	زيتافلير!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04398	kh3_event_kg_dlc.kg702s	kg702s0256aq0	598167cb	فين...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04399	kh3_event_kg_dlc.kg702s	kg702s0010sr0_1	a56e2060	هل هذا... قلب أكوا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04400	kh3_event_kg_dlc.kg702s	kg702s0010sr0_2	b7db8f8e	قلب فين كان هادئا جدا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04401	kh3_event_kg_dlc.kg702s	kg702s0010sr0_3	0f67e8eb	لكن هذا... هذا خوف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04402	kh3_event_kg_dlc.kg702s	kg702s0260sr0	cb153765	لا يمكن أن يكون هذا حقيقيا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04403	kh3_event_kg_dlc.kg702s	kg702s0270rk0_1	c62c283d	تماسك يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04404	kh3_event_kg_dlc.kg702s	kg702s0270rk0_2	d49987d3	لم نفقدهم.<br>ما زالت قلوبهم معهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04405	kh3_event_kg_dlc.kg702s	kg702s0270rk0_3	6c25e0b6	لكن علينا أن نحميهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04406	kh3_event_kg_dlc.kg702s	kg702s0280sr0	d2ed7c02	صحيح!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04407	kh3_event_kg_dlc.kg702s	kg702s0290aq0	d92633c4	سنقف معا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04374	kh3_event_kg_dlc.kg702r	kg702r0040cs0_1	43e681fa	<i(on)>لا أعرف على وجه اليقين ما ينتظرك في النهاية،<br>أو ما ستتمكن من فعله فعلا،<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04375	kh3_event_kg_dlc.kg702r	kg702r0040cs0_2	51532e14	<i(on)>لكنك بتتبع الصلة بين القلوب<br>ستكتشف حقيقة أعظم―<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04376	kh3_event_kg_dlc.kg702r	kg702r0040cs0_3	e9ef4971	<i(on)>حقيقة ستساعدك بلا شك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04377	kh3_event_kg_dlc.kg702r	kg702r0050cs0_1	42537ce7	<i(on)>لكن... في مجرى الزمن في الماضي، لن يتاح لك سوى<br>الوقت حتى لحظة مغادرتك إلى هنا،<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04378	kh3_event_kg_dlc.kg702r	kg702r0050cs0_2	50e6d309	<i(on)>لذا عليك أن تجد قلب كايري<br>وتعيده قبل ذلك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04379	kh3_event_kg_dlc.kg702r	kg702r0060cs0_1	408d7bc0	<i(on)>هذه كل النصائح التي أستطيع تقديمها.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04380	kh3_event_kg_dlc.kg702r	kg702r0060cs0_2	5238d42e	<i(on)>وبعدها لا أستطيع إلا أن أقول،<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04381	kh3_event_kg_dlc.kg702r	kg702r0060cs0_3	ea84b34b	<i(on)>ليكن قلبك... مفتاحك الذي يرشدك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04382	kh3_event_kg_dlc.kg702r	kg702r0100sr0_1	fa454a90	هذا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04383	kh3_event_kg_dlc.kg702r	kg702r0100sr0_2	e8f0e57e	هو قلب فين...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04384	kh3_event_kg_dlc.kg702r	kg702r0110sr0	83953d74	فين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04385	kh3_event_kg_dlc.kg702r	kg702r0120sr0	2c3c70be	فين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04386	kh3_event_kg_dlc.kg702r	kg702r0135txt	c22cacc3	لا، اتركه وشأنه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04387	kh3_event_kg_dlc.kg702r	kg702r0150sr0	cd78d62d	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04388	kh3_event_kg_dlc.kg702r	kg702r0155txt	460f3116	إنه نقي جدا...<br>والقلب النقي قد يكون أكثر القلوب إهمالا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04389	kh3_event_kg_dlc.kg702r	kg702r0160sr0	62d19be7	من أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04390	kh3_event_kg_dlc.kg702r	kg702r0165txt	e9a67cdc	...الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04391	kh3_event_kg_dlc.kg702r	kg702r0170sr0_1	fe4cb9c3	الظلام?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04392	kh3_event_kg_dlc.kg702r	kg702r0170sr0_2	ecf9162d	...فانيتاس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04393	kh3_event_kg_dlc.kg702s	kg702s0190sr0	ef94ee6c	هذا كل شيء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04394	kh3_event_kg_dlc.kg702s	kg702s0220kr0	8fec473e	آكسل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04395	kh3_event_kg_dlc.kg702s	kg702s0230mm0	a02dfa1f	لا! سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04396	kh3_event_kg_dlc.kg702s	kg702s0240go0	e97bb390	دونالد، لا تفعل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04397	kh3_event_kg_dlc.kg702s	kg702s0250do0	fb825a26	زيتافلير!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04398	kh3_event_kg_dlc.kg702s	kg702s0256aq0	598167cb	فين...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04399	kh3_event_kg_dlc.kg702s	kg702s0010sr0_1	a56e2060	هل هذا... قلب أكوا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04400	kh3_event_kg_dlc.kg702s	kg702s0010sr0_2	b7db8f8e	قلب فين كان هادئا جدا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04401	kh3_event_kg_dlc.kg702s	kg702s0010sr0_3	0f67e8eb	لكن هذا... هذا خوف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04402	kh3_event_kg_dlc.kg702s	kg702s0260sr0	cb153765	لا يمكن أن يكون هذا حقيقيا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04403	kh3_event_kg_dlc.kg702s	kg702s0270rk0_1	c62c283d	تماسك يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04404	kh3_event_kg_dlc.kg702s	kg702s0270rk0_2	d49987d3	لم نخسرهم.<br>ما زالت لديهم قلوبهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04405	kh3_event_kg_dlc.kg702s	kg702s0270rk0_3	6c25e0b6	لكن علينا أن نحميهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04406	kh3_event_kg_dlc.kg702s	kg702s0280sr0	d2ed7c02	صحيح!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04407	kh3_event_kg_dlc.kg702s	kg702s0290aq0	d92633c4	نقف معا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04408	kh3_event_kg_dlc.kg702s	kg702s0291sr0	19e2d6d5		todo	
-04409	kh3_event_kg_dlc.kg702s	kg702s0300aq0	a0bfbb17	ميكي، كايري، غوفي، راقبوا البقية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04410	kh3_event_kg_dlc.kg702s	kg702s0310mm0	ebc6e9b4	لا، علينا جميعا أن نصل إلى مكان آمن ما دمنا نستطيع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04411	kh3_event_kg_dlc.kg702s	kg702s0320rk0	fc8cdf74	فات الأوان على ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04412	kh3_event_kg_dlc.kg702s	kg702s0330aq0	0f16f6dd	لا يمكن... لا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04413	kh3_event_kg_dlc.kg702s	kg702s0030sr0	39a42b75	<i(on)>إذن... هذا هو الخوف واليأس اللذان تشعر بهما أكوا...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04414	kh3_event_kg_dlc.kg702s	kg702s0030sr1	81184c10	<i(on)>والآن... أشعر بهما أنا أيضا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04415	kh3_event_kg_dlc.kg852r	kg852r0020vn0	3d83fb0a	<i(on)>تيرا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04416	kh3_event_kg_dlc.kg852r	kg852r0030aq0	85ffe7b8	<i(on)>فين!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04417	kh3_event_kg_dlc.kg852r	kg852r0050vn0	dcc75d99	<i(on)>تيرا! وجدناك!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04418	kh3_event_kg_dlc.kg852r	kg852r0070aq0	cb120ce1	<i(on)>تيرا، أرجوك قل إنك هناك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04419	kh3_event_kg_dlc.kg852r	kg852r0120vn0	bca69e2d	<i(on)>ما هذا يا أكوا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04420	kh3_event_kg_dlc.kg852r	kg852r0130aq0	04da829f	<i(on)>أعرف أنك لست هو.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04421	kh3_event_kg_dlc.kg852r	kg852r0150aq0	80f91f4a	<i(on)>الآن، أطلق سراح صديقنا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04422	kh3_event_kg_dlc.kg852r	kg852r0020sr0_1	fd10f424	هل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04423	kh3_event_kg_dlc.kg852r	kg852r0020sr0_2	efa55bca	هل عبرت من خلال الشق...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04424	kh3_event_kg_dlc.kg852r	kg852r0040nm0	3d3bfa3e	سورا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04425	kh3_event_kg_dlc.kg852r	kg852r0050sr0	6f700eed	ناميني?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04426	kh3_event_kg_dlc.kg852r	kg852r0060nm0_1	c59df47c	ماذا تفعلين هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04427	kh3_event_kg_dlc.kg852r	kg852r0060nm0_2	d7285b92	هل ضعت عن نفسك كما حدث لي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04428	kh3_event_kg_dlc.kg852r	kg852r0070sr0_1	fa72fd4d	حسنا، إنها قصة طويلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04429	kh3_event_kg_dlc.kg852r	kg852r0070sr0_2	e8c752a3	لكن أخبريني، لماذا لم تعودي<br>إلى قلب كايري بعد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04430	kh3_event_kg_dlc.kg852r	kg852r0190mm0	7dd14b44	إنه <i(on)>فعلا<i(off)> الثالث عشر بينهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04431	kh3_event_kg_dlc.kg852r	kg852r0200tx0	7899e7ba	اليوم هو اليوم الذي تخسرون فيه جميعا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04432	kh3_event_kg_dlc.kg852r	kg852r0210aq0	960a5d3b	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04433	kh3_event_kg_dlc.kg852r	kg852r0220tx0	b2579136	قبل أن تواجهوا الثلاثة عشر أصلا،<br>سينتزع قلب كل واحد منكم من جسده.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04434	kh3_event_kg_dlc.kg852r	kg852r0220tx1	0aebf653	لكن لا تخافوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04435	kh3_event_kg_dlc.kg852r	kg852r0220tx2	185e59bd	سيتم صنع نصل χ في النهاية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04436	kh3_event_kg_dlc.kg852r	kg852r0080nm0	ee0dc7d5	لأنني... ما زلت غير قادرة على ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04437	kh3_event_kg_dlc.kg852r	kg852r0080nm1	56b1a0b0	لكنني... أنادي قلب تيرا،<br>وقد جلبت "إياه" إلى هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04438	kh3_event_kg_dlc.kg852r	kg852r0090sr0	bc463306	تيرا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04439	kh3_event_kg_dlc.kg852r	kg852r0100nm0	f2f37440	لا، قلب تيرا... غارق جدا في الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04440	kh3_event_kg_dlc.kg852r	kg852r0100nm1_1	aa5eb3f7	بدلا من ذلك، جلبت أكثر<br>أفكار تيرا خصوصية وقوة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04441	kh3_event_kg_dlc.kg852r	kg852r0100nm1_2	b8eb1c19	هذا حزن تيرا، وغضبه، وأساه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04442	kh3_event_kg_dlc.kg852r	kg852r0110sr0	a0b88093	أفكار تيرا...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04443	kh3_event_kg_dlc.kg852r	kg852r0230sr0	32685f37	لن نخسر أمامك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04444	kh3_event_kg_dlc.kg852r	kg852r0280tx0	e5423108	من أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04445	kh3_event_kg_dlc.kg852r	kg852r0290te0	679b2eb4	وجدتك يا زيهانورت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04446	kh3_event_kg_dlc.kg852r	kg852r0310aq0	172f381c	تيرا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04447	kh3_event_kg_dlc.kg852r	kg852r0320tx0	3372f411	هذا مستحيل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04448	kh3_event_kg_dlc.kg852r	kg852r0330te0	b1abebad	كم انتظرت هذه اللحظة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04449	kh3_event_kg_dlc.kg955a	kg9550050tx0	e9962a37	أيتها الروح البائسة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04450	kh3_event_kg_dlc.kg955a	kg9550060te0	a1814307	ما دام المعلم زيهانورت يسكن فيك،<br>فأنت خطر على أكوا وفين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04409	kh3_event_kg_dlc.kg702s	kg702s0300aq0	a0bfbb17	ميكي، كايري، غوفي، اعتنوا بالآخرين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04410	kh3_event_kg_dlc.kg702s	kg702s0310mm0	ebc6e9b4	لا، علينا جميعا أن نصل إلى مكان آمن ما دمنا نستطيع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04411	kh3_event_kg_dlc.kg702s	kg702s0320rk0	fc8cdf74	فات الأوان على ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04412	kh3_event_kg_dlc.kg702s	kg702s0330aq0	0f16f6dd	لا يمكن... لا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04413	kh3_event_kg_dlc.kg702s	kg702s0030sr0	39a42b75	<i(on)>إذن... هذا هو الخوف واليأس اللذان تشعر بهما أكوا...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04414	kh3_event_kg_dlc.kg702s	kg702s0030sr1	81184c10	<i(on)>والآن... أشعر بهما أنا أيضا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04415	kh3_event_kg_dlc.kg852r	kg852r0020vn0	3d83fb0a	<i(on)>تيرا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04416	kh3_event_kg_dlc.kg852r	kg852r0030aq0	85ffe7b8	<i(on)>فين!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04417	kh3_event_kg_dlc.kg852r	kg852r0050vn0	dcc75d99	<i(on)>تيرا! وجدناك!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04418	kh3_event_kg_dlc.kg852r	kg852r0070aq0	cb120ce1	<i(on)>تيرا، أرجوك قل إنك هناك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04419	kh3_event_kg_dlc.kg852r	kg852r0120vn0	bca69e2d	<i(on)>ما هذا يا أكوا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04420	kh3_event_kg_dlc.kg852r	kg852r0130aq0	04da829f	<i(on)>أعرف أنك لست هو.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04421	kh3_event_kg_dlc.kg852r	kg852r0150aq0	80f91f4a	<i(on)>الآن، أطلق سراح صديقنا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04422	kh3_event_kg_dlc.kg852r	kg852r0020sr0_1	fd10f424	هل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04423	kh3_event_kg_dlc.kg852r	kg852r0020sr0_2	efa55bca	هل عبرت من خلال الشق...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04424	kh3_event_kg_dlc.kg852r	kg852r0040nm0	3d3bfa3e	سورا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04425	kh3_event_kg_dlc.kg852r	kg852r0050sr0	6f700eed	ناميني?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04426	kh3_event_kg_dlc.kg852r	kg852r0060nm0_1	c59df47c	ماذا تفعلين هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04427	kh3_event_kg_dlc.kg852r	kg852r0060nm0_2	d7285b92	هل ضعت عن نفسك كما حدث لي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04428	kh3_event_kg_dlc.kg852r	kg852r0070sr0_1	fa72fd4d	حسنا، إنها قصة طويلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04429	kh3_event_kg_dlc.kg852r	kg852r0070sr0_2	e8c752a3	لكن أخبريني، لماذا لم تعودي<br>إلى قلب كايري بعد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04430	kh3_event_kg_dlc.kg852r	kg852r0190mm0	7dd14b44	إنه <i(on)>فعلا<i(off)> عضوهم الثالث عشر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04431	kh3_event_kg_dlc.kg852r	kg852r0200tx0	7899e7ba	اليوم هو يوم خسارتكم جميعا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04432	kh3_event_kg_dlc.kg852r	kg852r0210aq0	960a5d3b	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04433	kh3_event_kg_dlc.kg852r	kg852r0220tx0	b2579136	قبل أن تواجهوا الثلاثة عشر أصلا،<br>سينتزع قلب كل واحد منكم من جسده.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04434	kh3_event_kg_dlc.kg852r	kg852r0220tx1	0aebf653	لكن لا تخافوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04435	kh3_event_kg_dlc.kg852r	kg852r0220tx2	185e59bd	سيصاغ نصل χ على أي حال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04436	kh3_event_kg_dlc.kg852r	kg852r0080nm0	ee0dc7d5	لأنني... ما زلت غير قادرة على ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04437	kh3_event_kg_dlc.kg852r	kg852r0080nm1	56b1a0b0	لكنني... أنادي قلب تيرا،<br>وقد جلبت "إياه" إلى هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04438	kh3_event_kg_dlc.kg852r	kg852r0090sr0	bc463306	تيرا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04439	kh3_event_kg_dlc.kg852r	kg852r0100nm0	f2f37440	لا، قلب تيرا... غارق جدا في الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04440	kh3_event_kg_dlc.kg852r	kg852r0100nm1_1	aa5eb3f7	بدلا من ذلك، جلبت أكثر<br>أفكار تيرا خصوصية وقوة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04441	kh3_event_kg_dlc.kg852r	kg852r0100nm1_2	b8eb1c19	هذا حزن تيرا، وغضبه، وأساه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04442	kh3_event_kg_dlc.kg852r	kg852r0110sr0	a0b88093	أفكار تيرا...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04443	kh3_event_kg_dlc.kg852r	kg852r0230sr0	32685f37	لن نخسر أمامك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04444	kh3_event_kg_dlc.kg852r	kg852r0280tx0	e5423108	من أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04445	kh3_event_kg_dlc.kg852r	kg852r0290te0	679b2eb4	أمسكت بك يا زيهانورت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04446	kh3_event_kg_dlc.kg852r	kg852r0310aq0	172f381c	تيرا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04447	kh3_event_kg_dlc.kg852r	kg852r0320tx0	3372f411	هذا مستحيل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04448	kh3_event_kg_dlc.kg852r	kg852r0330te0	b1abebad	كم انتظرت هذه اللحظة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04449	kh3_event_kg_dlc.kg955a	kg9550050tx0	e9962a37	أيتها الروح البائسة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04450	kh3_event_kg_dlc.kg955a	kg9550060te0	a1814307	ما دام المعلم زيهانورت يسكن فيك،<br>فأنت خطر على أكوا وفين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04451	kh3_event_kg_dlc.kg955a	kg9550060te0b	dc29d1c0		todo	
-04452	kh3_event_kg_dlc.kg955a	kg9550070tx0	23585cbb	يا لنبلك، أتبذل حياتك من أجلهما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04453	kh3_event_kg_dlc.kg955a	kg9550080te0	b8790860	يجب أن تزال من الوجود...<br>مهما كان الثمن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04454	kh3_event_kg_dlc.kg955a	kg9550120sr0	6caf1cc4	ناميني، هل تستطيعين مناداة تيرا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04455	kh3_event_kg_dlc.kg955a	kg9550130nm0	3ee4e817	لا، غضبه شديد جدا.<br>لن يستجيب لي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04456	kh3_event_kg_dlc.kg955a	kg9550140sr0_1	4e152989	أيا كان من يصاب، فهذا سيئ لتيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04457	kh3_event_kg_dlc.kg955a	kg9550140sr0_2	5ca08667	على أي حال، عليك أن ترحلي.<br>اذهبي إلى عالم المحيط والسماء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04458	kh3_event_kg_dlc.kg955a	kg9550150nm0	bac775c2	وأنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04459	kh3_event_kg_dlc.kg955a	kg9550160sr0	2242f79d	سأتولى الأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04460	kh3_event_kg_dlc.kg955a	kg9550290tx0	e39bdbd3	ارحل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04461	kh3_event_kg_dlc.kg955a	kg9550340tx0	d4efb859	كيف تكون هنا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04462	kh3_event_kg_dlc.kg955a	kg9550350sr0_1	7765d981	مهلا، أستطيع السفر عبر الأزمنة أنا أيضا، أتعلم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04463	kh3_event_kg_dlc.kg955a	kg9550350sr0_2	65d0766f	هل ظننت أنك الوحيد الذي يملك هذه القوة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04464	kh3_event_kg_dlc.kg955a	kg9550360tx0	1e21ced5	كيف تجرؤ...!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04465	kh3_event_kg_dlc.kg955a	kg9550570sr0	2e235284	تيرا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04466	kh3_event_kg_dlc.kg955a	kg9550600tx0_1	e5a0d3d7	وبما أنك سلكت أنت أيضا الطريق المحرم،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04467	kh3_event_kg_dlc.kg955a	kg9550600tx0_2	f7157c39	فلا بد أنك مستعد أنت أيضا لتقديم التضحية القصوى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04468	kh3_event_kg_dlc.kg956a	kg9560110tx0	ef41acf6	الظلام ينتظرك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04469	kh3_event_kg_dlc.kg856r	kg856r0120sr0	374195ce	ريكو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04470	kh3_event_kg_dlc.kg856r	kg856r0140rk0	4b336e74	سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04471	kh3_event_kg_dlc.kg860r	kg860r0010rk0	02e09c38	سأعود...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04472	kh3_event_kg_dlc.kg860r	kg860r0010rk1	ba5cfb5d	...بعد أن ينتهي كل هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04473	kh3_event_kg_dlc.kg860r	kg860r0020x90	507dcd28	مهلا، ظننت أنك رحلت الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04474	kh3_event_kg_dlc.kg860r	kg860r0040rk0	296a4c27	أنت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04475	kh3_event_kg_dlc.kg860r	kg860r0040rk1	91d62b42	...المنظمة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04476	kh3_event_kg_dlc.kg860r	kg860r0050x90_1	ad4c04e8	واو، اهدؤوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04477	kh3_event_kg_dlc.kg860r	kg860r0050x90_2	bff9ab06	لم آت لأقاتل، أعدكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04478	kh3_event_kg_dlc.kg860r	kg860r0060x90_1	af9203cf	اسمعوا. اسمي ديميكس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04479	kh3_event_kg_dlc.kg860r	kg860r0060x90_2	bd27ac21	إنها قصة طويلة،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04480	kh3_event_kg_dlc.kg860r	kg860r0060x90_3	059bcb44	لكنني نوعا ما في صفكم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04481	kh3_event_kg_dlc.kg860r	kg860r0060x90_4	984cf3fd	أوه، صحيح، خذ هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04482	kh3_event_kg_dlc.kg860r	kg860r0070x90_1	ae27fed2	ترى? كل الأشخاص الرائعين يملكون واحدا، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04483	kh3_event_kg_dlc.kg860r	kg860r0070x90_2	bc92513c	زيك... أقصد، إينزو حصل لي عليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04484	kh3_event_kg_dlc.kg860r	kg860r0070x90_4	99f90ee0	هل هذا دليل كاف?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04485	kh3_event_kg_dlc.kg860r	kg860r0080rk0	fa5c71cc	لماذا أنت هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04486	kh3_event_kg_dlc.kg860r	kg860r0090x90_1	a6341874	أنا في مهمة سرية للغاية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04487	kh3_event_kg_dlc.kg860r	kg860r0090x90_2	b481b79a	على ما يبدو، يبحثون عن<br>نسخة أخرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04488	kh3_event_kg_dlc.kg860r	kg860r0090x90_3	0c3dd0ff	سمعت إشاعة أنني ربما<br>أجد واحدة هنا	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04489	kh3_event_kg_dlc.kg860r	kg860r0090x90_4	91eae846	من زيك... أقصد، إينزو، لذا كنت<br>أقتل الوقت فحسب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04490	kh3_event_kg_dlc.kg860r	kg860r0110rk0	83c5f91f	هل أنت متأكد أنك تعرف ما تفعله?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04491	kh3_event_kg_dlc.kg860r	kg860r0120x90	d158a80f	لا تقلق بشأن ذلك! بلا غرور،<br>لكنني فعلت هذا من قبل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04492	kh3_event_kg_dlc.kg860r	kg860r0130rk0_1	41c64235	هذا ليس مجرد وعاء فارغ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04493	kh3_event_kg_dlc.kg860r	kg860r0130rk0_2	5373eddb	إنه مليء بذكريات مهمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04494	kh3_event_kg_dlc.kg860r	kg860r0130rk0_3	ebcf8abe	عدني أنك ستحرص عليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04495	kh3_event_kg_dlc.kg860r	kg860r0130rk0_4	7618b207	أوصله بسلام، اتفقنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04496	kh3_event_kg_dlc.kg860r	kg860r0150x90	301c0e9c	حان وقت ديميكس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04497	kh3_event_kg_dlc.kg957a	kg9570010vn0	c9516a48	تيرا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04498	kh3_event_kg_dlc.kg957a	kg9570030aq0	de843b30	انظر جيدا. هذا ليس تيرا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04499	kh3_event_kg_dlc.kg957a	kg9570040vn0_1	50b833a5	ربما، لكنني سأواصل مناداة اسمه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04500	kh3_event_kg_dlc.kg957a	kg9570040vn0_2	420d9c4b	علينا أن ننير له طريق العودة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04501	kh3_event_kg_dlc.kg957a	kg9570050aq0	5aa7a6e5	فين...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04502	kh3_event_kg_dlc.kg957a	kg9570060va0	f135de77	مرحبا يا رفاق.<br>أشعر ببعض الإهمال هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04503	kh3_event_kg_dlc.kg957a	kg9570070vn0	4d72f79d	فانيتاس. أنت عائد معنا إلى الديار أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04504	kh3_event_kg_dlc.kg957a	kg9570080va0_1	d52a4803	هاه? لكن موطني بداخلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04505	kh3_event_kg_dlc.kg957a	kg9570080va0_2	c79fe7ed	أنت تعرف ما سيحدث، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04506	kh3_event_kg_dlc.kg957a	kg9570080va0_3	7f238088	سأختفي بداخلك إلى الأبد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04507	kh3_event_kg_dlc.kg957a	kg9570080va0_4	e2f4b831	ألا تحمل أي ذرة حب<br>لأخيك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04508	kh3_event_kg_dlc.kg957a	kg9570090vn0	548abcfa	لسنا أخوين. نحن واحد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04509	kh3_event_kg_dlc.kg957a	kg9570110va0	91541dc3	هل تصدق هذا?<br>إذن أنت ساذج حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04510	kh3_event_kg_dlc.kg957a	kg9570120vn0	e7dd42a5	هاه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04511	kh3_event_kg_dlc.kg957a	kg9570130va0	5b9a6b4f	قد يصدمك هذا، لكننا لسنا<br>واحدا كما تظن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04512	kh3_event_kg_dlc.kg957a	kg9570130va1_1	b024ee09	كنت مختبئا بعمق في داخلك<br>لوقت طويل جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04513	kh3_event_kg_dlc.kg957a	kg9570130va1_2	a29141e7	كل ما فعله زيهانورت... هو أنه انتزعني منك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04514	kh3_event_kg_dlc.kg957a	kg9570140vn0	63fedf70	إذن عد إلى حيث أتيت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04515	kh3_event_kg_dlc.kg957a	kg9570150va0	dfb9f69a	همم... أجبرني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04516	kh3_event_kg_dlc.kg957a	kg9570160tx0_1	dd71edc3	إن كان الظلام ما تبحث عنه يا فينتوس،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04517	kh3_event_kg_dlc.kg957a	kg9570160tx0_2	cfc4422d	فعندي منه أكثر من كاف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04518	kh3_event_kg_dlc.kg957a	kg9570180aq0	6dd3c56f	توقف! كف عن استخدام صديقنا في ألعابك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04519	kh3_event_kg_dlc.kg957a	kg9570190tx0	83407fee	معلم الكيبلايد يستخدم مفتاحه<br>بدافع الغضب? يا للعار.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04452	kh3_event_kg_dlc.kg955a	kg9550070tx0	23585cbb	يا لنبلك، أتبذل حياتك من أجلهما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04453	kh3_event_kg_dlc.kg955a	kg9550080te0	b8790860	يجب أن تزال من الوجود...<br>مهما كان الثمن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04454	kh3_event_kg_dlc.kg955a	kg9550120sr0	6caf1cc4	ناميني، هل تستطيعين مناداة تيرا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04455	kh3_event_kg_dlc.kg955a	kg9550130nm0	3ee4e817	لا، غضبه شديد جدا.<br>لن يستجيب لي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04456	kh3_event_kg_dlc.kg955a	kg9550140sr0_1	4e152989	أيا كان من يصاب، فهذا سيئ لتيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04457	kh3_event_kg_dlc.kg955a	kg9550140sr0_2	5ca08667	على أي حال، عليك أن ترحلي.<br>اذهبي إلى عالم المحيط والسماء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04458	kh3_event_kg_dlc.kg955a	kg9550150nm0	bac775c2	وأنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04459	kh3_event_kg_dlc.kg955a	kg9550160sr0	2242f79d	سأتولى الأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04460	kh3_event_kg_dlc.kg955a	kg9550290tx0	e39bdbd3	ارحل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04461	kh3_event_kg_dlc.kg955a	kg9550340tx0	d4efb859	كيف تكون هنا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04462	kh3_event_kg_dlc.kg955a	kg9550350sr0_1	7765d981	مهلا، أستطيع السفر عبر الأزمنة أنا أيضا، أتعلم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04463	kh3_event_kg_dlc.kg955a	kg9550350sr0_2	65d0766f	هل ظننت أنك الوحيد الذي يملك هذه القوة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04464	kh3_event_kg_dlc.kg955a	kg9550360tx0	1e21ced5	كيف تجرؤ...!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04465	kh3_event_kg_dlc.kg955a	kg9550570sr0	2e235284	تيرا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04466	kh3_event_kg_dlc.kg955a	kg9550600tx0_1	e5a0d3d7	وبما أنك سلكت أنت أيضا الطريق المحرم،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04467	kh3_event_kg_dlc.kg955a	kg9550600tx0_2	f7157c39	فلا بد أنك مستعد أنت أيضا لتقديم التضحية القصوى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04468	kh3_event_kg_dlc.kg956a	kg9560110tx0	ef41acf6	الظلام ينتظرك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04469	kh3_event_kg_dlc.kg856r	kg856r0120sr0	374195ce	ريكو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04470	kh3_event_kg_dlc.kg856r	kg856r0140rk0	4b336e74	سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04471	kh3_event_kg_dlc.kg860r	kg860r0010rk0	02e09c38	سأعود...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04472	kh3_event_kg_dlc.kg860r	kg860r0010rk1	ba5cfb5d	...بعد أن ينتهي كل هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04473	kh3_event_kg_dlc.kg860r	kg860r0020x90	507dcd28	مهلا، ظننت أنك رحلت الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04474	kh3_event_kg_dlc.kg860r	kg860r0040rk0	296a4c27	أنت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04475	kh3_event_kg_dlc.kg860r	kg860r0040rk1	91d62b42	...المنظمة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04476	kh3_event_kg_dlc.kg860r	kg860r0050x90_1	ad4c04e8	واو، اهدؤوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04477	kh3_event_kg_dlc.kg860r	kg860r0050x90_2	bff9ab06	لم آت لأقاتل، أعدكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04478	kh3_event_kg_dlc.kg860r	kg860r0060x90_1	af9203cf	اسمعوا. اسمي ديميكس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04479	kh3_event_kg_dlc.kg860r	kg860r0060x90_2	bd27ac21	إنها قصة طويلة،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04480	kh3_event_kg_dlc.kg860r	kg860r0060x90_3	059bcb44	لكنني نوعا ما في صفكم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04481	kh3_event_kg_dlc.kg860r	kg860r0060x90_4	984cf3fd	أوه، صحيح، خذ هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04482	kh3_event_kg_dlc.kg860r	kg860r0070x90_1	ae27fed2	ترى? كل الأشخاص الرائعين يملكون واحدا، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04483	kh3_event_kg_dlc.kg860r	kg860r0070x90_2	bc92513c	زيك... أقصد، إينزو حصل لي عليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04484	kh3_event_kg_dlc.kg860r	kg860r0070x90_4	99f90ee0	هل هذا دليل كاف?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04485	kh3_event_kg_dlc.kg860r	kg860r0080rk0	fa5c71cc	لماذا أنت هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04486	kh3_event_kg_dlc.kg860r	kg860r0090x90_1	a6341874	أنا في مهمة سرية للغاية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04487	kh3_event_kg_dlc.kg860r	kg860r0090x90_2	b481b79a	على ما يبدو، يبحثون عن<br>نسخة أخرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04488	kh3_event_kg_dlc.kg860r	kg860r0090x90_3	0c3dd0ff	سمعت إشاعة أنني ربما<br>أجد واحدة هنا	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04489	kh3_event_kg_dlc.kg860r	kg860r0090x90_4	91eae846	من زيك... أقصد، إينزو، لذا كنت<br>أقتل الوقت فحسب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04490	kh3_event_kg_dlc.kg860r	kg860r0110rk0	83c5f91f	هل أنت متأكد أنك تعرف ما تفعله?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04491	kh3_event_kg_dlc.kg860r	kg860r0120x90	d158a80f	لا تقلق بشأن ذلك! بلا غرور،<br>لكنني فعلت هذا من قبل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04492	kh3_event_kg_dlc.kg860r	kg860r0130rk0_1	41c64235	هذا ليس مجرد وعاء فارغ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04493	kh3_event_kg_dlc.kg860r	kg860r0130rk0_2	5373eddb	إنه مليء بذكريات مهمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04494	kh3_event_kg_dlc.kg860r	kg860r0130rk0_3	ebcf8abe	عدني أنك ستحرص عليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04495	kh3_event_kg_dlc.kg860r	kg860r0130rk0_4	7618b207	أوصله بسلام، اتفقنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04496	kh3_event_kg_dlc.kg860r	kg860r0150x90	301c0e9c	حان وقت ديميكس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04497	kh3_event_kg_dlc.kg957a	kg9570010vn0	c9516a48	تيرا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04498	kh3_event_kg_dlc.kg957a	kg9570030aq0	de843b30	انظر جيدا. هذا ليس تيرا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04499	kh3_event_kg_dlc.kg957a	kg9570040vn0_1	50b833a5	ربما، لكنني سأواصل مناداة اسمه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04500	kh3_event_kg_dlc.kg957a	kg9570040vn0_2	420d9c4b	علينا أن ننير له طريق العودة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04501	kh3_event_kg_dlc.kg957a	kg9570050aq0	5aa7a6e5	فين...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04502	kh3_event_kg_dlc.kg957a	kg9570060va0	f135de77	مرحبا يا رفاق.<br>أشعر ببعض الإهمال هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04503	kh3_event_kg_dlc.kg957a	kg9570070vn0	4d72f79d	فانيتاس. أنت عائد معنا إلى الديار أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04504	kh3_event_kg_dlc.kg957a	kg9570080va0_1	d52a4803	هاه? لكن موطني بداخلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04505	kh3_event_kg_dlc.kg957a	kg9570080va0_2	c79fe7ed	أنت تعرف ما سيحدث، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04506	kh3_event_kg_dlc.kg957a	kg9570080va0_3	7f238088	سأختفي بداخلك إلى الأبد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04507	kh3_event_kg_dlc.kg957a	kg9570080va0_4	e2f4b831	ألا تحمل أي ذرة حب<br>لأخيك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04508	kh3_event_kg_dlc.kg957a	kg9570090vn0	548abcfa	لسنا أخوين. نحن واحد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04509	kh3_event_kg_dlc.kg957a	kg9570110va0	91541dc3	هل تصدق هذا?<br>إذن أنت ساذج حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04510	kh3_event_kg_dlc.kg957a	kg9570120vn0	e7dd42a5	هاه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04511	kh3_event_kg_dlc.kg957a	kg9570130va0	5b9a6b4f	قد يصدمك هذا، لكننا لسنا<br>واحدا كما تظن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04512	kh3_event_kg_dlc.kg957a	kg9570130va1_1	b024ee09	كنت مختبئا بعمق في داخلك<br>لوقت طويل جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04513	kh3_event_kg_dlc.kg957a	kg9570130va1_2	a29141e7	كل ما فعله زيهانورت... هو أنه انتزعني منك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04514	kh3_event_kg_dlc.kg957a	kg9570140vn0	63fedf70	إذن عد إلى حيث أتيت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04515	kh3_event_kg_dlc.kg957a	kg9570150va0	dfb9f69a	همم... أجبرني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04516	kh3_event_kg_dlc.kg957a	kg9570160tx0_1	dd71edc3	إن كان الظلام ما تبحث عنه يا فينتوس،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04517	kh3_event_kg_dlc.kg957a	kg9570160tx0_2	cfc4422d	فعندي منه أكثر من كاف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04518	kh3_event_kg_dlc.kg957a	kg9570180aq0	6dd3c56f	توقف! كف عن استخدام صديقنا في ألعابك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04519	kh3_event_kg_dlc.kg957a	kg9570190tx0	83407fee	معلم الكيبلايد يستخدم مفتاحه<br>بدافع الغضب? يا للعار.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04520	kh3_event_kg_dlc.kg957a	kg9570190tx0b	5dae646d		todo	
-04521	kh3_event_kg_dlc.kg957a	kg9570200aq0_1	07e59ed6	بيننا حساب لم يغلق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04522	kh3_event_kg_dlc.kg957a	kg9570200aq0_2	15503138	سقطت في الظلام، وطوال عشر سنوات<br>تجولت في عالم الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04521	kh3_event_kg_dlc.kg957a	kg9570200aq0_1	07e59ed6	بيننا حساب لم يغلق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04522	kh3_event_kg_dlc.kg957a	kg9570200aq0_2	15503138	سقطت في الظلام، وطوال عشر سنوات<br>تجولت في عالم الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04523	kh3_event_kg_dlc.kg957a	kg9570200aq0_2b	773b06c2		todo	
-04524	kh3_event_kg_dlc.kg957a	kg9570200aq0_3	adec565d	والآن... وصلت أخيرا إلى هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04525	kh3_event_kg_dlc.kg957a	kg9570210aq0_1	065063cb	وأريد شيئا واحدا فقط، من كل قلبي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04526	kh3_event_kg_dlc.kg957a	kg9570210aq0_2	14e5cc25	زيهانورت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04527	kh3_event_kg_dlc.kg957a	kg9570210aq0_3	ac59ab40	سأطردك من تيرا إلى الأبد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04528	kh3_event_kg_dlc.kg870r	kg870r0020sr0	fa5c25da	<i(on)>ماذا... حدث لي...?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04529	kh3_event_kg_dlc.kg870r	kg870r0030sr0	9f3b1e9c	<i(on)>قفزت خارج أفكار تيرا...<br>وقاتلنا زيهانورت معا...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04524	kh3_event_kg_dlc.kg957a	kg9570200aq0_3	adec565d	والآن... وصلت أخيرا إلى هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04525	kh3_event_kg_dlc.kg957a	kg9570210aq0_1	065063cb	وأريد شيئا واحدا فقط، من كل قلبي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04526	kh3_event_kg_dlc.kg957a	kg9570210aq0_2	14e5cc25	زيهانورت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04527	kh3_event_kg_dlc.kg957a	kg9570210aq0_3	ac59ab40	سأطردك من تيرا إلى الأبد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04528	kh3_event_kg_dlc.kg870r	kg870r0020sr0	fa5c25da	<i(on)>ماذا... حدث لي...?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04529	kh3_event_kg_dlc.kg870r	kg870r0030sr0	9f3b1e9c	<i(on)>قفزت خارج أفكار تيرا...<br>وقاتلنا زيهانورت معا...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04530	kh3_event_kg_dlc.kg870r	kg870r0030sr0b	0d47511f		todo	
-04531	kh3_event_kg_dlc.kg870r	kg870r0035stx0	528c3a91	الظلام ينتظرك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04532	kh3_event_kg_dlc.kg870r	kg870r0040sr0_1	d79f5316	هذا هو! هذا قلب تيرا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04533	kh3_event_kg_dlc.kg870r	kg870r0040sr0_2	c52afcf8	لا بد أنه حماني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04534	kh3_event_kg_dlc.kg958a	kg9580010x80_1	55a4a283	حسنا، أظن أن هذا كان حتميا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04535	kh3_event_kg_dlc.kg958a	kg9580010x80_2	47110d6d	من هذا الضيف الإضافي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04536	kh3_event_kg_dlc.kg958a	kg9580020x10_1	8a01ab7a	حتمي حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04537	kh3_event_kg_dlc.kg958a	kg9580020x10_2	98b40494	و"ضيفنا" هذا<br>لديه حساب قديم معك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04538	kh3_event_kg_dlc.kg958a	kg9580020x10_3	200863f1	أنت خائن للظلام، كما أنك للنور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04539	kh3_event_kg_dlc.kg958a	kg9580030x80	2266135a	حسنا، أظن أنني أستطيع التعايش مع هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04540	kh3_event_kg_dlc.kg958a	kg9580040x10_1	8fbda534	إنه كائن لا نملك عنه أي ذكريات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04541	kh3_event_kg_dlc.kg958a	kg9580040x10_2	9d080ada	لا أحد حقيقي، قادم من<br>حافة النسيان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04542	kh3_event_kg_dlc.kg958a	kg9580050x70_1	dd9931cd	الكائن الذي أمامك أعيد صنعه...<br>من السجلات التي تركها فيكسن،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04543	kh3_event_kg_dlc.kg958a	kg9580050x70_2	cf2c9e23	ومن التجارب الكثيرة<br>التي أجراها زيهانورت الشاب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04544	kh3_event_kg_dlc.kg958a	kg9580060x10_1	8cd65f0e	محي من كل الذكريات، و...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04545	kh3_event_kg_dlc.kg958a	kg9580060x10_2	9e63f0e0	لا يحمل أي معرفة على الإطلاق بحقيقته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04546	kh3_event_kg_dlc.kg958a	kg9580060x10_3	26df9785	حتى أنا نسيت وجوده.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04547	kh3_event_kg_dlc.kg958a	kg9580060x11	ae1fbf0b	لكن مثل الآخرين، لم أستطع أن أتذكر السبب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04548	kh3_event_kg_dlc.kg958a	kg9580060x12	bcaa10e5	حقا، البيدق المثالي الذي صنع لهذه المعركة بالذات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04549	kh3_event_kg_dlc.kg958a	kg9580070x80	6c8bf803	إذن، من يكون?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04550	kh3_event_kg_dlc.kg958a	kg9580080x70	c9349a8e	استدعيت أحد القلوب السبعة الجديدة. <br>لا بد أنك يائس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04531	kh3_event_kg_dlc.kg870r	kg870r0035stx0	528c3a91	الظلام ينتظرك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04532	kh3_event_kg_dlc.kg870r	kg870r0040sr0_1	d79f5316	هذا هو! هذا قلب تيرا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04533	kh3_event_kg_dlc.kg870r	kg870r0040sr0_2	c52afcf8	لا بد أنه حماني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04534	kh3_event_kg_dlc.kg958a	kg9580010x80_1	55a4a283	حسنا، أظن أن هذا كان حتميا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04535	kh3_event_kg_dlc.kg958a	kg9580010x80_2	47110d6d	من هذا الضيف الإضافي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04536	kh3_event_kg_dlc.kg958a	kg9580020x10_1	8a01ab7a	حتمي حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04537	kh3_event_kg_dlc.kg958a	kg9580020x10_2	98b40494	و"ضيفنا" هذا<br>لديه حساب قديم معك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04538	kh3_event_kg_dlc.kg958a	kg9580020x10_3	200863f1	أنت خائن للظلام، كما أنك للنور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04539	kh3_event_kg_dlc.kg958a	kg9580030x80	2266135a	حسنا، أظن أنني أستطيع التعايش مع هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04540	kh3_event_kg_dlc.kg958a	kg9580040x10_1	8fbda534	إنه كائن لا نملك عنه أي ذكريات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04541	kh3_event_kg_dlc.kg958a	kg9580040x10_2	9d080ada	لا أحد حقيقي، قادم من<br>حافة النسيان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04542	kh3_event_kg_dlc.kg958a	kg9580050x70_1	dd9931cd	الكائن الذي أمامك أعيد صنعه...<br>من السجلات التي تركها فيكسن،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04543	kh3_event_kg_dlc.kg958a	kg9580050x70_2	cf2c9e23	ومن التجارب الكثيرة<br>التي أجراها زيهانورت الشاب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04544	kh3_event_kg_dlc.kg958a	kg9580060x10_1	8cd65f0e	محي من كل الذكريات، و...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04545	kh3_event_kg_dlc.kg958a	kg9580060x10_2	9e63f0e0	لا يحمل أي معرفة على الإطلاق بحقيقته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04546	kh3_event_kg_dlc.kg958a	kg9580060x10_3	26df9785	حتى أنا نسيت وجوده.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04547	kh3_event_kg_dlc.kg958a	kg9580060x11	ae1fbf0b	لكن مثل الآخرين، لم أستطع أن أتذكر السبب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04548	kh3_event_kg_dlc.kg958a	kg9580060x12	bcaa10e5	حقا، البيدق المثالي الذي صنع لهذه المعركة بالذات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04549	kh3_event_kg_dlc.kg958a	kg9580070x80	6c8bf803	إذن، من يكون?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04550	kh3_event_kg_dlc.kg958a	kg9580080x70	c9349a8e	استدعيت أحد القلوب السبعة الجديدة. <br>لا بد أنك يائس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04551	kh3_event_kg_dlc.kg958a	kg9580080x70b	14fb9559		todo	
-04552	kh3_event_kg_dlc.kg958a	kg9580100x80	0cea3bb7	إن كنت أنا الخائن، فأظن أن<br>كايري هنا هي الورقة الرابحة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04553	kh3_event_kg_dlc.kg958a	kg9580110kr0	aa56e1d8	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04554	kh3_event_kg_dlc.kg958a	kg9580120x70	1f045f97	إذن ما أراه فيك ليس اليأس.<br>إنه الحماقة... والجنون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04552	kh3_event_kg_dlc.kg958a	kg9580100x80	0cea3bb7	إن كنت أنا الخائن، فأظن أن<br>كايري هنا هي الورقة الرابحة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04553	kh3_event_kg_dlc.kg958a	kg9580110kr0	aa56e1d8	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04554	kh3_event_kg_dlc.kg958a	kg9580120x70	1f045f97	إذن ما أراه فيك ليس اليأس.<br>إنه الحماقة... والجنون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04555	kh3_event_kg_dlc.kg958a	kg9580120x70b	1e7898f5		todo	
-04556	kh3_event_kg_dlc.kg958a	kg9580130x80	a343767d	هاه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04557	kh3_event_kg_dlc.kg958a	kg9580140x10_1	7e67a09e	من دون المعركة بين الأنوار السبعة<br>والظلمات الثلاث عشرة،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04558	kh3_event_kg_dlc.kg958a	kg9580140x10_1b	a98d8a38	تحتاج كينغدوم هارتس إلى القلوب السبعة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04559	kh3_event_kg_dlc.kg958a	kg9580140x10_2	6cd20f70	لهذا نسعى إلى تدمير الحراس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04560	kh3_event_kg_dlc.kg958a	kg9580140x11	e5f4aca0	هل أنت أحمق حقا لدرجة...<br>أن تظن أنك تستطيع هزيمتنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04561	kh3_event_kg_dlc.kg958a	kg9580150x80	2760eba8	ما رأيك أنت?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04562	kh3_event_kg_dlc.kg958a	kg9580160x70	51e9b4ce	أظن أنك ستخسر يا آكسل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04563	kh3_event_kg_dlc.kg958a	kg9580170x80	edae9d24	أجل، طبعا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04564	kh3_event_kg_dlc.kg958a	kg9580180xi0	08bd1e5d	...آكسل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04565	kh3_event_kg_dlc.kg958a	kg9580190x10_1	74aa411f	حتى لو كنت تملك القوة، فهذا الكائن<br>لا يمكن هزيمته على يديك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04566	kh3_event_kg_dlc.kg958a	kg9580190x10_2	661feef1	حتى لو... ضاعت الذكريات منكما كليكما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04567	kh3_event_kg_dlc.kg958a	kg9580210x80	3193a9d9	حسنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04568	kh3_event_kg_dlc.kg958a	kg9580210x81	892fcebc	لنكتشف ذلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04569	kh3_event_kg_dlc.kg958a	kg9580250x80	7f7e4280	مهلا... ذلك الكيبلايد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04570	kh3_event_kg_dlc.kg958a	kg9580260kr0	130cee63	إنه مثل كيبلايد سورا تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04571	kh3_event_kg_dlc.kg958a	kg9580270x80	b5b0340c	هل أنت―هل هذا أنت يا روكساس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04572	kh3_event_kg_dlc.kg958a	kg9580280xi0	50a3b775	...روكساس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04573	kh3_event_kg_dlc.kg958a	kg9580290x70	75686dc7	لا، إنه ليس روكساس يا آكسل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04574	kh3_event_kg_dlc.kg958a	kg9580310xi0	293a3fa6	روكساس... آكسل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04575	kh3_event_kg_dlc.kg958a	kg9580380kr0	8bd1c023	فتاة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04576	kh3_event_kg_dlc.kg958a	kg9580400x80	e4c9c0cf	هل أنت معي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04577	kh3_event_kg_dlc.kg958a	kg9580410kr0	42751aa0	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04578	kh3_event_kg_dlc.kg872r	kg872r0040sr0	8fef1764	الذكريات... تعود...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04579	kh3_event_kg_dlc.kg872r	kg872r0050sr0	ea882c22	هذا هو... قلب روكساس...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04580	kh3_event_kg_dlc.kg872r	kg872r0070sr0	20465aae	لماذا...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04581	kh3_event_kg_dlc.kg872r	kg872r0080rs0	0bd6667e	<i(on)>سورا...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04582	kh3_event_kg_dlc.kg872r	kg872r0100sr0	4027991a	روكساس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04583	kh3_event_kg_dlc.kg872r	kg872r0110rs0	724feead	<i(on)>أحتاج إلى مساعدتك...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04584	kh3_event_kg_dlc.kg872r	kg872r0140sr0_1	72152678	مفهوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04585	kh3_event_kg_dlc.kg872r	kg872r0140sr0_2	60a08996	عندي فكرة. انتظر إشارتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04586	kh3_event_kg_dlc.kg872r	kg872r0150rs0	3ca205f4	<i(on)>حسنا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04587	kh3_event_kg_dlc.kg872s	kg872s0020rs0	ad19c3ea	<i(on)>أحتاج إلى مساعدتك...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04588	kh3_event_kg_dlc.kg872s	kg872s0030rs0_1	e38de811	<i(on)>هناك... شيء علي وعلى أصدقائي أن<br>نستعيده، شيء ربط قلوبنا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04589	kh3_event_kg_dlc.kg872s	kg872s0030rs0_2	f13847ff	<i(on)>هذا ما يربطني بهذا العالم... المفتاح الأخير.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04590	kh3_event_kg_dlc.kg872s	kg872s0030rs0_3	4984209a	<i(on)>أحتاج إلى مساعدتك لاستعادته.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04591	kh3_event_kg_dlc.kg872s	kg872s0040sr0_1	2c8bb195	مفهوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04592	kh3_event_kg_dlc.kg872s	kg872s0040sr0_2	3e3e1e7b	عندي فكرة. انتظر إشارتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04593	kh3_event_kg_dlc.kg872s	kg872s0050sr0	1b522988	روكساس! الآن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04594	kh3_event_kg_dlc.kg872s	kg872s0510x10	6b1c58a9	والآن شاهد... أصدقاءك<br>وهم يتلاشون ببطء إلى العدم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04595	kh3_event_kg_dlc.kg872s	kg872s0540x10	409688b6	هؤلاء البيادق عديمو الفائدة... يجب إزالتهم...<br>عن الرقعة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04596	kh3_event_kg_dlc.kg872t	kg872t0010x80	24e5aa6f	روكساس! شيون!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04597	kh3_event_kg_dlc.kg872t	kg872t0060x80	c5a10cfc	لنأخذ ما هو لنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04598	kh3_event_kg_dlc.kg872t	kg872t0100xi0	592b0756	هل هذا... هل هذا هو الشعار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04599	kh3_event_kg_dlc.kg872t	kg872t0110x80_1	c8b199af	أجل. إنه العلامة التي منحنا إياها زيمناس.<br>هي ما ربطنا منذ البداية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04600	kh3_event_kg_dlc.kg872t	kg872t0110x80_2	da043641	إنه... أساس... الرابطة التي تجمعنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04601	kh3_event_kg_dlc.kg872t	kg872t0120rs0	94a9b458	ستختفي العلامة مع<br> زيمناس، ولا بأس بذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04602	kh3_event_kg_dlc.kg872t	kg872t0120rs1_1	727aaf9e	أردت فقط أن أستعيدها لنفسي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04603	kh3_event_kg_dlc.kg872t	kg872t0120rs1_2	60cf0070	بها نشأت رابطتنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04604	kh3_event_kg_dlc.kg872t	kg872t0130xi0	f6824a9c	هذه... هذه هي الصلة التي كنا نحتاجها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04605	kh3_event_kg_dlc.kg872t	kg872t0140rs0	108a298d	لهذا احتجت إلى مساعدة سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04606	kh3_event_kg_dlc.kg872t	kg872t0140rs1	a8364ee8	كي ننهي هذه المعركة... مرة وإلى الأبد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04607	kh3_event_kg_dlc.kg878r	kg878r0030xn0	b51d2fd8	لدينا الآن اثنا عشر مفتاحا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04608	kh3_event_kg_dlc.kg878r	kg878r0030xn1	0da148bd	ولم يبق سوى واحد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04609	kh3_event_kg_dlc.kg878r	kg878r0060xn0	9e97ffc7	الآن يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04610	kh3_event_kg_dlc.kg878r	kg878r0060xn1	262b98a2	الصدام الأخير بين الظلام والنور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04611	kh3_event_kg_dlc.kg878r	kg878r0070sr0	a17644eb	كايري!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04612	kh3_event_kg_dlc.kg878r	kg878r0090xn0	e2088fe6	تحتاج إلى دافع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04613	kh3_event_kg_dlc.kg878r	kg878r0110sr0	a470bc19	كايري!!!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04614	kh3_event_kg_dlc.kg878r	kg878r0150sr0	ea9d5740	لماذا هي?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04615	kh3_event_kg_dlc.kg878r	kg878r0180sr0	5ccc51ed	لماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04616	kh3_event_kg_dlc.kg878r	kg878r0190xn0	632deac1	لقد فعلتها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04617	kh3_event_kg_dlc.kg878r	kg878r0200rk0	61584818	زيهانورت!!!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04618	kh3_event_kg_dlc.kg878r	kg878r0230mm0	76127ed8	ستدفع الثمن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04619	kh3_event_kg_dlc.kg878r	kg878r0240mm0	9756d84b	ألتيما!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04620	kh3_event_kg_dlc.kg878r	kg878r0250xn0	e8057e02	ستوبزا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04621	kh3_event_kg_dlc.kg878r	kg878r0260sr0	1d2ab3a2	جلالتك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04622	kh3_event_kg_dlc.kg878r	kg878r0270sr0	784d88e4	ريكو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04623	kh3_event_kg_dlc.kg878r	kg878r0320xn0	8864bdb6	الآن... ستبلغ حرب الكيبلايد<br>خاتمتها أخيرا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04624	kh3_event_kg_dlc.kg878r	kg878r0340xn0_1	e7c7e8d6	اكتمل نصل χ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04625	kh3_event_kg_dlc.kg878r	kg878r0340xn0_2	f5724738	كينغدوم هارتس!<br>أدعو شكلك الحقيقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04626	kh3_event_kg_dlc.kg878r	kg878r0340xn0_3	4dce205d	انفتح الآن وأرني العالم القادم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04627	kh3_event_kg_dlc.kg878r	kg878r0390do0	7fae862d	مهلا، لا تستسلم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04628	kh3_event_kg_dlc.kg878r	kg878r0410go0	a4f3b518	ظننا أنك قد تحتاج<br>إلى بضعة صغار آخرين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04629	kh3_event_kg_dlc.kg878r	kg878r0420sr0	e3fa0aab	دونالد... غوفي...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04630	kh3_event_kg_dlc.kg878r	kg878r0430do0	19a31164	كالعادة. لا تستطيع فعل شيء<br>من دوننا يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04631	kh3_event_kg_dlc.kg878r	kg878r0010mm0	65e7c45b	<i(on)>...سورا ...سورا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04632	kh3_event_kg_dlc.kg878r	kg878r0020sr0	8afc94f4	<i(on)>جلالتك...?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04633	kh3_event_kg_dlc.kg878r	kg878r0030mm0	af29b2d7	<i(on)>إنه أنا. يسعدني أن صوتي يصل إليك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04634	kh3_event_kg_dlc.kg878r	kg878r0040sr0	0edf0921	<i(on)>جلالتك! كايري...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04635	kh3_event_kg_dlc.kg878r	kg878r0050mm0	2b0a2f02	<i(on)>أعرف، لكن ما زال بإمكاننا إنقاذها.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04636	kh3_event_kg_dlc.kg878r	kg878r0060sr0	c4117fad	<i(on)>ماذا يحدث?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04637	kh3_event_kg_dlc.kg878r	kg878r0070mm0_1	ce822886	<i(on)>المعلم زيهانورت يخبئ الكثير من<br>الحيل.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04638	kh3_event_kg_dlc.kg878r	kg878r0070mm0_2	dc378768	<i(on)>كايري واحدة من القلوب السبعة،<br>ولهذا بلورها―<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04556	kh3_event_kg_dlc.kg958a	kg9580130x80	a343767d	هاه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04557	kh3_event_kg_dlc.kg958a	kg9580140x10_1	7e67a09e	من دون المعركة بين الأنوار السبعة<br>والظلمات الثلاث عشرة،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04558	kh3_event_kg_dlc.kg958a	kg9580140x10_1b	a98d8a38	تحتاج كينغدوم هارتس إلى القلوب السبعة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04559	kh3_event_kg_dlc.kg958a	kg9580140x10_2	6cd20f70	لهذا نسعى إلى تدمير الحراس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04560	kh3_event_kg_dlc.kg958a	kg9580140x11	e5f4aca0	هل أنت أحمق حقا لدرجة...<br>أن تظن أنك تستطيع هزيمتنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04561	kh3_event_kg_dlc.kg958a	kg9580150x80	2760eba8	ما رأيك أنت?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04562	kh3_event_kg_dlc.kg958a	kg9580160x70	51e9b4ce	أظن أنك ستخسر يا آكسل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04563	kh3_event_kg_dlc.kg958a	kg9580170x80	edae9d24	أجل، طبعا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04564	kh3_event_kg_dlc.kg958a	kg9580180xi0	08bd1e5d	...آكسل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04565	kh3_event_kg_dlc.kg958a	kg9580190x10_1	74aa411f	حتى لو كنت تملك القوة، فهذا الكائن<br>لا يمكن هزيمته على يديك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04566	kh3_event_kg_dlc.kg958a	kg9580190x10_2	661feef1	حتى لو... ضاعت الذكريات منكما كليكما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04567	kh3_event_kg_dlc.kg958a	kg9580210x80	3193a9d9	حسنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04568	kh3_event_kg_dlc.kg958a	kg9580210x81	892fcebc	لنكتشف ذلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04569	kh3_event_kg_dlc.kg958a	kg9580250x80	7f7e4280	مهلا... ذلك الكيبلايد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04570	kh3_event_kg_dlc.kg958a	kg9580260kr0	130cee63	إنه مثل كيبلايد سورا تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04571	kh3_event_kg_dlc.kg958a	kg9580270x80	b5b0340c	هل أنت―هل هذا أنت يا روكساس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04572	kh3_event_kg_dlc.kg958a	kg9580280xi0	50a3b775	...روكساس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04573	kh3_event_kg_dlc.kg958a	kg9580290x70	75686dc7	لا، إنه ليس روكساس يا آكسل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04574	kh3_event_kg_dlc.kg958a	kg9580310xi0	293a3fa6	روكساس... آكسل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04575	kh3_event_kg_dlc.kg958a	kg9580380kr0	8bd1c023	فتاة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04576	kh3_event_kg_dlc.kg958a	kg9580400x80	e4c9c0cf	هل أنت معي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04577	kh3_event_kg_dlc.kg958a	kg9580410kr0	42751aa0	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04578	kh3_event_kg_dlc.kg872r	kg872r0040sr0	8fef1764	الذكريات... تعود...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04579	kh3_event_kg_dlc.kg872r	kg872r0050sr0	ea882c22	هذا هو... قلب روكساس...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04580	kh3_event_kg_dlc.kg872r	kg872r0070sr0	20465aae	لماذا...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04581	kh3_event_kg_dlc.kg872r	kg872r0080rs0	0bd6667e	<i(on)>سورا...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04582	kh3_event_kg_dlc.kg872r	kg872r0100sr0	4027991a	روكساس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04583	kh3_event_kg_dlc.kg872r	kg872r0110rs0	724feead	<i(on)>أحتاج إلى مساعدتك...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04584	kh3_event_kg_dlc.kg872r	kg872r0140sr0_1	72152678	مفهوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04585	kh3_event_kg_dlc.kg872r	kg872r0140sr0_2	60a08996	عندي فكرة. انتظر إشارتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04586	kh3_event_kg_dlc.kg872r	kg872r0150rs0	3ca205f4	<i(on)>حسنا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04587	kh3_event_kg_dlc.kg872s	kg872s0020rs0	ad19c3ea	<i(on)>أحتاج إلى مساعدتك...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04588	kh3_event_kg_dlc.kg872s	kg872s0030rs0_1	e38de811	<i(on)>هناك... شيء علي وعلى أصدقائي أن<br>نستعيده، شيء ربط قلوبنا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04589	kh3_event_kg_dlc.kg872s	kg872s0030rs0_2	f13847ff	<i(on)>هذا ما يربطني بهذا العالم... المفتاح الأخير.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04590	kh3_event_kg_dlc.kg872s	kg872s0030rs0_3	4984209a	<i(on)>أحتاج إلى مساعدتك لاستعادته.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04591	kh3_event_kg_dlc.kg872s	kg872s0040sr0_1	2c8bb195	مفهوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04592	kh3_event_kg_dlc.kg872s	kg872s0040sr0_2	3e3e1e7b	عندي فكرة. انتظر إشارتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04593	kh3_event_kg_dlc.kg872s	kg872s0050sr0	1b522988	روكساس! الآن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04594	kh3_event_kg_dlc.kg872s	kg872s0510x10	6b1c58a9	والآن شاهد... أصدقاءك<br>وهم يتلاشون ببطء إلى العدم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04595	kh3_event_kg_dlc.kg872s	kg872s0540x10	409688b6	هؤلاء البيادق عديمو الفائدة... يجب إزالتهم...<br>عن الرقعة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04596	kh3_event_kg_dlc.kg872t	kg872t0010x80	24e5aa6f	روكساس! شيون!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04597	kh3_event_kg_dlc.kg872t	kg872t0060x80	c5a10cfc	لنأخذ ما هو لنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04598	kh3_event_kg_dlc.kg872t	kg872t0100xi0	592b0756	هل هذا... هل هذا هو الشعار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04599	kh3_event_kg_dlc.kg872t	kg872t0110x80_1	c8b199af	أجل. إنه العلامة التي منحنا إياها زيمناس.<br>هي ما ربطنا منذ البداية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04600	kh3_event_kg_dlc.kg872t	kg872t0110x80_2	da043641	إنه... أساس... الرابطة التي تجمعنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04601	kh3_event_kg_dlc.kg872t	kg872t0120rs0	94a9b458	ستختفي العلامة مع<br> زيمناس، ولا بأس بذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04602	kh3_event_kg_dlc.kg872t	kg872t0120rs1_1	727aaf9e	أردت فقط أن أستعيدها لنفسي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04603	kh3_event_kg_dlc.kg872t	kg872t0120rs1_2	60cf0070	بها نشأت رابطتنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04604	kh3_event_kg_dlc.kg872t	kg872t0130xi0	f6824a9c	هذه... هذه هي الصلة التي كنا نحتاجها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04605	kh3_event_kg_dlc.kg872t	kg872t0140rs0	108a298d	لهذا احتجت إلى مساعدة سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04606	kh3_event_kg_dlc.kg872t	kg872t0140rs1	a8364ee8	كي ننهي هذه المعركة... مرة وإلى الأبد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04607	kh3_event_kg_dlc.kg878r	kg878r0030xn0	b51d2fd8	لدينا الآن اثنا عشر مفتاحا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04608	kh3_event_kg_dlc.kg878r	kg878r0030xn1	0da148bd	لم يبق إلا واحد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04609	kh3_event_kg_dlc.kg878r	kg878r0060xn0	9e97ffc7	والآن، يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04610	kh3_event_kg_dlc.kg878r	kg878r0060xn1	262b98a2	الصدام الأخير بين الظلام والنور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04611	kh3_event_kg_dlc.kg878r	kg878r0070sr0	a17644eb	كايري!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04612	kh3_event_kg_dlc.kg878r	kg878r0090xn0	e2088fe6	أنت بحاجة إلى دافع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04613	kh3_event_kg_dlc.kg878r	kg878r0110sr0	a470bc19	كايري!!!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04614	kh3_event_kg_dlc.kg878r	kg878r0150sr0	ea9d5740	لماذا هي?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04615	kh3_event_kg_dlc.kg878r	kg878r0180sr0	5ccc51ed	لماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04616	kh3_event_kg_dlc.kg878r	kg878r0190xn0	632deac1	لقد فعلتها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04617	kh3_event_kg_dlc.kg878r	kg878r0200rk0	61584818	زيهانورت!!!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04618	kh3_event_kg_dlc.kg878r	kg878r0230mm0	76127ed8	ستدفع الثمن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04619	kh3_event_kg_dlc.kg878r	kg878r0240mm0	9756d84b	ألتيما!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04620	kh3_event_kg_dlc.kg878r	kg878r0250xn0	e8057e02	ستوبزا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04621	kh3_event_kg_dlc.kg878r	kg878r0260sr0	1d2ab3a2	جلالتك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04622	kh3_event_kg_dlc.kg878r	kg878r0270sr0	784d88e4	ريكو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04623	kh3_event_kg_dlc.kg878r	kg878r0320xn0	8864bdb6	والآن... ستصل حرب الكيبلايد<br>أخيرا إلى خاتمتها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04624	kh3_event_kg_dlc.kg878r	kg878r0340xn0_1	e7c7e8d6	اكتمل نصل χ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04625	kh3_event_kg_dlc.kg878r	kg878r0340xn0_2	f5724738	يا كينغدوم هارتس!<br>أستدعي هيئتك الحقيقية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04626	kh3_event_kg_dlc.kg878r	kg878r0340xn0_3	4dce205d	انفتح الآن وأرني العالم القادم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04627	kh3_event_kg_dlc.kg878r	kg878r0390do0	7fae862d	مهلا، لا تستسلم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04628	kh3_event_kg_dlc.kg878r	kg878r0410go0	a4f3b518	ظننا أنك قد تحتاج<br>إلى نصفين إضافيين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04629	kh3_event_kg_dlc.kg878r	kg878r0420sr0	e3fa0aab	دونالد... غوفي...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04630	kh3_event_kg_dlc.kg878r	kg878r0430do0	19a31164	كالعادة. لا تستطيع فعل أي شيء<br>من دوننا يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04631	kh3_event_kg_dlc.kg878r	kg878r0010mm0	65e7c45b	<i(on)>...سورا ...سورا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04632	kh3_event_kg_dlc.kg878r	kg878r0020sr0	8afc94f4	<i(on)>جلالتك...?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04633	kh3_event_kg_dlc.kg878r	kg878r0030mm0	af29b2d7	<i(on)>إنه أنا. يسعدني أن صوتي يصل إليك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04634	kh3_event_kg_dlc.kg878r	kg878r0040sr0	0edf0921	<i(on)>جلالتك! كايري...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04635	kh3_event_kg_dlc.kg878r	kg878r0050mm0	2b0a2f02	<i(on)>أعرف، لكن ما زال بإمكاننا إنقاذها.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04636	kh3_event_kg_dlc.kg878r	kg878r0060sr0	c4117fad	<i(on)>ماذا يحدث?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04637	kh3_event_kg_dlc.kg878r	kg878r0070mm0_1	ce822886	<i(on)>المعلم زيهانورت يخبئ الكثير من<br>الحيل.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04638	kh3_event_kg_dlc.kg878r	kg878r0070mm0_2	dc378768	<i(on)>كايري واحدة من القلوب السبعة،<br>ولهذا بلورها―<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04639	kh3_event_kg_dlc.kg878r	kg878r0070mm0_2b	b5e10cb6		todo	
-04640	kh3_event_kg_dlc.kg878r	kg878r0070mm0_3	648be00d	<i(on)>كي يستخدمها ضمانا<br> حتى تفتح كينغدوم هارتس.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04640	kh3_event_kg_dlc.kg878r	kg878r0070mm0_3	648be00d	<i(on)>كي يستخدمها ضمانا<br> حتى تفتح كينغدوم هارتس.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04641	kh3_event_kg_dlc.kg878r	kg878r0070mm0_3b	794b0c28		todo	
-04642	kh3_event_kg_dlc.kg878r	kg878r0070mm0_4	f95cd8b4	<i(on)>إنها ملجؤه الأخير.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04643	kh3_event_kg_dlc.kg878r	kg878r0080sr0	dde934ca	<i(on)>إذن كيف نعيدها...?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04644	kh3_event_kg_dlc.kg878r	kg878r0590mm0	101fe991	ما زال عندنا أمل واحد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04645	kh3_event_kg_dlc.kg878r	kg878r0600sr0	f00fb028	جلالتك، ريكو، هل أنتما بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04646	kh3_event_kg_dlc.kg878r	kg878r0610mm0	d5da960b	نحن بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04647	kh3_event_kg_dlc.kg878r	kg878r0620rk0	c290a0cb	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04648	kh3_event_kg_dlc.kg878r	kg878r0621vn0	271e0441	أي أمل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04649	kh3_event_kg_dlc.kg878r	kg878r0622rk0_1	965c483f	إنه زيهانورت.<br>أثناء اختبار الإتقان،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04650	kh3_event_kg_dlc.kg878r	kg878r0622rk0_2	84e9e7d1	عرفنا أنه يستطيع تجاوز المكان والزمان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04651	kh3_event_kg_dlc.kg878r	kg878r0090sr0	b88e0f8c	<i(on)>وهكذا انتهت المعركة الأخيرة<br>لكن كايري لم تعد.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04652	kh3_event_kg_dlc.kg878r	kg878r0090sr1	003268e9	<i(on)>حتى لو واصلت البحث مع نفسي في الماضي،<br>فلن أجدها.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04642	kh3_event_kg_dlc.kg878r	kg878r0070mm0_4	f95cd8b4	<i(on)>إنها ملجؤه الأخير.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04643	kh3_event_kg_dlc.kg878r	kg878r0080sr0	dde934ca	<i(on)>إذن كيف نعيدها...?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04644	kh3_event_kg_dlc.kg878r	kg878r0590mm0	101fe991	ما زال لدينا أمل واحد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04645	kh3_event_kg_dlc.kg878r	kg878r0600sr0	f00fb028	جلالتك، ريكو، هل أنتما بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04646	kh3_event_kg_dlc.kg878r	kg878r0610mm0	d5da960b	نحن بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04647	kh3_event_kg_dlc.kg878r	kg878r0620rk0	c290a0cb	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04648	kh3_event_kg_dlc.kg878r	kg878r0621vn0	271e0441	أي أمل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04649	kh3_event_kg_dlc.kg878r	kg878r0622rk0_1	965c483f	إنه زيهانورت.<br>خلال اختبار الإتقان،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04650	kh3_event_kg_dlc.kg878r	kg878r0622rk0_2	84e9e7d1	عرفنا أنه يستطيع تجاوز المكان والزمان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04651	kh3_event_kg_dlc.kg878r	kg878r0090sr0	b88e0f8c	<i(on)>وهكذا انتهت المعركة الأخيرة<br>لكن كايري لم تعد.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04652	kh3_event_kg_dlc.kg878r	kg878r0090sr1	003268e9	<i(on)>حتى لو واصلت البحث مع نفسي في الماضي،<br>فلن أجدها.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04653	kh3_event_kg_dlc.kg878r	kg878r0090sr1b	b0a820cf		todo	
-04654	kh3_event_kg_dlc.kg878r	kg878r0090sr2_1	bb59e959	<i(on)>ماذا أفعل...?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04655	kh3_event_kg_dlc.kg878r	kg878r0090sr2_2	a9ec46b7	<i(on)>كايري، أين أنت?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04656	kh3_event_kg_dlc.kg878r	kg878r0110sr5	93ae4c2b	<i(on)>بوابة المعلم زيهانورت...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04657	kh3_event_kg_dlc.kg878r	kg878r0120sr0	0bd9f1d3	هذا هو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04658	kh3_event_kg_dlc.kg974a	kg9740010mm0	02db838d	يا جماعة، كونوا أقوياء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04659	kh3_event_kg_dlc.kg974a	kg9740020x80	240fa909	إذن... إن لم نستطع إيقافه، ماذا سيحدث?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04660	kh3_event_kg_dlc.kg974a	kg9740030aq0_1	431254a8	لا أعرف...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04661	kh3_event_kg_dlc.kg974a	kg9740030aq0_2	51a7fb46	لكن... لا شك في ذهني أن<br>هذا هو كينغدوم هارتس الحقيقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04662	kh3_event_kg_dlc.kg974a	kg9740030aq0_3	e91b9c23	لا أستطيع... تخيل ما سيحدث إن نجح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04663	kh3_event_kg_dlc.kg974a	kg9740040vn0	da541d83	إن كبحناه، فقد يختفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04664	kh3_event_kg_dlc.kg974a	kg9740050te0	0e62a40c	لا. نصل χ وحده يملك القوة لإيقافه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04665	kh3_event_kg_dlc.kg974a	kg9740060vn0	109a6b0f	لكن...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04666	kh3_event_kg_dlc.kg974a	kg9740070rk0	3e1b6552	علينا جميعا أن نثق بسورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04667	kh3_event_kg_dlc.kg974a	kg9740080mm0	fa676e79	صحيح!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04668	kh3_event_kg_dlc.kg974a	kg9740150xi0	dde299e5	انظروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04669	kh3_event_kg_dlc.kg974a	kg9740210sr0	9b5252e7	انتهى كل شيء يا زيهانورت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04670	kh3_event_kg_dlc.kg974a	kg9740180x80	f23f6c10	هل... ترى ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04671	kh3_event_kg_dlc.kg974a	kg9740190rk0	a6c64b12	استعد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04672	kh3_event_kg_dlc.kg976a	kg9760030sr0	b062e571	كايري!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04673	kh3_event_kg_dlc.kg976a	kg9760050kr0	3e55e3a6	سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04674	kh3_event_kg_dlc.kg976a	kg9760100sr0	9eeecd9c	كايري، هل أنت مستعدة لهذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04675	kh3_event_kg_dlc.kg976a	kg9760110kr0_1	4a869d3b	هاه?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04676	kh3_event_kg_dlc.kg976a	kg9760110kr0_2	583332d5	...نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04677	kh3_event_kg_dlc.kg977a	kg9770060sr0	6a3230c4	أصدقائي... هم قوتي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04678	kh3_event_kg_dlc.kg977a	kg9770080x80_1	8da0b51a	أين سورا وكايري?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04679	kh3_event_kg_dlc.kg977a	kg9770080x80_2	9f151af4	كانا هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04680	kh3_event_kg_dlc.kg977a	kg9770090rk0_1	3a9194af	كانا هنا، لكن ما داما معا،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04681	kh3_event_kg_dlc.kg977a	kg9770090rk0_2	28243b41	فسيكونان بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-04682	kh3_event_kg_dlc.kg977a	kg9770120mm0	e548a3df	والآن، لنتبع قلب سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+04654	kh3_event_kg_dlc.kg878r	kg878r0090sr2_1	bb59e959	<i(on)>ماذا أفعل...?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04655	kh3_event_kg_dlc.kg878r	kg878r0090sr2_2	a9ec46b7	<i(on)>كايري، أين أنت?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04656	kh3_event_kg_dlc.kg878r	kg878r0110sr5	93ae4c2b	<i(on)>بوابة المعلم زيهانورت...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04657	kh3_event_kg_dlc.kg878r	kg878r0120sr0	0bd9f1d3	هذا هو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04658	kh3_event_kg_dlc.kg974a	kg9740010mm0	02db838d	يا جماعة، كونوا أقوياء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04659	kh3_event_kg_dlc.kg974a	kg9740020x80	240fa909	إذن... إن لم نستطع إيقافه، ماذا سيحدث?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04660	kh3_event_kg_dlc.kg974a	kg9740030aq0_1	431254a8	لا أعرف...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04661	kh3_event_kg_dlc.kg974a	kg9740030aq0_2	51a7fb46	لكن... لا شك في ذهني أن<br>هذا هو كينغدوم هارتس الحقيقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04662	kh3_event_kg_dlc.kg974a	kg9740030aq0_3	e91b9c23	لا أستطيع... تخيل ما سيحدث إن نجح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04663	kh3_event_kg_dlc.kg974a	kg9740040vn0	da541d83	إن كبحناه، فقد يختفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04664	kh3_event_kg_dlc.kg974a	kg9740050te0	0e62a40c	لا. نصل χ وحده يملك القوة لإيقافه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04665	kh3_event_kg_dlc.kg974a	kg9740060vn0	109a6b0f	لكن...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04666	kh3_event_kg_dlc.kg974a	kg9740070rk0	3e1b6552	علينا جميعا أن نثق بسورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04667	kh3_event_kg_dlc.kg974a	kg9740080mm0	fa676e79	صحيح!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04668	kh3_event_kg_dlc.kg974a	kg9740150xi0	dde299e5	انظروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04669	kh3_event_kg_dlc.kg974a	kg9740210sr0	9b5252e7	انتهى الأمر يا زيهانورت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04670	kh3_event_kg_dlc.kg974a	kg9740180x80	f23f6c10	هل... ترى ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04671	kh3_event_kg_dlc.kg974a	kg9740190rk0	a6c64b12	استعد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04672	kh3_event_kg_dlc.kg976a	kg9760030sr0	b062e571	كايري!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04673	kh3_event_kg_dlc.kg976a	kg9760050kr0	3e55e3a6	سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04674	kh3_event_kg_dlc.kg976a	kg9760100sr0	9eeecd9c	كايري، هل أنت مستعدة لهذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04675	kh3_event_kg_dlc.kg976a	kg9760110kr0_1	4a869d3b	هاه?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04676	kh3_event_kg_dlc.kg976a	kg9760110kr0_2	583332d5	...نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04677	kh3_event_kg_dlc.kg977a	kg9770060sr0	6a3230c4	أصدقائي... هم قوتي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04678	kh3_event_kg_dlc.kg977a	kg9770080x80_1	8da0b51a	أين سورا وكايري?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04679	kh3_event_kg_dlc.kg977a	kg9770080x80_2	9f151af4	كانا هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04680	kh3_event_kg_dlc.kg977a	kg9770090rk0_1	3a9194af	كانا هنا، لكن ما داما معا،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04681	kh3_event_kg_dlc.kg977a	kg9770090rk0_2	28243b41	فسيكونان بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04682	kh3_event_kg_dlc.kg977a	kg9770120mm0	e548a3df	والآن، لنتبع قلب سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

@@ -1,216 +1,216 @@
 id	namespace	key	source_hash	AR	status	note
-03038	kh3_event_gm.gm022a	gm037001sr0	9ea9b44a	كيف سنصل إلى هناك الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03039	kh3_event_gm.gm022a	gm037002do0	285f2031	ماذا? ظننتك تعرف!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03040	kh3_event_gm.gm022a	gm037003go0_1	058c3db2	يبدو أن كل الطرق القديمة مغلقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03041	kh3_event_gm.gm022a	gm037003go0_2	1739925c	ألم يقل المعلم ين سيد إن على سورا<br>أن يثق بما يرشده إليه قلبه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03042	kh3_event_gm.gm022a	gm037004do0	7bce49d5	هيا يا سورا! أي طريق?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03043	kh3_event_gm.gm022a	gm037005sr0	4a98f8cd	امممم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03044	kh3_event_gm.gm022a	gm037006do0	fc6e6cb6	هيا، هلا أخذت الأمر بجدية?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03045	kh3_event_gm.gm022a	gm037007sr0	cd38ddae	أمهلني قليلا، أنا أحاول.<br>هذه الأمور تحتاج وقتا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03046	kh3_event_gm.gm022a	gm037009go0	051ad97c	بما أننا ذهبنا إلى هناك من قبل، لم لا<br>تحاول أن تتخيل أصدقاءنا وكأننا معهم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03038	kh3_event_gm.gm022a	gm037001sr0	9ea9b44a	كيف سنصل إلى هناك الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03039	kh3_event_gm.gm022a	gm037002do0	285f2031	ماذا? ظننتك تعرف!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03040	kh3_event_gm.gm022a	gm037003go0_1	058c3db2	يبدو أن كل الطرق القديمة مغلقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03041	kh3_event_gm.gm022a	gm037003go0_2	1739925c	ألم يقل المعلم ين سيد إن على سورا<br>أن يثق بما يرشده إليه قلبه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03042	kh3_event_gm.gm022a	gm037004do0	7bce49d5	هيا يا سورا! أي طريق?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03043	kh3_event_gm.gm022a	gm037005sr0	4a98f8cd	امممم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03044	kh3_event_gm.gm022a	gm037006do0	fc6e6cb6	هيا، هلا أخذت الأمر بجدية?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03045	kh3_event_gm.gm022a	gm037007sr0	cd38ddae	أمهلني قليلا، أنا أحاول.<br>هذه الأمور تحتاج وقتا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03046	kh3_event_gm.gm022a	gm037009go0	051ad97c	بما أننا ذهبنا إلى هناك من قبل، لم لا<br>تحاول أن تتخيل أصدقاءنا وكأننا معهم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 03047	kh3_event_gm.gm022a	gm037010sr0	55a61e9d		todo	
-03048	kh3_event_gm.gm022a	gm037011do0	64f0af85	إذن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03049	kh3_event_gm.gm022a	gm037012sr0	d2063bfe	آسف، لا شيء. ماذا توقعتم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03050	kh3_event_gm.gm022a	gm037014go0	6937a063	"ليكن قلبك مفتاحك الذي يرشدك."	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03051	kh3_event_gm.gm022a	gm037016sr0	06377779	ماذا? ما هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03052	kh3_event_gm.gm022a	gm037017go0	40ff1491	كان المعلم ين سيد يقول هذا دائما، قبل أن ننطلق<br>في أي مغامرة من مغامراتنا المهمة حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03053	kh3_event_gm.gm022a	gm037018sr0	26b581d2	حقا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03054	kh3_event_gm.gm022a	gm037019sr0	88dd1043	هل تذكرت شيئا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03055	kh3_event_gm.gm022a	gm037021go0	bcc730bf	ربما تخيلت ذلك فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03056	kh3_event_gm.gm022a	gm037022sr0	7daf7634	ليكن قلبي مفتاحي الذي يرشدني...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03057	kh3_event_gm.gm022a	gm037024sr0	2e3e1fd0	وجدتها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03058	kh3_event_gm.gm022a	gm037025do0	1f68aec8	إنها بوابة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03059	kh3_event_gm.gm022a	gm037027sr0	07f6ab22	رائع! كولوسيوم أوليمبوس، نحن قادمون!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03060	kh3_event_gm.gm155a	gm1550020do0	169ebed1	حسنا، إلى أين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03061	kh3_event_gm.gm155a	gm1550030sr0	ecc7a51e	امممم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03062	kh3_event_gm.gm155a	gm1550040do0	92bd2304	أوه، هيا. هلا أخذت الأمر بجدية?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03063	kh3_event_gm.gm155a	gm1550050sr0	68e438cb	أمهلني قليلا، اتفقنا?<br>قلت لكم. هذه الأمور تحتاج وقتا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03064	kh3_event_gm.gm155a	gm1550060go0	2fed8778	يا للعجب، هل أنا الوحيد الذي يرى<br>أن هذا صار روتينا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03065	kh3_event_gm.gm155a	gm1550080do0	418b1eef	ماذا? ما هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03066	kh3_event_gm.gm155a	gm1550090ji0	0bb2ff30	الصوت يأتي منك يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03067	kh3_event_gm.gm155a	gm1550110sr0	a72cb6b5	ما هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03068	kh3_event_gm.gm155a	gm1550120do0	97bbdbf6	لا أدري! أوقفه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03069	kh3_event_gm.gm155a	gm1550130sr0	6de2c039	لكنني لا أعرف كيف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03070	kh3_event_gm.gm155a	gm1550140sr0	8ca666aa	ربما... هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03071	kh3_event_gm.gm155a	gm1550150de0	e73f61ad	مرحى! لقد رد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03072	kh3_event_gm.gm155a	gm1550160sr0	46681026	ماذا? ديل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03073	kh3_event_gm.gm155a	gm1550170de0_1	d1894046	يا تشيب، أخيرا وصلت إليه!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03074	kh3_event_gm.gm155a	gm1550170de0_2	c33cefa8	أسرع يا تشيب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03075	kh3_event_gm.gm155a	gm1550180ci0	72599bc0	حسنا! أخيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03076	kh3_event_gm.gm155a	gm1550190sr0	3af76007	تشيب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03077	kh3_event_gm.gm155a	gm1550200de0_1	1c9fbbaa	عليك أن ترد على الهاتف يا سورا،<br>وإلا لن نستطيع إخبارك بالمستجدات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03078	kh3_event_gm.gm155a	gm1550200de0_2	0e2a1444	لدينا الكثير و<i(on)>الكثير<i(off)> من الأمور المهمة<br>التي نريد أن نخبرك بها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03079	kh3_event_gm.gm155a	gm1550210ci0	d2fbdf1c	لهذا طلبنا من المعلم ين سيد أن يتأكد<br>من حصولك على هاتف الغامي الذي صنعناه لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03080	kh3_event_gm.gm155a	gm1550210ci0b	b3e4f130	لكي نبقى على تواصل<br>معك في كل الأوقات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03081	kh3_event_gm.gm155a	gm1550220de0	5e656e16	<i(on)>كما أنه<i(off)> يلتقط الصور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03082	kh3_event_gm.gm155a	gm1550230ji0_1	a09b2422	آه! أنهيتماه أخيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03083	kh3_event_gm.gm155a	gm1550230ji0_2	b22e8bcc	اسمعوا، بهاتف الغامي هذا<br>نستطيع التحدث معا عبر العوالم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03084	kh3_event_gm.gm155a	gm1550230ji0_2b	4ff89ec7	بل ربما أجرب كتابة يومياتي عليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03085	kh3_event_gm.gm155a	gm1550240sr0_1	00148483	واو! يبدو مفيدا جدا يا رفاق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03086	kh3_event_gm.gm155a	gm1550240sr0_2	12a12b6d	إذن، ما الأمر المهم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03087	kh3_event_gm.gm155a	gm1550250ci0	9c163445	هذا! عندما كنت أنت وريكو<br>تجوبان عوالم النوم،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03088	kh3_event_gm.gm155a	gm1550250ci0b	dae26f6f	استعاد ريكو بيانات بحث سرية<br>أخفاها أنسيم الحكيم في داخلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03089	kh3_event_gm.gm155a	gm1550260de0	1088854f	شفرة أنسيم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03090	kh3_event_gm.gm155a	gm1550270ci0	56d842c9	أجل. كنا نعمل بلا توقف<br>محاولين فك الشفرة لنرى ما تقوله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03091	kh3_event_gm.gm155a	gm1550280x60	dbcb9a70	البيانات مشفرة،<br>لذا لم نفك إلا جزءا منها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03092	kh3_event_gm.gm155a	gm1550290sr0	62e9c92f	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03093	kh3_event_gm.gm155a	gm1550310x60_1	3e91a945	آه... أظن أننا لم نتحدث منذ القلعة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03094	kh3_event_gm.gm155a	gm1550310x60_2	2c2406ab	أنا إينزو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03095	kh3_event_gm.gm155a	gm1550310x60_3	949861ce	إيليوس هنا أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03096	kh3_event_gm.gm155a	gm1550320x60_4	0b915e50	إيليوس، أيا كان ما بينك وبين روكساس،<br>فقد صار من الماضي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03097	kh3_event_gm.gm155a	gm1550320x60_5	b32d3935	سورا، نحن هنا لأنك<br>أنت وأصدقاؤك هزمتم نظراءنا من اللا أحد،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03098	kh3_event_gm.gm155a	gm1550320x60_5b	2e668ec1	وبذلك "أعدتم اكتمالنا".	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03099	kh3_event_gm.gm155a	gm1550320x60_6	a19896db	لقد تخلينا عن قلوبنا باختيارنا،<br>لا شك في ذلك،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03100	kh3_event_gm.gm155a	gm1550320x60_7	1924f1be	لكننا لم نكن نعلم أن زيمناس—<br>أو بالأحرى زيهانورت—كان يخدعنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03101	kh3_event_gm.gm155a	gm1550330sr0	b4d90c36	ماذا? زيمناس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03102	kh3_event_gm.gm155a	gm1550340go0	bd3d58dc	آه، إنه معهم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03103	kh3_event_gm.gm155a	gm1550350x60_1	38465d31	لم نعد كذلك. زيمناس وزيهانورت<br>لم يعد لهما سلطان علينا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03104	kh3_event_gm.gm155a	gm1550350x60_2	2af3f2df	نحن مجرد دارسين للقلب، تماما كما<br>كنا قبل أن يبدأ كل هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03105	kh3_event_gm.gm155a	gm1550360do0	006dfca0	أجل، بالتأكيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03106	kh3_event_gm.gm155a	gm1550370go0	12941516	لكن، الآن وقد فكرت في الأمر،<br>آكسل في صفنا الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03107	kh3_event_gm.gm155a	gm1550390x60_1	333e41ad	لدينا أصدقاء نريد أن نعيدهم<br>إلى هذا العالم، تماما مثلكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03108	kh3_event_gm.gm155a	gm1550390x60_2	218bee43	ولتحقيق ذلك، يجب أن نعمل معا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03109	kh3_event_gm.gm155a	gm1550390x61_1	a89b0dc2	وبهذه الروح يا سورا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03110	kh3_event_gm.gm155a	gm1550390x61_2	ba2ea22c	وجدنا بيانات مثيرة للاهتمام<br>في الجزء الذي فككناه من الشفرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03111	kh3_event_gm.gm155a	gm1550420sr0	e0a60007	هل تتعلق بي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03112	kh3_event_gm.gm155a	gm1550430x60_1	856f41ea	نعم. لكي يعيد تجميع<br>ذكرياتك،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03113	kh3_event_gm.gm155a	gm1550430x60_1b	0746a6f8	تفحص معلمنا، أنسيم الحكيم،<br>قلبك عن قرب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03114	kh3_event_gm.gm155a	gm1550430x60_2	97daee04	وما وجده...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03115	kh3_event_gm.gm155a	gm1550430x60_2b	89c9a11b	هو أن قلبك ليس لك وحدك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03116	kh3_event_gm.gm155a	gm1550440do0	fbbbbd5b	ليس له وحده?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03117	kh3_event_gm.gm155a	gm1550470go0	238c2261	يا للعجب، لا تبدو متفاجئا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03118	kh3_event_gm.gm155a	gm1550480sr0_1	42238f20	نعم. بصراحة، كنت أشك في ذلك.<br>هناك قلب آخر داخل قلبي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03119	kh3_event_gm.gm155a	gm1550480sr0_2	509620ce	أظنه قلب روكساس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03120	kh3_event_gm.gm155a	gm1550480sr1	0f0fc75c	تماما كما أن ناميني ما زالت داخل قلب كايري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03121	kh3_event_gm.gm155a	gm1550490x60	0e91f366	مثير للاهتمام... لا أحد يعرف<br>قلبك أفضل منك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03122	kh3_event_gm.gm155a	gm1550490x61	b62d9403	بصراحة، ما زالت لدينا<br>أسئلة كثيرة من جانبنا، لكن...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03123	kh3_event_gm.gm155a	gm1550490x62_1	6790cda7	الفكرة وجيهة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03124	kh3_event_gm.gm155a	gm1550490x62_2	75256249	من المذهل أصلا أن تتمكن أنت<br>ونظيرك من اللا أحد من التعايش.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03125	kh3_event_gm.gm155a	gm1550490x62_3	cd99052c	وإن كنتما تتشاركان قلبا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03126	kh3_event_gm.gm155a	gm1550490x62_3b	1912bda7	فلا عجب أن شخصا مميزا مثلك<br>لفت انتباه أنسيم الحكيم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03127	kh3_event_gm.gm155a	gm1550490x62_4	504e3d95	سنواصل البحث بناء على فرضيتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03128	kh3_event_gm.gm155a	gm1550490x62_5	e8f25af0	سأتواصل معك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03129	kh3_event_gm.gm155a	gm1550500de0_1	a40aa93f	حسنا، سنتصل بكم يا رفاق<br>إن جد أي شيء آخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03130	kh3_event_gm.gm155a	gm1550500de0_2	b6bf06d1	تذكروا، أنا وتشيب،<br>والرفاق في الحديقة المضيئة،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03131	kh3_event_gm.gm155a	gm1550500de0_2b	6b51e614	والملك ميكي والجميع<br>لسنا بعيدين عنكم أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03132	kh3_event_gm.gm155a	gm1550510ci0	e3e3e86b	وجيميني، هلا أسديت لنا معروفا?<br>علم سورا كيف يستخدم هاتف الغامي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03133	kh3_event_gm.gm155a	gm1550520ji0	d1e39f30	اترك الأمر لي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03134	kh3_event_gm.gm155a	gm1550530sr0	04e45e66	يجب أن أجد روكساس وأنقذه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03135	kh3_event_gm.gm155a	gm1550530sr0b	f57bb900	الآخرون يتبعون قلب أكوا،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03136	kh3_event_gm.gm155a	gm1550530sr1	bc583903	لذا سأتبع أنا قلب روكساس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03137	kh3_event_gm.gm155a	gm1550570go0	a2a94746	ثق بما يرشدك إليه قلبك يا سورا.<br>هذا ما قاله المعلم ين سيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03138	kh3_event_gm.gm155a	gm1550580do0	a9a8e597	إلى أين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03139	kh3_event_gm.gm155a	gm1550590sr0	53f1fe58	هذا سهل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03140	kh3_event_gm.gm291a	gm2910011do0	04992191	سورا، ماذا عن "قوة اليقظة"?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03141	kh3_event_gm.gm291a	gm2910021sr0	340e4cd2	<i(on)>كان لا بد<i(off)> أن تذكرني?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03142	kh3_event_gm.gm291a	gm2910031go0	b9c985ed	يا للعجب، نحن نريد فقط<br>أن نبقي حماسك عاليا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03143	kh3_event_gm.gm291a	gm2910041sr0	b02dd107	كنت أفكر في روكساس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03144	kh3_event_gm.gm291a	gm2910051sr0	d54aea41	إنه محبوس هنا في قلبي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03145	kh3_event_gm.gm291a	gm2910051sr0b	cb990b6e	لكن... يحتاج إلى جسد ليعود نفسه من جديد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03146	kh3_event_gm.gm291a	gm2910061go0	924355f2	لا تقلق.<br>إينزو يعمل على طريقة لتحريره.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03147	kh3_event_gm.gm291a	gm2910061go0b	33263c4d	أراهن أنه جهز له<br>الجسد المثالي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03148	kh3_event_gm.gm291a	gm2910070ji0	018cf74c	لديك هاتف الغامي يا سورا.<br>لم لا تجرب الاتصال به?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03149	kh3_event_gm.gm291a	gm2910081sr0	631becec	آه، أظن ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03150	kh3_event_gm.gm291a	gm2910081sr1	dba78b89	نعم، لم لا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03151	kh3_event_gm.gm291a	gm2910160mm0	151c4e58	آه! أهلا يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03152	kh3_event_gm.gm291a	gm2910170do0	aff748f2	جلالتك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03153	kh3_event_gm.gm291a	gm2910191sr0_1	f6205af8	مهلا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03154	kh3_event_gm.gm291a	gm2910191sr0_2	e495f516	ما...? رقم خاطئ?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03155	kh3_event_gm.gm291a	gm2910200mm0_1	23f39b73	لا، أنا وريكو نزور الحديقة المضيئة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03156	kh3_event_gm.gm291a	gm2910200mm0_2	3146349d	في الواقع، كنا على وشك الاتصال بكم،<br>لكن يبدو أنكم سبقتمونا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03157	kh3_event_gm.gm291a	gm2910250rk0	5a48d1b0	سورا، هل من خطب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03158	kh3_event_gm.gm291a	gm2910260sr0_1	b7bc2cdb	أردت أن أستشيركم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03159	kh3_event_gm.gm291a	gm2910260sr0_2	a5098335	لكي نعيد اكتمال روكساس،<br>يحتاج إلى جسد، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03160	kh3_event_gm.gm291a	gm2910270mm0	2865dc36	نعم، لنضع فيه قلبه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03161	kh3_event_gm.gm431a	gm4310020sr0	4e2fa216	يجب أن نذهب إلى عالم الظلام!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03162	kh3_event_gm.gm431a	gm4310030do0	b476b9d9	مستحيل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03163	kh3_event_gm.gm431a	gm4310040go0	22accdba	لا تستطيع الذهاب إلى هناك قبل أن تستعيد<br>قوة اليقظة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03164	kh3_event_gm.gm431a	gm4310050sr0_1	de63f9b4	لكن هيا، يجب أن نفعل شيئا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03165	kh3_event_gm.gm431a	gm4310050sr0_2	ccd6565a	إن لم نتحرك، فستنتصر المنظمة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03166	kh3_event_gm.gm431a	gm4310070ji0	d5c58819	سورا، هل تعرف أصلا كيف تصل<br>إلى عالم الظلام?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03167	kh3_event_gm.gm431a	gm4310100sr0	05c4b1bd	حسنا، ريكو والملك يعرفان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03168	kh3_event_gm.gm431a	gm4310110do0	ff9daa72	لن يخبراك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03169	kh3_event_gm.gm431a	gm4310120go0	27aa3548	لا، ليس قبل أن تنهي مهمتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03170	kh3_event_gm.gm431a	gm4310170do0	7bbe37a7	الملك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03171	kh3_event_gm.gm431a	gm4310190sr0	fd785c49	ريكو?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03172	kh3_event_gm.gm431a	gm4310200x60	819f708c	هل الوقت غير مناسب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03173	kh3_event_gm.gm431a	gm4310230sr0	f273555f	إينزو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03174	kh3_event_gm.gm431a	gm4310250x60	aa15a093	لدي أخبار عن شفرة أنسيم<br>وعن النسخة التي نحتاجها لقلب روكساس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03048	kh3_event_gm.gm022a	gm037011do0	64f0af85	إذن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03049	kh3_event_gm.gm022a	gm037012sr0	d2063bfe	آسف، لا شيء. ماذا توقعتم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03050	kh3_event_gm.gm022a	gm037014go0	6937a063	"ليكن قلبك مفتاحك الذي يرشدك."	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03051	kh3_event_gm.gm022a	gm037016sr0	06377779	ماذا? ما هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03052	kh3_event_gm.gm022a	gm037017go0	40ff1491	كان المعلم ين سيد يقول هذا دائما، قبل أن ننطلق<br>في أي مغامرة من مغامراتنا المهمة حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03053	kh3_event_gm.gm022a	gm037018sr0	26b581d2	حقا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03054	kh3_event_gm.gm022a	gm037019sr0	88dd1043	هل تذكرت شيئا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03055	kh3_event_gm.gm022a	gm037021go0	bcc730bf	ربما تخيلت ذلك فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03056	kh3_event_gm.gm022a	gm037022sr0	7daf7634	ليكن قلبي مفتاحي الذي يرشدني...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03057	kh3_event_gm.gm022a	gm037024sr0	2e3e1fd0	وجدتها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03058	kh3_event_gm.gm022a	gm037025do0	1f68aec8	إنها بوابة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03059	kh3_event_gm.gm022a	gm037027sr0	07f6ab22	رائع! كولوسيوم أوليمبوس، نحن قادمون!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03060	kh3_event_gm.gm155a	gm1550020do0	169ebed1	حسنا، إلى أين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03061	kh3_event_gm.gm155a	gm1550030sr0	ecc7a51e	امممم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03062	kh3_event_gm.gm155a	gm1550040do0	92bd2304	أوه، هيا. هلا أخذت الأمر بجدية?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03063	kh3_event_gm.gm155a	gm1550050sr0	68e438cb	أمهلني قليلا، اتفقنا?<br>قلت لكم. هذه الأمور تحتاج وقتا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03064	kh3_event_gm.gm155a	gm1550060go0	2fed8778	يا للعجب، هل أنا الوحيد الذي يرى<br>أن هذا صار روتينا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03065	kh3_event_gm.gm155a	gm1550080do0	418b1eef	ماذا? ما هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03066	kh3_event_gm.gm155a	gm1550090ji0	0bb2ff30	الصوت يأتي منك يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03067	kh3_event_gm.gm155a	gm1550110sr0	a72cb6b5	ما هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03068	kh3_event_gm.gm155a	gm1550120do0	97bbdbf6	لا أدري! أوقفه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03069	kh3_event_gm.gm155a	gm1550130sr0	6de2c039	لكنني لا أعرف كيف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03070	kh3_event_gm.gm155a	gm1550140sr0	8ca666aa	ربما... هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03071	kh3_event_gm.gm155a	gm1550150de0	e73f61ad	مرحى! لقد رد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03072	kh3_event_gm.gm155a	gm1550160sr0	46681026	ماذا? ديل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03073	kh3_event_gm.gm155a	gm1550170de0_1	d1894046	يا تشيب، أخيرا وصلت إليه!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03074	kh3_event_gm.gm155a	gm1550170de0_2	c33cefa8	أسرع يا تشيب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03075	kh3_event_gm.gm155a	gm1550180ci0	72599bc0	حسنا! أخيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03076	kh3_event_gm.gm155a	gm1550190sr0	3af76007	تشيب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03077	kh3_event_gm.gm155a	gm1550200de0_1	1c9fbbaa	عليك أن ترد على الهاتف يا سورا،<br>وإلا لن نستطيع إخبارك بالمستجدات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03078	kh3_event_gm.gm155a	gm1550200de0_2	0e2a1444	لدينا الكثير و<i(on)>الكثير<i(off)> من الأمور المهمة<br>التي نريد أن نخبرك بها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03079	kh3_event_gm.gm155a	gm1550210ci0	d2fbdf1c	لهذا طلبنا من المعلم ين سيد أن يتأكد<br>من حصولك على هاتف الغامي الذي صنعناه لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03080	kh3_event_gm.gm155a	gm1550210ci0b	b3e4f130	لكي نبقى على تواصل<br>معك في كل الأوقات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03081	kh3_event_gm.gm155a	gm1550220de0	5e656e16	<i(on)>كما أنه<i(off)> يلتقط الصور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03082	kh3_event_gm.gm155a	gm1550230ji0_1	a09b2422	آه! أنهيتماه أخيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03083	kh3_event_gm.gm155a	gm1550230ji0_2	b22e8bcc	اسمعوا، بهاتف الغامي هذا<br>نستطيع التحدث معا عبر العوالم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03084	kh3_event_gm.gm155a	gm1550230ji0_2b	4ff89ec7	بل ربما أجرب كتابة يومياتي عليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03085	kh3_event_gm.gm155a	gm1550240sr0_1	00148483	واو! يبدو مفيدا جدا يا رفاق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03086	kh3_event_gm.gm155a	gm1550240sr0_2	12a12b6d	إذن، ما الأمر المهم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03087	kh3_event_gm.gm155a	gm1550250ci0	9c163445	هذا! عندما كنت أنت وريكو<br>تجوبان عوالم النوم،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03088	kh3_event_gm.gm155a	gm1550250ci0b	dae26f6f	استعاد ريكو بيانات بحث سرية<br>أخفاها أنسيم الحكيم في داخلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03089	kh3_event_gm.gm155a	gm1550260de0	1088854f	شفرة أنسيم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03090	kh3_event_gm.gm155a	gm1550270ci0	56d842c9	أجل. كنا نعمل بلا توقف<br>محاولين فك الشفرة لنرى ما تقوله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03091	kh3_event_gm.gm155a	gm1550280x60	dbcb9a70	البيانات مشفرة،<br>لذا لم نفك إلا جزءا منها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03092	kh3_event_gm.gm155a	gm1550290sr0	62e9c92f	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03093	kh3_event_gm.gm155a	gm1550310x60_1	3e91a945	آه... أظن أننا لم نتحدث منذ القلعة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03094	kh3_event_gm.gm155a	gm1550310x60_2	2c2406ab	أنا إينزو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03095	kh3_event_gm.gm155a	gm1550310x60_3	949861ce	إيليوس هنا أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03096	kh3_event_gm.gm155a	gm1550320x60_4	0b915e50	إيليوس، أيا كان ما بينك وبين روكساس،<br>فقد صار من الماضي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03097	kh3_event_gm.gm155a	gm1550320x60_5	b32d3935	سورا، نحن هنا لأنك<br>أنت وأصدقاؤك هزمتم نظراءنا من اللا أحد،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03098	kh3_event_gm.gm155a	gm1550320x60_5b	2e668ec1	وبذلك "أعدتم اكتمالنا".	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03099	kh3_event_gm.gm155a	gm1550320x60_6	a19896db	لقد تخلينا عن قلوبنا باختيارنا،<br>لا شك في ذلك،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03100	kh3_event_gm.gm155a	gm1550320x60_7	1924f1be	لكننا لم نكن نعلم أن زيمناس—<br>أو بالأحرى زيهانورت—كان يخدعنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03101	kh3_event_gm.gm155a	gm1550330sr0	b4d90c36	ماذا? زيمناس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03102	kh3_event_gm.gm155a	gm1550340go0	bd3d58dc	آه، إنه معهم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03103	kh3_event_gm.gm155a	gm1550350x60_1	38465d31	لم نعد كذلك. زيمناس وزيهانورت<br>لم يعد لهما سلطان علينا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03104	kh3_event_gm.gm155a	gm1550350x60_2	2af3f2df	نحن مجرد دارسين للقلب، تماما كما<br>كنا قبل أن يبدأ كل هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03105	kh3_event_gm.gm155a	gm1550360do0	006dfca0	أجل، بالتأكيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03106	kh3_event_gm.gm155a	gm1550370go0	12941516	لكن، الآن وقد فكرت في الأمر،<br>آكسل في صفنا الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03107	kh3_event_gm.gm155a	gm1550390x60_1	333e41ad	لدينا أصدقاء نريد أن نعيدهم<br>إلى هذا العالم، تماما مثلكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03108	kh3_event_gm.gm155a	gm1550390x60_2	218bee43	ولتحقيق ذلك، يجب أن نعمل معا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03109	kh3_event_gm.gm155a	gm1550390x61_1	a89b0dc2	وبهذه الروح يا سورا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03110	kh3_event_gm.gm155a	gm1550390x61_2	ba2ea22c	وجدنا بيانات مثيرة للاهتمام<br>في الجزء الذي فككناه من الشفرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03111	kh3_event_gm.gm155a	gm1550420sr0	e0a60007	هل تتعلق بي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03112	kh3_event_gm.gm155a	gm1550430x60_1	856f41ea	نعم. لكي يعيد تجميع<br>ذكرياتك،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03113	kh3_event_gm.gm155a	gm1550430x60_1b	0746a6f8	تفحص معلمنا، أنسيم الحكيم،<br>قلبك عن قرب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03114	kh3_event_gm.gm155a	gm1550430x60_2	97daee04	وما وجده...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03115	kh3_event_gm.gm155a	gm1550430x60_2b	89c9a11b	هو أن قلبك ليس لك وحدك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03116	kh3_event_gm.gm155a	gm1550440do0	fbbbbd5b	ليس له وحده?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03117	kh3_event_gm.gm155a	gm1550470go0	238c2261	يا للعجب، لا تبدو متفاجئا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03118	kh3_event_gm.gm155a	gm1550480sr0_1	42238f20	نعم. بصراحة، كنت أشك في ذلك.<br>هناك قلب آخر داخل قلبي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03119	kh3_event_gm.gm155a	gm1550480sr0_2	509620ce	أظنه قلب روكساس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03120	kh3_event_gm.gm155a	gm1550480sr1	0f0fc75c	تماما كما أن ناميني ما زالت داخل قلب كايري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03121	kh3_event_gm.gm155a	gm1550490x60	0e91f366	مثير للاهتمام... لا أحد يعرف<br>قلبك أفضل منك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03122	kh3_event_gm.gm155a	gm1550490x61	b62d9403	بصراحة، ما زالت لدينا<br>أسئلة كثيرة من جانبنا، لكن...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03123	kh3_event_gm.gm155a	gm1550490x62_1	6790cda7	الفكرة وجيهة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03124	kh3_event_gm.gm155a	gm1550490x62_2	75256249	من المذهل أصلا أن تتمكن أنت<br>ونظيرك من اللا أحد من التعايش.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03125	kh3_event_gm.gm155a	gm1550490x62_3	cd99052c	وإن كنتما تتشاركان قلبا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03126	kh3_event_gm.gm155a	gm1550490x62_3b	1912bda7	فلا عجب أن شخصا مميزا مثلك<br>لفت انتباه أنسيم الحكيم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03127	kh3_event_gm.gm155a	gm1550490x62_4	504e3d95	سنواصل البحث بناء على فرضيتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03128	kh3_event_gm.gm155a	gm1550490x62_5	e8f25af0	سأتواصل معك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03129	kh3_event_gm.gm155a	gm1550500de0_1	a40aa93f	حسنا، سنتصل بكم يا رفاق<br>إن جد أي شيء آخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03130	kh3_event_gm.gm155a	gm1550500de0_2	b6bf06d1	تذكروا، أنا وتشيب،<br>والرفاق في الحديقة المضيئة،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03131	kh3_event_gm.gm155a	gm1550500de0_2b	6b51e614	والملك ميكي والجميع<br>لسنا بعيدين عنكم أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03132	kh3_event_gm.gm155a	gm1550510ci0	e3e3e86b	وجيميني، هلا أسديت لنا معروفا?<br>علم سورا كيف يستخدم هاتف الغامي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03133	kh3_event_gm.gm155a	gm1550520ji0	d1e39f30	اترك الأمر لي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03134	kh3_event_gm.gm155a	gm1550530sr0	04e45e66	يجب أن أجد روكساس وأنقذه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03135	kh3_event_gm.gm155a	gm1550530sr0b	f57bb900	الآخرون يتبعون قلب أكوا،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03136	kh3_event_gm.gm155a	gm1550530sr1	bc583903	لذا سأتبع أنا قلب روكساس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03137	kh3_event_gm.gm155a	gm1550570go0	a2a94746	ثق بما يرشدك إليه قلبك يا سورا.<br>هذا ما قاله المعلم ين سيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03138	kh3_event_gm.gm155a	gm1550580do0	a9a8e597	إلى أين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03139	kh3_event_gm.gm155a	gm1550590sr0	53f1fe58	هذا سهل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03140	kh3_event_gm.gm291a	gm2910011do0	04992191	سورا، ماذا عن "قوة اليقظة"?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03141	kh3_event_gm.gm291a	gm2910021sr0	340e4cd2	<i(on)>كان لا بد<i(off)> أن تذكرني?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03142	kh3_event_gm.gm291a	gm2910031go0	b9c985ed	يا للعجب، نحن نريد فقط<br>أن نبقي حماسك عاليا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03143	kh3_event_gm.gm291a	gm2910041sr0	b02dd107	كنت أفكر في روكساس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03144	kh3_event_gm.gm291a	gm2910051sr0	d54aea41	إنه محبوس هنا في قلبي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03145	kh3_event_gm.gm291a	gm2910051sr0b	cb990b6e	لكن... يحتاج إلى جسد ليعود نفسه من جديد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03146	kh3_event_gm.gm291a	gm2910061go0	924355f2	لا تقلق.<br>إينزو يعمل على طريقة لتحريره.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03147	kh3_event_gm.gm291a	gm2910061go0b	33263c4d	أراهن أنه جهز له<br>الجسد المثالي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03148	kh3_event_gm.gm291a	gm2910070ji0	018cf74c	لديك هاتف الغامي يا سورا.<br>لم لا تجرب الاتصال به?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03149	kh3_event_gm.gm291a	gm2910081sr0	631becec	آه، أظن ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03150	kh3_event_gm.gm291a	gm2910081sr1	dba78b89	نعم، لم لا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03151	kh3_event_gm.gm291a	gm2910160mm0	151c4e58	آه! أهلا يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03152	kh3_event_gm.gm291a	gm2910170do0	aff748f2	جلالتك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03153	kh3_event_gm.gm291a	gm2910191sr0_1	f6205af8	مهلا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03154	kh3_event_gm.gm291a	gm2910191sr0_2	e495f516	ما...? رقم خاطئ?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03155	kh3_event_gm.gm291a	gm2910200mm0_1	23f39b73	لا، أنا وريكو نزور الحديقة المضيئة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03156	kh3_event_gm.gm291a	gm2910200mm0_2	3146349d	في الواقع، كنا على وشك الاتصال بكم،<br>لكن يبدو أنكم سبقتمونا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03157	kh3_event_gm.gm291a	gm2910250rk0	5a48d1b0	سورا، هل من خطب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03158	kh3_event_gm.gm291a	gm2910260sr0_1	b7bc2cdb	أردت أن أستشيركم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03159	kh3_event_gm.gm291a	gm2910260sr0_2	a5098335	لكي نعيد اكتمال روكساس،<br>يحتاج إلى جسد، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03160	kh3_event_gm.gm291a	gm2910270mm0	2865dc36	نعم، لنضع فيه قلبه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03161	kh3_event_gm.gm431a	gm4310020sr0	4e2fa216	يجب أن نذهب إلى عالم الظلام!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03162	kh3_event_gm.gm431a	gm4310030do0	b476b9d9	مستحيل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03163	kh3_event_gm.gm431a	gm4310040go0	22accdba	لا تستطيع الذهاب إلى هناك قبل أن تستعيد<br>قوة اليقظة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03164	kh3_event_gm.gm431a	gm4310050sr0_1	de63f9b4	لكن هيا، يجب أن نفعل شيئا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03165	kh3_event_gm.gm431a	gm4310050sr0_2	ccd6565a	إن لم نتحرك، فستنتصر المنظمة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03166	kh3_event_gm.gm431a	gm4310070ji0	d5c58819	سورا، هل تعرف أصلا كيف تصل<br>إلى عالم الظلام?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03167	kh3_event_gm.gm431a	gm4310100sr0	05c4b1bd	حسنا، ريكو والملك يعرفان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03168	kh3_event_gm.gm431a	gm4310110do0	ff9daa72	لن يخبراك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03169	kh3_event_gm.gm431a	gm4310120go0	27aa3548	لا، ليس قبل أن تنهي مهمتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03170	kh3_event_gm.gm431a	gm4310170do0	7bbe37a7	الملك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03171	kh3_event_gm.gm431a	gm4310190sr0	fd785c49	ريكو?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03172	kh3_event_gm.gm431a	gm4310200x60	819f708c	هل الوقت غير مناسب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03173	kh3_event_gm.gm431a	gm4310230sr0	f273555f	إينزو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03174	kh3_event_gm.gm431a	gm4310250x60	aa15a093	لدي أخبار عن شفرة أنسيم<br>وعن النسخة التي نحتاجها لقلب روكساس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 03175	kh3_event_gm.gm431a	gm4310260ji0	69997f50		todo	
-03176	kh3_event_gm.gm431a	gm4310270sr0	bc9ebe06	و...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03177	kh3_event_gm.gm431a	gm4310280x60_1	24563425	أولا، النسخة. إيفن ما زال مفقودا،<br>لكننا وجدنا بعض أبحاثه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03178	kh3_event_gm.gm431a	gm4310280x60_2	36e39bcb	سأرى ما يمكنني تعلمه منها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03179	kh3_event_gm.gm431a	gm4310281ji0	de09a5a6	لك شكرنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03180	kh3_event_gm.gm431a	gm4310282x60_1	fd6df82a	أما بيانات أنسيم الحكيم،<br>فقد اكتشفنا فيها مقطعا مثيرا جدا للاهتمام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03181	kh3_event_gm.gm431a	gm4310282x60_2	efd857c4	سأقرأ لكم ما كتبه بالضبط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03182	kh3_event_gm.gm431a	gm4310290x60_1	25e3c938	"اكتشفت ثلاثة قلوب فريدة داخل قلب سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03183	kh3_event_gm.gm431a	gm4310290x60_2	375666d6	"أحدها روكساس. والثاني مع سورا<br>منذ مدة تكاد تكون بالطول نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03184	kh3_event_gm.gm431a	gm4310290x60_3	8fea01b3	"أما الثالث فيسكن قلب سورا<br>منذ مدة أطول—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03185	kh3_event_gm.gm431a	gm4310290x60_4	123d390a	"معظم حياته في الحقيقة.<br>هذا اكتشاف مذهل حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03186	kh3_event_gm.gm431a	gm4310290x60_5	aa815e6f	"ومع أن هذه القلوب امتزجت الآن بسورا―<br>وصارت صامتة وباهتة―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03187	kh3_event_gm.gm431a	gm4310290x60_5b	a197e787	"فإن سورا يحتفظ بذكريات الثلاثة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03188	kh3_event_gm.gm431a	gm4310290x60_6	b834f181	"الذكريات مقسمة―<br>كل منها في "صندوقه" الخاص، إن صح التعبير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03189	kh3_event_gm.gm431a	gm4310290x60_7	008896e4	"وأظن أن القلوب يمكن إيقاظها،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03190	kh3_event_gm.gm431a	gm4310290x60_7b	e3b2e0fa	"بشرط أن يعاد كل منها<br>إلى الصندوق الذي يحوي ذكرياته الصحيحة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03191	kh3_event_gm.gm431a	gm4310290x60_8	58eb86b2	"وحد القلب بذكرياته، وامنحه<br>جسدا مناسبا يزدهر فيه،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03192	kh3_event_gm.gm431a	gm4310290x60_8b	3a92f256	"وأعتقد أن أيا من هؤلاء الثلاثة أو جميعهم<br>يمكن أن يعودوا حقيقيين من جديد."	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03193	kh3_event_gm.gm431a	gm4310300sr0	dcff7db2	روكساس <i(on)>واثنان آخران?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03194	kh3_event_gm.gm431a	gm4310310ji0	09f8bce4	من غيره?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03176	kh3_event_gm.gm431a	gm4310270sr0	bc9ebe06	و...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03177	kh3_event_gm.gm431a	gm4310280x60_1	24563425	أولا، النسخة. إيفن ما زال مفقودا،<br>لكننا وجدنا بعض أبحاثه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03178	kh3_event_gm.gm431a	gm4310280x60_2	36e39bcb	سأرى ما يمكنني تعلمه منها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03179	kh3_event_gm.gm431a	gm4310281ji0	de09a5a6	لك شكرنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03180	kh3_event_gm.gm431a	gm4310282x60_1	fd6df82a	أما بيانات أنسيم الحكيم،<br>فقد اكتشفنا فيها مقطعا مثيرا جدا للاهتمام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03181	kh3_event_gm.gm431a	gm4310282x60_2	efd857c4	سأقرأ لكم ما كتبه بالضبط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03182	kh3_event_gm.gm431a	gm4310290x60_1	25e3c938	"اكتشفت ثلاثة قلوب فريدة داخل قلب سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03183	kh3_event_gm.gm431a	gm4310290x60_2	375666d6	"أحدها روكساس. والثاني مع سورا<br>منذ مدة تكاد تكون بالطول نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03184	kh3_event_gm.gm431a	gm4310290x60_3	8fea01b3	"أما الثالث فيسكن قلب سورا<br>منذ مدة أطول—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03185	kh3_event_gm.gm431a	gm4310290x60_4	123d390a	"معظم حياته في الحقيقة.<br>هذا اكتشاف مذهل حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03186	kh3_event_gm.gm431a	gm4310290x60_5	aa815e6f	"ومع أن هذه القلوب امتزجت الآن بسورا―<br>وصارت صامتة وباهتة―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03187	kh3_event_gm.gm431a	gm4310290x60_5b	a197e787	"فإن سورا يحتفظ بذكريات الثلاثة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03188	kh3_event_gm.gm431a	gm4310290x60_6	b834f181	"الذكريات مقسمة―<br>كل منها في "صندوقه" الخاص، إن صح التعبير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03189	kh3_event_gm.gm431a	gm4310290x60_7	008896e4	"وأظن أن القلوب يمكن إيقاظها،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03190	kh3_event_gm.gm431a	gm4310290x60_7b	e3b2e0fa	"بشرط أن يعاد كل منها<br>إلى الصندوق الذي يحوي ذكرياته الصحيحة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03191	kh3_event_gm.gm431a	gm4310290x60_8	58eb86b2	"وحد القلب بذكرياته، وامنحه<br>جسدا مناسبا يزدهر فيه،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03192	kh3_event_gm.gm431a	gm4310290x60_8b	3a92f256	"وأعتقد أن أيا من هؤلاء الثلاثة أو جميعهم<br>يمكن أن يعودوا حقيقيين من جديد."	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03193	kh3_event_gm.gm431a	gm4310300sr0	dcff7db2	روكساس <i(on)>واثنان آخران?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03194	kh3_event_gm.gm431a	gm4310310ji0	09f8bce4	من غيره?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 03195	kh3_event_gm.gm431a	gm4310320x60	ca746327		todo	
 03196	kh3_event_gm.gm431a	gm4310330ji0	c336ca68		todo	
-03197	kh3_event_gm.gm431a	gm4310340sr0	921296eb	آه. شكرا يا إينزو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03198	kh3_event_gm.gm431a	gm4310345x60	340e23e4	بالتأكيد. اعتنوا بأنفسكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03199	kh3_event_gm.gm431a	gm4310341do0	a34427f3	ثلاثة قلوب مختلفة...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03200	kh3_event_gm.gm431a	gm4310342go0	fd1241f1	أحدها روكساس.<br>والآخر لا بد أنه فينتوس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03201	kh3_event_gm.gm431a	gm4310343do0	24e40290	هل ستصدق ما قاله فانيتاس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03202	kh3_event_gm.gm431a	gm4310350go0_1	563acdb0	حسنا، آه... هذا كل ما لدينا لنعتمد عليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03203	kh3_event_gm.gm431a	gm4310350go0_2	448f625e	سورا، هل تعرف من<br>قد يكون الثالث?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03197	kh3_event_gm.gm431a	gm4310340sr0	921296eb	آه. شكرا يا إينزو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03198	kh3_event_gm.gm431a	gm4310345x60	340e23e4	بالتأكيد. اعتنوا بأنفسكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03199	kh3_event_gm.gm431a	gm4310341do0	a34427f3	ثلاثة قلوب مختلفة...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03200	kh3_event_gm.gm431a	gm4310342go0	fd1241f1	أحدها روكساس.<br>والآخر لا بد أنه فينتوس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03201	kh3_event_gm.gm431a	gm4310343do0	24e40290	هل ستصدق ما قاله فانيتاس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03202	kh3_event_gm.gm431a	gm4310350go0_1	563acdb0	حسنا، آه... هذا كل ما لدينا لنعتمد عليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03203	kh3_event_gm.gm431a	gm4310350go0_2	448f625e	سورا، هل تعرف من<br>قد يكون الثالث?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 03204	kh3_event_gm.gm431a	gm4310360sr0	58dce067		todo	
-03205	kh3_event_gm.gm431a	gm4310370do0	a285fba8	لأن سورا لا يجيد العد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03206	kh3_event_gm.gm431a	gm4310380sr0	4124ab00	مهلا! هذا لا علاقة له بالأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03207	kh3_event_gm.gm431a	gm4310390sr0	24439046	دونالد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03208	kh3_event_gm.gm383a	gm3830040de0	124a3710	مرحبا يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03209	kh3_event_gm.gm383a	gm3830050sr0	79d33017	أهلا يا ديل. ما الأخبار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03210	kh3_event_gm.gm383a	gm3830060de0	d884419c	تشيب تلقى للتو رسالة من ميرلين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03211	kh3_event_gm.gm383a	gm3830060de0b	e1425ed6	تشيب! وصلت إليه!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03212	kh3_event_gm.gm383a	gm3830060de1	603826f9	يا تشيب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03213	kh3_event_gm.gm383a	gm3830070ci0	9ed4861a	مرحبا يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03214	kh3_event_gm.gm383a	gm3830080sr0	cf8236ba	مرحبا يا تشيب. هل يحتاجنا ميرلين لشيء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03215	kh3_event_gm.gm383a	gm3830090ci0	872ccd7d	نعم، أظن أن الأمر يتعلق<br>بكتاب ما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03216	kh3_event_gm.gm383a	gm3830090ci0b	faa4e0eb	قال إنه سيشرب كوبا من الشاي<br>بينما ينتظركم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03217	kh3_event_gm.gm383a	gm3830100de0	dd82b96e	كوب شاي أين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03218	kh3_event_gm.gm383a	gm3830110ci0	9bd27ee8	يا للهول! قال شاي، لكنه لم يقل أين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03219	kh3_event_gm.gm383a	gm3830120de0	174ccfe2	أتعني أنه رحل قبل أن تعرف?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03220	kh3_event_gm.gm383a	gm3830130ci0	511c0864	من الصعب الإمساك بهذا الساحر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03221	kh3_event_gm.gm383a	gm3830140ci0	b058aef7	على أي حال، وصلت الرسالة. إلى اللقاء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03222	kh3_event_gm.gm383a	gm3830150sr0	f8f65530	أين قد يشرب الشاي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03223	kh3_event_gm.gm383a	gm3830160do0	c8613873	لا أدري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03224	kh3_event_gm.gm383a	gm3830170go0	da98d1c5	اسمعوا، لو كنت ستشرب كوبا من الشاي،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03225	kh3_event_gm.gm383a	gm3830170go0b	a22d9a7f	ألن ترغب في شربه في<br>أفضل مطعم تجده?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03226	kh3_event_gm.gm383a	gm3830180sr0	4ea7539d	آه... بالطبع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03227	kh3_event_gm.gm383a	gm3830190do0	b4fe4852	مطعم الطاهي الصغير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03228	kh3_event_gm.gm383a	gm3830200go0	63c2de7e	نعم! لنمر على بلدة الشفق،<br>ونرى إن كان ميرلين هناك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03229	kh3_event_gm.gm571a	gm5710040ji0	ed780f03	سورا، أحدهم يتصل بنا على هاتف الغامي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03230	kh3_event_gm.gm571a	gm5710050de0	3681f214	لدينا أخبار سيئة جداا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03231	kh3_event_gm.gm571a	gm5710060sr0	97d6839f	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03232	kh3_event_gm.gm571a	gm5710090ci0	c680333f	فقدنا الاتصال تماما بالملك وريكو!<br>إنهما وحدهما في عالم الظلام!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03205	kh3_event_gm.gm431a	gm4310370do0	a285fba8	لأن سورا لا يجيد العد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03206	kh3_event_gm.gm431a	gm4310380sr0	4124ab00	مهلا! هذا لا علاقة له بالأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03207	kh3_event_gm.gm431a	gm4310390sr0	24439046	دونالد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03208	kh3_event_gm.gm383a	gm3830040de0	124a3710	مرحبا يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03209	kh3_event_gm.gm383a	gm3830050sr0	79d33017	أهلا يا ديل. ما الأخبار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03210	kh3_event_gm.gm383a	gm3830060de0	d884419c	تشيب تلقى للتو رسالة من ميرلين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03211	kh3_event_gm.gm383a	gm3830060de0b	e1425ed6	تشيب! وصلت إليه!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03212	kh3_event_gm.gm383a	gm3830060de1	603826f9	يا تشيب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03213	kh3_event_gm.gm383a	gm3830070ci0	9ed4861a	مرحبا يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03214	kh3_event_gm.gm383a	gm3830080sr0	cf8236ba	مرحبا يا تشيب. هل يحتاجنا ميرلين لشيء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03215	kh3_event_gm.gm383a	gm3830090ci0	872ccd7d	نعم، أظن أن الأمر يتعلق<br>بكتاب ما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03216	kh3_event_gm.gm383a	gm3830090ci0b	faa4e0eb	قال إنه سيشرب كوبا من الشاي<br>بينما ينتظركم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03217	kh3_event_gm.gm383a	gm3830100de0	dd82b96e	كوب شاي أين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03218	kh3_event_gm.gm383a	gm3830110ci0	9bd27ee8	يا للهول! قال شاي، لكنه لم يقل أين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03219	kh3_event_gm.gm383a	gm3830120de0	174ccfe2	أتعني أنه رحل قبل أن تعرف?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03220	kh3_event_gm.gm383a	gm3830130ci0	511c0864	من الصعب الإمساك بهذا الساحر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03221	kh3_event_gm.gm383a	gm3830140ci0	b058aef7	على أي حال، وصلت الرسالة. إلى اللقاء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03222	kh3_event_gm.gm383a	gm3830150sr0	f8f65530	أين قد يشرب الشاي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03223	kh3_event_gm.gm383a	gm3830160do0	c8613873	لا أدري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03224	kh3_event_gm.gm383a	gm3830170go0	da98d1c5	اسمعوا، لو كنت ستشرب كوبا من الشاي،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03225	kh3_event_gm.gm383a	gm3830170go0b	a22d9a7f	ألن ترغب في شربه في<br>أفضل مطعم تجده?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03226	kh3_event_gm.gm383a	gm3830180sr0	4ea7539d	آه... بالطبع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03227	kh3_event_gm.gm383a	gm3830190do0	b4fe4852	مطعم الطاهي الصغير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03228	kh3_event_gm.gm383a	gm3830200go0	63c2de7e	نعم! لنمر على بلدة الشفق،<br>ونرى إن كان ميرلين هناك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03229	kh3_event_gm.gm571a	gm5710040ji0	ed780f03	سورا، أحدهم يتصل بنا على هاتف الغامي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03230	kh3_event_gm.gm571a	gm5710050de0	3681f214	لدينا أخبار سيئة جداا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03231	kh3_event_gm.gm571a	gm5710060sr0	97d6839f	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03232	kh3_event_gm.gm571a	gm5710090ci0	c680333f	فقدنا الاتصال تماما بالملك وريكو!<br>إنهما وحدهما في عالم الظلام!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 03233	kh3_event_gm.gm571a	gm5710090ci0b	778aac64		todo	
-03234	kh3_event_gm.gm571a	gm5710100sr0	92d07b6d	ماااذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03235	kh3_event_gm.gm571a	gm5710140sr0	dc3d9034	أرأيتم? كنت أعرف أن علي الذهاب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03236	kh3_event_gm.gm571a	gm5710150do0	26648bfb	تشيب، كيف نصل إليهما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03237	kh3_event_gm.gm571a	gm5710160sr0	16f3e6b8	<i(on)>الآن<i(off)> يمكننا أن نسأل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03238	kh3_event_gm.gm571a	gm5710170go0	9b342f87	لا يمكننا استخدام ذلك الباب الكبير القديم بعد الآن.<br>لقد اختفى تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03239	kh3_event_gm.gm571a	gm5710180sr0	0f0baddf	نعم، أغلقناه بعد هزيمة أنسيم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03240	kh3_event_gm.gm571a	gm5710190ji0	da0c6c89	ولا يمكننا بالتأكيد أن نسأل الملك أو ريكو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03241	kh3_event_gm.gm571a	gm5710200sr0	caced245	لأنكم لم <i(on)>تسمحوا<i(off)> لي بالسؤال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03242	kh3_event_gm.gm571a	gm5710210de0	a157d542	الملك ميكي وحده يستطيع فتح باب<br>إلى عالم الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03243	kh3_event_gm.gm571a	gm5710220sr0	0000a4c9	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03244	kh3_event_gm.gm571a	gm5710230ci0	48ae5f0e	لأن لديه كيبلايد خاصا للظلام.<br>اكتشف كيف يجعله يفتح الطريق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03245	kh3_event_gm.gm571a	gm5710240sr0	8423391c	آه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03246	kh3_event_gm.gm571a	gm5710250go0	09e4f023	يا للعجب، ماذا سنفعل إذن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03247	kh3_event_gm.gm571a	gm5710260sr0	4eed4f90	ليكن قلبي مفتاحنا الذي يرشدنا.<br>سيرينا الطريق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03248	kh3_event_gm.gm571a	gm5710270do0	b4b4545f	بوابة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03249	kh3_event_gm.gm571a	gm5710300sr0	4bebb762	لكن إلى أين تؤدي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03250	kh3_event_gm.gm571a	gm5710310do0	b1b2acad	لا يهم! اذهب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03251	kh3_event_gm.gm571a	gm5710320go0	69853397	أسرع يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03252	kh3_event_gm.gm571a	gm5710330sr0	e442faa8	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03234	kh3_event_gm.gm571a	gm5710100sr0	92d07b6d	ماااذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03235	kh3_event_gm.gm571a	gm5710140sr0	dc3d9034	أرأيتم? كنت أعرف أن علي الذهاب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03236	kh3_event_gm.gm571a	gm5710150do0	26648bfb	تشيب، كيف نصل إليهما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03237	kh3_event_gm.gm571a	gm5710160sr0	16f3e6b8	<i(on)>الآن<i(off)> يمكننا أن نسأل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03238	kh3_event_gm.gm571a	gm5710170go0	9b342f87	لا يمكننا استخدام ذلك الباب الكبير القديم بعد الآن.<br>لقد اختفى تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03239	kh3_event_gm.gm571a	gm5710180sr0	0f0baddf	نعم، أغلقناه بعد هزيمة أنسيم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03240	kh3_event_gm.gm571a	gm5710190ji0	da0c6c89	ولا يمكننا بالتأكيد أن نسأل الملك أو ريكو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03241	kh3_event_gm.gm571a	gm5710200sr0	caced245	لأنكم لم <i(on)>تسمحوا<i(off)> لي بالسؤال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03242	kh3_event_gm.gm571a	gm5710210de0	a157d542	الملك ميكي وحده يستطيع فتح باب<br>إلى عالم الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03243	kh3_event_gm.gm571a	gm5710220sr0	0000a4c9	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03244	kh3_event_gm.gm571a	gm5710230ci0	48ae5f0e	لأن لديه كيبلايد خاصا للظلام.<br>اكتشف كيف يجعله يفتح الطريق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03245	kh3_event_gm.gm571a	gm5710240sr0	8423391c	آه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03246	kh3_event_gm.gm571a	gm5710250go0	09e4f023	يا للعجب، ماذا سنفعل إذن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03247	kh3_event_gm.gm571a	gm5710260sr0	4eed4f90	ليكن قلبي مفتاحنا الذي يرشدنا.<br>سيرينا الطريق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03248	kh3_event_gm.gm571a	gm5710270do0	b4b4545f	بوابة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03249	kh3_event_gm.gm571a	gm5710300sr0	4bebb762	لكن إلى أين تؤدي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03250	kh3_event_gm.gm571a	gm5710310do0	b1b2acad	لا يهم! اذهب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03251	kh3_event_gm.gm571a	gm5710320go0	69853397	أسرع يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03252	kh3_event_gm.gm571a	gm5710330sr0	e442faa8	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

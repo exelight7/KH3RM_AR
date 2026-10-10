@@ -1,13 +1,13 @@
 id	namespace	key	source_hash	AR	status	note
-00001	kh3_camp.top	title_0001	97d08cd5	القائمة	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00002	kh3_camp.top	menu_0001	cffef784	أغراض	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00003	kh3_camp.top	menu_0002	dd4b586a	المعدات	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00004	kh3_camp.top	menu_0003	65f73f0f	قدرات	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00005	kh3_camp.top	menu_0004	f82007b6	تخصيص	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00006	kh3_camp.top	menu_0005	409c60d3	الإحصائيات	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00007	kh3_camp.top	menu_0006	5229cf3d	هاتف الغامي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00008	kh3_camp.top	menu_0007	ea95a858	مساعدة اللعبة	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00009	kh3_camp.top	menu_0008	b2f6b80e	الضبط	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+00001	kh3_camp.top	title_0001	97d08cd5	القائمة	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00002	kh3_camp.top	menu_0001	cffef784	أغراض	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00003	kh3_camp.top	menu_0002	dd4b586a	المعدات	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00004	kh3_camp.top	menu_0003	65f73f0f	قدرات	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00005	kh3_camp.top	menu_0004	f82007b6	تخصيص	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00006	kh3_camp.top	menu_0005	409c60d3	الإحصائيات	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00007	kh3_camp.top	menu_0006	5229cf3d	هاتف الغامي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00008	kh3_camp.top	menu_0007	ea95a858	مساعدة اللعبة	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00009	kh3_camp.top	menu_0008	b2f6b80e	الضبط	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
 00010	kh3_camp.top	menu_0009	0a4adf6b		todo	skip: tags/args only
 00011	kh3_camp.top	menu_0010	bbe8907f		todo	skip: tags/args only
 00012	kh3_camp.top	menu_0011	0354f71a		todo	skip: tags/args only
@@ -19,453 +19,453 @@ id	namespace	key	source_hash	AR	status	note
 00018	kh3_camp.top	menu_0017	263fa8c6		todo	skip: tags/args only
 00019	kh3_camp.top	menu_0018	7e5cb890		todo	skip: tags/args only
 00020	kh3_camp.top	menu_0019	c6e0dff5		todo	skip: tags/args only
-00021	kh3_camp.top	menu_0020	3567979c	المطبخ	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00022	kh3_camp.top	detail_0001	3469f929	تصفح الأغراض التي بحوزتك واستخدمها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00023	kh3_camp.top	detail_0002	26dc56c7	غير معداتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00024	kh3_camp.top	detail_0003	9e6031a2	اختر قدراتك الفعالة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00025	kh3_camp.top	detail_0004	03b7091b	خصص القوائم وسلوك<br>أصدقائك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00026	kh3_camp.top	detail_0005	bb0b6e7e	اعرض إحصائياتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00027	kh3_camp.top	detail_0006	a9bec190	تتبع مغامرتك عبر<br>هاتف الغامي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00028	kh3_camp.top	detail_0007	1102a6f5	تعرف أكثر على طريقة<br>اللعب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00029	kh3_camp.top	detail_0008	4961b6a3	غير إعدادات اللعبة المختلفة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00030	kh3_camp.top	detail_0020	cef09931	تناول الطعام الذي اشتريته<br>أو طهوته.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00031	kh3_camp.top	button_0001	7df0d8b3	<icon(Triangle)> عرض المكافآت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00032	kh3_camp.top	button_0002	6f45775d	<icon(Triangle)> عرض الفريق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00033	kh3_camp.top	button_0003	d7f91038	<icon(Pad)>  <color(strong)>القائمة المميزة<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00034	kh3_camp.top	button_0004	4a2e2881	<icon(Pad)> <color(strong)>القائمة المميزة<color>  <icon(Triangle)> عرض المكافآت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00035	kh3_camp.top	button_0005	f2924fe4	<icon(Pad)> <color(strong)>القائمة المميزة<color>  <icon(Triangle)> عرض الأصدقاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00036	kh3_camp.top	adguide_0001	65763ba7	القصة حتى الآن	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00037	kh3_camp.top	adguide_0002	77c39449	الهدف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00038	kh3_camp.top	adguide_0003	cf7ff32c	المطبخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00039	kh3_camp.top	adguide_0004	52a8cb95	متجر الموغل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00040	kh3_camp.top	adguide_0005	ea14acf0	مكافأة الوجبة الكاملة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00041	kh3_camp.top	adguide_0009	a0c21348	أقصى HP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00042	kh3_camp.top	adguide_0010	11605c5c	أقصى MP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00043	kh3_camp.top	adguide_0011	a9dc3b39	الإحصائية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00044	kh3_camp.top	adguide_0012	bb6994d7	المدة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00045	kh3_camp.top	adguide_0013	03d5f3b2	المكافأة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00046	kh3_camp.top	dialog_0010	4a0702a0	هل أنت مستعد لإغلاق القائمة<br>والعودة إلى اللعب?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00047	kh3_camp.top	system_0010	4c46517a	جرب تجهيز الكيبلايد الجديد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00048	kh3_camp.top	system_0020	c2c95699	اختر <color(strong)>المطبخ<color> من القائمة الرئيسية لتناول الطعام<br>والحصول على مكافآت للإحصائيات.<pb>لعرض مكافآتك الحالية، اضغط <icon(Triangle)> أثناء<br>فتح القائمة الرئيسية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00021	kh3_camp.top	menu_0020	3567979c	المطبخ	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00022	kh3_camp.top	detail_0001	3469f929	تصفح الأغراض التي بحوزتك واستخدمها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00023	kh3_camp.top	detail_0002	26dc56c7	غير معداتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00024	kh3_camp.top	detail_0003	9e6031a2	اختر قدراتك الفعالة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00025	kh3_camp.top	detail_0004	03b7091b	خصص القوائم وسلوك<br>أصدقائك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00026	kh3_camp.top	detail_0005	bb0b6e7e	اعرض إحصائياتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00027	kh3_camp.top	detail_0006	a9bec190	تتبع مغامرتك عبر<br>هاتف الغامي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00028	kh3_camp.top	detail_0007	1102a6f5	تعرف أكثر على طريقة<br>اللعب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00029	kh3_camp.top	detail_0008	4961b6a3	غير إعدادات اللعبة المختلفة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00030	kh3_camp.top	detail_0020	cef09931	تناول الطعام الذي اشتريته<br>أو طهوته.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00031	kh3_camp.top	button_0001	7df0d8b3	<icon(Triangle)> عرض المكافآت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00032	kh3_camp.top	button_0002	6f45775d	<icon(Triangle)> عرض الفريق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00033	kh3_camp.top	button_0003	d7f91038	<icon(Pad)>  <color(strong)>القائمة المميزة<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00034	kh3_camp.top	button_0004	4a2e2881	<icon(Pad)> <color(strong)>القائمة المميزة<color>  <icon(Triangle)> عرض المكافآت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00035	kh3_camp.top	button_0005	f2924fe4	<icon(Pad)> <color(strong)>القائمة المميزة<color>  <icon(Triangle)> عرض الأصدقاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00036	kh3_camp.top	adguide_0001	65763ba7	القصة حتى الآن	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00037	kh3_camp.top	adguide_0002	77c39449	الهدف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00038	kh3_camp.top	adguide_0003	cf7ff32c	المطبخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00039	kh3_camp.top	adguide_0004	52a8cb95	متجر الموغل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00040	kh3_camp.top	adguide_0005	ea14acf0	مكافأة الوجبة الكاملة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00041	kh3_camp.top	adguide_0009	a0c21348	أقصى HP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00042	kh3_camp.top	adguide_0010	11605c5c	أقصى MP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00043	kh3_camp.top	adguide_0011	a9dc3b39	الإحصائية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00044	kh3_camp.top	adguide_0012	bb6994d7	المدة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00045	kh3_camp.top	adguide_0013	03d5f3b2	المكافأة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00046	kh3_camp.top	dialog_0010	4a0702a0	هل أنت مستعد لإغلاق القائمة<br>والعودة إلى اللعب?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00047	kh3_camp.top	system_0010	4c46517a	جرب تجهيز الكيبلايد الجديد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00048	kh3_camp.top	system_0020	c2c95699	اختر <color(strong)>المطبخ<color> من القائمة الرئيسية لتناول الطعام<br>والحصول على مكافآت للإحصائيات.<pb>لعرض مكافآتك الحالية، اضغط <icon(Triangle)> أثناء<br>فتح القائمة الرئيسية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 00049	kh3_camp.top	purpose_he_0010	c3337701		todo	skip: numbers/symbols
-00050	kh3_camp.top	purpose_he_0020	4dbc70e2	توجه إلى قمة جبل أوليمبوس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00051	kh3_camp.top	purpose_he_0030	8116707c	توجه إلى أغورا طيبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00052	kh3_camp.top	purpose_he_0050	477979fb	توجه إلى قمة جبل أوليمبوس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00053	kh3_camp.top	purpose_he_0060	c9f67e18	توجه إلى أعلى نقطة في عالم الآلهة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00054	kh3_camp.top	purpose_he_0070	055c7e86	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00055	kh3_camp.top	purpose_he_0090	10d66cb4	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00050	kh3_camp.top	purpose_he_0020	4dbc70e2	توجه إلى قمة جبل أوليمبوس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00051	kh3_camp.top	purpose_he_0030	8116707c	توجه إلى أغورا طيبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00052	kh3_camp.top	purpose_he_0050	477979fb	توجه إلى قمة جبل أوليمبوس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00053	kh3_camp.top	purpose_he_0060	c9f67e18	توجه إلى أعلى نقطة في عالم الآلهة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00054	kh3_camp.top	purpose_he_0070	055c7e86	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00055	kh3_camp.top	purpose_he_0090	10d66cb4	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 00056	kh3_camp.top	purpose_tt_0010	2d5aa057		todo	skip: numbers/symbols
-00057	kh3_camp.top	purpose_tt_0050	a910aead	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00057	kh3_camp.top	purpose_tt_0050	a910aead	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 00058	kh3_camp.top	purpose_ts_0010	1c429720		todo	skip: numbers/symbols
-00059	kh3_camp.top	purpose_ts_0020	92cd90c3	توجه إلى متجر غالاكسي تويز للألعاب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00060	kh3_camp.top	purpose_ts_0030	5e67905d	ابحث عن أصدقاء الألعاب المفقودين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00061	kh3_camp.top	purpose_ts_0040	54a29944	تقدم عبر فتحات التهوية إلى قسم الدمى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00062	kh3_camp.top	purpose_ts_0050	980899da	ابحث في قسم الدمى عن الألعاب التي تصدر ضجيجا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00063	kh3_camp.top	purpose_ts_0060	16879e39	ابحث عن هام في قسم الدمى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00064	kh3_camp.top	purpose_ts_0080	030d8c0b	عد إلى الطابق الأول من متجر الألعاب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00065	kh3_camp.top	purpose_ts_0090	cfa78c95	اتبع ريكس إلى قسم ألعاب الفيديو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00066	kh3_camp.top	purpose_ts_0100	4b4ddbd1	اعثر على الممر المظلم في كيد كورال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00067	kh3_camp.top	purpose_ts_0120	0968dcac	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00068	kh3_camp.top	purpose_ts_0140	cf07d52b	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00059	kh3_camp.top	purpose_ts_0020	92cd90c3	توجه إلى متجر غالاكسي تويز للألعاب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00060	kh3_camp.top	purpose_ts_0030	5e67905d	ابحث عن أصدقاء الألعاب المفقودين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00061	kh3_camp.top	purpose_ts_0040	54a29944	تقدم عبر فتحات التهوية إلى قسم الدمى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00062	kh3_camp.top	purpose_ts_0050	980899da	ابحث في قسم الدمى عن الألعاب التي تصدر ضجيجا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00063	kh3_camp.top	purpose_ts_0060	16879e39	ابحث عن هام في قسم الدمى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00064	kh3_camp.top	purpose_ts_0080	030d8c0b	عد إلى الطابق الأول من متجر الألعاب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00065	kh3_camp.top	purpose_ts_0090	cfa78c95	اتبع ريكس إلى قسم ألعاب الفيديو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00066	kh3_camp.top	purpose_ts_0100	4b4ddbd1	اعثر على الممر المظلم في كيد كورال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00067	kh3_camp.top	purpose_ts_0120	0968dcac	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00068	kh3_camp.top	purpose_ts_0140	cf07d52b	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 00069	kh3_camp.top	purpose_ra_0010	bfae2a5c		todo	skip: numbers/symbols
-00070	kh3_camp.top	purpose_ra_0100	e8a166ad	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00071	kh3_camp.top	purpose_ra_0120	aa8461d0	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00070	kh3_camp.top	purpose_ra_0100	e8a166ad	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00071	kh3_camp.top	purpose_ra_0120	aa8461d0	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 00072	kh3_camp.top	purpose_mi_0010	7f5adc89		todo	skip: numbers/symbols
-00073	kh3_camp.top	purpose_mi_0020	f1d5db6a	ساعد سولي ومايك على إعادة بو إلى منزلها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00074	kh3_camp.top	purpose_mi_0030	3d7fdbf4	اذهب وراء باب بو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00075	kh3_camp.top	purpose_mi_0040	37bad2ed	ابحث عن مخرج من المصنع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00076	kh3_camp.top	purpose_mi_0050	fb10d273	توجه إلى خزنة الأبواب واعثر على باب بو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00077	kh3_camp.top	purpose_mi_0060	759fd590	اصعد عبر الأنبوب المحطم في محطة الطاقة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00078	kh3_camp.top	purpose_mi_0070	b935d50e	توجه إلى خزنة الأبواب واعثر على باب بو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00079	kh3_camp.top	purpose_mi_0080	6015c7a2	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00080	kh3_camp.top	purpose_mi_0100	28559078	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00073	kh3_camp.top	purpose_mi_0020	f1d5db6a	ساعد سولي ومايك على إعادة بو إلى منزلها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00074	kh3_camp.top	purpose_mi_0030	3d7fdbf4	تعقب باب بو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00075	kh3_camp.top	purpose_mi_0040	37bad2ed	ابحث عن مخرج من المصنع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00076	kh3_camp.top	purpose_mi_0050	fb10d273	توجه إلى خزنة الأبواب واعثر على باب بو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00077	kh3_camp.top	purpose_mi_0060	759fd590	اصعد عبر الأنبوب المحطم في محطة الطاقة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00078	kh3_camp.top	purpose_mi_0070	b935d50e	توجه إلى خزنة الأبواب واعثر على باب بو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00079	kh3_camp.top	purpose_mi_0080	6015c7a2	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00080	kh3_camp.top	purpose_mi_0100	28559078	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 00081	kh3_camp.top	purpose_fz_0010	575ee553		todo	skip: numbers/symbols
-00082	kh3_camp.top	purpose_fz_0050	d314eba9	انزلق نزولا من الجبل الشمالي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00083	kh3_camp.top	purpose_fz_0100	0051a9a2	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00084	kh3_camp.top	purpose_fz_0120	4274aedf	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00082	kh3_camp.top	purpose_fz_0050	d314eba9	انزلق نزولا من الجبل الشمالي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00083	kh3_camp.top	purpose_fz_0100	0051a9a2	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00084	kh3_camp.top	purpose_fz_0120	4274aedf	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 00085	kh3_camp.top	purpose_ca_0010	a5440691		todo	skip: numbers/symbols
-00086	kh3_camp.top	purpose_ca_0020	2bcb0172	لا تدع اللؤلؤة السوداء تهرب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00087	kh3_camp.top	purpose_ca_0040	eda408f5	دافع عن اللؤلؤة السوداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00088	kh3_camp.top	purpose_ca_0050	210e086b	ابحث عن سفينة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00089	kh3_camp.top	purpose_ca_0070	632b0f16	توجه إلى ميناء رويال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00090	kh3_camp.top	purpose_ca_0080	ba0b1dba	استكشف ميناء رويال واجمع السراطين البيضاء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00091	kh3_camp.top	purpose_ca_0090	76a11d24	عد إلى سفينتك عند الأرصفة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00092	kh3_camp.top	purpose_ca_0100	f24b4a60	انضم إلى جاك والآخرين في خليج حطام السفن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00093	kh3_camp.top	purpose_ca_0110	3ee14afe	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00094	kh3_camp.top	purpose_ca_0130	7cc44d83	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00086	kh3_camp.top	purpose_ca_0020	2bcb0172	لا تدع اللؤلؤة السوداء تهرب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00087	kh3_camp.top	purpose_ca_0040	eda408f5	دافع عن اللؤلؤة السوداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00088	kh3_camp.top	purpose_ca_0050	210e086b	ابحث عن سفينة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00089	kh3_camp.top	purpose_ca_0070	632b0f16	توجه إلى ميناء رويال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00090	kh3_camp.top	purpose_ca_0080	ba0b1dba	استكشف ميناء رويال واجمع السراطين البيضاء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00091	kh3_camp.top	purpose_ca_0090	76a11d24	عد إلى سفينتك عند الأرصفة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00092	kh3_camp.top	purpose_ca_0100	f24b4a60	انضم إلى جاك والآخرين في خليج حطام السفن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00093	kh3_camp.top	purpose_ca_0110	3ee14afe	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00094	kh3_camp.top	purpose_ca_0130	7cc44d83	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 00095	kh3_camp.top	purpose_bx_0010	88b2dd28		todo	skip: numbers/symbols
-00096	kh3_camp.top	purpose_bx_0020	063ddacb	تعاون مع الأبطال الستة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00097	kh3_camp.top	purpose_bx_0030	ca97da55	تحدث إلى هيرو لتبدأ "شوغيو" الخاص بك.	reviewed	unsure: shugyo transliterated شوغيو (Latin not allowed); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00098	kh3_camp.top	purpose_bx_0035	fd492a67	أكمل مسار فلاش تريسر لجمع بيانات القتال.	reviewed	unsure: Flash Tracer transliterated; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00099	kh3_camp.top	purpose_bx_0040	c052d34c	توجه إلى المدينة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00100	kh3_camp.top	purpose_bx_0060	8277d431	أنقذ الأبطال الستة وحقق في أمر المكعبات المظلمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00101	kh3_camp.top	purpose_bx_0070	4eddd4af	توجه إلى المدينة واهزم المكعبات المظلمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00102	kh3_camp.top	purpose_bx_0080	97fdc603	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00096	kh3_camp.top	purpose_bx_0020	063ddacb	تعاون مع الأبطال الستة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00097	kh3_camp.top	purpose_bx_0030	ca97da55	تحدث إلى هيرو لتبدأ "شوغيو" الخاص بك.	reviewed	unsure: shugyo transliterated شوغيو (Latin not allowed); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00098	kh3_camp.top	purpose_bx_0035	fd492a67	أكمل مسار فلاش تريسر لجمع بيانات القتال.	reviewed	unsure: Flash Tracer transliterated; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00099	kh3_camp.top	purpose_bx_0040	c052d34c	توجه إلى المدينة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00100	kh3_camp.top	purpose_bx_0060	8277d431	أنقذ الأبطال الستة وحقق في أمر المكعبات المظلمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00101	kh3_camp.top	purpose_bx_0070	4eddd4af	توجه إلى المدينة واهزم المكعبات المظلمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00102	kh3_camp.top	purpose_bx_0080	97fdc603	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 00103	kh3_camp.top	purpose_po_0010	def5be88		todo	skip: numbers/symbols
-00104	kh3_camp.top	purpose_po_0050	5abfb072	ساعد الأرنب في أعمال البستنة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00104	kh3_camp.top	purpose_po_0050	5abfb072	ساعد الأرنب في أعمال البستنة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 00105	kh3_camp.top	purpose_kg_0010	18d6bc29		todo	skip: numbers/symbols
-00106	kh3_camp.top	purpose_kg_0020	9659bbca	تحد منظمة XIII في معركة أخيرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00107	kh3_camp.top	purpose_kg_0030	5af3bb54	تقدم عبر المتاهة واهزم منظمة XIII.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00108	kh3_camp.top	purpose_kg_0040	5036b24d	صف حسابك مع المعلم زيهانورت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00106	kh3_camp.top	purpose_kg_0020	9659bbca	تحد منظمة XIII في معركة أخيرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00107	kh3_camp.top	purpose_kg_0030	5af3bb54	تقدم عبر المتاهة واهزم منظمة XIII.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00108	kh3_camp.top	purpose_kg_0040	5036b24d	صف حسابك مع المعلم زيهانورت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 00109	kh3_camp.top	purpose_bt_0010	33b97fc9		todo	skip: numbers/symbols
-00110	kh3_camp.top	purpose_bt_0020	bd36782a	صف حسابك مع المعلم زيهانورت نهائيا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00111	kh3_camp.top	purpose_ew_0010	6fae25b2	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00112	kh3_camp.top	purpose_wm_0010	03c781d4	انطلق في مغامرة جديدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00113	kh3_camp.top	purpose_yt_0010	279741d6	انطلق في مغامرة جديدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00115	kh3_camp.item	title_0001	97d08cd5	الأغراض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00116	kh3_camp.item	detail_0003	9e6031a2	عرض الأغراض التي بحوزتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00117	kh3_camp.item	detail_0004	03b7091b	اختر صديقا لاستخدام الغرض عليه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00118	kh3_camp.item	tab_0001	e0805269	الكل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00119	kh3_camp.item	tab_0002	f235fd87	أغراض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00120	kh3_camp.item	tab_0003	4a899ae2	الأسلحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00121	kh3_camp.item	tab_0005	6fe2c53e	المواد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00122	kh3_camp.item	tab_0006	7d576ad0	أغراض أساسية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00123	kh3_camp.item	tab_0007	c5eb0db5	الدروع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00124	kh3_camp.item	tab_0008	9d881de3	الإكسسوارات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00125	kh3_camp.item	button_0001	7df0d8b3	<icon(Triangle)> إلقاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00126	kh3_camp.item	dialog_0001	3e11655b	هل أنت متأكد من رغبتك في التخلص من<br><color(strong)>{0}<color>?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00127	kh3_camp.item	dialog_0002	2ca4cab5	لا يمكنك الاستفادة من هذا الغرض الآن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00128	kh3_camp.item	dialog_0003	9418add0	لا يمكنك استخدام المزيد من هذا الغرض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00129	kh3_camp.item	dialog_0004	09cf9569	لا يمكنك إلقاء هذا الغرض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00130	kh3_camp.item	list_0001	58a75819	المخزون	reviewed	unsure: glossary Stock=تخزين is the KH2 command; here it is a count column, so المخزون; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00131	kh3_camp.item	list_0002	4a12f7f7	الاسم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00132	kh3_camp.cuisine	title_0010	e3c6eb2e	المطبخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00133	kh3_camp.cuisine	cook_0010	c5b70322	المقبلات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00134	kh3_camp.cuisine	cook_0020	4b3804c1	الحساء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00135	kh3_camp.cuisine	cook_0030	8792045f	الأسماك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00136	kh3_camp.cuisine	cook_0040	8d570d46	اللحوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00137	kh3_camp.cuisine	cook_0050	41fd0dd8	الحلويات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00138	kh3_camp.cuisine	cook_0070	03d80aa5	تناول وجبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00139	kh3_camp.cuisine	cook_0080	daf81809	لا يوجد شيء متاح.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00140	kh3_camp.cuisine	memu_0010	b9369758	مكافأة الوجبة الكاملة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00141	kh3_camp.cuisine	memu_0050	3d7c99a2	أقصى HP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00142	kh3_camp.cuisine	memu_0060	b3f39e41	أقصى MP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00143	kh3_camp.cuisine	memu_0070	7f599edf	المدة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00144	kh3_camp.cuisine	memu_0075	48876eed	الإحصائية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00145	kh3_camp.cuisine	memu_0080	a6798c73	الوجبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00146	kh3_camp.cuisine	memu_0090	6ad38ced	الطبق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00147	kh3_camp.cuisine	memu_0110	2293db37	المفضلة {0}	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00148	kh3_camp.cuisine	memu_0160	2856d22e	الوجبات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00110	kh3_camp.top	purpose_bt_0020	bd36782a	صف حسابك مع المعلم زيهانورت نهائيا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00111	kh3_camp.top	purpose_ew_0010	6fae25b2	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00112	kh3_camp.top	purpose_wm_0010	03c781d4	انطلق في مغامرة جديدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00113	kh3_camp.top	purpose_yt_0010	279741d6	انطلق في مغامرة جديدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00115	kh3_camp.item	title_0001	97d08cd5	الأغراض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00116	kh3_camp.item	detail_0003	9e6031a2	عرض الأغراض التي بحوزتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00117	kh3_camp.item	detail_0004	03b7091b	اختر صديقا لاستخدام الغرض عليه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00118	kh3_camp.item	tab_0001	e0805269	الكل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00119	kh3_camp.item	tab_0002	f235fd87	أغراض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00120	kh3_camp.item	tab_0003	4a899ae2	الأسلحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00121	kh3_camp.item	tab_0005	6fe2c53e	المواد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00122	kh3_camp.item	tab_0006	7d576ad0	أغراض أساسية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00123	kh3_camp.item	tab_0007	c5eb0db5	الدروع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00124	kh3_camp.item	tab_0008	9d881de3	الإكسسوارات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00125	kh3_camp.item	button_0001	7df0d8b3	<icon(Triangle)> إلقاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00126	kh3_camp.item	dialog_0001	3e11655b	هل أنت متأكد من رغبتك في التخلص من<br><color(strong)>{0}<color>?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00127	kh3_camp.item	dialog_0002	2ca4cab5	لا يمكنك الاستفادة من هذا الغرض الآن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00128	kh3_camp.item	dialog_0003	9418add0	لا يمكنك استخدام المزيد من هذا الغرض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00129	kh3_camp.item	dialog_0004	09cf9569	لا يمكنك إلقاء هذا الغرض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00130	kh3_camp.item	list_0001	58a75819	المخزون	reviewed	unsure: glossary Stock=تخزين is the KH2 command; here it is a count column, so المخزون; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00131	kh3_camp.item	list_0002	4a12f7f7	الاسم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00132	kh3_camp.cuisine	title_0010	e3c6eb2e	المطبخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00133	kh3_camp.cuisine	cook_0010	c5b70322	المقبلات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00134	kh3_camp.cuisine	cook_0020	4b3804c1	الحساء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00135	kh3_camp.cuisine	cook_0030	8792045f	الأسماك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00136	kh3_camp.cuisine	cook_0040	8d570d46	اللحوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00137	kh3_camp.cuisine	cook_0050	41fd0dd8	الحلويات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00138	kh3_camp.cuisine	cook_0070	03d80aa5	تناول وجبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00139	kh3_camp.cuisine	cook_0080	daf81809	لا يوجد شيء متاح.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00140	kh3_camp.cuisine	memu_0010	b9369758	مكافأة الوجبة الكاملة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00141	kh3_camp.cuisine	memu_0050	3d7c99a2	أقصى HP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00142	kh3_camp.cuisine	memu_0060	b3f39e41	أقصى MP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00143	kh3_camp.cuisine	memu_0070	7f599edf	المدة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00144	kh3_camp.cuisine	memu_0075	48876eed	الإحصائية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00145	kh3_camp.cuisine	memu_0080	a6798c73	الوجبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00146	kh3_camp.cuisine	memu_0090	6ad38ced	الطبق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00147	kh3_camp.cuisine	memu_0110	2293db37	المفضلة {0}	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00148	kh3_camp.cuisine	memu_0160	2856d22e	الوجبات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 00149	kh3_camp.cuisine	memu_0170	e4fcd2b0		todo	skip: tags/args only
 00150	kh3_camp.cuisine	memu_0180	3ddcc01c		todo	skip: tags/args only
 00151	kh3_camp.cuisine	memu_0190	f176c082		todo	skip: tags/args only
-00152	kh3_camp.cuisine	detail_0020	cef09931	تناول الطعام يمنحك زيادات في الإحصائيات ومكافآت أخرى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00153	kh3_camp.cuisine	detail_0030	025a99af	احفظ الوجبة المختارة في قائمة المفضلة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00154	kh3_camp.cuisine	detail_0040	089f90b6	اختر وجبة من قائمة المفضلة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00155	kh3_camp.cuisine	window_0110	d0a553a4	حفظ في المفضلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00156	kh3_camp.cuisine	window_0210	a73b8154	الوجبات المفضلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00157	kh3_camp.cuisine	window_0310	3c9ecd3b	اختيار الطاهي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00158	kh3_camp.cuisine	window_0410	480624b4	المفضلة {0}	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00159	kh3_camp.cuisine	button_0010	09e6bf48	<icon(Triangle)> المفضلة  <icon(Square)> اختيار الطاهي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00160	kh3_camp.cuisine	button_0020	8769b8ab	<icon(Triangle)> المفضلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00161	kh3_camp.cuisine	button_0030	4bc3b835	<icon(Square)> اختيار الطاهي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00162	kh3_camp.cuisine	button_0110	9243f327	<icon(Decide)> حفظ  <icon(Cancel)> إغلاق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00163	kh3_camp.cuisine	button_0210	e5dd21d7	<icon(Decide)> اختيار المفضلة  <icon(Cancel)> إغلاق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00164	kh3_camp.cuisine	dialog_0010	4a0702a0	استبدال مكافأتك الحالية?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00165	kh3_camp.cuisine	dialog_0030	082205dd	تناول الوجبة المختارة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00166	kh3_camp.cuisine	dialog_0110	d1a24ecf	تم الحفظ في المفضلة {0}.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00167	kh3_camp.cuisine	dialog_0120	5f2d492c	الكتابة فوق المفضلة {0}?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00168	kh3_camp.cuisine	dialog_0210	a63c9c3f	لا تملك الطعام المطلوب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00169	kh3_camp.cuisine	dialog_0310	3d99d050	تناول اختيار الطاهي?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00170	kh3_camp.cuisine	dialog_0320	b316d7b3	تناول اختيار الطاهي?<br>سيتم استبدال مكافأتك الحالية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00171	kh3_camp.cuisine	dialog_0410	490139df	المتابعة دون الحفظ في قائمة المفضلة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00172	kh3_camp.cuisine	dialog_0510	d2a475b0	تناول هذه الوجبة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00173	kh3_camp.cuisine	dialog_0610	a53aa740	لا تملك الطعام المطلوب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00174	kh3_camp.cuisine	dialog_0710	3e9feb2f	حفظ هذه الوجبة وتأثيراتها في قائمة المفضلة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00175	kh3_camp.equip	title_0010	e3c6eb2e	المعدات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00176	kh3_camp.equip	char_0001	2d64b64e	اختر صديقا لتغيير معداته.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00177	kh3_camp.equip	group_0001	0bd5854d	الأسلحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00178	kh3_camp.equip	group_0001_2	ee93a0cd	السلاح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00179	kh3_camp.equip	group_0002	19602aa3	الدروع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00180	kh3_camp.equip	group_0003	a1dc4dc6	الإكسسوارات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00181	kh3_camp.equip	group_0004	3c0b757f	أغراض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00182	kh3_camp.equip	detail_0001	3469f929	اختر سلاحا لهذه الخانة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00183	kh3_camp.equip	detail_0002	26dc56c7	اختر درعا لهذه الخانة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00184	kh3_camp.equip	detail_0003	9e6031a2	اختر إكسسوارا لهذه الخانة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00185	kh3_camp.equip	detail_0004	03b7091b	اختر غرضا لهذه الخانة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00186	kh3_camp.equip	detail_0005	bb0b6e7e	يمكنك تغيير الغرض في هذه الخانة.<br><color(strong)>إعادة تلقائية:<color> ستزود هذه الخانة بالغرض تلقائيا من المخزون<br>بعد انتهاء كل معركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00187	kh3_camp.equip	button_0001	7df0d8b3	<icon(Square)> إزالة  <icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00188	kh3_camp.equip	button_0004	4a2e2881	<icon(Square)> إزالة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00189	kh3_camp.equip	button_0005	f2924fe4	<icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00190	kh3_camp.equip	button_0011	b15ad82d	<icon(Triangle)> تفعيل إعادة تلقائية  <icon(Square)> إزالة  <icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00191	kh3_camp.equip	button_0012	a3ef77c3	<icon(Triangle)> تعطيل إعادة تلقائية  <icon(Square)> إزالة  <icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00192	kh3_camp.equip	button_0013	1b5310a6	<icon(Triangle)> قدرات  <icon(Square)> إزالة  <icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00193	kh3_camp.equip	button_0014	8684281f	<icon(Triangle)> قدرات  <icon(Square)> إزالة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00194	kh3_camp.equip	button_0015	3e384f7a	<icon(Triangle)> تفعيل إعادة تلقائية  <icon(Square)> إزالة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00195	kh3_camp.equip	button_0016	2c8de094	<icon(Triangle)> تعطيل إعادة تلقائية  <icon(Square)> إزالة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00196	kh3_camp.equip	button_0021	3fd5dfce	<icon(Triangle)> قدرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00197	kh3_camp.equip	button_0031	f37fdf50	<icon(Triangle)> المعدات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00198	kh3_camp.equip	button_0032	e1ca70be	<icon(Triangle)> أغراض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00199	kh3_camp.equip	dialog_0001	3e11655b	لا يمكنك إزالة هذه المعدات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00200	kh3_camp.equip	dialog_0002	2ca4cab5	لا يمكنك إزالة هذه المعدات<br>لأن مخزونك وصل إلى الحد الأقصى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00201	kh3_camp.equip	dialog_0003	9418add0	لتغيير هذه المعدات،<br>عليك أولا إزالة بعض القدرات.<br><br>يمكنك فعل ذلك من قائمة القدرات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00202	kh3_camp.equip	dialog_0004	09cf9569	قد يؤدي تعطيل إعادة تلقائية لهذا الغرض إلى تعطيلها<br>للأغراض المجهزة الأخرى من الفئة نفسها.<br>هل أنت متأكد?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00203	kh3_camp.equip	list_0001	58a75819	المخزون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00204	kh3_camp.equip	list_0002	4a12f7f7	الاسم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00205	kh3_camp.equip	list_0004	6f79a82b	لا توجد أغراض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00206	kh3_camp.ability	title_0010	e3c6eb2e	القدرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00207	kh3_camp.ability	group_0010	7fc3e2b6	الأفعال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00208	kh3_camp.ability	group_0020	f14ce555	التنقل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00209	kh3_camp.ability	group_0030	3de6e5cb	الدعم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00210	kh3_camp.ability	group_0040	3723ecd2	أفعال التحول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00211	kh3_camp.ability	group_0050	fb89ec4c	التصويبات المثبتة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00212	kh3_camp.ability	menu_0020	3567979c	الاسم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00213	kh3_camp.ability	button_0010	09e6bf48	<icon(Decide)> تركيب/إزالة القدرة  <icon(Triangle)> عرض القائمة التالية  <icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00214	kh3_camp.ability	button_0012	a3ef77c3	<icon(Decide)> تركيب/إزالة القدرة  <icon(Triangle)> عرض القائمة التالية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00215	kh3_camp.ability	button_0015	3e384f7a	<icon(Triangle)> عرض القائمة التالية  <icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00216	kh3_camp.ability	button_0025	b0b74899	<icon(Triangle)> عرض القائمة التالية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00217	kh3_camp.ability	detail_0010	407f9ed2	اختر صديقا لتخصيص قدراته.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00218	kh3_camp.ability	dialog_0001	3e11655b	هل أنت متأكد من رغبتك في تركيب قدرة <color(strong)>خبرة صفر<color>?<br>سيبقى سورا <color(strong)>عند مستواه الحالي<color> مما يجعل<br>اللعبة أكثر صعوبة بكثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00219	kh3_camp.customize	title_0001	97d08cd5	التخصيص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00220	kh3_camp.customize	group_0001	0bd5854d	قائمة الأوامر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00221	kh3_camp.customize	group_0002	19602aa3	الاختصارات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00222	kh3_camp.customize	group_0003	a1dc4dc6	الأصدقاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00223	kh3_camp.customize	group_0004	3c0b757f	السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00224	kh3_camp.customize	group_0005	84b7121a	الروابط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00225	kh3_camp.customize	group_0006	9602bdf4	مجموعة الاختصارات A	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00226	kh3_camp.customize	group_0007	2ebeda91	مجموعة الاختصارات B	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00227	kh3_camp.customize	group_0008	76ddcac7	مجموعة الاختصارات C	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00228	kh3_camp.customize	group_0009	ce61ada2	أسلوب القتال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00229	kh3_camp.customize	group_0010	7fc3e2b6	قدرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00230	kh3_camp.customize	group_0011	c77f85d3	التعافي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00231	kh3_camp.customize	group_0012	d5ca2a3d	الأوامر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00232	kh3_camp.customize	custom_0001	53766a90	السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00233	kh3_camp.customize	custom_0002	41c3c57e	الروابط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00234	kh3_camp.customize	custom_0003	f97fa21b	مجموعة الاختصارات A	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00235	kh3_camp.customize	custom_0004	64a89aa2	مجموعة الاختصارات B	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00236	kh3_camp.customize	custom_0005	dc14fdc7	مجموعة الاختصارات C	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00152	kh3_camp.cuisine	detail_0020	cef09931	تناول الطعام يمنحك زيادات في الإحصائيات ومكافآت أخرى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00153	kh3_camp.cuisine	detail_0030	025a99af	احفظ الوجبة المختارة في قائمة المفضلة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00154	kh3_camp.cuisine	detail_0040	089f90b6	اختر وجبة من قائمة المفضلة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00155	kh3_camp.cuisine	window_0110	d0a553a4	حفظ في المفضلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00156	kh3_camp.cuisine	window_0210	a73b8154	الوجبات المفضلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00157	kh3_camp.cuisine	window_0310	3c9ecd3b	اختيار الطاهي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00158	kh3_camp.cuisine	window_0410	480624b4	المفضلة {0}	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00159	kh3_camp.cuisine	button_0010	09e6bf48	<icon(Triangle)> المفضلة  <icon(Square)> اختيار الطاهي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00160	kh3_camp.cuisine	button_0020	8769b8ab	<icon(Triangle)> المفضلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00161	kh3_camp.cuisine	button_0030	4bc3b835	<icon(Square)> اختيار الطاهي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00162	kh3_camp.cuisine	button_0110	9243f327	<icon(Decide)> حفظ  <icon(Cancel)> إغلاق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00163	kh3_camp.cuisine	button_0210	e5dd21d7	<icon(Decide)> اختيار المفضلة  <icon(Cancel)> إغلاق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00164	kh3_camp.cuisine	dialog_0010	4a0702a0	استبدال مكافأتك الحالية?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00165	kh3_camp.cuisine	dialog_0030	082205dd	تناول الوجبة المختارة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00166	kh3_camp.cuisine	dialog_0110	d1a24ecf	تم الحفظ في المفضلة {0}.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00167	kh3_camp.cuisine	dialog_0120	5f2d492c	الكتابة فوق المفضلة {0}?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00168	kh3_camp.cuisine	dialog_0210	a63c9c3f	لا تملك الطعام المطلوب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00169	kh3_camp.cuisine	dialog_0310	3d99d050	تناول اختيار الطاهي?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00170	kh3_camp.cuisine	dialog_0320	b316d7b3	تناول اختيار الطاهي?<br>سيتم استبدال مكافأتك الحالية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00171	kh3_camp.cuisine	dialog_0410	490139df	المتابعة دون الحفظ في قائمة المفضلة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00172	kh3_camp.cuisine	dialog_0510	d2a475b0	تناول هذه الوجبة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00173	kh3_camp.cuisine	dialog_0610	a53aa740	لا تملك الطعام المطلوب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00174	kh3_camp.cuisine	dialog_0710	3e9feb2f	حفظ هذه الوجبة وتأثيراتها في قائمة المفضلة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00175	kh3_camp.equip	title_0010	e3c6eb2e	المعدات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00176	kh3_camp.equip	char_0001	2d64b64e	اختر صديقا لتغيير معداته.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00177	kh3_camp.equip	group_0001	0bd5854d	الأسلحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00178	kh3_camp.equip	group_0001_2	ee93a0cd	السلاح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00179	kh3_camp.equip	group_0002	19602aa3	الدروع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00180	kh3_camp.equip	group_0003	a1dc4dc6	الإكسسوارات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00181	kh3_camp.equip	group_0004	3c0b757f	أغراض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00182	kh3_camp.equip	detail_0001	3469f929	اختر سلاحا لهذه الخانة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00183	kh3_camp.equip	detail_0002	26dc56c7	اختر درعا لهذه الخانة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00184	kh3_camp.equip	detail_0003	9e6031a2	اختر إكسسوارا لهذه الخانة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00185	kh3_camp.equip	detail_0004	03b7091b	اختر غرضا لهذه الخانة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00186	kh3_camp.equip	detail_0005	bb0b6e7e	يمكنك تغيير الغرض في هذه الخانة.<br><color(strong)>إعادة تلقائية:<color> ستزود هذه الخانة بالغرض تلقائيا من المخزون<br>بعد انتهاء كل معركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00187	kh3_camp.equip	button_0001	7df0d8b3	<icon(Square)> إزالة  <icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00188	kh3_camp.equip	button_0004	4a2e2881	<icon(Square)> إزالة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00189	kh3_camp.equip	button_0005	f2924fe4	<icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00190	kh3_camp.equip	button_0011	b15ad82d	<icon(Triangle)> تفعيل إعادة تلقائية  <icon(Square)> إزالة  <icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00191	kh3_camp.equip	button_0012	a3ef77c3	<icon(Triangle)> تعطيل إعادة تلقائية  <icon(Square)> إزالة  <icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00192	kh3_camp.equip	button_0013	1b5310a6	<icon(Triangle)> قدرات  <icon(Square)> إزالة  <icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00193	kh3_camp.equip	button_0014	8684281f	<icon(Triangle)> قدرات  <icon(Square)> إزالة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00194	kh3_camp.equip	button_0015	3e384f7a	<icon(Triangle)> تفعيل إعادة تلقائية  <icon(Square)> إزالة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00195	kh3_camp.equip	button_0016	2c8de094	<icon(Triangle)> تعطيل إعادة تلقائية  <icon(Square)> إزالة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00196	kh3_camp.equip	button_0021	3fd5dfce	<icon(Triangle)> قدرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00197	kh3_camp.equip	button_0031	f37fdf50	<icon(Triangle)> المعدات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00198	kh3_camp.equip	button_0032	e1ca70be	<icon(Triangle)> أغراض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00199	kh3_camp.equip	dialog_0001	3e11655b	لا يمكنك إزالة هذه المعدات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00200	kh3_camp.equip	dialog_0002	2ca4cab5	لا يمكنك إزالة هذه المعدات<br>لأن مخزونك وصل إلى الحد الأقصى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00201	kh3_camp.equip	dialog_0003	9418add0	لتغيير هذه المعدات،<br>عليك أولا إزالة بعض القدرات.<br><br>يمكنك فعل ذلك من قائمة القدرات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00202	kh3_camp.equip	dialog_0004	09cf9569	قد يؤدي تعطيل إعادة تلقائية لهذا الغرض إلى تعطيلها<br>للأغراض المجهزة الأخرى من الفئة نفسها.<br>هل أنت متأكد?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00203	kh3_camp.equip	list_0001	58a75819	المخزون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00204	kh3_camp.equip	list_0002	4a12f7f7	الاسم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00205	kh3_camp.equip	list_0004	6f79a82b	لا توجد أغراض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00206	kh3_camp.ability	title_0010	e3c6eb2e	القدرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00207	kh3_camp.ability	group_0010	7fc3e2b6	الأفعال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00208	kh3_camp.ability	group_0020	f14ce555	التنقل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00209	kh3_camp.ability	group_0030	3de6e5cb	الدعم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00210	kh3_camp.ability	group_0040	3723ecd2	أفعال التحول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00211	kh3_camp.ability	group_0050	fb89ec4c	التصويبات المثبتة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00212	kh3_camp.ability	menu_0020	3567979c	الاسم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00213	kh3_camp.ability	button_0010	09e6bf48	<icon(Decide)> تركيب/إزالة القدرة  <icon(Triangle)> عرض القائمة التالية  <icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00214	kh3_camp.ability	button_0012	a3ef77c3	<icon(Decide)> تركيب/إزالة القدرة  <icon(Triangle)> عرض القائمة التالية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00215	kh3_camp.ability	button_0015	3e384f7a	<icon(Triangle)> عرض القائمة التالية  <icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00216	kh3_camp.ability	button_0025	b0b74899	<icon(Triangle)> عرض القائمة التالية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00217	kh3_camp.ability	detail_0010	407f9ed2	اختر صديقا لتخصيص قدراته.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00218	kh3_camp.ability	dialog_0001	3e11655b	هل أنت متأكد من رغبتك في تركيب قدرة <color(strong)>خبرة صفر<color>?<br>سيبقى سورا <color(strong)>عند مستواه الحالي<color> مما يجعل<br>اللعبة أكثر صعوبة بكثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00219	kh3_camp.customize	title_0001	97d08cd5	التخصيص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00220	kh3_camp.customize	group_0001	0bd5854d	قائمة الأوامر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00221	kh3_camp.customize	group_0002	19602aa3	الاختصارات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00222	kh3_camp.customize	group_0003	a1dc4dc6	الأصدقاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00223	kh3_camp.customize	group_0004	3c0b757f	السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00224	kh3_camp.customize	group_0005	84b7121a	الروابط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00225	kh3_camp.customize	group_0006	9602bdf4	مجموعة الاختصارات A	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00226	kh3_camp.customize	group_0007	2ebeda91	مجموعة الاختصارات B	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00227	kh3_camp.customize	group_0008	76ddcac7	مجموعة الاختصارات C	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00228	kh3_camp.customize	group_0009	ce61ada2	أسلوب القتال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00229	kh3_camp.customize	group_0010	7fc3e2b6	قدرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00230	kh3_camp.customize	group_0011	c77f85d3	التعافي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00231	kh3_camp.customize	group_0012	d5ca2a3d	الأوامر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00232	kh3_camp.customize	custom_0001	53766a90	السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00233	kh3_camp.customize	custom_0002	41c3c57e	الروابط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00234	kh3_camp.customize	custom_0003	f97fa21b	مجموعة الاختصارات A	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00235	kh3_camp.customize	custom_0004	64a89aa2	مجموعة الاختصارات B	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00236	kh3_camp.customize	custom_0005	dc14fdc7	مجموعة الاختصارات C	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 00237	kh3_camp.customize	custom_0006	cea15229		todo	skip: tags/args only
 00238	kh3_camp.customize	custom_0007	761d354c		todo	skip: tags/args only
 00239	kh3_camp.customize	custom_0008	2e7e251a		todo	skip: tags/args only
 00240	kh3_camp.customize	custom_0009	96c2427f		todo	skip: tags/args only
-00241	kh3_camp.customize	custom_0010	27600d6b	لا توجد أغراض/أوامر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00242	kh3_camp.customize	custom_0011	9fdc6a0e	لا توجد أغراض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00243	kh3_camp.customize	custom_0012	8d69c5e0	لا توجد أوامر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00244	kh3_camp.customize	bstyle_0001	c30000c6	أسلوب القتال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00245	kh3_camp.customize	bstyle_0002	d1b5af28	قدرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00246	kh3_camp.customize	bstyle_0003	6909c84d	التعافي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00247	kh3_camp.customize	bstyle_0004	f4def0f4	على سورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00248	kh3_camp.customize	bstyle_0005	4c629791	على النفس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00249	kh3_camp.customize	bstyle_0006	5ed7387f	على الآخرين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00250	kh3_camp.customize	bstyle_0007	e66b5f1a	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00251	kh3_camp.customize	bstyle_0008	be084f4c	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00252	kh3_camp.customize	bstyle_0101	58a54ca9	ابق بجانب سورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00253	kh3_camp.customize	bstyle_0102	4a10e347	كن على طبيعتك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00254	kh3_camp.customize	bstyle_0103	f2ac8422	لا تتدخل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00255	kh3_camp.customize	bstyle_0104	6f7bbc9b	أكمل المهمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00256	kh3_camp.customize	bstyle_0105	d7c7dbfe	انطلق بلا قيود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00257	kh3_camp.customize	bstyle_0106	c5727410	راقب MP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00258	kh3_camp.customize	bstyle_0107	7dce1375	ادخر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00259	kh3_camp.customize	bstyle_0108	25ad0323	استخدم عند الحاجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00260	kh3_camp.customize	bstyle_0109	9d116446	استخدم في الطوارئ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00261	kh3_camp.customize	bstyle_0110	2cb32b52	استخدم بإفراط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00241	kh3_camp.customize	custom_0010	27600d6b	لا توجد أغراض/أوامر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00242	kh3_camp.customize	custom_0011	9fdc6a0e	لا توجد أغراض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00243	kh3_camp.customize	custom_0012	8d69c5e0	لا توجد أوامر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00244	kh3_camp.customize	bstyle_0001	c30000c6	أسلوب القتال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00245	kh3_camp.customize	bstyle_0002	d1b5af28	قدرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00246	kh3_camp.customize	bstyle_0003	6909c84d	التعافي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00247	kh3_camp.customize	bstyle_0004	f4def0f4	على سورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00248	kh3_camp.customize	bstyle_0005	4c629791	على النفس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00249	kh3_camp.customize	bstyle_0006	5ed7387f	على الآخرين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00250	kh3_camp.customize	bstyle_0007	e66b5f1a	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00251	kh3_camp.customize	bstyle_0008	be084f4c	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00252	kh3_camp.customize	bstyle_0101	58a54ca9	ابق بجانب سورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00253	kh3_camp.customize	bstyle_0102	4a10e347	كن على طبيعتك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00254	kh3_camp.customize	bstyle_0103	f2ac8422	لا تتدخل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00255	kh3_camp.customize	bstyle_0104	6f7bbc9b	أكمل المهمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00256	kh3_camp.customize	bstyle_0105	d7c7dbfe	انطلق بلا قيود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00257	kh3_camp.customize	bstyle_0106	c5727410	راقب MP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00258	kh3_camp.customize	bstyle_0107	7dce1375	ادخر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00259	kh3_camp.customize	bstyle_0108	25ad0323	استخدم عند الحاجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00260	kh3_camp.customize	bstyle_0109	9d116446	استخدم في الطوارئ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00261	kh3_camp.customize	bstyle_0110	2cb32b52	استخدم بإفراط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 00262	kh3_camp.customize	bstyle_0120	a23c2cb1		todo	skip: tags/args only
-00263	kh3_camp.customize	bstyle_0201	2f3b9e59	أسلوب القتال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00264	kh3_camp.customize	bstyle_0202	3d8e31b7	قدرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00265	kh3_camp.customize	bstyle_0203	853256d2	التعافي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00266	kh3_camp.customize	detail_0001	3469f929	اعرض أوامر السحر واضبطها وأعد ترتيبها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00267	kh3_camp.customize	detail_0002	26dc56c7	اعرض أوامر الروابط وأعد ترتيبها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00268	kh3_camp.customize	detail_0003	9e6031a2	عين أوامر لمجموعة الاختصارات A.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00269	kh3_camp.customize	detail_0004	03b7091b	عين أوامر لمجموعة الاختصارات B.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00270	kh3_camp.customize	detail_0005	bb0b6e7e	عين أوامر لمجموعة الاختصارات C.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00271	kh3_camp.customize	detail_0006	a9bec190	خصص سلوك هذا الصديق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00272	kh3_camp.customize	detail_0101	afccb546	حدد الأعداء الذين يستهدفهم هذا الصديق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00273	kh3_camp.customize	detail_0102	bd791aa8	حدد عدد مرات استخدام هذا الصديق للقدرات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00274	kh3_camp.customize	detail_0103	05c57dcd	حدد عدد مرات استخدام هذا الصديق<br>لأغراض/سحر التعافي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00275	kh3_camp.customize	detail_0105	20ae2211	سيستهدف الصديق الأعداء القريبين من سورا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00276	kh3_camp.customize	detail_0106	321b8dff	سيستهدف الصديق الأعداء الذين يختارهم.<br>لا يتصرف جميع الأصدقاء بالطريقة نفسها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00277	kh3_camp.customize	detail_0107	8aa7ea9a	سيبقى الصديق خارج القتال<br>ويؤدي دور الدعم بدلا من ذلك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00278	kh3_camp.customize	detail_0108	d2c4facc	سيستهدف الصديق عدوا<br>ويلازمه حتى يهزم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00279	kh3_camp.customize	detail_0109	6a789da9	سيستخدم الصديق القدرات كما يشاء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00280	kh3_camp.customize	detail_0110	dbdad2bd	سيوازن الصديق بين استخدام القدرات<br>والاحتفاظ بقدر من MP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00281	kh3_camp.customize	detail_0111	6366b5d8	سيقلل الصديق استخدام القدرات إلى الحد الأدنى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00282	kh3_camp.customize	detail_0112	71d31a36	سيستخدم الصديق أغراض/سحر التعافي عند الحاجة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00283	kh3_camp.customize	detail_0113	c96f7d53	سيستخدم الصديق أغراض/سحر التعافي<br>في حالات الطوارئ فقط.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00284	kh3_camp.customize	detail_0114	54b845ea	سيستخدم الصديق أغراض/سحر التعافي إذا فقدت<br>الأهداف المحددة أي قدر من HP/MP ولو ضئيل.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00285	kh3_camp.customize	detail_0115	ec04228f	سيستخدم الصديق أغراض/سحر التعافي على سورا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00286	kh3_camp.customize	detail_0116	feb18d61	لن يستخدم الصديق أغراض/سحر التعافي على سورا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00287	kh3_camp.customize	detail_0117	460dea04	سيستخدم الصديق أغراض/سحر التعافي<br>على نفسه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00288	kh3_camp.customize	detail_0118	1e6efa52	لن يستخدم الصديق أغراض/سحر التعافي<br>على نفسه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00289	kh3_camp.customize	detail_0119	a6d29d37	سيستخدم الصديق أغراض/سحر التعافي<br>على الأصدقاء الآخرين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00290	kh3_camp.customize	detail_0120	5555d55e	لن يستخدم الصديق أغراض/سحر التعافي<br>على الأصدقاء الآخرين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00291	kh3_camp.customize	detail_1001	9a0168b8	أطلق كرة نارية تحدث<br>انفجارا صغيرا إذا اصطدمت بالهدف.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00292	kh3_camp.customize	detail_1002	88b4c756	أطلق كرة نارية تحدث<br>انفجارا كبيرا إذا اصطدمت بالهدف.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00293	kh3_camp.customize	detail_1003	3008a033	أطلق كرة نارية تحدث<br>انفجارا ضخما إذا اصطدمت بالهدف.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00294	kh3_camp.customize	detail_1011	56ab6826	أطلق كتلة جليد تجمد الهدف<br>وتتفتح عن بلورة صغيرة.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00295	kh3_camp.customize	detail_1012	441ec7c8	أطلق كتلة جليد تجمد الهدف<br>وتتفتح عن بلورة كبيرة.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00296	kh3_camp.customize	detail_1013	fca2a0ad	أطلق كتلة جليد تجمد الهدف<br>وتتفتح عن بلورة ضخمة.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00297	kh3_camp.customize	detail_1021	d8246fc5	اضرب الأهداف بالبرق لتكهرب الخصوم<br>وتجعلهم مؤذين للأعداء الآخرين.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00298	kh3_camp.customize	detail_1022	ca91c02b	اضرب نطاقا ضيقا بالبرق لتكهرب الخصوم<br>وتجعلهم مؤذين للأعداء الآخرين.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00299	kh3_camp.customize	detail_1023	722da74e	اضرب نطاقا واسعا بالبرق لتكهرب الخصوم<br>وتجعلهم مؤذين للأعداء الآخرين.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00300	kh3_camp.customize	detail_1031	148e6f5b	أحط نفسك بماء يتقوس نحو<br>الهدف ويحدث رذاذا صغيرا عند الاصطدام.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00301	kh3_camp.customize	detail_1032	063bc0b5	أحط نفسك بماء يتقوس نحو<br>الهدف ويحدث رذاذا كبيرا عند الاصطدام.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00302	kh3_camp.customize	detail_1033	be87a7d0	أحط نفسك بماء يتقوس نحو<br>الهدف ويحدث رذاذا ضخما عند الاصطدام.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00303	kh3_camp.customize	detail_1041	1e4b6642	أنشئ دوامة هواء صغيرة حول الهدف تسحب الخصوم نحوها.<br>يمكنك استخدام الدوامة كمنصة للقفز.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00304	kh3_camp.customize	detail_1042	0cfec9ac	أنشئ دوامة هواء كبيرة حول الهدف تسحب الخصوم نحوها.<br>يمكنك استخدام الدوامة كمنصة للقفز.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00305	kh3_camp.customize	detail_1043	b442aec9	أنشئ دوامة هواء ضخمة حول الهدف تسحب الخصوم نحوها.<br>يمكنك استخدام الدوامة كمنصة للقفز.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00306	kh3_camp.customize	detail_1051	d2e166dc	أعد قدرا قليلا من HP إلى الهدف وإلى أي أصدقاء قريبين.<br>تحدد إحصائية السحر لديك الكمية.<br><color(strong)>تستهلك كل MP المتبقي.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00307	kh3_camp.customize	detail_1052	c054c932	أعد قدرا كبيرا من HP إلى الهدف وإلى أي أصدقاء قريبين.<br>تحدد إحصائية السحر لديك الكمية.<br><color(strong)>تستهلك كل MP المتبقي.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00308	kh3_camp.customize	detail_1053	78e8ae57	أعد قدرا هائلا من HP إلى الهدف وإلى أي أصدقاء قريبين.<br>تحدد إحصائية السحر لديك الكمية.<br><color(strong)>تستهلك كل MP المتبقي.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00309	kh3_camp.customize	detail_1101	01a424d7	استدع رابطتك مع آكلي الأحلام<br>لاستعادة HP وإطلاق قوة خاصة.<br><color(strong)>تتطلب عداد MP ممتلئا وتستهلك كل MP.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00310	kh3_camp.customize	detail_1102	13118b39	استدع رابطتك مع رالف المدمر<br>لاستعادة HP وإطلاق قوة خاصة.<br><color(strong)>تتطلب عداد MP ممتلئا وتستهلك كل MP.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00311	kh3_camp.customize	detail_1103	abadec5c	استدع رابطتك مع سيمبا<br>لاستعادة HP وإطلاق قوة خاصة.<br><color(strong)>تتطلب عداد MP ممتلئا وتستهلك كل MP.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00312	kh3_camp.customize	detail_1104	367ad4e5	استدع رابطتك مع ستيتش<br>لاستعادة HP وإطلاق قوة خاصة.<br><color(strong)>تتطلب عداد MP ممتلئا وتستهلك كل MP.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00313	kh3_camp.customize	detail_1105	8ec6b380	استدع رابطتك مع آرييل<br>لاستعادة HP وإطلاق قوة خاصة.<br><color(strong)>تتطلب عداد MP ممتلئا وتستهلك كل MP.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00314	kh3_camp.customize	tab_0001	e0805269	الكل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00315	kh3_camp.customize	tab_0002	f235fd87	السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00316	kh3_camp.customize	tab_0003	4a899ae2	الروابط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00317	kh3_camp.customize	tab_0004	d75ea25b	أغراض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00318	kh3_camp.customize	button_0001	7df0d8b3	<icon(Triangle)> إعادة ترتيب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00319	kh3_camp.customize	button_0002	6f45775d	<icon(Square)> إزالة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00320	kh3_camp.customize	button_0003	d7f91038	<icon(Triangle)> استعادة الإعدادات الافتراضية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00321	kh3_camp.config	title_0001	97d08cd5	الضبط	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00322	kh3_camp.config	button_0001	7df0d8b3	<icon(Triangle)> استعادة الإعدادات الافتراضية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00323	kh3_camp.config	dialog_0010	4a0702a0	استعادة جميع الإعدادات إلى الافتراضية?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00324	kh3_camp.config	config_0010	3bdb6fd6	حركة الكاميرا	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00325	kh3_camp.config	config_0020	b5546835	التحكم العمودي بالكاميرا	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00326	kh3_camp.config	config_0030	79fe68ab	التحكم الأفقي بالكاميرا	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00327	kh3_camp.config	config_0040	733b61b2	حساسية الكاميرا العمودية (وحدة التحكم)	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00328	kh3_camp.config	config_0050	bf91612c	حساسية الكاميرا الأفقية (وحدة التحكم)	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00329	kh3_camp.config	config_0060	311e66cf	التحكم العمودي بالتصويب	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00330	kh3_camp.config	config_0070	fdb46651	التحكم الأفقي بالتصويب	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00331	kh3_camp.config	config_0075	ca6a9663	التحكم العمودي في الركوب	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00332	kh3_camp.config	config_0080	249474fd	كاميرا الكومبو	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00333	kh3_camp.config	config_0085	134a84cf	مشاهد الكيبلايد	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00334	kh3_camp.config	config_0090	e83e7463	مشاهد الروابط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00335	kh3_camp.config	config_0100	6cd42327	مشاهد ألعاب الملاهي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00336	kh3_camp.config	config_0110	a07e23b9	قوائم الأوامر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00337	kh3_camp.config	config_0120	2ef1245a	اختيار الأوامر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00338	kh3_camp.config	config_0130	e25b24c4	موضع المؤشر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00339	kh3_camp.config	config_0140	e89e2ddd	أوامر المواقف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00340	kh3_camp.config	config_0150	24342d43	نمط التحكم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00341	kh3_camp.config	config_0160	aabb2aa0	الترجمة النصية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00342	kh3_camp.config	config_0170	66112a3e	الخرائط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00343	kh3_camp.config	config_0180	bf313892	اتجاه الخريطة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00344	kh3_camp.config	config_0190	739b380c	الاهتزاز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00345	kh3_camp.config	config_0200	1b4af1d7	مستوى الصوت العام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00346	kh3_camp.config	config_0205	2c9401e5	الرسومات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00347	kh3_camp.config	config_0210	d7e0f149	منطقة العرض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00348	kh3_camp.config	config_0220	596ff6aa	سطوع الشاشة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00349	kh3_camp.config	config_0230	95c5f634	اللغة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00350	kh3_camp.config	choice_0010	d8e8b008	تلقائي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00351	kh3_camp.config	choice_0011	6054d76d	يدوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00352	kh3_camp.config	choice_0020	5667b7eb	عادي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00353	kh3_camp.config	choice_0021	eedbd08e	معكوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00354	kh3_camp.config	choice_0030	9acdb775	عادي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00355	kh3_camp.config	choice_0031	2271d010	معكوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00356	kh3_camp.config	choice_0060	d22db911	عادي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00357	kh3_camp.config	choice_0061	6a91de74	معكوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00358	kh3_camp.config	choice_0070	1e87b98f	عادي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00359	kh3_camp.config	choice_0071	a63bdeea	معكوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00360	kh3_camp.config	choice_0075	295949bd	عادي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00361	kh3_camp.config	choice_0076	3bece653	معكوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00362	kh3_camp.config	choice_0080	c7a7ab23	تلقائي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00363	kh3_camp.config	choice_0081	7f1bcc46	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00364	kh3_camp.config	choice_0082	6dae63a8	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00365	kh3_camp.config	choice_0085	f0795b11	عادي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00366	kh3_camp.config	choice_0086	e2ccf4ff	أساسي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00367	kh3_camp.config	choice_0091	b3b1ccd8	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00368	kh3_camp.config	choice_0092	a1046336	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00369	kh3_camp.config	choice_0101	375b9b9c	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00370	kh3_camp.config	choice_0102	25ee3472	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00371	kh3_camp.config	choice_0110	434dfc67	حسب العالم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00372	kh3_camp.config	choice_0111	fbf19b02	كلاسيكي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00373	kh3_camp.config	choice_0120	cdc2fb84	نشط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00374	kh3_camp.config	choice_0121	757e9ce1	بطيء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00375	kh3_camp.config	choice_0130	0168fb1a	إعادة تعيين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00376	kh3_camp.config	choice_0131	b9d49c7f	قفل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00377	kh3_camp.config	choice_0140	0badf203	الأقدم أولا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00378	kh3_camp.config	choice_0141	b3119566	الأحدث أولا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00379	kh3_camp.config	choice_0150	c707f29d	النمط A	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00380	kh3_camp.config	choice_0151	7fbb95f8	النمط B	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00381	kh3_camp.config	choice_0160	4988f57e	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00382	kh3_camp.config	choice_0161	f134921b	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00383	kh3_camp.config	choice_0170	8522f5e0	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00384	kh3_camp.config	choice_0171	3d9e9285	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00385	kh3_camp.config	choice_0180	5c02e74c	ثابت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00386	kh3_camp.config	choice_0181	e4be8029	مطابقة الكاميرا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00387	kh3_camp.config	choice_0190	90a8e7d2	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00388	kh3_camp.config	choice_0191	281480b7	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00389	kh3_camp.config	choice_0205	cfa7de3b	الوضع الافتراضي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00390	kh3_camp.config	choice_0206	dd1271d5	الوضع المستقر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00391	kh3_camp.config	choice_0210	34d32e97	حجم الشاشة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00392	kh3_camp.config	choice_0211	8c6f49f2	حجم الشاشة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00393	kh3_camp.config	choice_0230	76f629ea	اليابانية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00394	kh3_camp.config	choice_0231	ce4a4e8f	الإنجليزية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00395	kh3_camp.config	detail_0010	407f9ed2	ستنتقل الكاميرا تلقائيا إلى موضع جيد.	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
-00396	kh3_camp.config	detail_0011	f8c3f9b7	لن تتحرك الكاميرا ما لم تتحكم بها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00397	kh3_camp.config	detail_0020	cef09931	استخدم <icon(RstickDown)> للنظر لأسفل، و<icon(RstickUp)> للنظر لأعلى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00398	kh3_camp.config	detail_0021	764cfe54	استخدم <icon(RstickDown)> للنظر لأعلى، و<icon(RstickUp)> للنظر لأسفل.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00399	kh3_camp.config	detail_0030	025a99af	استخدم <icon(RstickLeft)> للنظر لليسار، و<icon(RstickRight)> للنظر لليمين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00400	kh3_camp.config	detail_0031	bae6feca	استخدم <icon(RstickLeft)> للنظر لليمين، و<icon(RstickRight)> للنظر لليسار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00401	kh3_camp.config	detail_0040	089f90b6	اضبط الشريط لتغيير سرعة تحرك الكاميرا<br>لأعلى ولأسفل عند استخدام وحدة التحكم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00402	kh3_camp.config	detail_0050	c4359028	اضبط الشريط لتغيير سرعة تحرك الكاميرا<br>لليسار ولليمين عند استخدام وحدة التحكم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00403	kh3_camp.config	detail_0060	4aba97cb	عند توجيه التصويب لأعلى أو لأسفل، استخدم التحكم<br>العمودي لتحريكه في الاتجاه المقصود.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00404	kh3_camp.config	detail_0061	f206f0ae	عند توجيه التصويب لأعلى أو لأسفل، استخدم التحكم<br>العمودي لتحريكه في الاتجاه المعاكس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00405	kh3_camp.config	detail_0070	86109755	عند توجيه التصويب لليسار أو لليمين، استخدم التحكم<br>الأفقي لتحريكه في الاتجاه المقصود.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00406	kh3_camp.config	detail_0071	3eacf030	عند توجيه التصويب لليسار أو لليمين، استخدم التحكم<br>الأفقي لتحريكه في الاتجاه المعاكس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00407	kh3_camp.config	detail_0075	b1ce6767	في الألعاب التي تتحرك للأمام باستمرار، استخدم<br>التحكم العمودي للتحرك في الاتجاه المقصود.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00408	kh3_camp.config	detail_0076	a37bc889	في الألعاب التي تتحرك للأمام باستمرار، استخدم<br>التحكم العمودي للتحرك في الاتجاه المعاكس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00409	kh3_camp.config	detail_0080	5f3085f9	من حين لآخر، ستتغير زاوية الكاميرا<br>لإبراز الضربات الختامية في الكومبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00410	kh3_camp.config	detail_0081	e78ce29c	ستتغير زاوية الكاميرا دائما<br>لإبراز الضربات الختامية في الكومبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00411	kh3_camp.config	detail_0082	f5394d72	لن تتغير زاوية الكاميرا أبدا<br>لإبراز الضربات الختامية في الكومبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00412	kh3_camp.config	detail_0085	68ee75cb	ستعرض مشاهد الكيبلايد بشكل طبيعي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00413	kh3_camp.config	detail_0086	7a5bda25	ستعرض مشاهد مختصرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00414	kh3_camp.config	detail_0091	2b26e202	ستعرض مشاهد الروابط دائما.<br>يمكنك تخطيها بالضغط على <icon(square)>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00415	kh3_camp.config	detail_0092	39934dec	لن تعرض مشاهد الروابط أبدا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00416	kh3_camp.config	detail_0101	afccb546	ستعرض مشاهد ألعاب الملاهي دائما.<br>يمكنك تخطيها بالضغط على <icon(square)>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00417	kh3_camp.config	detail_0102	bd791aa8	لن تعرض مشاهد ألعاب الملاهي أبدا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00418	kh3_camp.config	detail_0110	dbdad2bd	سيتغير تصميم قائمة الأوامر<br>من عالم إلى آخر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00419	kh3_camp.config	detail_0111	6366b5d8	ستستخدم قائمة الأوامر التصميم الكلاسيكي دائما.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00420	kh3_camp.config	detail_0120	5555d55e	ستستمر اللعبة بالسرعة المعتادة<br>أثناء اختيارك للأوامر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00421	kh3_camp.config	detail_0121	ede9b23b	ستتباطأ اللعبة أثناء اختيارك للأوامر،<br>لكن لن تتمكن من الهجوم أو المراوغة أثناء الاختيار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00422	kh3_camp.config	detail_0130	99ffd5c0	بعد اختيار أمر، سينتقل المؤشر<br>تلقائيا إلى <color(strong)>هجوم<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00423	kh3_camp.config	detail_0131	2143b2a5	سيبقى المؤشر في الموضع نفسه<br>بعد اختيار أمر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00424	kh3_camp.config	detail_0140	933adcd9	سيبقى المؤشر على أمر الموقف المحدد<br>بدلا من الانتقال إلى الأحدث.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00425	kh3_camp.config	detail_0141	2b86bbbc	سينتقل المؤشر إلى أوامر المواقف الجديدة<br>فور توفرها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00426	kh3_camp.config	detail_0150	5f90dc47	استخدم <icon(L2)> لاختيار أوامر المواقف.<br>(اضغط <icon(Decide)> لعرض قائمة التحكم الكاملة.)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00427	kh3_camp.config	detail_0151	e72cbb22	استخدم <icon(KeyUpDown)> لاختيار أوامر المواقف.<br>(اضغط <icon(Decide)> لعرض قائمة التحكم الكاملة.)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00428	kh3_camp.config	detail_0160	d11fdba4	ستعرض الترجمة النصية أثناء المشاهد السينمائية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00429	kh3_camp.config	detail_0161	69a3bcc1	لن تعرض الترجمة النصية أثناء المشاهد السينمائية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00430	kh3_camp.config	detail_0170	1db5db3a	ستظهر خريطة مصغرة في الزاوية العليا اليمنى<br>من الشاشة (إذا عثرت على الخريطة).	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00431	kh3_camp.config	detail_0171	a509bc5f	لن تظهر الخريطة المصغرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00432	kh3_camp.config	detail_0180	c495c996	ستبقى الخريطة المصغرة ثابتة في موضعها<br>ليشير الشمال دائما إلى الشمال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00433	kh3_camp.config	detail_0181	7c29aef3	ستدور الخريطة المصغرة لتطابق اتجاه الكاميرا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00434	kh3_camp.config	detail_0190	083fc908	سيتم تشغيل الاهتزاز.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00435	kh3_camp.config	detail_0191	b083ae6d	سيتم إيقاف الاهتزاز.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00436	kh3_camp.config	detail_0192	a2360183	سيتم تشغيل اهتزاز وحدة التحكم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00437	kh3_camp.config	detail_0193	1a8a66e6	سيتم إيقاف اهتزاز وحدة التحكم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00438	kh3_camp.config	detail_0200	60ee00d3	اضبط الشريط لتغيير مستوى الصوت العام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00439	kh3_camp.config	detail_0205	5730f0e1	اختر هذا للحصول على حركة رسومية أكثر سلاسة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00440	kh3_camp.config	detail_0206	45855f0f	اختر هذا للحصول على حركة رسومية أكثر استقرارا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00441	kh3_camp.config	detail_0210	ac44004d	إذا ظهر جزء من شاشة اللعبة مقطوعا، جرب ضبط منطقة العرض في جهازك PlayStation®4<br>باختيار <color(strong)>الإعدادات ><br>الصوت والشاشة > إعدادات منطقة العرض<color> من الشاشة الرئيسية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00442	kh3_camp.config	detail_0211	14f86728	اضغط <icon(Decide)> لضبط منطقة العرض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00443	kh3_camp.config	detail_0220	22cb07ae	اضغط <icon(Decide)> لضبط سطوع الشاشة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00444	kh3_camp.config	detail_0230	ee610730	اضبط لغة أصوات الشخصيات على {0}.<br>(لا يمكن اختيار لغة الصوت إلا من قائمة <br><color(strong)>الضبط<color> في شاشة العنوان.)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00445	kh3_camp.config	special_0011	21c0a937	اضبط الزوايا البيضاء للإطار حتى<br>تظهر داخل حدود شاشتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00446	kh3_camp.config	special_0012	337506d9	<icon(KeyUp)> زيادة الحجم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00447	kh3_camp.config	special_0013	8bc961bc	<icon(KeyDown)> تقليل الحجم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00448	kh3_camp.config	special_0014	161e5905	<icon(Decide)> حسنا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00449	kh3_camp.config	special_0015	aea23e60	<icon(Cancel)> إلغاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00450	kh3_camp.config	special_0101	76cfe5c6	اضبط الشريط حتى يصبح سطوع<br>الصورة أعلاه مريحا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00451	kh3_camp.config	special_0102	647a4a28	<icon(Decide)> حسنا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00452	kh3_camp.config	special_0103	dcc62d4d	<icon(Cancel)> إلغاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00453	kh3_camp.status	title_0010	e3c6eb2e	الإحصائيات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00454	kh3_camp.status	item_0010	cd2c0fe7	المستوى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00455	kh3_camp.status	item_0020	43a30804	إجمالي الخبرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00456	kh3_camp.status	item_0030	8f09089a	المستوى التالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00263	kh3_camp.customize	bstyle_0201	2f3b9e59	أسلوب القتال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00264	kh3_camp.customize	bstyle_0202	3d8e31b7	قدرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00265	kh3_camp.customize	bstyle_0203	853256d2	التعافي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00266	kh3_camp.customize	detail_0001	3469f929	اعرض أوامر السحر واضبطها وأعد ترتيبها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00267	kh3_camp.customize	detail_0002	26dc56c7	اعرض أوامر الروابط وأعد ترتيبها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00268	kh3_camp.customize	detail_0003	9e6031a2	عين أوامر لمجموعة الاختصارات A.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00269	kh3_camp.customize	detail_0004	03b7091b	عين أوامر لمجموعة الاختصارات B.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00270	kh3_camp.customize	detail_0005	bb0b6e7e	عين أوامر لمجموعة الاختصارات C.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00271	kh3_camp.customize	detail_0006	a9bec190	خصص سلوك هذا الصديق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00272	kh3_camp.customize	detail_0101	afccb546	حدد الأعداء الذين يستهدفهم هذا الصديق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00273	kh3_camp.customize	detail_0102	bd791aa8	حدد عدد مرات استخدام هذا الصديق للقدرات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00274	kh3_camp.customize	detail_0103	05c57dcd	حدد عدد مرات استخدام هذا الصديق<br>لأغراض/سحر التعافي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00275	kh3_camp.customize	detail_0105	20ae2211	سيستهدف الصديق الأعداء القريبين من سورا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00276	kh3_camp.customize	detail_0106	321b8dff	سيستهدف الصديق الأعداء الذين يختارهم.<br>لا يتصرف جميع الأصدقاء بالطريقة نفسها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00277	kh3_camp.customize	detail_0107	8aa7ea9a	سيبقى الصديق خارج القتال<br>ويؤدي دور الدعم بدلا من ذلك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00278	kh3_camp.customize	detail_0108	d2c4facc	سيستهدف الصديق عدوا<br>ويلازمه حتى يهزم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00279	kh3_camp.customize	detail_0109	6a789da9	سيستخدم الصديق القدرات كما يشاء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00280	kh3_camp.customize	detail_0110	dbdad2bd	سيوازن الصديق بين استخدام القدرات<br>والاحتفاظ بقدر من MP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00281	kh3_camp.customize	detail_0111	6366b5d8	سيقلل الصديق استخدام القدرات إلى الحد الأدنى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00282	kh3_camp.customize	detail_0112	71d31a36	سيستخدم الصديق أغراض/سحر التعافي عند الحاجة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00283	kh3_camp.customize	detail_0113	c96f7d53	سيستخدم الصديق أغراض/سحر التعافي<br>في حالات الطوارئ فقط.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00284	kh3_camp.customize	detail_0114	54b845ea	سيستخدم الصديق أغراض/سحر التعافي إذا فقدت<br>الأهداف المحددة أي قدر من HP/MP ولو ضئيل.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00285	kh3_camp.customize	detail_0115	ec04228f	سيستخدم الصديق أغراض/سحر التعافي على سورا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00286	kh3_camp.customize	detail_0116	feb18d61	لن يستخدم الصديق أغراض/سحر التعافي على سورا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00287	kh3_camp.customize	detail_0117	460dea04	سيستخدم الصديق أغراض/سحر التعافي<br>على نفسه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00288	kh3_camp.customize	detail_0118	1e6efa52	لن يستخدم الصديق أغراض/سحر التعافي<br>على نفسه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00289	kh3_camp.customize	detail_0119	a6d29d37	سيستخدم الصديق أغراض/سحر التعافي<br>على الأصدقاء الآخرين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00290	kh3_camp.customize	detail_0120	5555d55e	لن يستخدم الصديق أغراض/سحر التعافي<br>على الأصدقاء الآخرين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00291	kh3_camp.customize	detail_1001	9a0168b8	أطلق كرة نارية تحدث<br>انفجارا صغيرا إذا اصطدمت بالهدف.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00292	kh3_camp.customize	detail_1002	88b4c756	أطلق كرة نارية تحدث<br>انفجارا كبيرا إذا اصطدمت بالهدف.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00293	kh3_camp.customize	detail_1003	3008a033	أطلق كرة نارية تحدث<br>انفجارا ضخما إذا اصطدمت بالهدف.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00294	kh3_camp.customize	detail_1011	56ab6826	أطلق كتلة جليد تجمد الهدف<br>وتتفتح عن بلورة صغيرة.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00295	kh3_camp.customize	detail_1012	441ec7c8	أطلق كتلة جليد تجمد الهدف<br>وتتفتح عن بلورة كبيرة.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00296	kh3_camp.customize	detail_1013	fca2a0ad	أطلق كتلة جليد تجمد الهدف<br>وتتفتح عن بلورة ضخمة.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00297	kh3_camp.customize	detail_1021	d8246fc5	اضرب الأهداف بالبرق لتكهرب الخصوم<br>وتجعلهم مؤذين للأعداء الآخرين.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00298	kh3_camp.customize	detail_1022	ca91c02b	اضرب نطاقا ضيقا بالبرق لتكهرب الخصوم<br>وتجعلهم مؤذين للأعداء الآخرين.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00299	kh3_camp.customize	detail_1023	722da74e	اضرب نطاقا واسعا بالبرق لتكهرب الخصوم<br>وتجعلهم مؤذين للأعداء الآخرين.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00300	kh3_camp.customize	detail_1031	148e6f5b	أحط نفسك بماء يتقوس نحو<br>الهدف ويحدث رذاذا صغيرا عند الاصطدام.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00301	kh3_camp.customize	detail_1032	063bc0b5	أحط نفسك بماء يتقوس نحو<br>الهدف ويحدث رذاذا كبيرا عند الاصطدام.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00302	kh3_camp.customize	detail_1033	be87a7d0	أحط نفسك بماء يتقوس نحو<br>الهدف ويحدث رذاذا ضخما عند الاصطدام.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00303	kh3_camp.customize	detail_1041	1e4b6642	أنشئ دوامة هواء صغيرة حول الهدف تسحب الخصوم نحوها.<br>يمكنك استخدام الدوامة كمنصة للقفز.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00304	kh3_camp.customize	detail_1042	0cfec9ac	أنشئ دوامة هواء كبيرة حول الهدف تسحب الخصوم نحوها.<br>يمكنك استخدام الدوامة كمنصة للقفز.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00305	kh3_camp.customize	detail_1043	b442aec9	أنشئ دوامة هواء ضخمة حول الهدف تسحب الخصوم نحوها.<br>يمكنك استخدام الدوامة كمنصة للقفز.<br><color(strong)>تكلفة MP: {0}.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00306	kh3_camp.customize	detail_1051	d2e166dc	أعد قدرا قليلا من HP إلى الهدف وإلى أي أصدقاء قريبين.<br>تحدد إحصائية السحر لديك الكمية.<br><color(strong)>تستهلك كل MP المتبقي.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00307	kh3_camp.customize	detail_1052	c054c932	أعد قدرا كبيرا من HP إلى الهدف وإلى أي أصدقاء قريبين.<br>تحدد إحصائية السحر لديك الكمية.<br><color(strong)>تستهلك كل MP المتبقي.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00308	kh3_camp.customize	detail_1053	78e8ae57	أعد قدرا هائلا من HP إلى الهدف وإلى أي أصدقاء قريبين.<br>تحدد إحصائية السحر لديك الكمية.<br><color(strong)>تستهلك كل MP المتبقي.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00309	kh3_camp.customize	detail_1101	01a424d7	استدع رابطتك مع آكلي الأحلام<br>لاستعادة HP وإطلاق قوة خاصة.<br><color(strong)>تتطلب عداد MP ممتلئا وتستهلك كل MP.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00310	kh3_camp.customize	detail_1102	13118b39	استدع رابطتك مع رالف المدمر<br>لاستعادة HP وإطلاق قوة خاصة.<br><color(strong)>تتطلب عداد MP ممتلئا وتستهلك كل MP.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00311	kh3_camp.customize	detail_1103	abadec5c	استدع رابطتك مع سيمبا<br>لاستعادة HP وإطلاق قوة خاصة.<br><color(strong)>تتطلب عداد MP ممتلئا وتستهلك كل MP.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00312	kh3_camp.customize	detail_1104	367ad4e5	استدع رابطتك مع ستيتش<br>لاستعادة HP وإطلاق قوة خاصة.<br><color(strong)>تتطلب عداد MP ممتلئا وتستهلك كل MP.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00313	kh3_camp.customize	detail_1105	8ec6b380	استدع رابطتك مع آرييل<br>لاستعادة HP وإطلاق قوة خاصة.<br><color(strong)>تتطلب عداد MP ممتلئا وتستهلك كل MP.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00314	kh3_camp.customize	tab_0001	e0805269	الكل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00315	kh3_camp.customize	tab_0002	f235fd87	السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00316	kh3_camp.customize	tab_0003	4a899ae2	الروابط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00317	kh3_camp.customize	tab_0004	d75ea25b	أغراض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00318	kh3_camp.customize	button_0001	7df0d8b3	<icon(Triangle)> إعادة ترتيب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00319	kh3_camp.customize	button_0002	6f45775d	<icon(Square)> إزالة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00320	kh3_camp.customize	button_0003	d7f91038	<icon(Triangle)> استعادة الإعدادات الافتراضية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00321	kh3_camp.config	title_0001	97d08cd5	الضبط	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00322	kh3_camp.config	button_0001	7df0d8b3	<icon(Triangle)> استعادة الإعدادات الافتراضية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00323	kh3_camp.config	dialog_0010	4a0702a0	استعادة جميع الإعدادات إلى الافتراضية?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00324	kh3_camp.config	config_0010	3bdb6fd6	حركة الكاميرا	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00325	kh3_camp.config	config_0020	b5546835	التحكم العمودي بالكاميرا	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00326	kh3_camp.config	config_0030	79fe68ab	التحكم الأفقي بالكاميرا	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00327	kh3_camp.config	config_0040	733b61b2	حساسية الكاميرا العمودية (وحدة التحكم)	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00328	kh3_camp.config	config_0050	bf91612c	حساسية الكاميرا الأفقية (وحدة التحكم)	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00329	kh3_camp.config	config_0060	311e66cf	التحكم العمودي بالتصويب	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00330	kh3_camp.config	config_0070	fdb46651	التحكم الأفقي بالتصويب	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00331	kh3_camp.config	config_0075	ca6a9663	التحكم العمودي في الركوب	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00332	kh3_camp.config	config_0080	249474fd	كاميرا الكومبو	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00333	kh3_camp.config	config_0085	134a84cf	مشاهد الكيبلايد	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00334	kh3_camp.config	config_0090	e83e7463	مشاهد الروابط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00335	kh3_camp.config	config_0100	6cd42327	مشاهد ألعاب الملاهي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00336	kh3_camp.config	config_0110	a07e23b9	قوائم الأوامر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00337	kh3_camp.config	config_0120	2ef1245a	اختيار الأوامر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00338	kh3_camp.config	config_0130	e25b24c4	موضع المؤشر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00339	kh3_camp.config	config_0140	e89e2ddd	أوامر المواقف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00340	kh3_camp.config	config_0150	24342d43	نمط التحكم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00341	kh3_camp.config	config_0160	aabb2aa0	الترجمة النصية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00342	kh3_camp.config	config_0170	66112a3e	الخرائط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00343	kh3_camp.config	config_0180	bf313892	اتجاه الخريطة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00344	kh3_camp.config	config_0190	739b380c	الاهتزاز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00345	kh3_camp.config	config_0200	1b4af1d7	مستوى الصوت العام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00346	kh3_camp.config	config_0205	2c9401e5	الرسومات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00347	kh3_camp.config	config_0210	d7e0f149	منطقة العرض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00348	kh3_camp.config	config_0220	596ff6aa	سطوع الشاشة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00349	kh3_camp.config	config_0230	95c5f634	اللغة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00350	kh3_camp.config	choice_0010	d8e8b008	تلقائي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00351	kh3_camp.config	choice_0011	6054d76d	يدوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00352	kh3_camp.config	choice_0020	5667b7eb	عادي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00353	kh3_camp.config	choice_0021	eedbd08e	معكوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00354	kh3_camp.config	choice_0030	9acdb775	عادي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00355	kh3_camp.config	choice_0031	2271d010	معكوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00356	kh3_camp.config	choice_0060	d22db911	عادي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00357	kh3_camp.config	choice_0061	6a91de74	معكوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00358	kh3_camp.config	choice_0070	1e87b98f	عادي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00359	kh3_camp.config	choice_0071	a63bdeea	معكوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00360	kh3_camp.config	choice_0075	295949bd	عادي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00361	kh3_camp.config	choice_0076	3bece653	معكوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00362	kh3_camp.config	choice_0080	c7a7ab23	تلقائي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00363	kh3_camp.config	choice_0081	7f1bcc46	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00364	kh3_camp.config	choice_0082	6dae63a8	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00365	kh3_camp.config	choice_0085	f0795b11	عادي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00366	kh3_camp.config	choice_0086	e2ccf4ff	أساسي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00367	kh3_camp.config	choice_0091	b3b1ccd8	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00368	kh3_camp.config	choice_0092	a1046336	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00369	kh3_camp.config	choice_0101	375b9b9c	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00370	kh3_camp.config	choice_0102	25ee3472	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00371	kh3_camp.config	choice_0110	434dfc67	حسب العالم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00372	kh3_camp.config	choice_0111	fbf19b02	كلاسيكي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00373	kh3_camp.config	choice_0120	cdc2fb84	نشط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00374	kh3_camp.config	choice_0121	757e9ce1	بطيء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00375	kh3_camp.config	choice_0130	0168fb1a	إعادة تعيين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00376	kh3_camp.config	choice_0131	b9d49c7f	قفل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00377	kh3_camp.config	choice_0140	0badf203	الأقدم أولا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00378	kh3_camp.config	choice_0141	b3119566	الأحدث أولا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00379	kh3_camp.config	choice_0150	c707f29d	النمط A	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00380	kh3_camp.config	choice_0151	7fbb95f8	النمط B	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00381	kh3_camp.config	choice_0160	4988f57e	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00382	kh3_camp.config	choice_0161	f134921b	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00383	kh3_camp.config	choice_0170	8522f5e0	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00384	kh3_camp.config	choice_0171	3d9e9285	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00385	kh3_camp.config	choice_0180	5c02e74c	ثابت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00386	kh3_camp.config	choice_0181	e4be8029	مطابقة الكاميرا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00387	kh3_camp.config	choice_0190	90a8e7d2	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00388	kh3_camp.config	choice_0191	281480b7	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00389	kh3_camp.config	choice_0205	cfa7de3b	الوضع الافتراضي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00390	kh3_camp.config	choice_0206	dd1271d5	الوضع المستقر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00391	kh3_camp.config	choice_0210	34d32e97	حجم الشاشة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00392	kh3_camp.config	choice_0211	8c6f49f2	حجم الشاشة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00393	kh3_camp.config	choice_0230	76f629ea	اليابانية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00394	kh3_camp.config	choice_0231	ce4a4e8f	الإنجليزية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00395	kh3_camp.config	detail_0010	407f9ed2	ستنتقل الكاميرا تلقائيا إلى موضع جيد.	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
+00396	kh3_camp.config	detail_0011	f8c3f9b7	لن تتحرك الكاميرا ما لم تتحكم بها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00397	kh3_camp.config	detail_0020	cef09931	استخدم <icon(RstickDown)> للنظر لأسفل، و<icon(RstickUp)> للنظر لأعلى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00398	kh3_camp.config	detail_0021	764cfe54	استخدم <icon(RstickDown)> للنظر لأعلى، و<icon(RstickUp)> للنظر لأسفل.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00399	kh3_camp.config	detail_0030	025a99af	استخدم <icon(RstickLeft)> للنظر لليسار، و<icon(RstickRight)> للنظر لليمين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00400	kh3_camp.config	detail_0031	bae6feca	استخدم <icon(RstickLeft)> للنظر لليمين، و<icon(RstickRight)> للنظر لليسار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00401	kh3_camp.config	detail_0040	089f90b6	اضبط الشريط لتغيير سرعة تحرك الكاميرا<br>لأعلى ولأسفل عند استخدام وحدة التحكم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00402	kh3_camp.config	detail_0050	c4359028	اضبط الشريط لتغيير سرعة تحرك الكاميرا<br>لليسار ولليمين عند استخدام وحدة التحكم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00403	kh3_camp.config	detail_0060	4aba97cb	عند توجيه التصويب لأعلى أو لأسفل، استخدم التحكم<br>العمودي لتحريكه في الاتجاه المقصود.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00404	kh3_camp.config	detail_0061	f206f0ae	عند توجيه التصويب لأعلى أو لأسفل، استخدم التحكم<br>العمودي لتحريكه في الاتجاه المعاكس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00405	kh3_camp.config	detail_0070	86109755	عند توجيه التصويب لليسار أو لليمين، استخدم التحكم<br>الأفقي لتحريكه في الاتجاه المقصود.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00406	kh3_camp.config	detail_0071	3eacf030	عند توجيه التصويب لليسار أو لليمين، استخدم التحكم<br>الأفقي لتحريكه في الاتجاه المعاكس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00407	kh3_camp.config	detail_0075	b1ce6767	في الألعاب التي تتحرك للأمام باستمرار، استخدم<br>التحكم العمودي للتحرك في الاتجاه المقصود.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00408	kh3_camp.config	detail_0076	a37bc889	في الألعاب التي تتحرك للأمام باستمرار، استخدم<br>التحكم العمودي للتحرك في الاتجاه المعاكس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00409	kh3_camp.config	detail_0080	5f3085f9	من حين لآخر، ستتغير زاوية الكاميرا<br>لإبراز الضربات الختامية في الكومبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00410	kh3_camp.config	detail_0081	e78ce29c	ستتغير زاوية الكاميرا دائما<br>لإبراز الضربات الختامية في الكومبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00411	kh3_camp.config	detail_0082	f5394d72	لن تتغير زاوية الكاميرا أبدا<br>لإبراز الضربات الختامية في الكومبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00412	kh3_camp.config	detail_0085	68ee75cb	ستعرض مشاهد الكيبلايد بشكل طبيعي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00413	kh3_camp.config	detail_0086	7a5bda25	ستعرض مشاهد مختصرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00414	kh3_camp.config	detail_0091	2b26e202	ستعرض مشاهد الروابط دائما.<br>يمكنك تخطيها بالضغط على <icon(square)>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00415	kh3_camp.config	detail_0092	39934dec	لن تعرض مشاهد الروابط أبدا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00416	kh3_camp.config	detail_0101	afccb546	ستعرض مشاهد ألعاب الملاهي دائما.<br>يمكنك تخطيها بالضغط على <icon(square)>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00417	kh3_camp.config	detail_0102	bd791aa8	لن تعرض مشاهد ألعاب الملاهي أبدا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00418	kh3_camp.config	detail_0110	dbdad2bd	سيتغير تصميم قائمة الأوامر<br>من عالم إلى آخر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00419	kh3_camp.config	detail_0111	6366b5d8	ستستخدم قائمة الأوامر التصميم الكلاسيكي دائما.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00420	kh3_camp.config	detail_0120	5555d55e	ستستمر اللعبة بالسرعة المعتادة<br>أثناء اختيارك للأوامر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00421	kh3_camp.config	detail_0121	ede9b23b	ستتباطأ اللعبة أثناء اختيارك للأوامر،<br>لكن لن تتمكن من الهجوم أو المراوغة أثناء الاختيار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00422	kh3_camp.config	detail_0130	99ffd5c0	بعد اختيار أمر، سينتقل المؤشر<br>تلقائيا إلى <color(strong)>هجوم<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00423	kh3_camp.config	detail_0131	2143b2a5	سيبقى المؤشر في الموضع نفسه<br>بعد اختيار أمر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00424	kh3_camp.config	detail_0140	933adcd9	سيبقى المؤشر على أمر الموقف المحدد<br>بدلا من الانتقال إلى الأحدث.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00425	kh3_camp.config	detail_0141	2b86bbbc	سينتقل المؤشر إلى أوامر المواقف الجديدة<br>فور توفرها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00426	kh3_camp.config	detail_0150	5f90dc47	استخدم <icon(L2)> لاختيار أوامر المواقف.<br>(اضغط <icon(Decide)> لعرض قائمة التحكم الكاملة.)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00427	kh3_camp.config	detail_0151	e72cbb22	استخدم <icon(KeyUpDown)> لاختيار أوامر المواقف.<br>(اضغط <icon(Decide)> لعرض قائمة التحكم الكاملة.)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00428	kh3_camp.config	detail_0160	d11fdba4	ستعرض الترجمة النصية أثناء المشاهد السينمائية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00429	kh3_camp.config	detail_0161	69a3bcc1	لن تعرض الترجمة النصية أثناء المشاهد السينمائية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00430	kh3_camp.config	detail_0170	1db5db3a	ستظهر خريطة مصغرة في الزاوية العليا اليمنى<br>من الشاشة (إذا عثرت على الخريطة).	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00431	kh3_camp.config	detail_0171	a509bc5f	لن تظهر الخريطة المصغرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00432	kh3_camp.config	detail_0180	c495c996	ستبقى الخريطة المصغرة ثابتة في موضعها<br>ليشير الشمال دائما إلى الشمال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00433	kh3_camp.config	detail_0181	7c29aef3	ستدور الخريطة المصغرة لتطابق اتجاه الكاميرا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00434	kh3_camp.config	detail_0190	083fc908	سيتم تشغيل الاهتزاز.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00435	kh3_camp.config	detail_0191	b083ae6d	سيتم إيقاف الاهتزاز.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00436	kh3_camp.config	detail_0192	a2360183	سيتم تشغيل اهتزاز وحدة التحكم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00437	kh3_camp.config	detail_0193	1a8a66e6	سيتم إيقاف اهتزاز وحدة التحكم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00438	kh3_camp.config	detail_0200	60ee00d3	اضبط الشريط لتغيير مستوى الصوت العام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00439	kh3_camp.config	detail_0205	5730f0e1	اختر هذا للحصول على حركة رسومية أكثر سلاسة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00440	kh3_camp.config	detail_0206	45855f0f	اختر هذا للحصول على حركة رسومية أكثر استقرارا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00441	kh3_camp.config	detail_0210	ac44004d	إذا ظهر جزء من شاشة اللعبة مقطوعا، جرب ضبط منطقة العرض في جهازك PlayStation®4<br>باختيار <color(strong)>الإعدادات ><br>الصوت والشاشة > إعدادات منطقة العرض<color> من الشاشة الرئيسية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00442	kh3_camp.config	detail_0211	14f86728	اضغط <icon(Decide)> لضبط منطقة العرض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00443	kh3_camp.config	detail_0220	22cb07ae	اضغط <icon(Decide)> لضبط سطوع الشاشة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00444	kh3_camp.config	detail_0230	ee610730	اضبط لغة أصوات الشخصيات على {0}.<br>(لا يمكن اختيار لغة الصوت إلا من قائمة <br><color(strong)>الضبط<color> في شاشة العنوان.)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00445	kh3_camp.config	special_0011	21c0a937	اضبط الزوايا البيضاء للإطار حتى<br>تظهر داخل حدود شاشتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00446	kh3_camp.config	special_0012	337506d9	<icon(KeyUp)> زيادة الحجم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00447	kh3_camp.config	special_0013	8bc961bc	<icon(KeyDown)> تقليل الحجم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00448	kh3_camp.config	special_0014	161e5905	<icon(Decide)> حسنا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00449	kh3_camp.config	special_0015	aea23e60	<icon(Cancel)> إلغاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00450	kh3_camp.config	special_0101	76cfe5c6	اضبط الشريط حتى يصبح سطوع<br>الصورة أعلاه مريحا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00451	kh3_camp.config	special_0102	647a4a28	<icon(Decide)> حسنا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00452	kh3_camp.config	special_0103	dcc62d4d	<icon(Cancel)> إلغاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00453	kh3_camp.status	title_0010	e3c6eb2e	الإحصائيات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00454	kh3_camp.status	item_0010	cd2c0fe7	المستوى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00455	kh3_camp.status	item_0020	43a30804	إجمالي الخبرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00456	kh3_camp.status	item_0030	8f09089a	المستوى التالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 00457	kh3_camp.status	item_0040	85cc0183		todo	skip: no Latin letters (native script / symbols)
-00458	kh3_camp.status	button_0001	7df0d8b3	<icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00459	kh3_camp.status	detail_0010	407f9ed2	اختر صديقا لعرض إحصائياته.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00460	kh3_camp.status	detail_0020	cef09931	عرض إحصائيات {0}.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00461	kh3_camp.gamehelp	title_0010	e3c6eb2e	مساعدة اللعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00462	kh3_camp.gamehelp	group_0010	7fc3e2b6	آليات اللعب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00463	kh3_camp.gamehelp	group_0020	f14ce555	الحركة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00464	kh3_camp.gamehelp	group_0030	3de6e5cb	القتال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00465	kh3_camp.gamehelp	group_0040	3723ecd2	الاستكشاف والتسلية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00466	kh3_camp.gamehelp	group_0050	fb89ec4c	المملكة الكلاسيكية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00467	kh3_camp.gamehelp	group_0060	7506ebaf	Re<icon(Coda)>Mind	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00468	kh3_camp.gamehelp	button_0001	7df0d8b3	السابق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00469	kh3_camp.gamehelp	button_0002	6f45775d	التالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00470	kh3_camp.gamehelp	detail_0010	407f9ed2	تعرف أكثر على طريقة اللعب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00471	kh3_camp.gamehelp	detail_0020	cef09931	انتقل إلى مساعدة اللعبة.<br><color(strong)>(<icon(dlc)> المحتوى الإضافي)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00458	kh3_camp.status	button_0001	7df0d8b3	<icon(L2)><icon(R2)> اختيار صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00459	kh3_camp.status	detail_0010	407f9ed2	اختر صديقا لعرض إحصائياته.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00460	kh3_camp.status	detail_0020	cef09931	عرض إحصائيات {0}.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00461	kh3_camp.gamehelp	title_0010	e3c6eb2e	مساعدة اللعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00462	kh3_camp.gamehelp	group_0010	7fc3e2b6	آليات اللعب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00463	kh3_camp.gamehelp	group_0020	f14ce555	الحركة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00464	kh3_camp.gamehelp	group_0030	3de6e5cb	القتال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00465	kh3_camp.gamehelp	group_0040	3723ecd2	الاستكشاف والتسلية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00466	kh3_camp.gamehelp	group_0050	fb89ec4c	المملكة الكلاسيكية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00467	kh3_camp.gamehelp	group_0060	7506ebaf	Re<icon(Coda)>Mind	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00468	kh3_camp.gamehelp	button_0001	7df0d8b3	السابق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00469	kh3_camp.gamehelp	button_0002	6f45775d	التالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00470	kh3_camp.gamehelp	detail_0010	407f9ed2	تعرف أكثر على طريقة اللعب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00471	kh3_camp.gamehelp	detail_0020	cef09931	انتقل إلى مساعدة اللعبة.<br><color(strong)>(<icon(dlc)> المحتوى الإضافي)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

@@ -1,241 +1,241 @@
 id	namespace	key	source_hash	AR	status	note
-15913	kh3_system.general	system_0001	38503681	معلومات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15914	kh3_system.general	system_0002	2ae5996f	سؤال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15915	kh3_system.general	system_0003	9259fe0a	تم الحصول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15916	kh3_system.general	system_0004	0f8ec6b3	المستوى التالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15917	kh3_system.general	system_0006	a5870e38	تم الحصول على <color(strong)>{0}<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15918	kh3_system.general	system_0007	1d3b695d	الأغراض المكتسبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15913	kh3_system.general	system_0001	38503681	معلومات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15914	kh3_system.general	system_0002	2ae5996f	سؤال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15915	kh3_system.general	system_0003	9259fe0a	تم الحصول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15916	kh3_system.general	system_0004	0f8ec6b3	المستوى التالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15917	kh3_system.general	system_0006	a5870e38	تم الحصول على <color(strong)>{0}<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15918	kh3_system.general	system_0007	1d3b695d	الأغراض المكتسبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 15919	kh3_system.general	system_0008	4558790b		todo	skip: numbers/symbols
 15920	kh3_system.general	system_0009	fde41e6e		todo	skip: numbers/symbols
 15921	kh3_system.general	system_0010	4c46517a		todo	skip: tags/args only
-15922	kh3_system.general	system_0011	f4fa361f	لا توجد أغراض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15923	kh3_system.general	system_0013	5ef3fe94	لا توجد قدرات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15924	kh3_system.general	choice_0001	acfed7f3	نعم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15925	kh3_system.general	choice_0002	be4b781d	لا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15926	kh3_system.general	choice_0003	06f71f78	حسنا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15927	kh3_system.general	timer_0010	ae38e986	الوقت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15928	kh3_system.general	timer_0020	20b7ee65	الرقم القياسي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15929	kh3_system.general	timer_0030	ec1deefb	رقم قياسي جديد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15930	kh3_system.general	score_0010	bcd56348	النقاط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15931	kh3_system.general	score_0020	325a64ab	الرقم القياسي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15932	kh3_system.general	score_0030	fef06435	رقم قياسي جديد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15933	kh3_system.general	score_0060	b6106a51	الضربات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15934	kh3_system.general	window_0010	4b001fcb	تم الحصول على موني!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15935	kh3_system.general	window_0020	c58f1828	ارتفع المستوى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15936	kh3_system.general	window_0030	092518b6	مستوى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15937	kh3_system.general	window_0040	03e011af	مكافأة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15938	kh3_system.general	window_0050	cf4a1131	HP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15939	kh3_system.general	window_0060	41c516d2	MP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15940	kh3_system.general	window_0070	8d6f164c	خبرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15941	kh3_system.general	window_0080	544f04e0	موني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15942	kh3_system.general	window_0090	98e5047e	التالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15943	kh3_system.general	window_0100	1c0f533a	AP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15944	kh3_system.general	window_0110	d0a553a4	القوة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15945	kh3_system.general	window_0120	5e2a5447	السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15946	kh3_system.general	window_0130	928054d9	الدفاع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15947	kh3_system.general	window_0140	98455dc0	مقاومة النار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15948	kh3_system.general	window_0140_s	16e9093f	مقاومة النار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15949	kh3_system.general	window_0150	54ef5d5e	مقاومة الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15950	kh3_system.general	window_0150_s	b88198ae	مقاومة الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15951	kh3_system.general	window_0160	da605abd	مقاومة الصاعقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15952	kh3_system.general	window_0160_s	91492c5c	مقاومة الصاعقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15953	kh3_system.general	window_0170	16ca5a23	مقاومة الماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15954	kh3_system.general	window_0170_s	3f21bdcd	مقاومة الماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15955	kh3_system.general	window_0180	cfea488f	مقاومة الهواء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15956	kh3_system.general	window_0180_s	b1cbdaf7	مقاومة الهواء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15957	kh3_system.general	window_0190	03404811	مقاومة الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15958	kh3_system.general	window_0190_s	1fa34b66	مقاومة الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15959	kh3_system.general	window_0200	6b9181ca	إذا واجهت صعوبة، يمكنك تجربة الدروس متى شئت<br>باختيار <color(strong)>الدروس<color> من شاشة العنوان.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15960	kh3_system.general	window_0210	a73b8154	التركيز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15922	kh3_system.general	system_0011	f4fa361f	لا توجد أغراض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15923	kh3_system.general	system_0013	5ef3fe94	لا توجد قدرات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15924	kh3_system.general	choice_0001	acfed7f3	نعم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15925	kh3_system.general	choice_0002	be4b781d	لا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15926	kh3_system.general	choice_0003	06f71f78	حسنا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15927	kh3_system.general	timer_0010	ae38e986	الوقت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15928	kh3_system.general	timer_0020	20b7ee65	الرقم القياسي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15929	kh3_system.general	timer_0030	ec1deefb	رقم قياسي جديد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15930	kh3_system.general	score_0010	bcd56348	النقاط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15931	kh3_system.general	score_0020	325a64ab	الرقم القياسي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15932	kh3_system.general	score_0030	fef06435	رقم قياسي جديد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15933	kh3_system.general	score_0060	b6106a51	الضربات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15934	kh3_system.general	window_0010	4b001fcb	تم الحصول على موني!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15935	kh3_system.general	window_0020	c58f1828	ارتفع المستوى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15936	kh3_system.general	window_0030	092518b6	مستوى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15937	kh3_system.general	window_0040	03e011af	مكافأة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15938	kh3_system.general	window_0050	cf4a1131	HP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15939	kh3_system.general	window_0060	41c516d2	MP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15940	kh3_system.general	window_0070	8d6f164c	خبرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15941	kh3_system.general	window_0080	544f04e0	موني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15942	kh3_system.general	window_0090	98e5047e	التالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15943	kh3_system.general	window_0100	1c0f533a	AP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15944	kh3_system.general	window_0110	d0a553a4	القوة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15945	kh3_system.general	window_0120	5e2a5447	السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15946	kh3_system.general	window_0130	928054d9	الدفاع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15947	kh3_system.general	window_0140	98455dc0	مقاومة النار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15948	kh3_system.general	window_0140_s	16e9093f	مقاومة النار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15949	kh3_system.general	window_0150	54ef5d5e	مقاومة الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15950	kh3_system.general	window_0150_s	b88198ae	مقاومة الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15951	kh3_system.general	window_0160	da605abd	مقاومة الصاعقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15952	kh3_system.general	window_0160_s	91492c5c	مقاومة الصاعقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15953	kh3_system.general	window_0170	16ca5a23	مقاومة الماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15954	kh3_system.general	window_0170_s	3f21bdcd	مقاومة الماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15955	kh3_system.general	window_0180	cfea488f	مقاومة الهواء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15956	kh3_system.general	window_0180_s	b1cbdaf7	مقاومة الهواء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15957	kh3_system.general	window_0190	03404811	مقاومة الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15958	kh3_system.general	window_0190_s	1fa34b66	مقاومة الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15959	kh3_system.general	window_0200	6b9181ca	إذا واجهت صعوبة، يمكنك تجربة الدروس متى شئت<br>باختيار <color(strong)>الدروس<color> من شاشة العنوان.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15960	kh3_system.general	window_0210	a73b8154	التركيز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 15961	kh3_system.general	window_0220	29b486b7		todo	skip: numbers/symbols
 15962	kh3_system.general	window_0230	e51e8629		todo	skip: numbers/symbols
 15963	kh3_system.general	window_0240	efdb8f30		todo	skip: numbers/symbols
-15964	kh3_system.general	window_0250	23718fae	مستوى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15965	kh3_system.general	dialog_0001_xb1	b70e0f37	جار الحفظ...<br>لا تغلق جهاز PC الآن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15966	kh3_system.general	dialog_0002	2ca4cab5	الكتابة فوق بيانات الحفظ في هذه الخانة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15967	kh3_system.general	dialog_0003	9418add0	حذف بيانات الحفظ في هذه الخانة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15968	kh3_system.general	dialog_0004_xb1	9c84df28	جار الحذف...<br>لا تغلق جهاز PC الآن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15969	kh3_system.general	dialog_0005_xb1	f9e3e46e	جار فحص بيانات الحفظ...<br>لا تغلق جهاز PC الآن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15970	kh3_system.general	dialog_0006_xb1	564aa9a4	جار التحميل...<br>لا تغلق جهاز PC الآن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15971	kh3_system.general	dialog_0007_xb1	332d92e2	جار حفظ بيانات النظام...<br>لا تغلق جهاز PC الآن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15972	kh3_system.general	dialog_0008_xb1	4fb2e2c3	جار إنشاء بيانات النظام...<br>لا تغلق جهاز PC الآن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15973	kh3_system.general	dialog_0009	fba54db4	يرجى الانتظار أثناء تثبيت بيانات اللعبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15974	kh3_system.general	dialog_0010	4a0702a0	جار التثبيت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15975	kh3_system.general	dialog_0012	e00eca2b	يرجى الانتظار أثناء تثبيت بيانات اللعبة.<br>يمكنك المتابعة بعد اكتمال التثبيت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15976	kh3_system.general	dialog_0013	58b2ad4e	حذف بيانات الحفظ في هذه الخانة?<br><color(strong)>سيؤدي حذف هذه البيانات إلى تحرير مساحة تعادل {0} صورة.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15964	kh3_system.general	window_0250	23718fae	مستوى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15965	kh3_system.general	dialog_0001_xb1	b70e0f37	جار الحفظ...<br>لا تغلق جهاز PC الآن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15966	kh3_system.general	dialog_0002	2ca4cab5	الكتابة فوق بيانات الحفظ في هذه الخانة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15967	kh3_system.general	dialog_0003	9418add0	حذف بيانات الحفظ في هذه الخانة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15968	kh3_system.general	dialog_0004_xb1	9c84df28	جار الحذف...<br>لا تغلق جهاز PC الآن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15969	kh3_system.general	dialog_0005_xb1	f9e3e46e	جار فحص بيانات الحفظ...<br>لا تغلق جهاز PC الآن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15970	kh3_system.general	dialog_0006_xb1	564aa9a4	جار التحميل...<br>لا تغلق جهاز PC الآن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15971	kh3_system.general	dialog_0007_xb1	332d92e2	جار حفظ بيانات النظام...<br>لا تغلق جهاز PC الآن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15972	kh3_system.general	dialog_0008_xb1	4fb2e2c3	جار إنشاء بيانات النظام...<br>لا تغلق جهاز PC الآن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15973	kh3_system.general	dialog_0009	fba54db4	يرجى الانتظار أثناء تثبيت بيانات اللعبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15974	kh3_system.general	dialog_0010	4a0702a0	جار التثبيت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15975	kh3_system.general	dialog_0012	e00eca2b	يرجى الانتظار أثناء تثبيت بيانات اللعبة.<br>يمكنك المتابعة بعد اكتمال التثبيت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15976	kh3_system.general	dialog_0013	58b2ad4e	حذف بيانات الحفظ في هذه الخانة?<br><color(strong)>سيؤدي حذف هذه البيانات إلى تحرير مساحة تعادل {0} صورة.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 15977	kh3_system.general	general_0001	95941a1b		todo	skip: numbers/symbols
-15978	kh3_system.general	loading_0010	ee17e7a2	جار التحميل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15979	kh3_system.general	loading_0020	6098e041	<icon(Decide)> متابعة اللعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15980	kh3_system.general	levelup_0010	71d01fde	زادت القوة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15981	kh3_system.general	levelup_0020	ff5f183d	زاد الدفاع!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15982	kh3_system.general	levelup_0030	33f518a3	زاد السحر!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15983	kh3_system.general	levelup_0040	393011ba	زادت قيمة AP القصوى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15984	kh3_system.general	bonus_0010	9503c0dc	زاد HP الأقصى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15985	kh3_system.general	bonus_0020	1b8cc73f	زاد MP الأقصى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15986	kh3_system.general	bonus_0030	d726c7a1	تم فتح خانة الدروع!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15987	kh3_system.general	bonus_0040	dde3ceb8	تم فتح خانة الإكسسوارات!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15988	kh3_system.general	bonus_0050	1149ce26	تم فتح خانة الأغراض!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15978	kh3_system.general	loading_0010	ee17e7a2	جار التحميل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15979	kh3_system.general	loading_0020	6098e041	<icon(Decide)> متابعة اللعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15980	kh3_system.general	levelup_0010	71d01fde	زادت القوة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15981	kh3_system.general	levelup_0020	ff5f183d	زاد الدفاع!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15982	kh3_system.general	levelup_0030	33f518a3	زاد السحر!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15983	kh3_system.general	levelup_0040	393011ba	زادت قيمة AP القصوى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15984	kh3_system.general	bonus_0010	9503c0dc	زاد HP الأقصى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15985	kh3_system.general	bonus_0020	1b8cc73f	زاد MP الأقصى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15986	kh3_system.general	bonus_0030	d726c7a1	تم فتح خانة الدروع!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15987	kh3_system.general	bonus_0040	dde3ceb8	تم فتح خانة الإكسسوارات!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15988	kh3_system.general	bonus_0050	1149ce26	تم فتح خانة الأغراض!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 15989	kh3_system.general	bonus_0060	9fc6c9c5		todo	skip: tags/args only
 15990	kh3_system.general	bonus_0070	536cc95b		todo	skip: tags/args only
-15991	kh3_system.general	form_0010	c938ed21	شكل الضربة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15992	kh3_system.general	form_0020	47b7eac2	شكل العناصر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15993	kh3_system.general	form_0030	8b1dea5c	شكل الحارس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15994	kh3_system.general	form_0040	81d8e345	شكل الهجوم الخاطف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15995	kh3_system.general	sys_xb1_0010	a57c36b9	لم يعثر على ملف شخصي.<br>سجل الدخول قبل بدء اللعبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15996	kh3_system.general	sys_xb1_0020	2bf3315a	تعذرت المتابعة لأنك غيرت الملف الشخصي.<br>الخروج من اللعبة والعودة إلى شاشة العنوان?<br>ستفقد أي بيانات لم تحفظ.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15997	kh3_system.general	sys_xb1_0030	e75931c4	اضغط <icon(Cross)>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15998	kh3_system.general	sys_xb1_0040	ed9c38dd	تعذر العثور على وحدة التحكم.<br>اضغط <icon(Cross)>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-15999	kh3_system.general	home_0010	b0ac5d26	كينغدوم هارتس III	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16000	kh3_system.general	save_0010	fbd8e8de	كينغدوم هارتس III	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16001	kh3_system.general	save_0050	7f92e624	كينغدوم هارتس III (إصدار محدث)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16002	kh3_system.general	save_0060	f11de1c7	بيانات الحفظ (متوافقة مع الإصدار 1.04 وما بعده)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16003	kh3_system.general	save_0070	3db7e159	بيانات حفظ كينغدوم هارتس III	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16198	kh3_system.situation	save	cf25f3ff	حفظ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16199	kh3_system.situation	talk	3f78515a	تحدث	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16200	kh3_system.situation	open	3ca80ef3	فتح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16201	kh3_system.situation	check	c798f8d0	افحص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16202	kh3_system.situation	shop	56bf44c3	متجر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16203	kh3_system.situation	rescue	983f7c09	مساعدة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16204	kh3_system.situation	vehicle	77ef1aeb	اصعد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16205	kh3_system.situation	ship	90d04d44	استلم الدفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16206	kh3_system.situation	plane	241a0b25	اركب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16207	kh3_system.situation	getoff	1705d49e	اخرج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16208	kh3_system.situation	gigas_electro	b76b1cfd	تجميع المغناطيس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16209	kh3_system.situation	rail	b9de0e63	اركب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16210	kh3_system.situation	catchdoor	91874f89	احتم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16211	kh3_system.situation	returnrail	313cb213	الانزلاق على السكة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16212	kh3_system.situation	changerail	9b024ecd	تغيير السكة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16213	kh3_system.situation	planeboss	27194ec8	اركب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16214	kh3_system.situation	slideshot	cf747732	الرمية الساترة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16215	kh3_system.situation	coverslide	b806a832	الانزلاق الساتر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16216	kh3_system.situation	specialship_ragingcannon	0eb73f84	المدافع الهائجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16217	kh3_system.situation	specialship_windchaser	273c48bd	مطاردو الريح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16218	kh3_system.situation	specialship_tidalwave	eeb538aa	الموجة المدية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16219	kh3_system.situation	trick	d1843c55	أد العرض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16220	kh3_system.situation	enemyship	fd9da29c	اصعد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16221	kh3_system.situation	waterplay	c87b19d3	رذاذ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16222	kh3_system.situation	extendhand	56e814bc	مد يدك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16223	kh3_system.situation	rapunzeldance	dea89b16	عجلة الشمس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16224	kh3_system.situation	specialship_dash	4f9660c6	الريح الخلفية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16225	kh3_system.situation	swing	9b4aedb9	تأرجح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16226	kh3_system.situation	pudding	d55f33bd	بوينغ!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16227	kh3_system.situation	riskcharge	7493115e	شحنة المخاطرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16228	kh3_system.situation	unionx	0f69bb0a	اتحاد χ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16229	kh3_system.situation	ux	2f19c8ee	(اسم المستخدم)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16230	kh3_system.situation	postcard	9efd2f79	إرسال بطاقة بريدية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16231	kh3_system.situation	shex_thunder	48fc0f8d	صاعقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16232	kh3_system.situation	discension	f4559a66	العودة إلى النور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16233	kh3_system.situation	cm_finish	b8ad61f5	إنهاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16234	kh3_system.situation	lastray	20dc5749	الشعاع الأخير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16235	kh3_system.situation	roxas_slideturn	635e96bc	انعكاس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16236	kh3_system.situation	roxas_crossshoot	fe1d94f6	الرمية المزدوجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16237	kh3_system.situation	kairi_sevenheart	193606ea	الأمنيات السبع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16238	kh3_system.situation	Dispel	00bcd358	التفكيك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16239	kh3_system.situation	shootout	ed0c7267	المواجهة الحاسمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16240	kh3_system.situation	carddraw	15ac684b	سحب بطاقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16241	kh3_system.situation	linkofhearts	e6d672cf	ربط القلوب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16242	kh3_system.situation	change_dw	09305ad8	بنادق السهام المزدوجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16243	kh3_system.situation	change_hm	613bf86c	المطرقة الفائقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16244	kh3_system.situation	change_yo	7b230152	اليويو التوأم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16245	kh3_system.situation	change_bz	3d358b82	قاذف السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16246	kh3_system.situation	change_dr	3eeeaaea	لكمة المثقاب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16247	kh3_system.situation	change_sk	65818acd	نصال الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16248	kh3_system.situation	change_wa	8e766453	عصا السراب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16249	kh3_system.situation	change_sh	77342523	الدرع المضاد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16250	kh3_system.situation	change_cl	84ed835f	المخالب الرشيقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16251	kh3_system.situation	change_cl_fz	7e75abb7	مخالب الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16252	kh3_system.situation	change_hl	d9879f09	هايويند	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16253	kh3_system.situation	change_fl	cc0d8d3b	راية العاصفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16254	kh3_system.situation	change_l1	64aa468c	الشكل الثاني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16255	kh3_system.situation	change_l2	761fe962	الشكل الثاني S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16256	kh3_system.situation	change_l3	cea38e07	الشكل الثاني M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16257	kh3_system.situation	change_l4	5374b6be	الشكل الثاني P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16258	kh3_system.situation	change_l5	ebc8d1db	الشكل الثاني E	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16259	kh3_system.situation	change_l6	f97d7e35	الشكل الثاني D	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16260	kh3_system.situation	change_hm_tr	1945bfe7	مطرقة الانفجار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16261	kh3_system.situation	change_dr_tr	a2bedba8	مثقاب الساعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16262	kh3_system.situation	change_dw_po	fede8706	مفجرات العسل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16263	kh3_system.situation	change_bz_po	73b7588a	قاذف العسل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16264	kh3_system.situation	change_sh_rm	7fbd1ce2	المقلاة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16265	kh3_system.situation	change_un	94307378	شكل الغضب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16266	kh3_system.situation	change_gm	b81beac0	أذرع النانو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16267	kh3_system.situation	change_uf	51845b97	الشكل الأقصى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16268	kh3_system.situation	change_lf	32707197	شكل النور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16269	kh3_system.situation	change_df	e1956a22	شكل الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16270	kh3_system.situation	change_tf	9d2e5b09	الشكل المزدوج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16271	kh3_system.situation	change_tf_yo	49189807	الشكل المزدوج OKP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16272	kh3_system.situation	change_tf_sh	450fbc76	الشكل المزدوج OBV	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16273	kh3_system.situation	change_finish	9ea96e95	إنهاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16274	kh3_system.situation	lm_stunimpact	d914c420	صدمة الإذهال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16275	kh3_system.situation	lm_sonicrave	3d1c7a75	نصل الرنين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16276	kh3_system.situation	lm_lastarcanum	94143568	آرس أركانوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16277	kh3_system.situation	lmex_rave	2958a929	حفلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16278	kh3_system.situation	lmex_slash	4aec8c5b	الهجوم الخاطف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16279	kh3_system.situation	lmex_finish	bae16559	الانفجار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16280	kh3_system.situation	lmex_break	26c576ca	الكبس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16281	kh3_system.situation	lmex_theend	8b6f1053	إنهاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16282	kh3_system.situation	lmex_ux	9ec39232	النور القديم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16283	kh3_system.situation	sc_mw	8cde5c38	ناسج التعاويذ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16284	kh3_system.situation	af_vikingship	78f2d5fb	سفينة القراصنة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16285	kh3_system.situation	af_jetcoaster_bm	3453eb09	قطار الجبل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16286	kh3_system.situation	af_merrygoround	28d9868d	الدوامة السحرية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16287	kh3_system.situation	af_teacup	214f8500	أكواب الشاي المجنونة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16288	kh3_system.situation	af_waterride	b574025b	جري الرذاذ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16289	kh3_system.situation	af_shootingride	d56a298c	لهيب المفجر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16290	kh3_system.situation	af_finish	6336f275	إنهاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16291	kh3_system.situation	dm_wandanyan	83671905	منطاد مياو واو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16292	kh3_system.situation	dm_ralph	2147fc86	انفجار 8 بت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16293	kh3_system.situation	dm_simba	ef006d3c	فلاير الملك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16294	kh3_system.situation	dm_stitch	36374e1d	مواجهة البلازما	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16295	kh3_system.situation	dm_ariel	825d4f0d	مشهد البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16296	kh3_system.situation	dm_finish	e41d429c	إنهاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16297	kh3_system.situation	fr_donald	e70c1ec4	نار التناغم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16298	kh3_system.situation	fr_donald2	062a20ca	جليد التناغم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16299	kh3_system.situation	fr_donald3	be9647af	صاعقة التناغم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16300	kh3_system.situation	fr_goofy	c55a6ccf	دوران الاندماج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16301	kh3_system.situation	fr_goofy2	bfdfa0c3	صاروخ الاندماج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16302	kh3_system.situation	fr_shieldguardian	c159983b	حماية ترينتي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16303	kh3_system.situation	fr_mountcurling	eb4977e4	زلاجة ترينتي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16304	kh3_system.situation	fr_goofyshoot	aea05835	غوفي القاذف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16305	kh3_system.situation	fr_mikebowling	a049d5a0	ضربة الصراخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16306	kh3_system.situation	fr_jackspin	fde4bc31	لا تخف أبدا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16307	kh3_system.situation	fr_powerfstrike	b4fabebd	التأرجح البطولي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16308	kh3_system.situation	fr_giantsoldier	a1c0853a	الانهيار الجليدي العظيم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16309	kh3_system.situation	fr_rocketlaser	4a3e13f3	ضجة الصاروخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16310	kh3_system.situation	fr_spinninghold	6de60892	التواء متشابك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16311	kh3_system.situation	fr_snowcoverswing	32613849	سوط الشجرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16312	kh3_system.situation	fr_callmeteor	fc4bca2c	نيزك دونالد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16313	kh3_system.situation	fr_flareforce	0dbf2077	قوة الفلاير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16314	kh3_system.situation	fr_sora	c870a3b1	سورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16315	kh3_system.situation	fr_bighero6	44ab5437	جناح المتعقب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16316	kh3_system.situation	fr_icerevenger	bdb0e86e	الصدمة تحت الصفر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16317	kh3_system.situation	fr_trinity	9f93114f	ترينتي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16318	kh3_system.situation	fr_finish	5355a5df	إنهاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16319	kh3_system.situation	fr_dualbreaker	7d2bc499	المبارزة المزدوجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16320	kh3_system.situation	fr_bxfinish	9d941821	ضربة السماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16321	kh3_system.situation	fr_poppingholy	fded1276	وابل الإيمان	reviewed	context: Faith (glossary item name) is a command word here; GLOSS flag expected; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16322	kh3_system.situation	fr_blizzagaboard	88242f3c	المنزلق الجليدي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16323	kh3_system.situation	fr_thinkofyou	8610cbd3	أفكر فيك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16324	kh3_system.situation	fr_ultimateend	cb9847c1	النهاية الحقيقية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16325	kh3_system.situation	fr_promisewings	2c4f1676	قلب واحد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15991	kh3_system.general	form_0010	c938ed21	شكل الضربة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15992	kh3_system.general	form_0020	47b7eac2	شكل العناصر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15993	kh3_system.general	form_0030	8b1dea5c	شكل الحارس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15994	kh3_system.general	form_0040	81d8e345	شكل الهجوم الخاطف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15995	kh3_system.general	sys_xb1_0010	a57c36b9	لم يعثر على ملف شخصي.<br>سجل الدخول قبل بدء اللعبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15996	kh3_system.general	sys_xb1_0020	2bf3315a	تعذرت المتابعة لأنك غيرت الملف الشخصي.<br>الخروج من اللعبة والعودة إلى شاشة العنوان?<br>ستفقد أي بيانات لم تحفظ.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15997	kh3_system.general	sys_xb1_0030	e75931c4	اضغط <icon(Cross)>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15998	kh3_system.general	sys_xb1_0040	ed9c38dd	تعذر العثور على وحدة التحكم.<br>اضغط <icon(Cross)>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15999	kh3_system.general	home_0010	b0ac5d26	كينغدوم هارتس III	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16000	kh3_system.general	save_0010	fbd8e8de	كينغدوم هارتس III	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16001	kh3_system.general	save_0050	7f92e624	كينغدوم هارتس III (إصدار محدث)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16002	kh3_system.general	save_0060	f11de1c7	بيانات الحفظ (متوافقة مع الإصدار 1.04 وما بعده)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16003	kh3_system.general	save_0070	3db7e159	بيانات حفظ كينغدوم هارتس III	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16198	kh3_system.situation	save	cf25f3ff	حفظ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16199	kh3_system.situation	talk	3f78515a	تحدث	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16200	kh3_system.situation	open	3ca80ef3	فتح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16201	kh3_system.situation	check	c798f8d0	افحص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16202	kh3_system.situation	shop	56bf44c3	متجر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16203	kh3_system.situation	rescue	983f7c09	مساعدة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16204	kh3_system.situation	vehicle	77ef1aeb	اصعد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16205	kh3_system.situation	ship	90d04d44	استلم الدفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16206	kh3_system.situation	plane	241a0b25	اركب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16207	kh3_system.situation	getoff	1705d49e	اخرج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16208	kh3_system.situation	gigas_electro	b76b1cfd	تجميع المغناطيس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16209	kh3_system.situation	rail	b9de0e63	اركب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16210	kh3_system.situation	catchdoor	91874f89	احتم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16211	kh3_system.situation	returnrail	313cb213	الانزلاق على السكة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16212	kh3_system.situation	changerail	9b024ecd	تغيير السكة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16213	kh3_system.situation	planeboss	27194ec8	اركب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16214	kh3_system.situation	slideshot	cf747732	الرمية الساترة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16215	kh3_system.situation	coverslide	b806a832	الانزلاق الساتر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16216	kh3_system.situation	specialship_ragingcannon	0eb73f84	المدافع الهائجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16217	kh3_system.situation	specialship_windchaser	273c48bd	مطاردو الريح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16218	kh3_system.situation	specialship_tidalwave	eeb538aa	الموجة المدية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16219	kh3_system.situation	trick	d1843c55	أد العرض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16220	kh3_system.situation	enemyship	fd9da29c	اصعد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16221	kh3_system.situation	waterplay	c87b19d3	رذاذ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16222	kh3_system.situation	extendhand	56e814bc	مد يدك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16223	kh3_system.situation	rapunzeldance	dea89b16	عجلة الشمس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16224	kh3_system.situation	specialship_dash	4f9660c6	الريح الخلفية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16225	kh3_system.situation	swing	9b4aedb9	تأرجح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16226	kh3_system.situation	pudding	d55f33bd	بوينغ!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16227	kh3_system.situation	riskcharge	7493115e	شحنة المخاطرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16228	kh3_system.situation	unionx	0f69bb0a	اتحاد χ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16229	kh3_system.situation	ux	2f19c8ee	(اسم المستخدم)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16230	kh3_system.situation	postcard	9efd2f79	إرسال بطاقة بريدية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16231	kh3_system.situation	shex_thunder	48fc0f8d	صاعقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16232	kh3_system.situation	discension	f4559a66	العودة إلى النور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16233	kh3_system.situation	cm_finish	b8ad61f5	إنهاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16234	kh3_system.situation	lastray	20dc5749	الشعاع الأخير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16235	kh3_system.situation	roxas_slideturn	635e96bc	انعكاس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16236	kh3_system.situation	roxas_crossshoot	fe1d94f6	الرمية المزدوجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16237	kh3_system.situation	kairi_sevenheart	193606ea	الأمنيات السبع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16238	kh3_system.situation	Dispel	00bcd358	التفكيك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16239	kh3_system.situation	shootout	ed0c7267	المواجهة الحاسمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16240	kh3_system.situation	carddraw	15ac684b	سحب بطاقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16241	kh3_system.situation	linkofhearts	e6d672cf	ربط القلوب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16242	kh3_system.situation	change_dw	09305ad8	بنادق السهام المزدوجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16243	kh3_system.situation	change_hm	613bf86c	المطرقة الفائقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16244	kh3_system.situation	change_yo	7b230152	اليويو التوأم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16245	kh3_system.situation	change_bz	3d358b82	قاذف السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16246	kh3_system.situation	change_dr	3eeeaaea	لكمة المثقاب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16247	kh3_system.situation	change_sk	65818acd	نصال الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16248	kh3_system.situation	change_wa	8e766453	عصا السراب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16249	kh3_system.situation	change_sh	77342523	الدرع المضاد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16250	kh3_system.situation	change_cl	84ed835f	المخالب الرشيقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16251	kh3_system.situation	change_cl_fz	7e75abb7	مخالب الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16252	kh3_system.situation	change_hl	d9879f09	هايويند	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16253	kh3_system.situation	change_fl	cc0d8d3b	علم العاصفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16254	kh3_system.situation	change_l1	64aa468c	الشكل الثاني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16255	kh3_system.situation	change_l2	761fe962	الشكل الثاني S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16256	kh3_system.situation	change_l3	cea38e07	الشكل الثاني M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16257	kh3_system.situation	change_l4	5374b6be	الشكل الثاني P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16258	kh3_system.situation	change_l5	ebc8d1db	الشكل الثاني E	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16259	kh3_system.situation	change_l6	f97d7e35	الشكل الثاني D	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16260	kh3_system.situation	change_hm_tr	1945bfe7	مطرقة الانفجار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16261	kh3_system.situation	change_dr_tr	a2bedba8	مثقاب الساعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16262	kh3_system.situation	change_dw_po	fede8706	مفجرات العسل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16263	kh3_system.situation	change_bz_po	73b7588a	قاذف العسل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16264	kh3_system.situation	change_sh_rm	7fbd1ce2	المقلاة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16265	kh3_system.situation	change_un	94307378	شكل الغضب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16266	kh3_system.situation	change_gm	b81beac0	الأذرع النانوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16267	kh3_system.situation	change_uf	51845b97	الشكل الأقصى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16268	kh3_system.situation	change_lf	32707197	شكل النور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16269	kh3_system.situation	change_df	e1956a22	شكل الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16270	kh3_system.situation	change_tf	9d2e5b09	الشكل المزدوج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16271	kh3_system.situation	change_tf_yo	49189807	الشكل المزدوج OKP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16272	kh3_system.situation	change_tf_sh	450fbc76	الشكل المزدوج OBV	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16273	kh3_system.situation	change_finish	9ea96e95	إنهاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16274	kh3_system.situation	lm_stunimpact	d914c420	صدمة الإذهال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16275	kh3_system.situation	lm_sonicrave	3d1c7a75	نصل الرنين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16276	kh3_system.situation	lm_lastarcanum	94143568	آرس أركانوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16277	kh3_system.situation	lmex_rave	2958a929	حفلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16278	kh3_system.situation	lmex_slash	4aec8c5b	الهجوم الخاطف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16279	kh3_system.situation	lmex_finish	bae16559	الانفجار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16280	kh3_system.situation	lmex_break	26c576ca	الكبس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16281	kh3_system.situation	lmex_theend	8b6f1053	إنهاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16282	kh3_system.situation	lmex_ux	9ec39232	النور القديم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16283	kh3_system.situation	sc_mw	8cde5c38	ناسج التعاويذ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16284	kh3_system.situation	af_vikingship	78f2d5fb	سفينة القراصنة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16285	kh3_system.situation	af_jetcoaster_bm	3453eb09	قطار الجبل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16286	kh3_system.situation	af_merrygoround	28d9868d	الدوامة السحرية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16287	kh3_system.situation	af_teacup	214f8500	أكواب الشاي المجنونة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16288	kh3_system.situation	af_waterride	b574025b	جري الرذاذ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16289	kh3_system.situation	af_shootingride	d56a298c	لهيب المفجر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16290	kh3_system.situation	af_finish	6336f275	إنهاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16291	kh3_system.situation	dm_wandanyan	83671905	منطاد مياو واو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16292	kh3_system.situation	dm_ralph	2147fc86	انفجار 8 بت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16293	kh3_system.situation	dm_simba	ef006d3c	فلاير الملك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16294	kh3_system.situation	dm_stitch	36374e1d	مواجهة البلازما	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16295	kh3_system.situation	dm_ariel	825d4f0d	مشهد البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16296	kh3_system.situation	dm_finish	e41d429c	إنهاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16297	kh3_system.situation	fr_donald	e70c1ec4	نار التناغم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16298	kh3_system.situation	fr_donald2	062a20ca	جليد التناغم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16299	kh3_system.situation	fr_donald3	be9647af	صاعقة التناغم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16300	kh3_system.situation	fr_goofy	c55a6ccf	دوران الاندماج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16301	kh3_system.situation	fr_goofy2	bfdfa0c3	صاروخ الاندماج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16302	kh3_system.situation	fr_shieldguardian	c159983b	حماية ترينتي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16303	kh3_system.situation	fr_mountcurling	eb4977e4	زلاجة ترينتي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16304	kh3_system.situation	fr_goofyshoot	aea05835	غوفي القاذف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16305	kh3_system.situation	fr_mikebowling	a049d5a0	ضربة الصراخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16306	kh3_system.situation	fr_jackspin	fde4bc31	لا تخف أبدا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16307	kh3_system.situation	fr_powerfstrike	b4fabebd	التأرجح البطولي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16308	kh3_system.situation	fr_giantsoldier	a1c0853a	الانهيار الجليدي العظيم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16309	kh3_system.situation	fr_rocketlaser	4a3e13f3	ضجة الصاروخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16310	kh3_system.situation	fr_spinninghold	6de60892	التواء متشابك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16311	kh3_system.situation	fr_snowcoverswing	32613849	سوط الشجرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16312	kh3_system.situation	fr_callmeteor	fc4bca2c	نيزك دونالد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16313	kh3_system.situation	fr_flareforce	0dbf2077	قوة الفلاير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16314	kh3_system.situation	fr_sora	c870a3b1	سورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16315	kh3_system.situation	fr_bighero6	44ab5437	جناح المتعقب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16316	kh3_system.situation	fr_icerevenger	bdb0e86e	الصدمة تحت الصفر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16317	kh3_system.situation	fr_trinity	9f93114f	ترينتي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16318	kh3_system.situation	fr_finish	5355a5df	إنهاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16319	kh3_system.situation	fr_dualbreaker	7d2bc499	المبارزة المزدوجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16320	kh3_system.situation	fr_bxfinish	9d941821	ضربة السماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16321	kh3_system.situation	fr_poppingholy	fded1276	وابل الإيمان	reviewed	context: Faith (glossary item name) is a command word here; GLOSS flag expected; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16322	kh3_system.situation	fr_blizzagaboard	88242f3c	المنزلق الجليدي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16323	kh3_system.situation	fr_thinkofyou	8610cbd3	أفكر بك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16324	kh3_system.situation	fr_ultimateend	cb9847c1	النهاية الحقيقية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16325	kh3_system.situation	fr_promisewings	2c4f1676	قلب واحد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 16326	kh3_system.cockpit	cockpit_0001	99e9ac35		todo	skip: numbers/symbols
-16327	kh3_system.cockpit	cockpit_0003	33e064be	هجوم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16328	kh3_system.cockpit	cockpit_0004	ae375c07	غوص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16329	kh3_system.cockpit	cockpit_0005	168b3b62	في الانتظار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16330	kh3_system.cockpit	cockpit_0006	043e948c	تفاد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16331	kh3_system.cockpit	cockpit_0007	bc82f3e9	أطلق!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16332	kh3_system.cockpit	cockpit_0008	e4e1e3bf	الآن!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16333	kh3_system.cockpit	cockpit_0009	5c5d84da	ادفع!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16334	kh3_system.cockpit	shoot_0001	335fe428	تثبيت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16335	kh3_system.cockpit	gage_0010	3823fed8	قوة الضحك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16336	kh3_system.cockpit	gage_0030	7a06f9a5	UFO	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16337	kh3_system.cockpit	gage_0040	70c3f0bc	هياج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16338	kh3_system.cockpit	gage_0050	bc69f022	الأعداء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16339	kh3_system.cockpit	gage_0070	fe4cf75f	الضرر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16340	kh3_system.cockpit	count_0020	a6ac0e12	السراطين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16341	kh3_system.cockpit	count_0030	6a060e8c	المكونات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16342	kh3_system.cockpit	count_0040	60c30795	سورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-16343	kh3_system.cockpit	count_0050	ac69070b	الصور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16327	kh3_system.cockpit	cockpit_0003	33e064be	هجوم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16328	kh3_system.cockpit	cockpit_0004	ae375c07	غوص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16329	kh3_system.cockpit	cockpit_0005	168b3b62	في الانتظار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16330	kh3_system.cockpit	cockpit_0006	043e948c	تفاد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16331	kh3_system.cockpit	cockpit_0007	bc82f3e9	أطلق!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16332	kh3_system.cockpit	cockpit_0008	e4e1e3bf	الآن!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16333	kh3_system.cockpit	cockpit_0009	5c5d84da	ادفع!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16334	kh3_system.cockpit	shoot_0001	335fe428	تثبيت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16335	kh3_system.cockpit	gage_0010	3823fed8	قوة الضحك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16336	kh3_system.cockpit	gage_0030	7a06f9a5	UFO	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16337	kh3_system.cockpit	gage_0040	70c3f0bc	هياج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16338	kh3_system.cockpit	gage_0050	bc69f022	الأعداء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16339	kh3_system.cockpit	gage_0070	fe4cf75f	الضرر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16340	kh3_system.cockpit	count_0020	a6ac0e12	السراطين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16341	kh3_system.cockpit	count_0030	6a060e8c	المكونات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16342	kh3_system.cockpit	count_0040	60c30795	سورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16343	kh3_system.cockpit	count_0050	ac69070b	الصور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 16344	kh3_system.cockpit	pop_0010	4b5f7a2c	p	reviewed	
 17095	kh3_system.button	button_0011	b15ad82d		todo	skip: tags/args only
 17096	kh3_system.button	button_001	aacf8682		todo	skip: tags/args only

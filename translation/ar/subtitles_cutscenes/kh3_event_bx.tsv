@@ -1,138 +1,138 @@
 id	namespace	key	source_hash	AR	status	note
-00897	kh3_event_bx.bx551a	bx5510030sr0	cb22f64e	رائع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00898	kh3_event_bx.bx551a	bx5510040do0	b5587054	هيا، لنذهب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00899	kh3_event_bx.bx551a	bx5510050sr0	4f016b9b	أوه، لكنني أريد أن ألقي نظرة على المدينة الكبيرة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00900	kh3_event_bx.bx551a	bx5510060go0	0808d428	نعم، تبدو مثيرة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00901	kh3_event_bx.bx551a	bx5510070sr0_1	487cf778	أشعر أنني رجل مدينة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00902	kh3_event_bx.bx551a	bx5510070sr0_2	5ac95896	أقصد، رجل عالمي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00903	kh3_event_bx.bx551a	bx5510080do0	666e4dbf	بل رجل ريفي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00904	kh3_event_bx.bx551a	bx5510110do0	1ff7c56c	والآن ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00905	kh3_event_bx.bx551a	bx5510120sr0	2f60a82f	يجب أن أخبر ريكو كم هذا المكان رائع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00906	kh3_event_bx.bx551a	bx5510130go0	a2a76110	لكننا وصلنا للتو.<br>لم نفعل أي شيء بعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00907	kh3_event_bx.bx551a	bx5510140do0	347d1573	رائع? سأريك ما هو الرائع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00908	kh3_event_bx.bx551a	bx5510180go0	90d5fa68	بلا قلب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00909	kh3_event_bx.bx551a	bx5510190sr0	1d123357	هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00910	kh3_event_bx.bx551a	bx5510210hr0	a55d053f	غو غو! هل أنت بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00911	kh3_event_bx.bx551a	bx5510230sr0	12193a41	ما هذا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00912	kh3_event_bx.bx551a	bx5510240hr0	8ed7d520	غو غو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00913	kh3_event_bx.bx551a	bx5510250hr0	ebb0ee66	بايماكس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00914	kh3_event_bx.bx551a	bx5510260bx0_1	001e2d3f	بدلة غو غو حمتها من إصابة خطيرة،<br>لكن الضربة التي تلقتها على رأسها	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00915	kh3_event_bx.bx551a	bx5510260bx0_1b	fcf7e20f	سببت ارتجاجا خفيفا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00916	kh3_event_bx.bx551a	bx5510260bx0_2	12ab82d1	يجب أن نتوخى الحذر وألا نحركها<br>حتى نثبت رأسها تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00917	kh3_event_bx.bx551a	bx5510270hr0	217e98ea	فهمت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00918	kh3_event_bx.bx551a	bx5510280sr0	206ba139	رائع! هذا روبوت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00919	kh3_event_bx.bx551a	bx5510290bx0	43712724	مرحبا. أنا بايماكس، رفيقك الشخصي للرعاية الصحية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00920	kh3_event_bx.bx551a	bx5510300sr0	3c9512ac	هذا مذهل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00921	kh3_event_bx.bx551a	bx5510310go0	b152db93	آه، سورا. أتذكر مشكلتنا الأخرى?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00922	kh3_event_bx.bx551a	bx5510320do0	696544a9	بلا قلب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00923	kh3_event_bx.bx551a	bx5510330sr0	933c5f66	أوبس! آه صحيح!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00924	kh3_event_bx.bx551a	bx5510340hr0	0ff2b007	مهلا! من أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00925	kh3_event_bx.bx551a	bx5510350sr0	171fc2b3	أنا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00926	kh3_event_bx.bx551a	bx5510360do0	2788aff0	دونالد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00927	kh3_event_bx.bx551a	bx5510370go0	35714646	وأنا غوفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00928	kh3_event_bx.bx551a	bx5510390hr0	b9a3b6aa	اسمي هيرو. هل... تمانعون مساعدتنا<br>في قتال تلك الأشياء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00929	kh3_event_bx.bx551a	bx5510400hr0	70076c29	فريقنا اسمه الأبطال الستة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00930	kh3_event_bx.bx551a	bx5510410sr0	68ea1e9d	بالتأكيد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00931	kh3_event_bx.bx551a	bx5510430hr0	dfae21e3	لنذهب يا بايماكس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00897	kh3_event_bx.bx551a	bx5510030sr0	cb22f64e	رائع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00898	kh3_event_bx.bx551a	bx5510040do0	b5587054	هيا، لنذهب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00899	kh3_event_bx.bx551a	bx5510050sr0	4f016b9b	أوه، لكنني أريد أن ألقي نظرة على المدينة الكبيرة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00900	kh3_event_bx.bx551a	bx5510060go0	0808d428	نعم، تبدو مثيرة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00901	kh3_event_bx.bx551a	bx5510070sr0_1	487cf778	أشعر أنني رجل مدينة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00902	kh3_event_bx.bx551a	bx5510070sr0_2	5ac95896	أقصد، رجل عالمي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00903	kh3_event_bx.bx551a	bx5510080do0	666e4dbf	بل رجل ريفي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00904	kh3_event_bx.bx551a	bx5510110do0	1ff7c56c	والآن ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00905	kh3_event_bx.bx551a	bx5510120sr0	2f60a82f	يجب أن أخبر ريكو كم هذا المكان رائع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00906	kh3_event_bx.bx551a	bx5510130go0	a2a76110	لكننا وصلنا للتو.<br>لم نفعل أي شيء بعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00907	kh3_event_bx.bx551a	bx5510140do0	347d1573	رائع? سأريك ما هو الرائع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00908	kh3_event_bx.bx551a	bx5510180go0	90d5fa68	بلا قلب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00909	kh3_event_bx.bx551a	bx5510190sr0	1d123357	هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00910	kh3_event_bx.bx551a	bx5510210hr0	a55d053f	غو غو! هل أنت بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00911	kh3_event_bx.bx551a	bx5510230sr0	12193a41	ما هذا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00912	kh3_event_bx.bx551a	bx5510240hr0	8ed7d520	غو غو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00913	kh3_event_bx.bx551a	bx5510250hr0	ebb0ee66	بايماكس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00914	kh3_event_bx.bx551a	bx5510260bx0_1	001e2d3f	بدلة غو غو حمتها من إصابة خطيرة،<br>لكن الضربة التي تلقتها على رأسها	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00915	kh3_event_bx.bx551a	bx5510260bx0_1b	fcf7e20f	سببت ارتجاجا خفيفا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00916	kh3_event_bx.bx551a	bx5510260bx0_2	12ab82d1	يجب أن نتوخى الحذر وألا نحركها<br>حتى نثبت رأسها تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00917	kh3_event_bx.bx551a	bx5510270hr0	217e98ea	فهمت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00918	kh3_event_bx.bx551a	bx5510280sr0	206ba139	رائع! هذا روبوت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00919	kh3_event_bx.bx551a	bx5510290bx0	43712724	مرحبا. أنا بايماكس، رفيقك الشخصي للرعاية الصحية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00920	kh3_event_bx.bx551a	bx5510300sr0	3c9512ac	هذا مذهل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00921	kh3_event_bx.bx551a	bx5510310go0	b152db93	آه، سورا. أتذكر مشكلتنا الأخرى?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00922	kh3_event_bx.bx551a	bx5510320do0	696544a9	بلا قلب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00923	kh3_event_bx.bx551a	bx5510330sr0	933c5f66	أوبس! آه صحيح!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00924	kh3_event_bx.bx551a	bx5510340hr0	0ff2b007	مهلا! من أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00925	kh3_event_bx.bx551a	bx5510350sr0	171fc2b3	أنا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00926	kh3_event_bx.bx551a	bx5510360do0	2788aff0	دونالد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00927	kh3_event_bx.bx551a	bx5510370go0	35714646	وأنا غوفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00928	kh3_event_bx.bx551a	bx5510390hr0	b9a3b6aa	اسمي هيرو. هل... تمانعون مساعدتنا<br>في قتال تلك الأشياء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00929	kh3_event_bx.bx551a	bx5510400hr0	70076c29	فريقنا اسمه الأبطال الستة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00930	kh3_event_bx.bx551a	bx5510410sr0	68ea1e9d	بالتأكيد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00931	kh3_event_bx.bx551a	bx5510430hr0	dfae21e3	لنذهب يا بايماكس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00932	kh3_event_bx.bx551a	bx_worldname	8a1a2d0e		todo	
-00933	kh3_event_bx.bx552a	bx5520010gg0	f3b661b1	هذا ليس لطيفا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00934	kh3_event_bx.bx552a	bx5520020hl0	73e1af5c	الناس يحبون الإثارة، لا الحقيقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00935	kh3_event_bx.bx552a	bx5520030wa0	f30ff346	نعم، من يحتاج إلى صحافة جيدة<br>حين يمكنك أن تختلق الأخبار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00936	kh3_event_bx.bx552a	bx5520040fr0_1	ab523bed	لا أفهم. أعني، ألم يروا<br>كم كنا رائعين?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00937	kh3_event_bx.bx552a	bx5520040fr0_2	b9e79403	صحيح أن تلك الأشياء سددت بضع ضربات جيدة،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00938	kh3_event_bx.bx552a	bx5520040fr0_3	015bf366	لكن كانت لدينا كرات كيميائية، وأيد ليزرية،<br>ونفث النار!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00939	kh3_event_bx.bx552a	bx5520050hl0	92a509cf	الأمر لم يهم حقا. لقد هزمونا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00940	kh3_event_bx.bx552a	bx5520060gg0	12f2c722	من أين جاؤوا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00941	kh3_event_bx.bx552a	bx5520070wa0	bde2181f	لم لا نسأل الرجال...<br>الذين أوقفوهم فعلا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00942	kh3_event_bx.bx552a	bx5520110hl0	5d6d87b1	هيرو، لم تعرفنا ببعض.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00943	kh3_event_bx.bx552a	bx5520120hr0	9bf5e962	آه، صحيح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00944	kh3_event_bx.bx552a	bx5520120hr1	23498e07	حسنا، آه، هذه... العصابة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00945	kh3_event_bx.bx552a	bx5520130hr0	fe92d224	هذه غو غو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00946	kh3_event_bx.bx552a	bx5520140hr0	1fd674b7	وهذا واسابي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00947	kh3_event_bx.bx552a	bx5520150wa0	f6090bb4	كيف الحال?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00948	kh3_event_bx.bx552a	bx5520160hr0	d518023b	وتلك هوني ليمون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00949	kh3_event_bx.bx552a	bx5520170hl0	d94e1a64	مرحبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00950	kh3_event_bx.bx552a	bx5520180sr0	b16a00ae	ما—?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00951	kh3_event_bx.bx552a	bx5520190fr0	40b6a104	أنا فريد. لا تفزعوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00952	kh3_event_bx.bx552a	bx5520190fr1	f80ac661	هذا ليس جسدي الحقيقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00953	kh3_event_bx.bx552a	bx5520200sr0	74af7f34	جيد. للحظة ظننت أن هذا<br>هو الوحش الذي—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00954	kh3_event_bx.bx552a	bx5520210hr0	6c420d80	هؤلاء الثلاثة سورا ودونالد<br>وغوفي، فريق... آه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00955	kh3_event_bx.bx552a	bx5520230sr0	db0632fe	أبطال الكيبلايد الثلاثة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00956	kh3_event_bx.bx552a	bx5520240bx0_1	29c9678d	أرصد انقباضات دقيقة<br>في وجوهكم وأكتافكم،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00957	kh3_event_bx.bx552a	bx5520240bx0_2	3b7cc863	ربما بسبب برودة المرآب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00958	kh3_event_bx.bx552a	bx5520240bx0_2b	34c5a05f	لعلاج ذلك، سأعانق كل واحد منكم<br>وأدفئكم بمصدر حرارتي الداخلي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00933	kh3_event_bx.bx552a	bx5520010gg0	f3b661b1	هذا ليس لطيفا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00934	kh3_event_bx.bx552a	bx5520020hl0	73e1af5c	الناس يحبون الإثارة، لا الحقيقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00935	kh3_event_bx.bx552a	bx5520030wa0	f30ff346	نعم، من يحتاج إلى صحافة جيدة<br>حين يمكنك أن تختلق الأخبار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00936	kh3_event_bx.bx552a	bx5520040fr0_1	ab523bed	لا أفهم. أعني، ألم يروا<br>كم كنا رائعين?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00937	kh3_event_bx.bx552a	bx5520040fr0_2	b9e79403	صحيح أن تلك الأشياء سددت بضع ضربات جيدة،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00938	kh3_event_bx.bx552a	bx5520040fr0_3	015bf366	لكن كانت لدينا كرات كيميائية، وأيد ليزرية،<br>ونفث النار!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00939	kh3_event_bx.bx552a	bx5520050hl0	92a509cf	الأمر لم يهم حقا. لقد هزمونا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00940	kh3_event_bx.bx552a	bx5520060gg0	12f2c722	من أين جاؤوا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00941	kh3_event_bx.bx552a	bx5520070wa0	bde2181f	لم لا نسأل الرجال...<br>الذين أوقفوهم فعلا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00942	kh3_event_bx.bx552a	bx5520110hl0	5d6d87b1	هيرو، لم تعرفنا ببعض.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00943	kh3_event_bx.bx552a	bx5520120hr0	9bf5e962	آه، صحيح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00944	kh3_event_bx.bx552a	bx5520120hr1	23498e07	حسنا، آه، هذه... العصابة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00945	kh3_event_bx.bx552a	bx5520130hr0	fe92d224	هذه غو غو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00946	kh3_event_bx.bx552a	bx5520140hr0	1fd674b7	وهذا واسابي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00947	kh3_event_bx.bx552a	bx5520150wa0	f6090bb4	كيف الحال?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00948	kh3_event_bx.bx552a	bx5520160hr0	d518023b	وتلك هوني ليمون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00949	kh3_event_bx.bx552a	bx5520170hl0	d94e1a64	مرحبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00950	kh3_event_bx.bx552a	bx5520180sr0	b16a00ae	ما—?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00951	kh3_event_bx.bx552a	bx5520190fr0	40b6a104	أنا فريد. لا تفزعوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00952	kh3_event_bx.bx552a	bx5520190fr1	f80ac661	هذا ليس جسدي الحقيقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00953	kh3_event_bx.bx552a	bx5520200sr0	74af7f34	جيد. للحظة ظننت أن هذا<br>هو الوحش الذي—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00954	kh3_event_bx.bx552a	bx5520210hr0	6c420d80	هؤلاء الثلاثة سورا ودونالد<br>وغوفي، فريق... آه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00955	kh3_event_bx.bx552a	bx5520230sr0	db0632fe	أبطال الكيبلايد الثلاثة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00956	kh3_event_bx.bx552a	bx5520240bx0_1	29c9678d	أرصد انقباضات دقيقة<br>في وجوهكم وأكتافكم،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00957	kh3_event_bx.bx552a	bx5520240bx0_2	3b7cc863	ربما بسبب برودة المرآب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00958	kh3_event_bx.bx552a	bx5520240bx0_2b	34c5a05f	لعلاج ذلك، سأعانق كل واحد منكم<br>وأدفئكم بمصدر حرارتي الداخلي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00959	kh3_event_bx.bx552a	bx5520240bx0_2c	8c79c73a		todo	
-00960	kh3_event_bx.bx552a	bx5520250do0	c01b8fa2	مهلا، لماذا قلت <i(on)>ذلك?!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00961	kh3_event_bx.bx552a	bx5520260go0	182c1098	سورا، أنت تعرف أنني أنا ودونالد لا نملك كيبلايدات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00962	kh3_event_bx.bx552a	bx5520270sr0	95ebd9a7	وماذا في ذلك? أنحن أبطال أم لا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00963	kh3_event_bx.bx552a	bx5520280do0	764a890f	لسنا كذلك هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00964	kh3_event_bx.bx552a	bx5520290gg0	b7567b0c	الوحوش. أخبرونا كيف<br>تمكنتم من هزيمتها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00960	kh3_event_bx.bx552a	bx5520250do0	c01b8fa2	مهلا، لماذا قلت <i(on)>ذلك?!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00961	kh3_event_bx.bx552a	bx5520260go0	182c1098	سورا، أنت تعرف أنني أنا ودونالد لا نملك كيبلايدات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00962	kh3_event_bx.bx552a	bx5520270sr0	95ebd9a7	وماذا في ذلك? أنحن أبطال أم لا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00963	kh3_event_bx.bx552a	bx5520280do0	764a890f	لسنا كذلك هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00964	kh3_event_bx.bx552a	bx5520290gg0	b7567b0c	الوحوش. أخبرونا كيف<br>تمكنتم من هزيمتها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00965	kh3_event_bx.bx552a	bx5520300sr0	f58a1a13		todo	
-00966	kh3_event_bx.bx552a	bx5520300sr1	4d367d76	اسمهم بلا قلب، ويجذبهم<br>الظلام الذي في قلوب الناس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00967	kh3_event_bx.bx552a	bx5520310fr0	0456bbb9	أوه، هذا هو الكلام!<br>النور ضد الظلام. صراع كلاسيكي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00966	kh3_event_bx.bx552a	bx5520300sr1	4d367d76	اسمهم بلا قلب، ويجذبهم<br>الظلام الذي في قلوب الناس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00967	kh3_event_bx.bx552a	bx5520310fr0	0456bbb9	أوه، هذا هو الكلام!<br>النور ضد الظلام. صراع كلاسيكي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00968	kh3_event_bx.bx552a	bx5520310fr0b	f296cebe		todo	
-00969	kh3_event_bx.bx552a	bx5520320wa0	ce766128	هلا هدأت يا فريد? هذا أمر جاد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00970	kh3_event_bx.bx552a	bx5520330hl0	4e983d32	جاد جدا. ليست لدينا أي وسيلة لقتالهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00971	kh3_event_bx.bx552a	bx5520340gg0	80221886	مهلا. إذن سنستسلم وحسب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00972	kh3_event_bx.bx552a	bx5520350bx0	d87d7757	بمهاراتنا الحالية، يقدر تحليلي	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00973	kh3_event_bx.bx552a	bx5520350bx1	60c11032	فرصنا عند 0.0000—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00974	kh3_event_bx.bx552a	bx5520360hr0	0c23ce34	نعم، فهمنا يا بايماكس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00975	kh3_event_bx.bx552a	bx5520420sr0_1	142854b3	لا تقلقوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00976	kh3_event_bx.bx552a	bx5520420sr0_2	069dfb5d	نحن الثلاثة سنتولى أمر<br>بلا قلب عنكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00977	kh3_event_bx.bx552a	bx5520430sr0	6b3b60ae	صحيح يا دونالد، يا غوفي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00969	kh3_event_bx.bx552a	bx5520320wa0	ce766128	هلا هدأت يا فريد? هذا أمر جاد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00970	kh3_event_bx.bx552a	bx5520330hl0	4e983d32	جاد جدا. ليست لدينا أي وسيلة لقتالهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00971	kh3_event_bx.bx552a	bx5520340gg0	80221886	مهلا. إذن سنستسلم وحسب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00972	kh3_event_bx.bx552a	bx5520350bx0	d87d7757	بمهاراتنا الحالية، يقدر تحليلي	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00973	kh3_event_bx.bx552a	bx5520350bx1	60c11032	فرصنا عند 0.0000—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00974	kh3_event_bx.bx552a	bx5520360hr0	0c23ce34	نعم، فهمنا يا بايماكس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00975	kh3_event_bx.bx552a	bx5520420sr0_1	142854b3	لا تقلقوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00976	kh3_event_bx.bx552a	bx5520420sr0_2	069dfb5d	نحن الثلاثة سنتولى أمر<br>بلا قلب عنكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00977	kh3_event_bx.bx552a	bx5520430sr0	6b3b60ae	صحيح يا دونالد، يا غوفي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00978	kh3_event_bx.bx552a	bx5520431do0	5a6dd1b6		todo	
-00979	kh3_event_bx.bx552a	bx5520440hr0	f7f58fcf	انتظر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00980	kh3_event_bx.bx552a	bx5520440hr1	4f49e8aa	سنأتي معكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00981	kh3_event_bx.bx552a	bx5520460do0	df8f9038	لا بأس. سنتولى الأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00982	kh3_event_bx.bx552a	bx5520470hr0	585cc205	يجب أن نساعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00983	kh3_event_bx.bx552a	bx5520480hr0	24c3b224	أخي كان سيفعل ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00979	kh3_event_bx.bx552a	bx5520440hr0	f7f58fcf	انتظر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00980	kh3_event_bx.bx552a	bx5520440hr1	4f49e8aa	سنأتي معكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00981	kh3_event_bx.bx552a	bx5520460do0	df8f9038	لا بأس. سنتولى الأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00982	kh3_event_bx.bx552a	bx5520470hr0	585cc205	يجب أن نساعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00983	kh3_event_bx.bx552a	bx5520480hr0	24c3b224	أخي كان سيفعل ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00984	kh3_event_bx.bx552a	bx5520481fr0	639af0ab		todo	
 00985	kh3_event_bx.bx552a	bx5520490sr0	3c2ec090		todo	
-00986	kh3_event_bx.bx552a	bx5520500wa0	b48545f4	رائع، لكن... ألا نحتاج إلى خطة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00987	kh3_event_bx.bx552a	bx5520510fr0_1	2c602d04	نتدرب! حين يسقط الأبطال،<br>يكتسبون قوى جديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00986	kh3_event_bx.bx552a	bx5520500wa0	b48545f4	رائع، لكن... ألا نحتاج إلى خطة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00987	kh3_event_bx.bx552a	bx5520510fr0_1	2c602d04	نتدرب! حين يسقط الأبطال،<br>يكتسبون قوى جديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00988	kh3_event_bx.bx552a	bx5520510fr0_1b	58b9a534		todo	
-00989	kh3_event_bx.bx552a	bx5520510fr0_2	3ed582ea	حان وقت <i(on)>الشوغيو<i(off)>!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00990	kh3_event_bx.bx552a	bx5520520gg0	b43cd703	هل قرأت هذا في <i(on)>مجلة المهووسين الفصلية?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00991	kh3_event_bx.bx552a	bx5520530hr0	97944c7b	فريد ليس مخطئا في الحقيقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00992	kh3_event_bx.bx552a	bx5520530hr1	2f282b1e	ربما لدي فكرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00993	kh3_event_bx.bx552a	bx5520540sr0	0b5aa31a	"جهاز AR"?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00994	kh3_event_bx.bx552a	bx5520570hr0	d979a722	نعم. رائع، صحيح? يضيف طبقة رسومية<br>تعزز ما تراه عيناك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00995	kh3_event_bx.bx552a	bx5520570hr1	61c5c047	حين ترتديه، يرى هذا الجهاز<br>كل ما تفعله ويسجله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00996	kh3_event_bx.bx552a	bx5520580sr0	d86c9ef1	آه، فهمت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00997	kh3_event_bx.bx552a	bx5520590hr0	c081ec45	تضعه على وجهك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00998	kh3_event_bx.bx552a	bx5520600sr0	1da9e16b	بلا قلب! دونالد!! غوفي!!!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00999	kh3_event_bx.bx552a	bx5520610do0	e7f0faa4	هل أنت بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01000	kh3_event_bx.bx552a	bx5520620go0	3fc7659e	لا يوجد بلا قلب هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01001	kh3_event_bx.bx552a	bx5520621sr0	790f0676	لكن... آه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01002	kh3_event_bx.bx552a	bx5520630hr0	cf8ae553	مهلا! اهدأ يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01003	kh3_event_bx.bx552a	bx5520630hr1	77368236	فقط انزع جهاز AR.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01004	kh3_event_bx.bx552a	bx5520640sr0	53440a32	واو، لا أعرف كيف تفعل ذلك،<br>لكن هذا رائع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01005	kh3_event_bx.bx552a	bx5520650hr0	4ba97886	شكرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01006	kh3_event_bx.bx552a	bx5520650hr1	f3151fe3	لكن بيانات الخريطة حتى الآن لا تغطي إلا<br>سان فرانسوكيو. علي أن أوسعها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00989	kh3_event_bx.bx552a	bx5520510fr0_2	3ed582ea	حان وقت <i(on)>الشوغيو<i(off)>!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00990	kh3_event_bx.bx552a	bx5520520gg0	b43cd703	هل قرأت هذا في <i(on)>مجلة المهووسين الفصلية?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00991	kh3_event_bx.bx552a	bx5520530hr0	97944c7b	فريد ليس مخطئا في الحقيقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00992	kh3_event_bx.bx552a	bx5520530hr1	2f282b1e	ربما لدي فكرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00993	kh3_event_bx.bx552a	bx5520540sr0	0b5aa31a	"جهاز AR"?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00994	kh3_event_bx.bx552a	bx5520570hr0	d979a722	نعم. رائع، صحيح? يضيف طبقة رسومية<br>تعزز ما تراه عيناك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00995	kh3_event_bx.bx552a	bx5520570hr1	61c5c047	حين ترتديه، يرى هذا الجهاز<br>كل ما تفعله ويسجله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00996	kh3_event_bx.bx552a	bx5520580sr0	d86c9ef1	آه، فهمت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00997	kh3_event_bx.bx552a	bx5520590hr0	c081ec45	تضعه على وجهك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00998	kh3_event_bx.bx552a	bx5520600sr0	1da9e16b	بلا قلب! دونالد!! غوفي!!!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00999	kh3_event_bx.bx552a	bx5520610do0	e7f0faa4	هل أنت بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01000	kh3_event_bx.bx552a	bx5520620go0	3fc7659e	لا يوجد بلا قلب هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01001	kh3_event_bx.bx552a	bx5520621sr0	790f0676	لكن... آه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01002	kh3_event_bx.bx552a	bx5520630hr0	cf8ae553	مهلا! اهدأ يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01003	kh3_event_bx.bx552a	bx5520630hr1	77368236	فقط انزع جهاز AR.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01004	kh3_event_bx.bx552a	bx5520640sr0	53440a32	واو، لا أعرف كيف تفعل ذلك،<br>لكن هذا رائع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01005	kh3_event_bx.bx552a	bx5520650hr0	4ba97886	شكرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01006	kh3_event_bx.bx552a	bx5520650hr1	f3151fe3	لكن بيانات الخريطة حتى الآن لا تغطي إلا<br>سان فرانسوكيو. علي أن أوسعها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01007	kh3_event_bx.bx552a	bx5520650hr1b	70daafbd		todo	
-01008	kh3_event_bx.bx552a	bx5520660fr0	0d31e652	والآن هل نستطيع <i(on)>الشوغيو?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01009	kh3_event_bx.bx552a	bx5520670wa0	0ddf4a4f	ليس بعد يا فريد. ما زال يتعلم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01010	kh3_event_bx.bx552a	bx5520680hl0_1	3638b31c	سورا، كل ما عليك فعله هو أن تجتاز<br>بعض المسارات التي برمجها هيرو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01011	kh3_event_bx.bx552a	bx5520680hl0_2	248d1cf2	مثل لعبة مصغرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01012	kh3_event_bx.bx552a	bx5520690gg0_1	11c9159d	سنتتبع حركاتك<br>لكي نستطيع—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01013	kh3_event_bx.bx552a	bx5520700fr0	08371ea0	<i(on)>شوغيو، شوغيو، شوغيو!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01014	kh3_event_bx.bx552a	bx5520690gg0_2	037cba73	لكي نستطيع <i(on)>الشوغيو<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01015	kh3_event_bx.bx552a	bx5520710go0	114b4d73	أظن أن <i(on)>الشوغيو<i(off)> مثل التدريب.<br>هذه فكرة جيدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01016	kh3_event_bx.bx552a	bx5520710go0b	c89e4749	قد نحتاج إلى بعض التمرين على الأرجح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01017	kh3_event_bx.bx552a	bx5520720do0	c97cd249	تحدث عن نفسك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01018	kh3_event_bx.bx552a	bx5520730bx0	355874dd	أستطيع <i(on)>الشوغيو<i(off)> بتثبيت بيانات قتال جديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01019	kh3_event_bx.bx552a	bx5520750hr0	ca8c1da1	مرحبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01020	kh3_event_bx.bx552a	bx5520750hr1	72307ac4	لنجربها فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01021	kh3_event_bx.bx553a	bx5530070gg0	864ff9ce	مثير للاهتمام. الجاذبية—لا تقيدنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01022	kh3_event_bx.bx553a	bx5530110wa0	493ee547	مهلا، انتظروا. يداي الليزريتان...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01023	kh3_event_bx.bx553a	bx5530110wa1	f1828222	يمكن أن تكون مقذوفات!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01024	kh3_event_bx.bx553a	bx5530150hl0	e25a6942	أوه! غير السلاح، يتغير الهجوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01025	kh3_event_bx.bx553a	bx5530190fr0	b16ca4ae	هجوم تجميد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01026	kh3_event_bx.bx553a	bx5530190fr1	09d0c3cb	نار... وجليد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01027	kh3_event_bx.bx553a	bx5530190fr2	1b656c25	متضادان تماما... أو <i(on)>هكذا ظننا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01028	kh3_event_bx.bx553a	bx5530210hr0	9d98082a	<i(on)>شكرا يا سورا. هذه البيانات تكفي.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01029	kh3_event_bx.bx553a	bx5530220hr0	323145e0	<i(on)>وأظنك أشعلت بعض الأفكار الجديدة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01030	kh3_event_bx.bx553a	bx5530230gg0_1	c1c38f22	<i(on)>نعم! هيرو، أظن أن هناك طريقة كي—<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+01008	kh3_event_bx.bx552a	bx5520660fr0	0d31e652	والآن هل نستطيع <i(on)>الشوغيو?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01009	kh3_event_bx.bx552a	bx5520670wa0	0ddf4a4f	ليس بعد يا فريد. ما زال يتعلم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01010	kh3_event_bx.bx552a	bx5520680hl0_1	3638b31c	سورا، كل ما عليك فعله هو أن تجتاز<br>بعض المسارات التي برمجها هيرو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01011	kh3_event_bx.bx552a	bx5520680hl0_2	248d1cf2	مثل لعبة مصغرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01012	kh3_event_bx.bx552a	bx5520690gg0_1	11c9159d	سنتتبع حركاتك<br>لكي نستطيع—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01013	kh3_event_bx.bx552a	bx5520700fr0	08371ea0	<i(on)>شوغيو، شوغيو، شوغيو!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01014	kh3_event_bx.bx552a	bx5520690gg0_2	037cba73	لكي نستطيع <i(on)>الشوغيو<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01015	kh3_event_bx.bx552a	bx5520710go0	114b4d73	أظن أن <i(on)>الشوغيو<i(off)> مثل التدريب.<br>هذه فكرة جيدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01016	kh3_event_bx.bx552a	bx5520710go0b	c89e4749	قد نحتاج إلى بعض التمرين على الأرجح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01017	kh3_event_bx.bx552a	bx5520720do0	c97cd249	تحدث عن نفسك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01018	kh3_event_bx.bx552a	bx5520730bx0	355874dd	أستطيع <i(on)>الشوغيو<i(off)> بتثبيت بيانات قتال جديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01019	kh3_event_bx.bx552a	bx5520750hr0	ca8c1da1	مرحبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01020	kh3_event_bx.bx552a	bx5520750hr1	72307ac4	لنجربها فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01021	kh3_event_bx.bx553a	bx5530070gg0	864ff9ce	مثير للاهتمام. الجاذبية—لا تقيدنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01022	kh3_event_bx.bx553a	bx5530110wa0	493ee547	مهلا، انتظروا. يداي الليزريتان...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01023	kh3_event_bx.bx553a	bx5530110wa1	f1828222	يمكن أن تكون مقذوفات!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01024	kh3_event_bx.bx553a	bx5530150hl0	e25a6942	أوه! غير السلاح، يتغير الهجوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01025	kh3_event_bx.bx553a	bx5530190fr0	b16ca4ae	هجوم تجميد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01026	kh3_event_bx.bx553a	bx5530190fr1	09d0c3cb	نار... وجليد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01027	kh3_event_bx.bx553a	bx5530190fr2	1b656c25	متضادان تماما... أو <i(on)>هكذا ظننا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01028	kh3_event_bx.bx553a	bx5530210hr0	9d98082a	<i(on)>شكرا يا سورا. هذه البيانات تكفي.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01029	kh3_event_bx.bx553a	bx5530220hr0	323145e0	<i(on)>وأظنك أشعلت بعض الأفكار الجديدة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01030	kh3_event_bx.bx553a	bx5530230gg0_1	c1c38f22	<i(on)>نعم! هيرو، أظن أن هناك طريقة كي—<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01031	kh3_event_bx.bx553a	bx5530230gg0_2	d37620cc		todo	
 01032	kh3_event_bx.bx553a	bx5530230gg0_3	6bca47a9		todo	
 01033	kh3_event_bx.bx553a	bx5530230gg0_4	f61d7f10		todo	
@@ -147,391 +147,391 @@ id	namespace	key	source_hash	AR	status	note
 01042	kh3_event_bx.bx553a	bx5530260fr0_2	2d0df16b		todo	
 01043	kh3_event_bx.bx553a	bx5530260fr0_3	95b1960e		todo	
 01044	kh3_event_bx.bx553a	bx5530260fr0_4	0866aeb7		todo	
-01045	kh3_event_bx.bx554a	bx5540010hr0	fc36d6b0	هذا... يجب أن يفي بالغرض.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01046	kh3_event_bx.bx554a	bx5540020nw0	f44230fe	<i(on)>نقطع برنامجكم المعتاد<br>لنقدم لكم هذا الخبر العاجل.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01047	kh3_event_bx.bx554a	bx5540020nw1_1	87b01378	<i(on)>قبل لحظات، تعرض الحي الجنوبي من المدينة<br>لهجوم من مخلوقات مجهولة كثيرة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01048	kh3_event_bx.bx554a	bx5540020nw1_2	9505bc96	<i(on)>يصف الشهود اختفاء<br>ضحايا وسط الفوضى.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01049	kh3_event_bx.bx554a	bx5540020nw1_3	2db9dbf3	<i(on)>وقال كثيرون إنهم رأوا رموز قلوب غريبة طافية<br>قرب أماكن الضحايا المفقودين.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01050	kh3_event_bx.bx554a	bx5540020nw2_1	f02ec188	<i(on)>شرطة المدينة تحث المواطنين على البقاء في بيوتهم.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01051	kh3_event_bx.bx554a	bx5540020nw2_2	e29b6e66	<i(on)>لمن انضم إلينا الآن، قبل دقائق فقط<br>تعرض الحي الجنوبي لهجوم من—<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+01045	kh3_event_bx.bx554a	bx5540010hr0	fc36d6b0	هذا... يجب أن يفي بالغرض.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01046	kh3_event_bx.bx554a	bx5540020nw0	f44230fe	<i(on)>نقطع برنامجكم المعتاد<br>لنقدم لكم هذا الخبر العاجل.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01047	kh3_event_bx.bx554a	bx5540020nw1_1	87b01378	<i(on)>قبل لحظات، تعرض الحي الجنوبي من المدينة<br>لهجوم من مخلوقات مجهولة كثيرة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01048	kh3_event_bx.bx554a	bx5540020nw1_2	9505bc96	<i(on)>يصف الشهود اختفاء<br>ضحايا وسط الفوضى.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01049	kh3_event_bx.bx554a	bx5540020nw1_3	2db9dbf3	<i(on)>وقال كثيرون إنهم رأوا رموز قلوب غريبة طافية<br>قرب أماكن الضحايا المفقودين.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01050	kh3_event_bx.bx554a	bx5540020nw2_1	f02ec188	<i(on)>شرطة المدينة تحث المواطنين على البقاء في بيوتهم.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01051	kh3_event_bx.bx554a	bx5540020nw2_2	e29b6e66	<i(on)>لمن انضم إلينا الآن، قبل دقائق فقط<br>تعرض الحي الجنوبي لهجوم من—<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01052	kh3_event_bx.bx554a	bx5540049sr0	774d4183		todo	
-01053	kh3_event_bx.bx554a	bx5540050sr0	cf51741b	حان وقت التحرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+01053	kh3_event_bx.bx554a	bx5540050sr0	cf51741b	حان وقت التحرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01054	kh3_event_bx.bx554a	bx5540110do0	9fa7daec		todo	
-01055	kh3_event_bx.bx555a	bx5550020gg0	e48a3eee	حاولوا الإمساك بي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01056	kh3_event_bx.bx555a	bx5550080hl0	9c611df7	لدي فكرة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01057	kh3_event_bx.bx555a	bx5550100wa0	6516c93e	مهلا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01058	kh3_event_bx.bx555a	bx5550100wa2	cf1f01b5	لا أستطيع التصويب إن لم أر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01059	kh3_event_bx.bx555a	bx5550110hl0	e5f89524	أفضل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01060	kh3_event_bx.bx555a	bx5550120wa0	afd8bfb2	أفضل بكثير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01061	kh3_event_bx.bx555a	bx5550130fr0	af3613af	تجميد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01062	kh3_event_bx.bx555a	bx5550140fr0	4e72b53c	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01063	kh3_event_bx.bx555a	bx5550150fr0	2b158e7a	آه، فهمت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01064	kh3_event_bx.bx555a	bx5550150fr1	93a9e91f	إنها حركة مزدوجة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01065	kh3_event_bx.bx555a	bx5550190sr0	6c98297d	أحسنت يا بايماكس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01066	kh3_event_bx.bx555a	bx5550200sr0	cc3a6da1	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01067	kh3_event_bx.bx555a	bx5550210bx0	af20ebbc	والآن، نتصافح بالقبضات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01068	kh3_event_bx.bx555a	bx5550220sr0	06f41b2d	نتصافح بالقبضات?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01069	kh3_event_bx.bx555a	bx5550230bx0	65ee9d30	للتعبير عن الحماس. علمني هيرو ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01070	kh3_event_bx.bx555a	bx5550240sr0	82d786f8	إذن، مثل... هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01071	kh3_event_bx.bx555a	bx5550250bx0	e1cd00e5	با-لا-لا-لا-لا-لا-لا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01072	kh3_event_bx.bx555a	bx5550260sr0	4819f074	با-لا-لا-لا-لا-لا-لا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01073	kh3_event_bx.bx555a	bx5550290go0	dc26722c	استعدوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01074	kh3_event_bx.bx555a	bx5550300sr0	4d1f0886	واحد آخر?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01075	kh3_event_bx.bx555a	bx5550310hl0	3cc3592b	نحن هنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01076	kh3_event_bx.bx555a	bx5550320wa0	76e373bd	أوف! ألا يمكننا أن نتشاجر مع واحد بحجمنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01077	kh3_event_bx.bx555a	bx5550330gg0	d9f3ac80	يبدو بالحجم المناسب في نظري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01078	kh3_event_bx.bx555a	bx5550340fr0_1	9870c005	شاهدوني أحرقهم بإعصار التجميد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01079	kh3_event_bx.bx555a	bx5550340fr0_2	8ac56feb	الإعصار الوحيد المصنوع من الجليد <i(on)>والنار<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01080	kh3_event_bx.bx555a	bx5550350do0	f9abf810	لقد عبثت مع ساحر البلاط الخطأ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01081	kh3_event_bx.bx555a	bx5550360go0	219c672a	ومع قائد الحرس الخطأ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01082	kh3_event_bx.bx555a	bx5550370sr0	ac5bae15	استعدوا لمواجهة أبطال الكيبلايد الثلاثة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01083	kh3_event_bx.bx555a	bx5550380do0	4ffafebd	أوه، هيا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01084	kh3_event_bx.bx555a	bx5550390hr0	c829ac80	وفريق مكافحة الجريمة، الأبطال الستة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01085	kh3_event_bx.bx555a	bx5550390hr1	7095cbe5	معا، لا يمكن إيقافنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+01055	kh3_event_bx.bx555a	bx5550020gg0	e48a3eee	حاولوا الإمساك بي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01056	kh3_event_bx.bx555a	bx5550080hl0	9c611df7	لدي فكرة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01057	kh3_event_bx.bx555a	bx5550100wa0	6516c93e	مهلا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01058	kh3_event_bx.bx555a	bx5550100wa2	cf1f01b5	لا أستطيع التصويب إن لم أر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01059	kh3_event_bx.bx555a	bx5550110hl0	e5f89524	أفضل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01060	kh3_event_bx.bx555a	bx5550120wa0	afd8bfb2	أفضل بكثير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01061	kh3_event_bx.bx555a	bx5550130fr0	af3613af	تجميد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01062	kh3_event_bx.bx555a	bx5550140fr0	4e72b53c	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01063	kh3_event_bx.bx555a	bx5550150fr0	2b158e7a	آه، فهمت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01064	kh3_event_bx.bx555a	bx5550150fr1	93a9e91f	إنها حركة مزدوجة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01065	kh3_event_bx.bx555a	bx5550190sr0	6c98297d	أحسنت يا بايماكس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01066	kh3_event_bx.bx555a	bx5550200sr0	cc3a6da1	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01067	kh3_event_bx.bx555a	bx5550210bx0	af20ebbc	والآن، نتصافح بالقبضات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01068	kh3_event_bx.bx555a	bx5550220sr0	06f41b2d	نتصافح بالقبضات?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01069	kh3_event_bx.bx555a	bx5550230bx0	65ee9d30	للتعبير عن الحماس. علمني هيرو ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01070	kh3_event_bx.bx555a	bx5550240sr0	82d786f8	إذن، مثل... هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01071	kh3_event_bx.bx555a	bx5550250bx0	e1cd00e5	با-لا-لا-لا-لا-لا-لا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01072	kh3_event_bx.bx555a	bx5550260sr0	4819f074	با-لا-لا-لا-لا-لا-لا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01073	kh3_event_bx.bx555a	bx5550290go0	dc26722c	استعدوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01074	kh3_event_bx.bx555a	bx5550300sr0	4d1f0886	واحد آخر?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01075	kh3_event_bx.bx555a	bx5550310hl0	3cc3592b	نحن هنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01076	kh3_event_bx.bx555a	bx5550320wa0	76e373bd	أوف! ألا يمكننا أن نتشاجر مع واحد بحجمنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01077	kh3_event_bx.bx555a	bx5550330gg0	d9f3ac80	يبدو بالحجم المناسب في نظري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01078	kh3_event_bx.bx555a	bx5550340fr0_1	9870c005	شاهدوني أحرقهم بإعصار التجميد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01079	kh3_event_bx.bx555a	bx5550340fr0_2	8ac56feb	الإعصار الوحيد المصنوع من الجليد <i(on)>والنار<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01080	kh3_event_bx.bx555a	bx5550350do0	f9abf810	لقد عبثت مع ساحر البلاط الخطأ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01081	kh3_event_bx.bx555a	bx5550360go0	219c672a	ومع قائد الحرس الخطأ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01082	kh3_event_bx.bx555a	bx5550370sr0	ac5bae15	استعدوا لمواجهة أبطال الكيبلايد الثلاثة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01083	kh3_event_bx.bx555a	bx5550380do0	4ffafebd	أوه، هيا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01084	kh3_event_bx.bx555a	bx5550390hr0	c829ac80	وفريق مكافحة الجريمة، الأبطال الستة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01085	kh3_event_bx.bx555a	bx5550390hr1	7095cbe5	معا، لا يمكن إيقافنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01086	kh3_event_bx.bx555a	bx5550391hl0	0f701e08		todo	
-01087	kh3_event_bx.bx556a	bx5560010fr0	2dc208bb	هل كان ذلك رائعا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01088	kh3_event_bx.bx556a	bx5560010fr1	957e6fde	أم كان <i(on)>رائعا جدا جدا?!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01089	kh3_event_bx.bx556a	bx5560020do0	89eeff14	نعم، كنت جيدا جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01090	kh3_event_bx.bx556a	bx5560030hl0	670c8e30	سحرك مذهل.<br>أتظن أنني أستطيع دراسته يوما ما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01091	kh3_event_bx.bx556a	bx5560040do0	0dcd62c1	لم لا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01092	kh3_event_bx.bx556a	bx5560050go0	1f348b77	لقد أسعدت دونالد للغاية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01093	kh3_event_bx.bx556a	bx5560060hr0	25b77d36	أراد أخي أن يساعد الناس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01094	kh3_event_bx.bx556a	bx5560070hr0	40d04670	والآن، نحاول أن نفعل الشيء نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01095	kh3_event_bx.bx556a	bx5560080sr0	41c57fa3	أخوك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01096	kh3_event_bx.bx556a	bx5560090hr0	59280d17	نعم، تاداشي.<br>شب حريق، والآن رحل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01097	kh3_event_bx.bx556a	bx5560090hr1	e1946a72	لكنه أراد دائما أن يحدث فرقا.<br>كان يهتم بالناس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01098	kh3_event_bx.bx556a	bx5560090hr1b	f63d5b85	لهذا عمل بجد ليصنع بايماكس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01099	kh3_event_bx.bx556a	bx5560100sr0	5d3bcc36	أنا آسف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01100	kh3_event_bx.bx556a	bx5560110hr0	45d6be82	إنه ما زال هنا. في بايماكس. فينا جميعا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01101	kh3_event_bx.bx556a	bx5560120sr0	97f5baba	تاداشي—يعيش في قلوبكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01102	kh3_event_bx.bx556a	bx5560130hr0_1	97f8c5ac	نعم. صحيح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01103	kh3_event_bx.bx556a	bx5560130hr0_2	854d6a42	سيبقى دائما جزءا منا بطريقة ما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01104	kh3_event_bx.bx556a	bx5560140sr0	13d6276f	وحين لا تكون قويا بما يكفي،<br>سيعوض هو الفرق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01105	kh3_event_bx.bx556a	bx5560160hr0	a4921811	سورا. هل أنت بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01106	kh3_event_bx.bx556a	bx5560170sr0	bc7f6aa5	نعم. بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01107	kh3_event_bx.bx556a	bx5560180sr0	c0e01a84	أنا معك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01108	kh3_event_bx.bx557a	bx5570050sr0	064e7ca4	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01109	kh3_event_bx.bx557a	bx5570090gg0	ee3da883	عظيم، لقد عادوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01110	kh3_event_bx.bx557a	bx5570100wa0	5dd3c42b	أوه، سنتولى الأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01111	kh3_event_bx.bx557a	bx5570110hl0	dd3d9831	حان وقت الدرس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01112	kh3_event_bx.bx557a	bx5570120fr0	f29425fc	هجوووم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01113	kh3_event_bx.bx557a	bx5570140hr0	9f866b37	انتظروا! آه، يا رفاق! ذلك ليس مثل البقية!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01114	kh3_event_bx.bx557a	bx5570150hr0	fae15071	لا يمكن. الروبوتات الدقيقة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01115	kh3_event_bx.bx557a	bx5570160sr0	28c25449	الروبوتات الدقيقة? تعرف ما هي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01116	kh3_event_bx.bx557a	bx5570170go0	a5059d76	حسنا، إنها مختلفة عن بلا قلب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01117	kh3_event_bx.bx557a	bx5570180do0	ae043fa7	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01118	kh3_event_bx.bx557a	bx5570190hr0	29d76d9a	الروبوتات الدقيقة مصممة لتفعل كل ما<br>تفكر فيه عبر جهاز إرسال عصبي...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01119	kh3_event_bx.bx557a	bx5570190hr0b	ae527293	ينقل ما أنت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01120	kh3_event_bx.bx557a	bx5570200hr0_1	f37d5873	إنها نوع من الروبوتات الصغيرة اخترعته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01121	kh3_event_bx.bx557a	bx5570200hr0_2	e1c8f79d	حدثت أمور سيئة وظننت<br>أن ذلك يعني أنها زالت تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01122	kh3_event_bx.bx557a	bx5570200hr0_3	597490f8	لكن هؤلاء الأعداء متشابهون جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01123	kh3_event_bx.bx557a	bx5570200hr0_4	c4a3a841	مما يعني أن أحدا يتحكم بهم.<br>والسؤال هو من.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01124	kh3_event_bx.bx557a	bx5570200hr1	31c94e23	هل يمكن أن يكون?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01125	kh3_event_bx.bx557a	bx5570210hr0_1	f2c8a56e	سأعود إلى المرآب<br>وأبحث في الأمر أكثر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01126	kh3_event_bx.bx557a	bx5570210hr0_2	e07d0a80	هل تمانعون ملاحقتهم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01127	kh3_event_bx.bx557a	bx5570220sr0	3e311638	بالتأكيد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01128	kh3_event_bx.bx557a	bx5570250sr0	df75b0ab	نحتاجك في الأمور العلمية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01129	kh3_event_bx.bx557a	bx5570260hr0	0d56b493	بايماكس...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01130	kh3_event_bx.bx557a	bx5570260hr1	b5ead3f6	ابق معهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01131	kh3_event_bx.bx557a	bx5570270bx0	13c67b7c	حسنا يا هيرو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01132	kh3_event_bx.bx557a	bx5570270bx1	ab7a1c19	سورا، دونالد، غوفي، سأكون<br>رفيقكم الشخصي للرعاية الصحية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01133	kh3_event_bx.bx557a	bx5570280sr0	6924b606	شكرا يا بايماكس. نحن في أيد أمينة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01134	kh3_event_bx.bx557a	bx5570290sr0	0c438d40	هيا، لنتحرك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01135	kh3_event_bx.bx558a	bx5580040sr0	38a86123	هذا ليس عدلا! لماذا لا نستطيع إيذاءه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01136	kh3_event_bx.bx558a	bx5580050do0	c2f17aec	السحر لا ينفع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01137	kh3_event_bx.bx558a	bx5580060go0	1ac6e5d6	ماذا نفعل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01138	kh3_event_bx.bx558a	bx5580100sr0	f760ef5d	هذا غريب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01139	kh3_event_bx.bx558a	bx5580110hr0	ef8d9de9	<i(on)>سورا، هل أنتم بخير?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01140	kh3_event_bx.bx558a	bx5580120sr0	3dae99d1	آه... نعم، لكن الهدف هرب.<br>هل لديك أي خيوط?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01141	kh3_event_bx.bx558a	bx5580130hr0	2543eb65	<i(on)>الكثير. في مكان ما داخل ذلك الشيء، هناك نواة.<br>هي ما يمد المجموعة كلها بالطاقة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01142	kh3_event_bx.bx558a	bx5580130hr3	37f6448b	<i(on)>النواة هي الطريقة الوحيدة لإيذائه.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01143	kh3_event_bx.bx558a	bx5580140wa0	48bf09b3	<i(on)>الآن يخبرنا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01144	kh3_event_bx.bx558a	bx5580150hr0	a16076b0	<i(on)>واسابي! ماذا حدث?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01145	kh3_event_bx.bx558a	bx5580160wa0	82717f3f	<i(on)>لنقل إنه صعب المراس.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01146	kh3_event_bx.bx558a	bx5580170hr0	6bae003c	<i(on)>أيها الفريق، أبلغوا عن وضعكم.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01147	kh3_event_bx.bx558a	bx5580180hl0	7e005304	<i(on)>كل شيء جيد حتى الآن.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01148	kh3_event_bx.bx558a	bx5580190gg0	3499eb65	<i(on)>يا رفاق، سئمت حقا من مجرد مراوغة هذا الشيء.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01149	kh3_event_bx.bx558a	bx5580200fr0	3bc5dc99	<i(on)>فريدي بدأ يحبط!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01150	kh3_event_bx.bx558a	bx5580210hr0	b79334c1	<i(on)>يا رفاق، أنا قادم.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01151	kh3_event_bx.bx558a	bx5580220hl0	710b5a12	لا يا هيرو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01152	kh3_event_bx.bx558a	bx5580230fr0	946c9153	هيرو، أنت حلل المكعبات المظلمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01153	kh3_event_bx.bx558a	bx5580240wa0	10a1a09b	<i(on)>مهلا، هل قلت للتو "المكعبات المظلمة"?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01154	kh3_event_bx.bx558a	bx5580250fr0	104f0c86	نعم. إنها مظلمة، وهي مكعبات.<br>أسمي الأشياء كما أراها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01155	kh3_event_bx.bx558a	bx5580250fr0b	1b15b3b9	كل شرير خطير يحتاج إلى اسم رائع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01156	kh3_event_bx.bx558a	bx5580260gg0	1018326c	<i(on)>نعم، هذا ليس رائعا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01157	kh3_event_bx.bx558a	bx5580270hl0	5a818a0d	سنجمع أكبر قدر ممكن من البيانات<br>من المكعبات المظلمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01158	kh3_event_bx.bx558a	bx5580280wa0	c3979d70	هيرو، جد لنا طريقة لهزيمة هذا الشيء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01159	kh3_event_bx.bx558a	bx5580290hr0	2a48e273	<i(on)>لكن يا رفاق، لا أستطيع أن أترككم وحدكم هناك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01160	kh3_event_bx.bx558a	bx5580300gg0	151eca9e	هيرو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01161	kh3_event_bx.bx558a	bx5580300gg1_1	f9adf0b7	<i(on)>نحن فريق.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01162	kh3_event_bx.bx558a	bx5580300gg1_2	eb185f59	<i(on)>والفريق يوزع المهام.<br>نحتاجك في المرآب.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01163	kh3_event_bx.bx558a	bx5580300gg2	bf170215	نحن نثق بك، فثق أنت بنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+01087	kh3_event_bx.bx556a	bx5560010fr0	2dc208bb	هل كان ذلك رائعا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01088	kh3_event_bx.bx556a	bx5560010fr1	957e6fde	أم كان <i(on)>رائعا جدا جدا?!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01089	kh3_event_bx.bx556a	bx5560020do0	89eeff14	نعم، كنت جيدا جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01090	kh3_event_bx.bx556a	bx5560030hl0	670c8e30	سحرك مذهل.<br>أتظن أنني أستطيع دراسته يوما ما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01091	kh3_event_bx.bx556a	bx5560040do0	0dcd62c1	لم لا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01092	kh3_event_bx.bx556a	bx5560050go0	1f348b77	لقد أسعدت دونالد للغاية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01093	kh3_event_bx.bx556a	bx5560060hr0	25b77d36	أراد أخي أن يساعد الناس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01094	kh3_event_bx.bx556a	bx5560070hr0	40d04670	والآن، نحاول أن نفعل الشيء نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01095	kh3_event_bx.bx556a	bx5560080sr0	41c57fa3	أخوك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01096	kh3_event_bx.bx556a	bx5560090hr0	59280d17	نعم، تاداشي.<br>شب حريق، والآن رحل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01097	kh3_event_bx.bx556a	bx5560090hr1	e1946a72	لكنه أراد دائما أن يحدث فرقا.<br>كان يهتم بالناس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01098	kh3_event_bx.bx556a	bx5560090hr1b	f63d5b85	لهذا عمل بجد ليصنع بايماكس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01099	kh3_event_bx.bx556a	bx5560100sr0	5d3bcc36	أنا آسف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01100	kh3_event_bx.bx556a	bx5560110hr0	45d6be82	إنه ما زال هنا. في بايماكس. فينا جميعا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01101	kh3_event_bx.bx556a	bx5560120sr0	97f5baba	تاداشي—يعيش في قلوبكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01102	kh3_event_bx.bx556a	bx5560130hr0_1	97f8c5ac	نعم. صحيح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01103	kh3_event_bx.bx556a	bx5560130hr0_2	854d6a42	سيبقى دائما جزءا منا بطريقة ما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01104	kh3_event_bx.bx556a	bx5560140sr0	13d6276f	وحين لا تكون قويا بما يكفي،<br>سيعوض هو الفرق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01105	kh3_event_bx.bx556a	bx5560160hr0	a4921811	سورا. هل أنت بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01106	kh3_event_bx.bx556a	bx5560170sr0	bc7f6aa5	نعم. بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01107	kh3_event_bx.bx556a	bx5560180sr0	c0e01a84	أنا معك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01108	kh3_event_bx.bx557a	bx5570050sr0	064e7ca4	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01109	kh3_event_bx.bx557a	bx5570090gg0	ee3da883	عظيم، لقد عادوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01110	kh3_event_bx.bx557a	bx5570100wa0	5dd3c42b	أوه، سنتولى الأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01111	kh3_event_bx.bx557a	bx5570110hl0	dd3d9831	حان وقت الدرس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01112	kh3_event_bx.bx557a	bx5570120fr0	f29425fc	هجوووم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01113	kh3_event_bx.bx557a	bx5570140hr0	9f866b37	انتظروا! آه، يا رفاق! ذلك ليس مثل البقية!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01114	kh3_event_bx.bx557a	bx5570150hr0	fae15071	لا يمكن. الروبوتات الدقيقة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01115	kh3_event_bx.bx557a	bx5570160sr0	28c25449	الروبوتات الدقيقة? تعرف ما هي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01116	kh3_event_bx.bx557a	bx5570170go0	a5059d76	حسنا، إنها مختلفة عن بلا قلب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01117	kh3_event_bx.bx557a	bx5570180do0	ae043fa7	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01118	kh3_event_bx.bx557a	bx5570190hr0	29d76d9a	الروبوتات الدقيقة مصممة لتفعل كل ما<br>تفكر فيه عبر جهاز إرسال عصبي...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01119	kh3_event_bx.bx557a	bx5570190hr0b	ae527293	ينقل ما أنت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01120	kh3_event_bx.bx557a	bx5570200hr0_1	f37d5873	إنها نوع من الروبوتات الصغيرة اخترعته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01121	kh3_event_bx.bx557a	bx5570200hr0_2	e1c8f79d	حدثت أمور سيئة وظننت<br>أن ذلك يعني أنها زالت تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01122	kh3_event_bx.bx557a	bx5570200hr0_3	597490f8	لكن هؤلاء الأعداء متشابهون جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01123	kh3_event_bx.bx557a	bx5570200hr0_4	c4a3a841	مما يعني أن أحدا يتحكم بهم.<br>والسؤال هو من.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01124	kh3_event_bx.bx557a	bx5570200hr1	31c94e23	هل يمكن أن يكون?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01125	kh3_event_bx.bx557a	bx5570210hr0_1	f2c8a56e	سأعود إلى المرآب<br>وأبحث في الأمر أكثر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01126	kh3_event_bx.bx557a	bx5570210hr0_2	e07d0a80	هل تمانعون ملاحقتهم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01127	kh3_event_bx.bx557a	bx5570220sr0	3e311638	بالتأكيد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01128	kh3_event_bx.bx557a	bx5570250sr0	df75b0ab	نحتاجك في الأمور العلمية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01129	kh3_event_bx.bx557a	bx5570260hr0	0d56b493	بايماكس...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01130	kh3_event_bx.bx557a	bx5570260hr1	b5ead3f6	ابق معهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01131	kh3_event_bx.bx557a	bx5570270bx0	13c67b7c	حسنا يا هيرو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01132	kh3_event_bx.bx557a	bx5570270bx1	ab7a1c19	سورا، دونالد، غوفي، سأكون<br>رفيقكم الشخصي للرعاية الصحية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01133	kh3_event_bx.bx557a	bx5570280sr0	6924b606	شكرا يا بايماكس. نحن في أيد أمينة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01134	kh3_event_bx.bx557a	bx5570290sr0	0c438d40	هيا، لنتحرك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01135	kh3_event_bx.bx558a	bx5580040sr0	38a86123	هذا ليس عدلا! لماذا لا نستطيع إيذاءه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01136	kh3_event_bx.bx558a	bx5580050do0	c2f17aec	السحر لا ينفع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01137	kh3_event_bx.bx558a	bx5580060go0	1ac6e5d6	ماذا نفعل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01138	kh3_event_bx.bx558a	bx5580100sr0	f760ef5d	هذا غريب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01139	kh3_event_bx.bx558a	bx5580110hr0	ef8d9de9	<i(on)>سورا، هل أنتم بخير?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01140	kh3_event_bx.bx558a	bx5580120sr0	3dae99d1	آه... نعم، لكن الهدف هرب.<br>هل لديك أي خيوط?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01141	kh3_event_bx.bx558a	bx5580130hr0	2543eb65	<i(on)>الكثير. في مكان ما داخل ذلك الشيء، هناك نواة.<br>هي ما يمد المجموعة كلها بالطاقة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01142	kh3_event_bx.bx558a	bx5580130hr3	37f6448b	<i(on)>النواة هي الطريقة الوحيدة لإيذائه.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01143	kh3_event_bx.bx558a	bx5580140wa0	48bf09b3	<i(on)>الآن يخبرنا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01144	kh3_event_bx.bx558a	bx5580150hr0	a16076b0	<i(on)>واسابي! ماذا حدث?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01145	kh3_event_bx.bx558a	bx5580160wa0	82717f3f	<i(on)>لنقل إنه صعب المراس.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01146	kh3_event_bx.bx558a	bx5580170hr0	6bae003c	<i(on)>أيها الفريق، أبلغوا عن وضعكم.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01147	kh3_event_bx.bx558a	bx5580180hl0	7e005304	<i(on)>كل شيء جيد حتى الآن.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01148	kh3_event_bx.bx558a	bx5580190gg0	3499eb65	<i(on)>يا رفاق، سئمت حقا من مجرد مراوغة هذا الشيء.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01149	kh3_event_bx.bx558a	bx5580200fr0	3bc5dc99	<i(on)>فريدي بدأ يحبط!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01150	kh3_event_bx.bx558a	bx5580210hr0	b79334c1	<i(on)>يا رفاق، أنا قادم.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01151	kh3_event_bx.bx558a	bx5580220hl0	710b5a12	لا يا هيرو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01152	kh3_event_bx.bx558a	bx5580230fr0	946c9153	هيرو، أنت حلل المكعبات المظلمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01153	kh3_event_bx.bx558a	bx5580240wa0	10a1a09b	<i(on)>مهلا، هل قلت للتو "المكعبات المظلمة"?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01154	kh3_event_bx.bx558a	bx5580250fr0	104f0c86	نعم. إنها مظلمة، وهي مكعبات.<br>أسمي الأشياء كما أراها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01155	kh3_event_bx.bx558a	bx5580250fr0b	1b15b3b9	كل شرير خطير يحتاج إلى اسم رائع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01156	kh3_event_bx.bx558a	bx5580260gg0	1018326c	<i(on)>نعم، هذا ليس رائعا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01157	kh3_event_bx.bx558a	bx5580270hl0	5a818a0d	سنجمع أكبر قدر ممكن من البيانات<br>من المكعبات المظلمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01158	kh3_event_bx.bx558a	bx5580280wa0	c3979d70	هيرو، جد لنا طريقة لهزيمة هذا الشيء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01159	kh3_event_bx.bx558a	bx5580290hr0	2a48e273	<i(on)>لكن يا رفاق، لا أستطيع أن أترككم وحدكم هناك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01160	kh3_event_bx.bx558a	bx5580300gg0	151eca9e	هيرو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01161	kh3_event_bx.bx558a	bx5580300gg1_1	f9adf0b7	<i(on)>نحن فريق.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01162	kh3_event_bx.bx558a	bx5580300gg1_2	eb185f59	<i(on)>والفريق يوزع المهام.<br>نحتاجك في المرآب.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01163	kh3_event_bx.bx558a	bx5580300gg2	bf170215	نحن نثق بك، فثق أنت بنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01164	kh3_event_bx.bx558a	bx5580302hr0	d4714fc3		todo	
-01165	kh3_event_bx.bx558a	bx5580310hr0_1	835cd26c	<i(on)>حسنا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01166	kh3_event_bx.bx558a	bx5580310hr0_2	91e97d82	<i(on)>سأبحث عن طريقة<br>نكشف بها نواة المكعبات المظلمة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01167	kh3_event_bx.bx558a	bx5580310hr0_3	29551ae7	<i(on)>فقط واصلوا إرسال البيانات.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01168	kh3_event_bx.bx558a	bx5580320gg0	dfd0bc12	<i(on)>علم.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01169	kh3_event_bx.bx558a	bx5580360sr0	aa78be87	هيرو، ماذا يجب أن <i(on)>نفعل<i(off)> نحن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01170	kh3_event_bx.bx558a	bx5580370hr0_1	86e0dc22	احموا الآخرين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01171	kh3_event_bx.bx558a	bx5580370hr0_2	945573cc	سأحدد لكم موقعهم<br>على شاشة AR.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01172	kh3_event_bx.bx558a	bx5580380sr0	b380f5e0	فهمنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01173	kh3_event_bx.bx558a	bx5580410sr0	7a242f63	حان وقت الذهاب يا بايماكس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01174	kh3_event_bx.bx558a	bx5580420bx0	d3f0dff2	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01175	kh3_event_bx.bx559a	bx5590010gg0	d9bd5d5a	حسنا، هناك الكثير منها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01176	kh3_event_bx.bx559a	bx5590020go0	a5f10b25	ماذا تظنونها ستفعل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01177	kh3_event_bx.bx559a	bx5590030wa0	d904cfad	لا أظن أننا نريد أن نعرف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01178	kh3_event_bx.bx559a	bx5590040fr0	5dc9fe65	أقول لندمر هذا الشيء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01179	kh3_event_bx.bx559a	bx5590050do0	332b7f46	نعم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01180	kh3_event_bx.bx559a	bx5590060hl0	170778ee	لكن من دون استراتيجية، سنكون<br>نهدر قوتنا فحسب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01181	kh3_event_bx.bx559a	bx5590070sr0	66db2943	لو عرفنا أين نضرب...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01182	kh3_event_bx.bx559a	bx5590080hr0_1	e91d5d61	<i(on)>سورا! وجدتها!<br>سأرسل لك تحديثا لبرنامج AR.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01183	kh3_event_bx.bx559a	bx5590080hr0_2	fba8f28f	<i(on)>سيريك مكان النواة—<br>نقطة ضعف المكعبات المظلمة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01184	kh3_event_bx.bx559a	bx5590080hr0_3	431495ea	<i(on)>أنا قادم لأساعد.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01185	kh3_event_bx.bx559a	bx5590090sr0	7f236224	ماذا? هذا غريب. هل تعطل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01186	kh3_event_bx.bx559a	bx5590100sr0	06baeaf7	هيرو، من ذلك الذي على الشاشة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01187	kh3_event_bx.bx559a	bx5590110go0	8b7d23c8	هذا ليس على الشاشة. إنه هنا حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01188	kh3_event_bx.bx559a	bx5590120gg0	f73175b7	المعطف الأسود... لقد عاد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01189	kh3_event_bx.bx559a	bx5590130dr0	d193a34e	هل انتهيتم من العبث?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01190	kh3_event_bx.bx559a	bx5590140sr0	485701ae	ماذا? مهلا، ذلك الصوت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01191	kh3_event_bx.bx559a	bx5590150wa0_1	41bce822	انتظروا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01192	kh3_event_bx.bx559a	bx5590150wa0_2	530947cc	أنت... تعرف هذا الشخص?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01193	kh3_event_bx.bx559a	bx5590160fr0	1622edce	والآن... يدخل الشرير الخارق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01194	kh3_event_bx.bx559a	bx5590170hl0	f345268f	يبدو كذلك بالتأكيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01195	kh3_event_bx.bx559a	bx5590180dr0	e3e13836	مضحك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01196	kh3_event_bx.bx559a	bx5590190sr0	fe060703	ريكو... لكن...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01197	kh3_event_bx.bx559a	bx5590200dr0	262447ac	وكأن هذه التجربة الغبية لم تكن مزعجة بما يكفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01198	kh3_event_bx.bx559a	bx5590210hr0	4649316b	<i(on)>من أين حصل على ذلك?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01199	kh3_event_bx.bx559a	bx5590220sr0	946a3553	هيرو، هل تعرفها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01200	kh3_event_bx.bx559a	bx5590230hr0	8c8747e7	<i(on)>نعم...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01201	kh3_event_bx.bx559a	bx5590240dr0	68c9acf5	ليست جاهزة تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01202	kh3_event_bx.bx559a	bx5590250hr0	08a4da32	<i(on)>هذه أول شريحة صنعتها لبايماكس.<br>إنها مليئة ببرامج القتال.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01203	kh3_event_bx.bx559a	bx5590300sr0	df8126f8	برامج?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01204	kh3_event_bx.bx559a	bx5590310hr0	c76c544c	<i(on)>نعم، إنها تخبر بايماكس كيف يتصرف.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01205	kh3_event_bx.bx559a	bx5590320go0	fdefa20d	هل يعني ذلك... أنها مثل قلبه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01206	kh3_event_bx.bx559a	bx5590330do0	ef164bbb	نوعا ما...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01207	kh3_event_bx.bx559a	bx5590340dr0	e9ecc9d2	المزيد إذن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01208	kh3_event_bx.bx559a	bx5590350sr0	f40bf6e7	ريكو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01209	kh3_event_bx.bx559a	bx5590490sr0	1625fc7b	يا للهول!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01210	kh3_event_bx.bx559a	bx5590500hr0_1	64e2aa09	<i(on)>سورا، أنا في الطريق. سأعتني بفريقي.<br>قاتلوا أنتم المكعبات المظلمة!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01211	kh3_event_bx.bx559a	bx5590500hr0_2	765705e7	<i(on)>تذكروا أن تستخدموا جهاز AR<br>لتستهدفوا النواة!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01212	kh3_event_bx.bx559a	bx5590510sr0	0adb4fee	فهمت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01213	kh3_event_bx.bx560a	bx5600030hr0	2392c1e8	بايماكس...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01214	kh3_event_bx.bx560a	bx5600040dr0	c7dc2afa	أوه، هذا ليس لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01215	kh3_event_bx.bx560a	bx5600040dr1	7f604d9f	على الأقل ليس قبل أن ننتهي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01216	kh3_event_bx.bx560a	bx5600070sr0	10f56343	ريكو... هل هذا أنت?<br>لماذا تبدو هكذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01217	kh3_event_bx.bx560a	bx5600080dr0_1	91643b94	المظاهر خادعة، لكن القلب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01218	kh3_event_bx.bx560a	bx5600080dr0_2	83d1947a	أنت تعرف أنه أنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01219	kh3_event_bx.bx560a	bx5600090sr0	090d2824	أعرف أن ريكو لن يفعل هذا.<br>ليس من دون سبب وجيه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01220	kh3_event_bx.bx560a	bx5600100dr0_1	6d11d6d6	سبب? ومتى كان ذلك مهما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01221	kh3_event_bx.bx560a	bx5600100dr0_2	7fa47938	نحاول التفوق على بعضنا<br>منذ كنا أطفالا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01222	kh3_event_bx.bx560a	bx5600110sr0	15f39bb1	ماذا...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01223	kh3_event_bx.bx560a	bx5600120do0	2564f6f2	لا تستمع إليه يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01224	kh3_event_bx.bx560a	bx5600130go0_1	2f0be0fc	المعطف يعني أنه مع منظمة XIII!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01225	kh3_event_bx.bx560a	bx5600130go0_2	3dbe4f12	و<i(on)>هذا<i(off)> يعني أنه ليس ريكو حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01226	kh3_event_bx.bx560a	bx5600140dr0	46f94fdd	أذكى مما تبدو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01227	kh3_event_bx.bx560a	bx5600150go0_1	2ab7eeb2	هزمنا أنسيم وزيهانورت—<br>كل واحد منهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01228	kh3_event_bx.bx560a	bx5600150go0_1b	d4536a86	لكنهم عادوا كلهم على أي حال، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01229	kh3_event_bx.bx560a	bx5600150go0_2	3802415c	لذا، ربما "عاد" ريكو هذا أيضا،<br>من الزمن الذي استحوذ عليه فيه أنسيم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01230	kh3_event_bx.bx560a	bx5600160do0	6b891dab	نعم، من الماضي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01231	kh3_event_bx.bx560a	bx5600170sr0	91d00664	ماذا? كيف?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01232	kh3_event_bx.bx560a	bx5600180dr0_1	60be3e3e	على عكس ساحر معين تعرفه،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01233	kh3_event_bx.bx560a	bx5600180dr0_2	720b91d0	كان علي أن ألتزم بالقواعد لأسافر عبر الزمن.<br>مما يعني أن أترك جسدي ورائي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+01165	kh3_event_bx.bx558a	bx5580310hr0_1	835cd26c	<i(on)>حسنا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01166	kh3_event_bx.bx558a	bx5580310hr0_2	91e97d82	<i(on)>سأبحث عن طريقة<br>نكشف بها نواة المكعبات المظلمة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01167	kh3_event_bx.bx558a	bx5580310hr0_3	29551ae7	<i(on)>فقط واصلوا إرسال البيانات.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01168	kh3_event_bx.bx558a	bx5580320gg0	dfd0bc12	<i(on)>علم.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01169	kh3_event_bx.bx558a	bx5580360sr0	aa78be87	هيرو، ماذا يجب أن <i(on)>نفعل<i(off)> نحن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01170	kh3_event_bx.bx558a	bx5580370hr0_1	86e0dc22	احموا الآخرين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01171	kh3_event_bx.bx558a	bx5580370hr0_2	945573cc	سأحدد لكم موقعهم<br>على شاشة AR.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01172	kh3_event_bx.bx558a	bx5580380sr0	b380f5e0	فهمنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01173	kh3_event_bx.bx558a	bx5580410sr0	7a242f63	حان وقت الذهاب يا بايماكس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01174	kh3_event_bx.bx558a	bx5580420bx0	d3f0dff2	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01175	kh3_event_bx.bx559a	bx5590010gg0	d9bd5d5a	حسنا، هناك الكثير منها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01176	kh3_event_bx.bx559a	bx5590020go0	a5f10b25	ماذا تظنونها ستفعل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01177	kh3_event_bx.bx559a	bx5590030wa0	d904cfad	لا أظن أننا نريد أن نعرف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01178	kh3_event_bx.bx559a	bx5590040fr0	5dc9fe65	أقول لندمر هذا الشيء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01179	kh3_event_bx.bx559a	bx5590050do0	332b7f46	نعم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01180	kh3_event_bx.bx559a	bx5590060hl0	170778ee	لكن من دون استراتيجية، سنكون<br>نهدر قوتنا فحسب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01181	kh3_event_bx.bx559a	bx5590070sr0	66db2943	لو عرفنا أين نضرب...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01182	kh3_event_bx.bx559a	bx5590080hr0_1	e91d5d61	<i(on)>سورا! وجدتها!<br>سأرسل لك تحديثا لبرنامج AR.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01183	kh3_event_bx.bx559a	bx5590080hr0_2	fba8f28f	<i(on)>سيريك مكان النواة—<br>نقطة ضعف المكعبات المظلمة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01184	kh3_event_bx.bx559a	bx5590080hr0_3	431495ea	<i(on)>أنا قادم لأساعد.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01185	kh3_event_bx.bx559a	bx5590090sr0	7f236224	ماذا? هذا غريب. هل تعطل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01186	kh3_event_bx.bx559a	bx5590100sr0	06baeaf7	هيرو، من ذلك الذي على الشاشة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01187	kh3_event_bx.bx559a	bx5590110go0	8b7d23c8	هذا ليس على الشاشة. إنه هنا حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01188	kh3_event_bx.bx559a	bx5590120gg0	f73175b7	المعطف الأسود... لقد عاد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01189	kh3_event_bx.bx559a	bx5590130dr0	d193a34e	هل انتهيتم من العبث?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01190	kh3_event_bx.bx559a	bx5590140sr0	485701ae	ماذا? مهلا، ذلك الصوت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01191	kh3_event_bx.bx559a	bx5590150wa0_1	41bce822	انتظروا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01192	kh3_event_bx.bx559a	bx5590150wa0_2	530947cc	أنت... تعرف هذا الشخص?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01193	kh3_event_bx.bx559a	bx5590160fr0	1622edce	والآن... يدخل الشرير الخارق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01194	kh3_event_bx.bx559a	bx5590170hl0	f345268f	يبدو كذلك بالتأكيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01195	kh3_event_bx.bx559a	bx5590180dr0	e3e13836	مضحك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01196	kh3_event_bx.bx559a	bx5590190sr0	fe060703	ريكو... لكن...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01197	kh3_event_bx.bx559a	bx5590200dr0	262447ac	وكأن هذه التجربة الغبية لم تكن مزعجة بما يكفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01198	kh3_event_bx.bx559a	bx5590210hr0	4649316b	<i(on)>من أين حصل على ذلك?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01199	kh3_event_bx.bx559a	bx5590220sr0	946a3553	هيرو، هل تعرفها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01200	kh3_event_bx.bx559a	bx5590230hr0	8c8747e7	<i(on)>نعم...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01201	kh3_event_bx.bx559a	bx5590240dr0	68c9acf5	ليست جاهزة تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01202	kh3_event_bx.bx559a	bx5590250hr0	08a4da32	<i(on)>هذه أول شريحة صنعتها لبايماكس.<br>إنها مليئة ببرامج القتال.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01203	kh3_event_bx.bx559a	bx5590300sr0	df8126f8	برامج?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01204	kh3_event_bx.bx559a	bx5590310hr0	c76c544c	<i(on)>نعم، إنها تخبر بايماكس كيف يتصرف.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01205	kh3_event_bx.bx559a	bx5590320go0	fdefa20d	هل يعني ذلك... أنها مثل قلبه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01206	kh3_event_bx.bx559a	bx5590330do0	ef164bbb	نوعا ما...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01207	kh3_event_bx.bx559a	bx5590340dr0	e9ecc9d2	المزيد إذن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01208	kh3_event_bx.bx559a	bx5590350sr0	f40bf6e7	ريكو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01209	kh3_event_bx.bx559a	bx5590490sr0	1625fc7b	يا للهول!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01210	kh3_event_bx.bx559a	bx5590500hr0_1	64e2aa09	<i(on)>سورا، أنا في الطريق. سأعتني بفريقي.<br>قاتلوا أنتم المكعبات المظلمة!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01211	kh3_event_bx.bx559a	bx5590500hr0_2	765705e7	<i(on)>تذكروا أن تستخدموا جهاز AR<br>لتستهدفوا النواة!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01212	kh3_event_bx.bx559a	bx5590510sr0	0adb4fee	فهمت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01213	kh3_event_bx.bx560a	bx5600030hr0	2392c1e8	بايماكس...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01214	kh3_event_bx.bx560a	bx5600040dr0	c7dc2afa	أوه، هذا ليس لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01215	kh3_event_bx.bx560a	bx5600040dr1	7f604d9f	على الأقل ليس قبل أن ننتهي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01216	kh3_event_bx.bx560a	bx5600070sr0	10f56343	ريكو... هل هذا أنت?<br>لماذا تبدو هكذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01217	kh3_event_bx.bx560a	bx5600080dr0_1	91643b94	المظاهر خادعة، لكن القلب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01218	kh3_event_bx.bx560a	bx5600080dr0_2	83d1947a	أنت تعرف أنه أنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01219	kh3_event_bx.bx560a	bx5600090sr0	090d2824	أعرف أن ريكو لن يفعل هذا.<br>ليس من دون سبب وجيه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01220	kh3_event_bx.bx560a	bx5600100dr0_1	6d11d6d6	سبب? ومتى كان ذلك مهما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01221	kh3_event_bx.bx560a	bx5600100dr0_2	7fa47938	نحاول التفوق على بعضنا<br>منذ كنا أطفالا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01222	kh3_event_bx.bx560a	bx5600110sr0	15f39bb1	ماذا...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01223	kh3_event_bx.bx560a	bx5600120do0	2564f6f2	لا تستمع إليه يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01224	kh3_event_bx.bx560a	bx5600130go0_1	2f0be0fc	المعطف يعني أنه مع منظمة XIII!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01225	kh3_event_bx.bx560a	bx5600130go0_2	3dbe4f12	و<i(on)>هذا<i(off)> يعني أنه ليس ريكو حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01226	kh3_event_bx.bx560a	bx5600140dr0	46f94fdd	أذكى مما تبدو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01227	kh3_event_bx.bx560a	bx5600150go0_1	2ab7eeb2	هزمنا أنسيم وزيهانورت—<br>كل واحد منهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01228	kh3_event_bx.bx560a	bx5600150go0_1b	d4536a86	لكنهم عادوا كلهم على أي حال، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01229	kh3_event_bx.bx560a	bx5600150go0_2	3802415c	لذا، ربما "عاد" ريكو هذا أيضا،<br>من الزمن الذي استحوذ عليه فيه أنسيم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01230	kh3_event_bx.bx560a	bx5600160do0	6b891dab	نعم، من الماضي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01231	kh3_event_bx.bx560a	bx5600170sr0	91d00664	ماذا? كيف?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01232	kh3_event_bx.bx560a	bx5600180dr0_1	60be3e3e	على عكس ساحر معين تعرفه،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01233	kh3_event_bx.bx560a	bx5600180dr0_2	720b91d0	كان علي أن ألتزم بالقواعد لأسافر عبر الزمن.<br>مما يعني أن أترك جسدي ورائي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01234	kh3_event_bx.bx560a	bx5600180dr0_2b	37114211		todo	
-01235	kh3_event_bx.bx560a	bx5600190sr1	30942a66	أعرف عن هذا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01236	kh3_event_bx.bx560a	bx5600200sr0	288a09df	لكن... <i(on)>لديك<i(off)> جسد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01237	kh3_event_bx.bx560a	bx5600210dr0_1	a5bb2374	ترك قلب زيهانورت جسده لكي<br>يسافر عائدا عبر الزمن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01238	kh3_event_bx.bx560a	bx5600210dr0_2	b70e8c9a	كان عليه أن يخبر نفسه الأصغر سنا<br>بالخطط العظيمة التي أعدها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01239	kh3_event_bx.bx560a	bx5600210dr0_3	0fb2ebff	وهناك في الماضي، بقي قلبه، وانتظر<br>السنين حتى جئنا أنا وأنت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01240	kh3_event_bx.bx560a	bx5600210dr0_4	9265d346	استحوذ قلب زيهانورت علي وصار أنسيم،<br>أول خصم واجهته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01241	kh3_event_bx.bx560a	bx5600210dr0_5	2ad9b423	أما بقيته، الجزء الذي تركه خلفه، فاتخذ<br>اسم زيمناس وأسس المنظمة الأولى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01242	kh3_event_bx.bx560a	bx5600210dr0_6	386c1bcd	كان كل ذلك جزءا من خطة أكبر لجعل زيهانورت<br>يتصل بالقلوب المناسبة—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01243	kh3_event_bx.bx560a	bx5600210dr0_6b	c57506eb	بما يكفي منها لتشكيل منظمة XIII الحقيقية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01244	kh3_event_bx.bx560a	bx5600210dr0_7	80d07ca8	يمكن أن يأتوا من أي مكان، ومن أي <i(on)>زمان<i(off)>...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01245	kh3_event_bx.bx560a	bx5600210dr0_7b	09df0675	ما دامت لديه الأوعية المناسبة<br>ليضع فيها قلوبهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01246	kh3_event_bx.bx560a	bx5600220sr0	e2447f53	أوعية?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01247	kh3_event_bx.bx560a	bx5600221do0	d312ce4b	النسخ!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01248	kh3_event_bx.bx560a	bx5600230dr0_1	a6d0d94e	صحيح. برنامج النسخ نجح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01249	kh3_event_bx.bx560a	bx5600230dr0_2	b46576a0	نحن حقيقيون مثل البشر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01250	kh3_event_bx.bx560a	bx5600240sr0	6667e286	إذن احزموا أمتعتكم وارحلوا!<br>ماذا ما زلتم تفعلون هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01251	kh3_event_bx.bx560a	bx5600250dr0	7b80ddb3	لنرى إن كان بإمكاننا إعادة صنع قلب من البيانات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01252	kh3_event_bx.bx560a	bx5600260sr0	aca9940a	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01253	kh3_event_bx.bx560a	bx5600270dr0	b14eab3f	آسف، هل سرقنا فكرتك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01254	kh3_event_bx.bx560a	bx5600280dr0	cdd1db1e	ذلك البالون الماشي هناك لديه "قلب".	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01255	kh3_event_bx.bx560a	bx5600280dr1	756dbc7b	على الأقل هذا هو الهراء الذي يفترض أن أصدقه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01256	kh3_event_bx.bx560a	bx5600290sr0	d036e42b	هناك قلوب في كل مكان حولنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01257	kh3_event_bx.bx560a	bx5600290sr1	688a834e	يكفي أن تراها<br>لكي تصبح حقيقية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01258	kh3_event_bx.bx560a	bx5600300hr0	d425250a	من أين حصلت على تلك?<br>إنها شريحتي. أنا صنعتها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01259	kh3_event_bx.bx560a	bx5600310dr0_1	546126de	أوه، آسف بشأن ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01260	kh3_event_bx.bx560a	bx5600310dr0_2	46d48930	لكنني أعدك بأن أعيدها إلى حيث وجدتها تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01261	kh3_event_bx.bx560a	bx5600320hr0	1eeb5386	ماذا تقصد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01262	kh3_event_bx.bx560a	bx5600330dr0	7e862541	أظنني سأعود إلى العمل الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01263	kh3_event_bx.bx560a	bx5600340sr0	e74287a1	انتظروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01264	kh3_event_bx.bx560a	bx5600360hr0_1	835ee866	يجب أن نوقفه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01265	kh3_event_bx.bx560a	bx5600360hr0_2	91eb4788	يا رفاق—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01266	kh3_event_bx.bx560a	bx5600380bx0	32090711	تعانون جميعا من إرهاق حاد.<br>أوصي بالراحة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01267	kh3_event_bx.bx560a	bx5600390hr0	2c99c8fe	نعم، أنت محق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01268	kh3_event_bx.bx560a	bx5600390hr1	9425af9b	لنعد ترتيب صفوفنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01269	kh3_event_bx.bx561a	bx5610010fr0	f1b761d0	هيا يا رفاق. لماذا هذه الوجوه العابسة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01270	kh3_event_bx.bx561a	bx5610010fr1	490b06b5	هل نسيتم أننا فزنا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01271	kh3_event_bx.bx561a	bx5610020gg0	f1e05f3a	فريد. ليس الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01272	kh3_event_bx.bx561a	bx5610030hr0	d248c442	اسمه ريكو?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01273	kh3_event_bx.bx561a	bx5610040hr0	330c62d1	وأنت تعرفه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01274	kh3_event_bx.bx561a	bx5610050sr0	2be11065	نعم... حسنا، أعرف "ريكو" <i(on)>ما<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01275	kh3_event_bx.bx561a	bx5610060do0	1b767d26	ذلك مزيف!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01276	kh3_event_bx.bx561a	bx5610070go0	098f9490	المزيف مع منظمة XIII،<br>ألد أعدائنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01277	kh3_event_bx.bx561a	bx5610080wa0	6c821b7f	حسنا، لكن كيف حصل على شريحة هيرو?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01278	kh3_event_bx.bx561a	bx5610090hl0	ec6c4765	وماذا قصد بتجربة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01279	kh3_event_bx.bx561a	bx5610100gg0	ba0b4c91	وماذا يريدون?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01280	kh3_event_bx.bx561a	bx5610110sr0_1	c262b43a	قال إنهم يحاولون<br>إعادة صنع قلب من البيانات،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01281	kh3_event_bx.bx561a	bx5610110sr0_2	d0d71bd4	لكنني لا أعرف ماذا يريدون <i(on)>حقا<i(off)>.<br>لا أحد منا يعرف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01282	kh3_event_bx.bx561a	bx5610120sr0_1	c0bcb31d	هؤلاء يظهرون—<br>وبدلا من القتال بشرف وعدل،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01283	kh3_event_bx.bx561a	bx5610120sr0_2	d2091cf3	يستهدفون القلب ويقولون أشياء<br>ليستفزوك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01284	kh3_event_bx.bx561a	bx5610120sr0_2b	889b0b78	إنهم جبناء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01285	kh3_event_bx.bx561a	bx5610120sr0_3	6ab57b96	والآن يفعلون ذلك بكم أيضا.<br>إنه خطؤنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01286	kh3_event_bx.bx561a	bx5610130hr0	536da165	لا. قد يكون هذا جيدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01287	kh3_event_bx.bx561a	bx5610130hr1	ebd1c600	تلك الشريحة قد تعطيني أخيرا<br>بعض الأجوبة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01288	kh3_event_bx.bx561a	bx5610140sr0	cfa34e04	قلت إنك صنعتها، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01289	kh3_event_bx.bx561a	bx5610150hr0	d74e3cb0	نعم. بايماكس هذا هو في الحقيقة<br>النموذج الثاني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01290	kh3_event_bx.bx561a	bx5610160hr0	78e7717a	آه، لا أقصد الإساءة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01291	kh3_event_bx.bx561a	bx5610170bx0	6677be95	أنا روبوت. لا يمكن الإساءة إلي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01292	kh3_event_bx.bx561a	bx5610190hr0_1	1d796c8f	إنها قصة طويلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01293	kh3_event_bx.bx561a	bx5610190hr0_2	0fccc361	لكن بايماكس الأول والشريحة التي صنعتها...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01294	kh3_event_bx.bx561a	bx5610190hr0_2b	57e8dd38	اختفيا في بعد آخر<br>مع الروبوتات الدقيقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01295	kh3_event_bx.bx561a	bx5610190hr0_3	b770a404	الشريحة عادت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01296	kh3_event_bx.bx561a	bx5610200hr0	a4da4587	إذن ربما عاد بايماكس الأول أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01297	kh3_event_bx.bx561a	bx5610210hl0	a88c5dd8	هيرو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01298	kh3_event_bx.bx561a	bx5610220bx0	15e3c7a2	من يعاني فقدا يحتاج إلى دعم<br>الأصدقاء والأحبة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01299	kh3_event_bx.bx561a	bx5610300fr0	cccef3be	ما كان ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01300	kh3_event_bx.bx561a	bx5610280wa0	b5b9d770	لا أدري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01301	kh3_event_bx.bx561a	bx5610310sr0	3d125214	يا رفاق، هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01302	kh3_event_bx.bx561b	bx5611010dr0	1c390252	لماذا تتجسسين هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01303	kh3_event_bx.bx561b	bx5611020ma0	dc0d43c1	هذا ليس من شأنك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01304	kh3_event_bx.bx561b	bx5611030dr0	d6f774de	تجاوزي حدودك، وسيبتلعك الظلام مجددا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01305	kh3_event_bx.bx561b	bx5611040ma0_1	977b0642	يا له من قول مثير للاهتمام.<br>سأفعل ما يحلو لي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01306	kh3_event_bx.bx561b	bx5611040ma0_2	85cea9ac	وكذلك يجب أن تفعل أنت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01307	kh3_event_bx.bx561b	bx5611050dr0	52d4e90b	أوه، أنوي ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01308	kh3_event_bx.bx561b	bx5611060pe0	841d4a70	من هذا? صديق لك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01309	kh3_event_bx.bx561b	bx5611070ma0_1	95a50165	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01310	kh3_event_bx.bx561b	bx5611070ma0_2	8710ae8b	مع أنني لا أستطيع أن أخبرك من "أي زمن".	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01311	kh3_event_bx.bx562a	bx5620010gg0	97561a4f	أرجو أنه تعلم بعض الحيل الجديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01312	kh3_event_bx.bx562a	bx5620020wa0	f288b3fe	نعم، الآن عليه أن يواجهنا <i(on)>جميعا<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01313	kh3_event_bx.bx562a	bx5620030hl0	7266efe4	هذا صحيح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01314	kh3_event_bx.bx562a	bx5620040fr0	1322b970	فريدي يريد التدمير!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01315	kh3_event_bx.bx562a	bx5620050bx0	e483a581	احتمال نجاحنا هو—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01316	kh3_event_bx.bx562a	bx5620060hr0	30dd1ce2	لا داعي لأن تحسب الأرقام يا بايماكس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01317	kh3_event_bx.bx562a	bx5620070hr0_1	ce0c3f0b	الأمر ليس مجموع أجزائنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01318	kh3_event_bx.bx562a	bx5620070hr0_2	dcb990e5	بل مجموع قلوبنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01319	kh3_event_bx.bx562a	bx5620080sr0	54af1e77	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01320	kh3_event_bx.bx562a	bx5620100dr0	30d1a991	وكم يبلغ ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01321	kh3_event_bx.bx562a	bx5620100dr1	886dcef4	أرني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01322	kh3_event_bx.bx562a	bx5620140dr0	7e3c42c8	أوشكنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01323	kh3_event_bx.bx562a	bx5620150sr0	63db7dfd	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01324	kh3_event_bx.bx562a	bx5620170dr0	d1950f02	كومة الخردة هذه جمعت البيانات التي احتجناها...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01325	kh3_event_bx.bx562a	bx5620170dr1_1	77454b25	رعب التعرض لهجوم دون إنذار...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01326	kh3_event_bx.bx562a	bx5620170dr1_2	65f0e4cb	يأس ألا يكون لك مكان تهرب إليه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01327	kh3_event_bx.bx562a	bx5620170dr1_3	dd4c83ae	التوق إلى الانتقام...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01328	kh3_event_bx.bx562a	bx5620180sr0	d58a7b50	القلب أكثر من ذلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01329	kh3_event_bx.bx562a	bx5620190wa0	41df4da1	إنه العمل معا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01330	kh3_event_bx.bx562a	bx5620200do0	8f712443	والابتسام لشيء مضحك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01331	kh3_event_bx.bx562a	bx5620220hr0	a70b3bb4	والثقة بالأصدقاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01332	kh3_event_bx.bx562a	bx5620230sr0	bfe64900	في كل قلب، هناك أمل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01333	kh3_event_bx.bx562a	bx5620240dr0	2622ebe0	معك حق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01334	kh3_event_bx.bx562a	bx5620250sr0	3bc5d4d5	ماذا...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01335	kh3_event_bx.bx562a	bx5620260dr0_1	244af2e8	لهذا حرصت على أن يقاتلكم مخلوقنا <i(on)>أنتم<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01336	kh3_event_bx.bx562a	bx5620260dr0_2	36ff5d06	الآن البيانات تحوي قلبا كاملا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01337	kh3_event_bx.bx562a	bx5620270sr0	f10ba259	قلب مصنوع من الصراع?<br>لا يمكن أن يكون حقيقيا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01338	kh3_event_bx.bx562a	bx5620280dr0_1	2c59144e	ماذا قلت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01339	kh3_event_bx.bx562a	bx5620280dr0_2	3eecbba0	يكفي أن أراه لكي يصبح حقيقيا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01340	kh3_event_bx.bx562a	bx5620290dr0	9073ed4d	إذن، لنره.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01341	kh3_event_bx.bx562a	bx5620300dr0	e9ea659e	أولا، نحتاج إلى وعاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01342	kh3_event_bx.bx562a	bx5620310gg0	cf48b367	ماذا يحدث?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01343	kh3_event_bx.bx562a	bx5620320hl0	4f1f7d8a	شكل آخر للمكعبات المظلمة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01344	kh3_event_bx.bx562a	bx5620330fr0	aa78b6cb	لا يبدو سيئا مثل السابق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01345	kh3_event_bx.bx562a	bx5620340go0	372778cd	قد تكون حيلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01346	kh3_event_bx.bx562a	bx5620350wa0	4bd2bc45	عادة ما تكون كذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01347	kh3_event_bx.bx562a	bx5620360do0	8a77dcb1	نستطيع إيقافه!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01348	kh3_event_bx.bx562a	bx5620380sr0	0cb1b75f	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01349	kh3_event_bx.bx562a	bx5620390hr0	145cc5eb	انتظروا! هذا... بايماكس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01350	kh3_event_bx.bx562a	bx5620410sr0_1	688e1b32	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01351	kh3_event_bx.bx562a	bx5620410sr0_2	7a3bb4dc	مستحيل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01352	kh3_event_bx.bx562a	bx5620420hr0	173669e4	بايماكس...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01353	kh3_event_bx.bx562a	bx5620430dr0	775b1f23	لا تتعب نفسك. هذه الدمية فقدت قلبها.<br>لن تستيقظ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01354	kh3_event_bx.bx562a	bx5620440hr0	9315f431	إنه ليس دمية!<br>بايماكس مثل عائلتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01355	kh3_event_bx.bx562a	bx5620450hr0	f672cf77	أرجوك! أعد إلي صديقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01356	kh3_event_bx.bx562a	bx5620460dr0	5cd1cf3c	نعم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01357	kh3_event_bx.bx562a	bx5620460dr1	e46da859	لقد وعدت بأن أعيد هذه إلى حيث وجدتها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01358	kh3_event_bx.bx562a	bx5620470dr0_1	6cb018ca	لكن هناك قطعة ناقصة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01359	kh3_event_bx.bx562a	bx5620470dr0_2	7e05b724	سورا، أنت من سيكمل<br>هذا القلب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01360	kh3_event_bx.bx562a	bx5620480sr0	3da98028	أجل، بالتأكيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01361	kh3_event_bx.bx562a	bx5620490dr0_1	64a3fe6c	لا يمكن أن يوجد قلب بلا حزن...<br>بلا فقد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01362	kh3_event_bx.bx562a	bx5620490dr0_2	76165182	كما ترى، ستدمر صديق هيرو<br>أمام عينيه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01363	kh3_event_bx.bx562a	bx5620500sr0	215733bd	انتظروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01364	kh3_event_bx.bx562a	bx5620560sr0	a574ae68	هيرو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01365	kh3_event_bx.bx562a	bx5620630bx0	d09d6a04	يا للهول.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01366	kh3_event_bx.bx562a	bx5620710gg0	a64e2d38	هيرو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01367	kh3_event_bx.bx562a	bx5620750sr0	d3e62fad	هيرو، أخبرنا. ماذا نفعل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01368	kh3_event_bx.bx562a	bx5620780hr0	183d60f2	بايماكس يعني لي كل شيء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01369	kh3_event_bx.bx562a	bx5620780hr0b	ad572570	لكن تلك الشريحة ليست حقيقته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01370	kh3_event_bx.bx562a	bx5620780hr1_1	e49a7a4a	لقد ارتكبت هذا الخطأ من قبل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01371	kh3_event_bx.bx562a	bx5620780hr1_2	f62fd5a4	تاداشي لم يكن ليريد<br>بايماكس يؤذي الناس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01372	kh3_event_bx.bx562a	bx5620810hr0	039486cf	سورا، يجب إيقافه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01373	kh3_event_bx.bx562a	bx5620820sr0	d1b782f7	حسنا. ساعد غو غو والآخرين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01374	kh3_event_bx.bx562a	bx5620820sr1	690be592	اترك لنا هذا الشخص.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01375	kh3_event_bx.bx562a	bx5620830hr0	c95af043	شكرا لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01376	kh3_event_bx.bx562a	bx5620870sr0	fa3d52e8	يا للهول!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01377	kh3_event_bx.bx562a	bx5620880hr0	fb286b3b	سورا، خذ بايماكس معك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01378	kh3_event_bx.bx562a	bx5620890sr0	e3c5198f	حسنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01379	kh3_event_bx.bx562a	bx5620900sr0	9a5c915c	بايماكس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01380	kh3_event_bx.bx562a	bx5620910bx0	f9461741	أنا جاهز يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01381	kh3_event_bx.bx563a	bx5630080sr0	a5751bdd	يا رفاق... هيرو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01382	kh3_event_bx.bx563a	bx5630090wa0	31202d2c	إذن... هل أوقفناه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01383	kh3_event_bx.bx563a	bx5630100hr0	c401e1ba	وضع الأمان يعمل إن تعرض<br>لضغط كبير، لذا هو على الأرجح في حالة سكون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01384	kh3_event_bx.bx563a	bx5630100hr1	7cbd86df	علينا تدمير الشريحة<br>إن أردنا أن نتأكد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01385	kh3_event_bx.bx563a	bx5630110hl0	c857f9e5	لكن... هل أنت متأكد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01386	kh3_event_bx.bx563a	bx5630120fr0	e7fe4428	نعم يا صاح... لا داعي لأن تذهب <i(on)>إلى هذا الحد<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01387	kh3_event_bx.bx563a	bx5630130gg0	2d670c4e	ربما نجد طريقة أخرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+01235	kh3_event_bx.bx560a	bx5600190sr1	30942a66	أعرف عن هذا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01236	kh3_event_bx.bx560a	bx5600200sr0	288a09df	لكن... <i(on)>لديك<i(off)> جسد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01237	kh3_event_bx.bx560a	bx5600210dr0_1	a5bb2374	ترك قلب زيهانورت جسده لكي<br>يسافر عائدا عبر الزمن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01238	kh3_event_bx.bx560a	bx5600210dr0_2	b70e8c9a	كان عليه أن يخبر نفسه الأصغر سنا<br>بالخطط العظيمة التي أعدها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01239	kh3_event_bx.bx560a	bx5600210dr0_3	0fb2ebff	وهناك في الماضي، بقي قلبه، وانتظر<br>السنين حتى جئنا أنا وأنت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01240	kh3_event_bx.bx560a	bx5600210dr0_4	9265d346	استحوذ قلب زيهانورت علي وصار أنسيم،<br>أول خصم واجهته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01241	kh3_event_bx.bx560a	bx5600210dr0_5	2ad9b423	أما بقيته، الجزء الذي تركه خلفه، فاتخذ<br>اسم زيمناس وأسس المنظمة الأولى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01242	kh3_event_bx.bx560a	bx5600210dr0_6	386c1bcd	كان كل ذلك جزءا من خطة أكبر لجعل زيهانورت<br>يتصل بالقلوب المناسبة—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01243	kh3_event_bx.bx560a	bx5600210dr0_6b	c57506eb	بما يكفي منها لتشكيل منظمة XIII الحقيقية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01244	kh3_event_bx.bx560a	bx5600210dr0_7	80d07ca8	يمكن أن يأتوا من أي مكان، ومن أي <i(on)>زمان<i(off)>...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01245	kh3_event_bx.bx560a	bx5600210dr0_7b	09df0675	ما دامت لديه الأوعية المناسبة<br>ليضع فيها قلوبهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01246	kh3_event_bx.bx560a	bx5600220sr0	e2447f53	أوعية?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01247	kh3_event_bx.bx560a	bx5600221do0	d312ce4b	النسخ!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01248	kh3_event_bx.bx560a	bx5600230dr0_1	a6d0d94e	صحيح. برنامج النسخ نجح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01249	kh3_event_bx.bx560a	bx5600230dr0_2	b46576a0	نحن حقيقيون مثل البشر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01250	kh3_event_bx.bx560a	bx5600240sr0	6667e286	إذن احزموا أمتعتكم وارحلوا!<br>ماذا ما زلتم تفعلون هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01251	kh3_event_bx.bx560a	bx5600250dr0	7b80ddb3	لنرى إن كان بإمكاننا إعادة صنع قلب من البيانات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01252	kh3_event_bx.bx560a	bx5600260sr0	aca9940a	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01253	kh3_event_bx.bx560a	bx5600270dr0	b14eab3f	آسف، هل سرقنا فكرتك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01254	kh3_event_bx.bx560a	bx5600280dr0	cdd1db1e	ذلك البالون الماشي هناك لديه "قلب".	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01255	kh3_event_bx.bx560a	bx5600280dr1	756dbc7b	على الأقل هذا هو الهراء الذي يفترض أن أصدقه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01256	kh3_event_bx.bx560a	bx5600290sr0	d036e42b	هناك قلوب في كل مكان حولنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01257	kh3_event_bx.bx560a	bx5600290sr1	688a834e	يكفي أن تراها<br>لكي تصبح حقيقية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01258	kh3_event_bx.bx560a	bx5600300hr0	d425250a	من أين حصلت على تلك?<br>إنها شريحتي. أنا صنعتها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01259	kh3_event_bx.bx560a	bx5600310dr0_1	546126de	أوه، آسف بشأن ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01260	kh3_event_bx.bx560a	bx5600310dr0_2	46d48930	لكنني أعدك بأن أعيدها إلى حيث وجدتها تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01261	kh3_event_bx.bx560a	bx5600320hr0	1eeb5386	ماذا تقصد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01262	kh3_event_bx.bx560a	bx5600330dr0	7e862541	أظنني سأعود إلى العمل الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01263	kh3_event_bx.bx560a	bx5600340sr0	e74287a1	انتظروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01264	kh3_event_bx.bx560a	bx5600360hr0_1	835ee866	يجب أن نوقفه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01265	kh3_event_bx.bx560a	bx5600360hr0_2	91eb4788	يا رفاق—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01266	kh3_event_bx.bx560a	bx5600380bx0	32090711	تعانون جميعا من إرهاق حاد.<br>أوصي بالراحة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01267	kh3_event_bx.bx560a	bx5600390hr0	2c99c8fe	نعم، أنت محق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01268	kh3_event_bx.bx560a	bx5600390hr1	9425af9b	لنعد ترتيب صفوفنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01269	kh3_event_bx.bx561a	bx5610010fr0	f1b761d0	هيا يا رفاق. لماذا هذه الوجوه العابسة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01270	kh3_event_bx.bx561a	bx5610010fr1	490b06b5	هل نسيتم أننا فزنا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01271	kh3_event_bx.bx561a	bx5610020gg0	f1e05f3a	فريد. ليس الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01272	kh3_event_bx.bx561a	bx5610030hr0	d248c442	اسمه ريكو?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01273	kh3_event_bx.bx561a	bx5610040hr0	330c62d1	وأنت تعرفه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01274	kh3_event_bx.bx561a	bx5610050sr0	2be11065	نعم... حسنا، أعرف "ريكو" <i(on)>ما<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01275	kh3_event_bx.bx561a	bx5610060do0	1b767d26	ذلك مزيف!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01276	kh3_event_bx.bx561a	bx5610070go0	098f9490	المزيف مع منظمة XIII،<br>ألد أعدائنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01277	kh3_event_bx.bx561a	bx5610080wa0	6c821b7f	حسنا، لكن كيف حصل على شريحة هيرو?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01278	kh3_event_bx.bx561a	bx5610090hl0	ec6c4765	وماذا قصد بتجربة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01279	kh3_event_bx.bx561a	bx5610100gg0	ba0b4c91	وماذا يريدون?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01280	kh3_event_bx.bx561a	bx5610110sr0_1	c262b43a	قال إنهم يحاولون<br>إعادة صنع قلب من البيانات،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01281	kh3_event_bx.bx561a	bx5610110sr0_2	d0d71bd4	لكنني لا أعرف ماذا يريدون <i(on)>حقا<i(off)>.<br>لا أحد منا يعرف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01282	kh3_event_bx.bx561a	bx5610120sr0_1	c0bcb31d	هؤلاء يظهرون—<br>وبدلا من القتال بشرف وعدل،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01283	kh3_event_bx.bx561a	bx5610120sr0_2	d2091cf3	يستهدفون القلب ويقولون أشياء<br>ليستفزوك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01284	kh3_event_bx.bx561a	bx5610120sr0_2b	889b0b78	إنهم جبناء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01285	kh3_event_bx.bx561a	bx5610120sr0_3	6ab57b96	والآن يفعلون ذلك بكم أيضا.<br>إنه خطؤنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01286	kh3_event_bx.bx561a	bx5610130hr0	536da165	لا. قد يكون هذا جيدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01287	kh3_event_bx.bx561a	bx5610130hr1	ebd1c600	تلك الشريحة قد تعطيني أخيرا<br>بعض الأجوبة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01288	kh3_event_bx.bx561a	bx5610140sr0	cfa34e04	قلت إنك صنعتها، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01289	kh3_event_bx.bx561a	bx5610150hr0	d74e3cb0	نعم. بايماكس هذا هو في الحقيقة<br>النموذج الثاني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01290	kh3_event_bx.bx561a	bx5610160hr0	78e7717a	آه، لا أقصد الإساءة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01291	kh3_event_bx.bx561a	bx5610170bx0	6677be95	أنا روبوت. لا يمكن الإساءة إلي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01292	kh3_event_bx.bx561a	bx5610190hr0_1	1d796c8f	إنها قصة طويلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01293	kh3_event_bx.bx561a	bx5610190hr0_2	0fccc361	لكن بايماكس الأول والشريحة التي صنعتها...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01294	kh3_event_bx.bx561a	bx5610190hr0_2b	57e8dd38	اختفيا في بعد آخر<br>مع الروبوتات الدقيقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01295	kh3_event_bx.bx561a	bx5610190hr0_3	b770a404	الشريحة عادت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01296	kh3_event_bx.bx561a	bx5610200hr0	a4da4587	إذن ربما عاد بايماكس الأول أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01297	kh3_event_bx.bx561a	bx5610210hl0	a88c5dd8	هيرو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01298	kh3_event_bx.bx561a	bx5610220bx0	15e3c7a2	من يعاني فقدا يحتاج إلى دعم<br>الأصدقاء والأحبة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01299	kh3_event_bx.bx561a	bx5610300fr0	cccef3be	ما كان ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01300	kh3_event_bx.bx561a	bx5610280wa0	b5b9d770	لا أدري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01301	kh3_event_bx.bx561a	bx5610310sr0	3d125214	يا رفاق، هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01302	kh3_event_bx.bx561b	bx5611010dr0	1c390252	لماذا تتجسسين هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01303	kh3_event_bx.bx561b	bx5611020ma0	dc0d43c1	هذا ليس من شأنك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01304	kh3_event_bx.bx561b	bx5611030dr0	d6f774de	تجاوزي حدودك، وسيبتلعك الظلام مجددا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01305	kh3_event_bx.bx561b	bx5611040ma0_1	977b0642	يا له من قول مثير للاهتمام.<br>سأفعل ما يحلو لي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01306	kh3_event_bx.bx561b	bx5611040ma0_2	85cea9ac	وكذلك يجب أن تفعل أنت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01307	kh3_event_bx.bx561b	bx5611050dr0	52d4e90b	أوه، أنوي ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01308	kh3_event_bx.bx561b	bx5611060pe0	841d4a70	من هذا? صديق لك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01309	kh3_event_bx.bx561b	bx5611070ma0_1	95a50165	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01310	kh3_event_bx.bx561b	bx5611070ma0_2	8710ae8b	مع أنني لا أستطيع أن أخبرك من "أي زمن".	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01311	kh3_event_bx.bx562a	bx5620010gg0	97561a4f	أرجو أنه تعلم بعض الحيل الجديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01312	kh3_event_bx.bx562a	bx5620020wa0	f288b3fe	نعم، الآن عليه أن يواجهنا <i(on)>جميعا<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01313	kh3_event_bx.bx562a	bx5620030hl0	7266efe4	هذا صحيح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01314	kh3_event_bx.bx562a	bx5620040fr0	1322b970	فريدي يريد التدمير!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01315	kh3_event_bx.bx562a	bx5620050bx0	e483a581	احتمال نجاحنا هو—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01316	kh3_event_bx.bx562a	bx5620060hr0	30dd1ce2	لا داعي لأن تحسب الأرقام يا بايماكس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01317	kh3_event_bx.bx562a	bx5620070hr0_1	ce0c3f0b	الأمر ليس مجموع أجزائنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01318	kh3_event_bx.bx562a	bx5620070hr0_2	dcb990e5	بل مجموع قلوبنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01319	kh3_event_bx.bx562a	bx5620080sr0	54af1e77	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01320	kh3_event_bx.bx562a	bx5620100dr0	30d1a991	وكم يبلغ ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01321	kh3_event_bx.bx562a	bx5620100dr1	886dcef4	أرني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01322	kh3_event_bx.bx562a	bx5620140dr0	7e3c42c8	أوشكنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01323	kh3_event_bx.bx562a	bx5620150sr0	63db7dfd	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01324	kh3_event_bx.bx562a	bx5620170dr0	d1950f02	كومة الخردة هذه جمعت البيانات التي احتجناها...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01325	kh3_event_bx.bx562a	bx5620170dr1_1	77454b25	رعب التعرض لهجوم دون إنذار...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01326	kh3_event_bx.bx562a	bx5620170dr1_2	65f0e4cb	يأس ألا يكون لك مكان تهرب إليه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01327	kh3_event_bx.bx562a	bx5620170dr1_3	dd4c83ae	التوق إلى الانتقام...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01328	kh3_event_bx.bx562a	bx5620180sr0	d58a7b50	القلب أكثر من ذلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01329	kh3_event_bx.bx562a	bx5620190wa0	41df4da1	إنه العمل معا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01330	kh3_event_bx.bx562a	bx5620200do0	8f712443	والابتسام لشيء مضحك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01331	kh3_event_bx.bx562a	bx5620220hr0	a70b3bb4	والثقة بالأصدقاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01332	kh3_event_bx.bx562a	bx5620230sr0	bfe64900	في كل قلب، هناك أمل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01333	kh3_event_bx.bx562a	bx5620240dr0	2622ebe0	معك حق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01334	kh3_event_bx.bx562a	bx5620250sr0	3bc5d4d5	ماذا...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01335	kh3_event_bx.bx562a	bx5620260dr0_1	244af2e8	لهذا حرصت على أن يقاتلكم مخلوقنا <i(on)>أنتم<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01336	kh3_event_bx.bx562a	bx5620260dr0_2	36ff5d06	الآن البيانات تحوي قلبا كاملا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01337	kh3_event_bx.bx562a	bx5620270sr0	f10ba259	قلب مصنوع من الصراع?<br>لا يمكن أن يكون حقيقيا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01338	kh3_event_bx.bx562a	bx5620280dr0_1	2c59144e	ماذا قلت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01339	kh3_event_bx.bx562a	bx5620280dr0_2	3eecbba0	يكفي أن أراه لكي يصبح حقيقيا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01340	kh3_event_bx.bx562a	bx5620290dr0	9073ed4d	إذن، لنره.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01341	kh3_event_bx.bx562a	bx5620300dr0	e9ea659e	أولا، نحتاج إلى وعاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01342	kh3_event_bx.bx562a	bx5620310gg0	cf48b367	ماذا يحدث?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01343	kh3_event_bx.bx562a	bx5620320hl0	4f1f7d8a	شكل آخر للمكعبات المظلمة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01344	kh3_event_bx.bx562a	bx5620330fr0	aa78b6cb	لا يبدو سيئا مثل السابق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01345	kh3_event_bx.bx562a	bx5620340go0	372778cd	قد تكون حيلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01346	kh3_event_bx.bx562a	bx5620350wa0	4bd2bc45	عادة ما تكون كذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01347	kh3_event_bx.bx562a	bx5620360do0	8a77dcb1	نستطيع إيقافه!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01348	kh3_event_bx.bx562a	bx5620380sr0	0cb1b75f	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01349	kh3_event_bx.bx562a	bx5620390hr0	145cc5eb	انتظروا! هذا... بايماكس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01350	kh3_event_bx.bx562a	bx5620410sr0_1	688e1b32	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01351	kh3_event_bx.bx562a	bx5620410sr0_2	7a3bb4dc	مستحيل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01352	kh3_event_bx.bx562a	bx5620420hr0	173669e4	بايماكس...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01353	kh3_event_bx.bx562a	bx5620430dr0	775b1f23	لا تتعب نفسك. هذه الدمية فقدت قلبها.<br>لن تستيقظ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01354	kh3_event_bx.bx562a	bx5620440hr0	9315f431	إنه ليس دمية!<br>بايماكس مثل عائلتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01355	kh3_event_bx.bx562a	bx5620450hr0	f672cf77	أرجوك! أعد إلي صديقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01356	kh3_event_bx.bx562a	bx5620460dr0	5cd1cf3c	نعم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01357	kh3_event_bx.bx562a	bx5620460dr1	e46da859	لقد وعدت بأن أعيد هذه إلى حيث وجدتها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01358	kh3_event_bx.bx562a	bx5620470dr0_1	6cb018ca	لكن هناك قطعة ناقصة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01359	kh3_event_bx.bx562a	bx5620470dr0_2	7e05b724	سورا، أنت من سيكمل<br>هذا القلب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01360	kh3_event_bx.bx562a	bx5620480sr0	3da98028	أجل، بالتأكيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01361	kh3_event_bx.bx562a	bx5620490dr0_1	64a3fe6c	لا يمكن أن يوجد قلب بلا حزن...<br>بلا فقد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01362	kh3_event_bx.bx562a	bx5620490dr0_2	76165182	كما ترى، ستدمر صديق هيرو<br>أمام عينيه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01363	kh3_event_bx.bx562a	bx5620500sr0	215733bd	انتظروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01364	kh3_event_bx.bx562a	bx5620560sr0	a574ae68	هيرو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01365	kh3_event_bx.bx562a	bx5620630bx0	d09d6a04	يا للهول.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01366	kh3_event_bx.bx562a	bx5620710gg0	a64e2d38	هيرو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01367	kh3_event_bx.bx562a	bx5620750sr0	d3e62fad	هيرو، أخبرنا. ماذا نفعل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01368	kh3_event_bx.bx562a	bx5620780hr0	183d60f2	بايماكس يعني لي كل شيء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01369	kh3_event_bx.bx562a	bx5620780hr0b	ad572570	لكن تلك الشريحة ليست حقيقته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01370	kh3_event_bx.bx562a	bx5620780hr1_1	e49a7a4a	لقد ارتكبت هذا الخطأ من قبل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01371	kh3_event_bx.bx562a	bx5620780hr1_2	f62fd5a4	تاداشي لم يكن ليريد<br>بايماكس يؤذي الناس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01372	kh3_event_bx.bx562a	bx5620810hr0	039486cf	سورا، يجب إيقافه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01373	kh3_event_bx.bx562a	bx5620820sr0	d1b782f7	حسنا. ساعد غو غو والآخرين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01374	kh3_event_bx.bx562a	bx5620820sr1	690be592	اترك لنا هذا الشخص.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01375	kh3_event_bx.bx562a	bx5620830hr0	c95af043	شكرا لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01376	kh3_event_bx.bx562a	bx5620870sr0	fa3d52e8	يا للهول!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01377	kh3_event_bx.bx562a	bx5620880hr0	fb286b3b	سورا، خذ بايماكس معك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01378	kh3_event_bx.bx562a	bx5620890sr0	e3c5198f	حسنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01379	kh3_event_bx.bx562a	bx5620900sr0	9a5c915c	بايماكس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01380	kh3_event_bx.bx562a	bx5620910bx0	f9461741	أنا جاهز يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01381	kh3_event_bx.bx563a	bx5630080sr0	a5751bdd	يا رفاق... هيرو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01382	kh3_event_bx.bx563a	bx5630090wa0	31202d2c	إذن... هل أوقفناه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01383	kh3_event_bx.bx563a	bx5630100hr0	c401e1ba	وضع الأمان يعمل إن تعرض<br>لضغط كبير، لذا هو على الأرجح في حالة سكون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01384	kh3_event_bx.bx563a	bx5630100hr1	7cbd86df	علينا تدمير الشريحة<br>إن أردنا أن نتأكد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01385	kh3_event_bx.bx563a	bx5630110hl0	c857f9e5	لكن... هل أنت متأكد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01386	kh3_event_bx.bx563a	bx5630120fr0	e7fe4428	نعم يا صاح... لا داعي لأن تذهب <i(on)>إلى هذا الحد<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01387	kh3_event_bx.bx563a	bx5630130gg0	2d670c4e	ربما نجد طريقة أخرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01388	kh3_event_bx.bx563a	bx5630140hr0	8aec0ae3		todo	
-01389	kh3_event_bx.bx563a	bx5630140hr1	32506d86	إنه الصواب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01390	kh3_event_bx.bx563a	bx5630170hr0	25454729	تاداشي كان سيفعل الشيء نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01391	kh3_event_bx.bx563a	bx5630220sr0_1	8c5b996d	لكن يا هيرو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01392	kh3_event_bx.bx563a	bx5630220sr0_2	9eee3683	أليس هذا قلب بايماكس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01393	kh3_event_bx.bx563a	bx5630230hr0	33b60558	لا بأس. بايماكس <i(on)>هنا<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01394	kh3_event_bx.bx563a	bx5630240hr0	d2f2a3cb	أنا... من يجب أن يفعلها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01395	kh3_event_bx.bx564a	bx5640110hr0	19f3c869	آخ?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01396	kh3_event_bx.bx564a	bx5640120bx0	cdad710a	مرحبا، أنا بايماكس،<br>رفيقك الشخصي للرعاية الصحية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01397	kh3_event_bx.bx564a	bx5640200fr0	cdbb8919	اثنان من بايماكس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01398	kh3_event_bx.bx564a	bx5640130sr1_1	2569d3f7	هذا رائع يا هيرو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01399	kh3_event_bx.bx564a	bx5640160hr1_1	f0bfeac3	نعم، شكرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01400	kh3_event_bx.bx564a	bx5640130sr1_2	37dc7c19	إذن، آه، أتظن أنني أستطيع<br>أخذ واحد منهما معي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+01389	kh3_event_bx.bx563a	bx5630140hr1	32506d86	إنه الصواب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01390	kh3_event_bx.bx563a	bx5630170hr0	25454729	تاداشي كان سيفعل الشيء نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01391	kh3_event_bx.bx563a	bx5630220sr0_1	8c5b996d	لكن يا هيرو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01392	kh3_event_bx.bx563a	bx5630220sr0_2	9eee3683	أليس هذا قلب بايماكس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01393	kh3_event_bx.bx563a	bx5630230hr0	33b60558	لا بأس. بايماكس <i(on)>هنا<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01394	kh3_event_bx.bx563a	bx5630240hr0	d2f2a3cb	أنا... من يجب أن يفعلها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01395	kh3_event_bx.bx564a	bx5640110hr0	19f3c869	آخ?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01396	kh3_event_bx.bx564a	bx5640120bx0	cdad710a	مرحبا، أنا بايماكس،<br>رفيقك الشخصي للرعاية الصحية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01397	kh3_event_bx.bx564a	bx5640200fr0	cdbb8919	اثنان من بايماكس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01398	kh3_event_bx.bx564a	bx5640130sr1_1	2569d3f7	هذا رائع يا هيرو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01399	kh3_event_bx.bx564a	bx5640160hr1_1	f0bfeac3	نعم، شكرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01400	kh3_event_bx.bx564a	bx5640130sr1_2	37dc7c19	إذن، آه، أتظن أنني أستطيع<br>أخذ واحد منهما معي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01401	kh3_event_bx.bx564a	bx5640160hr1_2	e20a452d		todo	
-01402	kh3_event_bx.bx564a	bx5640130sr1_3	8f601b7c	ماذا? هيا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01403	kh3_event_bx.bx564a	bx5640160hr1_3	5ab62248	آه، هذا رفض.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01404	kh3_event_bx.bx564a	bx5640130sr1_4	12b723c5	واحد. واحد فقط منهما!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01405	kh3_event_bx.bx564a	bx5640160hr1_4	c7611af1	لا. من سيصلحه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01406	kh3_event_bx.bx564a	bx5640130sr1_5	aa0b44a0	هيا. أرجوووك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01407	kh3_event_bx.bx564a	bx5640160hr1_5	7fdd7d94	إنه <i(on)>رفيقي<i(off)> الشخصي للرعاية الصحية?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01408	kh3_event_bx.bx806a	bx8060010ji0	a18fb422	حسنا يا سورا، أقول إننا زرنا<br>كل عالم نستطيع زيارته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01409	kh3_event_bx.bx806a	bx8060020sr0	be4603f8	لكن ينقصنا واحد. أين قلب كايري?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01410	kh3_event_bx.bx806a	bx8060030ji0	6b41c2ae	يا ليتني أعرف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01411	kh3_event_bx.bx806a	bx8060040sr0	3a659e2d	أنت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01412	kh3_event_bx.bx806a	bx8060050xy0	73fa1d33	كل ذلك التجوال في عوالم النوم،<br>ومع ذلك لم تتعلم شيئا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01413	kh3_event_bx.bx806a	bx8060060sr0	f0abe8a1	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01414	kh3_event_bx.bx806a	bx8060070xy0_1	a5e8520d	حلما بعد حلم، كدت تدفن نفسك<br>في ظلام النوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01415	kh3_event_bx.bx806a	bx8060070xy0_2	b75dfde3	والآن تعود إلى ذلك مجددا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01416	kh3_event_bx.bx806a	bx8060080xy0	c5ab1b9e	الليتش الذي تقاتله—<br>ليس مثل بقية بلا قلب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01417	kh3_event_bx.bx806a	bx8060080xy0b	5b7a698f	إنه موجود ليقود القلوب<br>إلى أعماق الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01418	kh3_event_bx.bx806a	bx8060080xy1	7d177cfb	إن طاردته، فستحكم على قلبك<br>بالهاوية نفسها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01419	kh3_event_bx.bx806a	bx8060090sr0	8c349880	أنت مخطئ. قلبي قوي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01420	kh3_event_bx.bx806a	bx8060100xy0	d955a80b	ما الذي تظنه قوة اليقظة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01421	kh3_event_bx.bx806a	bx8060100xy1	61e9cf6e	إنها لعبور القلوب للوصول إلى العوالم.<br>لا لعبور العوالم للوصول إلى القلوب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01422	kh3_event_bx.bx806a	bx8060100xy2	735c6080	هناك ثمن باهظ يدفع<br>لمن يستخدم قوة كهذه بحماقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01423	kh3_event_bx.bx806a	bx8060110sr0	90ca2b15	وماذا في ذلك? هل صرت قلقا علي <i(on)>أنا<i(off)> الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01424	kh3_event_bx.bx806a	bx8060120xy0	139bde87	لا. لا خلاص لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+01402	kh3_event_bx.bx564a	bx5640130sr1_3	8f601b7c	ماذا? هيا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01403	kh3_event_bx.bx564a	bx5640160hr1_3	5ab62248	آه، هذا رفض.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01404	kh3_event_bx.bx564a	bx5640130sr1_4	12b723c5	واحد. واحد فقط منهما!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01405	kh3_event_bx.bx564a	bx5640160hr1_4	c7611af1	لا. من سيصلحه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01406	kh3_event_bx.bx564a	bx5640130sr1_5	aa0b44a0	هيا. أرجوووك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01407	kh3_event_bx.bx564a	bx5640160hr1_5	7fdd7d94	إنه <i(on)>رفيقي<i(off)> الشخصي للرعاية الصحية?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01408	kh3_event_bx.bx806a	bx8060010ji0	a18fb422	حسنا يا سورا، أقول إننا زرنا<br>كل عالم نستطيع زيارته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01409	kh3_event_bx.bx806a	bx8060020sr0	be4603f8	لكن ينقصنا واحد. أين قلب كايري?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01410	kh3_event_bx.bx806a	bx8060030ji0	6b41c2ae	يا ليتني أعرف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01411	kh3_event_bx.bx806a	bx8060040sr0	3a659e2d	أنت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01412	kh3_event_bx.bx806a	bx8060050xy0	73fa1d33	كل ذلك التجوال في عوالم النوم،<br>ومع ذلك لم تتعلم شيئا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01413	kh3_event_bx.bx806a	bx8060060sr0	f0abe8a1	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01414	kh3_event_bx.bx806a	bx8060070xy0_1	a5e8520d	حلما بعد حلم، كدت تدفن نفسك<br>في ظلام النوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01415	kh3_event_bx.bx806a	bx8060070xy0_2	b75dfde3	والآن تعود إلى ذلك مجددا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01416	kh3_event_bx.bx806a	bx8060080xy0	c5ab1b9e	الليتش الذي تقاتله—<br>ليس مثل بقية بلا قلب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01417	kh3_event_bx.bx806a	bx8060080xy0b	5b7a698f	إنه موجود ليقود القلوب<br>إلى أعماق الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01418	kh3_event_bx.bx806a	bx8060080xy1	7d177cfb	إن طاردته، فستحكم على قلبك<br>بالهاوية نفسها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01419	kh3_event_bx.bx806a	bx8060090sr0	8c349880	أنت مخطئ. قلبي قوي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01420	kh3_event_bx.bx806a	bx8060100xy0	d955a80b	ما الذي تظنه قوة اليقظة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01421	kh3_event_bx.bx806a	bx8060100xy1	61e9cf6e	إنها لعبور القلوب للوصول إلى العوالم.<br>لا لعبور العوالم للوصول إلى القلوب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01422	kh3_event_bx.bx806a	bx8060100xy2	735c6080	هناك ثمن باهظ يدفع<br>لمن يستخدم قوة كهذه بحماقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01423	kh3_event_bx.bx806a	bx8060110sr0	90ca2b15	وماذا في ذلك? هل صرت قلقا علي <i(on)>أنا<i(off)> الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01424	kh3_event_bx.bx806a	bx8060120xy0	139bde87	لا. لا خلاص لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01425	kh3_event_bx.bx806a	bx8060130sr0	5a045d99		todo	
-01426	kh3_event_bx.bx806a	bx8060140xy0	97b84352	لقد دفعت الثمن.<br>وهو يرقد في قاع الهاوية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01427	kh3_event_bx.bx806a	bx8060150sr0	de27c04c	انتظروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01428	kh3_event_bx.bx806a	bx8060160ji0	c1ee7796	سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01429	kh3_event_bx.bx806a	bx8060170ci0	39207641	أسرع يا سورا!<br>الطريق إلى مقبرة الكيبلايد مفتوح!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01430	kh3_event_bx.bx806a	bx8060180de0	6688faa0	أنا وتشيب وجدنا طريقا جديدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01431	kh3_event_bx.bx806a	bx8060190sr0	0d11fda7	بالطبع! هذا هو المكان الوحيد<br>الذي لم نتفقده بعد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-01432	kh3_event_bx.bx806a	bx8060200ji0	1dd3436b	هيا بنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+01426	kh3_event_bx.bx806a	bx8060140xy0	97b84352	لقد دفعت الثمن.<br>وهو يرقد في قاع الهاوية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01427	kh3_event_bx.bx806a	bx8060150sr0	de27c04c	انتظروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01428	kh3_event_bx.bx806a	bx8060160ji0	c1ee7796	سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01429	kh3_event_bx.bx806a	bx8060170ci0	39207641	أسرع يا سورا!<br>الطريق إلى مقبرة الكيبلايد مفتوح!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01430	kh3_event_bx.bx806a	bx8060180de0	6688faa0	أنا وتشيب وجدنا طريقا جديدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01431	kh3_event_bx.bx806a	bx8060190sr0	0d11fda7	بالطبع! هذا هو المكان الوحيد<br>الذي لم نتفقده بعد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01432	kh3_event_bx.bx806a	bx8060200ji0	1dd3436b	هيا بنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

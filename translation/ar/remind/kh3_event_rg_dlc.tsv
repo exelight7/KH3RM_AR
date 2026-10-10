@@ -1,77 +1,77 @@
 id	namespace	key	source_hash	AR	status	note
-05878	kh3_event_rg_dlc.rg073a	rg0730000txt	dd31d391	<i(on)>بعد سنة―<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05879	kh3_event_rg_dlc.rg073a	rg0730010ae0	df2599ab	لكن إن كنا ما زلنا نتذكره،<br>فلا بد أنه ما زال معنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05880	kh3_event_rg_dlc.rg073a	rg0730020ln0	b349c9d9	نعم، هذا منطقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05881	kh3_event_rg_dlc.rg073a	rg0730030rk0_1	1c86ff81	لكننا بحثنا عن سورا في كل مكان،<br>ولم نجد أي دليل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05882	kh3_event_rg_dlc.rg073a	rg0730030rk0_2	0e33506f	إن كان موجودا فعلا في مكان ما، ألا تظنون<br>أننا كنا سنجد شيئا حتى الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05878	kh3_event_rg_dlc.rg073a	rg0730000txt	dd31d391	<i(on)>بعد سنة―<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05879	kh3_event_rg_dlc.rg073a	rg0730010ae0	df2599ab	لكن إن كنا ما زلنا نتذكره،<br>فلا بد أنه ما زال معنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05880	kh3_event_rg_dlc.rg073a	rg0730020ln0	b349c9d9	نعم، هذا منطقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05881	kh3_event_rg_dlc.rg073a	rg0730030rk0_1	1c86ff81	لكننا بحثنا عن سورا في كل مكان،<br>ولم نجد أي دليل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05882	kh3_event_rg_dlc.rg073a	rg0730030rk0_2	0e33506f	إن كان موجودا فعلا في مكان ما، ألا تظنون<br>أننا كنا سنجد شيئا حتى الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05883	kh3_event_rg_dlc.rg073a	rg0730030rk0_2b	ac416146		todo	
-05884	kh3_event_rg_dlc.rg073a	rg0730040yu0	8200e39d	همم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05885	kh3_event_rg_dlc.rg073a	rg0730050ln0_1	9a5dcc9b	سيد يبحث في البيانات منذ سنة.<br>ألا يفعل أهل القلعة الشيء نفسه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05886	kh3_event_rg_dlc.rg073a	rg0730050ln0_2	88e86375	ألم يجد أحد شيئا بعد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05887	kh3_event_rg_dlc.rg073a	rg0730060rk0	506d1206	حسنا... إنه خارج نطاق اختصاصهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05888	kh3_event_rg_dlc.rg073a	rg0730070yu0	2da9ae57	هيا يا سيد! ألا تستطيع أن تعطينا خيطا واحدا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05889	kh3_event_rg_dlc.rg073a	rg0730090ch0_1	be2bc9c2	اصمتوا! أنا أحاول!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05890	kh3_event_rg_dlc.rg073a	rg0730090ch0_2	ac9e662c	أنا على وشك الوصول إلى شيء، أعرف ذلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05891	kh3_event_rg_dlc.rg073a	rg0730110yu0	28af56a5	سيد، أنت أسوأ بمليون مرة<br>من أسطوانة معطلة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05892	kh3_event_rg_dlc.rg073a	rg0730140ln0	b64f312b	على فكرة، كيف حال الآخرين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05893	kh3_event_rg_dlc.rg073a	rg0730150rk0_1	e8e0f465	حسنا، ميكي ودونالد وغوفي يبحثون عن<br>أدلة في كل عالم سابق زاره سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05894	kh3_event_rg_dlc.rg073a	rg0730150rk0_2	fa555b8b	تيرا وفين وأكوا ذهبوا إلى عالم الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05895	kh3_event_rg_dlc.rg073a	rg0730150rk1	c65d5d8e	ومجموعة بلدة الشفق<br>تدرس ذكريات روكساس وشيون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05896	kh3_event_rg_dlc.rg073a	rg0730160ae0	bf445a1f	وماذا عن كايري?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05897	kh3_event_rg_dlc.rg073a	rg0730170rk0	b42f4c67	كايري...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05898	kh3_event_rg_dlc.rg073a	rg0730180rk0	c8b03c46	تعتقد أن قلبها قد يحمل<br>دليلا عن سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05899	kh3_event_rg_dlc.rg073a	rg0730180rk0b	521f1fbb	منذ سنة وهي نائمة نوما عميقا<br>بينما يبحثون في قلبها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05900	kh3_event_rg_dlc.rg073a	rg0730190ae0	c3db2a3e	إذن لا يوجد أي تقدم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05901	kh3_event_rg_dlc.rg073a	rg0730200ch0	1447e5ac	ما هذا بحق―ما هذا بحق السماء?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05902	kh3_event_rg_dlc.rg073a	rg0730240ln0	ee519803	ما الأمر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05903	kh3_event_rg_dlc.rg073a	rg0730250ch0_1	8d96d84b	هذا الحاسوب، وحاسوب بلدة الشفق، وحاسوب<br>القلعة كلها متصلة بالشبكة نفسها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05904	kh3_event_rg_dlc.rg073a	rg0730250ch0_2	9f2377a5	أرسلوا لي كل بياناتهم<br>ودمجتها مع ما كان عندي،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05884	kh3_event_rg_dlc.rg073a	rg0730040yu0	8200e39d	همم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05885	kh3_event_rg_dlc.rg073a	rg0730050ln0_1	9a5dcc9b	سيد يبحث في البيانات منذ سنة.<br>ألا يفعل أهل القلعة الشيء نفسه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05886	kh3_event_rg_dlc.rg073a	rg0730050ln0_2	88e86375	ألم يجد أحد شيئا بعد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05887	kh3_event_rg_dlc.rg073a	rg0730060rk0	506d1206	حسنا... إنه خارج نطاق اختصاصهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05888	kh3_event_rg_dlc.rg073a	rg0730070yu0	2da9ae57	هيا يا سيد! ألا تستطيع أن تعطينا خيطا واحدا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05889	kh3_event_rg_dlc.rg073a	rg0730090ch0_1	be2bc9c2	اصمتوا! أنا أحاول!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05890	kh3_event_rg_dlc.rg073a	rg0730090ch0_2	ac9e662c	أنا على وشك الوصول إلى شيء، أعرف ذلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05891	kh3_event_rg_dlc.rg073a	rg0730110yu0	28af56a5	سيد، أنت أسوأ بمليون مرة<br>من أسطوانة معطلة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05892	kh3_event_rg_dlc.rg073a	rg0730140ln0	b64f312b	على فكرة، كيف حال الآخرين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05893	kh3_event_rg_dlc.rg073a	rg0730150rk0_1	e8e0f465	حسنا، ميكي ودونالد وغوفي يبحثون عن<br>أدلة في كل عالم سابق زاره سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05894	kh3_event_rg_dlc.rg073a	rg0730150rk0_2	fa555b8b	تيرا وفين وأكوا ذهبوا إلى عالم الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05895	kh3_event_rg_dlc.rg073a	rg0730150rk1	c65d5d8e	ومجموعة بلدة الشفق<br>تدرس ذكريات روكساس وشيون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05896	kh3_event_rg_dlc.rg073a	rg0730160ae0	bf445a1f	وماذا عن كايري?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05897	kh3_event_rg_dlc.rg073a	rg0730170rk0	b42f4c67	كايري...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05898	kh3_event_rg_dlc.rg073a	rg0730180rk0	c8b03c46	تعتقد أن قلبها قد يحمل<br>دليلا عن سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05899	kh3_event_rg_dlc.rg073a	rg0730180rk0b	521f1fbb	منذ سنة وهي نائمة نوما عميقا<br>بينما يبحثون في قلبها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05900	kh3_event_rg_dlc.rg073a	rg0730190ae0	c3db2a3e	إذن لا يوجد أي تقدم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05901	kh3_event_rg_dlc.rg073a	rg0730200ch0	1447e5ac	ما هذا بحق―ما هذا بحق السماء?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05902	kh3_event_rg_dlc.rg073a	rg0730240ln0	ee519803	ما الأمر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05903	kh3_event_rg_dlc.rg073a	rg0730250ch0_1	8d96d84b	هذا الحاسوب، وحاسوب بلدة الشفق، وحاسوب<br>القلعة كلها متصلة بالشبكة نفسها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05904	kh3_event_rg_dlc.rg073a	rg0730250ch0_2	9f2377a5	أرسلوا لي كل بياناتهم<br>ودمجتها مع ما كان عندي،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05905	kh3_event_rg_dlc.rg073a	rg0730250ch0_2b	45798ec2		todo	
-05906	kh3_event_rg_dlc.rg073a	rg0730250ch0_3	279f10c0	وانظروا إلى هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05907	kh3_event_rg_dlc.rg073a	rg0730260rk0	8956de09	سورا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05908	kh3_event_rg_dlc.rg073a	rg0730270yu0	f4926258	سورا داخل الحاسوب?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05909	kh3_event_rg_dlc.rg073a	rg0730280ch0_1	875b39ca	لا، لا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05910	kh3_event_rg_dlc.rg073a	rg0730280ch0_2	95ee9624	هذه مجرد بيانات بنيتها اعتمادا<br>على سورا وقدراته القتالية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05906	kh3_event_rg_dlc.rg073a	rg0730250ch0_3	279f10c0	وانظروا إلى هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05907	kh3_event_rg_dlc.rg073a	rg0730260rk0	8956de09	سورا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05908	kh3_event_rg_dlc.rg073a	rg0730270yu0	f4926258	سورا داخل الحاسوب?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05909	kh3_event_rg_dlc.rg073a	rg0730280ch0_1	875b39ca	لا، لا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05910	kh3_event_rg_dlc.rg073a	rg0730280ch0_2	95ee9624	هذه مجرد بيانات بنيتها اعتمادا<br>على سورا وقدراته القتالية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05911	kh3_event_rg_dlc.rg073a	rg0730280ch0_2b	263da516		todo	
-05912	kh3_event_rg_dlc.rg073a	rg0730290yu0	ed6a293f	إذن أفزعتنا من أجل لا شيء?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05913	kh3_event_rg_dlc.rg073a	rg0730300ch0_1	7b2ed488	لا، تلك المجموعة التي كان سورا يقاتلها... تعرفون...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05914	kh3_event_rg_dlc.rg073a	rg0730300ch0_2	699b7b66	باتاليون شيء ما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05915	kh3_event_rg_dlc.rg073a	rg0730300ch0_3	d1271c03	حسنا، أعدت بناء بياناتهم أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05916	kh3_event_rg_dlc.rg073a	rg0730310ae0	873b3083	منظمة XIII الحقيقية...<br>ربما تقودنا بياناتهم إلى مكان سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05917	kh3_event_rg_dlc.rg073a	rg0730320ch0_1	78452eb2	حسنا، خطر لي ذلك، لكن لا بد أنني أبرع<br>مما ظننت لأن بياناتهم،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05912	kh3_event_rg_dlc.rg073a	rg0730290yu0	ed6a293f	إذن أفزعتنا من أجل لا شيء?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05913	kh3_event_rg_dlc.rg073a	rg0730300ch0_1	7b2ed488	لا، تلك المجموعة التي كان سورا يقاتلها... تعرفون...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05914	kh3_event_rg_dlc.rg073a	rg0730300ch0_2	699b7b66	باتاليون شيء ما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05915	kh3_event_rg_dlc.rg073a	rg0730300ch0_3	d1271c03	حسنا، أعدت بناء بياناتهم أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05916	kh3_event_rg_dlc.rg073a	rg0730310ae0	873b3083	منظمة XIII الحقيقية...<br>ربما تقودنا بياناتهم إلى مكان سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05917	kh3_event_rg_dlc.rg073a	rg0730320ch0_1	78452eb2	حسنا، خطر لي ذلك، لكن لا بد أنني أبرع<br>مما ظننت لأن بياناتهم،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05918	kh3_event_rg_dlc.rg073a	rg0730320ch0_1b	e6134f21		todo	
-05919	kh3_event_rg_dlc.rg073a	rg0730320ch0_2	6af0815c	قوية جدا لدرجة أنني لا أستطيع الوصول إلى أي شيء منها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05920	kh3_event_rg_dlc.rg073a	rg0730340ln0	6f74fd24	هل يمكنك استخدام بيانات سورا للوصول إليها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05921	kh3_event_rg_dlc.rg073a	rg0730350ch0	bee85094	أوه، فكرة جيدة. تستحق المحاولة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05922	kh3_event_rg_dlc.rg073a	rg0730360rk0	0873bb2e	أجل... لنجرب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05923	kh3_event_rg_dlc.rg074a	rg0740010ch0	108e0070	لا أثر للفتى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05924	kh3_event_rg_dlc.rg074a	rg0740020yu0	beb66cdd	يا للأسف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05925	kh3_event_rg_dlc.rg074a	rg0740040ae0	4c3a5b21	الجنية العرابة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05926	kh3_event_rg_dlc.rg074a	rg0740050fg0	1fe08e95	أو-هو-هو، آمل ألا أكون قد أفزعتكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05927	kh3_event_rg_dlc.rg074a	rg0740060ln0	45313015	أبدا. ما الذي جاء بك إلى هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05928	kh3_event_rg_dlc.rg074a	rg0740070fg0_1	e9656b16	حسنا يا عزيزتي، طلب مني ميرلين<br>والمعلم ين سيد أن أمر بكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05929	kh3_event_rg_dlc.rg074a	rg0740070fg0_2	fbd0c4f8	الآن، أين هو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05930	kh3_event_rg_dlc.rg074a	rg0740070fg0_3	436ca39d	أوه، ريكو! نعم، ريكو هو اسمه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05931	kh3_event_rg_dlc.rg074a	rg0740080rk0	f1004bf4	هنا. أنا ريكو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05932	kh3_event_rg_dlc.rg074a	rg0740090fg0_1	e1768db0	يا لسعادتي بلقائك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05933	kh3_event_rg_dlc.rg074a	rg0740090fg0_2	f3c3225e	الآن، أريدك أن تحكي لي عن<br>الأحلام التي كنت تراها يا عزيزي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05934	kh3_event_rg_dlc.rg074a	rg0740100rk0	edfef861	هاه? أحلامي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05935	kh3_event_rg_dlc.rg074a	rg0740110rk0_1	140af346	هناك واحد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05936	kh3_event_rg_dlc.rg074a	rg0740110rk0_2	06bf5ca8	كان مظلما... وكانت تحيط بي مبان<br>عالية. كنت أبحث عن سورا،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05919	kh3_event_rg_dlc.rg073a	rg0730320ch0_2	6af0815c	قوية جدا لدرجة أنني لا أستطيع الوصول إلى أي شيء منها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05920	kh3_event_rg_dlc.rg073a	rg0730340ln0	6f74fd24	هل يمكنك استخدام بيانات سورا للوصول إليها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05921	kh3_event_rg_dlc.rg073a	rg0730350ch0	bee85094	أوه، فكرة جيدة. تستحق المحاولة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05922	kh3_event_rg_dlc.rg073a	rg0730360rk0	0873bb2e	أجل... لنجرب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05923	kh3_event_rg_dlc.rg074a	rg0740010ch0	108e0070	لا أثر للفتى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05924	kh3_event_rg_dlc.rg074a	rg0740020yu0	beb66cdd	يا للأسف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05925	kh3_event_rg_dlc.rg074a	rg0740040ae0	4c3a5b21	الجنية العرابة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05926	kh3_event_rg_dlc.rg074a	rg0740050fg0	1fe08e95	أو-هو-هو، آمل ألا أكون قد أفزعتكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05927	kh3_event_rg_dlc.rg074a	rg0740060ln0	45313015	أبدا. ما الذي جاء بك إلى هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05928	kh3_event_rg_dlc.rg074a	rg0740070fg0_1	e9656b16	حسنا يا عزيزي، طلب مني ميرلين<br>والمعلم ين سيد أن أمر بكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05929	kh3_event_rg_dlc.rg074a	rg0740070fg0_2	fbd0c4f8	الآن، أين هو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05930	kh3_event_rg_dlc.rg074a	rg0740070fg0_3	436ca39d	أوه، ريكو! نعم، ريكو هو اسمه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05931	kh3_event_rg_dlc.rg074a	rg0740080rk0	f1004bf4	هنا. أنا ريكو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05932	kh3_event_rg_dlc.rg074a	rg0740090fg0_1	e1768db0	يا لسعادتي بلقائك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05933	kh3_event_rg_dlc.rg074a	rg0740090fg0_2	f3c3225e	الآن، أريدك أن تحكي لي عن<br>الأحلام التي كنت تراها يا عزيزي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05934	kh3_event_rg_dlc.rg074a	rg0740100rk0	edfef861	هاه? أحلامي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05935	kh3_event_rg_dlc.rg074a	rg0740110rk0_1	140af346	هناك واحد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05936	kh3_event_rg_dlc.rg074a	rg0740110rk0_2	06bf5ca8	كان مظلما... وكانت تحيط بي مبان<br>عالية. كنت أبحث عن سورا،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05937	kh3_event_rg_dlc.rg074a	rg0740110rk0_2b	d72c11e8		todo	
-05938	kh3_event_rg_dlc.rg074a	rg0740110rk0_3	be033bcd	حين شعرت بأن أحدا يراقبني من مكان مرتفع جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05939	kh3_event_rg_dlc.rg074a	rg0740120yu0	3f9309fa	وماذا بعد?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05940	kh3_event_rg_dlc.rg074a	rg0740130rk0	4257b5ab	وهذا كل ما أذكره.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05941	kh3_event_rg_dlc.rg074a	rg0740140yu0	bbb0942f	أوف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05942	kh3_event_rg_dlc.rg074a	rg0740150ch0	df468e0e	لكن ماذا يحدث بعد ذلك?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05943	kh3_event_rg_dlc.rg074a	rg0740160fg0	316ca678	أوه، أعرف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05944	kh3_event_rg_dlc.rg074a	rg0740170yu0	1419d9e5	هاه?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05945	kh3_event_rg_dlc.rg074a	rg0740180ln0	ddec1e55	لماذا حلم ريكو?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05946	kh3_event_rg_dlc.rg074a	rg0740190fg0_1	10ac881a	أوه، لأن المعلم ين سيد قلق.<br>لم يحالفكم الحظ في العثور على سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05947	kh3_event_rg_dlc.rg074a	rg0740190fg0_2	021927f4	ولأن ريكو كان في أحلام سورا من قبل،<br>ظن أن ريكو قد يكون المفتاح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05948	kh3_event_rg_dlc.rg074a	rg0740190fg0_3	baa54091	لهذا طلب مني هو وميرلين أن<br>آتي إلى هنا وأتفحص أحلامه،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05949	kh3_event_rg_dlc.rg074a	rg0740190fg0_3b	3dc9f9ab	فالأحلام هي تخصصي بالطبع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05950	kh3_event_rg_dlc.rg074a	rg0740200ae0	dbec7c77	إذن أحلام ريكو قد... تحمل المفتاح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05951	kh3_event_rg_dlc.rg074a	rg0740210fg0	8836a9c3	نعم يا عزيزي. أنا متأكدة أن هناك شيئا<br>فيها يقود إلى سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05952	kh3_event_rg_dlc.rg074a	rg0740220rk0	7f2e27c5	في أحلامي...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-05953	kh3_event_rg_dlc.rg074a	rg0740240fg0	a3bc79dc	و... المفتاحان الآخران.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05938	kh3_event_rg_dlc.rg074a	rg0740110rk0_3	be033bcd	حين شعرت بأن أحدا يراقبني من مكان مرتفع جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05939	kh3_event_rg_dlc.rg074a	rg0740120yu0	3f9309fa	وماذا بعد?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05940	kh3_event_rg_dlc.rg074a	rg0740130rk0	4257b5ab	وهذا كل ما أذكره.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05941	kh3_event_rg_dlc.rg074a	rg0740140yu0	bbb0942f	أوف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05942	kh3_event_rg_dlc.rg074a	rg0740150ch0	df468e0e	لكن ماذا يحدث بعد ذلك?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05943	kh3_event_rg_dlc.rg074a	rg0740160fg0	316ca678	أوه، أعرف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05944	kh3_event_rg_dlc.rg074a	rg0740170yu0	1419d9e5	هاه?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05945	kh3_event_rg_dlc.rg074a	rg0740180ln0	ddec1e55	لماذا حلم ريكو?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05946	kh3_event_rg_dlc.rg074a	rg0740190fg0_1	10ac881a	أوه، لأن المعلم ين سيد قلق.<br>لم يحالفكم الحظ في العثور على سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05947	kh3_event_rg_dlc.rg074a	rg0740190fg0_2	021927f4	ولأن ريكو كان في أحلام سورا من قبل،<br>ظن أن ريكو قد يكون المفتاح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05948	kh3_event_rg_dlc.rg074a	rg0740190fg0_3	baa54091	لهذا طلب مني هو وميرلين أن<br>آتي إلى هنا وأتفحص أحلامه،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05949	kh3_event_rg_dlc.rg074a	rg0740190fg0_3b	3dc9f9ab	فالأحلام هي تخصصي بالطبع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05950	kh3_event_rg_dlc.rg074a	rg0740200ae0	dbec7c77	إذن أحلام ريكو قد... تحمل المفتاح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05951	kh3_event_rg_dlc.rg074a	rg0740210fg0	8836a9c3	نعم يا عزيزتي. أنا متأكدة أن هناك شيئا<br>فيها يقود إلى سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05952	kh3_event_rg_dlc.rg074a	rg0740220rk0	7f2e27c5	في أحلامي...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05953	kh3_event_rg_dlc.rg074a	rg0740240fg0	a3bc79dc	و... المفتاحان الآخران.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

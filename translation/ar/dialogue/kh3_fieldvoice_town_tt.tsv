@@ -1,102 +1,102 @@
 id	namespace	key	source_hash	AR	status	note
-09920	kh3_fieldvoice_town_tt.chat	man01_0010	39d78c35	إذن، إلى أين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09921	kh3_fieldvoice_town_tt.chat	man01_0040	71378251	ذلك المطعم الجديد<br>من عالم آخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09922	kh3_fieldvoice_town_tt.chat	man01_0050	bd9d82cf	حركات رائعة يا فتى!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09923	kh3_fieldvoice_town_tt.chat	man02_0010	61c9251d	مستعد للعودة إلى البيت يا بطل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09924	kh3_fieldvoice_town_tt.chat	man02_0040	29292b79	الترام رائع جدا.<pb(1.95)>لا أطيق صبرا<br>لمعرض الشهر القادم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09925	kh3_fieldvoice_town_tt.chat	man02_0050	e5832be7	افعلها مجددا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09926	kh3_fieldvoice_town_tt.chat	man02_0060	6b0c2c04	هل تستمتع يا بطل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09927	kh3_fieldvoice_town_tt.chat	man03_0010	e0ec403a	هل أنت متحمس<br>للصراع القادم مثلي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09928	kh3_fieldvoice_town_tt.chat	man03_0020	6e6347d9	الصراع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09929	kh3_fieldvoice_town_tt.chat	man03_0030	a2c94747	لم أر<br>سايفر منذ مدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09930	kh3_fieldvoice_town_tt.chat	man03_0040	a80c4e5e	ليتني كنت من<br>فضح خرافة العجائب السبع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09931	kh3_fieldvoice_town_tt.chat	man03_0050	64a64ec0	الفتى بارع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09932	kh3_fieldvoice_town_tt.chat	man03_0060	ea294923	أحببت هذا الفيلم وأنا صغير.<br>يعيدني إلى الماضي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09933	kh3_fieldvoice_town_tt.chat	man04_0010	d1f4774d	الغروب يدمع<br>عيني دائما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09920	kh3_fieldvoice_town_tt.chat	man01_0010	39d78c35	إذن، إلى أين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09921	kh3_fieldvoice_town_tt.chat	man01_0040	71378251	ذلك المطعم الجديد<br>من عالم آخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09922	kh3_fieldvoice_town_tt.chat	man01_0050	bd9d82cf	حركات رائعة يا فتى!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09923	kh3_fieldvoice_town_tt.chat	man02_0010	61c9251d	مستعد للعودة إلى البيت يا بطل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09924	kh3_fieldvoice_town_tt.chat	man02_0040	29292b79	الترام رائع جدا.<pb(1.95)>لا أطيق صبرا<br>لمعرض الشهر القادم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09925	kh3_fieldvoice_town_tt.chat	man02_0050	e5832be7	افعلها مجددا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09926	kh3_fieldvoice_town_tt.chat	man02_0060	6b0c2c04	هل تستمتع يا بطل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09927	kh3_fieldvoice_town_tt.chat	man03_0010	e0ec403a	هل أنت متحمس<br>للصراع القادم مثلي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09928	kh3_fieldvoice_town_tt.chat	man03_0020	6e6347d9	الصراع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09929	kh3_fieldvoice_town_tt.chat	man03_0030	a2c94747	لم أر<br>سايفر منذ مدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09930	kh3_fieldvoice_town_tt.chat	man03_0040	a80c4e5e	ليتني كنت من<br>فضح خرافة العجائب السبع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09931	kh3_fieldvoice_town_tt.chat	man03_0050	64a64ec0	الفتى بارع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09932	kh3_fieldvoice_town_tt.chat	man03_0060	ea294923	أحببت هذا الفيلم وأنا صغير.<br>يعيدني إلى الماضي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09933	kh3_fieldvoice_town_tt.chat	man04_0010	d1f4774d	الغروب يدمع<br>عيني دائما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09934	kh3_fieldvoice_town_tt.chat	man04_0020	5f7b70ae		todo	
-09935	kh3_fieldvoice_town_tt.chat	man04_0030	93d17030	سعيد لأننا وجدنا طاولة أخيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09936	kh3_fieldvoice_town_tt.chat	man05_0010	50d1126a	يا رجل، نعم! لنبدأ...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09937	kh3_fieldvoice_town_tt.chat	man05_0020	de5e1589	الصراع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09938	kh3_fieldvoice_town_tt.chat	man05_0030	12f41517	ألم تسمع?<br>رحل مع فو وراي<pb(2.2)>في رحلة محاربين<br>من نوع ما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09939	kh3_fieldvoice_town_tt.chat	man05_0040	18311c0e	أحتاج إلى<br>عطلة إلى... أي مكان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09935	kh3_fieldvoice_town_tt.chat	man04_0030	93d17030	سعيد لأننا وجدنا طاولة أخيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09936	kh3_fieldvoice_town_tt.chat	man05_0010	50d1126a	يا رجل، نعم! لنبدأ...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09937	kh3_fieldvoice_town_tt.chat	man05_0020	de5e1589	الصراع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09938	kh3_fieldvoice_town_tt.chat	man05_0030	12f41517	ألم تسمع?<br>رحل مع فو وراي<pb(2.2)>في رحلة محاربين<br>من نوع ما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09939	kh3_fieldvoice_town_tt.chat	man05_0040	18311c0e	أحتاج إلى<br>عطلة إلى... أي مكان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09940	kh3_fieldvoice_town_tt.chat	man05_0050	d49b1c90		todo	
-09941	kh3_fieldvoice_town_tt.chat	man05_0060	5a141b73	المزيد من العروض قادمة يا جماعة.<br>ستحصلون جميعا على فرصتكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09942	kh3_fieldvoice_town_tt.chat	ol_man01_0010	b186ec4c	هل تستمتع<br>في المدرسة يا صديقي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09943	kh3_fieldvoice_town_tt.chat	ol_man01_0040	f966e228	يا إلهي، مضت سنوات منذ<br>عرضت هذه البلدة فيلما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09944	kh3_fieldvoice_town_tt.chat	ol_man01_0050	35cce2b6	حسنا الآن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09945	kh3_fieldvoice_town_tt.chat	ol_man01_0060	bb43e555	الطعام هنا جيد جدا،<br>صحيح يا صديقي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09946	kh3_fieldvoice_town_tt.chat	ol_man02_0030	abbd4219	أحب أن البلدة<br>قريبة جدا من الطبيعة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09947	kh3_fieldvoice_town_tt.chat	ol_man02_0040	a1784b00	واو، مذهل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09948	kh3_fieldvoice_town_tt.chat	ol_man02_0050	6dd24b9e	السيد ماكدك يأتي دائما<br>بأفكار مجنونة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09949	kh3_fieldvoice_town_tt.chat	ol_man02_0060	e35d4c7d	من الجميل أن نأكل في الخارج<br>بين حين وآخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09950	kh3_fieldvoice_town_tt.chat	lady01_0010	1c61e196	أحب مشاهدة الغروب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09951	kh3_fieldvoice_town_tt.chat	lady01_0020	92eee675	ما رأيك بالمطعم الجديد?<br>هل جربته?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09952	kh3_fieldvoice_town_tt.chat	lady01_0050	982bef6c	ذلك المطعم رائع جدا.<br>يجب أن أحضر أصدقائي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09941	kh3_fieldvoice_town_tt.chat	man05_0060	5a141b73	المزيد من العروض قادمة يا جماعة.<br>ستحصلون جميعا على فرصتكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09942	kh3_fieldvoice_town_tt.chat	ol_man01_0010	b186ec4c	هل تستمتع<br>في المدرسة يا صديقي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09943	kh3_fieldvoice_town_tt.chat	ol_man01_0040	f966e228	يا إلهي، مضت سنوات منذ<br>عرضت هذه البلدة فيلما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09944	kh3_fieldvoice_town_tt.chat	ol_man01_0050	35cce2b6	حسنا الآن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09945	kh3_fieldvoice_town_tt.chat	ol_man01_0060	bb43e555	الطعام هنا جيد جدا،<br>صحيح يا صديقي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09946	kh3_fieldvoice_town_tt.chat	ol_man02_0030	abbd4219	أحب أن البلدة<br>قريبة جدا من الطبيعة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09947	kh3_fieldvoice_town_tt.chat	ol_man02_0040	a1784b00	واو، مذهل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09948	kh3_fieldvoice_town_tt.chat	ol_man02_0050	6dd24b9e	السيد ماكدك يأتي دائما<br>بأفكار مجنونة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09949	kh3_fieldvoice_town_tt.chat	ol_man02_0060	e35d4c7d	من الجميل أن نأكل في الخارج<br>بين حين وآخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09950	kh3_fieldvoice_town_tt.chat	lady01_0010	1c61e196	أحب مشاهدة الغروب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09951	kh3_fieldvoice_town_tt.chat	lady01_0020	92eee675	ما رأيك بالمطعم الجديد?<br>هل جربته?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09952	kh3_fieldvoice_town_tt.chat	lady01_0050	982bef6c	ذلك المطعم رائع جدا.<br>يجب أن أحضر أصدقائي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09953	kh3_fieldvoice_town_tt.chat	lady01_0060	16a4e88f		todo	
-09954	kh3_fieldvoice_town_tt.chat	lady01_0070	da0ee811	لا أمل أبدا من مشاهدة هذه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09955	kh3_fieldvoice_town_tt.chat	lady01_0080	032efabd	حسنا، إنه أشهر<br>مكان في البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09956	kh3_fieldvoice_town_tt.chat	lady02_0010	447f48be	<pb(0.8)>هل صعدت إلى<br>برج الساعة? أجمل مكان في البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09957	kh3_fieldvoice_town_tt.chat	lady02_0020	caf04f5d	لا أريدك أن تذهب<br>إلى الغابة وحدك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09958	kh3_fieldvoice_town_tt.chat	lady02_0050	c0354644	أظن أن التزلج<br>صار موضة قديمة الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09959	kh3_fieldvoice_town_tt.chat	lady02_0060	4eba41a7	انظروا إلى ذلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09960	kh3_fieldvoice_town_tt.chat	lady02_0070	82104139	صحيح? هذا الفيلم كلاسيكي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09961	kh3_fieldvoice_town_tt.chat	lady02_0080	5b305395	آه! لنر سبب<br>كل هذه الضجة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09962	kh3_fieldvoice_town_tt.chat	lady02_0090	979a530b	أتساءل ماذا في القائمة.<br>سمعت أنهم مبدعون <i(on)>جدا<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09963	kh3_fieldvoice_town_tt.chat	ol_lady01_0010	0242a2a7	برج الساعة ذلك يعمل<pb(1.45)>منذ كانت جدتك<br>فتاة صغيرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09964	kh3_fieldvoice_town_tt.chat	ol_lady01_0020	8ccda544	ماذا تريدون<br>على العشاء يا صغار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09965	kh3_fieldvoice_town_tt.chat	ol_lady01_0030	4067a5da	أنتم يا أطفال لا ترفضون<br>المثلجات أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09966	kh3_fieldvoice_town_tt.chat	ol_lady01_0060	0887abbe	يجب أن أحاول إعادة<br>وصفة ذلك المطعم في البيت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09967	kh3_fieldvoice_town_tt.chat	ol_lady01_0070	c42dab20	لا تسقط!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09968	kh3_fieldvoice_town_tt.chat	ol_lady02_0010	5a5c0b8f	مطعم. يا إلهي، كم كبرت البلدة<br>منذ كنت في عمرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09969	kh3_fieldvoice_town_tt.chat	ol_lady02_0040	12bc05eb	حين كنت صغيرا، كان الترام<br>يبدو كبيرا وساحرا جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09970	kh3_fieldvoice_town_tt.chat	ol_lady02_0050	de160575	المزيد، المزيد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09971	kh3_fieldvoice_town_tt.chat	ol_lady02_0060	50990296	كتبوا عن هذا المكان<br>في <i(on)>الأذواق الصعبة<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09972	kh3_fieldvoice_town_tt.chat	boy01_0010	a535c433	هل سمعت يوما بعجائب<br>بلدة الشفق السبع?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09973	kh3_fieldvoice_town_tt.chat	boy01_0020	2bbac3d0	نعم، نفعل أشياء<br>رائعة في الصف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09974	kh3_fieldvoice_town_tt.chat	boy01_0030	e710c34e	هامبرغر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09975	kh3_fieldvoice_town_tt.chat	boy01_0040	edd5ca57	نعم، المثلجات حلوة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09976	kh3_fieldvoice_town_tt.chat	boy01_0070	635acdb4	هذا الفيلم سيكون <i(on)>رائعا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09954	kh3_fieldvoice_town_tt.chat	lady01_0070	da0ee811	لا أمل أبدا من مشاهدة هذه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09955	kh3_fieldvoice_town_tt.chat	lady01_0080	032efabd	حسنا، إنه أشهر<br>مكان في البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09956	kh3_fieldvoice_town_tt.chat	lady02_0010	447f48be	<pb(0.8)>هل صعدت إلى<br>برج الساعة? أجمل مكان في البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09957	kh3_fieldvoice_town_tt.chat	lady02_0020	caf04f5d	لا أريدك أن تذهب<br>إلى الغابة وحدك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09958	kh3_fieldvoice_town_tt.chat	lady02_0050	c0354644	أظن أن التزلج<br>صار موضة قديمة الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09959	kh3_fieldvoice_town_tt.chat	lady02_0060	4eba41a7	انظروا إلى ذلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09960	kh3_fieldvoice_town_tt.chat	lady02_0070	82104139	صحيح? هذا الفيلم كلاسيكي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09961	kh3_fieldvoice_town_tt.chat	lady02_0080	5b305395	آه! لنر سبب<br>كل هذه الضجة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09962	kh3_fieldvoice_town_tt.chat	lady02_0090	979a530b	أتساءل ماذا في القائمة.<br>سمعت أنهم مبدعون <i(on)>جدا<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09963	kh3_fieldvoice_town_tt.chat	ol_lady01_0010	0242a2a7	برج الساعة ذلك يعمل<pb(1.45)>منذ كانت جدتك<br>فتاة صغيرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09964	kh3_fieldvoice_town_tt.chat	ol_lady01_0020	8ccda544	ماذا تريدون<br>على العشاء يا صغار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09965	kh3_fieldvoice_town_tt.chat	ol_lady01_0030	4067a5da	أنتم يا أطفال لا ترفضون<br>المثلجات أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09966	kh3_fieldvoice_town_tt.chat	ol_lady01_0060	0887abbe	يجب أن أحاول إعادة<br>وصفة ذلك المطعم في البيت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09967	kh3_fieldvoice_town_tt.chat	ol_lady01_0070	c42dab20	لا تسقط!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09968	kh3_fieldvoice_town_tt.chat	ol_lady02_0010	5a5c0b8f	مطعم. يا إلهي، كم كبرت البلدة<br>منذ كنت في عمرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09969	kh3_fieldvoice_town_tt.chat	ol_lady02_0040	12bc05eb	حين كنت صغيرا، كان الترام<br>يبدو كبيرا وساحرا جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09970	kh3_fieldvoice_town_tt.chat	ol_lady02_0050	de160575	المزيد، المزيد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09971	kh3_fieldvoice_town_tt.chat	ol_lady02_0060	50990296	كتبوا عن هذا المكان<br>في <i(on)>الأذواق الصعبة<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09972	kh3_fieldvoice_town_tt.chat	boy01_0010	a535c433	هل سمعت يوما بعجائب<br>بلدة الشفق السبع?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09973	kh3_fieldvoice_town_tt.chat	boy01_0020	2bbac3d0	نعم، نفعل أشياء<br>رائعة في الصف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09974	kh3_fieldvoice_town_tt.chat	boy01_0030	e710c34e	هامبرغر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09975	kh3_fieldvoice_town_tt.chat	boy01_0040	edd5ca57	نعم، المثلجات حلوة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09976	kh3_fieldvoice_town_tt.chat	boy01_0070	635acdb4	هذا الفيلم سيكون <i(on)>رائعا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09977	kh3_fieldvoice_town_tt.chat	boy01_0080	ba7adf18		todo	
-09978	kh3_fieldvoice_town_tt.chat	boy01_0090	76d0df86	واو، الشاشة ضخمة جدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09979	kh3_fieldvoice_town_tt.chat	boy01_0100	f23a88c2	أجل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09980	kh3_fieldvoice_town_tt.chat	boy02_0010	fd2b6d1b	لا مزيد من الرياضيات!<br>اليوم سأعبث!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09981	kh3_fieldvoice_town_tt.chat	boy02_0040	b5cb637f	أشتهي المثلجات بشدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09982	kh3_fieldvoice_town_tt.chat	boy02_0050	796163e1	راااائع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09983	kh3_fieldvoice_town_tt.chat	boy02_0060	f7ee6402	أتساءل كيف<br>يجعلون الأفلام تتحرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09984	kh3_fieldvoice_town_tt.chat	boy03_0010	7c0e083c	هل يمكن أن تبدأ العطلة الصيفية الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09985	kh3_fieldvoice_town_tt.chat	boy03_0020	f2810fdf	هيا! لنذهب لصيد<br>الأشباح في القصر القديم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09986	kh3_fieldvoice_town_tt.chat	boy03_0030	3e2b0f41	إذن... لنبحث عن<br>عجائب سبع جديدة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09987	kh3_fieldvoice_town_tt.chat	boy03_0040	34ee0658	لااا. ليس بعد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09988	kh3_fieldvoice_town_tt.chat	boy03_0050	f84406c6	بيتزا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09989	kh3_fieldvoice_town_tt.chat	boy03_0060	76cb0125	لا. إنها مالحة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09990	kh3_fieldvoice_town_tt.chat	boy03_0070	ba6101bb	احذر أيها القصر القديم.<br>أنا قادم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09991	kh3_fieldvoice_town_tt.chat	boy03_0080	63411317	هيا، هيا، هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09992	kh3_fieldvoice_town_tt.chat	boy03_0090	afeb1389	واو...<br>ماذا سيحدث بعد ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09993	kh3_fieldvoice_town_tt.chat	boy03_0100	2b0144cd	لا فيلم<br>من دون مثلجات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09994	kh3_fieldvoice_town_tt.chat	boy03_0110	e7ab4453	أوه، ذابت مثلجاتي<br>وأنا أشاهد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09995	kh3_fieldvoice_town_tt.chat	boy03_0120	692443b0	نعم، لا أطيق صبرا للحلوى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09996	kh3_fieldvoice_town_tt.chat	boy04_0010	4d163f4b	هل أنت جاد?<br>العطلة الصيفية <i(on)>انتهت<i(off)> للتو يا رجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09997	kh3_fieldvoice_town_tt.chat	boy04_0020	c39938a8	ا-اليوم? آسف، أمي قالت<br>إن علي أن أجز... الكلب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09998	kh3_fieldvoice_town_tt.chat	boy04_0030	0f333836	حقا? أتمنى أن تظلا<br>تركضان إلى الأبد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-09999	kh3_fieldvoice_town_tt.chat	boy04_0040	05f6312f	لنبدأ... الصراع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10000	kh3_fieldvoice_town_tt.chat	boy04_0050	c95c31b1	أوه، علمني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10001	kh3_fieldvoice_town_tt.chat	boy04_0060	47d33652	أوه، تريد أن تعرف ما سيحدث?<br>حسنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10002	kh3_fieldvoice_town_tt.chat	boy04_0070	8b7936cc	ولا مثلجات<br>من دون فيلم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10003	kh3_fieldvoice_town_tt.chat	boy04_0080	52592460	أنا جائع...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10004	kh3_fieldvoice_town_tt.chat	girl01_0010	27d20957	أبي سيأخذنا في رحلة<br>في العطلة الطويلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10005	kh3_fieldvoice_town_tt.chat	girl01_0020	a95d0eb4	سأكون مع أصدقائي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10006	kh3_fieldvoice_town_tt.chat	girl01_0030	65f70e2a	لم تكن لديكم مطاعم?<br>ألم تكن قد اخترعت بعد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10007	kh3_fieldvoice_town_tt.chat	girl01_0060	2d17004e	ليت لدي جروا صغيرا لطيفا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10008	kh3_fieldvoice_town_tt.chat	girl01_0070	e1bd00d0	حركات رائعة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10009	kh3_fieldvoice_town_tt.chat	girl01_0080	389d127c	إنه لطيف جدا!<br>أوه، انظروا إليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10010	kh3_fieldvoice_town_tt.chat	girl01_0090	f43712e2	لماذا يكون طعم المثلجات<br>أفضل بكثير في السينما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10011	kh3_fieldvoice_town_tt.chat	girl02_0010	7fcca07f	أوه، يا لك من محظوظ. أبي لا يفعل<br>شيئا سوى التذمر من تعبه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10012	kh3_fieldvoice_town_tt.chat	girl02_0020	f143a79c	اختبار الأسبوع القادم<br>سيقضي عليك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10013	kh3_fieldvoice_town_tt.chat	girl02_0030	3de9a702	بالطبع. لكنني ظننت<br>أن كل ذلك ثبت أنه خرافة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10014	kh3_fieldvoice_town_tt.chat	girl02_0060	7509a966	أرجو أن تأخذني أمي<br>إلى ذلك المطعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10015	kh3_fieldvoice_town_tt.chat	girl02_0070	b9a3a9f8	نعم! استمر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10016	kh3_fieldvoice_town_tt.chat	girl02_0080	6083bb54	ماذا? أنا أحب الآخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10017	kh3_fieldvoice_town_tt.chat	girl02_0090	ac29bbca	حقا? طعمه نفسه بالنسبة لي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10018	kh3_fieldvoice_town_tt.chat	girl02_0100	28c3ec8e	<pb(0.4)>هل لديهم أجنحة حارة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10019	kh3_fieldvoice_town_tt.talk	man01_0010	39d78c35	القصر القديم? اعبر النفق فقط،<br>ثم امش قليلا عبر الغابة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-10020	kh3_fieldvoice_town_tt.talk	man02_0010	61c9251d	أسرع طريق إلى الغابة<br>هو عبر النفق تحت الأرض.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09978	kh3_fieldvoice_town_tt.chat	boy01_0090	76d0df86	واو، الشاشة ضخمة جدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09979	kh3_fieldvoice_town_tt.chat	boy01_0100	f23a88c2	أجل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09980	kh3_fieldvoice_town_tt.chat	boy02_0010	fd2b6d1b	لا مزيد من الرياضيات!<br>اليوم سأعبث!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09981	kh3_fieldvoice_town_tt.chat	boy02_0040	b5cb637f	أشتهي المثلجات بشدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09982	kh3_fieldvoice_town_tt.chat	boy02_0050	796163e1	راااائع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09983	kh3_fieldvoice_town_tt.chat	boy02_0060	f7ee6402	أتساءل كيف<br>يجعلون الأفلام تتحرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09984	kh3_fieldvoice_town_tt.chat	boy03_0010	7c0e083c	هل يمكن أن تبدأ العطلة الصيفية الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09985	kh3_fieldvoice_town_tt.chat	boy03_0020	f2810fdf	هيا! لنذهب لصيد<br>الأشباح في القصر القديم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09986	kh3_fieldvoice_town_tt.chat	boy03_0030	3e2b0f41	إذن... لنبحث عن<br>عجائب سبع جديدة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09987	kh3_fieldvoice_town_tt.chat	boy03_0040	34ee0658	لااا. ليس بعد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09988	kh3_fieldvoice_town_tt.chat	boy03_0050	f84406c6	بيتزا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09989	kh3_fieldvoice_town_tt.chat	boy03_0060	76cb0125	لا. إنها مالحة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09990	kh3_fieldvoice_town_tt.chat	boy03_0070	ba6101bb	احذر أيها القصر القديم.<br>أنا قادم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09991	kh3_fieldvoice_town_tt.chat	boy03_0080	63411317	هيا، هيا، هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09992	kh3_fieldvoice_town_tt.chat	boy03_0090	afeb1389	واو...<br>ماذا سيحدث بعد ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09993	kh3_fieldvoice_town_tt.chat	boy03_0100	2b0144cd	لا فيلم<br>من دون مثلجات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09994	kh3_fieldvoice_town_tt.chat	boy03_0110	e7ab4453	أوه، ذابت مثلجاتي<br>وأنا أشاهد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09995	kh3_fieldvoice_town_tt.chat	boy03_0120	692443b0	نعم، لا أطيق صبرا للحلوى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09996	kh3_fieldvoice_town_tt.chat	boy04_0010	4d163f4b	هل أنت جاد?<br>العطلة الصيفية <i(on)>انتهت<i(off)> للتو يا رجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09997	kh3_fieldvoice_town_tt.chat	boy04_0020	c39938a8	ا-اليوم? آسف، أمي قالت<br>إن علي أن أجز... الكلب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09998	kh3_fieldvoice_town_tt.chat	boy04_0030	0f333836	حقا? أتمنى أن تظلا<br>تركضان إلى الأبد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09999	kh3_fieldvoice_town_tt.chat	boy04_0040	05f6312f	لنبدأ... الصراع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10000	kh3_fieldvoice_town_tt.chat	boy04_0050	c95c31b1	أوه، علمني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10001	kh3_fieldvoice_town_tt.chat	boy04_0060	47d33652	أوه، تريد أن تعرف ما سيحدث?<br>حسنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10002	kh3_fieldvoice_town_tt.chat	boy04_0070	8b7936cc	ولا مثلجات<br>من دون فيلم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10003	kh3_fieldvoice_town_tt.chat	boy04_0080	52592460	أنا جائع...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10004	kh3_fieldvoice_town_tt.chat	girl01_0010	27d20957	أبي سيأخذنا في رحلة<br>في العطلة الطويلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10005	kh3_fieldvoice_town_tt.chat	girl01_0020	a95d0eb4	سأكون مع أصدقائي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10006	kh3_fieldvoice_town_tt.chat	girl01_0030	65f70e2a	لم تكن لديكم مطاعم?<br>ألم تكن قد اخترعت بعد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10007	kh3_fieldvoice_town_tt.chat	girl01_0060	2d17004e	ليت لدي جروا صغيرا لطيفا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10008	kh3_fieldvoice_town_tt.chat	girl01_0070	e1bd00d0	حركات رائعة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10009	kh3_fieldvoice_town_tt.chat	girl01_0080	389d127c	إنه لطيف جدا!<br>أوه، انظروا إليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10010	kh3_fieldvoice_town_tt.chat	girl01_0090	f43712e2	لماذا يكون طعم المثلجات<br>أفضل بكثير في السينما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10011	kh3_fieldvoice_town_tt.chat	girl02_0010	7fcca07f	أوه، يا لك من محظوظ. أبي لا يفعل<br>شيئا سوى التذمر من تعبه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10012	kh3_fieldvoice_town_tt.chat	girl02_0020	f143a79c	اختبار الأسبوع القادم<br>سيقضي عليك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10013	kh3_fieldvoice_town_tt.chat	girl02_0030	3de9a702	بالطبع. لكنني ظننت<br>أن كل ذلك ثبت أنه خرافة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10014	kh3_fieldvoice_town_tt.chat	girl02_0060	7509a966	أرجو أن تأخذني أمي<br>إلى ذلك المطعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10015	kh3_fieldvoice_town_tt.chat	girl02_0070	b9a3a9f8	نعم! استمر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10016	kh3_fieldvoice_town_tt.chat	girl02_0080	6083bb54	ماذا? أنا أحب الآخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10017	kh3_fieldvoice_town_tt.chat	girl02_0090	ac29bbca	حقا? طعمه نفسه بالنسبة لي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10018	kh3_fieldvoice_town_tt.chat	girl02_0100	28c3ec8e	<pb(0.4)>هل لديهم أجنحة حارة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10019	kh3_fieldvoice_town_tt.talk	man01_0010	39d78c35	القصر القديم? اعبر النفق فقط،<br>ثم امش قليلا عبر الغابة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10020	kh3_fieldvoice_town_tt.talk	man02_0010	61c9251d	أسرع طريق إلى الغابة<br>هو عبر النفق تحت الأرض.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

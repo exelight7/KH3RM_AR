@@ -112,7 +112,7 @@ class T(unittest.TestCase):
 
 FONTS = ['out/builds/BUILD-1/pakroot/KINGDOM HEARTS III/Content/UI/Scaleform/91_font/TresFont.uasset',
          'out/builds/TEST50/unpacked/KINGDOM HEARTS III/Content/UI/Scaleform/91_font/TresFont.uasset']
-LONG = ['10269', '10294', '15411', '15082', '15477', '15202', '15159', '07834', '12290']  # help, journal, item
+LONG = ['10269', '10294', '15411', '15082', '15477', '15202', '15159', '07834', '15160']  # help, journal, item
 words = lambda t: [w for w in re.split(r'\s+|<[Bb]r>', t) if w]
 
 

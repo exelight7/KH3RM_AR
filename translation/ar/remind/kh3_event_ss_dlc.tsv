@@ -1,79 +1,79 @@
 id	namespace	key	source_hash	AR	status	note
-06374	kh3_event_ss_dlc.ss921r	ss921r0010mm0	9c1e0957	انتهى الأمر أخيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06375	kh3_event_ss_dlc.ss921r	ss921r0020sr0	730559f8	...لا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06376	kh3_event_ss_dlc.ss921r	ss921r0030rk0	ee3304d1	سنجد كايري. لنعد إلى<br>المعلم ين سيد. يمكننا أن نجد حلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06374	kh3_event_ss_dlc.ss921r	ss921r0010mm0	9c1e0957	انتهى الأمر أخيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06375	kh3_event_ss_dlc.ss921r	ss921r0020sr0	730559f8	...لا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06376	kh3_event_ss_dlc.ss921r	ss921r0030rk0	ee3304d1	سنجد كايري. لنعد إلى<br>المعلم ين سيد. يمكننا أن نجد حلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06377	kh3_event_ss_dlc.ss921r	ss921r0030rk0b	9a533cfb		todo	
-06378	kh3_event_ss_dlc.ss921r	ss921r0040sr0	f726c42d	لا، أعرف ما علي فعله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06379	kh3_event_ss_dlc.ss921r	ss921r0050mm0	d2f3e20e	سورا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06380	kh3_event_ss_dlc.ss921r	ss921r0060sr0_1	d318fd84	رحلتي كلها بدأت يوم فقدتها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06381	kh3_event_ss_dlc.ss921r	ss921r0060sr0_2	c1ad526a	وفي كل مرة أجدها... تفلت مني من جديد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06382	kh3_event_ss_dlc.ss921r	ss921r0060sr0_3	7911350f	ظننت أننا سنكون معا أخيرا.<br>لكنها هناك، وحدها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06383	kh3_event_ss_dlc.ss921r	ss921r0060sr0_4	e4c60db6	ولا ثانية واحدة بعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06384	kh3_event_ss_dlc.ss921r	ss921r0070do0	c7b1a96e	سنذهب معك أيضا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06385	kh3_event_ss_dlc.ss921r	ss921r0080go0	ccb00bbf	صحيح!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06386	kh3_event_ss_dlc.ss921r	ss921r0090sr0_1	dabee63f	شكرا يا دونالد، يا غوفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06387	kh3_event_ss_dlc.ss921r	ss921r0090sr0_2	c80b49d1	لكن هذه المرة، علي أن أذهب وحدي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06388	kh3_event_ss_dlc.ss921r	ss921r0100mm0_1	b68d4f86	سورا، اسمع. قوة اليقظة<br>ليست لمطاردة القلوب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06389	kh3_event_ss_dlc.ss921r	ss921r0100mm0_2	a438e068	حتى لو عثرت على كايري،<br>فقد لا تعود إلينا أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06390	kh3_event_ss_dlc.ss921r	ss921r0110sr0	5d897115	سأعود. وسنعود كلانا<br>قبل أن تشعروا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06391	kh3_event_ss_dlc.ss921r	ss921r0120mm0	b29221ba	أرجوك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06392	kh3_event_ss_dlc.ss921r	ss921r0130rk0	6f1661f6	دعه يذهب يا ميكي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06393	kh3_event_ss_dlc.ss921r	ss921r0140mm0	36b1bc6f	ريكو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06394	kh3_event_ss_dlc.ss921r	ss921r0150rk0_1	7e27f40f	قلبه وعقله قد حسما أمرهما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06395	kh3_event_ss_dlc.ss921r	ss921r0150rk0_2	6c925be1	والآن، آمن به.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06396	kh3_event_ss_dlc.ss921r	ss921r0160mm0	fc7fcae3	نعم... رحلة سعيدة يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06397	kh3_event_ss_dlc.ss921r	ss921r0170sr0	d9aaecc0	شكرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06398	kh3_event_ss_dlc.ss942a	ss9420020sr0	fcdd736b	هذا المكان...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06399	kh3_event_ss_dlc.ss942a	ss9420040sr0	78feeebe	على الأقل... أنا كامل هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06400	kh3_event_ss_dlc.ss942a	ss9420060sr0	b2309832	هييي! هل من أحد هناك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06401	kh3_event_ss_dlc.ss942a	ss9420080sr0	abc8d355	مرحبا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06402	kh3_event_ss_dlc.ss942a	ss9420090yz0	f77d1bc7	مرحبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06403	kh3_event_ss_dlc.ss942a	ss9420110yz0	eb83a852	مرحبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06404	kh3_event_ss_dlc.ss942a	ss9420120sr0	7df8164c	من هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06405	kh3_event_ss_dlc.ss942a	ss9420130yz0	214ddede	أين أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06406	kh3_event_ss_dlc.ss942a	ss9420140sr0	f9db8b99	إلى هنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06407	kh3_event_ss_dlc.ss942a	ss9420160yz0	0ac70ec1	أراك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06408	kh3_event_ss_dlc.ss942a	ss9420190sr0	4f8a8d34	مهلا، ألست―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06409	kh3_event_ss_dlc.ss942a	ss9420200yz0	d6fa3a3c	هل تعرفني?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06410	kh3_event_ss_dlc.ss942a	ss9420210sr0	8a4ff2ae	نعم، أنت يوزورا، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06411	kh3_event_ss_dlc.ss942a	ss9420220yz0	1c344cb0	كيف عرفت ذلك? من أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06412	kh3_event_ss_dlc.ss942a	ss9420230sr0_1	eba69539	أنا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06413	kh3_event_ss_dlc.ss942a	ss9420230sr0_2	f9133ad7	وفي الحقيقة... هناك شيء يجب أن أسألك عنه―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06414	kh3_event_ss_dlc.ss942a	ss9420240yz0	9817d165	سورا? أنت سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06415	kh3_event_ss_dlc.ss942a	ss9420260sr0	6b0b543d	هاه? هل تعرف من أنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06416	kh3_event_ss_dlc.ss942a	ss9420270yz0	37be9caf	بالطبع، سمعت عنك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06417	kh3_event_ss_dlc.ss942a	ss9420280sr0_1	e4d77af6	إن كنت هنا، فلا يمكن أن يكون هذا<br>العالم الحقيقي، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06418	kh3_event_ss_dlc.ss942a	ss9420280sr0_2	f662d518	لكن مهلا، تلك الفتاة أخبرتني عنك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06419	kh3_event_ss_dlc.ss942a	ss9420280sr0_3	4edeb27d	ربما أنت حقيقي بعد كل شيء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06420	kh3_event_ss_dlc.ss942a	ss9420290yz0_1	c164b89a	هل انتهيت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06421	kh3_event_ss_dlc.ss942a	ss9420290yz0_2	d3d11774	لا، هذا ليس العالم الحقيقي، وأنا هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06422	kh3_event_ss_dlc.ss942a	ss9420290yz0_3	6b6d7011	لكن هذا ليس شكلي الحقيقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06423	kh3_event_ss_dlc.ss942a	ss9420290yz0_4	f6ba48a8	كيف عرفت أنني يوزورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06424	kh3_event_ss_dlc.ss942a	ss9420310sr0	0b6a9789	هاه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06425	kh3_event_ss_dlc.ss942a	ss9420320yz0	9d112997	لماذا تستخدم اسم سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06426	kh3_event_ss_dlc.ss942a	ss9420330sr0	c1a4e105	لأنني... أنا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06427	kh3_event_ss_dlc.ss942a	ss9420340yz0_1	3a735cb1	إن كنت من تقول، وكان القدر<br>هو من جاء بنا إلى هنا،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06378	kh3_event_ss_dlc.ss921r	ss921r0040sr0	f726c42d	لا، أعرف ماذا أفعل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06379	kh3_event_ss_dlc.ss921r	ss921r0050mm0	d2f3e20e	سورا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06380	kh3_event_ss_dlc.ss921r	ss921r0060sr0_1	d318fd84	رحلتي كلها بدأت يوم فقدتها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06381	kh3_event_ss_dlc.ss921r	ss921r0060sr0_2	c1ad526a	وفي كل مرة أجدها... تفلت مني مجددا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06382	kh3_event_ss_dlc.ss921r	ss921r0060sr0_3	7911350f	ظننت أننا سنكون معا أخيرا.<br>لكنها هناك، وحدها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06383	kh3_event_ss_dlc.ss921r	ss921r0060sr0_4	e4c60db6	ولا ثانية واحدة بعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06384	kh3_event_ss_dlc.ss921r	ss921r0070do0	c7b1a96e	سنذهب معك أيضا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06385	kh3_event_ss_dlc.ss921r	ss921r0080go0	ccb00bbf	هذا صحيح!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06386	kh3_event_ss_dlc.ss921r	ss921r0090sr0_1	dabee63f	شكرا يا دونالد، يا غوفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06387	kh3_event_ss_dlc.ss921r	ss921r0090sr0_2	c80b49d1	لكن هذه المرة، يجب أن أذهب وحدي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06388	kh3_event_ss_dlc.ss921r	ss921r0100mm0_1	b68d4f86	سورا، اسمع. قوة اليقظة<br>ليست لمطاردة القلوب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06389	kh3_event_ss_dlc.ss921r	ss921r0100mm0_2	a438e068	حتى لو عثرت على كايري،<br>فقد لا تعود إلينا أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06390	kh3_event_ss_dlc.ss921r	ss921r0110sr0	5d897115	سأعود. وسنعود كلانا<br>قبل أن تشعروا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06391	kh3_event_ss_dlc.ss921r	ss921r0120mm0	b29221ba	أرجوك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06392	kh3_event_ss_dlc.ss921r	ss921r0130rk0	6f1661f6	دعه يذهب يا ميكي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06393	kh3_event_ss_dlc.ss921r	ss921r0140mm0	36b1bc6f	ريكو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06394	kh3_event_ss_dlc.ss921r	ss921r0150rk0_1	7e27f40f	قلبه وعقله قد حسما الأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06395	kh3_event_ss_dlc.ss921r	ss921r0150rk0_2	6c925be1	والآن، آمن به.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06396	kh3_event_ss_dlc.ss921r	ss921r0160mm0	fc7fcae3	نعم... رحلة آمنة يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06397	kh3_event_ss_dlc.ss921r	ss921r0170sr0	d9aaecc0	شكرا لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06398	kh3_event_ss_dlc.ss942a	ss9420020sr0	fcdd736b	هذا المكان...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06399	kh3_event_ss_dlc.ss942a	ss9420040sr0	78feeebe	على الأقل... أنا كامل هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06400	kh3_event_ss_dlc.ss942a	ss9420060sr0	b2309832	هييي! هل من أحد هناك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06401	kh3_event_ss_dlc.ss942a	ss9420080sr0	abc8d355	مرحبا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06402	kh3_event_ss_dlc.ss942a	ss9420090yz0	f77d1bc7	مرحبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06403	kh3_event_ss_dlc.ss942a	ss9420110yz0	eb83a852	مرحبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06404	kh3_event_ss_dlc.ss942a	ss9420120sr0	7df8164c	من هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06405	kh3_event_ss_dlc.ss942a	ss9420130yz0	214ddede	أين أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06406	kh3_event_ss_dlc.ss942a	ss9420140sr0	f9db8b99	إلى هنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06407	kh3_event_ss_dlc.ss942a	ss9420160yz0	0ac70ec1	أراك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06408	kh3_event_ss_dlc.ss942a	ss9420190sr0	4f8a8d34	مهلا، ألست―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06409	kh3_event_ss_dlc.ss942a	ss9420200yz0	d6fa3a3c	هل تعرفني?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06410	kh3_event_ss_dlc.ss942a	ss9420210sr0	8a4ff2ae	نعم، أنت يوزورا، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06411	kh3_event_ss_dlc.ss942a	ss9420220yz0	1c344cb0	كيف عرفت ذلك? من أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06412	kh3_event_ss_dlc.ss942a	ss9420230sr0_1	eba69539	أنا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06413	kh3_event_ss_dlc.ss942a	ss9420230sr0_2	f9133ad7	وفي الحقيقة... هناك شيء يجب أن أسألك عنه―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06414	kh3_event_ss_dlc.ss942a	ss9420240yz0	9817d165	سورا? أنت سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06415	kh3_event_ss_dlc.ss942a	ss9420260sr0	6b0b543d	هاه? هل تعرف من أنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06416	kh3_event_ss_dlc.ss942a	ss9420270yz0	37be9caf	بالطبع، سمعت عنك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06417	kh3_event_ss_dlc.ss942a	ss9420280sr0_1	e4d77af6	إن كنت هنا، فلا يمكن أن يكون هذا<br>العالم الحقيقي، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06418	kh3_event_ss_dlc.ss942a	ss9420280sr0_2	f662d518	لكن مهلا، تلك الفتاة أخبرتني عنك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06419	kh3_event_ss_dlc.ss942a	ss9420280sr0_3	4edeb27d	ربما أنت حقيقي بعد كل شيء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06420	kh3_event_ss_dlc.ss942a	ss9420290yz0_1	c164b89a	هل انتهيت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06421	kh3_event_ss_dlc.ss942a	ss9420290yz0_2	d3d11774	لا، هذا ليس العالم الحقيقي، وأنا هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06422	kh3_event_ss_dlc.ss942a	ss9420290yz0_3	6b6d7011	لكن هذا ليس شكلي الحقيقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06423	kh3_event_ss_dlc.ss942a	ss9420290yz0_4	f6ba48a8	كيف عرفت أنني يوزورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06424	kh3_event_ss_dlc.ss942a	ss9420310sr0	0b6a9789	هاه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06425	kh3_event_ss_dlc.ss942a	ss9420320yz0	9d112997	لماذا تستخدم اسم سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06426	kh3_event_ss_dlc.ss942a	ss9420330sr0	c1a4e105	لأنني... أنا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06427	kh3_event_ss_dlc.ss942a	ss9420340yz0_1	3a735cb1	إن كنت من تقول، وكان القدر<br>هو من جاء بنا إلى هنا،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06428	kh3_event_ss_dlc.ss942a	ss9420340yz0_1b	b21ded38		todo	
-06429	kh3_event_ss_dlc.ss942a	ss9420340yz0_2	28c6f35f	فإذن... طريقي واضح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06430	kh3_event_ss_dlc.ss942a	ss9420350sr0	45877cd0	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06431	kh3_event_ss_dlc.ss942a	ss9420390sr0	96b1413b	مهلا! انتظر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06432	kh3_event_ss_dlc.ss942a	ss9420400yz0_1	8431ba50	دخلت هذا المكان بالخطأ،<br>ومررت ببعض التجارب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06433	kh3_event_ss_dlc.ss942a	ss9420400yz0_2	968415be	ثم قيل لي أن "أنقذ سورا".	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06434	kh3_event_ss_dlc.ss942a	ss9420410sr0	3a72a0fe	هاه?! إذن لماذا هذا السلاح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06435	kh3_event_ss_dlc.ss942a	ss9420420yz0	ac091ee0	حان وقت إنهاء هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06436	kh3_event_ss_dlc.ss943a	ss9430010sr0	a2ae3b0b	كيف يمكن―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06437	kh3_event_ss_dlc.ss943a	ss9430030yz0	51b2be53	آسف، لكنني لا أخسر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06438	kh3_event_ss_dlc.ss943a	ss9430050yz0	d5912386	سأنقذك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06439	kh3_event_ss_dlc.ss943a	ss9440010yz0	23e9da4a	لقد كنت―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06440	kh3_event_ss_dlc.ss943a	ss9440020sr0	b5926454	<i(on)>تراودني أفكار غريبة مؤخرا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06441	kh3_event_ss_dlc.ss943a	ss9440030sr0	d0f55f12	<i(on)>مثل، هل أي من هذا حقيقي أم لا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06442	kh3_event_ss_dlc.ss943a	ss9440050yz0	6d043113	<i(on)>لا شيء من هذا... يبدو منطقيا لي.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06443	kh3_event_ss_dlc.ss945a	ss9450010yz0	d233dfe0	أظن... أن قواي ليست مطلوبة بعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06444	kh3_event_ss_dlc.ss945a	ss9450020sr0	444861fe	ماذا تقصد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06445	kh3_event_ss_dlc.ss945a	ss9450030yz0	18fda96c	لا عليك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06446	kh3_event_ss_dlc.ss945a	ss9460020x00	977d08df	أيها القائد! أيها القائد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06447	kh3_event_ss_dlc.ss945a	ss9460030x00	f21a3399	مثير للإعجاب، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06448	kh3_event_ss_dlc.ss945a	ss9460040sr0	0974f494	لقد كنت―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06449	kh3_event_ss_dlc.ss945a	ss9460050yz0	55c13c06	<i(on)>تراودني أفكار غريبة مؤخرا.<i(on)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06450	kh3_event_ss_dlc.ss945a	ss9460060yz0	fa6871cc	<i(on)>مثل، هل أي من هذا حقيقي أم لا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-06451	kh3_event_ss_dlc.ss945a	ss9460080sr0	da42c97f	<i(on)>لا شيء من هذا... يبدو منطقيا لي.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06429	kh3_event_ss_dlc.ss942a	ss9420340yz0_2	28c6f35f	فإذن... طريقي واضح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06430	kh3_event_ss_dlc.ss942a	ss9420350sr0	45877cd0	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06431	kh3_event_ss_dlc.ss942a	ss9420390sr0	96b1413b	مهلا! انتظر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06432	kh3_event_ss_dlc.ss942a	ss9420400yz0_1	8431ba50	دخلت هذا المكان بالخطأ،<br>ومررت ببعض التجارب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06433	kh3_event_ss_dlc.ss942a	ss9420400yz0_2	968415be	ثم قيل لي أن "أنقذ سورا".	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06434	kh3_event_ss_dlc.ss942a	ss9420410sr0	3a72a0fe	هاه?! إذن لماذا هذا السلاح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06435	kh3_event_ss_dlc.ss942a	ss9420420yz0	ac091ee0	حان وقت إنهاء هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06436	kh3_event_ss_dlc.ss943a	ss9430010sr0	a2ae3b0b	كيف يمكن―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06437	kh3_event_ss_dlc.ss943a	ss9430030yz0	51b2be53	آسف، لكنني لا أخسر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06438	kh3_event_ss_dlc.ss943a	ss9430050yz0	d5912386	سأنقذك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06439	kh3_event_ss_dlc.ss943a	ss9440010yz0	23e9da4a	لقد كنت―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06440	kh3_event_ss_dlc.ss943a	ss9440020sr0	b5926454	<i(on)>تراودني أفكار غريبة مؤخرا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06441	kh3_event_ss_dlc.ss943a	ss9440030sr0	d0f55f12	<i(on)>مثل، هل أي من هذا حقيقي أم لا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06442	kh3_event_ss_dlc.ss943a	ss9440050yz0	6d043113	<i(on)>لا شيء من هذا... يبدو منطقيا لي.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06443	kh3_event_ss_dlc.ss945a	ss9450010yz0	d233dfe0	أظن... أن قواي ليست مطلوبة بعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06444	kh3_event_ss_dlc.ss945a	ss9450020sr0	444861fe	ماذا تقصد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06445	kh3_event_ss_dlc.ss945a	ss9450030yz0	18fda96c	لا عليك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06446	kh3_event_ss_dlc.ss945a	ss9460020x00	977d08df	أيها القائد! أيها القائد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06447	kh3_event_ss_dlc.ss945a	ss9460030x00	f21a3399	مثير للإعجاب، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06448	kh3_event_ss_dlc.ss945a	ss9460040sr0	0974f494	لقد كنت―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06449	kh3_event_ss_dlc.ss945a	ss9460050yz0	55c13c06	<i(on)>تراودني أفكار غريبة مؤخرا.<i(on)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06450	kh3_event_ss_dlc.ss945a	ss9460060yz0	fa6871cc	<i(on)>مثل، هل أي من هذا حقيقي أم لا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06451	kh3_event_ss_dlc.ss945a	ss9460080sr0	da42c97f	<i(on)>لا شيء من هذا... يبدو منطقيا لي.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

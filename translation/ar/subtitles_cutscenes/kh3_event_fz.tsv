@@ -1,484 +1,484 @@
 id	namespace	key	source_hash	AR	status	note
-02555	kh3_event_fz.fz451a	fz4510050sr0	42d23a68	الجو بارد! دونالد، أعطني معطفا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02556	kh3_event_fz.fz451a	fz4510060do0	7245572b	السحر لا يعمل هكذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02557	kh3_event_fz.fz451a	fz4510070go0	60bcbe9d	أظنه معتادا على الشاطئ أكثر من اللازم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02558	kh3_event_fz.fz451a	fz4510080sr0	f4833cc5	ماذا أقول? أنا ابن الجزر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02559	kh3_event_fz.fz451a	fz4510110sr0	8d1ab416	انظروا! حتى البحر يتحول إلى... جليد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02560	kh3_event_fz.fz451a	fz4510120sr0	22b3f9dc	دونالد، هذا ليس سحرك <i(on)>أنت<i(off)>، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02561	kh3_event_fz.fz451a	fz4510140go0	4e309670	أتظن أنهم بلا قلب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02562	kh3_event_fz.fz451a	fz4510150sr0	c3f75f4f	ربما. لنذهب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02563	kh3_event_fz.fz451a	fz4510240sr0	fe8ecd21	تلك الفتاة... بدت حزينة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02564	kh3_event_fz.fz451a	fz4510250sr0_1	ebae5bcd	أتساءل ماذا حدث.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02565	kh3_event_fz.fz451a	fz4510250sr0_2	f91bf423	ربما بلا قلب? يجب أن نتحدث إليها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02555	kh3_event_fz.fz451a	fz4510050sr0	42d23a68	الجو بارد! دونالد، أعطني معطفا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02556	kh3_event_fz.fz451a	fz4510060do0	7245572b	السحر لا يعمل هكذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02557	kh3_event_fz.fz451a	fz4510070go0	60bcbe9d	أظنه معتادا على الشاطئ أكثر من اللازم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02558	kh3_event_fz.fz451a	fz4510080sr0	f4833cc5	ماذا أقول? أنا ابن الجزر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02559	kh3_event_fz.fz451a	fz4510110sr0	8d1ab416	انظروا! حتى البحر يتحول إلى... جليد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02560	kh3_event_fz.fz451a	fz4510120sr0	22b3f9dc	دونالد، هذا ليس سحرك <i(on)>أنت<i(off)>، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02561	kh3_event_fz.fz451a	fz4510140go0	4e309670	أتظن أنهم بلا قلب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02562	kh3_event_fz.fz451a	fz4510150sr0	c3f75f4f	ربما. لنذهب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02563	kh3_event_fz.fz451a	fz4510240sr0	fe8ecd21	تلك الفتاة... بدت حزينة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02564	kh3_event_fz.fz451a	fz4510250sr0_1	ebae5bcd	أتساءل ماذا حدث.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02565	kh3_event_fz.fz451a	fz4510250sr0_2	f91bf423	ربما بلا قلب? يجب أن نتحدث إليها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02566	kh3_event_fz.fz451a	fz4510260do0	ab7e9b24		todo	
 02567	kh3_event_fz.fz451a	fz_worldname	288deeba		todo	
-02568	kh3_event_fz.fz452a	fz4520010sr0	c520d98e	مهلا، انتظري!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02569	kh3_event_fz.fz452a	fz4520030el0	85fac407	لماذا أنتم هنا? من أين أتيتم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02570	kh3_event_fz.fz452a	fz4520040sr0_1	f8621b4d	مرحبا. أنا سورا، وأنا—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02571	kh3_event_fz.fz452a	fz4520040sr0_2	ead7b4a3	آه... أنا من... لنقل من مكان...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02572	kh3_event_fz.fz452a	fz4520040sr0_3	526bd3c6	أدفأ قليلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02573	kh3_event_fz.fz452a	fz4520050do0	14f3125e	أنا دونالد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02574	kh3_event_fz.fz452a	fz4520060go0	ccc48d64	وأنا غوفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02575	kh3_event_fz.fz452a	fz4520070el0	cb172f5e	هل تزورون آرنديل? من أجل التتويج?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02576	kh3_event_fz.fz452a	fz4520080sr0	3d9c347a	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02577	kh3_event_fz.fz452a	fz4520100sr0	216287ef	كشفتنا! إذن، ما اسمك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02578	kh3_event_fz.fz452a	fz4520110el0	ce11d7ac	إلسا... الملكة إلسا ملكة آرنديل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02579	kh3_event_fz.fz452a	fz4520120sr0	ebacf163	ماذا? الملكة?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02580	kh3_event_fz.fz452a	fz4520130el0	04dfa120	لا ينبغي أن تكونوا هنا.<br>أرجوكم عودوا إلى القرية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02581	kh3_event_fz.fz452a	fz4520140sr0_1	09b81ee7	لماذا? جلالتك تبدين<br>بحاجة إلى صديق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02582	kh3_event_fz.fz452a	fz4520140sr0_2	1b0db109	ألا تريدين الحديث?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02583	kh3_event_fz.fz452a	fz4520150el0_1	aa4d1d3f	أرجوكم ارحلوا. أحتاج إلى أن أكون وحدي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02584	kh3_event_fz.fz452a	fz4520150el0_2	b8f8b2d1	لا أريد أن أؤذي أحدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02585	kh3_event_fz.fz452a	fz4520160sr0	a5411a3a	آه... هل الأمر سيئ إلى هذا الحد?<br>لا بد أنك عانيت الكثير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02586	kh3_event_fz.fz452a	fz4520170do0	5f1801f5	نحن نعرف هذا الشعور، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02587	kh3_event_fz.fz452a	fz4520180go0	5419a324	بالتأكيد، المغامرات ممتعة،<br>لكن لها صعودها وهبوطها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02588	kh3_event_fz.fz452a	fz4520180go0b	b3030731	حين تصعب الأمور،<br>يجب أن يبقى الأصدقاء معا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02589	kh3_event_fz.fz452a	fz4520190sr0	d9de6a1b	تماما!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02590	kh3_event_fz.fz452a	fz4520200sr0	797c2ec7	مع أنك يا دونالد <i(on)>تفقد<i(off)> أعصابك كثيرا، لذا...<br>أفهم الرغبة في بعض الوحدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02591	kh3_event_fz.fz452a	fz4520210do0	83253508	ماذا? أنا لا أفعل ذلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02592	kh3_event_fz.fz452a	fz4520220el0	39a6334e	كفى!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02593	kh3_event_fz.fz452a	fz4520270sr0	98388854	إلسا... هل فعلت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02594	kh3_event_fz.fz452a	fz4520290go0	6960314a	بلا قلب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02595	kh3_event_fz.fz452a	fz4520320sr0	32973d6c	لا تقلقي. سنتولى أمرهم. احتمي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02596	kh3_event_fz.fz453a	fz4530020sr0	9b5391ee	إلسا، هل أنت بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02597	kh3_event_fz.fz453a	fz4530030el0	7420c1ad	أنا... آسفة لأنني انفعلت.<br>شكرا على مساعدتكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02598	kh3_event_fz.fz453a	fz4530050el0	f0035c78	احذروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02599	kh3_event_fz.fz453a	fz4530070sr0	b0d941f1	هذا مذهل. تستطيعين التحكم بالجليد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02600	kh3_event_fz.fz453a	fz4530080el0	46525ad5	أتحكم به? لا، كل ما أفعله... هو إيذاء الناس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02601	kh3_event_fz.fz453a	fz4530090go0	4181f8ef	لا بأس. أولئك كانوا مجرد بلا قلب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02602	kh3_event_fz.fz453a	fz4530100el0	5aace940	قلتم هذه الكلمة من قبل. ما هم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02603	kh3_event_fz.fz453a	fz4530110sr0	b5dfb903	وحوش تسعى وراء قلوب الناس.<br>أينما ذهبوا، حلت المتاعب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02604	kh3_event_fz.fz453a	fz4530120el0	90629fcc	يسعون وراء قلوب الناس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02605	kh3_event_fz.fz453a	fz4530130sr0	7f11cf8f	نعم، إنهم خطيرون!<br>عليك العودة إلى بيتك قبل أن يزداد الأمر سوءا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02606	kh3_event_fz.fz453a	fz4530140el0_1	04bc7265	هذا بيتي الآن. لا أستطيع العودة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02607	kh3_event_fz.fz453a	fz4530140el0_2	1609dd8b	لا أريد أن أؤذي أحدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02608	kh3_event_fz.fz453a	fz4530150sr0	fb32525a	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02609	kh3_event_fz.fz453a	fz4530160el0	de8f7495	آرنديل أكثر أمانا ما دمت هنا في الأعلى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02610	kh3_event_fz.fz453a	fz4530170sr0	31fc24d6	لكن ليس أكثر أمانا لك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02611	kh3_event_fz.fz453a	fz4530190el0	a21004b4	أرجوكم، ارحلوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02612	kh3_event_fz.fz453a	fz4530200sr0	88a62b6d	إلسا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02613	kh3_event_fz.fz453a	fz4530210go0	0561e252	لا تقلق، ستكون بخير.<br>يبدو أنها قوية جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02614	kh3_event_fz.fz453a	fz4530220do0	dd567d68	يجب أن تتركها. إنها تريد أن تبقى وحدها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02615	kh3_event_fz.fz453a	fz4530230sr0_1	6bea774c	نعم، أفهمك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02616	kh3_event_fz.fz453a	fz4530230sr0_2	795fd8a2	لكنني أردت فقط أن أعرف لماذا هي حزينة هكذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02617	kh3_event_fz.fz453a	fz4530240xr0	b7d9643a	وما شأنك أنت بذلك?<br>اقرأ الأجواء يا صغير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02618	kh3_event_fz.fz453a	fz4530280sr0_1	649b9883	من أنت? هذا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02619	kh3_event_fz.fz453a	fz4530280sr0_2	762e376d	معطف المنظمة. هل أنت جديدة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02620	kh3_event_fz.fz453a	fz4530290xr0_1	575cfee6	عفوا? آه صحيح، أنت نسيت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02621	kh3_event_fz.fz453a	fz4530290xr0_2	45e95108	اسمي لارزين. تذكره هذه المرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02622	kh3_event_fz.fz453a	fz4530290xr0_3	fd55366d	وسنعتني نحن بإلسا، فلا تقلق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02623	kh3_event_fz.fz453a	fz4530310sr0	6ce4750c	هل تعرفان—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02624	kh3_event_fz.fz453a	fz4530320do0	5c73184f	لا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02625	kh3_event_fz.fz453a	fz4530330go0	4e8af1f9	حسنا، يبدو أنها تظن أنها تعرفنا،<br>فربما علينا مجاراتها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02626	kh3_event_fz.fz453a	fz4530340sr0	476ea513	إلا إن كان اسمها "تيرا".	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02627	kh3_event_fz.fz453a	fz4530350xr0	539b3a5b	عفوا! أنا هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02628	kh3_event_fz.fz453a	fz4530370sr0	e8c7e8d9	لماذا تلاحقون إلسا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02629	kh3_event_fz.fz453a	fz4530380xr0_1	a7330651	لن يؤذيها أحد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02630	kh3_event_fz.fz453a	fz4530380xr0_2	b586a9bf	لكننا لن نتحمل تدخلكم <i(on)>أنتم<i(off)><br>في شؤوننا. ابقوا هنا وتأدبوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02631	kh3_event_fz.fz453a	fz4530440sr0	76769264	انتظري. الجليد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02632	kh3_event_fz.fz453a	fz4530450go0	fbb15b5b	سيحبسنا داخله!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02633	kh3_event_fz.fz453a	fz4530460xr0	cd2a40e6	الجليد ليس أسلوبي إطلاقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02634	kh3_event_fz.fz453a	fz4530490sr0	c02794c9	لارزين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02635	kh3_event_fz.fz454a	fz4540010go0	64cf3cc8	هل يرى أحدكم مخرجا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02636	kh3_event_fz.fz454a	fz4540020do0	bcf8a3f2	لا، أنا لا أرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02637	kh3_event_fz.fz454a	fz4540030sr0	46a1b83d	لا يمكننا البقاء هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02638	kh3_event_fz.fz454a	fz4540040go0	4f45ecd7	إلسا في ورطة <i(on)>حقيقية<i(off)> الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02639	kh3_event_fz.fz454a	fz4540050sr0	c28225e8	نعم. وعدت لارزين ألا تؤذيها،<br>لكنني لا أثق بهؤلاء قيد أنملة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02640	kh3_event_fz.fz454a	fz4540060do0	f21548ab	لا بد أنهم يدبرون شرا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02641	kh3_event_fz.fz454a	fz4540070sr0	084c5364	بوضوح!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02642	kh3_event_fz.fz455a	fz4550020sr0	d21c86d1	هل ترونها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02643	kh3_event_fz.fz455a	fz4550030go0	5fdb4fee	أظنها صعدت في ذلك الاتجاه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02644	kh3_event_fz.fz455a	fz4550040do0	c9013b8d	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02645	kh3_event_fz.fz455a	fz4550050sr0	33582042	حسنا، هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02646	kh3_event_fz.fz456b	fz4560010_1	57c3bbd6	<i(on)>الثلج يلمع أبيض على الجبل الليلة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02647	kh3_event_fz.fz456b	fz4560010_1b	6f8757fa	<i(on)>لا أثر لقدم يرى<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02648	kh3_event_fz.fz456b	fz4560010_2	45761438	<i(on)>مملكة من العزلة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02649	kh3_event_fz.fz456b	fz4560010_2b	e1085019	<i(on)>ويبدو أنني الملكة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02650	kh3_event_fz.fz456b	fz4560010_3	fdca735d	<i(on)>الريح تعوي كالعاصفة التي تدور في داخلي<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02651	kh3_event_fz.fz456b	fz4560010_4	601d4be4	<i(on)>لم أستطع كتمانها، والسماء تعلم أنني حاولت<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02652	kh3_event_fz.fz456b	fz4560030sr0	7e64b528	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02653	kh3_event_fz.fz456b	fz4560040_1	2d9a66c0	<i(on)>لا تدعيهم يدخلون<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02654	kh3_event_fz.fz456b	fz4560040_1b	440d87e5	<i(on)>لا تدعيهم يرون<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02655	kh3_event_fz.fz456b	fz4560040_2	3f2fc92e	<i(on)>كوني الفتاة الطيبة كما يجب أن تكوني دائما<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02656	kh3_event_fz.fz456b	fz4560040_2b	ca828006	<i(on)>أخفي، لا تشعري<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02657	kh3_event_fz.fz456b	fz4560040_3	8793ae4b	<i(on)>لا تدعيهم يعرفون<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02658	kh3_event_fz.fz456b	fz4560040_3b	06288098	<i(on)>والآن قد عرفوا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02659	kh3_event_fz.fz456b	fz4560050sr0	fa4728fd	هذا صوت إلسا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02660	kh3_event_fz.fz456b	fz4560070_1	0452d232	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02661	kh3_event_fz.fz456b	fz4560070_1b	eba4ca2f	<i(on)>لم أعد أستطيع كبتها<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02662	kh3_event_fz.fz456b	fz4560070_2	16e77ddc	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02663	kh3_event_fz.fz456b	fz4560070_2b	652bcdcc	<i(on)>أدير ظهري وأغلق الباب بقوة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02664	kh3_event_fz.fz456b	fz4560070_3	ae5b1ab9	<i(on)>لا يهمني ما سيقولون<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02665	kh3_event_fz.fz456b	fz4560070_3b	a981cd52	<i(on)>فلتهدر العاصفة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02666	kh3_event_fz.fz456b	fz4560070_4	338c2200	<i(on)>فالبرد لم يزعجني أبدا على أي حال<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02667	kh3_event_fz.fz456b	fz4560090sr0	29711516	من هنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02668	kh3_event_fz.fz456b	fz4560100_1	9ccc1101	<i(on)>غريب كيف أن بعض المسافة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02669	kh3_event_fz.fz456b	fz4560100_1b	8bc5099b	<i(on)>تجعل كل شيء يبدو صغيرا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02670	kh3_event_fz.fz456b	fz4560100_2	8e79beef	<i(on)>والمخاوف التي تحكمت بي يوما<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02671	kh3_event_fz.fz456b	fz4560100_2b	054a0e78	<i(on)>لم تعد تبلغني أبدا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02672	kh3_event_fz.fz456b	fz4560100_3	36c5d98a	<i(on)>حان الوقت لأرى ما أستطيع<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02673	kh3_event_fz.fz456b	fz4560100_3b	c9e00ee6	<i(on)>أن أختبر الحدود وأتجاوزها<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02674	kh3_event_fz.fz456b	fz4560100_4	ab12e133	<i(on)>لا صواب، لا خطأ، لا قواعد لي<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02675	kh3_event_fz.fz456b	fz4560100_4b	c32507ff	<i(on)>أنا حرة!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02676	kh3_event_fz.fz456b	fz4560110_1	32a48090	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02677	kh3_event_fz.fz456b	fz4560110_1b	eea232dd	<i(on)>أنا والريح والسماء واحد<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02678	kh3_event_fz.fz456b	fz4560110_2	20112f7e	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02679	kh3_event_fz.fz456b	fz4560110_2b	602d353e	<i(on)>لن تروني أبكي أبدا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02680	kh3_event_fz.fz456b	fz4560110_3	98ad481b	<i(on)>هنا أقف وهنا سأبقى<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02681	kh3_event_fz.fz456b	fz4560110_3b	ac8735a0	<i(on)>فلتهدر العاصفة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02682	kh3_event_fz.fz456b	fz4560120sr0	9a26eb49	انظروا إلى ذلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02683	kh3_event_fz.fz456b	fz4560160_1	cf5d78e5	<i(on)>قوتي تتطاير في الهواء نحو الأرض<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02684	kh3_event_fz.fz456b	fz4560160_2	dde8d70b	<i(on)>روحي تدور في بلورات متجمدة من حولي<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02568	kh3_event_fz.fz452a	fz4520010sr0	c520d98e	مهلا، انتظري!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02569	kh3_event_fz.fz452a	fz4520030el0	85fac407	لماذا أنتم هنا? من أين أتيتم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02570	kh3_event_fz.fz452a	fz4520040sr0_1	f8621b4d	مرحبا. أنا سورا، وأنا—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02571	kh3_event_fz.fz452a	fz4520040sr0_2	ead7b4a3	آه... أنا من... لنقل من مكان...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02572	kh3_event_fz.fz452a	fz4520040sr0_3	526bd3c6	أدفأ قليلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02573	kh3_event_fz.fz452a	fz4520050do0	14f3125e	أنا دونالد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02574	kh3_event_fz.fz452a	fz4520060go0	ccc48d64	وأنا غوفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02575	kh3_event_fz.fz452a	fz4520070el0	cb172f5e	هل تزورون آرنديل? من أجل التتويج?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02576	kh3_event_fz.fz452a	fz4520080sr0	3d9c347a	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02577	kh3_event_fz.fz452a	fz4520100sr0	216287ef	كشفتنا! إذن، ما اسمك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02578	kh3_event_fz.fz452a	fz4520110el0	ce11d7ac	إلسا... الملكة إلسا ملكة آرنديل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02579	kh3_event_fz.fz452a	fz4520120sr0	ebacf163	ماذا? الملكة?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02580	kh3_event_fz.fz452a	fz4520130el0	04dfa120	لا ينبغي أن تكونوا هنا.<br>أرجوكم عودوا إلى القرية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02581	kh3_event_fz.fz452a	fz4520140sr0_1	09b81ee7	لماذا? جلالتك تبدين<br>بحاجة إلى صديق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02582	kh3_event_fz.fz452a	fz4520140sr0_2	1b0db109	ألا تريدين الحديث?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02583	kh3_event_fz.fz452a	fz4520150el0_1	aa4d1d3f	أرجوكم ارحلوا. أحتاج إلى أن أكون وحدي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02584	kh3_event_fz.fz452a	fz4520150el0_2	b8f8b2d1	لا أريد أن أؤذي أحدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02585	kh3_event_fz.fz452a	fz4520160sr0	a5411a3a	آه... هل الأمر سيئ إلى هذا الحد?<br>لا بد أنك عانيت الكثير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02586	kh3_event_fz.fz452a	fz4520170do0	5f1801f5	نحن نعرف هذا الشعور، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02587	kh3_event_fz.fz452a	fz4520180go0	5419a324	بالتأكيد، المغامرات ممتعة،<br>لكن لها صعودها وهبوطها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02588	kh3_event_fz.fz452a	fz4520180go0b	b3030731	حين تصعب الأمور،<br>يجب أن يبقى الأصدقاء معا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02589	kh3_event_fz.fz452a	fz4520190sr0	d9de6a1b	تماما!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02590	kh3_event_fz.fz452a	fz4520200sr0	797c2ec7	مع أنك يا دونالد <i(on)>تفقد<i(off)> أعصابك كثيرا، لذا...<br>أفهم الرغبة في بعض الوحدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02591	kh3_event_fz.fz452a	fz4520210do0	83253508	ماذا? أنا لا أفعل ذلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02592	kh3_event_fz.fz452a	fz4520220el0	39a6334e	كفى!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02593	kh3_event_fz.fz452a	fz4520270sr0	98388854	إلسا... هل فعلت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02594	kh3_event_fz.fz452a	fz4520290go0	6960314a	بلا قلب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02595	kh3_event_fz.fz452a	fz4520320sr0	32973d6c	لا تقلقي. سنتولى أمرهم. احتمي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02596	kh3_event_fz.fz453a	fz4530020sr0	9b5391ee	إلسا، هل أنت بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02597	kh3_event_fz.fz453a	fz4530030el0	7420c1ad	أنا... آسفة لأنني انفعلت.<br>شكرا على مساعدتكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02598	kh3_event_fz.fz453a	fz4530050el0	f0035c78	احذروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02599	kh3_event_fz.fz453a	fz4530070sr0	b0d941f1	هذا مذهل. تستطيعين التحكم بالجليد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02600	kh3_event_fz.fz453a	fz4530080el0	46525ad5	أتحكم به? لا، كل ما أفعله... هو إيذاء الناس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02601	kh3_event_fz.fz453a	fz4530090go0	4181f8ef	لا بأس. أولئك كانوا مجرد بلا قلب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02602	kh3_event_fz.fz453a	fz4530100el0	5aace940	قلتم هذه الكلمة من قبل. ما هم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02603	kh3_event_fz.fz453a	fz4530110sr0	b5dfb903	وحوش تسعى وراء قلوب الناس.<br>أينما ذهبوا، حلت المتاعب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02604	kh3_event_fz.fz453a	fz4530120el0	90629fcc	يسعون وراء قلوب الناس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02605	kh3_event_fz.fz453a	fz4530130sr0	7f11cf8f	نعم، إنهم خطيرون!<br>عليك العودة إلى بيتك قبل أن يزداد الأمر سوءا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02606	kh3_event_fz.fz453a	fz4530140el0_1	04bc7265	هذا بيتي الآن. لا أستطيع العودة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02607	kh3_event_fz.fz453a	fz4530140el0_2	1609dd8b	لا أريد أن أؤذي أحدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02608	kh3_event_fz.fz453a	fz4530150sr0	fb32525a	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02609	kh3_event_fz.fz453a	fz4530160el0	de8f7495	آرنديل أكثر أمانا ما دمت هنا في الأعلى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02610	kh3_event_fz.fz453a	fz4530170sr0	31fc24d6	لكن ليس أكثر أمانا لك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02611	kh3_event_fz.fz453a	fz4530190el0	a21004b4	أرجوكم، ارحلوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02612	kh3_event_fz.fz453a	fz4530200sr0	88a62b6d	إلسا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02613	kh3_event_fz.fz453a	fz4530210go0	0561e252	لا تقلق، ستكون بخير.<br>يبدو أنها قوية جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02614	kh3_event_fz.fz453a	fz4530220do0	dd567d68	يجب أن تتركها. إنها تريد أن تبقى وحدها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02615	kh3_event_fz.fz453a	fz4530230sr0_1	6bea774c	نعم، أفهمك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02616	kh3_event_fz.fz453a	fz4530230sr0_2	795fd8a2	لكنني أردت فقط أن أعرف لماذا هي حزينة هكذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02617	kh3_event_fz.fz453a	fz4530240xr0	b7d9643a	وما شأنك أنت بذلك?<br>اقرأ الأجواء يا صغير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02618	kh3_event_fz.fz453a	fz4530280sr0_1	649b9883	من أنت? هذا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02619	kh3_event_fz.fz453a	fz4530280sr0_2	762e376d	معطف المنظمة. هل أنت جديدة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02620	kh3_event_fz.fz453a	fz4530290xr0_1	575cfee6	عفوا? آه صحيح، أنت نسيت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02621	kh3_event_fz.fz453a	fz4530290xr0_2	45e95108	اسمي لارزين. تذكره هذه المرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02622	kh3_event_fz.fz453a	fz4530290xr0_3	fd55366d	وسنعتني نحن بإلسا، فلا تقلق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02623	kh3_event_fz.fz453a	fz4530310sr0	6ce4750c	هل تعرفان—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02624	kh3_event_fz.fz453a	fz4530320do0	5c73184f	لا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02625	kh3_event_fz.fz453a	fz4530330go0	4e8af1f9	حسنا، يبدو أنها تظن أنها تعرفنا،<br>فربما علينا مجاراتها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02626	kh3_event_fz.fz453a	fz4530340sr0	476ea513	إلا إن كان اسمها "تيرا".	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02627	kh3_event_fz.fz453a	fz4530350xr0	539b3a5b	عفوا! أنا هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02628	kh3_event_fz.fz453a	fz4530370sr0	e8c7e8d9	لماذا تلاحقون إلسا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02629	kh3_event_fz.fz453a	fz4530380xr0_1	a7330651	لن يؤذيها أحد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02630	kh3_event_fz.fz453a	fz4530380xr0_2	b586a9bf	لكننا لن نتحمل تدخلكم <i(on)>أنتم<i(off)><br>في شؤوننا. ابقوا هنا وتأدبوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02631	kh3_event_fz.fz453a	fz4530440sr0	76769264	انتظري. الجليد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02632	kh3_event_fz.fz453a	fz4530450go0	fbb15b5b	سيحبسنا داخله!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02633	kh3_event_fz.fz453a	fz4530460xr0	cd2a40e6	الجليد ليس أسلوبي إطلاقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02634	kh3_event_fz.fz453a	fz4530490sr0	c02794c9	لارزين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02635	kh3_event_fz.fz454a	fz4540010go0	64cf3cc8	هل يرى أحدكم مخرجا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02636	kh3_event_fz.fz454a	fz4540020do0	bcf8a3f2	لا، أنا لا أرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02637	kh3_event_fz.fz454a	fz4540030sr0	46a1b83d	لا يمكننا البقاء هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02638	kh3_event_fz.fz454a	fz4540040go0	4f45ecd7	إلسا في ورطة <i(on)>حقيقية<i(off)> الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02639	kh3_event_fz.fz454a	fz4540050sr0	c28225e8	نعم. وعدت لارزين ألا تؤذيها،<br>لكنني لا أثق بهؤلاء قيد أنملة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02640	kh3_event_fz.fz454a	fz4540060do0	f21548ab	لا بد أنهم يدبرون شرا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02641	kh3_event_fz.fz454a	fz4540070sr0	084c5364	بوضوح!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02642	kh3_event_fz.fz455a	fz4550020sr0	d21c86d1	هل ترونها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02643	kh3_event_fz.fz455a	fz4550030go0	5fdb4fee	أظنها صعدت في ذلك الاتجاه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02644	kh3_event_fz.fz455a	fz4550040do0	c9013b8d	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02645	kh3_event_fz.fz455a	fz4550050sr0	33582042	حسنا، هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02646	kh3_event_fz.fz456b	fz4560010_1	57c3bbd6	<i(on)>الثلج يلمع أبيض على الجبل الليلة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02647	kh3_event_fz.fz456b	fz4560010_1b	6f8757fa	<i(on)>لا أثر لقدم يرى<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02648	kh3_event_fz.fz456b	fz4560010_2	45761438	<i(on)>مملكة من العزلة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02649	kh3_event_fz.fz456b	fz4560010_2b	e1085019	<i(on)>ويبدو أنني الملكة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02650	kh3_event_fz.fz456b	fz4560010_3	fdca735d	<i(on)>الريح تعوي كالعاصفة التي تدور في داخلي<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02651	kh3_event_fz.fz456b	fz4560010_4	601d4be4	<i(on)>لم أستطع كتمانها، والسماء تعلم أنني حاولت<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02652	kh3_event_fz.fz456b	fz4560030sr0	7e64b528	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02653	kh3_event_fz.fz456b	fz4560040_1	2d9a66c0	<i(on)>لا تدعيهم يدخلون<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02654	kh3_event_fz.fz456b	fz4560040_1b	440d87e5	<i(on)>لا تدعيهم يرون<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02655	kh3_event_fz.fz456b	fz4560040_2	3f2fc92e	<i(on)>كوني الفتاة الطيبة كما يجب أن تكوني دائما<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02656	kh3_event_fz.fz456b	fz4560040_2b	ca828006	<i(on)>أخفي، لا تشعري<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02657	kh3_event_fz.fz456b	fz4560040_3	8793ae4b	<i(on)>لا تدعيهم يعرفون<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02658	kh3_event_fz.fz456b	fz4560040_3b	06288098	<i(on)>والآن قد عرفوا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02659	kh3_event_fz.fz456b	fz4560050sr0	fa4728fd	هذا صوت إلسا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02660	kh3_event_fz.fz456b	fz4560070_1	0452d232	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02661	kh3_event_fz.fz456b	fz4560070_1b	eba4ca2f	<i(on)>لم أعد أستطيع كبتها<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02662	kh3_event_fz.fz456b	fz4560070_2	16e77ddc	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02663	kh3_event_fz.fz456b	fz4560070_2b	652bcdcc	<i(on)>أدير ظهري وأغلق الباب بقوة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02664	kh3_event_fz.fz456b	fz4560070_3	ae5b1ab9	<i(on)>لا يهمني ما سيقولون<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02665	kh3_event_fz.fz456b	fz4560070_3b	a981cd52	<i(on)>فلتهدر العاصفة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02666	kh3_event_fz.fz456b	fz4560070_4	338c2200	<i(on)>فالبرد لم يزعجني أبدا على أي حال<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02667	kh3_event_fz.fz456b	fz4560090sr0	29711516	من هنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02668	kh3_event_fz.fz456b	fz4560100_1	9ccc1101	<i(on)>غريب كيف أن بعض المسافة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02669	kh3_event_fz.fz456b	fz4560100_1b	8bc5099b	<i(on)>تجعل كل شيء يبدو صغيرا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02670	kh3_event_fz.fz456b	fz4560100_2	8e79beef	<i(on)>والمخاوف التي تحكمت بي يوما<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02671	kh3_event_fz.fz456b	fz4560100_2b	054a0e78	<i(on)>لم تعد تبلغني أبدا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02672	kh3_event_fz.fz456b	fz4560100_3	36c5d98a	<i(on)>حان الوقت لأرى ما أستطيع<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02673	kh3_event_fz.fz456b	fz4560100_3b	c9e00ee6	<i(on)>أن أختبر الحدود وأتجاوزها<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02674	kh3_event_fz.fz456b	fz4560100_4	ab12e133	<i(on)>لا صواب، لا خطأ، لا قواعد لي<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02675	kh3_event_fz.fz456b	fz4560100_4b	c32507ff	<i(on)>أنا حرة!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02676	kh3_event_fz.fz456b	fz4560110_1	32a48090	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02677	kh3_event_fz.fz456b	fz4560110_1b	eea232dd	<i(on)>أنا والريح والسماء واحد<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02678	kh3_event_fz.fz456b	fz4560110_2	20112f7e	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02679	kh3_event_fz.fz456b	fz4560110_2b	602d353e	<i(on)>لن تروني أبكي أبدا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02680	kh3_event_fz.fz456b	fz4560110_3	98ad481b	<i(on)>هنا أقف وهنا سأبقى<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02681	kh3_event_fz.fz456b	fz4560110_3b	ac8735a0	<i(on)>فلتهدر العاصفة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02682	kh3_event_fz.fz456b	fz4560120sr0	9a26eb49	انظروا إلى ذلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02683	kh3_event_fz.fz456b	fz4560160_1	cf5d78e5	<i(on)>قوتي تتطاير في الهواء نحو الأرض<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02684	kh3_event_fz.fz456b	fz4560160_2	dde8d70b	<i(on)>روحي تدور في بلورات متجمدة من حولي<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02685	kh3_event_fz.fz456b	fz4560160_2b	816993ad		todo	
-02686	kh3_event_fz.fz456b	fz4560160_3	6554b06e	<i(on)>وفكرة واحدة تتبلور كنفحة جليدية<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02687	kh3_event_fz.fz456b	fz4560170	3d3a3471	<i(on)>لن أعود أبدا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02688	kh3_event_fz.fz456b	fz4560170b	3d4bf849	<i(on)>الماضي صار ماضيا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02689	kh3_event_fz.fz456b	fz4560180_1	efdf8e4e	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02690	kh3_event_fz.fz456b	fz4560180_1b	161edf29	<i(on)>وسأنهض كبزوغ الفجر<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02691	kh3_event_fz.fz456b	fz4560180_2	fd6a21a0	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02692	kh3_event_fz.fz456b	fz4560180_2b	9891d8ca	<i(on)>تلك الفتاة المثالية رحلت<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02693	kh3_event_fz.fz456b	fz4560190_1	41b71fdf	<i(on)>هنا أقف في ضوء النهار<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02694	kh3_event_fz.fz456b	fz4560190_1b	7379e46f	<i(on)>فلتهدر العاصفة!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02695	kh3_event_fz.fz456b	fz4560190_2	5302b031	<i(on)>فالبرد لم يزعجني أبدا على أي حال<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02696	kh3_event_fz.fz456a	fz4560200sr0	08f634ed	واو. لا أعرف ما الذي رأيناه للتو لكن... واو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02697	kh3_event_fz.fz456a	fz4560210sr0	6d910fab	هل... كانت تلك إلسا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02698	kh3_event_fz.fz456a	fz4560220do0	5d0662e8	بدت مختلفة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02699	kh3_event_fz.fz456a	fz4560230go0	4fff8b5e	وأسعد بكثير أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02700	kh3_event_fz.fz456a	fz4560240sr0	461bdfb4	لنلق التحية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02701	kh3_event_fz.fz456a	fz4560250xr0	52ee40fc	<i(on)>أرجوك<i(off)> لا تقل لي إنك تتجسس عليها الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02702	kh3_event_fz.fz456a	fz4560260sr0	8cd5a938	لارزين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02703	kh3_event_fz.fz456a	fz4560270sr0	e9b2927e	لا تقلبي الأمر علينا.<br><i(on)>أنت<i(off)> من يلاحقها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02704	kh3_event_fz.fz456a	fz4560280xr0	e4bf4651	أوه. ها <i(on)>أنت<i(off)> قد صرت وقحا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02705	kh3_event_fz.fz456a	fz4560280xr1_1	b2899e0c	حسنا، أعترف أن إلسا شخص يهمنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02706	kh3_event_fz.fz456a	fz4560280xr1_2	a03c31e2	ربما هي أحد الأنوار السبعة النقية التي نحتاجها—<br>القلوب السبعة الجديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02707	kh3_event_fz.fz456a	fz4560280xr1_2b	4c913c97	لكن يجب أن نتأكد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02708	kh3_event_fz.fz456a	fz4560280xr2	4eb68eda	ولحسن الحظ، نحن في أفضل موقع لنعرف.<br>لا يمكنك تمييز ذلك "البريق الخاص"...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02709	kh3_event_fz.fz456a	fz4560280xr2b	31d2ea4a	إلا إن كنت واقفا في الظلال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02710	kh3_event_fz.fz456a	fz4560290xr0_1	28992f7e	وربما... إلسا <i(on)>لا<i(off)> تملكه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02711	kh3_event_fz.fz456a	fz4560290xr0_2	3a2c8090	أعني، انظر كم قصرها جليدي—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02712	kh3_event_fz.fz456a	fz4560290xr0_2b	1323a8ac	مصنوع من سحر أجبرت نفسها<br>على إخفائه حتى الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02713	kh3_event_fz.fz456a	fz4560290xr0_3	8290e7f5	ماذا لو كان سحرا مظلما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02714	kh3_event_fz.fz456a	fz4560300sr0	89d351ca	إلسا لن تعتمد على الظلام أبدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02715	kh3_event_fz.fz456a	fz4560310xr0	9d26ce82	في الحقيقة، ما زال الحكم مبكرا.<br>الأمر يعتمد على نظرتها <i(on)>هي<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02716	kh3_event_fz.fz456a	fz4560310xr1_1	4f498e53	إن آمنت بأن سحرها ظلام،<br>فهذا ما سيصبح عليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02717	kh3_event_fz.fz456a	fz4560310xr1_2	5dfc21bd	قبول قوتها، أيا كانت،<br>هو السبيل الوحيد لتحرير قلبها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02718	kh3_event_fz.fz456a	fz4560310xr2	372f0609	فماذا ستقبل إلسا? النور أم الظلام?<br><i(on)>أنا<i(off)> شخصيا أريد أن أعرف!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02719	kh3_event_fz.fz456a	fz4560320sr0_1	e4405e63	حسنا، هنيئا لك، لكن أتعرفين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02720	kh3_event_fz.fz456a	fz4560320sr0_2	f6f5f18d	لن أدعها تسقط في الظلام!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02721	kh3_event_fz.fz456a	fz4560330xr0_1	d7873806	القرار قرارها، لا قرارك.<br>أتعرف، بدأت أفهم	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02722	kh3_event_fz.fz456a	fz4560330xr0_2	c53297e8	لماذا عاملتك ببرود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02723	kh3_event_fz.fz456a	fz4560380sr0	14088778	لارزين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02724	kh3_event_fz.fz456a	fz4560390xr0	00fd1830	أتريد مساعدتها? إذن كف عن محاولة أن تكون بطلها!<br>دعها تكتشف الأمور بطريقتها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02725	kh3_event_fz.fz457a	fz4570020sr0	ead98bc4	دونالد! غوفي! هل أنتما بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02726	kh3_event_fz.fz457a	fz4570050do0	94a30dde	أنا بخير...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02727	kh3_event_fz.fz457a	fz4570060go0	4c9492e4	كل شيء على ما يرام!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02728	kh3_event_fz.fz457a	fz4570070sr0	c1535bdb	أظن أن علينا الذهاب لنطمئن على إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02729	kh3_event_fz.fz457a	fz4570080go0	556cd983	ونتأكد أن لارزين كانت مخطئة بشأن سحرها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02730	kh3_event_fz.fz457a	fz4570090sr0	d8ab10bc	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02731	kh3_event_fz.fz457a	fz4570100do0	3e0cb8e6	لكن لا تخبرها بما قالته لارزين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02732	kh3_event_fz.fz457a	fz4570110sr0	c455a329	ماذا? لماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02733	kh3_event_fz.fz457a	fz4570120go0	835c1c9a	لنحافظ على النظام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02734	kh3_event_fz.fz457a	fz4570130do0	91a5f52c	نعم. النظام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02735	kh3_event_fz.fz457a	fz4570140sr0	efdf7336	آه... حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02736	kh3_event_fz.fz457a	fz4570150go0	6218ba09	مهلا يا رفاق. هل تسمعون ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02737	kh3_event_fz.fz457a	fz4570160do0	ba2f2533	انظروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02738	kh3_event_fz.fz457a	fz4570180sr0	3ce94edd	انهيار ثلجييي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02739	kh3_event_fz.fz457a	fz4570220go0	db42b5b2	بسرعة، اركبوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02740	kh3_event_fz.fz457a	fz4570240sr0	b7c1da1e	حسنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02741	kh3_event_fz.fz457a	fz4570250go0	3a061321	لنبدأ!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02742	kh3_event_fz.fz459a	fz4590010ol0_1	5a9a7da8	واو! انظروا إلى كل هذه الألوان الجميلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02743	kh3_event_fz.fz459a	fz4590010ol0_2	482fd246	هناك أزرق، وأخضر—<br>أوه، أنا أحب الأخضر! وانظروا، أسود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02744	kh3_event_fz.fz459a	fz4590030ol0	45c6108d	مثل أزراري تماما. هم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02745	kh3_event_fz.fz459a	fz4590050ol0	c1e58d58	أيها العشب الشائك السخيف. أعد إلي قدمي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02746	kh3_event_fz.fz459a	fz4590070sr0	6b0878b0	هل كان ذلك... رجل ثلج?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02747	kh3_event_fz.fz459a	fz4590090sr0	72f033d7	ماذا? آه... هل رأيتم رجل الثلج ذاك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02748	kh3_event_fz.fz459a	fz4590100go0	e3c9497d	رجل ثلج?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02749	kh3_event_fz.fz459a	fz4590110sr0	6e0e8042	نعم. والغريب في الأمر:<br>أنه كان يمشي ويتكلم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02750	kh3_event_fz.fz459a	fz4590120do0	5e99ed01	الكل يعرف أن رجال الثلج لا يمشون.<br>لا بد أنك تخيلت ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02751	kh3_event_fz.fz459a	fz4590130sr0	a4c0f6ce	همم... ظننته حقيقيا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02752	kh3_event_fz.fz459a	fz4590140go0	ad24a224	حسنا، ربما نراه مجددا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02753	kh3_event_fz.fz459a	fz4590140go0b	1c486f00	لكن إن لم نتحرك،<br>فلن نصل أبدا إلى قصر إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02754	kh3_event_fz.fz459a	fz4590150sr0	20e36b1b	آه، صحيح! كدت أنسى!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02755	kh3_event_fz.fz459a	fz4590160sr0	8f4a26d1	هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02756	kh3_event_fz.fz460a	fz4600020ol0	568f61cb	لا أطيق صبرا لألتقي بإلسا. أراهن أنها<br>ألطف وأدفأ وأفضل شخص على الإطلاق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02686	kh3_event_fz.fz456b	fz4560160_3	6554b06e	<i(on)>وفكرة واحدة تتبلور كنفحة جليدية<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02687	kh3_event_fz.fz456b	fz4560170	3d3a3471	<i(on)>لن أعود أبدا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02688	kh3_event_fz.fz456b	fz4560170b	3d4bf849	<i(on)>الماضي صار ماضيا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02689	kh3_event_fz.fz456b	fz4560180_1	efdf8e4e	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02690	kh3_event_fz.fz456b	fz4560180_1b	161edf29	<i(on)>وسأنهض كبزوغ الفجر<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02691	kh3_event_fz.fz456b	fz4560180_2	fd6a21a0	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02692	kh3_event_fz.fz456b	fz4560180_2b	9891d8ca	<i(on)>تلك الفتاة المثالية رحلت<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02693	kh3_event_fz.fz456b	fz4560190_1	41b71fdf	<i(on)>هنا أقف في ضوء النهار<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02694	kh3_event_fz.fz456b	fz4560190_1b	7379e46f	<i(on)>فلتهدر العاصفة!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02695	kh3_event_fz.fz456b	fz4560190_2	5302b031	<i(on)>فالبرد لم يزعجني أبدا على أي حال<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02696	kh3_event_fz.fz456a	fz4560200sr0	08f634ed	واو. لا أعرف ما الذي رأيناه للتو لكن... واو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02697	kh3_event_fz.fz456a	fz4560210sr0	6d910fab	هل... كانت تلك إلسا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02698	kh3_event_fz.fz456a	fz4560220do0	5d0662e8	بدت مختلفة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02699	kh3_event_fz.fz456a	fz4560230go0	4fff8b5e	وأسعد بكثير أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02700	kh3_event_fz.fz456a	fz4560240sr0	461bdfb4	لنلق التحية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02701	kh3_event_fz.fz456a	fz4560250xr0	52ee40fc	<i(on)>أرجوك<i(off)> لا تقل لي إنك تتجسس عليها الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02702	kh3_event_fz.fz456a	fz4560260sr0	8cd5a938	لارزين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02703	kh3_event_fz.fz456a	fz4560270sr0	e9b2927e	لا تقلبي الأمر علينا.<br><i(on)>أنت<i(off)> من يلاحقها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02704	kh3_event_fz.fz456a	fz4560280xr0	e4bf4651	أوه. ها <i(on)>أنت<i(off)> قد صرت وقحا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02705	kh3_event_fz.fz456a	fz4560280xr1_1	b2899e0c	حسنا، أعترف أن إلسا شخص يهمنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02706	kh3_event_fz.fz456a	fz4560280xr1_2	a03c31e2	ربما هي أحد الأنوار السبعة النقية التي نحتاجها—<br>القلوب السبعة الجديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02707	kh3_event_fz.fz456a	fz4560280xr1_2b	4c913c97	لكن يجب أن نتأكد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02708	kh3_event_fz.fz456a	fz4560280xr2	4eb68eda	ولحسن الحظ، نحن في أفضل موقع لنعرف.<br>لا يمكنك تمييز ذلك "البريق الخاص"...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02709	kh3_event_fz.fz456a	fz4560280xr2b	31d2ea4a	إلا إن كنت واقفا في الظلال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02710	kh3_event_fz.fz456a	fz4560290xr0_1	28992f7e	وربما... إلسا <i(on)>لا<i(off)> تملكه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02711	kh3_event_fz.fz456a	fz4560290xr0_2	3a2c8090	أعني، انظر كم قصرها جليدي—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02712	kh3_event_fz.fz456a	fz4560290xr0_2b	1323a8ac	مصنوع من سحر أجبرت نفسها<br>على إخفائه حتى الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02713	kh3_event_fz.fz456a	fz4560290xr0_3	8290e7f5	ماذا لو كان سحرا مظلما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02714	kh3_event_fz.fz456a	fz4560300sr0	89d351ca	إلسا لن تعتمد على الظلام أبدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02715	kh3_event_fz.fz456a	fz4560310xr0	9d26ce82	في الحقيقة، ما زال الحكم مبكرا.<br>الأمر يعتمد على نظرتها <i(on)>هي<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02716	kh3_event_fz.fz456a	fz4560310xr1_1	4f498e53	إن آمنت بأن سحرها ظلام،<br>فهذا ما سيصبح عليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02717	kh3_event_fz.fz456a	fz4560310xr1_2	5dfc21bd	قبول قوتها، أيا كانت،<br>هو السبيل الوحيد لتحرير قلبها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02718	kh3_event_fz.fz456a	fz4560310xr2	372f0609	فماذا ستقبل إلسا? النور أم الظلام?<br><i(on)>أنا<i(off)> شخصيا أريد أن أعرف!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02719	kh3_event_fz.fz456a	fz4560320sr0_1	e4405e63	حسنا، هنيئا لك، لكن أتعرفين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02720	kh3_event_fz.fz456a	fz4560320sr0_2	f6f5f18d	لن أدعها تسقط في الظلام!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02721	kh3_event_fz.fz456a	fz4560330xr0_1	d7873806	القرار قرارها، لا قرارك.<br>أتعرف، بدأت أفهم	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02722	kh3_event_fz.fz456a	fz4560330xr0_2	c53297e8	لماذا عاملتك ببرود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02723	kh3_event_fz.fz456a	fz4560380sr0	14088778	لارزين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02724	kh3_event_fz.fz456a	fz4560390xr0	00fd1830	أتريد مساعدتها? إذن كف عن محاولة أن تكون بطلها!<br>دعها تكتشف الأمور بطريقتها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02725	kh3_event_fz.fz457a	fz4570020sr0	ead98bc4	دونالد! غوفي! هل أنتما بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02726	kh3_event_fz.fz457a	fz4570050do0	94a30dde	أنا بخير...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02727	kh3_event_fz.fz457a	fz4570060go0	4c9492e4	كل شيء على ما يرام!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02728	kh3_event_fz.fz457a	fz4570070sr0	c1535bdb	أظن أن علينا الذهاب لنطمئن على إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02729	kh3_event_fz.fz457a	fz4570080go0	556cd983	ونتأكد أن لارزين كانت مخطئة بشأن سحرها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02730	kh3_event_fz.fz457a	fz4570090sr0	d8ab10bc	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02731	kh3_event_fz.fz457a	fz4570100do0	3e0cb8e6	لكن لا تخبرها بما قالته لارزين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02732	kh3_event_fz.fz457a	fz4570110sr0	c455a329	ماذا? لماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02733	kh3_event_fz.fz457a	fz4570120go0	835c1c9a	لنحافظ على النظام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02734	kh3_event_fz.fz457a	fz4570130do0	91a5f52c	نعم. النظام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02735	kh3_event_fz.fz457a	fz4570140sr0	efdf7336	آه... حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02736	kh3_event_fz.fz457a	fz4570150go0	6218ba09	مهلا يا رفاق. هل تسمعون ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02737	kh3_event_fz.fz457a	fz4570160do0	ba2f2533	انظروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02738	kh3_event_fz.fz457a	fz4570180sr0	3ce94edd	انهيار ثلجييي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02739	kh3_event_fz.fz457a	fz4570220go0	db42b5b2	بسرعة، اركبوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02740	kh3_event_fz.fz457a	fz4570240sr0	b7c1da1e	حسنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02741	kh3_event_fz.fz457a	fz4570250go0	3a061321	لنبدأ!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02742	kh3_event_fz.fz459a	fz4590010ol0_1	5a9a7da8	واو! انظروا إلى كل هذه الألوان الجميلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02743	kh3_event_fz.fz459a	fz4590010ol0_2	482fd246	هناك أزرق، وأخضر—<br>أوه، أنا أحب الأخضر! وانظروا، أسود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02744	kh3_event_fz.fz459a	fz4590030ol0	45c6108d	مثل أزراري تماما. هم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02745	kh3_event_fz.fz459a	fz4590050ol0	c1e58d58	أيها العشب الشائك السخيف. أعد إلي قدمي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02746	kh3_event_fz.fz459a	fz4590070sr0	6b0878b0	هل كان ذلك... رجل ثلج?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02747	kh3_event_fz.fz459a	fz4590090sr0	72f033d7	ماذا? آه... هل رأيتم رجل الثلج ذاك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02748	kh3_event_fz.fz459a	fz4590100go0	e3c9497d	رجل ثلج?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02749	kh3_event_fz.fz459a	fz4590110sr0	6e0e8042	نعم. والغريب في الأمر:<br>أنه كان يمشي ويتكلم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02750	kh3_event_fz.fz459a	fz4590120do0	5e99ed01	الكل يعرف أن رجال الثلج لا يمشون.<br>لا بد أنك تخيلت ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02751	kh3_event_fz.fz459a	fz4590130sr0	a4c0f6ce	همم... ظننته حقيقيا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02752	kh3_event_fz.fz459a	fz4590140go0	ad24a224	حسنا، ربما نراه مجددا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02753	kh3_event_fz.fz459a	fz4590140go0b	1c486f00	لكن إن لم نتحرك،<br>فلن نصل أبدا إلى قصر إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02754	kh3_event_fz.fz459a	fz4590150sr0	20e36b1b	آه، صحيح! كدت أنسى!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02755	kh3_event_fz.fz459a	fz4590160sr0	8f4a26d1	هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02756	kh3_event_fz.fz460a	fz4600020ol0	568f61cb	لا أطيق صبرا لألتقي بإلسا. أراهن أنها<br>ألطف وأدفأ وأفضل شخص على الإطلاق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02757	kh3_event_fz.fz460a	fz4600020ol0b	662158c1		todo	
-02758	kh3_event_fz.fz460a	fz4600040sr0	b28f7f7a	أرأيتم? قلت لكم! رجل ثلج يمشي ويتكلم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02759	kh3_event_fz.fz460a	fz4600050go0	3f48b645	من كان يتوقع? كنت محقا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02760	kh3_event_fz.fz460a	fz4600060sr0	784109f6	أريد أن أنظر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02761	kh3_event_fz.fz460a	fz4600070sr0	1d2632b0	واو! أنت حي <i(on)>فعلا<i(off)>!<br>ما الذي يجعلك تمشي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02762	kh3_event_fz.fz460a	fz4600080ol0	019ac1f5	امم، أظن... قدماي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02763	kh3_event_fz.fz460a	fz4600100af0	6595bdb6	مرحبا. أولاف، هل هؤلاء أصدقاؤك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02764	kh3_event_fz.fz460a	fz4600110ol0	78034926	لا! لم ألتق بهم قط. لا أعرف أحدا أزرق،<br>أو أخضر، أو شائكا بشكل غريب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02765	kh3_event_fz.fz460a	fz4600130sr0_1	f63187dd	"شائك"? شعري?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02766	kh3_event_fz.fz460a	fz4600130sr0_2	e4842833	مهلا، لماذا لا أحصل على لون أنا أيضا?<br>اسمي سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02767	kh3_event_fz.fz460a	fz4600140do0	ac943ad4	وأنا دونالد داك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02768	kh3_event_fz.fz460a	fz4600141ol0	fde108a8	آه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02769	kh3_event_fz.fz460a	fz4600150go0	be6dd362	وأنا غوفي الأخضر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02770	kh3_event_fz.fz460a	fz4600160af0	e1b62063	أنا آنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02771	kh3_event_fz.fz460a	fz4600170af0	84d11b25	وأعرف أنهم غرباء، لكن...<br>يبدون لطفاء جدا في نظري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02772	kh3_event_fz.fz460a	fz4600180ks0	2622bc2a	أنا كريستوف، وهذا سفين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02773	kh3_event_fz.fz460a	fz4600190go0	6d5bee89	تشرفنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02774	kh3_event_fz.fz460a	fz4600200sr0	2559582c	إذن، إلى أين أنتم ذاهبون?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02775	kh3_event_fz.fz460a	fz4600210ks0	8680f8f6	سنحاول وضع حد لهذا الشتاء المجنون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02776	kh3_event_fz.fz460a	fz4600220af0	f7456212	ولكي نفعل ذلك، علينا أن نجد أختي إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02777	kh3_event_fz.fz460a	fz4600230sr0	8af015e6	إلسا... أختك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02778	kh3_event_fz.fz460a	fz4600240go0	8314410c	يا لها من صدفة. نحن ذاهبون لرؤيتها أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02779	kh3_event_fz.fz460a	fz4600250af0	1601c481	تعرفون إلسا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02780	kh3_event_fz.fz460a	fz4600260sr0_1	384c860b	نعم، صادفناها أعلى الجبل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02781	kh3_event_fz.fz460a	fz4600260sr0_2	2af929e5	هل تمانعين أن تخبرينا<br>بما يحدث هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02782	kh3_event_fz.fz460a	fz4600270sr0	c41dfebf	نحن قلقون.<br>نظن أن أختك قد تكون في ورطة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02783	kh3_event_fz.fz460a	fz4600280af0	a050c22c	ورطة? هل أنت متأكد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02784	kh3_event_fz.fz460a	fz4600300af0	bcae71b9	حسنا. أعرف أننا التقينا للتو، لكن... سورا، صحيح?<br>أشعر أنك شخص يمكن الوثوق به.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02758	kh3_event_fz.fz460a	fz4600040sr0	b28f7f7a	أرأيتم? قلت لكم! رجل ثلج يمشي ويتكلم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02759	kh3_event_fz.fz460a	fz4600050go0	3f48b645	من كان يتوقع? كنت محقا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02760	kh3_event_fz.fz460a	fz4600060sr0	784109f6	أريد أن أنظر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02761	kh3_event_fz.fz460a	fz4600070sr0	1d2632b0	واو! أنت حي <i(on)>فعلا<i(off)>!<br>ما الذي يجعلك تمشي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02762	kh3_event_fz.fz460a	fz4600080ol0	019ac1f5	امم، أظن... قدماي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02763	kh3_event_fz.fz460a	fz4600100af0	6595bdb6	مرحبا. أولاف، هل هؤلاء أصدقاؤك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02764	kh3_event_fz.fz460a	fz4600110ol0	78034926	لا! لم ألتق بهم قط. لا أعرف أحدا أزرق،<br>أو أخضر، أو شائكا بشكل غريب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02765	kh3_event_fz.fz460a	fz4600130sr0_1	f63187dd	"شائك"? شعري?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02766	kh3_event_fz.fz460a	fz4600130sr0_2	e4842833	مهلا، لماذا لا أحصل على لون أنا أيضا?<br>اسمي سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02767	kh3_event_fz.fz460a	fz4600140do0	ac943ad4	وأنا دونالد داك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02768	kh3_event_fz.fz460a	fz4600141ol0	fde108a8	آه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02769	kh3_event_fz.fz460a	fz4600150go0	be6dd362	وأنا غوفي الأخضر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02770	kh3_event_fz.fz460a	fz4600160af0	e1b62063	أنا آنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02771	kh3_event_fz.fz460a	fz4600170af0	84d11b25	وأعرف أنهم غرباء، لكن...<br>يبدون لطفاء جدا في نظري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02772	kh3_event_fz.fz460a	fz4600180ks0	2622bc2a	أنا كريستوف، وهذا سفين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02773	kh3_event_fz.fz460a	fz4600190go0	6d5bee89	تشرفنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02774	kh3_event_fz.fz460a	fz4600200sr0	2559582c	إذن، إلى أين أنتم ذاهبون?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02775	kh3_event_fz.fz460a	fz4600210ks0	8680f8f6	سنحاول وضع حد لهذا الشتاء المجنون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02776	kh3_event_fz.fz460a	fz4600220af0	f7456212	ولكي نفعل ذلك، علينا أن نجد أختي إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02777	kh3_event_fz.fz460a	fz4600230sr0	8af015e6	إلسا... أختك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02778	kh3_event_fz.fz460a	fz4600240go0	8314410c	يا لها من صدفة. نحن ذاهبون لرؤيتها أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02779	kh3_event_fz.fz460a	fz4600250af0	1601c481	تعرفون إلسا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02780	kh3_event_fz.fz460a	fz4600260sr0_1	384c860b	نعم، صادفناها أعلى الجبل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02781	kh3_event_fz.fz460a	fz4600260sr0_2	2af929e5	هل تمانعين أن تخبرينا<br>بما يحدث هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02782	kh3_event_fz.fz460a	fz4600270sr0	c41dfebf	نحن قلقون.<br>نظن أن أختك قد تكون في ورطة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02783	kh3_event_fz.fz460a	fz4600280af0	a050c22c	ورطة? هل أنت متأكد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02784	kh3_event_fz.fz460a	fz4600300af0	bcae71b9	حسنا. أعرف أننا التقينا للتو، لكن... سورا، صحيح?<br>أشعر أنك شخص يمكن الوثوق به.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02785	kh3_event_fz.fz460a	fz4600300af0b	77718d23		todo	
-02786	kh3_event_fz.fz460a	fz4600310ks0	07a59dd1	وأنا أوافقك تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02787	kh3_event_fz.fz460a	fz4600320af0	76600735	أتمنى فقط أن تحبوا القصص الطويلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02788	kh3_event_fz.fz460a	fz4600330sr0	0bd570c1	بالتأكيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02789	kh3_event_fz.fz460a	fz4600340ks0	2c2f4dce	أتعرفون، يجب أن أبحث عن بعض الطحالب لسفين.<br>يبدو جائعا قليلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02790	kh3_event_fz.fz460a	fz4600341ks0	8247dc5f	هيا يا سفين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02791	kh3_event_fz.fz460a	fz4600350ol0	efd56e70	مهلا، ا-ا-ا-انتظروا، ماذا يحدث?<br>أخبروني. هل يحدث شيء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02792	kh3_event_fz.fz460a	fz4600360ks0	e6e13b42	هيا يا أولاف. أنت معي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02793	kh3_event_fz.fz460a	fz4600370ol0	251b18fc	بالتأكيد يا سفين. والرنة سفين أيضا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02794	kh3_event_fz.fz460a	fz4600380ks0	ff197025	الرنة <i(on)>هي<i(off)> سفين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02795	kh3_event_fz.fz460a	fz4600381ol0	f7ecf94c	أوه، كم هذا ممتع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02796	kh3_event_fz.fz460a	fz4600400af0	8db646ce	حين كنا صغيرتين،<br>كنت أنا وأختي مقربتين جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02797	kh3_event_fz.fz461a	fz4610020af0	dfa4abb7	لكن ذات يوم، ولسبب ما،<br>أغلقت إلسا بابها في وجهي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02798	kh3_event_fz.fz461a	fz4610040	914a7046	إلسا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02799	kh3_event_fz.fz461a	fz4610050_1	4ee40cbd	<i(on)>هل تريدين أن نبني رجل ثلج?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02800	kh3_event_fz.fz461a	fz4610050_2	5c51a353	<i(on)>هيا، لنخرج ونلعب<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02801	kh3_event_fz.fz461a	fz4610050_3	e4edc436	<i(on)>لم أعد أراك أبدا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02802	kh3_event_fz.fz461a	fz4610050_4	793afc8f	<i(on)>اخرجي من الباب<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02803	kh3_event_fz.fz461a	fz4610050_4b	b5ffdbac	<i(on)>كأنك رحلت بعيدا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02804	kh3_event_fz.fz461a	fz4610050_5	c1869bea	<i(on)>كنا أعز صديقتين<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02805	kh3_event_fz.fz461a	fz4610050_5b	7955db32	<i(on)>والآن لم نعد<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02806	kh3_event_fz.fz461a	fz4610050_6	d3333404	<i(on)>ليتك تخبرينني لماذا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02807	kh3_event_fz.fz461a	fz4610050_7	6b8f5361	<i(on)>هل تريدين أن نبني رجل ثلج?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02808	kh3_event_fz.fz461a	fz4610050_8	33ec4337	<i(on)>لا يجب أن يكون رجل ثلج<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02809	kh3_event_fz.fz461a	fz4610060	d36f773b	اذهبي يا آنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02810	kh3_event_fz.fz461a	fz4610070	1fc577a5	<i(on)>حسنا، وداعا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02811	kh3_event_fz.fz461a	fz4610080af0_1	bfc0504f	مرت السنوات وبالكاد كنا نرى بعضنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02812	kh3_event_fz.fz461a	fz4610080af0_1b	8f84ff1c	ثم أخيرا حان وقت تتويجها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02813	kh3_event_fz.fz461a	fz4610080af0_2	ad75ffa1	لنقل إنني كنت متحمسة أكثر من اللازم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02814	kh3_event_fz.fz461a	fz4610080af0_3	15c998c4	ظننت أن الفرصة ستتاح لنا أخيرا لنتحدث.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02815	kh3_event_fz.fz461a	fz4610080af0_4	881ea07d	لكن في الحفل، فعلت شيئا أغضبها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02816	kh3_event_fz.fz461a	fz4610080af0_4b	c764f178	تجادلنا، وفقدت أعصابي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02817	kh3_event_fz.fz461a	fz4610080af0_4c	7fd8961d	كنت محبطة جدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02818	kh3_event_fz.fz461a	fz4610080af0_5	30a2c718	ثم، حسنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02819	kh3_event_fz.fz461a	fz4610080af0_5b	0bcef1e6	عندها استخدمت سحرها لتبعدني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02820	kh3_event_fz.fz461a	fz4610080af0_6	221768f6	كان كل ذلك خطئي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02821	kh3_event_fz.fz462a	fz4620010af0_1	9966f532	<i(on)>أرجوك، أعرف أنك في الداخل<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02822	kh3_event_fz.fz462a	fz4620010af0_1b	e3328644	<i(on)>الناس يسألون أين كنت<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02823	kh3_event_fz.fz462a	fz4620010af0_2	8bd35adc	<i(on)>يقولون: "تحلي بالشجاعة"<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02824	kh3_event_fz.fz462a	fz4620010af0_3	336f3db9	<i(on)>وأنا أحاول ذلك<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02825	kh3_event_fz.fz462a	fz4620010af0_3b	a1178139	<i(on)>أنا هنا في الخارج من أجلك<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02826	kh3_event_fz.fz462a	fz4620010af0_3c	19abe65c	<i(on)>فقط دعيني أدخل<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02827	kh3_event_fz.fz462a	fz4620010af0_4	aeb80500	<i(on)>ليس لدينا سوى بعضنا<i(off)><br>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02828	kh3_event_fz.fz462a	fz4620010af0_4b	abd28820	<i(on)>أنا وأنت فقط<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02829	kh3_event_fz.fz462a	fz4620010af0_5	16046265	<i(on)>فماذا سنفعل?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02830	kh3_event_fz.fz462a	fz4620010af0_6	04b1cd8b	<i(on)>هل تريدين أن نبني رجل ثلج?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02831	kh3_event_fz.fz462a	fz4620020af0_1	9bb8f215	ما كان يجب أن أغضبها بتلك الطريقة.<br>هربت إلسا لأنها كانت خائفة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02832	kh3_event_fz.fz462a	fz4620020af0_2	890d5dfb	يجب أن أعيدها إلى البيت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02833	kh3_event_fz.fz462a	fz4620030sr0	6b0ed4fc	أنا متأكد أنها تعرف كم تحبينها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02834	kh3_event_fz.fz462a	fz4620040sr0_1	861a53eb	<i(on)>وأظن... أن هذا ربما سبب حزنها الشديد.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02835	kh3_event_fz.fz462a	fz4620040sr0_2	94affc05	<i(on)>تماما مثلما اختفى ريكو.<br>ظن أن عليه إبعادي، ليحميني.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02836	kh3_event_fz.fz462a	fz4620040sr0_3	2c139b60	<i(on)>ربما إلسا مثله.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02837	kh3_event_fz.fz462a	fz4620050sr0	ef2d4929	إن كان أحد يستطيع مساعدتها، فهو أنت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02838	kh3_event_fz.fz462a	fz4620060af0	58564851	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02839	kh3_event_fz.fz462a	fz4620080af0	41ae0336	شكرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02840	kh3_event_fz.fz462a	fz4620090ks0	faa5ef5e	يا رفاق! أحتاج إلى مساعدة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02841	kh3_event_fz.fz462a	fz4620150sr0	6e082c0e	ما المشكلة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02842	kh3_event_fz.fz462a	fz4620160ks0	071ffa58	هذه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02843	kh3_event_fz.fz462a	fz4620190do0	2200316c	مشكلة عصا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02844	kh3_event_fz.fz462a	fz4620200ks0_1	6b7d468c	إنها ليست عصا. حسنا، <i(on)>إنها<i(off)> عصا، لكنها—<br>إنها ذراع أولاف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02845	kh3_event_fz.fz462a	fz4620200ks0_2	79c8e962	لقد تفكك مجددا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02846	kh3_event_fz.fz462a	fz4620210sr0	78fb6e7f	تفكك?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02847	kh3_event_fz.fz462a	fz4620240do0	cc4f9ee9	آه، لماذا لست منزعجا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02848	kh3_event_fz.fz462a	fz4620250af0	2ec4c994	أوه، ليس بالأمر الكبير. إنه رجل ثلج.<br>سنعيد... تركيبه فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02849	kh3_event_fz.fz462a	fz4620260sr0	99bfc8ec	حقا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02850	kh3_event_fz.fz462a	fz4620270do0	63e6d323	يمكنكم فعل ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02851	kh3_event_fz.fz462a	fz4620280go0	68e771f2	يجب أن أرى هذا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02852	kh3_event_fz.fz462a	fz4620290ks0	239e2351	لا يمكن أن تكون القطع بعيدة.<br>هل تساعدوننا في البحث عنها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02853	kh3_event_fz.fz462a	fz4620300sr0	9cb9301e	بالطبع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02854	kh3_event_fz.fz463a	fz4630010af0	48c8eb68	وهكذا... انتهينا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02855	kh3_event_fz.fz463a	fz4630020go0	17131869	أمتأكدون أن لا شيء ناقص?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02856	kh3_event_fz.fz463a	fz4630030ks0	5c6a4aca	لا. يبدو سليما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02857	kh3_event_fz.fz463a	fz4630040ol0_1	dc0b9f57	واو، أشعر بتحسن كبير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02858	kh3_event_fz.fz463a	fz4630040ol0_2	cebe30b9	مهلا! أين أنفي الجديد الظريف?<br>الذي أعطتني إياه آنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02859	kh3_event_fz.fz463a	fz4630050af0	06250031	آه، سورا... هل أنفه <i(on)>معك<i(off)>?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02860	kh3_event_fz.fz463a	fz4630060sr0	b15e0149	لا أظن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02861	kh3_event_fz.fz463a	fz4630070do0	4b071a86	لا، لم أره.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02786	kh3_event_fz.fz460a	fz4600310ks0	07a59dd1	وأنا أوافقك تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02787	kh3_event_fz.fz460a	fz4600320af0	76600735	أتمنى فقط أن تحبوا القصص الطويلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02788	kh3_event_fz.fz460a	fz4600330sr0	0bd570c1	بالتأكيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02789	kh3_event_fz.fz460a	fz4600340ks0	2c2f4dce	أتعرفون، يجب أن أبحث عن بعض الطحالب لسفين.<br>يبدو جائعا قليلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02790	kh3_event_fz.fz460a	fz4600341ks0	8247dc5f	هيا يا سفين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02791	kh3_event_fz.fz460a	fz4600350ol0	efd56e70	مهلا، ا-ا-ا-انتظروا، ماذا يحدث?<br>أخبروني. هل يحدث شيء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02792	kh3_event_fz.fz460a	fz4600360ks0	e6e13b42	هيا يا أولاف. أنت معي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02793	kh3_event_fz.fz460a	fz4600370ol0	251b18fc	بالتأكيد يا سفين. والرنة سفين أيضا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02794	kh3_event_fz.fz460a	fz4600380ks0	ff197025	الرنة <i(on)>هي<i(off)> سفين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02795	kh3_event_fz.fz460a	fz4600381ol0	f7ecf94c	أوه، كم هذا ممتع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02796	kh3_event_fz.fz460a	fz4600400af0	8db646ce	حين كنا صغيرتين،<br>كنت أنا وأختي مقربتين جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02797	kh3_event_fz.fz461a	fz4610020af0	dfa4abb7	لكن ذات يوم، ولسبب ما،<br>أغلقت إلسا بابها في وجهي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02798	kh3_event_fz.fz461a	fz4610040	914a7046	إلسا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02799	kh3_event_fz.fz461a	fz4610050_1	4ee40cbd	<i(on)>هل تريدين أن نبني رجل ثلج?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02800	kh3_event_fz.fz461a	fz4610050_2	5c51a353	<i(on)>هيا، لنخرج ونلعب<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02801	kh3_event_fz.fz461a	fz4610050_3	e4edc436	<i(on)>لم أعد أراك أبدا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02802	kh3_event_fz.fz461a	fz4610050_4	793afc8f	<i(on)>اخرجي من الباب<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02803	kh3_event_fz.fz461a	fz4610050_4b	b5ffdbac	<i(on)>كأنك رحلت بعيدا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02804	kh3_event_fz.fz461a	fz4610050_5	c1869bea	<i(on)>كنا أعز صديقتين<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02805	kh3_event_fz.fz461a	fz4610050_5b	7955db32	<i(on)>والآن لم نعد<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02806	kh3_event_fz.fz461a	fz4610050_6	d3333404	<i(on)>ليتك تخبرينني لماذا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02807	kh3_event_fz.fz461a	fz4610050_7	6b8f5361	<i(on)>هل تريدين أن نبني رجل ثلج?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02808	kh3_event_fz.fz461a	fz4610050_8	33ec4337	<i(on)>لا يجب أن يكون رجل ثلج<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02809	kh3_event_fz.fz461a	fz4610060	d36f773b	اذهبي يا آنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02810	kh3_event_fz.fz461a	fz4610070	1fc577a5	<i(on)>حسنا، وداعا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02811	kh3_event_fz.fz461a	fz4610080af0_1	bfc0504f	مرت السنوات وبالكاد كنا نرى بعضنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02812	kh3_event_fz.fz461a	fz4610080af0_1b	8f84ff1c	ثم أخيرا حان وقت تتويجها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02813	kh3_event_fz.fz461a	fz4610080af0_2	ad75ffa1	لنقل إنني كنت متحمسة أكثر من اللازم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02814	kh3_event_fz.fz461a	fz4610080af0_3	15c998c4	ظننت أن الفرصة ستتاح لنا أخيرا لنتحدث.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02815	kh3_event_fz.fz461a	fz4610080af0_4	881ea07d	لكن في الحفل، فعلت شيئا أغضبها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02816	kh3_event_fz.fz461a	fz4610080af0_4b	c764f178	تجادلنا، وفقدت أعصابي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02817	kh3_event_fz.fz461a	fz4610080af0_4c	7fd8961d	كنت محبطة جدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02818	kh3_event_fz.fz461a	fz4610080af0_5	30a2c718	ثم، حسنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02819	kh3_event_fz.fz461a	fz4610080af0_5b	0bcef1e6	عندها استخدمت سحرها لتبعدني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02820	kh3_event_fz.fz461a	fz4610080af0_6	221768f6	كان كل ذلك خطئي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02821	kh3_event_fz.fz462a	fz4620010af0_1	9966f532	<i(on)>أرجوك، أعرف أنك في الداخل<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02822	kh3_event_fz.fz462a	fz4620010af0_1b	e3328644	<i(on)>الناس يسألون أين كنت<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02823	kh3_event_fz.fz462a	fz4620010af0_2	8bd35adc	<i(on)>يقولون: "تحلي بالشجاعة"<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02824	kh3_event_fz.fz462a	fz4620010af0_3	336f3db9	<i(on)>وأنا أحاول ذلك<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02825	kh3_event_fz.fz462a	fz4620010af0_3b	a1178139	<i(on)>أنا هنا في الخارج من أجلك<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02826	kh3_event_fz.fz462a	fz4620010af0_3c	19abe65c	<i(on)>فقط دعيني أدخل<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02827	kh3_event_fz.fz462a	fz4620010af0_4	aeb80500	<i(on)>ليس لدينا سوى بعضنا<i(off)><br>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02828	kh3_event_fz.fz462a	fz4620010af0_4b	abd28820	<i(on)>أنا وأنت فقط<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02829	kh3_event_fz.fz462a	fz4620010af0_5	16046265	<i(on)>فماذا سنفعل?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02830	kh3_event_fz.fz462a	fz4620010af0_6	04b1cd8b	<i(on)>هل تريدين أن نبني رجل ثلج?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02831	kh3_event_fz.fz462a	fz4620020af0_1	9bb8f215	ما كان يجب أن أغضبها بتلك الطريقة.<br>هربت إلسا لأنها كانت خائفة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02832	kh3_event_fz.fz462a	fz4620020af0_2	890d5dfb	يجب أن أعيدها إلى البيت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02833	kh3_event_fz.fz462a	fz4620030sr0	6b0ed4fc	أنا متأكد أنها تعرف كم تحبينها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02834	kh3_event_fz.fz462a	fz4620040sr0_1	861a53eb	<i(on)>وأظن... أن هذا ربما سبب حزنها الشديد.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02835	kh3_event_fz.fz462a	fz4620040sr0_2	94affc05	<i(on)>تماما مثلما اختفى ريكو.<br>ظن أن عليه إبعادي، ليحميني.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02836	kh3_event_fz.fz462a	fz4620040sr0_3	2c139b60	<i(on)>ربما إلسا مثله.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02837	kh3_event_fz.fz462a	fz4620050sr0	ef2d4929	إن كان أحد يستطيع مساعدتها، فهو أنت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02838	kh3_event_fz.fz462a	fz4620060af0	58564851	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02839	kh3_event_fz.fz462a	fz4620080af0	41ae0336	شكرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02840	kh3_event_fz.fz462a	fz4620090ks0	faa5ef5e	يا رفاق! أحتاج إلى مساعدة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02841	kh3_event_fz.fz462a	fz4620150sr0	6e082c0e	ما المشكلة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02842	kh3_event_fz.fz462a	fz4620160ks0	071ffa58	هذه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02843	kh3_event_fz.fz462a	fz4620190do0	2200316c	مشكلة عصا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02844	kh3_event_fz.fz462a	fz4620200ks0_1	6b7d468c	إنها ليست عصا. حسنا، <i(on)>إنها<i(off)> عصا، لكنها—<br>إنها ذراع أولاف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02845	kh3_event_fz.fz462a	fz4620200ks0_2	79c8e962	لقد تفكك مجددا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02846	kh3_event_fz.fz462a	fz4620210sr0	78fb6e7f	تفكك?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02847	kh3_event_fz.fz462a	fz4620240do0	cc4f9ee9	آه، لماذا لست منزعجا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02848	kh3_event_fz.fz462a	fz4620250af0	2ec4c994	أوه، ليس بالأمر الكبير. إنه رجل ثلج.<br>سنعيد... تركيبه فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02849	kh3_event_fz.fz462a	fz4620260sr0	99bfc8ec	حقا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02850	kh3_event_fz.fz462a	fz4620270do0	63e6d323	يمكنكم فعل ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02851	kh3_event_fz.fz462a	fz4620280go0	68e771f2	يجب أن أرى هذا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02852	kh3_event_fz.fz462a	fz4620290ks0	239e2351	لا يمكن أن تكون القطع بعيدة.<br>هل تساعدوننا في البحث عنها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02853	kh3_event_fz.fz462a	fz4620300sr0	9cb9301e	بالطبع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02854	kh3_event_fz.fz463a	fz4630010af0	48c8eb68	وهكذا... انتهينا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02855	kh3_event_fz.fz463a	fz4630020go0	17131869	أمتأكدون أن لا شيء ناقص?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02856	kh3_event_fz.fz463a	fz4630030ks0	5c6a4aca	لا. يبدو سليما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02857	kh3_event_fz.fz463a	fz4630040ol0_1	dc0b9f57	واو، أشعر بتحسن كبير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02858	kh3_event_fz.fz463a	fz4630040ol0_2	cebe30b9	مهلا! أين أنفي الجديد الظريف?<br>الذي أعطتني إياه آنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02859	kh3_event_fz.fz463a	fz4630050af0	06250031	آه، سورا... هل أنفه <i(on)>معك<i(off)>?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02860	kh3_event_fz.fz463a	fz4630060sr0	b15e0149	لا أظن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02861	kh3_event_fz.fz463a	fz4630070do0	4b071a86	لا، لم أره.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02862	kh3_event_fz.fz463a	fz4630071ol0	1a7228fa		todo	
-02863	kh3_event_fz.fz463a	fz4630090ks0	0b7feaf4	سفين...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02864	kh3_event_fz.fz463a	fz4630100ks0	72e66227	"كان على أحد أن يلتقطه!"	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02865	kh3_event_fz.fz463a	fz4630110ks0	17815961	معك حق يا صديقي. شكرا لأنك وجدته...<br>ولأنك لم تأكله فعلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02866	kh3_event_fz.fz463a	fz4630120ks0	b82814ab	"أوه، العفو."	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02867	kh3_event_fz.fz463a	fz4630130ol0	7bd23715	أنفي، لقد عاد! أوه، كم أحب أن يكون لي أنف!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02868	kh3_event_fz.fz463a	fz4630140sr0	fab512e2	كريستوف، كيف حدث كل هذا على أي حال?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02869	kh3_event_fz.fz463a	fz4630150ks0_1	0a44d51d	أتعرف، لست متأكدا. تلك الحيوانات الغريبة—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02870	kh3_event_fz.fz463a	fz4630150ks0_2	18f17af3	بل كانت أشبه بالوحوش—<br>اصطدمت بأولاف فجأة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02871	kh3_event_fz.fz463a	fz4630160go0	d8db9617	كنت أعرف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02872	kh3_event_fz.fz463a	fz4630170do0	ca227fa1	بلا قلب مجددا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02873	kh3_event_fz.fz463a	fz4630180sr0	29832f09	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02874	kh3_event_fz.fz463a	fz4630190ks0_1	013cc981	"بلا قلب"? همم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02875	kh3_event_fz.fz463a	fz4630190ks0_2	1389666f	وكنت أظن أن الذئاب هنا سيئة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02876	kh3_event_fz.fz463a	fz4630200af0	f4941c21	كريستوف، انظر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02877	kh3_event_fz.fz463a	fz4630210ks0	4f9ff049	لقد عادوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02878	kh3_event_fz.fz463a	fz4630220ol0	46aba57b	لا... لقد تفككت اليوم بما فيه الكفاية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02879	kh3_event_fz.fz463a	fz4630230sr0_1	15923fea	نحن نعرف كيف نتعامل معهم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02880	kh3_event_fz.fz463a	fz4630230sr0_2	07279004	آنا، كريستوف، تابعا السير!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02881	kh3_event_fz.fz463a	fz4630250ks0	01721b10	حسنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02882	kh3_event_fz.fz463a	fz4630240af0	ba79f778	ماذا? ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02883	kh3_event_fz.fz464a	fz4640020sr0	4726f885	من الأفضل أن نلحق بهم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02884	kh3_event_fz.fz464a	fz4640030do0	bd7fe34a	نعم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02885	kh3_event_fz.fz465b	fz4650010af0	0187fc57	لقد تسببت نوعا ما في شتاء أبدي... في كل مكان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02886	kh3_event_fz.fz465b	fz4650020el0	3ce8962a	في كل مكان?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02887	kh3_event_fz.fz465b	fz4650030af0	cb498adb	لا بأس. يمكنك إذابته فحسب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02888	kh3_event_fz.fz465b	fz4650040el0	b8cb0bff	لا، لا أستطيع. لا أعرف كيف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02889	kh3_event_fz.fz465b	fz4650050af0	4f6a170e	بالتأكيد تستطيعين. أعرف أنك تستطيعين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02890	kh3_event_fz.fz465b	fz4650070sr0	9d762d30	لا بد أن آنا والآخرين دخلوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02891	kh3_event_fz.fz465b	fz4650090el0	0e9a0d52	<i(on)>لا أستطيع!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02892	kh3_event_fz.fz465a	fz4650130do0	cd8083c7	سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02893	kh3_event_fz.fz465a	fz4650140go0	5b5af7a4	هل أصبت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02894	kh3_event_fz.fz465a	fz4650150sr0_1	8c48580b	لا، أنا بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02895	kh3_event_fz.fz465a	fz4650150sr0_2	9efdf7e5	لكن... أظن أن أمرا فظيعا قد حدث.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02896	kh3_event_fz.fz465a	fz4650160sr0	79347351	أرجو أن يكون أصدقاؤنا بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02897	kh3_event_fz.fz465a	fz4650170sr0	1c534817	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02898	kh3_event_fz.fz465a	fz4650200af0	bddb0b1e	توقف! أنزلنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02899	kh3_event_fz.fz465a	fz4650210ms0	e9ed4296	ارحل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02900	kh3_event_fz.fz465a	fz4650270ol0	246e625b	انتبهوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02901	kh3_event_fz.fz465a	fz4650300ol0	440fa1ef	احذروا مؤخرتي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02902	kh3_event_fz.fz465a	fz4650330af0	935723f3	مهلا! ليس من اللطيف رمي الناس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02903	kh3_event_fz.fz465a	fz4650340ks0	ac7f524e	مهلا-مهلا-مهلا يا عنيدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02904	kh3_event_fz.fz465a	fz4650350af0	1774be26	أفلتني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02905	kh3_event_fz.fz465a	fz4650360ks0	66b124c2	حسنا، استرخي. اهدئي فقط. اهدئي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02906	kh3_event_fz.fz465a	fz4650370af0	ddbac8aa	حسنا! لا بأس! أنا بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02907	kh3_event_fz.fz465a	fz4650380ks0	7f496fa5	دعي رجل الثلج وشأنه فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02908	kh3_event_fz.fz465a	fz4650390af0	c44283cd	أنا هادئة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02909	kh3_event_fz.fz465a	fz4650400ks0	d38a8e60	عظيم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02910	kh3_event_fz.fz465a	fz4650420ks0	1944f8ec	ماذا? أوه، هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02911	kh3_event_fz.fz465a	fz4650440ks0	9d676539	أرأيت? الآن أغضبته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02912	kh3_event_fz.fz465a	fz4650450ol0	5e9d4687	سأشتت انتباهه. اذهبوا أنتم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02913	kh3_event_fz.fz465a	fz4650460ol0	f1340b4d	لا، لا. ليس أنتم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02914	kh3_event_fz.fz465a	fz4650470ol0	9453300b	الأمر صار أصعب بكثير الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02915	kh3_event_fz.fz465a	fz4650480sr0	88efc34e	يمكننا أن نكسب لكم بعض الوقت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02916	kh3_event_fz.fz465a	fz4650540ol0	badf18e6	انتظروني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02917	kh3_event_fz.fz465a	fz4650560sr0	1032ed0e	ماذا? أين غوفي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02918	kh3_event_fz.fz465a	fz4650580go0	e16a5410	سورا! خطرت لي فكرة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02919	kh3_event_fz.fz465a	fz4650590do0	f393bda6	غوفي، ماذا تفعل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02920	kh3_event_fz.fz465a	fz4650610sr0	a968e2b5	آه! هذا مثالي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02921	kh3_event_fz.fz465a	fz4650630do0	fc98b4b0	ماذا? مهلا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02922	kh3_event_fz.fz465a	fz4650680sr0	51d40f41	استعدوا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02923	kh3_event_fz.fz465a	fz4650690sr0	34b33407	حسنا، الآن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02924	kh3_event_fz.fz465a	fz4650730sr0	e283f11e	نعم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02925	kh3_event_fz.fz465a	fz4650750do0	f99e4c42	لم ينته بعد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02926	kh3_event_fz.fz465a	fz4650770sr0	ac6e1a47	هات ما عندك يا كرة الثلج!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02927	kh3_event_fz.fz466a	fz4660070sr0	5469258f	م... ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02863	kh3_event_fz.fz463a	fz4630090ks0	0b7feaf4	سفين...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02864	kh3_event_fz.fz463a	fz4630100ks0	72e66227	"كان على أحد أن يلتقطه!"	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02865	kh3_event_fz.fz463a	fz4630110ks0	17815961	معك حق يا صديقي. شكرا لأنك وجدته...<br>ولأنك لم تأكله فعلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02866	kh3_event_fz.fz463a	fz4630120ks0	b82814ab	"أوه، العفو."	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02867	kh3_event_fz.fz463a	fz4630130ol0	7bd23715	أنفي، لقد عاد! أوه، كم أحب أن يكون لي أنف!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02868	kh3_event_fz.fz463a	fz4630140sr0	fab512e2	كريستوف، كيف حدث كل هذا على أي حال?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02869	kh3_event_fz.fz463a	fz4630150ks0_1	0a44d51d	أتعرف، لست متأكدا. تلك الحيوانات الغريبة—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02870	kh3_event_fz.fz463a	fz4630150ks0_2	18f17af3	بل كانت أشبه بالوحوش—<br>اصطدمت بأولاف فجأة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02871	kh3_event_fz.fz463a	fz4630160go0	d8db9617	كنت أعرف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02872	kh3_event_fz.fz463a	fz4630170do0	ca227fa1	بلا قلب مجددا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02873	kh3_event_fz.fz463a	fz4630180sr0	29832f09	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02874	kh3_event_fz.fz463a	fz4630190ks0_1	013cc981	"بلا قلب"? همم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02875	kh3_event_fz.fz463a	fz4630190ks0_2	1389666f	وكنت أظن أن الذئاب هنا سيئة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02876	kh3_event_fz.fz463a	fz4630200af0	f4941c21	كريستوف، انظر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02877	kh3_event_fz.fz463a	fz4630210ks0	4f9ff049	لقد عادوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02878	kh3_event_fz.fz463a	fz4630220ol0	46aba57b	لا... لقد تفككت اليوم بما فيه الكفاية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02879	kh3_event_fz.fz463a	fz4630230sr0_1	15923fea	نحن نعرف كيف نتعامل معهم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02880	kh3_event_fz.fz463a	fz4630230sr0_2	07279004	آنا، كريستوف، تابعا السير!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02881	kh3_event_fz.fz463a	fz4630250ks0	01721b10	حسنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02882	kh3_event_fz.fz463a	fz4630240af0	ba79f778	ماذا? ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02883	kh3_event_fz.fz464a	fz4640020sr0	4726f885	من الأفضل أن نلحق بهم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02884	kh3_event_fz.fz464a	fz4640030do0	bd7fe34a	نعم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02885	kh3_event_fz.fz465b	fz4650010af0	0187fc57	لقد تسببت نوعا ما في شتاء أبدي... في كل مكان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02886	kh3_event_fz.fz465b	fz4650020el0	3ce8962a	في كل مكان?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02887	kh3_event_fz.fz465b	fz4650030af0	cb498adb	لا بأس. يمكنك إذابته فحسب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02888	kh3_event_fz.fz465b	fz4650040el0	b8cb0bff	لا، لا أستطيع. لا أعرف كيف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02889	kh3_event_fz.fz465b	fz4650050af0	4f6a170e	بالتأكيد تستطيعين. أعرف أنك تستطيعين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02890	kh3_event_fz.fz465b	fz4650070sr0	9d762d30	لا بد أن آنا والآخرين دخلوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02891	kh3_event_fz.fz465b	fz4650090el0	0e9a0d52	<i(on)>لا أستطيع!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02892	kh3_event_fz.fz465a	fz4650130do0	cd8083c7	سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02893	kh3_event_fz.fz465a	fz4650140go0	5b5af7a4	هل أصبت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02894	kh3_event_fz.fz465a	fz4650150sr0_1	8c48580b	لا، أنا بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02895	kh3_event_fz.fz465a	fz4650150sr0_2	9efdf7e5	لكن... أظن أن أمرا فظيعا قد حدث.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02896	kh3_event_fz.fz465a	fz4650160sr0	79347351	أرجو أن يكون أصدقاؤنا بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02897	kh3_event_fz.fz465a	fz4650170sr0	1c534817	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02898	kh3_event_fz.fz465a	fz4650200af0	bddb0b1e	توقف! أنزلنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02899	kh3_event_fz.fz465a	fz4650210ms0	e9ed4296	ارحل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02900	kh3_event_fz.fz465a	fz4650270ol0	246e625b	انتبهوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02901	kh3_event_fz.fz465a	fz4650300ol0	440fa1ef	احذروا مؤخرتي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02902	kh3_event_fz.fz465a	fz4650330af0	935723f3	مهلا! ليس من اللطيف رمي الناس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02903	kh3_event_fz.fz465a	fz4650340ks0	ac7f524e	مهلا-مهلا-مهلا يا عنيدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02904	kh3_event_fz.fz465a	fz4650350af0	1774be26	أفلتني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02905	kh3_event_fz.fz465a	fz4650360ks0	66b124c2	حسنا، استرخي. اهدئي فقط. اهدئي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02906	kh3_event_fz.fz465a	fz4650370af0	ddbac8aa	حسنا! لا بأس! أنا بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02907	kh3_event_fz.fz465a	fz4650380ks0	7f496fa5	دعي رجل الثلج وشأنه فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02908	kh3_event_fz.fz465a	fz4650390af0	c44283cd	أنا هادئة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02909	kh3_event_fz.fz465a	fz4650400ks0	d38a8e60	عظيم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02910	kh3_event_fz.fz465a	fz4650420ks0	1944f8ec	ماذا? أوه، هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02911	kh3_event_fz.fz465a	fz4650440ks0	9d676539	أرأيت? الآن أغضبته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02912	kh3_event_fz.fz465a	fz4650450ol0	5e9d4687	سأشتت انتباهه. اذهبوا أنتم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02913	kh3_event_fz.fz465a	fz4650460ol0	f1340b4d	لا، لا. ليس أنتم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02914	kh3_event_fz.fz465a	fz4650470ol0	9453300b	الأمر صار أصعب بكثير الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02915	kh3_event_fz.fz465a	fz4650480sr0	88efc34e	يمكننا أن نكسب لكم بعض الوقت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02916	kh3_event_fz.fz465a	fz4650540ol0	badf18e6	انتظروني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02917	kh3_event_fz.fz465a	fz4650560sr0	1032ed0e	ماذا? أين غوفي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02918	kh3_event_fz.fz465a	fz4650580go0	e16a5410	سورا! خطرت لي فكرة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02919	kh3_event_fz.fz465a	fz4650590do0	f393bda6	غوفي، ماذا تفعل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02920	kh3_event_fz.fz465a	fz4650610sr0	a968e2b5	آه! هذا مثالي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02921	kh3_event_fz.fz465a	fz4650630do0	fc98b4b0	ماذا? مهلا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02922	kh3_event_fz.fz465a	fz4650680sr0	51d40f41	استعدوا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02923	kh3_event_fz.fz465a	fz4650690sr0	34b33407	حسنا، الآن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02924	kh3_event_fz.fz465a	fz4650730sr0	e283f11e	نعم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02925	kh3_event_fz.fz465a	fz4650750do0	f99e4c42	لم ينته بعد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02926	kh3_event_fz.fz465a	fz4650770sr0	ac6e1a47	هات ما عندك يا كرة الثلج!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02927	kh3_event_fz.fz466a	fz4660070sr0	5469258f	م... ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02928	kh3_event_fz.fz466a	fz4660100sr0	3408e63b		todo	
-02929	kh3_event_fz.fz466a	fz4660160sr0	b02b7bee	من حسن الحظ أن الثلج طري جدا.<br>يمكننا فعل هذا <i(on)>مئة<i(off)> مرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02930	kh3_event_fz.fz466a	fz4660170do0	4a726021	لا! لا نفعل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02931	kh3_event_fz.fz466a	fz4660180go0	4173c2f0	أمتأكد أنك لا تريد مرة أخرى?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02932	kh3_event_fz.fz466a	fz4660200sr0	6c164f13	لااا شكرااا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02933	kh3_event_fz.fz466a	fz4660220sr0	a6d8399f	أتظنون أن الجميع نجوا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02934	kh3_event_fz.fz466a	fz4660230go0	2b1ff0a0	لا أظن أن وحش الثلج أمسك بهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02935	kh3_event_fz.fz466a	fz4660240do0	bdc584c3	لا بد أنهم عادوا إلى القصر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02936	kh3_event_fz.fz466a	fz4660250sr0	479c9f0c	هذا منطقي. ونحن أيضا.<br>ما زال علينا التحدث إلى إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02937	kh3_event_fz.fz466a	fz4660260go0	009520bf	المرة الثانية هي الحاسمة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02938	kh3_event_fz.fz466a	fz4660270sr0	8d52e980	نعم، لنعد إلى القصر الجليدي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02939	kh3_event_fz.fz467a	fz4670030sr0	eb5ecb7c	مهلا... هذه إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02940	kh3_event_fz.fz467a	fz4670040sr0	0a1a6def	لكن من ذلك الرجل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02941	kh3_event_fz.fz467a	fz4670050go0	87dda4d0	ربما شخص من آرنديل<br>جاء إلى هنا ليساعدها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02942	kh3_event_fz.fz467a	fz4670060sr1	78687c06	لا أظن.<br>لا يبدو لي أنه يساعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02943	kh3_event_fz.fz467a	fz4670081do0	e87ae11c	يا للهول!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02944	kh3_event_fz.fz467a	fz4670100go0	2d7211e8	ظلام?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02945	kh3_event_fz.fz467a	fz4670130sr0	6a7bae5b	لنتحرك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02946	kh3_event_fz.fz468a	fz4680020sr0	d5b8d6fb	هو مجددا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02947	kh3_event_fz.fz468a	fz4680030sr0	b0dfedbd	مهلا! من الأفضل ألا تكون قد آذيت أصدقاءنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02948	kh3_event_fz.fz468a	fz4680050sr0	34fc7068	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02949	kh3_event_fz.fz468a	fz4680040ms0	78187552	إلساااا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02950	kh3_event_fz.fz468a	fz4680060sr0	9b553da2	مهلا، انتظر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02951	kh3_event_fz.fz468a	fz4680070sr0	fe3206e4	هل... تبحث عن إلسا أنت أيضا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02952	kh3_event_fz.fz468a	fz4680090sr0_1	735c115a	واو! على مهلك!<br>هل تريد إنقاذها من الشرير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02953	kh3_event_fz.fz468a	fz4680090sr0_2	61e9beb4	نحن في الصف نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02954	kh3_event_fz.fz468a	fz4680100ms0	b7d0fb2c	إلسا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02955	kh3_event_fz.fz468a	fz4680110go0	13940c6f	أظن أن كل ما أراده<br>هو أن يحمي إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02956	kh3_event_fz.fz468a	fz4680120sr0	549db3dc	اسمع. يجب أن نتعاون أيها الضخم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02957	kh3_event_fz.fz468a	fz4680130do0	aec4a813	نتعاون?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02958	kh3_event_fz.fz468a	fz4680140sr0	d0be2e09	هيا. نحن نريد مساعدتها أيضا. لم لا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02959	kh3_event_fz.fz468a	fz4680150sr0	b5d9154f	إذن، ما رأيك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02960	kh3_event_fz.fz468a	fz4680160do0	854e780c	سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02961	kh3_event_fz.fz468a	fz4680170go0	97b791ba	من أجمل ما في سورا—<br>أنه يستطيع مصادقة أي أحد دائما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02962	kh3_event_fz.fz468a	fz4680180do0	9cb6336b	يا للفرحة...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02963	kh3_event_fz.fz468a	fz4680190sr0	66ef28a4	دونالد! غوفي! هيا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02964	kh3_event_fz.fz468a	fz4680220do0	93bd3a7d	انتظرنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02965	kh3_event_fz.fz469a	fz4690020ks0	e2dc48cd	كفى. أنزلني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02966	kh3_event_fz.fz469a	fz4690040sr0	a0414e84	هذا كريستوف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02967	kh3_event_fz.fz469a	fz4690050sr0	c52675c2	أسد إلي معروفا وانتظر هنا.<br>إن جئت معنا، فقد يفزع كريستوف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02968	kh3_event_fz.fz469a	fz4690070ks0_1	077e89bd	لا يا سفين! لن نعود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02969	kh3_event_fz.fz469a	fz4690070ks0_2	15cb2653	إنها مع حبها الحقيقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02970	kh3_event_fz.fz469a	fz4690080sr0	7377736f	كريستوف!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02971	kh3_event_fz.fz469a	fz4690100ks0	a9375b66	سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02972	kh3_event_fz.fz469a	fz4690110sr0	0aeefbbc	هل أنت بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02973	kh3_event_fz.fz469a	fz4690120ks0	63f92dea	نعم، أنا بخير. يسعدني أنكم بأمان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02974	kh3_event_fz.fz469a	fz4690130do0	5f1eadb9	مهلا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02975	kh3_event_fz.fz469a	fz4690140sr0	21642ba3	أين ذهبت آنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02976	kh3_event_fz.fz469a	fz4690150ks0	82bd8b79	عادت إلى البيت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02977	kh3_event_fz.fz469a	fz4690170sr0	8ecd6669	هل حدث شيء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02978	kh3_event_fz.fz469a	fz4690180ks0_1	ff0297ac	أصاب سحر إلسا الجليدي قلب آنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02979	kh3_event_fz.fz469a	fz4690180ks0_2	edb73842	إن لم يزل الجليد، فستتجمد إلى الأبد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02980	kh3_event_fz.fz469a	fz4690180ks0_3	550b5f27	وحده عمل نابع من حب حقيقي يذيب القلب المتجمد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02981	kh3_event_fz.fz469a	fz4690180ks0_4	c8dc679e	لذا أعدتها إلى آرنديل<br>وإلى حبها الحقيقي، هانز.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02982	kh3_event_fz.fz469a	fz4690190sr0	97352d0e	لكن... ماذا عنك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02983	kh3_event_fz.fz469a	fz4690200ks0	f129f24e	ماذا <i(on)>عني<i(off)>?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02984	kh3_event_fz.fz469a	fz4690210sr0	52f05294	آه، ظننت نوعا ما أنكما...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02985	kh3_event_fz.fz469a	fz4690220ks0	3be784c2	لااا! أنا فقط أمنعها من أن تضيع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02986	kh3_event_fz.fz469a	fz4690230sr0	983e2418	حقا? لكنكما تبدوان...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02987	kh3_event_fz.fz469a	fz4690240go0	91da70f2	مثاليين معا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02988	kh3_event_fz.fz469a	fz4690250do0	83239944	نعم، مثلي أنا وديزي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02989	kh3_event_fz.fz469a	fz4690280ks0	6cf224fc	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02990	kh3_event_fz.fz469a	fz4690290ks0	09951fba	آنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02991	kh3_event_fz.fz469a	fz4690320ms0	55ff4405	إلسا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02992	kh3_event_fz.fz469a	fz4690330sr0	191b413f	هل إلسا هناك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02993	kh3_event_fz.fz469a	fz4690350sr0	9d38dcea	إلسا وآنا قد تحتاجان مساعدتنا كلتاهما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02994	kh3_event_fz.fz469a	fz4690360sr0	32919120	هيا بنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02929	kh3_event_fz.fz466a	fz4660160sr0	b02b7bee	من حسن الحظ أن الثلج طري جدا.<br>يمكننا فعل هذا <i(on)>مئة<i(off)> مرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02930	kh3_event_fz.fz466a	fz4660170do0	4a726021	لا! لا نفعل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02931	kh3_event_fz.fz466a	fz4660180go0	4173c2f0	أمتأكد أنك لا تريد مرة أخرى?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02932	kh3_event_fz.fz466a	fz4660200sr0	6c164f13	لااا شكرااا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02933	kh3_event_fz.fz466a	fz4660220sr0	a6d8399f	أتظنون أن الجميع نجوا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02934	kh3_event_fz.fz466a	fz4660230go0	2b1ff0a0	لا أظن أن وحش الثلج أمسك بهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02935	kh3_event_fz.fz466a	fz4660240do0	bdc584c3	لا بد أنهم عادوا إلى القصر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02936	kh3_event_fz.fz466a	fz4660250sr0	479c9f0c	هذا منطقي. ونحن أيضا.<br>ما زال علينا التحدث إلى إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02937	kh3_event_fz.fz466a	fz4660260go0	009520bf	المرة الثانية هي الحاسمة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02938	kh3_event_fz.fz466a	fz4660270sr0	8d52e980	نعم، لنعد إلى القصر الجليدي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02939	kh3_event_fz.fz467a	fz4670030sr0	eb5ecb7c	مهلا... هذه إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02940	kh3_event_fz.fz467a	fz4670040sr0	0a1a6def	لكن من ذلك الرجل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02941	kh3_event_fz.fz467a	fz4670050go0	87dda4d0	ربما شخص من آرنديل<br>جاء إلى هنا ليساعدها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02942	kh3_event_fz.fz467a	fz4670060sr1	78687c06	لا أظن.<br>لا يبدو لي أنه يساعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02943	kh3_event_fz.fz467a	fz4670081do0	e87ae11c	يا للهول!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02944	kh3_event_fz.fz467a	fz4670100go0	2d7211e8	ظلام?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02945	kh3_event_fz.fz467a	fz4670130sr0	6a7bae5b	لنتحرك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02946	kh3_event_fz.fz468a	fz4680020sr0	d5b8d6fb	هو مجددا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02947	kh3_event_fz.fz468a	fz4680030sr0	b0dfedbd	مهلا! من الأفضل ألا تكون قد آذيت أصدقاءنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02948	kh3_event_fz.fz468a	fz4680050sr0	34fc7068	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02949	kh3_event_fz.fz468a	fz4680040ms0	78187552	إلساااا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02950	kh3_event_fz.fz468a	fz4680060sr0	9b553da2	مهلا، انتظر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02951	kh3_event_fz.fz468a	fz4680070sr0	fe3206e4	هل... تبحث عن إلسا أنت أيضا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02952	kh3_event_fz.fz468a	fz4680090sr0_1	735c115a	واو! على مهلك!<br>هل تريد إنقاذها من الشرير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02953	kh3_event_fz.fz468a	fz4680090sr0_2	61e9beb4	نحن في الصف نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02954	kh3_event_fz.fz468a	fz4680100ms0	b7d0fb2c	إلسا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02955	kh3_event_fz.fz468a	fz4680110go0	13940c6f	أظن أن كل ما أراده<br>هو أن يحمي إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02956	kh3_event_fz.fz468a	fz4680120sr0	549db3dc	اسمع. يجب أن نتعاون أيها الضخم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02957	kh3_event_fz.fz468a	fz4680130do0	aec4a813	نتعاون?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02958	kh3_event_fz.fz468a	fz4680140sr0	d0be2e09	هيا. نحن نريد مساعدتها أيضا. لم لا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02959	kh3_event_fz.fz468a	fz4680150sr0	b5d9154f	إذن، ما رأيك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02960	kh3_event_fz.fz468a	fz4680160do0	854e780c	سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02961	kh3_event_fz.fz468a	fz4680170go0	97b791ba	من أجمل ما في سورا—<br>أنه يستطيع مصادقة أي أحد دائما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02962	kh3_event_fz.fz468a	fz4680180do0	9cb6336b	يا للفرحة...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02963	kh3_event_fz.fz468a	fz4680190sr0	66ef28a4	دونالد! غوفي! هيا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02964	kh3_event_fz.fz468a	fz4680220do0	93bd3a7d	انتظرنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02965	kh3_event_fz.fz469a	fz4690020ks0	e2dc48cd	كفى. أنزلني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02966	kh3_event_fz.fz469a	fz4690040sr0	a0414e84	هذا كريستوف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02967	kh3_event_fz.fz469a	fz4690050sr0	c52675c2	أسد إلي معروفا وانتظر هنا.<br>إن جئت معنا، فقد يفزع كريستوف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02968	kh3_event_fz.fz469a	fz4690070ks0_1	077e89bd	لا يا سفين! لن نعود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02969	kh3_event_fz.fz469a	fz4690070ks0_2	15cb2653	إنها مع حبها الحقيقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02970	kh3_event_fz.fz469a	fz4690080sr0	7377736f	كريستوف!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02971	kh3_event_fz.fz469a	fz4690100ks0	a9375b66	سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02972	kh3_event_fz.fz469a	fz4690110sr0	0aeefbbc	هل أنت بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02973	kh3_event_fz.fz469a	fz4690120ks0	63f92dea	نعم، أنا بخير. يسعدني أنكم بأمان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02974	kh3_event_fz.fz469a	fz4690130do0	5f1eadb9	مهلا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02975	kh3_event_fz.fz469a	fz4690140sr0	21642ba3	أين ذهبت آنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02976	kh3_event_fz.fz469a	fz4690150ks0	82bd8b79	عادت إلى البيت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02977	kh3_event_fz.fz469a	fz4690170sr0	8ecd6669	هل حدث شيء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02978	kh3_event_fz.fz469a	fz4690180ks0_1	ff0297ac	أصاب سحر إلسا الجليدي قلب آنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02979	kh3_event_fz.fz469a	fz4690180ks0_2	edb73842	إن لم يزل الجليد، فستتجمد إلى الأبد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02980	kh3_event_fz.fz469a	fz4690180ks0_3	550b5f27	وحده عمل نابع من حب حقيقي يذيب القلب المتجمد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02981	kh3_event_fz.fz469a	fz4690180ks0_4	c8dc679e	لذا أعدتها إلى آرنديل<br>وإلى حبها الحقيقي، هانز.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02982	kh3_event_fz.fz469a	fz4690190sr0	97352d0e	لكن... ماذا عنك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02983	kh3_event_fz.fz469a	fz4690200ks0	f129f24e	ماذا <i(on)>عني<i(off)>?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02984	kh3_event_fz.fz469a	fz4690210sr0	52f05294	آه، ظننت نوعا ما أنكما...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02985	kh3_event_fz.fz469a	fz4690220ks0	3be784c2	لااا! أنا فقط أمنعها من أن تضيع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02986	kh3_event_fz.fz469a	fz4690230sr0	983e2418	حقا? لكنكما تبدوان...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02987	kh3_event_fz.fz469a	fz4690240go0	91da70f2	مثاليين معا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02988	kh3_event_fz.fz469a	fz4690250do0	83239944	نعم، مثلي أنا وديزي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02989	kh3_event_fz.fz469a	fz4690280ks0	6cf224fc	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02990	kh3_event_fz.fz469a	fz4690290ks0	09951fba	آنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02991	kh3_event_fz.fz469a	fz4690320ms0	55ff4405	إلسا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02992	kh3_event_fz.fz469a	fz4690330sr0	191b413f	هل إلسا هناك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02993	kh3_event_fz.fz469a	fz4690350sr0	9d38dcea	إلسا وآنا قد تحتاجان مساعدتنا كلتاهما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02994	kh3_event_fz.fz469a	fz4690360sr0	32919120	هيا بنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02995	kh3_event_fz.fz469a	fz4690380do0	b457face		todo	
-02996	kh3_event_fz.fz470a	fz4700020af0	bb0e7a88	كريستوف?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02997	kh3_event_fz.fz470a	fz4700030ks0	000596e0	آنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02998	kh3_event_fz.fz470a	fz4700050af0	5a4adc1b	إلسا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02999	kh3_event_fz.fz470a	fz4700090sr0	91aead42	إلسا، آنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03000	kh3_event_fz.fz470a	fz4700100af0	f0e56923	لااا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03001	kh3_event_fz.fz470a	fz4700120sr0	22f9531d	آنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03002	kh3_event_fz.fz470a	fz4700150sr0	c3bdf58e	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03003	kh3_event_fz.fz470b	fz4700210go0	3dee4586	هل تظن حقا أن هذا سيساعد آنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03004	kh3_event_fz.fz470b	fz4700220sr0_1	14b34a1d	لا أدري...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03005	kh3_event_fz.fz470b	fz4700220sr0_2	0606e5f3	لكن من الأفضل أن نحاول شيئا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03006	kh3_event_fz.fz470b	fz4700230do0	80bee1fa	لنفعلها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03007	kh3_event_fz.fz471b	fz4710200sr0	41f38913	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03008	kh3_event_fz.fz471b	fz4710220xr0	faaf5b91	إذن، ملأ الحب قلبي <i(on)>كلتيهما<i(off)> بالنور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03009	kh3_event_fz.fz471b	fz4710230sr0	ee5ac4d9	لارزين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03010	kh3_event_fz.fz471b	fz4710240xr0	7e8cc644	اثنتان في عالم واحد...<br>لم أتوقع <i(on)>هذا<i(off)> حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03011	kh3_event_fz.fz471b	fz4710260sr0	c5d014c6	مارلوكسيا أولا، والآن أنت.<br>ما معنى كل هذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03012	kh3_event_fz.fz471b	fz4710270xr0_1	8ee74a4b	فهمت، إذن صادفت مارلوكسيا.<br>فلماذا أشرح هذا من جديد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03013	kh3_event_fz.fz471b	fz4710270xr0_2	9c52e5a5	قلت لك من قبل: القلوب السبعة الجديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03014	kh3_event_fz.fz471b	fz4710270xr0_3	24ee82c0	إن أخفقت ولم تجد<br>حراس النور السبعة،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03015	kh3_event_fz.fz471b	fz4710270xr0_3b	d869fbcf	فسنحتاج إلى مجموعة أخرى نعتمد عليها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03016	kh3_event_fz.fz471b	fz4710280sr0	dc285fa1	أبعدوا الأبرياء عن هذا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03017	kh3_event_fz.fz471b	fz4710290xr0_1	86f4aced	أوه، انظروا إلى هذا الشجاع.<br>كم كبر الصغير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03018	kh3_event_fz.fz471b	fz4710290xr0_2	94410303	ربما عليك أن تقوم بعملك،<br>وتجد بقية حراس النور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03019	kh3_event_fz.fz471b	fz4710300sr0	c0d6ec34	أرجوك، وكأنكم وجدتم أعضاءكم الثلاثة عشر.<br>قال الملك إنكم ينقصكم باحث عن الظلام واحد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03020	kh3_event_fz.fz471b	fz4710310xr0	d423737c	أوه لا، لقد اكتمل عددنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03021	kh3_event_fz.fz471b	fz4710320sr0	0a189ab8	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03022	kh3_event_fz.fz471c	fz4710330sr0	6f7fa1fe	لديهم الثلاثة عشر كلهم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03023	kh3_event_fz.fz471c	fz4710340sr0	8e3b076d	إذن إن لم نجد سبعتنا،<br>فسيلاحقون إلسا وآنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03024	kh3_event_fz.fz471c	fz4710360go0	ac558398	سيكون كل شيء بخير. إنهما قويتان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03025	kh3_event_fz.fz471c	fz4710380do0	c2331a0f	والآن، حان دورنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03026	kh3_event_fz.fz471c	fz4710400sr0	f1cedb43	معك حق. كل منهما لديها الأخرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03027	kh3_event_fz.fz471c	fz4710410el0	1ebd8b00	آنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03028	kh3_event_fz.fz471c	fz4710420af0	23d2e17d	أوه، إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03029	kh3_event_fz.fz471c	fz4710430el0	d473fd8c	ضحيت بنفسك من أجلي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03030	kh3_event_fz.fz471c	fz4710440af0	a7f17ca8	أحبك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03031	kh3_event_fz.fz471c	fz4710450ol0	ba678838	"عمل نابع من حب حقيقي يذيب القلب المتجمد."	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03032	kh3_event_fz.fz471c	fz4710460el0	fff92d93	الحب... سيذيبه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03033	kh3_event_fz.fz471c	fz4710470el0	9a9e16d5	الحب...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03034	kh3_event_fz.fz471c	fz4710480af0	74c74143	إلسا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03035	kh3_event_fz.fz471c	fz4710470el0b	4652ab33	بالطبع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03036	kh3_event_fz.fz471c	fz4710490el0	83665db2	الحب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-03037	kh3_event_fz.fz471c	fz4710510sr0	158c8522	نعم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02996	kh3_event_fz.fz470a	fz4700020af0	bb0e7a88	كريستوف?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02997	kh3_event_fz.fz470a	fz4700030ks0	000596e0	آنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02998	kh3_event_fz.fz470a	fz4700050af0	5a4adc1b	إلسا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02999	kh3_event_fz.fz470a	fz4700090sr0	91aead42	إلسا، آنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03000	kh3_event_fz.fz470a	fz4700100af0	f0e56923	لااا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03001	kh3_event_fz.fz470a	fz4700120sr0	22f9531d	آنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03002	kh3_event_fz.fz470a	fz4700150sr0	c3bdf58e	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03003	kh3_event_fz.fz470b	fz4700210go0	3dee4586	هل تظن حقا أن هذا سيساعد آنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03004	kh3_event_fz.fz470b	fz4700220sr0_1	14b34a1d	لا أدري...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03005	kh3_event_fz.fz470b	fz4700220sr0_2	0606e5f3	لكن من الأفضل أن نحاول شيئا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03006	kh3_event_fz.fz470b	fz4700230do0	80bee1fa	لنفعلها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03007	kh3_event_fz.fz471b	fz4710200sr0	41f38913	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03008	kh3_event_fz.fz471b	fz4710220xr0	faaf5b91	إذن، ملأ الحب قلبي <i(on)>كلتيهما<i(off)> بالنور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03009	kh3_event_fz.fz471b	fz4710230sr0	ee5ac4d9	لارزين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03010	kh3_event_fz.fz471b	fz4710240xr0	7e8cc644	اثنتان في عالم واحد...<br>لم أتوقع <i(on)>هذا<i(off)> حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03011	kh3_event_fz.fz471b	fz4710260sr0	c5d014c6	مارلوكسيا أولا، والآن أنت.<br>ما معنى كل هذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03012	kh3_event_fz.fz471b	fz4710270xr0_1	8ee74a4b	فهمت، إذن صادفت مارلوكسيا.<br>فلماذا أشرح هذا من جديد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03013	kh3_event_fz.fz471b	fz4710270xr0_2	9c52e5a5	قلت لك من قبل: القلوب السبعة الجديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03014	kh3_event_fz.fz471b	fz4710270xr0_3	24ee82c0	إن أخفقت ولم تجد<br>حراس النور السبعة،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03015	kh3_event_fz.fz471b	fz4710270xr0_3b	d869fbcf	فسنحتاج إلى مجموعة أخرى نعتمد عليها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03016	kh3_event_fz.fz471b	fz4710280sr0	dc285fa1	أبعدوا الأبرياء عن هذا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03017	kh3_event_fz.fz471b	fz4710290xr0_1	86f4aced	أوه، انظروا إلى هذا الشجاع.<br>كم كبر الصغير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03018	kh3_event_fz.fz471b	fz4710290xr0_2	94410303	ربما عليك أن تقوم بعملك،<br>وتجد بقية حراس النور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03019	kh3_event_fz.fz471b	fz4710300sr0	c0d6ec34	أرجوك، وكأنكم وجدتم أعضاءكم الثلاثة عشر.<br>قال الملك إنكم ينقصكم باحث عن الظلام واحد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03020	kh3_event_fz.fz471b	fz4710310xr0	d423737c	أوه لا، لقد اكتمل عددنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03021	kh3_event_fz.fz471b	fz4710320sr0	0a189ab8	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03022	kh3_event_fz.fz471c	fz4710330sr0	6f7fa1fe	لديهم الثلاثة عشر كلهم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03023	kh3_event_fz.fz471c	fz4710340sr0	8e3b076d	إذن إن لم نجد سبعتنا،<br>فسيلاحقون إلسا وآنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03024	kh3_event_fz.fz471c	fz4710360go0	ac558398	سيكون كل شيء بخير. إنهما قويتان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03025	kh3_event_fz.fz471c	fz4710380do0	c2331a0f	والآن، حان دورنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03026	kh3_event_fz.fz471c	fz4710400sr0	f1cedb43	معك حق. كل منهما لديها الأخرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03027	kh3_event_fz.fz471c	fz4710410el0	1ebd8b00	آنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03028	kh3_event_fz.fz471c	fz4710420af0	23d2e17d	أوه، إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03029	kh3_event_fz.fz471c	fz4710430el0	d473fd8c	ضحيت بنفسك من أجلي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03030	kh3_event_fz.fz471c	fz4710440af0	a7f17ca8	أحبك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03031	kh3_event_fz.fz471c	fz4710450ol0	ba678838	"عمل نابع من حب حقيقي يذيب القلب المتجمد."	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03032	kh3_event_fz.fz471c	fz4710460el0	fff92d93	الحب... سيذيبه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03033	kh3_event_fz.fz471c	fz4710470el0	9a9e16d5	الحب...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03034	kh3_event_fz.fz471c	fz4710480af0	74c74143	إلسا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03035	kh3_event_fz.fz471c	fz4710470el0b	4652ab33	بالطبع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03036	kh3_event_fz.fz471c	fz4710490el0	83665db2	الحب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03037	kh3_event_fz.fz471c	fz4710510sr0	158c8522	نعم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

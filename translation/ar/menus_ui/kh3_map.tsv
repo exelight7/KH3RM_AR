@@ -1,38 +1,38 @@
 id	namespace	key	source_hash	AR	status	note
-13536	kh3_map.wm	world_bt	f6135e87	سكالا آد كايلوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13537	kh3_map.wm	world_db	450e5f43	بلدة الفجر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13538	kh3_map.wm	world_dw	22c9f8ee	عالم الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13539	kh3_map.wm	world_he	8f7672b5	أوليمبوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13540	kh3_map.wm	world_ts	d1105e92	صندوق الألعاب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13541	kh3_map.wm	world_ra	ed6fc801	مملكة كورونا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13542	kh3_map.wm	world_fz	9286274e	آرنديل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13543	kh3_map.wm	world_ca	5d7ef9b4	الكاريبي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13544	kh3_map.wm	world_po	4f95b84f	غابة المئة فدان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13545	kh3_map.wm	world_mi	8d40c369	مونستروبوليس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13546	kh3_map.wm	world_tt	4cc7662b	بلدة الشفق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13547	kh3_map.wm	world_yt	d7c273fa	البرج الغامض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13548	kh3_map.wm	world_kg	abf0bddd	مقبرة الكيبلايد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13549	kh3_map.wm	world_bx	bcc5e13f	سان فرانسوكيو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13550	kh3_map.wm	world_co	bda18e87	قلعة النسيان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13551	kh3_map.wm	world_ew	ee63f870	العالم الأخير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13552	kh3_map.wm	world_di	920fd842	جزر المصير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13553	kh3_map.wm	world_rg	c80497dd	الحديقة المضيئة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13554	kh3_map.wm	world_dp	bf1ec057	أرض الانطلاق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13555	kh3_map.wm	world_wm	ef5979dd	خريطة العالم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13556	kh3_map.wm	world_dh	2ab3bf27	محطة الاستيقاظ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13557	kh3_map.ts	ts_01	fbe125c3	بيت آندي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13558	kh3_map.ts	ts_02	e9548a2d	غالاكسي تويز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13559	kh3_map.ts	ts_02_0010	86f94efd	الرضع والأطفال الصغار: الدمى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13560	kh3_map.ts	ts_02_0020	0876491e	الرضع والأطفال الصغار: الهواء الطلق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13561	kh3_map.ts	ts_02_0030	c4dc4980	فتحات التهوية السفلية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13562	kh3_map.ts	ts_02_0040	ce194099	فتحات التهوية العلوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13563	kh3_map.ts	ts_02_0050	02b34007	مجسمات الشخصيات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13564	kh3_map.ts	ts_02_0060	8c3c47e4	ألعاب الفيديو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13565	kh3_map.ts	ts_02_0070	4096477a	كيد كورال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13566	kh3_map.ts	ts_02_0080	99b655d6	منطقة الاستراحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13567	kh3_map.ts	ts_02_0090	551c5548	الطابق الرئيسي: 1F	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13568	kh3_map.ts	ts_02_0100	d1f6020c	الطابق الرئيسي: 2F	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13569	kh3_map.ts	ts_02_0110	1d5c0292	الطابق الرئيسي: 3F	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13536	kh3_map.wm	world_bt	f6135e87	سكالا آد كايلوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13537	kh3_map.wm	world_db	450e5f43	بلدة الفجر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13538	kh3_map.wm	world_dw	22c9f8ee	عالم الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13539	kh3_map.wm	world_he	8f7672b5	أوليمبوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13540	kh3_map.wm	world_ts	d1105e92	صندوق الألعاب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13541	kh3_map.wm	world_ra	ed6fc801	مملكة كورونا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13542	kh3_map.wm	world_fz	9286274e	آرنديل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13543	kh3_map.wm	world_ca	5d7ef9b4	الكاريبي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13544	kh3_map.wm	world_po	4f95b84f	غابة المئة فدان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13545	kh3_map.wm	world_mi	8d40c369	مونستروبوليس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13546	kh3_map.wm	world_tt	4cc7662b	بلدة الشفق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13547	kh3_map.wm	world_yt	d7c273fa	البرج الغامض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13548	kh3_map.wm	world_kg	abf0bddd	مقبرة الكيبلايد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13549	kh3_map.wm	world_bx	bcc5e13f	سان فرانسوكيو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13550	kh3_map.wm	world_co	bda18e87	قلعة النسيان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13551	kh3_map.wm	world_ew	ee63f870	العالم الأخير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13552	kh3_map.wm	world_di	920fd842	جزر المصير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13553	kh3_map.wm	world_rg	c80497dd	الحديقة المضيئة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13554	kh3_map.wm	world_dp	bf1ec057	أرض الانطلاق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13555	kh3_map.wm	world_wm	ef5979dd	خريطة العالم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13556	kh3_map.wm	world_dh	2ab3bf27	محطة الاستيقاظ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13557	kh3_map.ts	ts_01	fbe125c3	بيت آندي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13558	kh3_map.ts	ts_02	e9548a2d	غالاكسي تويز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13559	kh3_map.ts	ts_02_0010	86f94efd	الرضع والأطفال الصغار: الدمى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13560	kh3_map.ts	ts_02_0020	0876491e	الرضع والأطفال الصغار: الهواء الطلق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13561	kh3_map.ts	ts_02_0030	c4dc4980	فتحات التهوية السفلية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13562	kh3_map.ts	ts_02_0040	ce194099	فتحات التهوية العلوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13563	kh3_map.ts	ts_02_0050	02b34007	مجسمات الشخصيات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13564	kh3_map.ts	ts_02_0060	8c3c47e4	ألعاب الفيديو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13565	kh3_map.ts	ts_02_0070	4096477a	كيد كورال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13566	kh3_map.ts	ts_02_0080	99b655d6	منطقة الاستراحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13567	kh3_map.ts	ts_02_0090	551c5548	الطابق الرئيسي: 1F	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13568	kh3_map.ts	ts_02_0100	d1f6020c	الطابق الرئيسي: 2F	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13569	kh3_map.ts	ts_02_0110	1d5c0292	الطابق الرئيسي: 3F	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13570	kh3_map.ts	ts_02_0010_e	99bd3b6e		todo	skip: empty
 13571	kh3_map.ts	ts_02_0020_e	b0758f9c		todo	skip: empty
 13572	kh3_map.ts	ts_02_0030_e	1e1d1e0d		todo	skip: empty
@@ -44,23 +44,23 @@ id	namespace	key	source_hash	AR	status	note
 13578	kh3_map.ts	ts_02_0090_e	eaaea421		todo	skip: empty
 13579	kh3_map.ts	ts_02_0100_e	52b291b9		todo	skip: empty
 13580	kh3_map.ts	ts_02_0110_e	fcda0028		todo	skip: empty
-13581	kh3_map.he	he_01	7da7e477	عالم الآلهة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13582	kh3_map.he	he_02	6f124b99	جبل أوليمبوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13583	kh3_map.he	he_03	d7ae2cfc	طيبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13584	kh3_map.he	he_01_0010	a873b3ab	الفناء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13585	kh3_map.he	he_01_0020	26fcb448	الممرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13586	kh3_map.he	he_01_0030	ea56b4d6	المسبك المعزول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13587	kh3_map.he	he_01_0040	e093bdcf	حافة السحاب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13588	kh3_map.he	he_01_0050	2c39bd51	القمة العليا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13589	kh3_map.he	he_02_0010	f06d1a83	الأخدود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13590	kh3_map.he	he_02_0020	7ee21d60	صعود الجرف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13591	kh3_map.he	he_02_0030	b2481dfe	سفح الجبل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13592	kh3_map.he	he_02_0040	b88d14e7	القمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13593	kh3_map.he	he_03_0010	71487fa4	الأغورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13594	kh3_map.he	he_03_0020	ffc77847	الحدائق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13595	kh3_map.he	he_03_0030	336d78d9	الإطلالة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13596	kh3_map.he	he_03_0040	39a871c0	الزيتونة الكبيرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13597	kh3_map.he	he_03_0050	f502715e	الزقاق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13581	kh3_map.he	he_01	7da7e477	عالم الآلهة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13582	kh3_map.he	he_02	6f124b99	جبل أوليمبوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13583	kh3_map.he	he_03	d7ae2cfc	طيبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13584	kh3_map.he	he_01_0010	a873b3ab	الفناء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13585	kh3_map.he	he_01_0020	26fcb448	الممرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13586	kh3_map.he	he_01_0030	ea56b4d6	المسبك المعزول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13587	kh3_map.he	he_01_0040	e093bdcf	حافة السحاب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13588	kh3_map.he	he_01_0050	2c39bd51	القمة العليا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13589	kh3_map.he	he_02_0010	f06d1a83	الأخدود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13590	kh3_map.he	he_02_0020	7ee21d60	صعود الجرف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13591	kh3_map.he	he_02_0030	b2481dfe	سفح الجبل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13592	kh3_map.he	he_02_0040	b88d14e7	القمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13593	kh3_map.he	he_03_0010	71487fa4	الأغورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13594	kh3_map.he	he_03_0020	ffc77847	الحدائق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13595	kh3_map.he	he_03_0030	336d78d9	الإطلالة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13596	kh3_map.he	he_03_0040	39a871c0	الزيتونة الكبيرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13597	kh3_map.he	he_03_0050	f502715e	الزقاق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13598	kh3_map.he	he_01_0010_e	ce873ced		todo	skip: empty
 13599	kh3_map.he	he_01_0020_e	e74f881f		todo	skip: empty
 13600	kh3_map.he	he_01_0030_e	4927198e		todo	skip: empty
@@ -75,17 +75,17 @@ id	namespace	key	source_hash	AR	status	note
 13609	kh3_map.he	he_03_0030_e	71e2149b		todo	skip: empty
 13610	kh3_map.he	he_03_0040_e	8c1becee		todo	skip: empty
 13611	kh3_map.he	he_03_0050_e	22737d7f		todo	skip: empty
-13612	kh3_map.ra	ra_01	1e45a3eb	الغابة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13613	kh3_map.ra	ra_02	0cf00c05	المملكة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13614	kh3_map.ra	ra_01_0010	9b4f4bf2	البرج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13615	kh3_map.ra	ra_01_0020	15c04c11	التلال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13616	kh3_map.ra	ra_01_0030	d96a4c8f	المستنقع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13617	kh3_map.ra	ra_01_0040	d3af4596	موقع التخييم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13618	kh3_map.ra	ra_01_0050	1f054508	الأراضي الرطبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13619	kh3_map.ra	ra_01_0060	918a42eb	مرج الأزهار البرية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13620	kh3_map.ra	ra_01_0070	5d204275	الشاطئ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13621	kh3_map.ra	ra_02_0010	c351e2da	الطريق العام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13622	kh3_map.ra	ra_02_0020	4ddee539	الرصيف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13612	kh3_map.ra	ra_01	1e45a3eb	الغابة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13613	kh3_map.ra	ra_02	0cf00c05	المملكة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13614	kh3_map.ra	ra_01_0010	9b4f4bf2	البرج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13615	kh3_map.ra	ra_01_0020	15c04c11	التلال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13616	kh3_map.ra	ra_01_0030	d96a4c8f	المستنقع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13617	kh3_map.ra	ra_01_0040	d3af4596	موقع التخييم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13618	kh3_map.ra	ra_01_0050	1f054508	الأراضي الرطبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13619	kh3_map.ra	ra_01_0060	918a42eb	مرج الأزهار البرية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13620	kh3_map.ra	ra_01_0070	5d204275	الشاطئ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13621	kh3_map.ra	ra_02_0010	c351e2da	الطريق العام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13622	kh3_map.ra	ra_02_0020	4ddee539	الرصيف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13623	kh3_map.ra	ra_01_0010_e	4646a53e		todo	skip: empty
 13624	kh3_map.ra	ra_01_0020_e	6f8e11cc		todo	skip: empty
 13625	kh3_map.ra	ra_01_0030_e	c1e6805d		todo	skip: empty
@@ -95,20 +95,20 @@ id	namespace	key	source_hash	AR	status	note
 13629	kh3_map.ra	ra_01_0070_e	15d7ccda		todo	skip: empty
 13630	kh3_map.ra	ra_02_0010_e	8f59ad81		todo	skip: empty
 13631	kh3_map.ra	ra_02_0020_e	a6911973		todo	skip: empty
-13632	kh3_map.fz	fz_01	0c92f6b4	الجبل الشمالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13633	kh3_map.fz	fz_02	1e27595a	متاهة الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13634	kh3_map.fz	fz_01_0010	4a28a35f	حافة الجبل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13635	kh3_map.fz	fz_01_0020	c4a7a4bc	قصر الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13636	kh3_map.fz	fz_01_0030	080da422	غابة الأشجار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13637	kh3_map.fz	fz_01_0040	02c8ad3b	المضيق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13638	kh3_map.fz	fz_01_0050	ce62ada5	وادي الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13639	kh3_map.fz	fz_01_0060	40edaa46	الجدار المتجمد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13640	kh3_map.fz	fz_01_0070	8c47aad8	حقل الثلج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13641	kh3_map.fz	fz_01_0080	5567b874	الفيورد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13642	kh3_map.fz	fz_02_0010	12360a77	المستوى السفلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13643	kh3_map.fz	fz_02_0020	9cb90d94	المستوى الأوسط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13644	kh3_map.fz	fz_02_0030	50130d0a	المستوى العلوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13645	kh3_map.fz	fz_05_0010	232e3d00	السفوح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13632	kh3_map.fz	fz_01	0c92f6b4	الجبل الشمالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13633	kh3_map.fz	fz_02	1e27595a	متاهة الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13634	kh3_map.fz	fz_01_0010	4a28a35f	حافة الجبل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13635	kh3_map.fz	fz_01_0020	c4a7a4bc	قصر الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13636	kh3_map.fz	fz_01_0030	080da422	غابة الأشجار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13637	kh3_map.fz	fz_01_0040	02c8ad3b	المضيق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13638	kh3_map.fz	fz_01_0050	ce62ada5	وادي الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13639	kh3_map.fz	fz_01_0060	40edaa46	الجدار المتجمد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13640	kh3_map.fz	fz_01_0070	8c47aad8	حقل الثلج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13641	kh3_map.fz	fz_01_0080	5567b874	الفيورد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13642	kh3_map.fz	fz_02_0010	12360a77	المستوى السفلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13643	kh3_map.fz	fz_02_0020	9cb90d94	المستوى الأوسط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13644	kh3_map.fz	fz_02_0030	50130d0a	المستوى العلوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13645	kh3_map.fz	fz_05_0010	232e3d00	السفوح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13646	kh3_map.fz	fz_01_0010_e	e625d618		todo	skip: empty
 13647	kh3_map.fz	fz_01_0020_e	cfed62ea		todo	skip: empty
 13648	kh3_map.fz	fz_01_0030_e	6185f37b		todo	skip: empty
@@ -121,21 +121,21 @@ id	namespace	key	source_hash	AR	status	note
 13655	kh3_map.fz	fz_02_0020_e	06f26a55		todo	skip: empty
 13656	kh3_map.fz	fz_02_0030_e	a89afbc4		todo	skip: empty
 13657	kh3_map.fz	fz_05_0010_e	97afcc32		todo	skip: empty
-13658	kh3_map.mi	mi_01	f10fe7a0	شركة المرعبين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13659	kh3_map.mi	mi_02	e3ba484e	المصنع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13660	kh3_map.mi	mi_03	5b062f2b	محطة الطاقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13661	kh3_map.mi	mi_04	c6d11792	خزنة الأبواب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13662	kh3_map.mi	mi_01_0010	9f468b8a	الردهة والمكاتب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13663	kh3_map.mi	mi_01_0020	11c98c69	طابق الضحك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13664	kh3_map.mi	mi_02_0010	c75822a2	القبو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13665	kh3_map.mi	mi_02_0020	49d72541	الطابق الأرضي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13666	kh3_map.mi	mi_02_0030	857d25df	الطابق الثاني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13667	kh3_map.mi	mi_03_0010	467d4785	ممر الوصول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13668	kh3_map.mi	mi_03_0020	c8f24066	ساحة الخزانات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13669	kh3_map.mi	mi_03_0030	045840f8	ممر الخزنة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13670	kh3_map.mi	mi_04_0010	776570f2	المستوى العلوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13671	kh3_map.mi	mi_04_0020	f9ea7711	المستوى السفلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13672	kh3_map.mi	mi_04_0030	3540778f	منطقة الخدمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13658	kh3_map.mi	mi_01	f10fe7a0	شركة المرعبين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13659	kh3_map.mi	mi_02	e3ba484e	المصنع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13660	kh3_map.mi	mi_03	5b062f2b	محطة الطاقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13661	kh3_map.mi	mi_04	c6d11792	خزنة الأبواب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13662	kh3_map.mi	mi_01_0010	9f468b8a	الردهة والمكاتب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13663	kh3_map.mi	mi_01_0020	11c98c69	طابق الضحك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13664	kh3_map.mi	mi_02_0010	c75822a2	القبو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13665	kh3_map.mi	mi_02_0020	49d72541	الطابق الأرضي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13666	kh3_map.mi	mi_02_0030	857d25df	الطابق الثاني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13667	kh3_map.mi	mi_03_0010	467d4785	ممر الوصول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13668	kh3_map.mi	mi_03_0020	c8f24066	ساحة الخزانات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13669	kh3_map.mi	mi_03_0030	045840f8	ممر الخزنة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13670	kh3_map.mi	mi_04_0010	776570f2	المستوى العلوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13671	kh3_map.mi	mi_04_0020	f9ea7711	المستوى السفلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13672	kh3_map.mi	mi_04_0030	3540778f	منطقة الخدمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13673	kh3_map.mi	mi_01_0010_e	27614798		todo	skip: empty
 13674	kh3_map.mi	mi_01_0020_e	0ea9f36a		todo	skip: empty
 13675	kh3_map.mi	mi_02_0010_e	ee7e4f27		todo	skip: empty
@@ -147,30 +147,30 @@ id	namespace	key	source_hash	AR	status	note
 13681	kh3_map.mi	mi_04_0010_e	a7315818		todo	skip: empty
 13682	kh3_map.mi	mi_04_0020_e	8ef9ecea		todo	skip: empty
 13683	kh3_map.mi	mi_04_0030_e	20917d7b		todo	skip: empty
-13684	kh3_map.ca	ca_01	9be43388	ميناء رويال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13685	kh3_map.ca	ca_02	89519c66	أعالي البحار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13686	kh3_map.ca	ca_04	ac3ac3ba	خزانة ديفي جونز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13687	kh3_map.ca	ca_05	1486a4df	عبر الحافة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13688	kh3_map.ca	ca_01_0010	c0ecda4b	الأرصفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13689	kh3_map.ca	ca_01_0020	4e63dda8	الميناء البحري	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13690	kh3_map.ca	ca_01_0030	82c9dd36	الحصن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13691	kh3_map.ca	ca_01_0040	880cd42f	المستوطنة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13692	kh3_map.ca	ca_01_0050	44a6d4b1	ممر الرصيف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13693	kh3_map.ca	ca_02_0010	98f27363	مياه ميناء رويال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13694	kh3_map.ca	ca_02_0020	167d7480	المياه الشمالية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13695	kh3_map.ca	ca_02_0030	dad7741e	المياه الجنوبية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13696	kh3_map.ca	ca_02_0040	d0127d07	الجزر المتكتلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13697	kh3_map.ca	ca_02_0050	1cb87d99	الكهف تحت البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13698	kh3_map.ca	ca_02_0060	92377a7a	جزيرة الحاجز الرملي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13699	kh3_map.ca	ca_02_0070	5e9d7ae4	الجزيرة المهجورة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13700	kh3_map.ca	ca_02_0080	87bd6848	إيسلا فيردي مونتانيا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13701	kh3_map.ca	ca_02_0090	4b1768d6	إيسلا دي لوس ماستيلس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13702	kh3_map.ca	ca_02_0100	cffd3f92	نهاية السفينة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13703	kh3_map.ca	ca_02_0110	03573f0c	جزيرة المنفى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13704	kh3_map.ca	ca_02_0120	8dd838ef	جزيرة الحبس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13705	kh3_map.ca	ca_02_0130	41723871	جزيرة حدوة الحصان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13706	kh3_map.ca	ca_02_0140	4bb73168	جزيرة الحظ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13707	kh3_map.ca	ca_02_0150	871d31f6	بوابة الندم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13684	kh3_map.ca	ca_01	9be43388	ميناء رويال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13685	kh3_map.ca	ca_02	89519c66	أعالي البحار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13686	kh3_map.ca	ca_04	ac3ac3ba	خزانة ديفي جونز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13687	kh3_map.ca	ca_05	1486a4df	عبر الحافة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13688	kh3_map.ca	ca_01_0010	c0ecda4b	الأرصفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13689	kh3_map.ca	ca_01_0020	4e63dda8	الميناء البحري	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13690	kh3_map.ca	ca_01_0030	82c9dd36	الحصن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13691	kh3_map.ca	ca_01_0040	880cd42f	المستوطنة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13692	kh3_map.ca	ca_01_0050	44a6d4b1	ممر الرصيف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13693	kh3_map.ca	ca_02_0010	98f27363	مياه ميناء رويال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13694	kh3_map.ca	ca_02_0020	167d7480	المياه الشمالية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13695	kh3_map.ca	ca_02_0030	dad7741e	المياه الجنوبية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13696	kh3_map.ca	ca_02_0040	d0127d07	الجزر المتكتلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13697	kh3_map.ca	ca_02_0050	1cb87d99	الكهف تحت البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13698	kh3_map.ca	ca_02_0060	92377a7a	جزيرة الحاجز الرملي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13699	kh3_map.ca	ca_02_0070	5e9d7ae4	الجزيرة المهجورة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13700	kh3_map.ca	ca_02_0080	87bd6848	إيسلا فيردي مونتانيا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13701	kh3_map.ca	ca_02_0090	4b1768d6	إيسلا دي لوس ماستيلس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13702	kh3_map.ca	ca_02_0100	cffd3f92	نهاية السفينة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13703	kh3_map.ca	ca_02_0110	03573f0c	جزيرة المنفى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13704	kh3_map.ca	ca_02_0120	8dd838ef	جزيرة الحبس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13705	kh3_map.ca	ca_02_0130	41723871	جزيرة حدوة الحصان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13706	kh3_map.ca	ca_02_0140	4bb73168	جزيرة الحظ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13707	kh3_map.ca	ca_02_0150	871d31f6	بوابة الندم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13708	kh3_map.ca	ca_01_0010_e	160b88a0		todo	skip: empty
 13709	kh3_map.ca	ca_01_0020_e	3fc33c52		todo	skip: empty
 13710	kh3_map.ca	ca_01_0030_e	91abadc3		todo	skip: empty
@@ -191,44 +191,44 @@ id	namespace	key	source_hash	AR	status	note
 13725	kh3_map.ca	ca_02_0130_e	3dd39e3a		todo	skip: empty
 13726	kh3_map.ca	ca_02_0140_e	c02a664f		todo	skip: empty
 13727	kh3_map.ca	ca_02_0150_e	6e42f7de		todo	skip: empty
-13728	kh3_map.tt	tt_01	0618ddb6	الحي السكني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13729	kh3_map.tt	tt_01_0010	8257c4bc	ساحة الترام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13730	kh3_map.tt	tt_01_0020	0cd8c35f	القناة تحت الأرض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13731	kh3_map.tt	tt_01_0030	c072c3c1	الغابات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13732	kh3_map.tt	tt_01_0040	cab7cad8	القصر القديم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13728	kh3_map.tt	tt_01	0618ddb6	الحي السكني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13729	kh3_map.tt	tt_01_0010	8257c4bc	ساحة الترام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13730	kh3_map.tt	tt_01_0020	0cd8c35f	القناة تحت الأرض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13731	kh3_map.tt	tt_01_0030	c072c3c1	الغابات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13732	kh3_map.tt	tt_01_0040	cab7cad8	القصر القديم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13733	kh3_map.tt	tt_01_0010_e	867a9aff		todo	skip: empty
 13734	kh3_map.tt	tt_01_0020_e	afb22e0d		todo	skip: empty
 13735	kh3_map.tt	tt_01_0030_e	01dabf9c		todo	skip: empty
 13736	kh3_map.tt	tt_01_0040_e	fc2347e9		todo	skip: empty
-13737	kh3_map.bx	bx_01	c5df388e	الجسر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13738	kh3_map.bx	bx_02	d76a9760	المدينة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13739	kh3_map.bx	bx_03	6fd6f005	مرآب هيرو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13740	kh3_map.bx	bx_02_0010	3327e6c3	الحي الشمالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13741	kh3_map.bx	bx_02_0020	bda8e120	الحي الأوسط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13742	kh3_map.bx	bx_02_0030	7102e1be	الحي الجنوبي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13743	kh3_map.bx	bx_02_0110	a882aaac	الحي الشمالي: نهارا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13744	kh3_map.bx	bx_02_0115	9f5c5a9e	الحي الشمالي: ليلا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13745	kh3_map.bx	bx_02_0120	260dad4f	الحي الأوسط: نهارا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13746	kh3_map.bx	bx_02_0125	11d35d7d	الحي الأوسط: ليلا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13747	kh3_map.bx	bx_02_0130	eaa7add1	الحي الجنوبي: نهارا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13748	kh3_map.bx	bx_02_0135	dd795de3	الحي الجنوبي: ليلا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13737	kh3_map.bx	bx_01	c5df388e	الجسر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13738	kh3_map.bx	bx_02	d76a9760	المدينة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13739	kh3_map.bx	bx_03	6fd6f005	مرآب هيرو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13740	kh3_map.bx	bx_02_0010	3327e6c3	الحي الشمالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13741	kh3_map.bx	bx_02_0020	bda8e120	الحي الأوسط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13742	kh3_map.bx	bx_02_0030	7102e1be	الحي الجنوبي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13743	kh3_map.bx	bx_02_0110	a882aaac	الحي الشمالي: نهارا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13744	kh3_map.bx	bx_02_0115	9f5c5a9e	الحي الشمالي: ليلا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13745	kh3_map.bx	bx_02_0120	260dad4f	الحي الأوسط: نهارا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13746	kh3_map.bx	bx_02_0125	11d35d7d	الحي الأوسط: ليلا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13747	kh3_map.bx	bx_02_0130	eaa7add1	الحي الجنوبي: نهارا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13748	kh3_map.bx	bx_02_0135	dd795de3	الحي الجنوبي: ليلا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13749	kh3_map.bx	bx_02_0010_e	8dad1d13		todo	skip: empty
 13750	kh3_map.bx	bx_02_0020_e	a465a9e1		todo	skip: empty
 13751	kh3_map.bx	bx_02_0030_e	0a0d3870		todo	skip: empty
-13752	kh3_map.dp	dp_01	32ef3a14	أرض الانطلاق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13753	kh3_map.dw	dw_01	cf16c261	عالم الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13754	kh3_map.ew	ew_01	aa71f927	العالم الأخير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13755	kh3_map.po	po_01	f40923cc	بيت الأرنب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13756	kh3_map.kg	kg_01	55ae8cde	الأراضي القاحلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13757	kh3_map.kg	kg_02	471b2330	خصلة الانفصال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13758	kh3_map.kg	kg_02_0010	2b410560	درب الوداع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13759	kh3_map.kg	kg_02_0020	a5ce0283	التواء العزلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13760	kh3_map.kg	kg_02_0030	6964021d	برج النهايات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13752	kh3_map.dp	dp_01	32ef3a14	أرض الانطلاق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13753	kh3_map.dw	dw_01	cf16c261	عالم الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13754	kh3_map.ew	ew_01	aa71f927	العالم الأخير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13755	kh3_map.po	po_01	f40923cc	بيت الأرنب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13756	kh3_map.kg	kg_01	55ae8cde	الأراضي القاحلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13757	kh3_map.kg	kg_02	471b2330	خصلة الانفصال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13758	kh3_map.kg	kg_02_0010	2b410560	درب الوداع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13759	kh3_map.kg	kg_02_0020	a5ce0283	التواء العزلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13760	kh3_map.kg	kg_02_0030	6964021d	برج النهايات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13761	kh3_map.kg	kg_02_0010_e	151a71f2		todo	skip: empty
 13762	kh3_map.kg	kg_02_0020_e	3cd2c500		todo	skip: empty
 13763	kh3_map.kg	kg_02_0030_e	92ba5491		todo	skip: empty
-13764	kh3_map.bt	bt_01	62fdeb46	درج السماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13765	kh3_map.bt	bt_07	4796b49a	حي النسيم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13766	kh3_map.rg	rg_01	4dd4ca0f	بيت ميرلين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-13767	kh3_map.rg	rg_03	e7dd0284	حديقة التجمع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13764	kh3_map.bt	bt_01	62fdeb46	درج السماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13765	kh3_map.bt	bt_07	4796b49a	حي النسيم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13766	kh3_map.rg	rg_01	4dd4ca0f	بيت ميرلين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13767	kh3_map.rg	rg_03	e7dd0284	حديقة التجمع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13768	kh3_map.ex	unknown	5ea8da18		todo	skip: no Latin letters (native script / symbols)

@@ -1,19 +1,19 @@
 id	namespace	key	source_hash	AR	status	note
-02134	kh3_event_dp_dlc.dp072a	dp0720010te0	43d488aa	حسنا، انظر إليك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02135	kh3_event_dp_dlc.dp072a	dp0720020rk0	16ca72b2	شكرا. وفيت أخيرا بوعدي لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02136	kh3_event_dp_dlc.dp072a	dp0720030te0_1	b450788c	نعم، وفيت. لم يبق عندي ما أعلمك إياه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02137	kh3_event_dp_dlc.dp072a	dp0720030te0_2	a6e5d762	أنت معلم الكيبلايد حقا، وفوق ذلك<br>قائد عظيم لمن حولك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02138	kh3_event_dp_dlc.dp072a	dp0720030te0_3	1e59b007	حتى إنك وجدت القوة لإنقاذ أصدقائك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02139	kh3_event_dp_dlc.dp072a	dp0720040rk0	92e9ef67	هذا لا يكفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02140	kh3_event_dp_dlc.dp072a	dp0720060te0_1	b33271e5	مجرد أنك استطعت شق طريقك<br>إلى هنا يثبت مدى قوتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02141	kh3_event_dp_dlc.dp072a	dp0720060te0_2	a187de0b	لهذا السبب استدعيتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02142	kh3_event_dp_dlc.dp072a	dp0720070rk0	3d40a2ad	هذا هو السبب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02143	kh3_event_dp_dlc.dp072a	dp0720080te0	bb68655e	هل توقعت أكثر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02144	kh3_event_dp_dlc.dp072a	dp0720090rk0	24b8e9ca	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02145	kh3_event_dp_dlc.dp072a	dp0720130vn0	b96e19c8	مهلا، ما المضحك بينكما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02146	kh3_event_dp_dlc.dp072a	dp0720140te0	e97b3d92	إنه سر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02147	kh3_event_dp_dlc.dp072a	dp0720150vn0	3d4d841d	أوه، هيا، أخبرني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02148	kh3_event_dp_dlc.dp072a	dp0720170rk0	bc65c78a	هل أنت متأكدة من هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02149	kh3_event_dp_dlc.dp072a	dp0720180aq0_1	b3a19bca	نعم، لكن لا تقلق،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02150	kh3_event_dp_dlc.dp072a	dp0720180aq0_2	a1143424	لست وحدي هذه المرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02151	kh3_event_dp_dlc.dp072a	dp0720220rk0	cff1bebd	حظا موفقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02134	kh3_event_dp_dlc.dp072a	dp0720010te0	43d488aa	حسنا، انظر إليك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02135	kh3_event_dp_dlc.dp072a	dp0720020rk0	16ca72b2	شكرا. وفيت أخيرا بوعدي لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02136	kh3_event_dp_dlc.dp072a	dp0720030te0_1	b450788c	نعم، وفيت. لم يبق عندي ما أعلمك إياه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02137	kh3_event_dp_dlc.dp072a	dp0720030te0_2	a6e5d762	أنت معلم الكيبلايد حقا، وفوق ذلك<br>قائد عظيم لمن حولك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02138	kh3_event_dp_dlc.dp072a	dp0720030te0_3	1e59b007	حتى إنك وجدت القوة لإنقاذ أصدقائك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02139	kh3_event_dp_dlc.dp072a	dp0720040rk0	92e9ef67	هذا لا يكفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02140	kh3_event_dp_dlc.dp072a	dp0720060te0_1	b33271e5	مجرد أنك استطعت شق طريقك<br>إلى هنا يثبت مدى قوتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02141	kh3_event_dp_dlc.dp072a	dp0720060te0_2	a187de0b	لهذا السبب استدعيتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02142	kh3_event_dp_dlc.dp072a	dp0720070rk0	3d40a2ad	هذا هو السبب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02143	kh3_event_dp_dlc.dp072a	dp0720080te0	bb68655e	هل توقعت أكثر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02144	kh3_event_dp_dlc.dp072a	dp0720090rk0	24b8e9ca	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02145	kh3_event_dp_dlc.dp072a	dp0720130vn0	b96e19c8	مهلا، ما المضحك بينكما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02146	kh3_event_dp_dlc.dp072a	dp0720140te0	e97b3d92	إنه سر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02147	kh3_event_dp_dlc.dp072a	dp0720150vn0	3d4d841d	أوه، هيا، أخبرني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02148	kh3_event_dp_dlc.dp072a	dp0720170rk0	bc65c78a	هل أنت متأكدة من هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02149	kh3_event_dp_dlc.dp072a	dp0720180aq0_1	b3a19bca	نعم، لكن لا تقلق،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02150	kh3_event_dp_dlc.dp072a	dp0720180aq0_2	a1143424	لست وحدي هذه المرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02151	kh3_event_dp_dlc.dp072a	dp0720220rk0	cff1bebd	حظا موفقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

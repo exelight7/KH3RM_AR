@@ -3,6 +3,8 @@
 **Every round must update `PROJECT_MAP.md` sections 3, 4 and 8 before stopping.**
 **Every round must end with `tools\publish.bat` after `refresh.bat` and `secret_check`; PROJECT_MAP sections 3, 4, 7, 8 must be updated BEFORE publishing; a new Release is created only when a new BUILD is installed AND at least its checklist screenshots were reviewed by the supervisor.**
 
+**Cloud review (CLOUD-PREP): private repo `KH3RM_AR_work` holds the EN+AR workspace for cloud Claude sessions (second pass of all dialogue and subtitles). Cloud sessions obey `CLOUD_RULES.md`, write corrections only to `review\corrections\cloud\<page>.tsv`, and never push to main. The public repo `KH3RM_AR` stays Arabic-only; 1.0.0 is LOCKED until (a) the cloud second-pass review is merged, (b) the image phase is done, (c) the user says go. Sync: `tools\sync_cloud.bat` (see `docs\CLOUD_WORKFLOW.md`).**
+
 1. Run `tools\refresh.bat`; open `review\INDEX.md`, pick a category page in `review\md\` (300 rows per page). `review\FLAGS.md` lists only rows with validator flags.
 2. Read EN (left) and AR (right). ERR flags must be fixed; WARN flags need a look.
 3. Spelling/wording fixes go in a corrections file, never by editing the review pages:

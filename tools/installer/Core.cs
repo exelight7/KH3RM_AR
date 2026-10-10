@@ -10,9 +10,9 @@ namespace Kh3rmAr;
 /// <summary>Everything that touches the disk. No UI, so SelfTest can run it on fake folder trees.</summary>
 public static class Core
 {
-    public const string Version = "0.8.1";
+    public const string Version = "0.8.2";
     public const string PakName = "pakchunk99-arabic_P.pak";
-    public const string ExpectedSha = "f6e8be85feae061c120674adccfcacd847727c51ef5952aa3b5594898a6e8ae3"; // BUILD-6
+    public const string ExpectedSha = "f9e23f373ce52a5e9c6690d264b7228d43d0e28aa55d9d76386514db511e82d7"; // BUILD-7
     public const string SteamAppId = "2552450";
     public const string ProcPrefix = "KINGDOM HEARTS III";
 

@@ -1,14 +1,14 @@
 id	namespace	key	source_hash	AR	status	note
-00702	kh3_epic.presence	rich_text_0010	65e24e40	أنا ألعب الآن!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00703	kh3_epic.presence	rich_text_0020	eb6d49a3	أنا في أوليمبوس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00704	kh3_epic.presence	rich_text_0030	27c7493d	أنا في بلدة الشفق!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00705	kh3_epic.presence	rich_text_0040	2d024024	أنا في صندوق الألعاب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00706	kh3_epic.presence	rich_text_0050	e1a840ba	أنا في مملكة كورونا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00707	kh3_epic.presence	rich_text_0060	6f274759	أنا في مونستروبوليس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00708	kh3_epic.presence	rich_text_0070	a38d47c7	أنا في آرنديل!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00709	kh3_epic.presence	rich_text_0080	7aad556b	أنا في سان فرانسوكيو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00710	kh3_epic.presence	rich_text_0090	b60755f5	أنا في الكاريبي!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00711	kh3_epic.presence	rich_text_0100	32ed02b1	أنا في مقبرة الكيبلايد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00712	kh3_epic.presence	rich_text_0110	fe47022f	أنا في غابة المئة فدان!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00713	kh3_epic.presence	rich_text_0120	70c805cc	أنا في سكالا آد كايلوم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
-00714	kh3_epic.presence	rich_text_0130	bc620552	أنا ألعب كينغدوم هارتس Ⅲ Re Mind!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00702	kh3_epic.presence	rich_text_0010	65e24e40	أنا ألعب الآن!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00703	kh3_epic.presence	rich_text_0020	eb6d49a3	أنا في أوليمبوس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00704	kh3_epic.presence	rich_text_0030	27c7493d	أنا في بلدة الشفق!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00705	kh3_epic.presence	rich_text_0040	2d024024	أنا في صندوق الألعاب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00706	kh3_epic.presence	rich_text_0050	e1a840ba	أنا في مملكة كورونا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00707	kh3_epic.presence	rich_text_0060	6f274759	أنا في مونستروبوليس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00708	kh3_epic.presence	rich_text_0070	a38d47c7	أنا في آرنديل!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00709	kh3_epic.presence	rich_text_0080	7aad556b	أنا في سان فرانسوكيو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00710	kh3_epic.presence	rich_text_0090	b60755f5	أنا في الكاريبي!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00711	kh3_epic.presence	rich_text_0100	32ed02b1	أنا في مقبرة الكيبلايد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00712	kh3_epic.presence	rich_text_0110	fe47022f	أنا في غابة المئة فدان!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00713	kh3_epic.presence	rich_text_0120	70c805cc	أنا في سكالا آد كايلوم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+00714	kh3_epic.presence	rich_text_0130	bc620552	أنا ألعب كينغدوم هارتس Ⅲ Re Mind!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

@@ -1,171 +1,171 @@
 id	namespace	key	source_hash	AR	status	note
-02314	kh3_event_ew.ew751a	ew7510030sr0	a2273eea	أين أنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02314	kh3_event_ew.ew751a	ew7510030sr0	a2273eea	أين أنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02315	kh3_event_ew.ew751a	ew_worldname	66e7c765		todo	
-02316	kh3_event_ew.ew752a	ew7520010cs0	6144adbb	لا تستطيع الابتعاد، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02317	kh3_event_ew.ew752a	ew7520030sr0	6b383655	مرحبا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02318	kh3_event_ew.ew752a	ew7520050cs0	2fa946e2	اسمي تشيريثي. وهذا هو العالم الأخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02319	kh3_event_ew.ew752a	ew7520060sr0	40b2e64a	أنا سورا. ما هو... "العالم الأخير"?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02320	kh3_event_ew.ew752a	ew7520070cs0_1	3974c151	لا شيء آخر بعد هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02321	kh3_event_ew.ew752a	ew7520070cs0_2	2bc16ebf	لقد تجولت هنا أكثر من مرة<br>في زياراتك لمحطة الاستيقاظ،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02322	kh3_event_ew.ew752a	ew7520070cs0_3	937d09da	لكنني... تغاضيت عن ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02323	kh3_event_ew.ew752a	ew7520070cs0_4	0eaa3163	حواف النوم والموت تتلامس،<br>ولا مفر من العبور بينهما أحيانا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02324	kh3_event_ew.ew752a	ew7520080sr0	594aad2d	مهلا، "الموت"?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02325	kh3_event_ew.ew752a	ew7520090cs0	fc9f7b09	نعم. النهاية الطبيعية لمن<br>تفنى قلوبهم وأجسادهم معا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02326	kh3_event_ew.ew752a	ew7520090cs0b	d715004d	لكن بعضهم يصمد، ويصل إلى هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02327	kh3_event_ew.ew752a	ew7520100sr0_1	82090d1c	قلبي وجسدي فنيا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02328	kh3_event_ew.ew752a	ew7520100sr0_2	90bca2f2	امم، هل يعني ذلك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02329	kh3_event_ew.ew752a	ew7520110cs0_1	cd12cab5	شيء ما يبقيك هنا—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02330	kh3_event_ew.ew752a	ew7520110cs0_2	dfa7655b	ويرفض أن يدعك تذهب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02331	kh3_event_ew.ew752a	ew7520110cs0_3	671b023e	أنت معلق بخيط رفيع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02332	kh3_event_ew.ew752a	ew7520120sr0	8f7a6834	وماذا عن أصدقائي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02333	kh3_event_ew.ew752a	ew7520130cs0_1	ce79308f	أخشى أن أحدا لم يصل معك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02334	kh3_event_ew.ew752a	ew7520130cs0_2	dccc9f61	وإن لم يكونوا هنا،<br>فإما أنهم رحلوا إلى الأبد،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02335	kh3_event_ew.ew752a	ew7520130cs0_3	6470f804	أو أنهم متشبثون بالعالم الذي جئت منه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02336	kh3_event_ew.ew752a	ew7520140sr0	0b59f5e1	سأعود!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02337	kh3_event_ew.ew752a	ew7520150cs0_1	cbc53ec1	مهلا، مهلا! كيف بالضبط?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02338	kh3_event_ew.ew752a	ew7520150cs0_2	d970912f	لا يمكنك الخروج ببساطة كما في زياراتك الأخرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02339	kh3_event_ew.ew752a	ew7520160sr0	c197836d	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02340	kh3_event_ew.ew752a	ew7520170cs0_1	c8aec4fb	قلت لك. في المرات الأخرى<br>جئت إلى هنا باختيارك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02341	kh3_event_ew.ew752a	ew7520170cs0_2	da1b6b15	هذه المرة مختلفة تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02342	kh3_event_ew.ew752a	ew7520170cs0_3	62a70c70	لكي تعود كما كنت<br>وترجع إلى العالم الحقيقي،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02343	kh3_event_ew.ew752a	ew7520170cs0_3b	90b49336	عليك أن تجمع نفسك من جديد<br>في هذا العالم أولا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02344	kh3_event_ew.ew752a	ew7520180sr0	d86fc80a	آه! لماذا أنا قطع?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02345	kh3_event_ew.ew752a	ew7520190cs0_1	c0bd225d	ماذا? لا، ليس حرفيا بالطبع.<br>أنت قطع من حيث المفهوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02346	kh3_event_ew.ew752a	ew7520190cs0_2	d2088db3	من الداخل، من يدري،<br>لكنك من الخارج سليم تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02347	kh3_event_ew.ew752a	ew7520200sr0	1daab790	آه، حسنا. لقد أفزعتني قليلا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02348	kh3_event_ew.ew752a	ew7520210cs0	b87f61b4	يا إلهي...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02349	kh3_event_ew.ew752a	ew7520220cs0_1	06d3c52d	عادة، لا يصل إلى العالم الأخير إلا القلب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02350	kh3_event_ew.ew752a	ew7520220cs0_2	14666ac3	لكن بما أنك احتفظت بوضوح<br>بشكل ما،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02351	kh3_event_ew.ew752a	ew7520220cs0_2b	b8aef7d6	فهذا لا يعني إلا أن جسدك<br>ألقي في هذا العالم أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02352	kh3_event_ew.ew752a	ew7520230sr0	b203fa5a	حسنا، إذن... إن وجدت جسدي،<br>فهل يعني ذلك أنني سأستطيع العودة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02353	kh3_event_ew.ew752a	ew7520240cs0_1	036fcb63	بالضبط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02354	kh3_event_ew.ew752a	ew7520240cs0_2	11da648d	لكن هناك الكثير منك لتجده.<br>ستكون مشغولا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02355	kh3_event_ew.ew753a	ew7530020sr0	ff8508b9	مرحبا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02356	kh3_event_ew.ew753a	ew7530030st0	5c8d3a78	طاب يومك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02357	kh3_event_ew.ew753a	ew7530040sr0	7ba6956c	رائع! أنت تستطيعين الكلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02358	kh3_event_ew.ew753a	ew7530050st0	d8aea7ad	تبدين كإنسانة. كيف<br>تحتفظين بمظهرك? هل أنت مميزة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02316	kh3_event_ew.ew752a	ew7520010cs0	6144adbb	لا تستطيع الابتعاد، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02317	kh3_event_ew.ew752a	ew7520030sr0	6b383655	مرحبا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02318	kh3_event_ew.ew752a	ew7520050cs0	2fa946e2	اسمي تشيريثي. وهذا هو العالم الأخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02319	kh3_event_ew.ew752a	ew7520060sr0	40b2e64a	أنا سورا. ما هو... "العالم الأخير"?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02320	kh3_event_ew.ew752a	ew7520070cs0_1	3974c151	لا شيء آخر بعد هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02321	kh3_event_ew.ew752a	ew7520070cs0_2	2bc16ebf	لقد تجولت هنا أكثر من مرة<br>في زياراتك لمحطة الاستيقاظ،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02322	kh3_event_ew.ew752a	ew7520070cs0_3	937d09da	لكنني... تغاضيت عن ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02323	kh3_event_ew.ew752a	ew7520070cs0_4	0eaa3163	حواف النوم والموت تتلامس،<br>ولا مفر من العبور بينهما أحيانا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02324	kh3_event_ew.ew752a	ew7520080sr0	594aad2d	مهلا، "الموت"?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02325	kh3_event_ew.ew752a	ew7520090cs0	fc9f7b09	نعم. النهاية الطبيعية لمن<br>تفنى قلوبهم وأجسادهم معا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02326	kh3_event_ew.ew752a	ew7520090cs0b	d715004d	لكن بعضهم يصمد، ويصل إلى هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02327	kh3_event_ew.ew752a	ew7520100sr0_1	82090d1c	قلبي وجسدي فنيا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02328	kh3_event_ew.ew752a	ew7520100sr0_2	90bca2f2	امم، هل يعني ذلك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02329	kh3_event_ew.ew752a	ew7520110cs0_1	cd12cab5	شيء ما يبقيك هنا—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02330	kh3_event_ew.ew752a	ew7520110cs0_2	dfa7655b	ويرفض أن يدعك تذهب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02331	kh3_event_ew.ew752a	ew7520110cs0_3	671b023e	أنت معلق بخيط رفيع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02332	kh3_event_ew.ew752a	ew7520120sr0	8f7a6834	وماذا عن أصدقائي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02333	kh3_event_ew.ew752a	ew7520130cs0_1	ce79308f	أخشى أن أحدا لم يصل معك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02334	kh3_event_ew.ew752a	ew7520130cs0_2	dccc9f61	وإن لم يكونوا هنا،<br>فإما أنهم رحلوا إلى الأبد،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02335	kh3_event_ew.ew752a	ew7520130cs0_3	6470f804	أو أنهم متشبثون بالعالم الذي جئت منه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02336	kh3_event_ew.ew752a	ew7520140sr0	0b59f5e1	سأعود!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02337	kh3_event_ew.ew752a	ew7520150cs0_1	cbc53ec1	مهلا، مهلا! كيف بالضبط?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02338	kh3_event_ew.ew752a	ew7520150cs0_2	d970912f	لا يمكنك الخروج ببساطة كما في زياراتك الأخرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02339	kh3_event_ew.ew752a	ew7520160sr0	c197836d	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02340	kh3_event_ew.ew752a	ew7520170cs0_1	c8aec4fb	قلت لك. في المرات الأخرى<br>جئت إلى هنا باختيارك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02341	kh3_event_ew.ew752a	ew7520170cs0_2	da1b6b15	هذه المرة مختلفة تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02342	kh3_event_ew.ew752a	ew7520170cs0_3	62a70c70	لكي تعود كما كنت<br>وترجع إلى العالم الحقيقي،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02343	kh3_event_ew.ew752a	ew7520170cs0_3b	90b49336	عليك أن تجمع نفسك من جديد<br>في هذا العالم أولا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02344	kh3_event_ew.ew752a	ew7520180sr0	d86fc80a	آه! لماذا أنا قطع?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02345	kh3_event_ew.ew752a	ew7520190cs0_1	c0bd225d	ماذا? لا، ليس حرفيا بالطبع.<br>أنت قطع من حيث المفهوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02346	kh3_event_ew.ew752a	ew7520190cs0_2	d2088db3	من الداخل، من يدري،<br>لكنك من الخارج سليم تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02347	kh3_event_ew.ew752a	ew7520200sr0	1daab790	آه، حسنا. لقد أفزعتني قليلا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02348	kh3_event_ew.ew752a	ew7520210cs0	b87f61b4	يا إلهي...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02349	kh3_event_ew.ew752a	ew7520220cs0_1	06d3c52d	عادة، لا يصل إلى العالم الأخير إلا القلب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02350	kh3_event_ew.ew752a	ew7520220cs0_2	14666ac3	لكن بما أنك احتفظت بوضوح<br>بشكل ما،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02351	kh3_event_ew.ew752a	ew7520220cs0_2b	b8aef7d6	فهذا لا يعني إلا أن جسدك<br>ألقي في هذا العالم أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02352	kh3_event_ew.ew752a	ew7520230sr0	b203fa5a	حسنا، إذن... إن وجدت جسدي،<br>فهل يعني ذلك أنني سأستطيع العودة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02353	kh3_event_ew.ew752a	ew7520240cs0_1	036fcb63	بالضبط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02354	kh3_event_ew.ew752a	ew7520240cs0_2	11da648d	لكن هناك الكثير منك لتجده.<br>ستكون مشغولا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02355	kh3_event_ew.ew753a	ew7530020sr0	ff8508b9	مرحبا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02356	kh3_event_ew.ew753a	ew7530030st0	5c8d3a78	طاب يومك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02357	kh3_event_ew.ew753a	ew7530040sr0	7ba6956c	رائع! أنت تستطيعين الكلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02358	kh3_event_ew.ew753a	ew7530050st0	d8aea7ad	تبدين كإنسانة. كيف<br>تحتفظين بمظهرك? هل أنت مميزة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02359	kh3_event_ew.ew753a	ew7530050st0b	6bd1a128		todo	
-02360	kh3_event_ew.ew753a	ew7530060sr0	b168e3e0	امم... التفاصيل غامضة قليلا عندي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02361	kh3_event_ew.ew753a	ew7530070st0	1260d121	كحالنا جميعا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02362	kh3_event_ew.ew753a	ew7530080sr0	a890a887	إذن، قلب من أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02363	kh3_event_ew.ew753a	ew7530090st0	0b989a46	لم أعد قلب أحد. أخذوا اسمي—<br>وكل ما يخصني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02360	kh3_event_ew.ew753a	ew7530060sr0	b168e3e0	امم... التفاصيل غامضة قليلا عندي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02361	kh3_event_ew.ew753a	ew7530070st0	1260d121	كحالنا جميعا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02362	kh3_event_ew.ew753a	ew7530080sr0	a890a887	إذن، قلب من أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02363	kh3_event_ew.ew753a	ew7530090st0	0b989a46	لم أعد قلب أحد. أخذوا اسمي—<br>وكل ما يخصني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02364	kh3_event_ew.ew753a	ew7530090st0b	d0da03c9		todo	
-02365	kh3_event_ew.ew753a	ew7530100sr0	b46e1b12	مستحيل. لا يمكن أن يكونوا<br>أخذوا قلبك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02366	kh3_event_ew.ew753a	ew7530110st0	176629d3	فقط لأنه يحن إلى شخص آخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02367	kh3_event_ew.ew753a	ew7530120sr0	7ea06d9e	حقا? هل سيأتي أحد من أجلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02368	kh3_event_ew.ew753a	ew7530130st0_1	7c02f198	لا أستطيع أن أكون متأكدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02369	kh3_event_ew.ew753a	ew7530130st0_2	6eb75e76	لقد تغير حتى لم يعد يعرف—<br>واستبدل قلبه بقلب آخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02370	kh3_event_ew.ew753a	ew7530130st0_3	d60b3913	لكن لو استعاد نفسه القديمة،<br>لأحزنه غيابي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02371	kh3_event_ew.ew753a	ew7530130st0_4	4bdc01aa	لذا اخترت أن أنتظر هنا، حيث يمكنه أن يجدني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02372	kh3_event_ew.ew753a	ew7530140sr0	fa83f04b	جيد. يجب أن تؤمني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02373	kh3_event_ew.ew753a	ew7530150st0_1	79beffd6	أؤمن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02374	kh3_event_ew.ew753a	ew7530150st0_2	6b0b5038	آه، تقصد أن أعرف في قلبي أنه سيعود?<br>دون أي دليل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02375	kh3_event_ew.ew753a	ew7530160sr0_1	28f19115	بالضبط، <i(on)>أن تؤمني<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02376	kh3_event_ew.ew753a	ew7530160sr0_2	3a443efb	ظننت أن كل شيء انتهى بالنسبة لي،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02377	kh3_event_ew.ew753a	ew7530160sr0_3	82f8599e	لكن صديقا لي نظر في عيني<br>وقال: "أنت لا تصدق ذلك."	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02378	kh3_event_ew.ew753a	ew7530180sr0_1	20e277b3	إذن، آه... من فعل بك هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02379	kh3_event_ew.ew753a	ew7530180sr0_2	3257d85d	بلا قلب يسرقون القلوب، إذن... لا أحد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02380	kh3_event_ew.ew753a	ew7530190st0	8abdff61	بل... أحد ما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02381	kh3_event_ew.ew753a	ew7530200sr0_1	e45297e4	حقا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02382	kh3_event_ew.ew753a	ew7530200sr0_2	f6e7380a	همم... ليتني أستطيع المساعدة...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02383	kh3_event_ew.ew753a	ew7530200sr0_3	4e5b5f6f	لكن وضعي ليس أفضل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02384	kh3_event_ew.ew753a	ew7530210st0	4f7880fb	يجب أن تهتم بالمهام التي أمامك أولا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02385	kh3_event_ew.ew753a	ew7530220sr0_1	e7396dde	المهام التي أمامي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02386	kh3_event_ew.ew753a	ew7530220sr0_2	f58cc230	إنها كثيرة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02387	kh3_event_ew.ew753a	ew7530230st0	85b6f677	وهذا سبب إضافي لتبذل جهدك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02388	kh3_event_ew.ew753a	ew7530240sr0_1	e2856390	نعم. أنت محقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02389	kh3_event_ew.ew753a	ew7530240sr0_2	f030cc7e	ليتني أعرف ماذا أفعل فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02390	kh3_event_ew.ew753a	ew7530250st0_1	b0a1f769	ها أنت على الحافة،<br>ومع ذلك تتمسك بهويتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02391	kh3_event_ew.ew753a	ew7530250st0_1b	3ab3036c	لديك إحساس قوي بالهدف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02392	kh3_event_ew.ew753a	ew7530250st0_2	a2145887	وفي ذلك الهدف ستجد طريقك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02393	kh3_event_ew.ew753a	ew7530260sr0_1	e1ee99aa	شكرا لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02394	kh3_event_ew.ew753a	ew7530260sr0_2	f35b3644	سعيد حقا لأننا التقينا. لقد رفعت معنوياتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02395	kh3_event_ew.ew753a	ew7530260sr0_3	4be75121	أتمنى أن يجدك صديقك قريبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02396	kh3_event_ew.ew753a	ew7530270st0	cb5b1d2e	شكرا لك. وأنا أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02397	kh3_event_ew.ew753a	ew7530280sr0_1	e9fd7f0c	آه، مهلا. إن رأيته،<br>سأخبره أنك هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02398	kh3_event_ew.ew753a	ew7530280sr0_2	fb48d0e2	ما اسمه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02399	kh3_event_ew.ew753a	ew7530290sr0	14cc5fce	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02400	kh3_event_ew.ew753a	ew7530300st0	ab3ade9a	سرنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02401	kh3_event_ew.ew754a	ew7540030cs0	e2c5cc08	أرى أنك وجدتها كلها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02402	kh3_event_ew.ew754a	ew7540040sr0	c33387f9	نعم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02403	kh3_event_ew.ew754a	ew7540050cs0	66e651dd	إذن، أليس الوقت قد حان لترحل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02404	kh3_event_ew.ew754a	ew7540060sr0	09fdf175	آه، شكرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02405	kh3_event_ew.ew754a	ew7540070cs0_1	6c0da041	ماذا? أنا أسدي إليك معروفا كبيرا هنا،<br>كما تعلم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02406	kh3_event_ew.ew754a	ew7540070cs0_2	7eb80faf	لا تبالغ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02407	kh3_event_ew.ew754a	ew7540080sr0_1	2b05814e	تشيريثي، أنت ما زلت تبدو كنفسك، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02408	kh3_event_ew.ew754a	ew7540080sr0_2	39b02ea0	أتريد أن أساعدك في إيجاد <i(on)>قطعك<i(off)> أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02409	kh3_event_ew.ew754a	ew7540090cs0	b5d06c36	أوه، أنا لا أعمل بهذه الطريقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02410	kh3_event_ew.ew754a	ew7540100sr0	0cfb0987	إذن، يعني... أنت تنتظر<br>أحدا لينقذك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02411	kh3_event_ew.ew754a	ew7540110cs0	a92edfa3	ممم... نوعا ما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02412	kh3_event_ew.ew754a	ew7540120sr0	c6357f0b	أخبرني من! سأجده.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02413	kh3_event_ew.ew754a	ew7540130cs0_1	9b00519f	آه، لا لا لا لا، لا بأس.<br>إنه لا يتذكر الماضي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02414	kh3_event_ew.ew754a	ew7540130cs0_2	89b5fe71	ثم إنني متأكد أنه أسعد بكثير<br>مع أصدقائه الجدد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02415	kh3_event_ew.ew754a	ew7540130cs0_3	31099914	لكنني سأنتظر. سيصل إلى هنا يوما ما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02416	kh3_event_ew.ew754a	ew7540140sr0_1	d1a79878	حسنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02417	kh3_event_ew.ew754a	ew7540140sr0_2	c3123796	سأعود لزيارتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02418	kh3_event_ew.ew754a	ew7540150cs0	e7c334fa	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02419	kh3_event_ew.ew754a	ew7540160sr0	88d89452	أنت وأنا صديقان الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02420	kh3_event_ew.ew754a	ew7540170cs0	2d0d4276	حقا? افتقدت وجود الأصدقاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02421	kh3_event_ew.ew754a	ew7540180sr0_1	dadf84e4	حسنا، أراك لاحقا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02422	kh3_event_ew.ew754a	ew7540180sr0_2	c86a2b0a	وشكرا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02423	kh3_event_ew.ew754a	ew7540190sr0	f447e473	امم... هل يمكنني الحصول على تلميح<br>عن كيفية إنقاذ الآخرين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02424	kh3_event_ew.ew754a	ew7540200cs0	94574dcd	بجدية?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02425	kh3_event_ew.ew754a	ew7540210cs0_1	5174a31a	هل أنت حامل الكيبلايد أم لا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02426	kh3_event_ew.ew754a	ew7540210cs0_2	43c10cf4	ألم تتعلم بالفعل كيف<br>تعيد قلب أحدهم بعد أن يضيع?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02427	kh3_event_ew.ew754a	ew7540220sr0_1	1d049e89	أعيد قلوبهم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02428	kh3_event_ew.ew754a	ew7540220sr0_2	0fb13167	هل هذا هو نفسه...<br>"قوة اليقظة"?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02429	kh3_event_ew.ew754a	ew7540230cs0	3bfe0007	لست متأكدا، لكن... جربها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02430	kh3_event_ew.ew754a	ew7540260sr0	d0c63d7a	لا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02431	kh3_event_ew.ew754a	ew7540270sr0	b5a1063c	هذا سيتطلب كل قلبي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02432	kh3_event_ew.ew754a	ew7540280sr0	c93e761d	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02433	kh3_event_ew.ew754a	ew7540290cs0	6ceba039	ابحث عن النور في الظلام!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02434	kh3_event_ew.ew754a	ew7540300cs0	157228ea	ليكن قلبك مفتاحك الذي يرشدك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02435	kh3_event_ew.ew755a	ew7550010nm0	2e4f9dd9	سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02436	kh3_event_ew.ew755a	ew7550020sr0	b6ca1f86	نعم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02437	kh3_event_ew.ew755a	ew7550030nm0	e481eb55	هذه أنا، ناميني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02438	kh3_event_ew.ew755a	ew7550040sr0	32e98253	ناميني?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02439	kh3_event_ew.ew755a	ew7550050nm0	60a27680	سعيدة جدا لأنك استطعت<br>التمسك بهويتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02440	kh3_event_ew.ew755a	ew7550060sr0	f827f4df	لماذا أنت هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02441	kh3_event_ew.ew755a	ew7550070nm0	aa6c000c	كنت في قلب كايري، ثم ضربنا<br>ظلام قوي... فاستيقظت هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02365	kh3_event_ew.ew753a	ew7530100sr0	b46e1b12	مستحيل. لا يمكن أن يكونوا<br>أخذوا قلبك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02366	kh3_event_ew.ew753a	ew7530110st0	176629d3	فقط لأنه يحن إلى شخص آخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02367	kh3_event_ew.ew753a	ew7530120sr0	7ea06d9e	حقا? هل سيأتي أحد من أجلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02368	kh3_event_ew.ew753a	ew7530130st0_1	7c02f198	لا أستطيع أن أكون متأكدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02369	kh3_event_ew.ew753a	ew7530130st0_2	6eb75e76	لقد تغير حتى لم يعد يعرف—<br>واستبدل قلبه بقلب آخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02370	kh3_event_ew.ew753a	ew7530130st0_3	d60b3913	لكن لو استعاد نفسه القديمة،<br>لأحزنه غيابي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02371	kh3_event_ew.ew753a	ew7530130st0_4	4bdc01aa	لذا اخترت أن أنتظر هنا، حيث يمكنه أن يجدني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02372	kh3_event_ew.ew753a	ew7530140sr0	fa83f04b	جيد. يجب أن تؤمني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02373	kh3_event_ew.ew753a	ew7530150st0_1	79beffd6	أؤمن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02374	kh3_event_ew.ew753a	ew7530150st0_2	6b0b5038	آه، تقصد أن أعرف في قلبي أنه سيعود?<br>دون أي دليل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02375	kh3_event_ew.ew753a	ew7530160sr0_1	28f19115	بالضبط، <i(on)>أن تؤمني<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02376	kh3_event_ew.ew753a	ew7530160sr0_2	3a443efb	ظننت أن كل شيء انتهى بالنسبة لي،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02377	kh3_event_ew.ew753a	ew7530160sr0_3	82f8599e	لكن صديقا لي نظر في عيني<br>وقال: "أنت لا تصدق ذلك."	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02378	kh3_event_ew.ew753a	ew7530180sr0_1	20e277b3	إذن، آه... من فعل بك هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02379	kh3_event_ew.ew753a	ew7530180sr0_2	3257d85d	بلا قلب يسرقون القلوب، إذن... لا أحد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02380	kh3_event_ew.ew753a	ew7530190st0	8abdff61	بل... أحد ما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02381	kh3_event_ew.ew753a	ew7530200sr0_1	e45297e4	حقا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02382	kh3_event_ew.ew753a	ew7530200sr0_2	f6e7380a	همم... ليتني أستطيع المساعدة...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02383	kh3_event_ew.ew753a	ew7530200sr0_3	4e5b5f6f	لكن وضعي ليس أفضل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02384	kh3_event_ew.ew753a	ew7530210st0	4f7880fb	يجب أن تهتم بالمهام التي أمامك أولا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02385	kh3_event_ew.ew753a	ew7530220sr0_1	e7396dde	المهام التي أمامي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02386	kh3_event_ew.ew753a	ew7530220sr0_2	f58cc230	إنها كثيرة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02387	kh3_event_ew.ew753a	ew7530230st0	85b6f677	وهذا سبب إضافي لتبذل جهدك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02388	kh3_event_ew.ew753a	ew7530240sr0_1	e2856390	نعم. أنت محقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02389	kh3_event_ew.ew753a	ew7530240sr0_2	f030cc7e	ليتني أعرف ماذا أفعل فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02390	kh3_event_ew.ew753a	ew7530250st0_1	b0a1f769	ها أنت على الحافة،<br>ومع ذلك تتمسك بهويتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02391	kh3_event_ew.ew753a	ew7530250st0_1b	3ab3036c	لديك إحساس قوي بالهدف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02392	kh3_event_ew.ew753a	ew7530250st0_2	a2145887	وفي ذلك الهدف ستجد طريقك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02393	kh3_event_ew.ew753a	ew7530260sr0_1	e1ee99aa	شكرا لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02394	kh3_event_ew.ew753a	ew7530260sr0_2	f35b3644	سعيد حقا لأننا التقينا. لقد رفعت معنوياتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02395	kh3_event_ew.ew753a	ew7530260sr0_3	4be75121	أتمنى أن يجدك صديقك قريبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02396	kh3_event_ew.ew753a	ew7530270st0	cb5b1d2e	شكرا لك. وأنا أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02397	kh3_event_ew.ew753a	ew7530280sr0_1	e9fd7f0c	آه، مهلا. إن رأيته،<br>سأخبره أنك هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02398	kh3_event_ew.ew753a	ew7530280sr0_2	fb48d0e2	ما اسمه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02399	kh3_event_ew.ew753a	ew7530290sr0	14cc5fce	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02400	kh3_event_ew.ew753a	ew7530300st0	ab3ade9a	سرنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02401	kh3_event_ew.ew754a	ew7540030cs0	e2c5cc08	أرى أنك وجدتها كلها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02402	kh3_event_ew.ew754a	ew7540040sr0	c33387f9	نعم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02403	kh3_event_ew.ew754a	ew7540050cs0	66e651dd	إذن، أليس الوقت قد حان لترحل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02404	kh3_event_ew.ew754a	ew7540060sr0	09fdf175	آه، شكرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02405	kh3_event_ew.ew754a	ew7540070cs0_1	6c0da041	ماذا? أنا أسدي إليك معروفا كبيرا هنا،<br>كما تعلم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02406	kh3_event_ew.ew754a	ew7540070cs0_2	7eb80faf	لا تبالغ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02407	kh3_event_ew.ew754a	ew7540080sr0_1	2b05814e	تشيريثي، أنت ما زلت تبدو كنفسك، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02408	kh3_event_ew.ew754a	ew7540080sr0_2	39b02ea0	أتريد أن أساعدك في إيجاد <i(on)>قطعك<i(off)> أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02409	kh3_event_ew.ew754a	ew7540090cs0	b5d06c36	أوه، أنا لا أعمل بهذه الطريقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02410	kh3_event_ew.ew754a	ew7540100sr0	0cfb0987	إذن، يعني... أنت تنتظر<br>أحدا لينقذك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02411	kh3_event_ew.ew754a	ew7540110cs0	a92edfa3	ممم... نوعا ما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02412	kh3_event_ew.ew754a	ew7540120sr0	c6357f0b	أخبرني من! سأجده.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02413	kh3_event_ew.ew754a	ew7540130cs0_1	9b00519f	آه، لا لا لا لا، لا بأس.<br>إنه لا يتذكر الماضي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02414	kh3_event_ew.ew754a	ew7540130cs0_2	89b5fe71	ثم إنني متأكد أنه أسعد بكثير<br>مع أصدقائه الجدد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02415	kh3_event_ew.ew754a	ew7540130cs0_3	31099914	لكنني سأنتظر. سيصل إلى هنا يوما ما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02416	kh3_event_ew.ew754a	ew7540140sr0_1	d1a79878	حسنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02417	kh3_event_ew.ew754a	ew7540140sr0_2	c3123796	سأعود لزيارتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02418	kh3_event_ew.ew754a	ew7540150cs0	e7c334fa	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02419	kh3_event_ew.ew754a	ew7540160sr0	88d89452	أنت وأنا صديقان الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02420	kh3_event_ew.ew754a	ew7540170cs0	2d0d4276	حقا? افتقدت وجود الأصدقاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02421	kh3_event_ew.ew754a	ew7540180sr0_1	dadf84e4	حسنا، أراك لاحقا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02422	kh3_event_ew.ew754a	ew7540180sr0_2	c86a2b0a	وشكرا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02423	kh3_event_ew.ew754a	ew7540190sr0	f447e473	امم... هل يمكنني الحصول على تلميح<br>عن كيفية إنقاذ الآخرين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02424	kh3_event_ew.ew754a	ew7540200cs0	94574dcd	بجدية?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02425	kh3_event_ew.ew754a	ew7540210cs0_1	5174a31a	هل أنت حامل الكيبلايد أم لا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02426	kh3_event_ew.ew754a	ew7540210cs0_2	43c10cf4	ألم تتعلم بالفعل كيف<br>تعيد قلب أحدهم بعد أن يضيع?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02427	kh3_event_ew.ew754a	ew7540220sr0_1	1d049e89	أعيد قلوبهم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02428	kh3_event_ew.ew754a	ew7540220sr0_2	0fb13167	هل هذا هو نفسه...<br>"قوة اليقظة"?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02429	kh3_event_ew.ew754a	ew7540230cs0	3bfe0007	لست متأكدا، لكن... جربها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02430	kh3_event_ew.ew754a	ew7540260sr0	d0c63d7a	لا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02431	kh3_event_ew.ew754a	ew7540270sr0	b5a1063c	هذا سيتطلب كل قلبي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02432	kh3_event_ew.ew754a	ew7540280sr0	c93e761d	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02433	kh3_event_ew.ew754a	ew7540290cs0	6ceba039	ابحث عن النور في الظلام!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02434	kh3_event_ew.ew754a	ew7540300cs0	157228ea	ليكن قلبك مفتاحك الذي يرشدك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02435	kh3_event_ew.ew755a	ew7550010nm0	2e4f9dd9	سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02436	kh3_event_ew.ew755a	ew7550020sr0	b6ca1f86	نعم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02437	kh3_event_ew.ew755a	ew7550030nm0	e481eb55	هذه أنا، ناميني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02438	kh3_event_ew.ew755a	ew7550040sr0	32e98253	ناميني?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02439	kh3_event_ew.ew755a	ew7550050nm0	60a27680	سعيدة جدا لأنك استطعت<br>التمسك بهويتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02440	kh3_event_ew.ew755a	ew7550060sr0	f827f4df	لماذا أنت هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02441	kh3_event_ew.ew755a	ew7550070nm0	aa6c000c	كنت في قلب كايري، ثم ضربنا<br>ظلام قوي... فاستيقظت هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02442	kh3_event_ew.ew755a	ew7550070nm0b	05f63171		todo	
-02443	kh3_event_ew.ew755a	ew7550080sr0	e1dfbfb8	وكايري?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02444	kh3_event_ew.ew755a	ew7550090nm0_1	bbae1a38	أستطيع أن أشعر بقلبها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02445	kh3_event_ew.ew755a	ew7550090nm0_2	a91bb5d6	إنها تقاتل بكل قوتها<br>لتمنعك من التلاشي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02446	kh3_event_ew.ew755a	ew7550100sr0	fd210c2d	إذن، السبب في احتفاظي بهيئتي في هذا المكان...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02447	kh3_event_ew.ew755a	ew7550110nm0	af6af8fe	هو أنها تبقيك متماسكا.<br>اذهب إليها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02448	kh3_event_ew.ew755a	ew7550120sr0_1	7b5f0471	أنا أحاول.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02449	kh3_event_ew.ew755a	ew7550120sr0_2	69eaab9f	لكن، ماذا عنك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02450	kh3_event_ew.ew755a	ew7550120sr0_3	d156ccfa	لا يمكنني أن أتركك عالقة هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02451	kh3_event_ew.ew755a	ew7550130nm0_1	44b00d40	لا بأس. حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02452	kh3_event_ew.ew755a	ew7550130nm0_2	5605a2ae	كايري هي المكان الذي أتيت منه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02453	kh3_event_ew.ew755a	ew7550130nm0_3	eeb9c5cb	لذا، ما إن تصبح بأمان من جديد،<br>فإلى كايري سأعود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02454	kh3_event_ew.ew755a	ew7550140sr0_1	7ee30a3f	ناميني، أعرف أن علي أن أشكرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02455	kh3_event_ew.ew755a	ew7550140sr0_2	6c56a5d1	عالم البيانات لا يحتسب.<br>أحتاج أن أقول الكلمات بنفسي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02456	kh3_event_ew.ew755a	ew7550140sr0_3	d4eac2b4	لكن... ليس هكذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02457	kh3_event_ew.ew755a	ew7550140sr0_4	493dfa0d	لا يمكنك أنت وروكساس أن تقولا لي إنكما راضيان بهذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02458	kh3_event_ew.ew755a	ew7550140sr0_5	f1819d68	أعرف كم تتألمين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02459	kh3_event_ew.ew755a	ew7550140sr0_6	e3343286	لقد... شعرت بذلك الألم عبر روكساس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02460	kh3_event_ew.ew755a	ew7550150nm0_1	410c030e	هو من يفتقده الجميع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02461	kh3_event_ew.ew755a	ew7550150nm0_2	53b9ace0	ليس... أنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02462	kh3_event_ew.ew755a	ew7550160sr0_1	7d88f005	خطأ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02463	kh3_event_ew.ew755a	ew7550160sr0_2	6f3d5feb	وماذا عني، وعن كايري ودونالد وغوفي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02464	kh3_event_ew.ew755a	ew7550160sr0_3	d781388e	والملك! وروكساس أيضا، إنه يفتقدك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02465	kh3_event_ew.ew755a	ew7550160sr0_4	4a560037	وشخص آخر مميز<br>أعرف أنه لن يخذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02466	kh3_event_ew.ew755a	ew7550170nm0	2b49652b	سورا. شكرا لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02467	kh3_event_ew.ew755a	ew7550180sr0_1	759b16a3	إذن سأذهب لأنقذ كايري<br>لكي تتحرري على الأقل من هذا المكان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02468	kh3_event_ew.ew755a	ew7550180sr0_2	672eb94d	حسنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02469	kh3_event_ew.ew755a	ew7550190nm0	32b12e4c	آه، انتظر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02470	kh3_event_ew.ew755a	ew7550200sr0	a53fa505	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02471	kh3_event_ew.ew755a	ew7550210nm0_1	8ec4ffc5	بينما كنت أبحث بين الذكريات، تحدثت إلى تيرا،<br>حامل الكيبلايد الذي تبحث عنه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02443	kh3_event_ew.ew755a	ew7550080sr0	e1dfbfb8	وكايري?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02444	kh3_event_ew.ew755a	ew7550090nm0_1	bbae1a38	أستطيع أن أشعر بقلبها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02445	kh3_event_ew.ew755a	ew7550090nm0_2	a91bb5d6	إنها تقاتل بكل قوتها<br>لتمنعك من التلاشي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02446	kh3_event_ew.ew755a	ew7550100sr0	fd210c2d	إذن، السبب في احتفاظي بهيئتي في هذا المكان...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02447	kh3_event_ew.ew755a	ew7550110nm0	af6af8fe	هو أنها تبقيك متماسكا.<br>اذهب إليها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02448	kh3_event_ew.ew755a	ew7550120sr0_1	7b5f0471	أنا أحاول.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02449	kh3_event_ew.ew755a	ew7550120sr0_2	69eaab9f	لكن، ماذا عنك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02450	kh3_event_ew.ew755a	ew7550120sr0_3	d156ccfa	لا يمكنني أن أتركك عالقة هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02451	kh3_event_ew.ew755a	ew7550130nm0_1	44b00d40	لا بأس. حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02452	kh3_event_ew.ew755a	ew7550130nm0_2	5605a2ae	كايري هي المكان الذي أتيت منه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02453	kh3_event_ew.ew755a	ew7550130nm0_3	eeb9c5cb	لذا، ما إن تصبح بأمان من جديد،<br>فإلى كايري سأعود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02454	kh3_event_ew.ew755a	ew7550140sr0_1	7ee30a3f	ناميني، أعرف أن علي أن أشكرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02455	kh3_event_ew.ew755a	ew7550140sr0_2	6c56a5d1	عالم البيانات لا يحتسب.<br>أحتاج أن أقول الكلمات بنفسي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02456	kh3_event_ew.ew755a	ew7550140sr0_3	d4eac2b4	لكن... ليس هكذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02457	kh3_event_ew.ew755a	ew7550140sr0_4	493dfa0d	لا يمكنك أنت وروكساس أن تقولا لي إنكما راضيان بهذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02458	kh3_event_ew.ew755a	ew7550140sr0_5	f1819d68	أعرف كم تتألمين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02459	kh3_event_ew.ew755a	ew7550140sr0_6	e3343286	لقد... شعرت بذلك الألم عبر روكساس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02460	kh3_event_ew.ew755a	ew7550150nm0_1	410c030e	هو من يفتقده الجميع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02461	kh3_event_ew.ew755a	ew7550150nm0_2	53b9ace0	ليس... أنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02462	kh3_event_ew.ew755a	ew7550160sr0_1	7d88f005	خطأ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02463	kh3_event_ew.ew755a	ew7550160sr0_2	6f3d5feb	وماذا عني، وعن كايري ودونالد وغوفي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02464	kh3_event_ew.ew755a	ew7550160sr0_3	d781388e	والملك! وروكساس أيضا، إنه يفتقدك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02465	kh3_event_ew.ew755a	ew7550160sr0_4	4a560037	وشخص آخر مميز<br>أعرف أنه لن يخذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02466	kh3_event_ew.ew755a	ew7550170nm0	2b49652b	سورا. شكرا لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02467	kh3_event_ew.ew755a	ew7550180sr0_1	759b16a3	إذن سأذهب لأنقذ كايري<br>لكي تتحرري على الأقل من هذا المكان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02468	kh3_event_ew.ew755a	ew7550180sr0_2	672eb94d	حسنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02469	kh3_event_ew.ew755a	ew7550190nm0	32b12e4c	آه، انتظر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02470	kh3_event_ew.ew755a	ew7550200sr0	a53fa505	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02471	kh3_event_ew.ew755a	ew7550210nm0_1	8ec4ffc5	بينما كنت أبحث بين الذكريات، تحدثت إلى تيرا،<br>حامل الكيبلايد الذي تبحث عنه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02472	kh3_event_ew.ew755a	ew7550210nm0_1b	eaf67620		todo	
-02473	kh3_event_ew.ew755a	ew7550210nm0_2	9c71502b	إرادته قوية، وهي تبقيه<br>مربوطا بعالم النور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02474	kh3_event_ew.ew755a	ew7550210nm0_3	24cd374e	سأحاول تتبع تلك الصلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02475	kh3_event_ew.ew755a	ew7550210nm0_4	b91a0ff7	ربما يكفي ذلك لترجيح الكفة<br>في الاتجاه الآخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02476	kh3_event_ew.ew755a	ew7550220sr0	6ff1d389	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02477	kh3_event_ew.ew755a	ew7550230nm0	3dba275a	امم... لنقل إنني أساندك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02478	kh3_event_ew.ew755a	ew7550240sr0_1	b7fc0280	ذلك الجانب منك—يذكرني بكايري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02479	kh3_event_ew.ew755a	ew7550240sr0_2	a549ad6e	شكرا يا ناميني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02480	kh3_event_ew.ew755a	ew7550240sr0_3	1df5ca0b	آه! هذا ليس الشكر الرسمي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02481	kh3_event_ew.ew755a	ew7550250nm0	b999ba8f	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02482	kh3_event_ew.ew755a	ew7550270sr0	447b0396	حسنا، إلى اللقاء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-02483	kh3_event_ew.ew755a	ew7550280nm0	0fc8bc22	كن حذرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02473	kh3_event_ew.ew755a	ew7550210nm0_2	9c71502b	إرادته قوية، وهي تبقيه<br>مربوطا بعالم النور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02474	kh3_event_ew.ew755a	ew7550210nm0_3	24cd374e	سأحاول تتبع تلك الصلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02475	kh3_event_ew.ew755a	ew7550210nm0_4	b91a0ff7	ربما يكفي ذلك لترجيح الكفة<br>في الاتجاه الآخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02476	kh3_event_ew.ew755a	ew7550220sr0	6ff1d389	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02477	kh3_event_ew.ew755a	ew7550230nm0	3dba275a	امم... لنقل إنني أساندك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02478	kh3_event_ew.ew755a	ew7550240sr0_1	b7fc0280	ذلك الجانب منك—يذكرني بكايري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02479	kh3_event_ew.ew755a	ew7550240sr0_2	a549ad6e	شكرا يا ناميني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02480	kh3_event_ew.ew755a	ew7550240sr0_3	1df5ca0b	آه! هذا ليس الشكر الرسمي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02481	kh3_event_ew.ew755a	ew7550250nm0	b999ba8f	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02482	kh3_event_ew.ew755a	ew7550270sr0	447b0396	حسنا، إلى اللقاء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02483	kh3_event_ew.ew755a	ew7550280nm0	0fc8bc22	كن حذرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

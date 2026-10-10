@@ -1,5 +1,5 @@
 """SWAP-1/TEST50/BUILD-1/FULL-1/TRANS-4/BUILD-4: generate SWAP_TO_F1.bat, SWAP_TO_F2.bat, SWAP_TO_TEST50.bat, SWAP_TO_BUILD1.bat,
-SWAP_TO_BUILD2.bat, SWAP_TO_BUILD3.bat, SWAP_TO_BUILD4.bat, SWAP_TO_BUILD5.bat, SWAP_TO_BUILD6.bat,
+SWAP_TO_BUILD2.bat, SWAP_TO_BUILD3.bat, SWAP_TO_BUILD4.bat, SWAP_TO_BUILD5.bat, SWAP_TO_BUILD6.bat, SWAP_TO_BUILD7.bat,
 REMOVE_ARABIC.bat, SWAP_TO_IMAGES_PILOT.bat, REMOVE_IMAGES_PILOT.bat (FINAL-1: touch only pakchunk98-arabic-images_P.pak) in the project root (CRLF)."""
 import os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -14,6 +14,7 @@ MSGS = {
     'done_BUILD4': 'تم: BUILD-4 مثبت الآن / Done: BUILD-4 installed',
     'done_BUILD5': 'تم: BUILD-5 مثبت الآن / Done: BUILD-5 installed',
     'done_BUILD6': 'تم: BUILD-6 مثبت الآن / Done: BUILD-6 installed',
+    'done_BUILD7': 'تم: BUILD-7 مثبت الآن / Done: BUILD-7 installed',
     'done_IMAGES_PILOT': 'تم: تجربة الصور مثبتة الآن بجانب التعريب النصي / Done: image pilot installed next to the text pak',
     'done_REMOVE_IMAGES': 'تم: حُذفت تجربة الصور، والتعريب النصي باقٍ / Done: image pilot removed, text pak kept',
     'done_REMOVE': 'تم: حُذف التعريب من اللعبة / Done: Arabic removed',
@@ -109,7 +110,8 @@ B = {'F1': r'%~dp0out\builds\ARABIC-TEST-2\pakchunk99-arabictest2F1_P.pak',
      'BUILD3': r'%~dp0out\builds\BUILD-3\pakchunk99-arabic_P.pak',
      'BUILD4': r'%~dp0out\builds\BUILD-4\pakchunk99-arabic_P.pak',
      'BUILD5': r'%~dp0out\builds\BUILD-5\pakchunk99-arabic_P.pak',
-     'BUILD6': r'%~dp0out\builds\BUILD-6\pakchunk99-arabic_P.pak'}
+     'BUILD6': r'%~dp0out\builds\BUILD-6\pakchunk99-arabic_P.pak',
+     'BUILD7': r'%~dp0out\builds\BUILD-7\pakchunk99-arabic_P.pak'}
 H = {'F1': '302d95d10a972622a2c9d805ff6bbeb5e4cdf47eb2f64e814a240b5accf1f2d0',
      'F2': '5e60bd3a94a573b8af2db8182baaeea4480bf5244f8113b1eebd77cbdb43cb99',
      'TEST50': 'a26a76917c005f8c1d26e7c42da030bf405075a9243f9bdb68191099ead14191',
@@ -118,7 +120,8 @@ H = {'F1': '302d95d10a972622a2c9d805ff6bbeb5e4cdf47eb2f64e814a240b5accf1f2d0',
      'BUILD3': '2834d65a94462fae60ac96c5cd22b92f3f69ddb784151d2070e34eb1d6fcad27',
      'BUILD4': 'ae9d609ae953032b1551854df559071ff284af50152ae54f231509ebb8bce243',
      'BUILD5': 'e43d8f9705588ba4cb7e8058e2f630d2d65734f7bf3068ab7a24c2dddcbe6602',
-     'BUILD6': 'f6e8be85feae061c120674adccfcacd847727c51ef5952aa3b5594898a6e8ae3'}
+     'BUILD6': 'f6e8be85feae061c120674adccfcacd847727c51ef5952aa3b5594898a6e8ae3',
+     'BUILD7': 'f9e23f373ce52a5e9c6690d264b7228d43d0e28aa55d9d76386514db511e82d7'}
 def write(name, body):
     s = (body + TAIL).replace('@TAB@', TAB).replace('@MSG@', MSG)
     with open(os.path.join(ROOT, name), 'w', encoding='utf-8', newline='') as f:

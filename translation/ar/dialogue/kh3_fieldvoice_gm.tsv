@@ -1,34 +1,34 @@
 id	namespace	key	source_hash	AR	status	note
-08714	kh3_fieldvoice_gm.chat	sora_0020	b0dda67d	هكذا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08715	kh3_fieldvoice_gm.chat	sora_0030	7c77a6e3	احذروا، شيء قادم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08716	kh3_fieldvoice_gm.chat	sora_0040	76b2affa	إنه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08717	kh3_fieldvoice_gm.chat	sora_0050	ba18af64	حصن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08718	kh3_fieldvoice_gm.chat	sora_0080	211dbab5	عالم في الأفق!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08719	kh3_fieldvoice_gm.chat	sora_0100	695ded6f	هل هناك شيء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08720	kh3_fieldvoice_gm.chat	sora_0110	a5f7edf1	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08721	kh3_fieldvoice_gm.chat	sora_0120	2b78ea12	أظنه عدوانيا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08722	kh3_fieldvoice_gm.chat	sora_0150	21bde30b	يا رفاق، انظروا إلى هذا المكان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08723	kh3_fieldvoice_gm.chat	donald_0020	846573cf	مهلا، لا نستطيع العبور!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08724	kh3_fieldvoice_gm.chat	donald_0030	48cf7351	احذروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08725	kh3_fieldvoice_gm.chat	donald_0040	420a7a48	إلى...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08726	kh3_fieldvoice_gm.chat	donald_0080	15a56f07	الخطر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08727	kh3_fieldvoice_gm.chat	donald_0090	d90f6f99	لا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08728	kh3_fieldvoice_gm.chat	goofy_0020	8724354b	كيف نصل إلى العالم الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08729	kh3_fieldvoice_gm.chat	goofy_0030	4b8e35d5	احذروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08730	kh3_fieldvoice_gm.chat	goofy_0040	414b3ccc	مهلا، إنه يتحورل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08731	kh3_fieldvoice_gm.chat	goofy_0080	16e42983	هل هو طريق مسدود?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08732	kh3_fieldvoice_gm.ui	chip_0010	8de6f552	مرحى، منطقة جديدة!<br>يجب أن تتفقدوها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08733	kh3_fieldvoice_gm.ui	chip_0020	0369f2b1	مرحى! المزيد من العوالم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08734	kh3_fieldvoice_gm.ui	chip_0030	cfc3f22f	سورا، أظنك مستعد<br>لسفينة صغيرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08735	kh3_fieldvoice_gm.ui	chip_0040	c506fb36	عمل رائع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08736	kh3_fieldvoice_gm.ui	chip_0050	09acfba8	هذا يكفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08737	kh3_fieldvoice_gm.ui	chip_0060	8723fc4b	اترك الأمر لنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08738	kh3_fieldvoice_gm.ui	chip_0070	4b89fcd5	مرحبا يا سورا.<br>لديك أغراض جديدة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08739	kh3_fieldvoice_gm.ui	dale_0010	53b26ae9	واو! انظروا إلى كل هذه<br>المساحة الجديدة لاستكشافها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08740	kh3_fieldvoice_gm.ui	dale_0020	dd3d6d0a	سورا! لديك<br>المزيد من العوالم لزيارتها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08741	kh3_fieldvoice_gm.ui	dale_0030	11976d94	سورا، لدي نصيحة لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08742	kh3_fieldvoice_gm.ui	dale_0040	1b52648d	هل أنت مستعد لتجربة<br>سفينتين صغيرتين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08743	kh3_fieldvoice_gm.ui	dale_0050	d7f86413	أداء رائع يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08744	kh3_fieldvoice_gm.ui	dale_0060	597763f0	إذن يا سورا. ماذا ستختار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08745	kh3_fieldvoice_gm.ui	dale_0070	95dd636e	حسنا، لنبدأ!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08746	kh3_fieldvoice_gm.ui	dale_0080	4cfd71c2	لم أر مكونات<br>مثل هذه من قبل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08714	kh3_fieldvoice_gm.chat	sora_0020	b0dda67d	هكذا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08715	kh3_fieldvoice_gm.chat	sora_0030	7c77a6e3	احذروا، شيء قادم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08716	kh3_fieldvoice_gm.chat	sora_0040	76b2affa	إنه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08717	kh3_fieldvoice_gm.chat	sora_0050	ba18af64	حصن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08718	kh3_fieldvoice_gm.chat	sora_0080	211dbab5	عالم في الأفق!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08719	kh3_fieldvoice_gm.chat	sora_0100	695ded6f	هل هناك شيء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08720	kh3_fieldvoice_gm.chat	sora_0110	a5f7edf1	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08721	kh3_fieldvoice_gm.chat	sora_0120	2b78ea12	أظنه عدوانيا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08722	kh3_fieldvoice_gm.chat	sora_0150	21bde30b	يا رفاق، انظروا إلى هذا المكان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08723	kh3_fieldvoice_gm.chat	donald_0020	846573cf	مهلا، لا نستطيع العبور!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08724	kh3_fieldvoice_gm.chat	donald_0030	48cf7351	احذروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08725	kh3_fieldvoice_gm.chat	donald_0040	420a7a48	إلى...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08726	kh3_fieldvoice_gm.chat	donald_0080	15a56f07	الخطر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08727	kh3_fieldvoice_gm.chat	donald_0090	d90f6f99	لا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08728	kh3_fieldvoice_gm.chat	goofy_0020	8724354b	كيف نصل إلى العالم الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08729	kh3_fieldvoice_gm.chat	goofy_0030	4b8e35d5	احذروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08730	kh3_fieldvoice_gm.chat	goofy_0040	414b3ccc	مهلا، إنه يتحورل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08731	kh3_fieldvoice_gm.chat	goofy_0080	16e42983	هل هو طريق مسدود?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08732	kh3_fieldvoice_gm.ui	chip_0010	8de6f552	مرحى، منطقة جديدة!<br>يجب أن تتفقدوها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08733	kh3_fieldvoice_gm.ui	chip_0020	0369f2b1	مرحى! المزيد من العوالم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08734	kh3_fieldvoice_gm.ui	chip_0030	cfc3f22f	سورا، أظنك مستعد<br>لسفينة صغيرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08735	kh3_fieldvoice_gm.ui	chip_0040	c506fb36	عمل رائع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08736	kh3_fieldvoice_gm.ui	chip_0050	09acfba8	هذا يكفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08737	kh3_fieldvoice_gm.ui	chip_0060	8723fc4b	اترك الأمر لنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08738	kh3_fieldvoice_gm.ui	chip_0070	4b89fcd5	مرحبا يا سورا.<br>لديك أغراض جديدة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08739	kh3_fieldvoice_gm.ui	dale_0010	53b26ae9	واو! انظروا إلى كل هذه<br>المساحة الجديدة لاستكشافها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08740	kh3_fieldvoice_gm.ui	dale_0020	dd3d6d0a	سورا! لديك<br>المزيد من العوالم لزيارتها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08741	kh3_fieldvoice_gm.ui	dale_0030	11976d94	سورا، لدي نصيحة لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08742	kh3_fieldvoice_gm.ui	dale_0040	1b52648d	هل أنت مستعد لتجربة<br>سفينتين صغيرتين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08743	kh3_fieldvoice_gm.ui	dale_0050	d7f86413	أداء رائع يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08744	kh3_fieldvoice_gm.ui	dale_0060	597763f0	إذن يا سورا. ماذا ستختار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08745	kh3_fieldvoice_gm.ui	dale_0070	95dd636e	حسنا، لنبدأ!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08746	kh3_fieldvoice_gm.ui	dale_0080	4cfd71c2	لم أر مكونات<br>مثل هذه من قبل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

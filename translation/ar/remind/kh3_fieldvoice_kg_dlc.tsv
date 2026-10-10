@@ -1,38 +1,38 @@
 id	namespace	key	source_hash	AR	status	note
-08844	kh3_fieldvoice_kg_dlc.chat	sora_2050	3db88a07	هذه ستة...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08845	kh3_fieldvoice_kg_dlc.chat	sora_2060	b3378de4	ريكو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08846	kh3_fieldvoice_kg_dlc.chat	sora_2070	7f9d8d7a	معا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08847	kh3_fieldvoice_kg_dlc.chat	sora_2080	a6bd9fd6	تتبعت الصلة―مني إلى ريكو،<br>ثم من ريكو إليكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08848	kh3_fieldvoice_kg_dlc.chat	sora_2081	1e01f8b3	هذه سبعة―كل الأنوار التي احتجتها،<br>بما فيها نوركم. سأتولى الباقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08849	kh3_fieldvoice_kg_dlc.chat	sora_2090	6a179f48	أين أنا...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08850	kh3_fieldvoice_kg_dlc.chat	sora_2100	eefdc80c	ذلك النور... إنه نور الملك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08851	kh3_fieldvoice_kg_dlc.chat	sora_2130	6072cfef	هذا هو! سأصل هذا النور...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08852	kh3_fieldvoice_kg_dlc.chat	sora_2140	6ab7c6f6	يجب أن أصوب بدقة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08853	kh3_fieldvoice_kg_dlc.chat	sora_2170	e438c115	نجح الأمر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08854	kh3_fieldvoice_kg_dlc.chat	sora_2180	3d18d3b9	يا رفاق!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08855	kh3_fieldvoice_kg_dlc.chat	sora_2190	f1b2d327	كايري?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08856	kh3_fieldvoice_kg_dlc.chat	sora_2200	99631afc	هيا بنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08857	kh3_fieldvoice_kg_dlc.chat	riku_2010	64e56210	اترك الأمر لي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08858	kh3_fieldvoice_kg_dlc.chat	riku_2020	ea6a65f3	نعم... نستطيع فعلها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08859	kh3_fieldvoice_kg_dlc.chat	riku_2030	26c0656d	هيا بنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08860	kh3_fieldvoice_kg_dlc.chat	riku_2120	71cf299c	ميكي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08861	kh3_fieldvoice_kg_dlc.chat	riku_2160	f5852766	سورا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08862	kh3_fieldvoice_kg_dlc.chat	kairi_2010	b635de9f	أستطيع فعلها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08863	kh3_fieldvoice_kg_dlc.chat	aqua_2010	1a28f71b	سأنهي هذا هنا والآن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08864	kh3_fieldvoice_kg_dlc.chat	aqua_2020	94a7f0f8	ثقوا برابطتنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08865	kh3_fieldvoice_kg_dlc.chat	ventus_2010	2dbef35e	نحن محاصرون!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08866	kh3_fieldvoice_kg_dlc.chat	terra_2010	1f9399e2	هيا! علينا جميعا أن نتعاون!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08867	kh3_fieldvoice_kg_dlc.chat	roxas_2010	afdaba33	جاء دوري!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08868	kh3_fieldvoice_kg_dlc.chat	roxas_2020	2155bdd0	شيون!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08869	kh3_fieldvoice_kg_dlc.chat	axel_2020	a718d710	واو، واو، هذه مشكلة خطيرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08870	kh3_fieldvoice_kg_dlc.chat	xion_2030	545f65f7	شكرا يا روكساس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08871	kh3_fieldvoice_kg_dlc.chat	mickey_2010	3725640f	ريكو، هل أنت مستعد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08872	kh3_fieldvoice_kg_dlc.chat	mickey_2080	286a7f24	ماذا?! أوه، لا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08873	kh3_fieldvoice_kg_dlc.chat	mickey_2100	602a28fe	ريكو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08874	kh3_fieldvoice_kg_dlc.chat	mickey_2130	eea52f1d	أوه لا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08875	kh3_fieldvoice_kg_dlc.chat	mickey_2150	28ca269a	لا... لا أستطيع الاستسلام!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08876	kh3_fieldvoice_kg_dlc.chat	mickey_2330	029eb182	مهما كان البعد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08877	kh3_fieldvoice_kg_dlc.chat	mickey_2340	085bb89b	النور سيربط قلوبنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08878	kh3_fieldvoice_kg_dlc.chat	mickey_2350	c4f1b805	نحن―جميعا―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08879	kh3_fieldvoice_kg_dlc.chat	mickey_2420	baac5893	ليربطنا النور!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-08880	kh3_fieldvoice_kg_dlc.chat	mickey_2430	7606580d	سورا... ماذا تفعل هنا...?<br>هل هذا... أنت حقا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08844	kh3_fieldvoice_kg_dlc.chat	sora_2050	3db88a07	هذه ستة...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08845	kh3_fieldvoice_kg_dlc.chat	sora_2060	b3378de4	ريكو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08846	kh3_fieldvoice_kg_dlc.chat	sora_2070	7f9d8d7a	معا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08847	kh3_fieldvoice_kg_dlc.chat	sora_2080	a6bd9fd6	تتبعت الصلة―مني إلى ريكو،<br>ثم من ريكو إليكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08848	kh3_fieldvoice_kg_dlc.chat	sora_2081	1e01f8b3	هذه سبعة―كل الأنوار التي احتجتها،<br>بما فيها نوركم. سأتولى الباقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08849	kh3_fieldvoice_kg_dlc.chat	sora_2090	6a179f48	أين أنا...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08850	kh3_fieldvoice_kg_dlc.chat	sora_2100	eefdc80c	ذلك النور... إنه نور الملك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08851	kh3_fieldvoice_kg_dlc.chat	sora_2130	6072cfef	هذا هو! سأصل هذا النور...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08852	kh3_fieldvoice_kg_dlc.chat	sora_2140	6ab7c6f6	يجب أن أصوب بدقة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08853	kh3_fieldvoice_kg_dlc.chat	sora_2170	e438c115	نجح الأمر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08854	kh3_fieldvoice_kg_dlc.chat	sora_2180	3d18d3b9	يا رفاق!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08855	kh3_fieldvoice_kg_dlc.chat	sora_2190	f1b2d327	كايري?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08856	kh3_fieldvoice_kg_dlc.chat	sora_2200	99631afc	هيا بنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08857	kh3_fieldvoice_kg_dlc.chat	riku_2010	64e56210	اترك الأمر لي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08858	kh3_fieldvoice_kg_dlc.chat	riku_2020	ea6a65f3	نعم... نستطيع فعلها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08859	kh3_fieldvoice_kg_dlc.chat	riku_2030	26c0656d	هيا بنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08860	kh3_fieldvoice_kg_dlc.chat	riku_2120	71cf299c	ميكي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08861	kh3_fieldvoice_kg_dlc.chat	riku_2160	f5852766	سورا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08862	kh3_fieldvoice_kg_dlc.chat	kairi_2010	b635de9f	أستطيع فعلها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08863	kh3_fieldvoice_kg_dlc.chat	aqua_2010	1a28f71b	سأنهي هذا هنا والآن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08864	kh3_fieldvoice_kg_dlc.chat	aqua_2020	94a7f0f8	ثقوا برابطتنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08865	kh3_fieldvoice_kg_dlc.chat	ventus_2010	2dbef35e	نحن محاصرون!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08866	kh3_fieldvoice_kg_dlc.chat	terra_2010	1f9399e2	هيا! علينا جميعا أن نتعاون!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08867	kh3_fieldvoice_kg_dlc.chat	roxas_2010	afdaba33	جاء دوري!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08868	kh3_fieldvoice_kg_dlc.chat	roxas_2020	2155bdd0	شيون!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08869	kh3_fieldvoice_kg_dlc.chat	axel_2020	a718d710	واو، واو، هذه مشكلة خطيرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08870	kh3_fieldvoice_kg_dlc.chat	xion_2030	545f65f7	شكرا يا روكساس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08871	kh3_fieldvoice_kg_dlc.chat	mickey_2010	3725640f	ريكو، هل أنت مستعد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08872	kh3_fieldvoice_kg_dlc.chat	mickey_2080	286a7f24	ماذا?! أوه، لا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08873	kh3_fieldvoice_kg_dlc.chat	mickey_2100	602a28fe	ريكو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08874	kh3_fieldvoice_kg_dlc.chat	mickey_2130	eea52f1d	أوه لا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08875	kh3_fieldvoice_kg_dlc.chat	mickey_2150	28ca269a	لا... لا أستطيع الاستسلام!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08876	kh3_fieldvoice_kg_dlc.chat	mickey_2330	029eb182	مهما كان البعد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08877	kh3_fieldvoice_kg_dlc.chat	mickey_2340	085bb89b	النور سيربط قلوبنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08878	kh3_fieldvoice_kg_dlc.chat	mickey_2350	c4f1b805	نحن―جميعا―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08879	kh3_fieldvoice_kg_dlc.chat	mickey_2420	baac5893	ليربطنا النور!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08880	kh3_fieldvoice_kg_dlc.chat	mickey_2430	7606580d	سورا... ماذا تفعل هنا...?<br>هل هذا... أنت حقا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

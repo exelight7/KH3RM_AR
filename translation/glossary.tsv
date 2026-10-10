@@ -1352,7 +1352,7 @@ Donald Thunder	صاعقة دونالد	term	KH3-new	approved	1	16369	user decisi
 Donald Cure	شفاء دونالد	term	KH3-new	approved	1	16371	user decision FULL-1: replaces the transliterated form (was: SWAP-1: supervisor (elemental resistance = element noun / Do)
 Spiked Turtletoad	سلحفاة الضفدع الشوكية	character	KH3-new	proposed	3	00682,16904,16905	TRANS-3 executor proposal (tutorials/journal)
 Catastrochorus	الكاتاستروكوراس	character	KH3-new	proposed	2	00663,16906	TRANS-3 executor proposal (tutorials/journal)
-Powerwild	باورويلد	character	KH3-new	proposed	1	00640	TRANS-3 executor proposal (tutorials/journal)
+Powerwild	القوة الجامحة	character	KH3-new	approved	1	00640	supervisor SYNC-BUILD7
 King of Toys	ملك الألعاب	character	KH3-new	proposed	2	00655,16922	TRANS-3 executor proposal (tutorials/journal)
 Lightning Angler	صياد البرق	character	KH3-new	proposed	3	00660,16924,16925	TRANS-3 executor proposal (tutorials/journal)
 Grim Guardianess	الحارسة القاتمة	character	KH3-new	proposed	2	00656,16928	TRANS-3 executor proposal (tutorials/journal)
@@ -1362,7 +1362,7 @@ Supreme Smashers	المحطمون الأسمى	character	KH3-new	proposed	2	1699
 Sköll	سكول	character	KH3-new	proposed	3	00658,16992,16993	TRANS-3 executor proposal (tutorials/journal)
 Rock Troll	ترول الصخر	character	KH3-new	proposed	3	00633,15500,16919	TRANS-3 executor proposal (tutorials/journal)
 Flame Core	لب اللهب	character	KH3-new	proposed	2	00614,14375	TRANS-3 executor proposal (tutorials/journal)
-Frost Serpent	ثعبان الصقيع	character	KH3-new	proposed	1	00657	TRANS-3 executor proposal (tutorials/journal)
+Frost Serpent	أفعى الصقيع	character	KH3-new	approved	1	00657	supervisor SYNC-BUILD7
 Darkside	دارك سايد	character	KH3-new	proposed	3	00652,00672,16983	TRANS-3 executor proposal (tutorials/journal)
 Care Spray	رذاذ العناية	ability	KH3-new	proposed	3	16187,16394,16934	TRANS-3 executor proposal (tutorials/journal)
 Aerial Dodge	المراوغة الجوية	ability	KH3-new	proposed	8	16142,16186,16352	TRANS-3 executor proposal (tutorials/journal)
@@ -1376,7 +1376,7 @@ Trinity Guard	حرس ترينتي	ability	KH3-new	proposed	3	15501,16302,17047	T
 Dark Firaga	نار كبرى مظلمة	ability	KH3-new	approved	3	16064,16958,16987	user decision FULL-1: replaces the transliterated form (was: TRANS-3 executor proposal (tutorials/journal))
 Pirate Ship	سفينة القراصنة	other	KH3-new	proposed	2	16284,17204	TRANS-3 executor proposal (tutorials/journal)
 Wall Kick	ركلة الجدار	other	KH3-new	proposed	2	16413,17180	TRANS-3 executor proposal (tutorials/journal)
-diving strike	ضربة الانقضاض	other	KH3-new	proposed	3	16013,17175,17176	TRANS-3 executor proposal (tutorials/journal)
+diving strike	ضربة الغوص	other	KH3-new	approved	3	16013,17175,17176	supervisor SYNC-BUILD7
 Power of Waking	قوة اليقظة	other	KH3-new	proposed	33	01420,02115,02428	TRANS-3 executor proposal (tutorials/journal)
 Sleeping Worlds	عوالم النوم	other	KH3-new	proposed	5	01412,03087,07037	TRANS-3 executor proposal (tutorials/journal)
 Dandelion	الهندباء	other	KH3-new	proposed	0		TRANS-3 executor proposal (tutorials/journal)
@@ -1419,7 +1419,7 @@ Black Pearl	اللؤلؤة السوداء	item	KH3-new	approved	27	00086,00087,0
 Brethren Court	مجلس الإخوة	term	KH3-new	approved	2	01533,01665	supervisor REVIEW-1
 Isla de Muerta	إيسلا دي مويرتا	place	KH2	approved	1	01505	supervisor REVIEW-3 (KH3 form جزيرة الموتى retired)
 Pirate Code	شريعة القراصنة	term	KH3-new	approved	1	08112	supervisor REVIEW-1
-Monsters, Incorporated	شركة المرعبين المحدودة	place	KH3-new	approved	10	04787,08983,08984	supervisor REVIEW-1
+Monsters, Incorporated	شركة المرعبين	place	KH3-new	approved	10	04787,08983,08984	supervisor SYNC-BUILD7
 Buzz Lightyear	باز لايتير	character	KH3-new	approved	1	06525	supervisor REVIEW-1
 Replica	نسخة	term	KH3-new	approved	38	00491,00518,01248	supervisor REVIEW-1
 Luxu	لوكسو	character	KH3-new	approved	2	06071,06086	supervisor REVIEW-1

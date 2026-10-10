@@ -1,36 +1,36 @@
 id	namespace	key	source_hash	AR	status	note
-00862	kh3_event_bt_dlc.bt971a	bt9710020sr0_1	5fb0479b	أين أنا...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00863	kh3_event_bt_dlc.bt971a	bt9710020sr0_2	4d05e875	هل نجح الأمر...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00864	kh3_event_bt_dlc.bt971a	bt9710030sr0	b2d0bfdc	نسختي الأخرى لم تصل بعد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00865	kh3_event_bt_dlc.bt971a	bt9710030sr1	0a6cd8b9	يجب أن أبحث عن كايري ما دمت أستطيع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00866	kh3_event_bt_dlc.bt972a	bt9720040sr0	9a8b11f0	كايري!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00867	kh3_event_bt_dlc.bt973a	bt9730010sr0	40dbc445	هذه خمسة... كم بقي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00868	kh3_event_bt_dlc.bt973a	bt9730020xn0	b5f409e5	بقي اثنان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00869	kh3_event_bt_dlc.bt973a	bt9730040sr0	6b51145a	هاه?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00870	kh3_event_bt_dlc.bt973a	bt9730060sr0	a19f62d6	لماذا أنت هنا...?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00871	kh3_event_bt_dlc.bt973a	bt9730070xn0_1	ae5d1a13	أنا من أخفى أجزاء كايري<br>التي تبحث عنها. بالطبع أنا هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00862	kh3_event_bt_dlc.bt971a	bt9710020sr0_1	5fb0479b	أين أنا...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00863	kh3_event_bt_dlc.bt971a	bt9710020sr0_2	4d05e875	هل نجح الأمر...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00864	kh3_event_bt_dlc.bt971a	bt9710030sr0	b2d0bfdc	نسختي الأخرى لم تصل بعد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00865	kh3_event_bt_dlc.bt971a	bt9710030sr1	0a6cd8b9	يجب أن أبحث عن كايري ما دمت أستطيع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00866	kh3_event_bt_dlc.bt972a	bt9720040sr0	9a8b11f0	كايري!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00867	kh3_event_bt_dlc.bt973a	bt9730010sr0	40dbc445	هذه خمسة... كم بقي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00868	kh3_event_bt_dlc.bt973a	bt9730020xn0	b5f409e5	بقي اثنان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00869	kh3_event_bt_dlc.bt973a	bt9730040sr0	6b51145a	هاه?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00870	kh3_event_bt_dlc.bt973a	bt9730060sr0	a19f62d6	لماذا أنت هنا...?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00871	kh3_event_bt_dlc.bt973a	bt9730070xn0_1	ae5d1a13	أنا من أخفى أجزاء كايري<br>التي تبحث عنها. بالطبع أنا هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00872	kh3_event_bt_dlc.bt973a	bt9730070xn0_1b	dd0d93b5		todo	
-00873	kh3_event_bt_dlc.bt973a	bt9730070xn0_2	bce8b5fd	لا يهم—هل جئت وحدك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00874	kh3_event_bt_dlc.bt973a	bt9730080sr0	b86729b1	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00875	kh3_event_bt_dlc.bt973a	bt9730100xn0	fe1f1a4e	هل أنت مستعد لدفع الثمن الأخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00876	kh3_event_bt_dlc.bt973a	bt9730120sr0_1	2b9260fe	كفى!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00877	kh3_event_bt_dlc.bt973a	bt9730120sr0_2	3927cf10	اثنان فقط... سأنقذ كايري!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00878	kh3_event_bt_dlc.bt973a	bt9730130xn0	51b65784	للأسف، لقد تأخرت قليلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00879	kh3_event_bt_dlc.bt973a	bt9730140sr0	ea74717d	هاه?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00880	kh3_event_bt_dlc.bt973a	bt9730160sr0	20ba07f1	أوه، لا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00881	kh3_event_bt_dlc.bt973a	bt9730170xn0_1	5f871fb9	يبدو أنك فشلت في استعادة<br>كايري في الزمن القادم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00873	kh3_event_bt_dlc.bt973a	bt9730070xn0_2	bce8b5fd	لا يهم—هل جئت وحدك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00874	kh3_event_bt_dlc.bt973a	bt9730080sr0	b86729b1	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00875	kh3_event_bt_dlc.bt973a	bt9730100xn0	fe1f1a4e	هل أنت مستعد لدفع الثمن الأخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00876	kh3_event_bt_dlc.bt973a	bt9730120sr0_1	2b9260fe	كفى!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00877	kh3_event_bt_dlc.bt973a	bt9730120sr0_2	3927cf10	اثنان فقط... سأنقذ كايري!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00878	kh3_event_bt_dlc.bt973a	bt9730130xn0	51b65784	للأسف، لقد تأخرت قليلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00879	kh3_event_bt_dlc.bt973a	bt9730140sr0	ea74717d	هاه?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00880	kh3_event_bt_dlc.bt973a	bt9730160sr0	20ba07f1	أوه، لا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00881	kh3_event_bt_dlc.bt973a	bt9730170xn0_1	5f871fb9	يبدو أنك فشلت في استعادة<br>كايري في الزمن القادم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00882	kh3_event_bt_dlc.bt973a	bt9730170xn0_1b	487d4720		todo	
-00883	kh3_event_bt_dlc.bt973a	bt9730170xn0_2	4d32b057	ولذلك ها أنت ذا، مرة أخرى، في أزمنة مضت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00884	kh3_event_bt_dlc.bt973a	bt9730170xn0_3	f58ed732	لكن الآن، وقد وصل "أنت" الآخر،<br>فأنت محكوم عليك بتكرار المصير نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00885	kh3_event_bt_dlc.bt973a	bt9730200sr0	fc87330c	ماذا أفعل...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00886	kh3_event_bt_dlc.bt973a	bt9730210xn0	c3668820	ماذا حقا? لم يبق لك سوى وقت قليل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00887	kh3_event_bt_dlc.bt903-904r	bt904r0010sr0	07d71f73	<i(on)>تمكنت من العودة، لكن ماذا الآن?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00888	kh3_event_bt_dlc.bt903-904r	bt904r0010sr1	bf6b7816	<i(on)>بهذا المعدل، سينفد وقتي قبل أن أستعيد كايري.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00889	kh3_event_bt_dlc.bt903-904r	bt904r0020sr0_1	ad3f2c33	<i(on)>اثنان فقط... جزءان فقط...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00890	kh3_event_bt_dlc.bt903-904r	bt904r0020sr0_2	bf8a83dd	<i(on)>مهلا! ماذا لو...?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00891	kh3_event_bt_dlc.bt903-904r	bt904r0030sr0_1	ac8ad12e	<i(on)>ماذا لو استطعت تتبع قلبي حارسين آخرين...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00892	kh3_event_bt_dlc.bt903-904r	bt904r0030sr0_2	be3f7ec0	<i(on)>لكن كيف...?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00893	kh3_event_bt_dlc.bt903-904r	bt904r0030sr0_3	068319a5	<i(on)>الجميع كانوا يقولون لي دائما—<br>اتبع قلبك فحسب، لكن...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-00894	kh3_event_bt_dlc.bt903-904r	bt904r0030sr0_4	9b54211c	<i(on)>أتبع قلبي...? القلوب كلها<br>مترابطة... أتتبع الصلة...<i(on)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00883	kh3_event_bt_dlc.bt973a	bt9730170xn0_2	4d32b057	ولذلك ها أنت ذا، مرة أخرى، في أزمنة مضت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00884	kh3_event_bt_dlc.bt973a	bt9730170xn0_3	f58ed732	لكن الآن، وقد وصل "أنت" الآخر،<br>فأنت محكوم عليك بتكرار المصير نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00885	kh3_event_bt_dlc.bt973a	bt9730200sr0	fc87330c	ماذا أفعل...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00886	kh3_event_bt_dlc.bt973a	bt9730210xn0	c3668820	ماذا حقا? لم يبق لك سوى وقت قليل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00887	kh3_event_bt_dlc.bt903-904r	bt904r0010sr0	07d71f73	<i(on)>تمكنت من العودة، لكن ماذا الآن?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00888	kh3_event_bt_dlc.bt903-904r	bt904r0010sr1	bf6b7816	<i(on)>بهذا المعدل، سينفد وقتي قبل أن أستعيد كايري.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00889	kh3_event_bt_dlc.bt903-904r	bt904r0020sr0_1	ad3f2c33	<i(on)>اثنان فقط... جزءان فقط...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00890	kh3_event_bt_dlc.bt903-904r	bt904r0020sr0_2	bf8a83dd	<i(on)>مهلا! ماذا لو...?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00891	kh3_event_bt_dlc.bt903-904r	bt904r0030sr0_1	ac8ad12e	<i(on)>ماذا لو استطعت تتبع قلبي حارسين آخرين...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00892	kh3_event_bt_dlc.bt903-904r	bt904r0030sr0_2	be3f7ec0	<i(on)>لكن كيف...?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00893	kh3_event_bt_dlc.bt903-904r	bt904r0030sr0_3	068319a5	<i(on)>الجميع كانوا يقولون لي دائما—<br>اتبع قلبك فحسب، لكن...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00894	kh3_event_bt_dlc.bt903-904r	bt904r0030sr0_4	9b54211c	<i(on)>أتبع قلبي...? القلوب كلها<br>مترابطة... أتتبع الصلة...<i(on)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00895	kh3_event_bt_dlc.bt903-904r	bt904r0030sr0_4b	2a21f6f8		todo	
-00896	kh3_event_bt_dlc.bt903-904r	bt904r0030sr0_5	23e84679	هذا هو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00896	kh3_event_bt_dlc.bt903-904r	bt904r0030sr0_5	23e84679	هذا هو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

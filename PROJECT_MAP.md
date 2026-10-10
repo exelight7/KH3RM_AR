@@ -21,13 +21,14 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 
 ## 3. Current phase, last round, next step
 
-- **Phase:** BUILD-6 installed and released as **0.8.1** (2026-10-10): `pakchunk99-arabic_P.pak` sha f6e8be85..., 4,889,997 B, in `~mods` via `SWAP_TO_BUILD6.bat`. 95.3 % of rows installed (16,415 / 17,222); the 807 `todo` rows carry a `skip:` note. Verified 0.6 %.
-- **Last round:** FINAL-1 part 1 (2026-10-10). Row 05051 fixed (`review\corrections\applied\final1_fix.tsv`); BUILD-6 = the BUILD-5 pipeline unchanged (`tools\build_build6.py` wraps `build_build4.py`); 6 entries differ from BUILD-5 (01392 01505 03913 05051 05962 06084, list in `out\builds\BUILD-6\diff_vs_build5.tsv`); 73 files SHA256 PASS, round trip 16,391 exact + 24 same-visual + 0 fail, validate 0 ERR. Installer 0.8.1 (21/21 self tests PASS). Release **0.8.1** (pre-release, 5 assets verified): https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.1 . Details: `state\LAST_REPORT.md`.
+- **Phase:** BUILD-7 installed and released as **0.8.2** (2026-10-10): `pakchunk99-arabic_P.pak` sha f9e23f37..., 4,889,918 B, in `~mods` via `SWAP_TO_BUILD7.bat` (the image pilot pak stays beside it). 95.3 % of rows installed (16,415 / 17,222); the 807 `todo` rows carry a `skip:` note. Verified 0.6 %.
+- **Last round (SYNC-BUILD7, 2026-10-10):** all 6 cloud PRs merged; `tools\sync_cloud.bat` applied the cloud second pass (69 files; 182 rows really changed: tutorials 54, Re Mind 31, items/abilities 27, menus 26, journal 26, subtitles 16, dialogue 2; 16,106 rows carry the note "..."); glossary aligned (Diving Strike, Powerwild, Frost Serpent, Monsters Inc); BUILD-7 = the BUILD-6 pipeline unchanged (`tools\build_build7.py`), 73 files SHA256 PASS, round trip 16,391 exact + 24 same-visual + 0 fail, 15 overflow rows as in BUILD-6 (none from the changed Risk label); installer 0.8.2 (22/22 self tests PASS); release **0.8.2** (pre-release, 5 assets verified): https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.2 . Details: `state\LAST_REPORT.md`.
 - **Image pilot (FINAL-1 part 2, 2026-10-10, installed, NOT released):** `out\builds\IMAGES-PILOT\pakchunk98-arabic-images_P.pak` (sha 75a94461..., 307,669 B) sits in `~mods` NEXT TO the BUILD-6 text pak (`SWAP_TO_IMAGES_PILOT.bat`; `REMOVE_IMAGES_PILOT.bat` deletes only the pilot). 3 textures, 16 text boxes: command menu header `HudCmdTextTT01_loc` (Twilight Town style), area banner `mapName_tt01` (The Neighborhood), Game Help picture `HelpItem01600` (Synthesis). Inventory: 324 textures with English (`technical\IMAGES_INVENTORY.tsv`, plan `technical\IMAGES_PLAN.md`); codec round trip byte-identical on 18 textures.
-- **What the user must screenshot:** the 3 pilot places in `technical\IMAGES_PILOT_CHECKLIST.md` (command header in Twilight Town, the area banner on entering The Neighborhood, Game Help › Synthesis picture) + `technical\BUILD6_CHECKLIST.md` (6 places).
-- **Next step:** IMAGES-MASS (rect lists by priority: banners, command headers, battle HUD cells, autosave; then tutorial pictures; then minigames/styled logos) → release 0.9.0 → user screenshots → 1.0.0.
-- **Public repository:** https://github.com/exelight7/KH3RM_AR (README Download points at 0.8.1, roadmap 0.8.x text fixes / 0.9.0 images / 1.0.0 after full testing). See section 10.
-- **Releases:** 0.8.0 (BUILD-5, RELEASE-080) and 0.8.1 (BUILD-6, FINAL-1), both pre-release, tags without "v".
+- **What the user must screenshot:** the 3 pilot places in `technical\IMAGES_PILOT_CHECKLIST.md` (command header in Twilight Town, the area banner on entering The Neighborhood, Game Help › Synthesis picture) + `technical\BUILD7_CHECKLIST.md` (4 places) + `technical\BUILD6_CHECKLIST.md` (6 places).
+- **Cloud review prep (CLOUD-PREP, 2026-10-10):** private repo `exelight7/KH3RM_AR_work` created and filled from `cloud_repo\` (`tools\make_cloud.py`, `cloud_check.py`, `cloud_secret_check.py`, `sync_cloud.bat`, GitHub Action `check`); 4 ranges of the 32 script pages in `review\cloud\TASKS.md`; details `docs\CLOUD_WORKFLOW.md`, `state\LAST_REPORT.md`. Public repo not touched.
+- **Next step:** user screenshots (BUILD-7 checklist, image pilot); IMAGES-MASS (rect lists by priority: banners, command headers, battle HUD cells, autosave; then tutorial pictures; then minigames/styled logos) -> release 0.9.0 -> user screenshots -> 1.0.0 (still LOCKED, see section 4).
+- **Public repository:** https://github.com/exelight7/KH3RM_AR (README Download points at 0.8.2, roadmap 0.8.x text fixes / 0.9.0 images / 1.0.0 after full testing). See section 10.
+- **Releases:** 0.8.0 (BUILD-5, RELEASE-080), 0.8.1 (BUILD-6, FINAL-1) and 0.8.2 (BUILD-7, SYNC-BUILD7), all pre-release, tags without "v".
 
 ## 4. Decisions already made
 
@@ -84,12 +85,17 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | 2026-10-10 | BUILD-6 = the BUILD-5 pipeline unchanged (REVIEW-3 + row 05051); release 0.8.1 created on the user's explicit FINAL-1 instruction before the BUILD-6 checklist screenshots (exception to the PUBLISH-1 release rule, this round only) | user, FINAL-1 |
 | 2026-10-10 | Arabic in round prompts arrives as \uXXXX escapes; the tool layer may turn them into Arabic before Python runs, so fragments are decoded from hex code points (`chr(int(h, 16))`) | executor, FINAL-1 |
 | 2026-10-10 | Images: textures are edited in place (same format, size, mips; only changed 4x4 blocks re-encoded) and shipped in a separate optional pak `pakchunk98-arabic-images_P.pak` beside the text pak (the only case with two of our paks in `~mods`); brand wordmarks (KINGDOM HEARTS III, Re Mind, Classic Kingdom titles, VERUM REX, world logos such as Monsters, Inc.), key names, credits and language names keep English; Arabic text comes from the translation rows / glossary, drawn with Segoe UI | user, FINAL-1 |
+| 2026-10-10 | **Cloud review:** private repo `KH3RM_AR_work` (github.com/exelight7/KH3RM_AR_work, PRIVATE, EN + AR workspace for cloud Claude sessions, `cloud_repo\` here, branch main, never public); public repo `KH3RM_AR` stays Arabic-only; **1.0.0 is LOCKED until (a) cloud second-pass review of all dialogue and subtitles is merged, (b) image phase done, (c) the user says go.** Cloud sessions follow `CLOUD_RULES.md`, ranges in `review\cloud\TASKS.md`, workflow `docs\CLOUD_WORKFLOW.md`, sync `tools\sync_cloud.bat` | user, CLOUD-PREP |
+| 2026-10-10 | Cloud corrections: `review\corrections\cloud\<page>.tsv` (same 4 columns; new_AR == old_AR marks a row as checked) are applied by `apply_corrections.py` and set status reviewed (verified kept) + note `cloud review pass 2`; sync replays the cloud corrections (old_AR must match) instead of copying TSVs, so local changes are never overwritten | executor, CLOUD-PREP |
+| 2026-10-10 | General note: the user tested BUILD-5/6 in game and reported OK, no screenshots (2026-10-10); no row is marked verified because of it | user, CLOUD-PREP |
+| 2026-10-10 | Cloud sync: parallel cloud branches may correct the same id; `apply_corrections` merges identical results and a check mark (new == old) with one real change (the real change wins); two different real changes stay a refusal. Glossary aligned to the corrected rows: Diving Strike = ability-row form, Powerwild / Frost Serpent = bestiary-row forms, Monsters Inc = the short menu form (no "limited"), approved. BUILD-7 = BUILD-6 pipeline unchanged; release 0.8.2 created on the user's explicit SYNC-BUILD7 instruction before the BUILD-7 checklist screenshots | supervisor / executor, SYNC-BUILD7 |
 
 ## 5. Folders and key files (auto)
 
 | path | what |
 |---|---|
 | `CHANGELOG.md` | Changelog |
+| `CLOUD_RULES.md` | CLOUD_RULES — read this first, obey it exactly |
 | `LICENSE_TODO.md` | License — undecided |
 | `PROJECT_MAP.md` | PROJECT_MAP — KH3 Arabic (start here) |
 | `README.md` | تعريب Kingdom Hearts III + Re Mind |
@@ -101,11 +107,14 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `SWAP_TO_BUILD4.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD5.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD6.bat` | chcp 65001 >nul |
+| `SWAP_TO_BUILD7.bat` | chcp 65001 >nul |
 | `SWAP_TO_F1.bat` | chcp 65001 >nul |
 | `SWAP_TO_F2.bat` | chcp 65001 >nul |
 | `SWAP_TO_IMAGES_PILOT.bat` | chcp 65001 >nul |
 | `SWAP_TO_TEST50.bat` | chcp 65001 >nul |
+| `cloud_repo\` | (no description) |
 | `docs\` | project docs: INDEX (doc list), SUPERVISOR (full supervisor instructions) |
+| `docs\CLOUD_WORKFLOW.md` | Cloud review workflow |
 | `docs\INDEX.md` | Docs index |
 | `docs\SUPERVISOR.md` | Supervisor instructions (full copy) |
 | `extracted\` | read-only decrypted copies of game files + pak index (gitignored, never deleted) |
@@ -113,9 +122,11 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `out\` | build outputs: out\builds\<round>\ paks, pakroots, verify tables (gitignored, never deleted) |
 | `public_repo\` | (no description) |
 | `review\` | review pages (Markdown), corrections, validation report; **`review\script\` = the reference script for translation and review** (story order by the Theater table + TIPS pages, `tools\make_script.py`) |
+| `review\CLOUD_BUGS.md` | Tool bugs found by cloud sessions |
 | `review\FLAGS.md` | Flagged rows |
 | `review\INDEX.md` | Review index |
 | `review\RULES.md` | Review workflow |
+| `review\UNSURE_CLOUD.md` | Unsure items (cloud review) |
 | `review\UNSURE_REVIEW2.md` | UNSURE_REVIEW2 (REVIEW-2, RESOLVED: items not changed or changed on an assumption) |
 | `review\VALIDATION.md` | VALIDATION |
 | `review\review_dialogue.tsv` | TSV, columns: id, EN, AR, status, flags, note |
@@ -127,6 +138,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `review\review_tutorials.tsv` | TSV, columns: id, EN, AR, status, flags, note |
 | `screenshots\` | optional, gitignored; screenshots are sent in the supervisor chat (log file = chat) |
 | `state\` | round log, last report, stats, screenshot log |
+| `state\CLOUD_PROGRESS.md` | Cloud progress |
 | `state\INSTALLED.tsv` | TSV, columns: id, ar_sha1, build |
 | `state\LAST_REPORT.md` | latest round report (overwritten each round) |
 | `state\PROGRESS.md` | round log, 3 lines per task (source of the round history below) |
@@ -139,6 +151,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `technical\BUILD3_CHECKLIST.md` | قائمة فحص BUILD-3 |
 | `technical\BUILD5_CHECKLIST.md` | قائمة فحص BUILD-5 |
 | `technical\BUILD6_CHECKLIST.md` | قائمة فحص BUILD-6 |
+| `technical\BUILD7_CHECKLIST.md` | قائمة فحص BUILD-7 |
 | `technical\FIELD_WIDTHS.tsv` | TSV, columns: prefix, keys, movie, field, font, font_id, size_pt, x0, x1, y0, y1, max_lines, reflow, evidence |
 | `technical\IMAGES_INVENTORY.tsv` | TSV, columns: asset, group, size, format, mips, storage, pak, screen, english, plan, priority |
 | `technical\IMAGES_PILOT_CHECKLIST.md` | قائمة فحص تجربة الصور (IMAGES-PILOT) |
@@ -164,7 +177,10 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `tools\build_build4.py` | BUILD-4: the first full build with every translated row (all categories: story dialogue, subtitles, Re Mind, |
 | `tools\build_build5.py` | BUILD-5: the BUILD-4 pipeline unchanged (tools\build_build4.py: same movie patches, TresFont, line breaking, no <p align>) |
 | `tools\build_build6.py` | BUILD-6: the BUILD-5 pipeline unchanged (tools\build_build4.py via the same wrapper as build_build5.py: same movie |
+| `tools\build_build7.py` | BUILD-7: the BUILD-6 pipeline unchanged (tools\build_build4.py via the same wrapper as build_build6.py: same movie |
 | `tools\build_test50.py` | TEST50 build: 50 test rows (menus, items, equipment, abilities, plural/acronym/set-letter rows, tutorials, |
+| `tools\cloud_check.py` | Cloud check (run after every page and by GitHub Actions): translation integrity + validate (0 ERR) + unit tests + secret scan. |
+| `tools\cloud_secret_check.py` | Check cloud_repo/ (or any directory / file list) before every push to the private cloud repo. Fails on: forbidden |
 | `tools\comma_fix.py` | TRANS-3: ASCII ',' used as Arabic punctuation -> '،' in translated AR rows. Usage: comma_fix.py [--apply] |
 | `tools\font_census.py` | Read-only (TEST50): font classes of every text field in the game's Scaleform movies. |
 | `tools\full1_magic.py` | One-time (FULL-1 Part B): magic names in Arabic (user decision FULL-1, KH3 only; KH2 glossary file unchanged). |
@@ -177,6 +193,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `tools\images_inventory.py` | Read-only (FINAL-1 part 2): inventory of the textures that show English text. |
 | `tools\import_kh2_glossary.py` | One-time/idempotent (GLOSS-1): import translation\kh2_glossary.md (finished KH2 project, Arabic Markdown tables) |
 | `tools\locres.py` | UE4 .locres reader/writer (legacy v0 and compact v1, as shipped by KH3 / UE 4.17). |
+| `tools\make_cloud.py` | Regenerate cloud_repo\ (git repo of the PRIVATE github.com/exelight7/KH3RM_AR_work) from the private project: exactly what a Linux |
 | `tools\make_glossary.py` | translation\glossary.tsv (source of truth) -> recount kh3_count/example_ids from translation\<cat>\*.tsv EN |
 | `tools\make_public.py` | Regenerate public_repo\ (a clone of github.com/exelight7/KH3RM_AR) from the private project. Never copies game files, |
 | `tools\make_release.py` | Prepare out\release\ for a GitHub Release: the installed BUILD pak, SHA256.txt, INSTALL_AR.bat, REMOVE_AR.bat, AR_MESSAGES.txt. |
@@ -199,7 +216,10 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `tools\shaper.py` | Arabic pre-shaper for KH3 Scaleform text (technical/SHAPER_SPEC.md §1-6; §8 checks in tools/test_shaper.py). |
 | `tools\split_translation.py` | One-time/idempotent: split translation\en_source.tsv into translation\<category>\<file>.tsv. |
 | `tools\stats.py` | Write state\STATS.md. translated = status in translated/reviewed/verified; reviewed = reviewed/verified; |
+| `tools\sync_cloud.bat` | Cloud sync: pull merged cloud review work into the private project, then regenerate and push cloud_repo (private KH3RM_AR_work, main, never  |
+| `tools\sync_cloud.py` | Cloud sync (run through tools\sync_cloud.bat). Never force-pushes; only cloud_repo\ (private KH3RM_AR_work, branch main) is pushed. |
 | `tools\tag_inventory.py` | Read-only: inventory of markup in the English locres export. |
+| `tools\test_cloud_secret_check.py` | unit tests for cloud_secret_check.py |
 | `tools\test_corrections.py` | unit tests for apply_corrections.py |
 | `tools\test_public_check.py` |  |
 | `tools\test_shaper.py` | unit tests for shaper.py: SHAPER_SPEC §9a (U1-U12), §9b (the 20 TAGS.md examples T1-T20 + T21/T22), |
@@ -233,7 +253,7 @@ All commands from the project root (`C:\filessss\mewo\kh3fm-arabic`).
 - **Refresh everything** (merge check, tests, corrections, validation, review pages, stats, this map, secret check): `tools\refresh.bat`
 - **Shape a string / run the shaper tests:** `python -I tools\shaper.py "نص"..."installed" column after `tools\refresh.bat`).
 - **BUILD-2:** `python -I tools\build_build2.py` → `out\builds\BUILD-2\` (same outputs; help-field reflow from `technical\FIELD_WIDTHS.tsv` `max_lines`); install `SWAP_TO_BUILD2.bat`, then `python -I tools\build_build2.py --installed`.
-- **BUILD-6 (current full build):** `python -I tools\build_build6.py` → `out\builds\BUILD-6\` (BUILD-4 pipeline on the current TSVs, `diff_vs_build5.tsv`, `build.log`); install `SWAP_TO_BUILD6.bat`, then `python -I tools\build_build6.py --installed`. BUILD-5: the same with `build_build5.py` / `SWAP_TO_BUILD5.bat`. repak output is not byte-reproducible between runs: a rebuild gives a new sha, so regenerate the swap script (`tools\make_swap_scripts.py`) after the last build.
+- **BUILD-7 (current full build):** `python -I tools\build_build7.py > out\builds\BUILD-7\build.log` → `out\builds\BUILD-7\` (BUILD-4 pipeline on the current TSVs, `diff_vs_build6.tsv`); install `SWAP_TO_BUILD7.bat` (from cmd; Git Bash needs `cmd //c .\SWAP_TO_BUILD7.bat`), then `python -I tools\build_build7.py --installed`. BUILD-6: the same with `build_build6.py` / `SWAP_TO_BUILD6.bat`. BUILD-5: the same with `build_build5.py` / `SWAP_TO_BUILD5.bat`. repak output is not byte-reproducible between runs: a rebuild gives a new sha, so regenerate the swap script (`tools\make_swap_scripts.py`) after the last build.
 - **BUILD-4:** `python -I tools\build_build4.py` → `out\builds\BUILD-4\` (all translated rows, Subtitle/EN-widest line breaking, 3 patched LV movies, `movie_verify.tsv`, `overflow.tsv` = rows over field capacity); `--fields` regenerates the BUILD-4 rows of `technical\FIELD_WIDTHS.tsv`; install `SWAP_TO_BUILD4.bat`, then `python -I tools\build_build4.py --installed`. repak orders files differently per run, so a rebuild has a new pak SHA (per-file SHA identical): rebuild → regenerate the swap script.
 - **Where a movie places a field (neighbour gaps):** `python -I tools\gfx_layout.py <movie.uexp> <char id>`
 - **BUILD-3:** `python -I tools\build_build3.py` → `out\builds\BUILD-3\` (BUILD-2 + patched CampMenu movie, `movie_verify.tsv`, align test on row 15729); install `SWAP_TO_BUILD3.bat`, then `python -I tools\build_build3.py --installed`.
@@ -246,7 +266,7 @@ All commands from the project root (`C:\filessss\mewo\kh3fm-arabic`).
 - **Swap the test pak (double-click in the project root, close the game first):** `SWAP_TO_BUILD1.bat` / `SWAP_TO_TEST50.bat` / `SWAP_TO_F1.bat` / `SWAP_TO_F2.bat` delete our `pakchunk99-*_P.pak` from `~mods`, copy the BUILD-1 pak, the TEST50 pak or the ARABIC-TEST-2 F1/F2 pak from `out\builds\`, verify SHA256 against the build and print Arabic + English "Done" (it asks for admin rights only if the copy fails for permissions). `REMOVE_ARABIC.bat` deletes our pak and the empty `~mods`. All three refuse to run while KINGDOM HEARTS III is running and append to `state\SWAP_LOG.tsv` (time, action, hash, result). Scripts are generated by `tools\make_swap_scripts.py` (pure ASCII; messages in `tools\swap_msgs\`). Other paks: copy by hand into `C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS III\KINGDOM HEARTS III\Content\Paks\~mods\`, only one of ours at a time (`technical\RECON_KH3.md` §12).
 - **Images (FINAL-1):** inventory `python -I tools\images_inventory.py` (read-only; extracts missing textures into `extracted\assets`) → `technical\IMAGES_INVENTORY.tsv` + `out\builds\IMAGES\ref\` PNGs/contact sheets (words by eye in `technical\images_words.tsv`); codec `python -I tools\texture_codec.py info|png|roundtrip`; repaint: rects in `technical\images_rects.tsv`, `python -I tools\texture_text.py preview` (before/after PNGs) / `pilot` (pak + verify) / `--installed`; install `SWAP_TO_IMAGES_PILOT.bat`, remove `REMOVE_IMAGES_PILOT.bat` (both touch only `pakchunk98-arabic-images_P.pak`; the pilot sha is pinned in `tools\make_swap_scripts.py`).
 - **Commit:** after `tools\refresh.bat` exits 0; `tools\secret_check.py` must PASS.
-- **Installer / release (RELEASE-080):** build the EXE: `cd tools\installer` then `dotnet publish -c Release -o ..\..\out\release\vX\publish` (needs .NET 8 SDK; embeds `out\builds\BUILD-6\pakchunk99-arabic_P.pak` since 0.8.1, override with `-p:PakPath=...`; for a new BUILD update `Core.ExpectedSha`, `Core.Version`, csproj `Version` + `PakPath` and the SelfTest label). Tests: `KH3RM_AR_Setup.exe --selftest out.txt`; screenshots: `--render ar|en out.png`; icon: `--icon app.ico`. GitHub CLI 2.102.0 (official zip, sha ae64e556...) is in `tools\gh-2.102.0\x\bin\gh.exe` (gitignored); release (tag without "v"..."0.8.1 (pre-release)" --notes-file out\release\v0.8.1\RELEASE_NOTES.md <5 assets>` (user logged in), then `gh release view 0.8.1 --json assets` against `SHA256SUMS.txt`. The README download version is `RELEASE` in `tools\make_public.py`.
+- **Installer / release (RELEASE-080):** build the EXE: `cd tools\installer` then `dotnet publish -c Release -o ..\..\out\release\vX\publish` (needs .NET 8 SDK; embeds `out\builds\BUILD-7\pakchunk99-arabic_P.pak` since 0.8.2 (csproj `PakPath` default must be changed too), override with `-p:PakPath=...`; for a new BUILD update `Core.ExpectedSha`, `Core.Version`, csproj `Version` + `PakPath` and the SelfTest label). Tests: `KH3RM_AR_Setup.exe --selftest out.txt`; screenshots: `--render ar|en out.png`; icon: `--icon app.ico`. GitHub CLI 2.102.0 (official zip, sha ae64e556...) is in `tools\gh-2.102.0\x\bin\gh.exe` (gitignored); release (tag without "v"..."0.8.2 (pre-release)" --notes-file out\release\v0.8.2\RELEASE_NOTES.md <5 assets>` (user logged in), then `gh release view 0.8.2 --json assets` against `SHA256SUMS.txt`. The README download version is `RELEASE` in `tools\make_public.py`.
 
 ## 7. Numbers (auto)
 
@@ -257,15 +277,16 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 | dialogue | 2298 | 2213 (96.3%) | 2213 (96.3%) | 2213 (96.3%) | 0 (0.0%) |
 | items_abilities | 2334 | 2160 (92.5%) | 2160 (92.5%) | 2160 (92.5%) | 3 (0.1%) |
 | journal | 628 | 615 (97.9%) | 615 (97.9%) | 615 (97.9%) | 0 (0.0%) |
-| menus_ui | 3849 | 3605 (93.7%) | 3605 (93.7%) | 3604 (93.6%) | 94 (2.4%) |
+| menus_ui | 3849 | 3605 (93.7%) | 3605 (93.7%) | 3605 (93.7%) | 94 (2.4%) |
 | remind | 1163 | 1126 (96.8%) | 1126 (96.8%) | 1126 (96.8%) | 0 (0.0%) |
 | subtitles_cutscenes | 6336 | 6083 (96.0%) | 6083 (96.0%) | 6083 (96.0%) | 1 (0.0%) |
 | tutorials | 614 | 613 (99.8%) | 613 (99.8%) | 613 (99.8%) | 0 (0.0%) |
-| TOTAL | 17222 | 16415 (95.3%) | 16415 (95.3%) | 16414 (95.3%) | 98 (0.6%) |
+| TOTAL | 17222 | 16415 (95.3%) | 16415 (95.3%) | 16415 (95.3%) | 98 (0.6%) |
 
 ## 8. Open questions
 
-- BUILD-6 / 0.8.1 screenshots (`technical\BUILD6_CHECKLIST.md`, 6 places: the 6 changed rows, party card and save card level labels). Still open from BUILD-5 (`technical\BUILD5_CHECKLIST.md`, 8 places; incl. level-up line 15964, rows 01091/05448, party card level label): subtitle line order and 3-line rows (03474, 03581, 06647), field voice in the Subtitle field (assumed), save card and gummi LV labels; from BUILD-3: party-card مستوى and help boxes still unconfirmed.
+- Cloud review: done and merged (6 PRs, synced in SYNC-BUILD7). Open: unsure items in `review\UNSURE_CLOUD.md` and tool bugs in `review\CLOUD_BUGS.md` (supervisor to read); the parallel cloud branches corrected some ids twice (handled by `apply_corrections`, section 4).
+- BUILD-7 / 0.8.2 screenshots (`technical\BUILD7_CHECKLIST.md`, 4 places). Still open from BUILD-6 (`technical\BUILD6_CHECKLIST.md`, 6 places) and BUILD-5 (`technical\BUILD5_CHECKLIST.md`, 8 places; incl. level-up line 15964, rows 01091/05448, party card level label): subtitle line order and 3-line rows (03474, 03581, 06647), field voice in the Subtitle field (assumed), save card and gummi LV labels; from BUILD-3: party-card مستوى and help boxes still unconfirmed. Swap scripts run from Git Bash print harmless `find` errors in the game-running check (Git's `find` shadows Windows `find`): run them from cmd.
 - Row 15964 (LV UP!) is installed (BUILD-5/6) (1,067 of 1,621 units in HudRight #109); confirm by screenshot. Supervisor review still open: lyrics (own MSA wording), the Re Mind batch. (Unsure rows decided in REVIEW-3; row 05051 fixed and installed in FINAL-1; 01302/01304 addressee gender not clear from the script, left feminine.)
 - Row 05955 uses the feminine «حاملة كيبلايد» (glossary second form); its GLOSS warning is accepted.
 - Field guesses to confirm in-game: field/battle voice = Subtitle #1; 49 "(EN widest)" namespaces (tutorial popups, game-over hints, gummi menus, mission/settings help) break at their widest mid-sentence EN line; settings graphics/keyboard and the streaming notice have only engine-wrapped EN paragraphs (no width evidence).
@@ -304,6 +325,8 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 - 2026-10-10 **RELEASE-080** (3 entries) — last: T3 release prep: gh 2.102.0 official zip (sha ae64e556...) in tools\gh-2.102.0, not logged in; assets + RELEASE_NOTES.md ready; waiting for user gh auth login.
 - 2026-10-10 **REVIEW-3** (3 entries) — last: T8 close: refresh, secret_check, PROJECT_MAP 3 4 8 + CHANGELOG, private commit. BUILD-6 / v0.8.1 needed to install.
 - 2026-10-10 **FINAL-1** (28 entries) — last: DONE; next: user screenshots of the pilot, then IMAGES-MASS -> 0.9.0 -> screenshots -> 1.0.0.
+- 2026-10-10 **CLOUD-PREP** (27 entries) — last: DONE.
+- 2026-10-10 **SYNC-BUILD7** (5 entries) — last: T5 release 0.8.2 (pre-release): 5 assets, sizes/SHA256 match SHA256SUMS.txt (gh release view).
 
 ## 10. Public repository
 

@@ -1,5 +1,11 @@
 # Changelog
 
+## SYNC-BUILD7 (2026-10-10)
+- Cloud second-pass review synced (`tools\sync_cloud.bat`, PRs 1-6 merged): 69 correction files, 182 rows changed, 16,106 rows noted "...". `tools/apply_corrections.py`: an id corrected by two parallel cloud files is merged (identical results, or a check mark plus one real change); two different real changes still refuse.
+- Glossary aligned with the corrected rows (Diving Strike, Powerwild, Frost Serpent, Monsters Inc), approved, note "supervisor SYNC-BUILD7".
+- BUILD-7 (`tools/build_build7.py`, the BUILD-6 pipeline unchanged): 182 entries differ from BUILD-6; pak sha f9e23f37…, 4,889,918 B; 73 files SHA256 PASS, round trip 0 fail; installed with `SWAP_TO_BUILD7.bat`; `technical/BUILD7_CHECKLIST.md` (4 places).
+- Installer 0.8.2 (embeds BUILD-7; 22/22 self tests PASS); GitHub pre-release **0.8.2** with 5 verified assets; public README points at 0.8.2.
+
 ## FINAL-1 part 2 (2026-10-10)
 - Image inventory: `tools/images_inventory.py` → `technical/IMAGES_INVENTORY.tsv` (324 textures with English: 26 area banners, 89 Scaleform `_loc`, 150 tutorial pictures, 2 key atlases, 25 logos, 9 LSI, 23 shared HUD textures), `technical/IMAGES_PLAN.md`; movie bitmaps and TexturePump lists checked (no baked text).
 - `tools/texture_codec.py`: UE4.17 Texture2D read/write (uexp + ubulk), BC7/DXT5/BC4/BGRA decode + block-patch encode; byte-identical round trip on 18 textures.

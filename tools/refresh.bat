@@ -5,6 +5,7 @@ python tools\merge_translation.py --check || exit /b 1
 python tools\test_validate.py || exit /b 1
 python tools\test_corrections.py || exit /b 1
 python tools\test_shaper.py || exit /b 1
+python tools\test_cloud_secret_check.py || exit /b 1
 python tools\apply_corrections.py || exit /b 1
 python tools\make_glossary.py || exit /b 1
 python tools\validate.py || exit /b 1

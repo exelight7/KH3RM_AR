@@ -39,6 +39,15 @@ class T(unittest.TestCase):
         with self.assertRaises(SystemExit):
             apply(self.d)
 
+    def test_cloud_marks_checked(self):
+        write_tsv(os.path.join(self.c, 'cloud', 'p1.tsv'), [HEADER, ['00001', 'قديم', 'جديد', 'x'], ['00002', '', '', '']])
+        self.assertEqual(apply(self.d), 2)
+        r = read_tsv(self.t)
+        self.assertEqual((r[1][5], r[1][6], r[1][7]), ('جديد', 'reviewed', 'cloud review pass 2'))
+        self.assertEqual((r[2][6], r[2][7]), ('todo', ''))  # empty AR row untouched
+        self.assertTrue(os.path.exists(os.path.join(self.c, 'applied', 'cloud', 'p1.tsv')))
+        self.assertFalse(os.path.exists(os.path.join(self.c, 'cloud', 'p1.tsv')))
+
     def test_no_files(self):
         self.assertEqual(apply(self.d), 0)
 
