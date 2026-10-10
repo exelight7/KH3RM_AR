@@ -1,0 +1,1 @@
+فشل: البصمة لا تطابق البناء، حُذف الملف / FAILED: SHA256 mismatch, copy removed

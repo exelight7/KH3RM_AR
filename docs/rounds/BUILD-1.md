@@ -1,0 +1,12 @@
+ROLE: sole executor (Claude Code, Opus 5.5, high effort). Write only in C:\filessss\mewo\kh3fm-arabic\. Never modify original game files; never run the game; never delete extracted\ or out\builds\. Do not upload anything; git local only. No HTML anywhere. Font = Segoe UI Regular (F1 scale, locked).
+OUTPUT RULES: work silently. Details in state\LAST_REPORT.md (overwrite; first line "round: BUILD-1"..."done + file path". Stop and ask only if blocked 3 times or evidence conflicts. If the usage limit is close: finish the current step, commit, write the resume point, stop.
+START: pwd; save this prompt as docs\rounds\BUILD-1.md; read PROJECT_MAP.md, state\PROGRESS.md, technical\SHAPER_SPEC.md, the TRANS-3 report.
+APPROVALS: INSTALL out\builds\BUILD-1\pakchunk99-arabic_P.pak into the mods folder approved, via the swap-script method (add SWAP_TO_BUILD1.bat; delete our pakchunk99-*_P.pak first; verify SHA256; log to SWAP_LOG.tsv).
+SUPERVISOR DECISIONS: Arabic hashtags with "_" approved. conv-group hoist design approved (hoist <conv(...)> to string start, close at end), then translate the 12 skipped tutorial rows. Film titles: Frozen = ملكة الثلج, Toy Story = حكاية لعبة (common Arabic dub titles); add both to glossary approved; Tangled stays as is, mark pending "...".
+TASKS:
+1. Line breaking in the shaper: for rows whose EN has no <br>, break Arabic into lines by measured width using the target field's font metrics (glyph advances of the class at the locked scale) and the field width from the movie (find width per text field used by tutorials, journal, help, item/ability descriptions). Break only at spaces, never inside tags/args/LTR runs; each line then shaped and reversed on its own. Unit tests with real long rows. If a field width cannot be found, report it and leave the row unbroken.
+2. conv hoist + translate the 12 skipped tutorial rows; tests.
+3. Full build: every translated row in all categories (menus_ui, items_abilities, tutorials, journal, title, the TEST50 subtitle rows) shaped into the en locres; all other rows original EN. Pak with the rebuilt TresFont (all 4 classes). Verify list/extract/SHA256; report how many entries changed per locres.
+4. Install as approved. Write technical\BUILD1_CHECKLIST.md in Arabic, very short (max 6 places): title screen, main menu, items, equipment, abilities, game help long page, journal page; what to look at in each.
+5. refresh.bat, secret_check, PROJECT_MAP §3 §4 §6 §7 §8 (add "installed %"..."BUILD-1: line breaking, full 40% build installed".
+Then stop.

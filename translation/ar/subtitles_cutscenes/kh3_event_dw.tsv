@@ -1,0 +1,162 @@
+id	namespace	key	source_hash	AR	status	note
+02152	kh3_event_dw.dw151a	dw1510010mm0_1	591885da	ما الخطب يا ريكو? هل أنت متعب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02153	kh3_event_dw.dw151a	dw1510010mm0_2	4bad2a34	هل تحتاج إلى استراحة? يمكننا التوقف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02154	kh3_event_dw.dw151a	dw1510020rk0	57d9ee0f	لا، فقط...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02155	kh3_event_dw.dw151a	dw1510020rk1	ef65896a	لقد كنت هنا من قبل. يفترض أن أعرف هذا المكان.<br>لكن كل ذلك يبدو كأنه حياة أخرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02156	kh3_event_dw.dw151a	dw1510030mm0_1	5a737fe0	عجبا. فكر في كل ما رأيته!<br>وكل المشاعر التي شعرت بها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02157	kh3_event_dw.dw151a	dw1510030mm0_2	48c6d00e	لقد كبرت سنوات<br>في وقت قصير جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02158	kh3_event_dw.dw151a	dw1510040rk0_1	91b23e53	أذكر أول مرة جئت فيها إلى هنا.<br>كنت خائفا جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02159	kh3_event_dw.dw151a	dw1510040rk0_2	830791bd	لكن الآن، زالت شكوكي ومخاوفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02160	kh3_event_dw.dw151a	dw1510040rk0_3	3bbbf6d8	بل إنني أشعر بالحماس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02161	kh3_event_dw.dw151a	dw1510040rk0_4	a66cce61	وليس لأن في داخلي ظلاما—<br>أعرف جيدا كيف يكون ذلك الاندفاع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02162	kh3_event_dw.dw151a	dw1510040rk0_5	1ed0a904	هذا مختلف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02163	kh3_event_dw.dw151a	dw1510050rk0_1	9007c34e	وليس الأدرينالين أيضا.<br>أعرف أن أكوا تحتاجنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02164	kh3_event_dw.dw151a	dw1510050rk0_2	82b26ca0	لكنني مستعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02165	kh3_event_dw.dw151a	dw1510050rk0_3	3a0e0bc5	أنا مسيطر على نفسي الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02166	kh3_event_dw.dw151a	dw1510050rk0_4	a7d9337c	ربما لأنك معي هذه المرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02167	kh3_event_dw.dw151a	dw1510070mm0_1	5ca48b94	ليس بسببي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02168	kh3_event_dw.dw151a	dw1510070mm0_2	4e11247a	أظن أن السبب أنك وجدت أخيرا في داخلك<br>تلك القوة الخاصة لحماية ما يهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02169	kh3_event_dw.dw151a	dw1510080rk0	00cc4e31	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02170	kh3_event_dw.dw151a	dw1510090mm0_1	54b76d32	أحيانا تهتم بشخص ما كثيرا<br>حتى تختفي المشاعر الأخرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02171	kh3_event_dw.dw151a	dw1510090mm0_2	4602c2dc	وعندها، لا يبقى مكان للخوف أو الشك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02172	kh3_event_dw.dw151a	dw1510110rk0	7955c6e2	أهذا هو الأمر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02173	kh3_event_dw.dw151a	dw1510120rk0_1	65d435b7	"القوة لحماية ما يهم"...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02174	kh3_event_dw.dw151a	dw1510120rk0_2	77619a59	هذا يذكرني بوعد قطعته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02175	kh3_event_dw.dw151a	dw1510130mm0	0b78cb64	لمن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02176	kh3_event_dw.dw151a	dw1510140rk0	52df16fd	شخص قابلته ذات مرة. لا أستطيع أن أخبرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02177	kh3_event_dw.dw151a	dw1510150mm0	8f5b56b1	تبدو ذكرى جميلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02178	kh3_event_dw.dw151a	dw1510160rk0_1	6303c1c3	نعم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02179	kh3_event_dw.dw151a	dw1510160rk0_2	71b66e2d	وما دمنا نستعيد الذكريات—<br>ميكي، هل يبدو لك شيء من هذا مألوفا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02180	kh3_event_dw.dw151a	dw1510170mm0	4595203d	نوعا ما، لكن عالم الظلام<br>تغير منذ أن كنت هنا مع أكوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02181	kh3_event_dw.dw151a	dw1510180rk0	81e92b16	نعم، إنه مختلف عما أذكره.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02182	kh3_event_dw.dw151a	dw1510190mm0_1	a56d6898	عادة، كنت أتبع قلبي فحسب،<br>فترشدني أكوا إلى الطريق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02183	kh3_event_dw.dw151a	dw1510190mm0_2	b7d8c776	لكن كلما اقتربت، ازدادت<br>الصلة بيننا ضبابية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02184	kh3_event_dw.dw151a	dw1510200rk0	442c548c	تقصد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02185	kh3_event_dw.dw151a	dw1510210mm0	99a814c0	ربما، لكن لا يجوز أن نفقد الأمل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02186	kh3_event_dw.dw151a	dw1510220rk0	8ee22200	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02187	kh3_event_dw.dw151a	dw_worldname	5b562bb9		todo	
+02188	kh3_event_dw.dw152a	dw1520010rk0	316fab7a	هذا الشاطئ...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02189	kh3_event_dw.dw152a	dw1520020mm0	26259dba	لقد اختفى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02190	kh3_event_dw.dw152a	dw1520030rk0	fba1ddf6	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02191	kh3_event_dw.dw152a	dw1520040mm0_1	74c63c3b	أنا متأكد أن أكوا كانت هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02192	kh3_event_dw.dw152a	dw1520040mm0_2	667393d5	لكن الآن... خفت أثرها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02193	kh3_event_dw.dw152a	dw1520050rk0	7f824023	أنا أيضا كنت هنا. مع سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02194	kh3_event_dw.dw152a	dw1520060mm0	68c876e3	حقا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02195	kh3_event_dw.dw152a	dw1520070rk0_1	b9d089fc	هنا وجدنا طريقنا<br>عائدين إلى عالم النور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02196	kh3_event_dw.dw152a	dw1520070rk0_2	ab652612	ربما فعلت أكوا ذلك أيضا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02197	kh3_event_dw.dw152a	dw1520080mm0_1	7fbe20a7	أكوا... سقطت في هاوية أشد ظلمة—<br>في مكان لا أستطيع أن أراها فيه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02198	kh3_event_dw.dw152a	dw1520080mm0_2	6d0b8f49	ولا أظن أننا مستعدون للغوص<br>أعمق مما نحن فيه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02199	kh3_event_dw.dw152a	dw1520090rk0	acb47dc8	إذن...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02200	kh3_event_dw.dw152a	dw1520110mm0	08a9b557	يا للهول!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02201	kh3_event_dw.dw152a	dw1520120rk0	1fe38397	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02202	kh3_event_dw.dw152a	dw1520130mm0_1	8115cac2	ريكو... كن حذرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02203	kh3_event_dw.dw152a	dw1520130mm0_2	93a0652c	حتى أضعف بلا قلب<br>يكونون أقوى في هذا العالم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02204	kh3_event_dw.dw152a	dw1520140rk0	9bc01e42	فهمت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02205	kh3_event_dw.dw153a	dw1530010mm0	7856d5da	لم ينته الأمر. كن حذرا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02206	kh3_event_dw.dw153a	dw1530030rk0	0a7bd85c	يا للهول!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02207	kh3_event_dw.dw153a	dw1530040mm0	53dc05c5	ريكو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02208	kh3_event_dw.dw153a	dw1530060rr0	42052243	<i(on)>لم أتوقع أن أراك مجددا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02209	kh3_event_dw.dw153a	dw1530080rk0	38094324	ماذا...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02210	kh3_event_dw.dw153a	dw1530100rr0	4703dab1	<i(on)>لماذا جئت إلى هنا أصلا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02211	kh3_event_dw.dw153a	dw1530110rk0	4190cbf7	لأن هناك من يحتاجني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02212	kh3_event_dw.dw153a	dw1530120rr0	8dcdac3d	<i(on)>هل تريد بعض المساعدة?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02213	kh3_event_dw.dw153a	dw1530130rk0	8b5ebd7b	من أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02214	kh3_event_dw.dw153a	dw1530140rr0	09ee31e8	<i(on)>أنا? أنا...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02215	kh3_event_dw.dw153a	dw1530160mm0_1	293351ec	ريكو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02216	kh3_event_dw.dw153a	dw1530160mm0_2	3b86fe02	استيقظ...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02217	kh3_event_dw.dw153a	dw1530160mm0_3	833a9967	ريكو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02218	kh3_event_dw.dw153a	dw1530190mm0	64a8664f	هل أنت بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02219	kh3_event_dw.dw153a	dw1530210rk0	198e62df	أين ذهب بلا قلب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02220	kh3_event_dw.dw153a	dw1530220mm0_1	e6fbad27	قضيت على أكثر من نصفهم،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02221	kh3_event_dw.dw153a	dw1530220mm0_2	f44e02c9	والبقية اختفوا.<br>لكنهم لفظوك أولا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02222	kh3_event_dw.dw153a	dw1530240rk0	3204b2c0	شكرا. أنا مدين لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02223	kh3_event_dw.dw153a	dw1530250mm0	ef80f28c	أعرف أنك تشعر أنك لا تقهر، لكننا لسنا كذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02224	kh3_event_dw.dw153a	dw1530260rk0	f8cac44c	وهل <i(on)>أنت<i(off)> بخير يا ميكي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02225	kh3_event_dw.dw153a	dw1530270mm0_1	e199a44e	نعم، بفضل العتاد الجديد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02226	kh3_event_dw.dw153a	dw1530270mm0_2	f32c0ba0	لكن... الكيبلايد خاصتك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02227	kh3_event_dw.dw153a	dw1530280rk0	e1328f2b	آه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02228	kh3_event_dw.dw153a	dw1530310mm0_1	15ffafaa	بلا قلب هنا أقوى<br>مما توقعنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02229	kh3_event_dw.dw153a	dw1530310mm0_2	074a0044	أظن أنه كان علينا تقوية<br>الكيبلايدات قبل أن نأتي إلى هنا، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02230	kh3_event_dw.dw153a	dw1530310mm0_3	bff66721	أظن أن علينا العودة إلى<br>برج المعلم ين سيد لنعيد ترتيب صفوفنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02231	kh3_event_dw.dw153a	dw1530320rk0	37024a32	لكن أكوا... ما زالت هنا وحدها.<br>تواجه أعداء كهؤلاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02232	kh3_event_dw.dw153a	dw1530330mm0	ea860a7e	أعرف...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02233	kh3_event_dw.dw153a	dw1530340rk0	b321d7e7	ماذا لو كانت تشعر بالخوف والوحدة...<br>كما شعرت أول مرة جئت فيها إلى هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02234	kh3_event_dw.dw153a	dw1530350rk0	d646eca1	إلى متى سنتركها<br>تنتظر في هذا المكان الفظيع?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02235	kh3_event_dw.dw153a	dw1530360mm0	c10cda61	لكن أكوا... إنها مثل سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02236	kh3_event_dw.dw153a	dw1530370rk0	1c889a2d	ماااذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02237	kh3_event_dw.dw153a	dw1530380mm0	d8f49106	لا لا لا... <i(on)>قوية<i(off)> مثل سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02238	kh3_event_dw.dw153a	dw1530390rk0_1	d798f5a2	حسنا... جيد.<br>إذن أظن أنها ستكون بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02239	kh3_event_dw.dw153a	dw1530390rk0_2	c52d5a4c	سورا يمكنه أن يسقط في أي ظلام<br>ثم يسبح خارجا منه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02240	kh3_event_dw.dw153a	dw1530400mm0	743770c3	ثم إننا لن نتأخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02241	kh3_event_dw.dw153a	dw1530410rk0	a9b3308f	صحيح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02242	kh3_event_dw.dw153a	dw1530430rk0_1	61c9f5e5	لا أستطيع استخدام <i(on)>هذا<i(off)> الكيبلايد بعد الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02243	kh3_event_dw.dw153a	dw1530430rk0_2	737c5a0b	من الأفضل أن أتركه هنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02244	kh3_event_dw.dw153a	dw1530430rk0_3	cbc03d6e	من أجل نسختي الأخرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02245	kh3_event_dw.dw153a	dw1530440mm0	3ada9b9a	ما...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02246	kh3_event_dw.dw382a	dw3820010dz0	3a23cd30	أخبريني، هل ستبقين هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02247	kh3_event_dw.dw382a	dw3820020aq0	5043ebbc	لا أستطيع التخلص من شعور بأن هذه المياه<br>تلامس شاطئا آخر زرته من قبل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02248	kh3_event_dw.dw382a	dw3820030dz0	f0edbbbc	جزر المصير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02249	kh3_event_dw.dw382a	dw3820040aq0	d4607669	هل سمعت بها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02250	kh3_event_dw.dw382a	dw3820050dz0	74ce2669	نعم. إنها جميلة جدا—<br>بعيدة كل البعد عن هذه الأرض القاحلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02251	kh3_event_dw.dw382a	dw3820060aq0	1eae00e5	سأبقى. سيأتي أحد من أجلي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02252	kh3_event_dw.dw382a	dw3820070dz0_1	e6a1d500	هذه المياه هي ما بين الظلام والنور،<br>وشواطئها تخوم النهار والليل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02253	kh3_event_dw.dw382a	dw3820070dz0_1b	c55cddaa		todo	
+02254	kh3_event_dw.dw382a	dw3820070dz0_2	f4147aee	لقد جمعتنا أنا وأنت،<br>فلم لا تجمعك بآخر أيضا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02255	kh3_event_dw.dw382a	dw3820080aq0	07564b82	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02256	kh3_event_dw.dw382a	dw3820100aq0	1ba8f817	من هناك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02257	kh3_event_dw.dw382a	dw3820110dz0	bb06a817	أنت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02258	kh3_event_dw.dw382a	dw3820120an0_1	09857bc5	أيها المعلم... يجب أن أتحدث إليك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02259	kh3_event_dw.dw382a	dw3820120an0_2	1b30d42b		todo	
+02260	kh3_event_dw.dw382a	dw3820130dz0	71c8de9b	"معلم"? إذن صرت تسخر مني الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02261	kh3_event_dw.dw382a	dw3820140an0_1	0c39758b	أتذكر تلك التجارب على القلب<br>التي أمرتني بإيقافها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02262	kh3_event_dw.dw382a	dw3820140an0_2	1e8cda65	كان بين الخاضعين للتجارب فتاة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02263	kh3_event_dw.dw382a	dw3820140an0_3	a630bd00	فقدت ذاكرتها، تماما كما فقدت أنا ذاكرتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02264	kh3_event_dw.dw382a	dw3820140an0_4	3be785b9	لكن... أنت تستطيع إعادة بناء الذكريات.<br>فعلت ذلك مع سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02265	kh3_event_dw.dw382a	dw3820140an0_5	835be2dc	أظنك رأيت ذكريات الفتاة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02266	kh3_event_dw.dw382a	dw3820150dz0	f5eb434e	ما سؤالك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02267	kh3_event_dw.dw382a	dw3820160an0	3a104645	أين وضعت الفتاة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02268	kh3_event_dw.dw382a	dw3820170dz0	3f2535c2	أي فتاة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02269	kh3_event_dw.dw382a	dw3820180an0	23e80d22	حسنا جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02270	kh3_event_dw.dw382a	dw3820180an0b	86481ce4	إن لم تخبرني هنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02271	kh3_event_dw.dw382a	dw3820200aq0	43b6513f	أظن أن عليك أن ترحل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02272	kh3_event_dw.dw382a	dw3820210an0_1	c244745d	حارسة نور ضائعة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02273	kh3_event_dw.dw382a	dw3820210an0_2	d0f1dbb3	أنت تنتظرين هنا... الملك وأحمقه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02274	kh3_event_dw.dw382a	dw3820230an0	49843f72	أين الكيبلايد خاصتك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02275	kh3_event_dw.dw382a	dw3820240aq0	0d5bba66	لا أحتاجه!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02276	kh3_event_dw.dw382a	dw3820260dz0	025ca7ac	كفى! سأذهب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02277	kh3_event_dw.dw382a	dw3820270an0	0769d42b	أنت حكيم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02278	kh3_event_dw.dw382a	dw3820290an0	1e919f4c	يا للمسكينة. لا يجوز أن أتركك بلا شيء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02279	kh3_event_dw.dw382a	dw3820310aq0_1	5b532853	ما... هذا الشعور?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02280	kh3_event_dw.dw382a	dw3820310aq0_2	49e687bd		todo	
+02281	kh3_event_dw.dw432a	dw4320070mm0	bbaa6bc1	ريكو، انظر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02282	kh3_event_dw.dw432a	dw4320100mm0	dbcba875	ريكو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02283	kh3_event_dw.dw432a	dw4320130rk0	cc819eb5	ميكي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02284	kh3_event_dw.dw432a	dw4320140aq0	bb382ac9	هذا الكيبلايد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02285	kh3_event_dw.dw432a	dw4320150mm0	f041786a	هل هي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02286	kh3_event_dw.dw432a	dw4320160aq0	71f65c45	ميكي...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02287	kh3_event_dw.dw432a	dw4320160aq1	c94a3b20	لقد تأخرت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02288	kh3_event_dw.dw432a	dw4320170rk0	826c75ec	أكوا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02289	kh3_event_dw.dw432a	dw4320180mm0	46107ec7	ماذا حدث?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02290	kh3_event_dw.dw432a	dw4320190aq0_1	2a64c64d	لقد تخليت عني، هذا ما حدث.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02291	kh3_event_dw.dw432a	dw4320190aq0_2	38d169a3	تركتني في سجن الظلال هذا أكثر من<br>عقد، وأنت تعرف ما سيفعله بي...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02292	kh3_event_dw.dw432a	dw4320190aq0_2b	1892ea10		todo	
+02293	kh3_event_dw.dw432a	dw4320200mm0	83d5015d	أنا آسف. كل هذا خطئي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02294	kh3_event_dw.dw432a	dw4320210aq0_1	eed4261a	وصلت إلى هذا الشاطئ بعد تيه لا ينتهي.<br>وانتظرت دهرا أن تصل النجدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02295	kh3_event_dw.dw432a	dw4320210aq0_2	fc6189f4	لكن أحدا لم يأت قط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02296	kh3_event_dw.dw432a	dw4320210aq0_3	44ddee91	فقدت الكيبلايد خاصتي. ولم أجد سبيلا لأشق<br>طريقي عائدة عبر بلا قلب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02297	kh3_event_dw.dw432a	dw4320210aq0_3b	53cca524		todo	
+02298	kh3_event_dw.dw432a	dw4320210aq0_4	d90ad628	كان يجب أن تعرف أنني عالقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02299	kh3_event_dw.dw432a	dw4320220aq0_1	ec0a213d	هل لديك أدنى فكرة عن الوحدة هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02300	kh3_event_dw.dw432a	dw4320220aq0_2	febf8ed3	عن الرعب حين لا يكون لك أحد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02301	kh3_event_dw.dw432a	dw4320220aq0_3	4603e9b6	كل ما بقي في قلبي هو البؤس واليأس...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02302	kh3_event_dw.dw432a	dw4320220aq0_4	dbd4d10f	والآن، يمكنك أن تشاركني فيهما!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02303	kh3_event_dw.dw432a	dw4320230rk0	949f379d	لا داعي. لدي ما يكفيني منهما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02304	kh3_event_dw.dw602a	dw6020010rk0	6672d42f	سورا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02305	kh3_event_dw.dw602a	dw6020050sr0	d0ce5919	لقد وصلت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02306	kh3_event_dw.dw602a	dw6020060rk0	873672bc	كيف يا سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02307	kh3_event_dw.dw602a	dw6020070sr0_1	d576dd04	لقد... حصلت على بعض المساعدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02308	kh3_event_dw.dw602a	dw6020070sr0_2	c7c372ea	اعتن بالملك. سأتولى الأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02309	kh3_event_dw.dw602a	dw6020080rk0	9ece39db	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02310	kh3_event_dw.dw603a	dw6030010aq0	0155c36a	إذن... هذه هي النهاية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02311	kh3_event_dw.dw603a	dw6030020sr0	c050fa20	أكوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02312	kh3_event_dw.dw603a	dw6030030aq0	cb9bb5e6	سورا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2

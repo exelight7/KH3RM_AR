@@ -1,0 +1,210 @@
+id	namespace	key	source_hash	AR	status	note
+16886	kh3_system.gameoverhint	general_0010	e1827de0	إذا انخفض HP لديك، فاستخدم السحر أو الأغراض للتعافي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16887	kh3_system.gameoverhint	general_0050	65c8731a	لا تكتف بالتلويح بالسيف على الأعداء عشوائيا.<br>من المهم استخدام <icon(Square)> للصد والمراوغة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16888	kh3_system.gameoverhint	general_0060	eb4774f9	لست متأكدا من عناصر التحكم? نسيت كيف تعمل ميزة ما?<br>اختر <color(strong)>مساعدة اللعبة<color> من القائمة الرئيسية لتنعش ذاكرتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16889	kh3_system.gameoverhint	general_0070	27ed7467	اضغط مطولا على <icon(L1)> لترى قائمة الاختصارات. يمكنك<br>تعيين أوامرك المفضلة لهذه الاختصارات للوصول السهل إليها.<br>لإعداد الاختصارات، اختر <color(strong)>التخصيص<color> من القائمة الرئيسية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16890	kh3_system.gameoverhint	general_0080	fecd66cb	لديك قدر من التحكم في الأفعال التي يقوم بها دونالد وغوفي<br>وبقية الأصدقاء. لتعديل السلوك، اختر <color(strong)>التخصيص<color> من<br>القائمة الرئيسية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16891	kh3_system.gameoverhint	general_0090	32676655	إذا لم تكن عناصر التحكم مريحة لك، يمكنك إجراء تعديلات<br>باختيار <color(strong)>الضبط<color> من القائمة الرئيسية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16892	kh3_system.gameoverhint	general_0100	b68d3111	هل تهزمك الأعداء أنفسهم باستمرار?<br>جرب تغيير تجهيزاتك أو قتال أعداء أضعف في مناطق<br>أخرى لرفع مستواك (مستوى).	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16893	kh3_system.gameoverhint	general_0110	7a27318f	إذا اشتريت <color(strong)>عملة كوبو<color> من متجر الموغل، فستنقذك<br>من هزيمة واحدة حين ينخفض HP إلى 0.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16894	kh3_system.gameoverhint	general_0120	f4a8366c	عند قتال أعداء أقوياء، من الحكمة تنويع هجماتك.<br>قد تجد أن السحر يؤدي عملا مماثلا أو أفضل من<br>ضربات الكيبلايد العادية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16895	kh3_system.gameoverhint	general_0130	380236f2	بعض الأعداء يخافون النار، وبعضهم يسخر منها.<br>إذا كنت لا تلحق أي ضرر، فجرب التبديل إلى سحر مختلف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16896	kh3_system.gameoverhint	general_0140	32c73feb	استفد إلى أقصى حد من أوامر الموقف. فهي كثيرا ما تنقذك<br>من المآزق! اضغط <icon(Triangle)> لاستخدام أحدها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16897	kh3_system.gameoverhint	general_0150	fe6d3f75	اضغط مطولا على <icon(R1)> لدخول عرض التصويب المثبت وتثبيت عدة أعداء.<br>وحين تضع جميع أهدافك في مرمى نظرك، اضغط <icon(Decide)> لإطلاق<br>هجوم مدمر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16898	kh3_system.gameoverhint	general_0160	70e23896	هناك كيبلايد واحد على الأقل يتيح لك استخدام<br>أوامر التصويب المثبت لاستعادة HP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16899	kh3_system.gameoverhint	general_0170	bc483808	<color(strong)>الروابط<color> أكثر من مجرد هجمات قوية.<br>فهي أيضا وسيلة لاستعادة HP لديك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16900	kh3_system.gameoverhint	general_0180	65682aa4	احرص على المرور على <color(strong)>الورشة<color> أثناء وجودك في متجر الموغل.<br>يمكنك تقوية كيبلايداتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16901	kh3_system.gameoverhint	general_0190	a9c22a3a	تناول الأطباق التي تطهوها مع الطاهي الصغير لتحصل على<br>تعزيزات مؤقتة للإحصائيات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16902	kh3_system.gameoverhint	general_0200	c113e3e1	تختلف هجمات سورا وسحره وحركته جميعا حين يكون تحت الماء.<br>جرب قليلا لتعرف ما يمكنك فعله وما لا يمكنك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16903	kh3_system.gameoverhint	general_0210	0db9e37f	إذا واجهت صعوبة، فجرب<br>مراجعة إعداد قدراتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16904	kh3_system.gameoverhint	enemy_0100	9a8c5e8d	إذا فتحت سلحفاة الضفدع الشوكية فمها، فاحذر!<br>إنها على وشك محاولة امتصاصك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16905	kh3_system.gameoverhint	enemy_0110	56265e13	هجوم الدوس لدى سلحفاة الضفدع الشوكية يحدث دائما<br>في مجموعات من ثلاث.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16906	kh3_system.gameoverhint	enemy_0200	ed128c7d	يومض الكاتاستروكوراس بالأحمر قبل تنفيذ هجوم كومبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16907	kh3_system.gameoverhint	enemy_0210	21b88ce3	تسبق كل ضربة كهربائية هالة تحذير.<br>راقب بعناية وتأكد من الابتعاد عن الطريق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16908	kh3_system.gameoverhint	enemy_0300	76b7c012	أفضل طريقة لإيقاف جيغاس هي بجيغاس آخر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16909	kh3_system.gameoverhint	enemy_0310	ba1dc08c	لكل فئة من الجيغاس مميزاتها الخاصة.<br>اختر المركبة المناسبة للمعركة التي تخوضها!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16910	kh3_system.gameoverhint	enemy_0400	022f299d	هاجم الباورويلد الذين يتسلقون البرج لإيقاف<br>إطلاق المدافع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16911	kh3_system.gameoverhint	enemy_0410	ce852903	إذا كنت تتلقى ضربات موجعة، فتراجع وجرب القتال من<br>مسافة بعيدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16912	kh3_system.gameoverhint	enemy_0500	998a65f2	إذا سقطت عن مركبتك، فاستخدم الخطوة الجوية للعودة إلى<br>البلا قلب الطائر الأصغر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16913	kh3_system.gameoverhint	enemy_0510	5520656c	واصل مهاجمة البلا قلب الطائر الكبير حتى يذهل.<br>عندها ستسنح لك فرصة الاقتراب منه تماما!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16914	kh3_system.gameoverhint	enemy_0600	ee14b702	لا تضرب الجحيم المظلم وهو في وضعية الدفاع،<br>وإلا فسوف تعرض نفسك لهجوم مضاد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16915	kh3_system.gameoverhint	enemy_0610	22beb79c	ركز على الدفاع عن نفسك حين يطلق الجحيم المظلم<br>وابل هجماته.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16916	kh3_system.gameoverhint	enemy_0700	75b1fb6d	سيصنع الليتش أشباحا من نفسه ويحاول الفرار.<br>تجاهل الأشباح وطارد الليتش الحقيقي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16917	kh3_system.gameoverhint	enemy_0710	b91bfbf3	الدروع التي تقلل الضرر العنصري ستجعل المعارك ضد<br>الليتش أسهل.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16918	kh3_system.gameoverhint	enemy_0800	0725641c	يصبح ترول الصخر عدوانيا حين يرتدي قناعه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16919	kh3_system.gameoverhint	enemy_0810	cb8f6482	يمكنك كسر قناع ترول الصخر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16920	kh3_system.gameoverhint	enemy_0900	9c802873	توجيه هجمات متتالية إلى مد الشياطين سيبطئه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16921	kh3_system.gameoverhint	enemy_0910	502a28ed	حين يهاجم مد الشياطين بلا هوادة، فمن الأفضل أن<br>تبقى في وضع الدفاع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16922	kh3_system.gameoverhint	enemy_1010	63eb83ed	استخدم الألعاب المتناثرة في ساحة المعركة<br>لتتسلق إلى ملك الألعاب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16923	kh3_system.gameoverhint	enemy_1020	ed64840e	بعد أن تظلم ساحة المعركة، ستحتاج إلى الخطوة الجوية للصعود إلى الألعاب<br>الطافية في الأعلى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16924	kh3_system.gameoverhint	enemy_1110	f84ecf82	إذا بدأ صياد البرق بالمضغ، فابتعد عن الطريق!<br>إنه يحاول ابتلاعك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16925	kh3_system.gameoverhint	enemy_1120	76c1c861	حين يستخدم صياد البرق هجماته الكهربائية، فهمك الأول<br>هو الابتعاد عن الطريق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16926	kh3_system.gameoverhint	enemy_1210	8fd01d72	احذر من حبوب اللقاح، ما لم ترد أن تعطس طوال<br>المعركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16927	kh3_system.gameoverhint	enemy_1220	015f1a91	الأزهار الماسكة التي تخرج من الأرض ضعيفة أمام هجمات النار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16928	kh3_system.gameoverhint	enemy_1230	cdf51a0f	إذا حاولت الحارسة القاتمة حصارك بالجدران، فابحث حولك عن<br>مخرج.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16929	kh3_system.gameoverhint	enemy_1310	1475511d	سيرد ديفي جونز على هجماتك حين يكون متوهجا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16930	kh3_system.gameoverhint	enemy_1320	9afa56fe	المجسات التي يستدعيها ديفي جونز تشكل خطرا جسيما.<br>ركز على التخلص منها في أسرع وقت ممكن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16931	kh3_system.gameoverhint	enemy_1410	60edb892	هجوم الاندفاع لدى كتلة الرعب يحدث دائما في مجموعات.<br>ابق متيقظا حتى يزول الخطر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16932	kh3_system.gameoverhint	enemy_1420	ee62bf71	إذا تحولت كتلة الرعب، يمكنك إعادتها إلى حجمها<br>باستخدام <color(strong)>غوفي القاصف<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16933	kh3_system.gameoverhint	enemy_1510	fb48f4fd	استخدم ضربات المدى القريب لإعادة مقذوفات بايماكس المظلم<br>إلى مرسلها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16934	kh3_system.gameoverhint	enemy_1520	75c7f31e	استخدم <color(strong)>رذاذ العناية<color> للتعافي حين ينخفض HP لديك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16935	kh3_system.gameoverhint	enemy_1530	b96df380	تجنب وابل بايماكس المظلم القادم باستخدام <color(strong)>المراوغة الجوية<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16936	kh3_system.gameoverhint	enemy_1540	b3a8fa99	دمر مقذوفات بايماكس المظلم لفتح أمر الموقف <color(strong)>الضربة السماوية<color><br>وإلحاق ضرر كبير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16937	kh3_system.gameoverhint	enemy_1610	8cd6260d	سيعلم هيرو نواة المكعبات المظلمة على جهاز AR لديك.<br>هناك يجب أن تركز هجماتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16938	kh3_system.gameoverhint	enemy_1620	025921ee	إذا لم تر النواة، فركز على تجنب الخطر حتى<br>تظهر من جديد على شاشتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16939	kh3_system.gameoverhint	enemy_1710	17736a62	حين يهاجم برج الشياطين بلا هوادة، فمن الأفضل أن<br>تبقى في وضع الدفاع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16940	kh3_system.gameoverhint	enemy_1720	99fc6d81	إذا انخفض HP لديك، فاهزم الظلال والتقط جوائز HP<br>التي تسقطها للتعافي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16941	kh3_system.gameoverhint	enemy_1810	65e7f513	اعثر على موقع مرتفع مناسب تشن منه هجومك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16942	kh3_system.gameoverhint	enemy_1820	eb68f2f0	حين يهاجم مد الشياطين بلا هوادة، فمن الأفضل أن<br>تبقى في وضع الدفاع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16943	kh3_system.gameoverhint	enemy_1910	fe42b97c	حين يهاجم مد الشياطين بلا هوادة، فمن الأفضل أن<br>تبقى في وضع الدفاع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16944	kh3_system.gameoverhint	enemy_1920	70cdbe9f	توجيه هجمات متتالية إلى مد الشياطين سيبطئه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16945	kh3_system.gameoverhint	enemy_2010	4a23371f	عالج أصدقاءك وتأكد من بقائهم في المعركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16946	kh3_system.gameoverhint	enemy_2020	c4ac30fc	عالج أصدقاءك وتأكد من بقائهم في المعركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16947	kh3_system.gameoverhint	enemy_2030	08063062	يخفض زيغبار حذره عند إعادة التعبئة.<br>لا تفوت فرصتك للهجوم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16948	kh3_system.gameoverhint	enemy_2040	02c3397b	الهجمات السحرية من مسافة بعيدة فعالة ضد ريكو المظلم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16949	kh3_system.gameoverhint	enemy_2110	d1867b70	عالج أصدقاءك وتأكد من بقائهم في المعركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16950	kh3_system.gameoverhint	enemy_2120	5f097c93	اعثر على البطاقة التي يختبئ فيها لوكسورد، ثم أذقه ما يستحق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16951	kh3_system.gameoverhint	enemy_2130	93a37c0d	أوقف مارلوكسيا ولارزين لتكسب وقتا للبحث عن<br>بطاقة لوكسورد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16952	kh3_system.gameoverhint	enemy_2140	99667514	عالج أصدقاءك وتأكد من بقائهم في المعركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16953	kh3_system.gameoverhint	enemy_2150	55cc758a	تكون لارزين عرضة للهجوم بعد أن تهاجم بالبرق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16954	kh3_system.gameoverhint	enemy_2160	db437269	سيصنع مارلوكسيا دوامة بمنجله ويسحبك إليها.<br>احم نفسك من الضرر بالصد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16955	kh3_system.gameoverhint	enemy_2210	a618a980	عالج أصدقاءك وتأكد من بقائهم في المعركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16956	kh3_system.gameoverhint	enemy_2220	2897ae63	سيهب خصومك لنجدة بعضهم بعضا.<br>لا تخفض حذرك لمجرد أنك تبدو متفوقا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16957	kh3_system.gameoverhint	enemy_2230	e43daefd	استخدم المراوغة للابتعاد عن هجمات كومبو تيرا-زيهانورت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16958	kh3_system.gameoverhint	enemy_2240	eef8a7e4	لا تدع هجوم النار الكبرى المظلمة المنقسم لدى فانيتاس يلحق بك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16959	kh3_system.gameoverhint	enemy_2310	3dbde5ef	عالج أصدقاءك وتأكد من بقائهم في المعركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16960	kh3_system.gameoverhint	enemy_2320	b332e20c	إذا كنت تتلقى هجمات قوية موجعة، فتراجع وابق بعيدا<br>عن خط النار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16961	kh3_system.gameoverhint	enemy_2330	7f98e292	لا تؤثر هجمات الأعداء في روكساس حين يكون محاطا بالنور.<br>دعه يهاجم بينما تتعافى أنت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16962	kh3_system.gameoverhint	enemy_2410	49250c60	عالج أصدقاءك وتأكد من بقائهم في المعركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16963	kh3_system.gameoverhint	enemy_2420	c7aa0b83	عالج أصدقاءك وتأكد من بقائهم في المعركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16964	kh3_system.gameoverhint	enemy_2430	0b000b1d	حين يحاول أنسيم سحبك إلى نطاق انفجاره، انسب<br>بعيدا للإفلات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16965	kh3_system.gameoverhint	enemy_2440	01c50204	يمكنك استخدام التعافي الجوي للإفلات من هجمات زيمناس<br>أثناء الكومبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16966	kh3_system.gameoverhint	enemy_2450	cd6f029a	يمكنك استخدام التعافي الجوي للإفلات من هجمات زيهانورت الشاب<br>أثناء الكومبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16967	kh3_system.gameoverhint	enemy_2510	d280400f	إذا تكاثر عليك خصومك، فرد بهجمات تصيب نطاقا<br>واسعا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16968	kh3_system.gameoverhint	enemy_2610	a51e92ff	كن مستعدا لمراوغة الهجمات التالية إذا قذف<br>زيهانورت المدرع بك في الهواء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16969	kh3_system.gameoverhint	enemy_2710	3ebbde90	دافع ضد الكومبوهات وابحث عن فرصة للرد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16970	kh3_system.gameoverhint	enemy_2720	b034d973	يستطيع زيهانورت المدرع إطلاق بعض الهجمات المدمرة.<br>أبق HP لديك في مستوى جيد تحسبا لأي طارئ.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16971	kh3_system.gameoverhint	enemy_2730	7c9ed9ed	لتجنب المقذوفات الصادرة من أعمدة النور، استخدم <icon(Lstick)><br>واضغط <icon(Square)> للمراوغة يمينا ويسارا بتتابع سريع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16972	kh3_system.gameoverhint	enemy_2740	765bd0f4	إذا انتقل زيهانورت المدرع بالانتقال الآني إلى أمامك مباشرة، فراوغ<br>هجماته قبل أن تحاول أي هجوم من جانبك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16973	kh3_system.gameoverhint	enemy_2750	baf1d06a	يستطيع زيهانورت المدرع إطلاق بعض الهجمات المدمرة.<br>أبق HP لديك في مستوى جيد تحسبا لأي طارئ.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16974	kh3_system.gameoverhint	enemy_2810	4c2f41e1	إذا انخفض HP لديك، فركز على الدفاع وابحث عن فرصة<br>للعلاج.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16975	kh3_system.gameoverhint	enemy_2910	d78a0d8e	اصعد التل واضرب رؤوس التيتان.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16976	kh3_system.gameoverhint	enemy_2920	59050a6d	احذر الأشواك الجليدية التي تخرج من قدمي تيتان الجليد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16977	kh3_system.gameoverhint	enemy_2930	95af0af3	حين يتوهج تيتان الحمم بالأحمر الحار، لن تتمكن من إيذائه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16978	kh3_system.gameoverhint	enemy_3010	e44ba68e	استخدم الخطوة الجوية على الأنقاض المحيطة لتقترب بسرعة من<br>تيتان الإعصار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16979	kh3_system.gameoverhint	enemy_3110	7feeeae1	استخدم هجمات النار لإيقاف خصمك الجليدي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16980	kh3_system.gameoverhint	enemy_3120	f161ed02	يهيج الوحش حين تخرج أشواكه.<br>ابتعد عن الطريق!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16981	kh3_system.gameoverhint	enemy_3210	08703811	إذا شعرت أن قوة تيتان الصخر تغمرك،<br>فتراجع إلى أسفل الجرف وتعاف هناك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16982	kh3_system.gameoverhint	enemy_3220	86ff3ff2	استخدم أمر لعبة الملاهي الذي يظهر لتلقين تيتان الصخر<br>درسا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16983	kh3_system.gameoverhint	enemy_3310	93d5747e	يمكنك صد مقذوفات دارك سايد الموجهة وإعادتها إليه مباشرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16984	kh3_system.gameoverhint	enemy_3320	1d5a739d	إذا انخفض HP لديك، فاهزم الظلال والتقط جوائز HP<br>التي تسقطها للتعافي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16985	kh3_system.gameoverhint	enemy_3410	e74d9df1	صورة واحدة فقط من صور أكوا المضادة تتأثر بالهجوم.<br>وعليك أن تجدها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16986	kh3_system.gameoverhint	enemy_3420	69c29a12	ابحث عن فرصة للضرب بعد مراوغة هجوم كومبو أكوا المضادة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16987	kh3_system.gameoverhint	enemy_3510	7ce8d19e	لا تدع هجوم النار الكبرى المظلمة المنقسم لدى فانيتاس يلحق بك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16988	kh3_system.gameoverhint	enemy_3610	0b76036e	تخلص من الدمى المتحركة التي تظهر في أسرع وقت ممكن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16989	kh3_system.gameoverhint	enemy_3620	85f9048d	احذر من التجول في منطقة المعركة.<br>كلما تجولت أكثر، ظهر أعداء أكثر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16990	kh3_system.gameoverhint	enemy_3710	90d34f01	ابق عينيك مفتوحتين بحثا عن جيغاس، ثم اركبه وأر<br>المحطمين الأسمى من هو المسؤول.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16991	kh3_system.gameoverhint	enemy_3720	1e5c48e2	احذر من الأشعة والهجمات الكهربائية التي يطلقها<br>المحطمون الأسمى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16992	kh3_system.gameoverhint	enemy_3810	e247d070	لا تدع حركات سكول المخادعة تربكك.<br>ابق عينيك على العدو أثناء القتال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16993	kh3_system.gameoverhint	enemy_3820	6cc8d793	إذا حاول سكول زيادة المسافة بينكما، فاستخدم الخطوة الجوية<br>للعودة إلى مدى الضرب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16994	kh3_system.gameoverhint	enemy_3830	a062d70d	اهزم الأعداء، ثم استخدم <icon(Triangle)><color(strong)>الصدمة تحت الصفر<color> للتعاون مع مارشميلو قبل انتهاء المؤقت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16995	kh3_system.gameoverhint	enemy_3910	79e29c1f	استخدم الخريطة المصغرة لمتابعة سفن الأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16996	kh3_system.gameoverhint	enemy_3920	f76d9bfc	ستصبح طلقاتك أدق حين تستهدف<br>نواة سفينة بمنظار التصويب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16997	kh3_system.gameoverhint	enemy_3930	3bc79b62	استهدف نوى السفن لإنهائها بسرعة أكبر وكسب<br>مزيد من قوة اللفياثان.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16998	kh3_system.gameoverhint	enemy_4000	d5185e65	احرص على صد الكومبوهات في المسافات القريبة،<br>وابحث عن فرص للرد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16999	kh3_system.gameoverhint	enemy_4005	e2c6ae57	اركض للمراوغة حين تطلق عدة مقذوفات،<br>ثم اقترب من تيرا-زيهانورت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17000	kh3_system.gameoverhint	enemy_4010	19b25efb	حين تطلق عدة مقذوفات موجهة، إما أن تدور<br>حولها لتفقد القفل أو تركض<br>للمراوغة، ثم تقترب من تيرا-زيهانورت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17001	kh3_system.gameoverhint	enemy_4020	973d5918	هجمات تيرا-زيهانورت بعد الانتقال الآني يصعب مراوغتها،<br>فحاول إبقاءه في مجال رؤيتك دائما.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17002	kh3_system.gameoverhint	enemy_4030	5b975986	أصب سايكس حين يحيط به السلاح<br>لخفض عداد الهياج لديه. ابحث عن ثغرات بعد أن<br>يهاجم، ثم رد عليه لإلحاق الضرر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17003	kh3_system.gameoverhint	enemy_4040	5152509f	يمكنك إخراج سايكس من وضع الهياج بتوجيه<br>الضربة الأخيرة في هجوم الفريق "أفكر بك".	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17004	kh3_system.gameoverhint	enemy_4050	9df85001	أصب سايكس حين تحيط به الأسلحة<br>لخفض عداد الهياج لديه. ابحث عن ثغرات بعد أن<br>يهاجم، ثم رد عليه لإلحاق الضرر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17005	kh3_system.gameoverhint	enemy_4060	137757e2	حين تقذف في الهواء، ركز على المراوغة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17006	kh3_system.gameoverhint	enemy_4070	dfdd577c	احرص على صد الكومبوهات وابحث عن<br>ثغرات للرد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17007	kh3_system.gameoverhint	enemy_4080	06fd45d0	حين تقذف في الهواء، ركز على المراوغة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17008	kh3_system.gameoverhint	enemy_4090	ca57454e	حين تمطر النيازك العملاقة، احرص على<br>ملاحظة مواضع سقوطها وتوقيت<br>ظهور زيهانورت المدرع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17009	kh3_system.gameoverhint	enemy_5000	7b70cff4	صد بعناية البطاقات التي يرميها لوكسورد،<br>وتأكد من أنه لم تبق أي منها على الأرض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17010	kh3_system.gameoverhint	enemy_5010	b7dacf6a	لا يمكن صد البطاقات الحمراء العملاقة، فراوغها<br>أو اضربها بهجوم يطابق العنصر<br>المرسوم على البطاقات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17011	kh3_system.gameoverhint	enemy_5020	3955c889	حين يتوهج كيبلايد تيرا-زيهانورت بالأحمر،<br>لا يمكنك صد الهجمات، فراوغها بدلا من ذلك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17012	kh3_system.gameoverhint	enemy_5030	f5ffc817	أعمدة الظلام التي تظهر حين يسحبك<br>تيرا-زيهانورت<br>لا يمكن صدها، فاحرص على مراوغتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17013	kh3_system.gameoverhint	enemy_5040	ff3ac10e	المقذوفات الجليدية التي يطلقها فانيتاس وهو راكب<br>كيبلايده لا يمكن صدها، فتجنبها<br>بأي ثمن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17014	kh3_system.gameoverhint	enemy_5050	3390c190	حين تتوهج كيبلايدات فانيتاس، لا يمكن<br>صد هجماتها، بل مراوغتها فقط.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17015	kh3_system.gameoverhint	enemy_5060	bd1fc673	هجمات عمود النور الأصفر لا يمكن صدها،<br>فتجنبها بأي ثمن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17016	kh3_system.gameoverhint	enemy_5070	71b5c6ed	حين يحيط النور بشيون، تهاجم بلا هوادة،<br>لكن يمكنك إنهاء الهجوم الشرس بخفض HP درعها<br>إلى 0.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17017	kh3_system.gameoverhint	enemy_5075	466b36df	حين يصيبك هجوم من العمود الأزرق،<br>سينخفض HP الأقصى لديك مؤقتا.<br>احرص على تجهيز أغراض العلاج.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17018	kh3_system.gameoverhint	enemy_5080	a895d441	حين يصدر مارلوكسيا هالة، يكون<br>عرضة لهجمات النار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17019	kh3_system.gameoverhint	enemy_5090	643fd4df	حاول تدمير بتلات الورد التي يطلقها مارلوكسيا<br>في أسرع وقت ممكن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17020	kh3_system.gameoverhint	enemy_5100	e0d5839b	الأشواك التي تقفز من القرص الأسود لا يمكن<br>صدها، فتجنبها بأي ثمن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17021	kh3_system.gameoverhint	enemy_5105	d70b73a9	لإزالة عداد الهلاك، ألحق الضرر بمارلوكسيا<br>حتى يتوفر أمر الموقف "التفكيك"،<br>ثم اضغط <icon(Triangle)> لتفكيك تأثير الهلاك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17022	kh3_system.gameoverhint	enemy_5110	2c7f8305	ألحق الضرر بنسخ لارزين الشبحية<br>لتختفي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17023	kh3_system.gameoverhint	enemy_5120	a2f084e6	هجمات البرق لدى لارزين لا يمكن صدها،<br>فراوغها لتبقى بأمان.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17024	kh3_system.gameoverhint	enemy_5140	649f8d61	من بين المقذوفات الضوئية التي يطلقها زيمناس في جميع<br>الاتجاهات، لا يمكن صد الزرقاء منها، فتجنبها<br>بأي ثمن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17025	kh3_system.gameoverhint	enemy_5150	a8358dff	الكروم الشائكة التي يهاجم بها زيمناس<br>لا يمكن صدها، فراوغها تماما.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17026	kh3_system.gameoverhint	enemy_5160	26ba8a1c	الهجمات الصادرة من الأشواك السوداء لا تسبب أي ضرر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17027	kh3_system.gameoverhint	enemy_5170	ea108a82	الموجة الصدمية التي يطلقها نصل χ تتحول إلى<br>انفجار لا يمكن صده، فتجنبه<br>بأي ثمن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17028	kh3_system.gameoverhint	enemy_5180	3330982e	الأشعة التي يطلقها نصل χ لا يمكن صدها،<br>فتجنبها بأي ثمن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17029	kh3_system.gameoverhint	enemy_5190	ff9a98b0	لا يمكن صد الموجة الصدمية الحمراء، فابتعد عن طريقها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17030	kh3_system.gameoverhint	enemy_5200	974b516b	إذا هاجمت وريكو المظلم في منتصف خطوة،<br>فسيصد هجماتك. تحل بالصبر وابحث عن<br>التوقيت المناسب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17031	kh3_system.gameoverhint	enemy_5210	5be151f5	الموجة الصدمية والأسلحة الدوارة المطلقة<br>نحوك لا يمكن صدها، فتجنبها بأي<br>ثمن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17032	kh3_system.gameoverhint	enemy_5220	d56e5616	أصب سايكس حين تحيط به الأسلحة<br>لخفض عداد الهياج لديه. ابحث عن ثغرات بعد أن<br>يهاجم، ثم رد عليه لإلحاق الضرر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17033	kh3_system.gameoverhint	enemy_5230	19c45688	حين يجمع سايكس القوة، يمتلئ عداد الهياج لديه<br>بمعدل مخيف. استخدم سحر الجليد<br>لإيقافه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17034	kh3_system.gameoverhint	enemy_5240	13015f91	حين يتحول الميدان إلى شكل حلقي، صد المقذوفات<br>الحمراء وهاجم زيغبار في المسافات القريبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17035	kh3_system.gameoverhint	enemy_5250	dfab5f0f	المقذوفات الزرقاء التي تطلق تباعا<br>لا يمكن صدها. حاول تحليل نمط الهجوم<br>وتوقعه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17036	kh3_system.gameoverhint	enemy_5255	e875af3d	حين تصد عددا كافيا من المقذوفات الحمراء وتردها<br>إلى زيغبار،<br>يتوفر أمر الموقف "المواجهة الحاسمة".	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17037	kh3_system.gameoverhint	enemy_5260	512458ec	حين يحاول أنسيم سحبك إليه، واصل المراوغة<br>للحفاظ على مسافتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17038	kh3_system.gameoverhint	enemy_5265	66faa8de	المقذوفات الكبيرة المخططة لا يمكن صدها،<br>فتجنبها بأي ثمن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17039	kh3_system.gameoverhint	enemy_5270	9d8e5872	النار السوداء التي تطلقها كرات أنسيم قد تلحق<br>الضرر وتسبب حالات سلبية متنوعة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17040	kh3_system.gameoverhint	enemy_5275	aa50a840	المقذوفات الصغيرة المخططة تنفجر عند الارتطام.<br>لا يمكن صد الانفجارات، فتجنبها<br>بأي ثمن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17041	kh3_system.gameoverhint	enemy_5280	44ae4ade	إذا هاجمت زيهانورت الشاب وهو يدير<br>كيبلايده، فسيتوقف الزمن للجميع عداه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17042	kh3_system.gameoverhint	enemy_5290	88044a40	حين يهاجم زيهانورت الشاب بنسخه الشبحية،<br>احرص على العثور على هيئته الحقيقية<br>ومهاجمتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17043	kh3_system.gameoverhint	enemy_6000	52b87b06	إذا أخذ كيبلايدك، فركز على المراوغة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17044	kh3_system.gameoverhint	enemy_6010	9e127b98	ادرس حركات يوزورا وأفعاله بهدوء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17045	kh3_system.gameoverhint	enemy_6020	109d7c7b	احذر من المخلوقات التي يطلقها يوزورا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17046	kh3_system.gameoverhint	enemy_6030	dc377ce5	حين يصيبك مقذوف النصل الوامض،<br>سينخفض HP الأقصى لديك مؤقتا.<br>احرص على تجهيز أغراض العلاج.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17047	kh3_system.gameoverhint	level_he_0010	df28e97f	سيسهل عليك اختراق صفوف الأعداء إذا استخدمت<br><color(strong)>حرس ترينتي<color> والسحر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17048	kh3_system.gameoverhint	level_he_0110	448da510	استخدم أمر لعبة الملاهي الذي يظهر لتلقين العدو<br>درسا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17049	kh3_system.gameoverhint	level_he_0210	331377e0	هجمات الماء مفيدة ضد لب اللهب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17050	kh3_system.gameoverhint	level_he_0410	dc2ed200	اضغط مطولا على <icon(R2)> لتنفيذ هجوم سريع الطلقات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17051	kh3_system.gameoverhint	level_ts_0010	0059095e	حاول معرفة وجهة الUFO، ثم تقدم عليه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17052	kh3_system.gameoverhint	level_ts_0020	8ed60ebd	ألعاب الجيغاس مفيدة لضرب الUFO من مسافة بعيدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17053	kh3_system.gameoverhint	level_ts_0110	9bfc4531	لكل جيغاس أسلحة وخصائص فريدة.<br>احرص على اختيار اللعبة المناسبة للعراك المناسب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17054	kh3_system.gameoverhint	level_ts_0120	157342d2	استفد من الفخاخ المنصوبة حول ساحة المعركة.<br>مثلا، سيؤدي إطلاق النار على الخزانات إلى انفجارها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17055	kh3_system.gameoverhint	level_mi_0010	634142f7	تخلص من الأعداء الذين يهددون بو وسولي قبل أن<br>تلاحق الآخرين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17056	kh3_system.gameoverhint	level_mi_0110	f8e40e98	احذر من الأسوار المكهربة وحاويات الشحن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17057	kh3_system.gameoverhint	level_mi_0210	8f7adc68	يمكنك إخماد الحرائق بسحر <color(strong)>الماء<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17058	kh3_system.gameoverhint	level_mi_0220	01f5db8b	مع <color(strong)>ركضة الرذاذ<color>، يمكنك التعامل مع الحرائق <i(on)>و<i(off)>إفساد خطط أعدائك<br>في الوقت نفسه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17059	kh3_system.gameoverhint	level_mi_0310	14df9007	يمكنك تجنب هجمات الأعداء والكهرباء<br>بالضغط على <icon(Triangle)> للاحتماء خلف الباب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17060	kh3_system.gameoverhint	level_mi_0320	9a5097e4	اضغط مطولا على <icon(R2)> لتنفيذ هجوم سريع الطلقات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17061	kh3_system.gameoverhint	level_mi_0410	60477988	استخدم <color(strong)>الانزلاق الساتر<color> للاختباء تحت أجزاء الآلات وتجنب<br>الليزر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17062	kh3_system.gameoverhint	level_mi_0420	eec87e6b	استخدم <color(strong)>الرمية الساترة<color> للانزلاق وتحطيم العوائق في طريقك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17063	kh3_system.gameoverhint	level_ca_0010	b95f98ef	من طرق تقليص المسافة بينك وبين اللؤلؤة السوداء<br>إلقاء سحر <color(strong)>الجليد<color> والانزلاق على السكة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17064	kh3_system.gameoverhint	level_ca_0020	37d09f0c	ستصبح طلقاتك أدق حين تستهدف<br>نواة سفينة بمنظار التصويب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17065	kh3_system.gameoverhint	level_ca_0110	22fad480	إذا سقطت، فاركب الدخان الملون أو استخدم الخطوة الجوية<br>للعودة إلى أحد البلا قلب الأصغر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17066	kh3_system.gameoverhint	level_ca_0120	ac75d363	إذا كانت اللؤلؤة السوداء تتلقى الضرر، فعليك تركيز هجماتك<br>على البلا قلب الطائر الأكبر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17067	kh3_system.gameoverhint	level_ca_0210	55640670	أغرق أكبر عدد ممكن من سفن البلا قلب لتمنح نفسك<br>مساحة أوسع للتنفس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17068	kh3_system.gameoverhint	level_ca_0220	dbeb0193	إذا رأيت سفينة لوكسورد تجمع الطاقة، فابتعد أو اضغط <icon(Square)><br>لرفع دفاعاتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17069	kh3_system.gameoverhint	level_ca_0310	cec14a1f	احذر من وابل الأسطول المعادي القوي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17070	kh3_system.gameoverhint	level_ca_0320	404e4dfc	استخدم الخريطة المصغرة لمتابعة سفن الأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17071	kh3_system.gameoverhint	level_ca_0410	ba59a390	احذر من مدافع الهولندي الطائر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17072	kh3_system.gameoverhint	level_ca_0420	34d6a473	إذا كانت اللؤلؤة السوداء تتلقى الضرر، فعليك تركيز هجماتك<br>على الهولندي الطائر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17073	kh3_system.gameoverhint	level_ca_0430	f87ca4ed	يمكنك إجبار الهولندي الطائر على التراجع مؤقتا<br>بإلحاق ضرر كبير به.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17074	kh3_system.gameoverhint	level_ca_0510	21fcefff	يمكنك إيقاف سفينة لوكسورد عن الحركة بتدمير نواها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17075	kh3_system.gameoverhint	level_ca_0520	af73e81c	إذا كانت سفينة العدو قادمة نحوك مباشرة، فأغرقها باستهداف<br>نواتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17076	kh3_system.gameoverhint	level_bx_0010	94a94356	استخدم <color(strong)>الانزلاق الساتر<color> للاختباء خلف السيارات وتجنب الهجمات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17077	kh3_system.gameoverhint	level_bx_0020	1a2644b5	استخدم <color(strong)>الرمية الساترة<color> للانزلاق ومهاجمة الأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17078	kh3_system.gameoverhint	level_bx_0110	0f0c0f39	قد تحتاج إلى تجربة تكتيكات غير مألوفة لكسر قبضة المكعبات المظلمة.<br>هل ترى شيئا قريبا يمكنك استخدامه?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17079	kh3_system.gameoverhint	level_bx_0120	818308da	راقب عدادات الصحة الظاهرة على جهاز AR لديك عن كثب.<br>أنقذ الأبطال الأكثر تعرضا للخطر أولا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17080	kh3_system.gameoverhint	level_bx_0210	7892ddc9	استخدم الخطوة الجوية للمرور عبر صفوف الحلقات بدقة أكبر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17081	kh3_system.gameoverhint	level_fz_0010	4b457b2d	راقب ثعابين الصقيع بعناية.<br>استخدم <icon(LstickLeft)><icon(LstickRight)> لتجنب أنفاسها القاتلة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17082	kh3_system.gameoverhint	level_fz_0020	c5ca7cce	إذا حوصرت أمام الجدار، فاضغط <icon(Cancel)> للقفز فوق<br>هجمات العدو والإفلات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17083	kh3_system.gameoverhint	level_fz_0030	09607c50	تجنب العوائق وأنت تنزلق من الجبل.<br>اجمع جوائز HP في الطريق للتعافي من الضرر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17084	kh3_system.gameoverhint	level_fz_0110	d0e03742	اضغط مطولا على <icon(R2)> لتنفيذ هجوم سريع الطلقات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17085	kh3_system.gameoverhint	level_kg_0010	04cd2257	استخدم أمر لعبة الملاهي الذي يظهر لتلقين العدو<br>درسا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17086	kh3_system.gameoverhint	level_kg_0110	9f686e38	اضغط <icon(Triangle)> مرارا لإبقاء مد الشياطين بعيدا.<br>ستحتاج إلى المراوغة يمينا ويسارا حول الأعداء الأكبر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17087	kh3_system.gameoverhint	level_kg_0210	e8f6bcc8	اضغط <icon(Triangle)> لاستخدام أوامر الاحتماء والمرور بين الجدران التي تنغلق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17088	kh3_system.gameoverhint	level_kg_0211	504adbad	الانسياب يجعل المرور بين الجدران التي تنغلق أسهل بكثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17089	kh3_system.gameoverhint	level_kg_0220	6679bb2b	يسهل تجاوز بعض الجدران بالصعود فوقها.<br>لكن في بعض الحالات يكون المرور تحت الجدار أفضل.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17090	kh3_system.gameoverhint	level_kg_0221	dec5dc4e	لن تكون الجدران الصاعدة مزعجة إن انسبت فوقها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17091	kh3_system.gameoverhint	level_kg_0230	aad3bbb5	استخدم القفزات والانزلاق الجوي للمرور بين الجدران التي تنغلق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17092	kh3_system.gameoverhint	level_kg_0231	126fdcd0	الانسياب يجعل المرور بين الجدران التي تنغلق أسهل بكثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17093	kh3_system.gameoverhint	level_kg_0240	a016b2ac	ستظهر الأعمدة فجأة وتسد طريقك.<br>تعلم متى تظهر وتجنبها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17094	kh3_system.gameoverhint	level_kg_0300	bff9f039	يمكن صد هجمات نسخ زيهانورت أو<br>مراوغتها باستخدام <color(strong)>المراوغة الجوية<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1

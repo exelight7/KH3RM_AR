@@ -1,0 +1,208 @@
+id	namespace	key	source_hash	AR	status	note
+07897	kh3_fieldvoice_bx.chat	sora_0030	7c77a6e3	حاول أن يسحقنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07898	kh3_fieldvoice_bx.chat	sora_0060	3497a887	حسنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07899	kh3_fieldvoice_bx.chat	sora_0090	edb7ba2b	حسنا، سأتفقده.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07900	kh3_fieldvoice_bx.chat	sora_0100	695ded6f	سهلة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07901	kh3_fieldvoice_bx.chat	sora_0110	a5f7edf1	فهمت! سأتولى أمره.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07902	kh3_fieldvoice_bx.chat	sora_0120	2b78ea12	لا، لا بأس يا هيرو. نحن نتولاه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07903	kh3_fieldvoice_bx.chat	sora_0130	e7d2ea8c	أرتجل! أعرف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07904	kh3_fieldvoice_bx.chat	sora_0140	ed17e395	هوني ليمون!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07905	kh3_fieldvoice_bx.chat	sora_0150	21bde30b	فريد! هل أنت بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07906	kh3_fieldvoice_bx.chat	sora_0160	af32e4e8	غو غو! هل أنت هناك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07907	kh3_fieldvoice_bx.chat	sora_0170	6398e476	واسابي! هل تسمعني?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07908	kh3_fieldvoice_bx.chat	sora_0180	bab8f6da	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07909	kh3_fieldvoice_bx.chat	donald_0010	0aea742c	انظر فوقك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07910	kh3_fieldvoice_bx.chat	donald_0020	846573cf	انظروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07911	kh3_fieldvoice_bx.chat	donald_0040	420a7a48	احذر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07912	kh3_fieldvoice_bx.chat	donald_0050	8ea07ad6	بلا قلب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07913	kh3_fieldvoice_bx.chat	donald_0070	cc857dab	مهلا... ماذا عن ذلك<br>الشيء الأحمر الكبير من <i(on)>الشوغيو?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07914	kh3_fieldvoice_bx.chat	donald_0080	15a56f07	يجب أن نساعد الفريق!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07915	kh3_fieldvoice_bx.chat	donald_0090	d90f6f99	يجب أن نوقف بلا قلب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07916	kh3_fieldvoice_bx.chat	goofy_0010	09ab32a8	لا تدعهم<br>يباغتونك يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07917	kh3_fieldvoice_bx.chat	goofy_0020	8724354b	سورا! انتقل من سيارة إلى سيارة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07918	kh3_fieldvoice_bx.chat	goofy_0030	4b8e35d5	ما كان ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07919	kh3_fieldvoice_bx.chat	goofy_0040	414b3ccc		todo	
+07920	kh3_fieldvoice_bx.chat	goofy_0050	8de13c52	هل ترى شيئا كبيرا<br>تستطيع أن تضربه به?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07921	kh3_fieldvoice_bx.chat	goofy_0060	036e3bb1	سورا، اتجه إلى المكان<br>الذي ذكره هيرو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07922	kh3_fieldvoice_bx.chat	goofy_0070	cfc43b2f	مستعد لذلك <i(on)>الشوغيو<i(off)> يا سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07923	kh3_fieldvoice_bx.chat	goofy_0080	16e42983	سورا، يجب أن نتجه<br>نحو المكعبات المظلمة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07924	kh3_fieldvoice_bx.chat	hiro_0010	e02c70c3	<i(on)>حسنا يا رفاق. مروا عبر<br>الحلقات واتجهوا إلى الهدف.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07925	kh3_fieldvoice_bx.chat	hiro_0020	6ea37720	<i(on)>سأكون هنا لأساعدكم<br>عن بعد.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07926	kh3_fieldvoice_bx.chat	hiro_0030	a20977be	<i(on)>ابدأ بالحلقات<br>التي أمامك مباشرة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07927	kh3_fieldvoice_bx.chat	hiro_0040	a8cc7ea7	<i(on)>اتجه نحو المؤشر<br>على جهاز AR الخاص بك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07928	kh3_fieldvoice_bx.chat	hiro_0050	64667e39	<i(on)>حاول أن تبقى على المسار.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07929	kh3_fieldvoice_bx.chat	hiro_0060	eae979da	<i(on)>إن بدأت بالانحراف،<br>فستعرف ذلك.<i(off)><pb(2.1)><i(on)>وضعت حدودا افتراضية.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07930	kh3_fieldvoice_bx.chat	hiro_0070	26437944	<i(on)>اقفز من جانب إلى جانب ومر<br>عبر الحلقات. تستطيع فعلها!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07931	kh3_fieldvoice_bx.chat	hiro_0080	ff636be8	<i(on)>تسلق جانب<br>ذلك المبنى.<i(off)><pb(1.8)><i(on)>واحذر نيران الأعداء.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07932	kh3_fieldvoice_bx.chat	hiro_0090	33c96b76	<i(on)>سورا، حان وقت الطيران.<br>كن بطلا خارقا تماما!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07933	kh3_fieldvoice_bx.chat	hiro_0100	b7233c32	<i(on)>الاتجاه الخطأ يا سورا.<br>عد إلى المسار.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07934	kh3_fieldvoice_bx.chat	hiro_0110	7b893cac	<i(on)>استخدم الحلقات والمؤشر<br>كدليل.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07935	kh3_fieldvoice_bx.chat	hiro_0120	f5063b4f	<i(on)>سورا، أظنك ضللت الطريق.<i(off)><pb(1.9)><i(on)>اتبع المؤشر<br>لتعود إلى المسار.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07936	kh3_fieldvoice_bx.chat	hiro_0130	39ac3bd1	<i(on)>لا مشكلة. ظننت أن هذا<br>قد يكون صعبا حين صنعته.<i(off)><pb(2.7)><i(on)>فقط، آه، أعد المحاولة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07937	kh3_fieldvoice_bx.chat	hiro_0140	336932c8	<i(on)>لا تتسرع. خذها<br>خطوة خطوة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07938	kh3_fieldvoice_bx.chat	hiro_0150	ffc33256	<i(on)>لا تقلق.<br>ستنجح في المرة القادمة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07939	kh3_fieldvoice_bx.chat	hiro_0160	714c35b5	<i(on)>حسنا، أنا لم أبرمج هذا.<i(off)><pb(3.7)><i(on)>لكنك تستطيع التعامل معه.<br>ارتجل فقط.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07940	kh3_fieldvoice_bx.chat	hiro_0170	bde6352b	<i(on)>هذه البيانات مذهلة!<br>لقد سحقتها يا سورا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07941	kh3_fieldvoice_bx.chat	hiro_0180	64c62787	<i(on)>حصلت على بيانات رائعة.<br>شكرا يا سورا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07942	kh3_fieldvoice_bx.chat	hiro_0190	a86c2719	<i(on)>نعم، هذه البيانات<br>تكفي. عمل جيد يا سورا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07943	kh3_fieldvoice_bx.chat	hiro_0200	c0bdeec2	<i(on)>حسنا، هذا... يجب أن يكفي<br>لنبدأ.<i(off)><pb(3.35)><i(on)>عد يا سورا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07944	kh3_fieldvoice_bx.chat	hiro_0210	0c17ee5c	<i(on)>سورا، فوقك!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07945	kh3_fieldvoice_bx.chat	hiro_0220	8298e9bf	<i(on)>أرصد تهديدا من نوع ما.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07946	kh3_fieldvoice_bx.chat	hiro_0230	4e32e921	<i(on)>اركض صعودا على المباني<br>إن اضطررت.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07947	kh3_fieldvoice_bx.chat	hiro_0240	44f7e038	<i(on)>احذر أولئك<br>الأعداء على المبنى.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07948	kh3_fieldvoice_bx.chat	hiro_0250	885de0a6	<i(on)>الاتجاه الخطأ!<br>اتجه نحو المؤشر!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07949	kh3_fieldvoice_bx.chat	hiro_0260	06d2e745	<i(on)>سورا، إلى أين أنت ذاهب?<br>انظر إلى المؤشر!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07950	kh3_fieldvoice_bx.chat	hiro_0270	ca78e7db	<i(on)>ركز الآن فقط على<br>الوصول إلى الموقع<i(off)><pb(1.9)><i(on)>الذي حددته بالمؤشر.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07951	kh3_fieldvoice_bx.chat	hiro_0280	1358f577	<i(on)>انتظر يا سورا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07952	kh3_fieldvoice_bx.chat	hiro_0290	dff2f5e9	<i(on)>شيء كبير قادم نحوك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07953	kh3_fieldvoice_bx.chat	hiro_0300	5b18a2ad	<i(on)>ذلك الشيء ضخم! أوقفه،<br>وإلا فسيدمر المدينة!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07954	kh3_fieldvoice_bx.chat	hiro_0310	97b2a233	<i(on)>حددت الهدف لكي<br>لا تفقد أثره.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07955	kh3_fieldvoice_bx.chat	hiro_0320	193da5d0	<i(on)>الهدف صعد إلى<br>أحد المباني.<i(off)><pb(2.05)><i(on)>يجب أن تلحق به.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07956	kh3_fieldvoice_bx.chat	hiro_0330	d597a54e	<i(on)>سورا، حددت للتو موقع<br>الهدف. ابحث عن المؤشر.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07957	kh3_fieldvoice_bx.chat	hiro_0340	df52ac57	<i(on)>سورا، أنت تنحرف عن المسار.<i(off)><pb(2.3)><i(on)>وضعت حدودا افتراضية<br>قرب أطراف المدينة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07958	kh3_fieldvoice_bx.chat	hiro_0350	13f8acc9	<i(on)>من الأفضل أن تبقى في وسط المدينة.<br>قد تضل الطريق.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07959	kh3_fieldvoice_bx.chat	hiro_0360	9d77ab2a	<i(on)>هذه حافة المدينة.<br>لا تذهب أبعد من ذلك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07960	kh3_fieldvoice_bx.chat	hiro_0370	51ddabb4	<i(on)>يجب أن يكون هناك تماما...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07961	kh3_fieldvoice_bx.chat	hiro_0380	88fdb918	<i(on)>إنها ليست روبوتات دقيقة...<br>كن حذرا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07962	kh3_fieldvoice_bx.chat	hiro_0390	4457b986	<i(on)>اسمع يا سورا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07963	kh3_fieldvoice_bx.chat	hiro_0400	2f804b22	<i(on)>المكعبات المظلمة تجمعت<br>في موقع واحد.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07964	kh3_fieldvoice_bx.chat	hiro_0410	e32a4bbc	<i(on)>أيا كان ما يحدث،<br>فلا يمكن أن يكون جيدا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07965	kh3_fieldvoice_bx.chat	hiro_0420	6da54c5f	<i(on)>أوشكت على تحديد موقع<br>النواة. إن احتجت إلى مساعدتي—<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07966	kh3_fieldvoice_bx.chat	hiro_0430	a10f4cc1	<i(on)>شكرا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07967	kh3_fieldvoice_bx.chat	hiro_0440	abca45d8	<i(on)>سورا، فتح المكعبات المظلمة<br>سيكون صعبا.<i(off)><pb(3.4)><i(on)>عليك أن تقيم<br>وضع الجميع و—<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07968	kh3_fieldvoice_bx.chat	hiro_0450	67604546	<i(on)>رائع. حظا موفقا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07969	kh3_fieldvoice_bx.chat	hiro_0460	e9ef42a5	<i(on)>سعيد لأنك بخير يا فريد.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07970	kh3_fieldvoice_bx.chat	hiro_0470	2545423b	<i(on)>لا يبدو أنك مصابة<br>يا غو غو.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07971	kh3_fieldvoice_bx.chat	hiro_0480	fc655097	<i(on)>هوني ليمون!<br>سعيد لأنك بأمان.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07972	kh3_fieldvoice_bx.chat	hiro_0490	30cf5009	<i(on)>واسابي، من الجيد أن أرى<br>أنك بخير.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07973	kh3_fieldvoice_bx.chat	hiro_0520	f6000030	هل تلتقط صورتي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07974	kh3_fieldvoice_bx.chat	hiro_0530	3aaa00ae	نعم، لنلتقط صورة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07975	kh3_fieldvoice_bx.chat	gogo_0010	994e2d02	<i(on)>حسنا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07976	kh3_fieldvoice_bx.chat	gogo_0020	17c12ae1	يجب أن تجاريني يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07977	kh3_fieldvoice_bx.chat	gogo_0040	d1ae2366	شكرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07978	kh3_fieldvoice_bx.chat	gogo_0050	1d0423f8	أنا مدينة لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07979	kh3_fieldvoice_bx.chat	gogo_0060	938b241b	سورا! لا أعرف كيف<br>أوقف هذا الشيء.<pb(2.8)>حاولت إبطاءه<br>بأقراصي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07980	kh3_fieldvoice_bx.chat	gogo_0070	5f212485	سورا! هيا، أسرع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07981	kh3_fieldvoice_bx.chat	gogo_0080	86013629	انتهى أمري...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07982	kh3_fieldvoice_bx.chat	gogo_0090	4aab36b7	حسنا. أنت جيد.<br>لا يمكن التغلب على نتيجة كهذه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07983	kh3_fieldvoice_bx.chat	gogo_0100	ce4161f3	تتبع رائع يا أبطال الكيبلايد الثلاثة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07984	kh3_fieldvoice_bx.chat	gogo_0110	02eb616d	ليس سيئا. يجب أن أرفع مستواي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07985	kh3_fieldvoice_bx.chat	gogo_0120	8c64668e	هيا. تستطيع فعل<br>أفضل من ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07986	kh3_fieldvoice_bx.chat	gogo_0130	40ce6610	أعدها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07987	kh3_fieldvoice_bx.chat	gogo_0140	4a0b6f09	حسنا. ركز.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07988	kh3_fieldvoice_bx.chat	gogo_0150	86a16f97	ستنجح هذه المرة يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07989	kh3_fieldvoice_bx.chat	gogo_0160	082e6874	السر هو القضاء على<br>الأشرار بسرعة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07990	kh3_fieldvoice_bx.chat	gogo_0170	c48468ea	يمكنك تجاهل الحلقات.<br>جد طريقا مختصرا.<pb(2.7)>اعرف نقاط قوتك.<br>وخطط لمسار يناسبها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07991	kh3_fieldvoice_bx.chat	gogo_0180	1da47a46	كلما صرت أقوى،<pb(1.35)>سقط الأعداء أسرع<br>وتحسنت أوقاتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07992	kh3_fieldvoice_bx.chat	gogo_0190	d10e7ad8	حقا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07993	kh3_fieldvoice_bx.chat	gogo_0200	b9dfb303	حسنا، انته من الأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07994	kh3_fieldvoice_bx.chat	honeylemon_0010	33d1a1d6	<i(on)>حسنا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07995	kh3_fieldvoice_bx.chat	honeylemon_0030	71f4a6ab	ألا تحب الكيمياء <i(on)>حقا<i(off)>?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07996	kh3_fieldvoice_bx.chat	honeylemon_0060	3914a8cf	<pb(0.65)>غراسياس يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07997	kh3_fieldvoice_bx.chat	honeylemon_0070	f5bea851	في المرة القادمة لن<br>أتساهل معهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07998	kh3_fieldvoice_bx.chat	honeylemon_0080	2c9ebafd	سورا? أظنني عالقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+07999	kh3_fieldvoice_bx.chat	honeylemon_0090	e034ba63	حاول أن تجد<br>بقايا كراتي الكيميائية.<pb(2.55)>إن ضربتها<br>بالنار أو الكهرباء،<pb(2.15)>فقد تطلق<br>تفاعلا متسلسلا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08000	kh3_fieldvoice_bx.chat	honeylemon_0100	64deed27	سورا، لست متأكدة أنني سأنجو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08001	kh3_fieldvoice_bx.chat	honeylemon_0110	a874edb9	لا... هل هذه... النهاية?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08002	kh3_fieldvoice_bx.chat	honeylemon_0120	26fbea5a	لا تنس أن تشير إلي في الصورة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08003	kh3_fieldvoice_bx.chat	honeylemon_0130	ea51eac4	ما رأيك بهذه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08004	kh3_fieldvoice_bx.chat	fred_0010	fb5bd306	<i(on)>حسنا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08005	kh3_fieldvoice_bx.chat	fred_0020	75d4d4e5	هذا رائع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08006	kh3_fieldvoice_bx.chat	fred_0040	b3bbdd62	نعم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08007	kh3_fieldvoice_bx.chat	fred_0050	7f11ddfc	قفزة خارقة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08008	kh3_fieldvoice_bx.chat	fred_0060	f19eda1f	تقدير خالص يا صاح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08009	kh3_fieldvoice_bx.chat	fred_0070	3d34da81	مواطني! إنهم يحتاجونني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08010	kh3_fieldvoice_bx.chat	fred_0080	e414c82d	أشد في اتجاهات<br>كثيرة جدا!<pb(2.7)>هل تستطيع تحرير<br>ذراعي وساقي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08011	kh3_fieldvoice_bx.chat	fred_0090	28bec8b3	يجب أن أجد نقطة ضعف<br>وأفك قبضة المكعبات المظلمة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08012	kh3_fieldvoice_bx.chat	fred_0100	ac549ff7	لا أحتمل المزيد<br>من هذا... سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08013	kh3_fieldvoice_bx.chat	fred_0110	60fe9f69	وهكذا تنتهي ملحمتي...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08014	kh3_fieldvoice_bx.chat	fred_0120	ee71988a	لا يصدق يا صاح!<br>لقد كنت رائعا تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08015	kh3_fieldvoice_bx.chat	fred_0130	22db9814	واو! مذهل! هذه<br>بطولة كما في الكتب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08016	kh3_fieldvoice_bx.chat	fred_0140	281e910d	أحسنت يا سورا! الآن علي<br>أن أرفع مستواي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08017	kh3_fieldvoice_bx.chat	fred_0150	e4b49193	عليك أن تقوم<br>بالمزيد من <i(on)>الشوغيو<i(off)><pb(1.65)>إن أردت مجاراتنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08018	kh3_fieldvoice_bx.chat	fred_0160	6a3b9670	لا مشكلة.<br>أعد المحاولة فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08019	kh3_fieldvoice_bx.chat	fred_0170	a69196ee	لا بأس يا صاح!<br>عليك فقط أن تصفي ذهنك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08020	kh3_fieldvoice_bx.chat	fred_0180	7fb18442	أوه، تستطيع فعلها—<br>لا، أنت <i(on)>تملك<i(off)> زمام الأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08021	kh3_fieldvoice_bx.chat	fred_0190	b31b84dc	الحلقات المختلفة الأشكال<br>تعطيك نقاطا مختلفة.<pb(2.05)>عليك أن تعرف أيها<br>يستحق أكثر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08022	kh3_fieldvoice_bx.chat	fred_0200	dbca4d07	الطريق الصحيح محدد دائما<br>على جهاز AR الخاص بك.<pb(2.95)>ابحث فقط عن المؤشر<br>إن ضللت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08023	kh3_fieldvoice_bx.chat	fred_0210	17604d99	تعرف أن الأعداء المختلفين<br>يستحقون نقاطا مختلفة، صحيح?<pb(3.0)>أعني، لو كان الأمر بيدي،<pb(1.5)>لركزت فقط على<br>ذوي القيمة العالية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08024	kh3_fieldvoice_bx.chat	fred_0220	99ef4a7a	اجعلني أبدو مهيبا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08025	kh3_fieldvoice_bx.chat	fred_0230	55454ae4	هل أبدو رائعا،<br>أم رائعا <i(on)>للغاية<i(off)>?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08026	kh3_fieldvoice_bx.chat	wasabi_0010	9a742e96	<i(on)>حسنا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08027	kh3_fieldvoice_bx.chat	wasabi_0030	d85129eb	هيا... ألا يمكننا فعل هذا<br>على الأرض?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08028	kh3_fieldvoice_bx.chat	wasabi_0050	1e3e206c	أخيرا!<br>شكرا على الإنقاذ يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08029	kh3_fieldvoice_bx.chat	wasabi_0060	90b1278f	سأرى إن كان أحد آخر يحتاج مساعدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08030	kh3_fieldvoice_bx.chat	wasabi_0080	853b35bd	سورا! كم أنا سعيد برؤيتك!<br>لست من محبي المرتفعات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08031	kh3_fieldvoice_bx.chat	wasabi_0090	49913523	أتظن أنه<br>جرني إلى هنا<pb(3.0)>لأنه يخاف من<br>الهجوم من الأعلى?<pb(3.05)>حاول أن تباغته من فوق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08032	kh3_fieldvoice_bx.chat	wasabi_0100	cd7b6267	سورا! حالتي سيئة هنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08033	kh3_fieldvoice_bx.chat	wasabi_0110	01d162f9	يا للهول. ليس جيدا. لا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08034	kh3_fieldvoice_bx.chat	wasabi_0120	8f5e651a	تريد صورتي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08035	kh3_fieldvoice_bx.chat	wasabi_0130	43f46584	حسنا، لكنني عادة أحب<br>أن أستعد للصور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08036	kh3_fieldvoice_bx.chat	baymax_0010	38d25699	يمكنك تقليل خطر<br>الإصابة بالاحتماء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08037	kh3_fieldvoice_bx.chat	baymax_0020	b65d517a	السيارات المتوقفة<br>ستحميك من الأذى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08038	kh3_fieldvoice_bx.chat	baymax_0030	7af751e4	أنت قريب من الهدف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08039	kh3_fieldvoice_bx.chat	baymax_0040	703258fd	تم تحديد الهدف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08040	kh3_fieldvoice_bx.chat	baymax_0070	febd5f1e	هل تود التقاط صورة لي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08041	kh3_fieldvoice_bx.chat	baymax_0080	279d4db2	مشاركة الصور قد تكون<br>تجربة إيجابية لتقوية الروابط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08042	kh3_fieldvoice_bx.talk	hiro_0010	e02c70c3	أخبرني حين تكون مستعدا يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08043	kh3_fieldvoice_bx.talk	hiro_0020	6ea37720	فلاش تريسر جاهز في المدينة.<br>هل أنت مستعد للذهاب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08044	kh3_fieldvoice_bx.talk	hiro_0030	a20977be	سورا، هل أنت مستعد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08045	kh3_fieldvoice_bx.talk	hiro_0040	a8cc7ea7	سورا، ماذا تفعل هنا?<br>العدو في الخارج.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08046	kh3_fieldvoice_bx.talk	hiro_0050	64667e39	ما الخطب? هل جهاز AR الخاص بك معطل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08047	kh3_fieldvoice_bx.talk	hiro_0060	eae979da	سأكتشف ما تلك الروبوتات.<br>امنحني بعض الوقت فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08048	kh3_fieldvoice_bx.talk	hiro_0070	26437944	حسنا. هل أنت مستعد لقتال المكعبات المظلمة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08049	kh3_fieldvoice_bx.talk	hiro_0080	ff636be8	مرحبا يا سورا! ذاهب إلى المدينة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08050	kh3_fieldvoice_bx.talk	gogo_0010	994e2d02	هل ستجرب المسار الجديد الذي صنعه هيرو?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08051	kh3_fieldvoice_bx.talk	gogo_0020	17c12ae1	لن نوقف أولئك الأعداء<br>ما لم تكن لدينا خطة جديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08052	kh3_fieldvoice_bx.talk	gogo_0030	db6b2a7f	سعيدة لأن هيرو بخير. شكرا على المساعدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08053	kh3_fieldvoice_bx.talk	gogo_0040	d1ae2366	هل أنت مستعد للتعليم? لأننا مستعدون للتعلم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08054	kh3_fieldvoice_bx.talk	gogo_0050	1d0423f8	مستعد? لا تتراجع خوفا الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08055	kh3_fieldvoice_bx.talk	gogo_0060	938b241b	تلك الأشياء لن تهزمني هذه المرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08056	kh3_fieldvoice_bx.talk	gogo_0070	5f212485	أنا مستعدة <i(on)>تماما<i(off)> لهذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08057	kh3_fieldvoice_bx.talk	gogo_0080	86013629	سان فرانسوكيو تحتاجنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08058	kh3_fieldvoice_bx.talk	gogo_0090	4aab36b7	هيا يا سورا! يجب أن نتحرك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08059	kh3_fieldvoice_bx.talk	gogo_0100	ce4161f3	تلك المكعبات انتهى أمرها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08060	kh3_fieldvoice_bx.talk	honeylemon_0010	33d1a1d6	أولئك الأعداء يعودون باستمرار.<br>سأكثف دورياتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08061	kh3_fieldvoice_bx.talk	honeylemon_0020	bd5ea635	هل جربت مسار فلاش تريسر الجديد?<br>إنه ممتع جدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08062	kh3_fieldvoice_bx.talk	honeylemon_0030	71f4a6ab	إن لم تتذوق الطعام المذهل<br>في سان فرانسوكيو، فأنت تفوت الكثير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08063	kh3_fieldvoice_bx.talk	honeylemon_0040	7b31afb2	حركاتك مبهرة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08064	kh3_fieldvoice_bx.talk	honeylemon_0050	b79baf2c	سنتعلم منك الكثير بالتأكيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08065	kh3_fieldvoice_bx.talk	honeylemon_0060	3914a8cf	حين تكون مستعدا للذهاب، تحدث إلى هيرو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08066	kh3_fieldvoice_bx.talk	honeylemon_0070	f5bea851	هذه هي. هل تشعر بالاستعداد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08067	kh3_fieldvoice_bx.talk	honeylemon_0080	2c9ebafd	لا تقلق. نحن بارعون جدا في هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08068	kh3_fieldvoice_bx.talk	honeylemon_0090	e034ba63	سنهزم تلك المخلوقات معا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08069	kh3_fieldvoice_bx.talk	honeylemon_0100	64deed27	يجب أن ينهض أحد ويحمي المدينة،<br>وذلك الأحد هو نحن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08070	kh3_fieldvoice_bx.talk	honeylemon_0110	a874edb9	سننهي هذا مرة وإلى الأبد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08071	kh3_fieldvoice_bx.talk	honeylemon_0120	26fbea5a	سورا، لنذهب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08072	kh3_fieldvoice_bx.talk	fred_0010	fb5bd306	مرحبا يا سورا! أتريد أن تجرب جولة فلاش تريسر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08073	kh3_fieldvoice_bx.talk	fred_0020	75d4d4e5	يا أبطال الكيبلايد الثلاثة! أنتم رائعون جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08074	kh3_fieldvoice_bx.talk	fred_0030	b97ed47b	تأكد من استخدام كل حركاتك الخارقة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08075	kh3_fieldvoice_bx.talk	fred_0040	b3bbdd62	امنحني القوة من فضلك أيها المعلم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08076	kh3_fieldvoice_bx.talk	fred_0050	7f11ddfc	ها-ها! أنا متحمس. فريد مستعد للتحطيم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08077	kh3_fieldvoice_bx.talk	fred_0060	f19eda1f	سنسحقهم تماما<br>بقوانا الجديدة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08078	kh3_fieldvoice_bx.talk	fred_0070	3d34da81	سورا، لا تبطئني هناك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08079	kh3_fieldvoice_bx.talk	fred_0080	e414c82d	أوه نعم! أشم رائحة زعيم أخير!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08080	kh3_fieldvoice_bx.talk	fred_0090	28bec8b3	أنا مستعد تماما لهذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08081	kh3_fieldvoice_bx.talk	fred_0100	ac549ff7	هيا يا سورا. هيا، هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08082	kh3_fieldvoice_bx.talk	wasabi_0010	9a742e96	أشياء بلا قلب تلك تواصل الهجوم.<br>لا أحد بأمان حتى تزول تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08083	kh3_fieldvoice_bx.talk	wasabi_0020	14fb2975	يا رجل! يجب أن ترى الرمز الغامض<br>الذي ظهر في النفق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08084	kh3_fieldvoice_bx.talk	wasabi_0030	d85129eb	مهلا، قال أحدهم إنه رأى نوعا من<br>رموز الحظ في لافتة هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08085	kh3_fieldvoice_bx.talk	wasabi_0040	d29420f2	تدريب AR... اترك الأمر لهيرو<br>ليحول التمرين إلى تقنية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08086	kh3_fieldvoice_bx.talk	wasabi_0050	1e3e206c	سأدرس حركاتك عن قرب.<br>من الجيد دائما توسيع مهاراتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08087	kh3_fieldvoice_bx.talk	wasabi_0060	90b1278f	أخبر هيرو حين تكون مستعدا لبدء التدريب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08088	kh3_fieldvoice_bx.talk	wasabi_0070	5c1b2711	حسنا، لنستفد من كل ذلك <i(on)>الشوغيو<i(off)>!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08089	kh3_fieldvoice_bx.talk	wasabi_0080	853b35bd	يجب أن نذهب. الآن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08090	kh3_fieldvoice_bx.talk	wasabi_0090	49913523	مستعد حين تكون مستعدا يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08091	kh3_fieldvoice_bx.talk	wasabi_0100	cd7b6267	هل يمكن أن يكون هذا حقا الشيء نفسه<br>الذي قاتلناه من قبل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08092	kh3_fieldvoice_bx.talk	wasabi_0110	01d162f9	معك في الفريق يا سورا، سيكون هذا سهلا.<br>صحيح? أرجوك قل "صحيح".	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08093	kh3_fieldvoice_bx.talk	wasabi_0120	8f5e651a	لا تقلق، سنتولى الأمر...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08094	kh3_fieldvoice_bx.talk	baymax_0010	38d25699	هل أنت مستعد لبدء <i(on)>"الشوغيو"?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08095	kh3_fieldvoice_bx.talk	baymax_0020	b65d517a	بتسجيل حركاتك، يستطيع هيرو<br>تحديث بروتوكولات القتال لدي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08096	kh3_fieldvoice_bx.talk	baymax_0030	7af751e4	إكمال هذا <i(on)>"الشوغيو"<i(off)> سيحسن كثيرا<br>فرصنا في هزيمة أولئك الأعداء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08097	kh3_fieldvoice_bx.talk	baymax_0040	703258fd	حين تكون مستعدا للبدء، تحدث إلى هيرو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08098	kh3_fieldvoice_bx.talk	baymax_0050	bc985863	سورا، ستواجه أخطارا كثيرة.<br>من المهم أن تتخذ الاحتياطات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08099	kh3_fieldvoice_bx.talk	baymax_0060	32175f80	إن أصبت أثناء القتال، فحاول<br>أن تصل إلى مكان آمن حتى تصل المساعدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08100	kh3_fieldvoice_bx.talk	baymax_0070	febd5f1e	بالقتال كجزء من فريق،<br>ستقلل خطر إصابتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08101	kh3_fieldvoice_bx.talk	baymax_0080	279d4db2	تشير البيانات إلى أننا نواجه<br>العدو نفسه كما في السابق.<pb(4.3)>لكن عوامل مجهولة قد تغير النتيجة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08102	kh3_fieldvoice_bx.talk	baymax_0090	eb374d2c	من المهم أن نكون مستعدين لكل الاحتمالات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08103	kh3_fieldvoice_bx.talk	baymax_0100	6fdd1a68	سورا، احرص على تجنب الإصابات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2

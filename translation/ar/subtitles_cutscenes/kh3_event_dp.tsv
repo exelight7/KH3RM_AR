@@ -1,0 +1,55 @@
+id	namespace	key	source_hash	AR	status	note
+02080	kh3_event_dp.dp651a	dp6510010go0	c4646daa	هل أنت متأكدة من هذا يا أكوا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02081	kh3_event_dp.dp651a	dp6510020sr0	836dd219	إن أردت، يمكننا أن نعيدك<br>إلى برج المعلم ين سيد	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02082	kh3_event_dp.dp651a	dp6510020sr0b	b795deaf	لترتاحي مع ريكو والملك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02083	kh3_event_dp.dp651a	dp6510030do0	7934c9d6	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02084	kh3_event_dp.dp651a	dp6510040aq0_1	ba4b2878	شكرا لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02085	kh3_event_dp.dp651a	dp6510040aq0_1b	1087b3e3	لكن... فين ينتظرني.<br>وعدته بأن أوقظه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02086	kh3_event_dp.dp651a	dp6510040aq0_2	a8fe8796	قلت إنني سأعود حالا، لكنني لم أقترب حتى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02087	kh3_event_dp.dp651a	dp6510040aq0_2b	9e08b400	سأتلقى توبيخا طويلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02088	kh3_event_dp.dp652a	dp6520010aq0	8b77e3ec	مستعدون?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02089	kh3_event_dp.dp652a	dp6520020sr0	4a72daa6		todo	
+02090	kh3_event_dp.dp653a	dp6530020aq0	d504ab8c	فين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02091	kh3_event_dp.dp653a	dp6530030aq1	08dff7af	آسفة لأن الأمر استغرق كل هذا الوقت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02092	kh3_event_dp.dp653a	dp6530040aq0_1	3fb30ab7	فين، استيقظ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02093	kh3_event_dp.dp653a	dp6530040aq0_2	2d06a559	افتح عينيك، أرجوك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02094	kh3_event_dp.dp653a	dp6530050aq0	34400d1f	لماذا? ألم يجد قلبك طريقه إلى البيت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02095	kh3_event_dp.dp653a	dp6530060va0_1	db7dc3a5	كانت تلك حيلة بارعة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02096	kh3_event_dp.dp653a	dp6530060va0_2	c9c86c4b	لا عجب أن أحدا لم يستطع إيجاده.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02097	kh3_event_dp.dp653a	dp6530070sr0	90220f13	فانيتاس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02098	kh3_event_dp.dp653a	dp6530080aq0	82110bb2	لماذا أنت هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02099	kh3_event_dp.dp653a	dp6530090va0_1	d2dbd81e	أوه، آسف لمقاطعة لم شملكما المؤثر،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02100	kh3_event_dp.dp653a	dp6530090va0_2	c06e77f0	لكنك بالتأكيد لن تبخلي علي<br>بلحظة مع أخي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02101	kh3_event_dp.dp653a	dp6530130aq0	3146f5ed	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02102	kh3_event_dp.dp653a	dp6530140va0_1	29cc3c35	إذن، فينتي الصغير يريد أن يبقى نائما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02103	kh3_event_dp.dp653a	dp6530140va0_2	3b7993db	ماذا سأفعل بك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02104	kh3_event_dp.dp653a	dp6530150aq0	b5656838	اصمت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02105	kh3_event_dp.dp653a	dp6530160va0	1ef710aa	من الأفضل أن تهدئي يا "معلمة".	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02106	kh3_event_dp.dp653a	dp6530170sr0	11076a34	أكوا، سأتولى أمره!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02107	kh3_event_dp.dp653a	dp6530180aq0	03346e95	لا. <i(on)>أنا<i(off)> من سينهي هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02108	kh3_event_dp.dp653a	dp6530190sr0	08ff2153	لكن... لم تتعافي بعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02109	kh3_event_dp.dp653a	dp6530200aq0	c6f1110f	آسفة، لكنك رأيتني ضعيفة أكثر من اللازم، ومرارا كثيرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02110	kh3_event_dp.dp653a	dp6530200aq1	7e4d766a	والآن حان دوري لأتألق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02111	kh3_event_dp.dp653a	dp6530210sr0	cd3a5ec9	أكوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02112	kh3_event_dp.dp654a	dp6540030sr0	665af6df	أكوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02113	kh3_event_dp.dp655a	dp6550010vn0	eef9d68d	<i(on)>يجب... أن أستيقظ...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02114	kh3_event_dp.dp655a	dp6550020sr0	f2e7c833	<i(on)>نعم. أخبرني ماذا أفعل.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02115	kh3_event_dp.dp655a	dp6550030vn0	2437a001	<i(on)>قوة اليقظة...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02116	kh3_event_dp.dp655a	dp6550040sr0	76c455e6	<i(on)>لا أستطيع. ما زلت لا أملكها.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02117	kh3_event_dp.dp655a	dp6550050vn0_1	0230c2a8	<i(on)>لم تفقدها قط... إنها نائمة...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02118	kh3_event_dp.dp655a	dp6550050vn0_2	10856d46	<i(on)>حتى يحتاجها أحد... نادها...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02119	kh3_event_dp.dp655a	dp6550060sr0	bc0a236a	<i(on)>أنا أناديها... من كل قلبي.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02120	kh3_event_dp.dp655a	dp6550070vn0	6ada4b58	<i(on)>شكرا لأنك حميتني دائما يا سورا...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02121	kh3_event_dp.dp656a	dp6560010vn0	27e6de32	أكوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02122	kh3_event_dp.dp656a	dp6560050va0	b02b27c7	ثلاثة حراس أكثر مما أرغب في مواجهته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02123	kh3_event_dp.dp656a	dp6560050va1	089740a2	لكن الآن وقد استيقظ أخي...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02124	kh3_event_dp.dp656a	dp6560050va2	1a22ef4c	أنا واثق أنه سيأتي لزيارتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02125	kh3_event_dp.dp656a	dp6560060sr0	75152bd5	أكوا، هل أنت بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02126	kh3_event_dp.dp656a	dp6560070aq0	7ede6413	نعم. أنا بخير يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02127	kh3_event_dp.dp656a	dp6560080vn0	df5a33c6	ماذا?! أنت... سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02128	kh3_event_dp.dp656a	dp6560090sr0	098a5bf4	نعم. مرحبا يا فينتوس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02129	kh3_event_dp.dp656a	dp6560100vn0	c3a48053	فهمت. كنت فرصتي الثانية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02130	kh3_event_dp.dp656a	dp6560110sr0	1574e861	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02131	kh3_event_dp.dp656a	dp6560120vn0	096af6df	نادني فين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02132	kh3_event_dp.dp656a	dp6560130aq0	b116ea6d	صباح الخير يا فين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02133	kh3_event_dp.dp656a	dp6560140vn0	8d496b0a	صباح الخير يا أكوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2

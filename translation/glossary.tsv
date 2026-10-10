@@ -1,0 +1,1458 @@
+en	ar	type	source	status	kh3_count	example_ids	note
+Sora	سورا	character	KH2	approved	683	00218,00247,00252	KH2 الأسماء المعتمدة — قرار نهائي (المشرف 20; قرار نهائي
+Donald	دونالد	character	KH2	approved	121	00475,00476,00926	KH2 الأسماء المعتمدة — قرار نهائي (المشرف 20; قرار نهائي
+Goofy	غوفي	character	KH2	approved	96	00477,00927,00954	KH2 الأسماء المعتمدة — قرار نهائي (المشرف 20; قرار نهائي
+Riku	ريكو	character	KH2	approved	132	00481,00491,00505	KH2 الأسماء المعتمدة — قرار نهائي (المشرف 20; قرار نهائي
+Kairi	كايري	character	KH2	approved	109	00114,00482,00865	KH2 الأسماء المعتمدة — قرار نهائي (المشرف 20; قرار نهائي
+Mickey	ميكي	character	KH2	approved	91	00479,00480,02045	KH2 الأسماء المعتمدة — قرار نهائي (المشرف 20; قرار نهائي
+Keyblade	كيبلايد	item	KH2	approved	201	00047,00333,00412	KH2 الأسماء المعتمدة — قرار نهائي (المشرف 20; قرار نهائي — ترجمة صوتية
+Heartless	بلا قلب	term	KH2	approved	178	00908,00922,00966	KH2 الأسماء المعتمدة — قرار نهائي (المشرف 20; قرار نهائي
+Organization XIII	منظمة XIII	term	KH2	approved	73	00106,00107,01224	user decision GLOSS-2; was منظمة <X 5E>; KH2 الأسماء المعتمدة — قرار نهائي (المشرف 20; قرار نهائي — عُدِّل 2026-10-01 بالمشرف: الصيغة الحرافية منظمة <X 5E> بدل "المنظمة الثالثة عشرة"؛ التحقق والتوثيق في قسم "قرار منظمة <X 5E>" أسفل الملف
+Auron	أورون	character	KH2	approved	1	03257	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Ping	بينغ	character	KH2	approved	1	04918	KH2 الشخصيات; الدفعة 2
+Mulan	مولان	character	KH2	approved	0		KH2 الشخصيات; الدفعة 2
+Aladdin	علاء الدين	character	KH2	approved	0		KH2 الشخصيات; الدفعة 2 — للعرض المرجعي إن زاد عن 150%
+Jack	جاك	character	KH2	approved	91	00092,00579,00580	KH2 الشخصيات; الدفعة 2 — يُستخدم للنسختين (Sparrow/Skellington)
+Beast	الوحش	character	KH2	approved	0		KH2 الشخصيات; الدفعة 2
+Simba	سيمبا	character	KH2	approved	3	00311,00528,12888	KH2 الشخصيات; الدفعة 2
+Tron	ترون	character	KH2	approved	0		KH2 الشخصيات; الدفعة 2
+Roxas	روكساس	character	KH2	approved	108	00488,02457,02459	KH2 الشخصيات; الدفعة 2
+Stitch	ستيتش	character	KH2	approved	4	00312,00529,12887	KH2 الشخصيات; الدفعة 2
+Genie	الجني	character	KH2	approved	0		KH2 الشخصيات; الدفعة 2
+Agrabah	أجرابا	world	KH2	approved	0		KH2 الأماكن (Worlds); ids 498,536 — ترجمة صوتية
+Twilight Town	بلدة الشفق	world	KH2	approved	37	00704,03228,05895	KH2 الأماكن (Worlds); id 531
+Destiny Islands	جزر المصير	world	KH2	approved	7	02046,02248,13552	KH2 الأماكن (Worlds); id 532; supervisor decision TRANS-1
+Hollow Bastion	حصن هولو	world	KH2	approved	2	07297,15458	KH2 constraint, revisit; KH2 الأماكن (Worlds); id 533 — مختصر (حصن + صوت هولو); supervisor decision TRANS-1
+Beast's Castle	قلعة الوحش	world	KH2	approved	0		KH2 الأماكن (Worlds); id 534
+Olympus Coliseum	كولوسيوم أوليمبوس	world	KH2	approved	1	03059	user decision GLOSS-2; was كولوسيوم أولمبيا; KH2 الأماكن (Worlds); id 535
+The Land of Dragons	أرض التنانين	world	KH2	approved	0		KH2 الأماكن (Worlds); id 537
+100 Acre Wood	غابة المئة فدان	world	KH2	approved	0		conflict, see GLOSSARY_CONFLICTS.md; KH2 الأماكن (Worlds); ids 538,617 — نفس المعنى; supervisor decision TRANS-1
+The Hundred Acre Wood	غابة المئة فدان	world	KH2	approved	12	00712,13544,13973	KH2 الأماكن (Worlds); ids 538,617 — نفس المعنى
+Pride Lands	أراضي الكبرياء	world	KH2	approved	0		KH2 الأماكن (Worlds); id 539
+Atlantica	أطلنطيكا	world	KH2	approved	0		KH2 الأماكن (Worlds); id 540 — صوتية
+Disney Castle	قلعة ديزني	world	KH2	approved	4	15328,15367,15368	KH2 الأماكن (Worlds); id 541
+Timeless River	النهر الخالد	world	KH2	approved	0		KH2 الأماكن (Worlds); id 542
+Halloween Town	بلدة الهالوين	world	KH2	approved	0		KH2 الأماكن (Worlds); id 543
+Port Royal	ميناء رويال	world	KH2	approved	21	00089,00090,01742	KH2 الأماكن (Worlds); id 545
+Space Paranoids	بارانويدز الفضاء	world	KH2	approved	0		KH2 الأماكن (Worlds); id 546
+The World That Never Was	العالم الذي لم يكن	world	KH2	approved	0		KH2 الأماكن (Worlds); id 547
+End of Sea	نهاية البحر	world	KH2	approved	0		KH2 الأماكن (Worlds); id 530
+World ZZ	عالم تجريبي	world	KH2	kh2-only	0		KH2 constraint, revisit; KH2 الأماكن (Worlds); ids 529,544 — عوالم مؤقتة غير مستخدمة؛ الحرفان Z/F غير مسموحان فحُرفا معنوناً; supervisor decision TRANS-1
+World FA	عالم تجريبي	world	KH2	kh2-only	0		KH2 constraint, revisit; KH2 الأماكن (Worlds); ids 529,544 — عوالم مؤقتة غير مستخدمة؛ الحرفان Z/F غير مسموحان فحُرفا معنوناً; supervisor decision TRANS-1
+Potion	جرعة	item	KH2	approved	3	12542,12543,12544	KH2 عناصر/أسلحة (Keyblades, Items); الدفعة 2
+Hi-Potion	جرعة قوية	item	KH2	approved	1	12543	KH2 عناصر/أسلحة (Keyblades, Items); الدفعة 2
+Mega-Potion	جرعة كبيرة	item	KH2	approved	1	12544	KH2 عناصر/أسلحة (Keyblades, Items); الدفعة 2
+Ether	إيثر	item	KH2	approved	3	12545,12546,12552	KH2 عناصر/أسلحة (Keyblades, Items); الدفعة 2 — ترجمة صوتية
+Mega-Ether	إيثر كبير	item	KH2	approved	1	12546	KH2 عناصر/أسلحة (Keyblades, Items); الدفعة 2
+Elixir	إكسير	item	KH2	approved	1	12547	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Megalixir	ميجاليكسير	item	KH2	approved	1	12548	KH2 عناصر/أسلحة (Keyblades, Items); الدفعة 2
+Tent	خيمة	item	KH2	approved	1	12553	KH2 عناصر/أسلحة (Keyblades, Items); الدفعة 2
+Munny Pouch	كيس موني	item	KH2	approved	0		user decision GLOSS-2; الموني retired; was كيس الموني; KH2 عناصر/أسلحة (Keyblades, Items); الدفعة 2
+Munny	موني	item	KH2	approved	16	00631,10507,10513	user decision GLOSS-2; KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; موحّد مع سطر "Munny" في قسم العناصر (بلاغتمد بديل مميونة/الموني) — id 13749
+Limit	ليميت	ability	KH2	approved	19	06895,10515,10557	KH2 مصطلحات نظام اللعبة (Gameplay terms); الدفعة 2 — ترجمة صوتية؛ للمراجعة; supervisor decision TRANS-1
+Limit Form	شكل الليميت	ability	KH2	approved	0		KH2 مصطلحات نظام اللعبة (Gameplay terms); قرار GLOSSARY 2026-10-08 (كان: فورم ليميت)
+Reaction Command	أمر التفاعل	ability	KH2	approved	0		KH2 مصطلحات نظام اللعبة (Gameplay terms); قرار GLOSSARY 2026-10-08 (jm كان: أمر رد الفعل)
+Summon	استدعاء	ability	KH2	approved	13	04125,05987,06069	KH2 مصطلحات نظام اللعبة (Gameplay terms); الدفعة 2
+Strength	القوة	term	KH2	approved	127	01180,02138,02168	KH2 مصطلحات نظام اللعبة (Gameplay terms); الدفعة 2
+Defense	الدفاع	term	KH2	approved	83	10284,10341,10579	KH2 مصطلحات نظام اللعبة (Gameplay terms); الدفعة 2
+Ability	القدرة	term	KH2	approved	63	00213,00214,00218	KH2 مصطلحات نظام اللعبة (Gameplay terms); الدفعة 2
+Experience	الخبرة	term	KH2	approved	7	00853,08041,08354	KH2 مصطلحات نظام اللعبة (Gameplay terms); الدفعة 2
+EXP	خبرة	term	KH2	approved	13	00218,00455,10507	KH2 مصطلحات نظام اللعبة (Gameplay terms); الدفعة 2
+Next LV	المستوى التالي	term	KH2	approved	0		user decision GLOSS-2; was التالي; KH2 مصطلحات نظام اللعبة (Gameplay terms); الدفعة 2
+LV	مستوى	term	KH2	approved	63	06530,10522,10546	user decision GLOSS-2; KH2 مصطلحات نظام اللعبة (Gameplay terms); قرار المستخدم 2026-10-03 (FIXLV، بعد أول لقطة للقائمة الرئيسية: مساحة حرة كبيرة بين العلامة والرقم). ids 14844/17753/19862 (العلامة المجرّدة) + صفوف gumi حتى 130% من الإنجليزي. «
+Drive Gauge	عداد الدرايف	term	KH2	approved	0		KH2 مصطلحات نظام اللعبة (Gameplay terms); الدفعة 2 — يميَّز عن Drive=درايف
+Attack	هجوم	menu	KH2	approved	134	00421,00422,01024	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ; مقترحك
+Magic	سحر	magic	KH2	approved	233	00223,00232,00266	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ; مقترحك
+Items	أغراض	menu	KH2	approved	67	00002,00022,00115	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ; مقترحك؛ id 482 و1099 نفس الترجمة دائماً
+Drive	درايف	ability	KH2	approved	6	10445,10450,10481	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ; مقترحك؛ يُميَّز عن "Drive Gauge"
+OK	حسنا	menu	KH2	approved	7	00448,00451,10597	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ; id 1093 و2683؛ يختلف عن Yes
+Yes	نعم	menu	KH2	approved	95	00756,00859,01309	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ; id 1094 و2684
+No	لا	menu	KH2	approved	417	00205,00241,00242	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ; id 1095 و2685
+Equip	تجهيز	menu	KH2	approved	2	10291,13013	supervisor fix GLOSS-2; KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ
+Abilities	قدرات	menu	KH2	approved	50	00004,00024,00192	conflict, see GLOSSARY_CONFLICTS.md; KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ; supervisor decision TRANS-1
+Abilities	القدرات	ability	KH2	approved	50	00004,00024,00192	conflict, see GLOSSARY_CONFLICTS.md; KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1153-1156; supervisor decision TRANS-1
+Party	الفريق	menu	KH2	approved	4	02815,03477,10418	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ
+Status	الحالة	menu	KH2	approved	16	06710,10097,11112	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ
+Journal	اليوميات	term	KH2	approved	4	03084,07206,07849	KH2 constraint, revisit; KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; supervisor decision TRANS-1
+Customize	تخصيص	menu	KH2	approved	12	00005,00025,00217	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ
+Option	الخيارات	menu	KH2	approved	21	10308,10310,10318	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ; id 1106 — النص الأصلي "Option" مفرد
+Save	حفظ	menu	KH2	approved	145	00153,00155,00162	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ; id 2686
+Load	تحميل	menu	KH2	approved	16	09606,10063,13771	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ; id 2687 و2735 نفس المعنى
+World Map	خريطة العالم	menu	KH2	approved	14	10519,10675,10681	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ
+Title Screen	شاشة العنوان	menu	KH2	approved	16	00444,10269,10934	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ
+Jump to World Map?	الانتقال إلى خريطة العالم?	menu	KH2	approved	0		KH2 constraint, revisit; conflict, see GLOSSARY_CONFLICTS.md; KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; طبقياً مطابقة id2690 (الدفعة 1) — ? ASCII; supervisor decision TRANS-1
+New File	ملف جديد	menu	KH2	approved	0		KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ
+Game File	ملف اللعبة	menu	KH2	approved	0		KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ
+Load Game	تحميل اللعبة	menu	KH2	approved	1	15667	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ
+Continue	متابعة	menu	KH2	approved	35	00171,00420,01613	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ; id 2736 و2740 (سطران مختلفان بنفس الترجمة)
+Retry	إعادة المحاولة	menu	KH2	approved	5	11285,13904,13918	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ; id 2737 — 272% من عرض EN، مرشّح لإعادة صياغة بعد اللقطة
+Quit	خروج	menu	KH2	approved	7	03522,04518,04857	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ; id 2738
+Skip Scene	تخطي المشهد	menu	KH2	approved	2	11257,13903	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ
+NEW GAME	لعبة جديدة	menu	KH2	approved	6	06090,13770,13808	KH2 مصطلحات واجهة sys.bar — الدفعة 1 (مُثبَّ; id 17198 — لا لاتيني أصلاً
+Fire	نار	magic	KH2	approved	122	00015,00291,00292	user decision FULL-1: replaces the transliterated form (was: KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28); ترجمة صوتية — ت)
+Fira	نار قوية	magic	KH2	approved	3	11428,12371,16037	user decision FULL-1: replaces the transliterated form (was: KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد)
+Firaga	نار كبرى	magic	KH2	approved	10	10346,11429,11430	user decision FULL-1: replaces the transliterated form (was: KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد)
+Guard	حماية	menu	KH2	approved	30	01081,05434,07880	KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Block	صد	menu	KH2	approved	59	10307,10309,10317	KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Dodge Roll	تدحرج	menu	KH2	approved	3	16351,17162,17163	KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Second Chance	فرصة ثانية	menu	KH2	approved	2	02129,16434	KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Combo Plus	كومبو بلس	menu	KH2	approved	2	16418,16419	KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Combo Master	خبير الكومبو	menu	KH2	approved	1	16420	KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+MP Haste	تسريع MP	menu	KH2	approved	1	16450	KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28); MP يبقى لاتينياً (ضمن الأحرف الباقية)
+MP Rage	غضب MP	menu	KH2	approved	0		KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Draw	سحب	menu	KH2	approved	14	07421,10347,12485	KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Item Boost	تعزيز الأغراض	menu	KH2	approved	1	16469	KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Lucky Lucky	لكي لاكي	menu	KH2	approved	0		KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28); ترجمة صوتية — للمراجعة; supervisor decision TRANS-1
+Experience Boost	زيادة الخبرة	menu	KH2	approved	0		KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Once More	مرة أخرى	menu	KH2	approved	6	04321,15070,15112	KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Slapshot	لكمة قوية	menu	KH2	approved	0		KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Aerial Sweep	اجتياح جوي	menu	KH2	approved	1	16399	KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Upper Slash	قطع علوي	menu	KH2	approved	0		KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Scan	فحص	menu	KH2	approved	1	16414	KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Explosion	انفجار	menu	KH2	approved	6	00291,00292,00293	KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Jackpot	جاكبوت	menu	KH2	approved	0		KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Trinity Limit	ترينتي ليميت	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; ألتيما بالألف
+Sonic Rave	سونيك ريف	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; اسم الليميت بالترجمة الصوتية
+Last Arcanum	لاست أركانوم	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Strike Raid	سترايك ريد	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; بدل «ضربة غازية»
+Infinity	إنفينيتي	ability	KH2	approved	4	07019,14067,15089	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; بدل «اللانهاية»
+Zantetsuken	زانتيتسوكين	ability	KH2	approved	1	16574	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Ripple Drive	ريبل درايف	menu	KH2	approved	1	16506	KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28); أسماء حدود — ترجمة صوتية
+Hurricane Period	فترة الإعصار	menu	KH2	approved	0		KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Remembrance	الذكرى	menu	KH2	approved	0		KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28); شظية/حجر/جوهرة/بلورة
+Tranquility series	الطمأنينة	menu	KH2	approved	0		KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28); شظية/حجر/جوهرة/بلورة
+Lost Illusion	وهم ضائع	menu	KH2	approved	0		KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Manifest Illusion	إظهار الوهم	menu	KH2	approved	0		KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28)
+Healing Light	ضوء الشفاء	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+A map of the area.	خريطة المنطقة.	menu	KH2	approved	0		KH2 مصطلحات sys.bar — الدفعة 2 (2026-09-28); تكرار بلا dedupe (1535,14632,16047,20212)
+Revert	إلغاء	menu	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / أوامر القائمة وأشكال الدرايف; id 484 — إلغاء التحول
+Valor Form	الشجاعة	ability	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / أوامر القائمة وأشكال الدرايف; id 485
+Wisdom Form	الحكمة	ability	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / أوامر القائمة وأشكال الدرايف; id 486
+Master Form	الإتقان	ability	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / أوامر القائمة وأشكال الدرايف; id 487
+Final Form	النهائي	ability	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / أوامر القائمة وأشكال الدرايف; id 488
+Antiform	المضاد	ability	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / أوامر القائمة وأشكال الدرايف; id 489
+Talk	تحدث	menu	KH2	approved	31	00097,01678,02357	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / أوامر القائمة وأشكال الدرايف; id 490
+Examine	افحص	menu	KH2	approved	7	13094,13193,13194	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / أوامر القائمة وأشكال الدرايف; id 491
+Reversal	انعكاس	ability	KH2	approved	1	16235	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Full Swing	ضربة كاملة	menu	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / أوامر القائمة وأشكال الدرايف; id 493
+Tackle	ارتطام	menu	KH2	approved	4	15551,16128,16377	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / أوامر القائمة وأشكال الدرايف; id 494
+Snag	خطف	menu	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / أوامر القائمة وأشكال الدرايف; id 495
+Sparkle Ray	شعاع البريق	menu	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / أوامر القائمة وأشكال الدرايف; id 496
+Open	فتح	menu	KH2	approved	64	00048,01429,01559	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / أوامر القائمة وأشكال الدرايف; id 497
+Hercules	هرقل	character	KH2	approved	48	00532,03279,03359	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / شخصيات (جديدة في الدفعة 3)
+Hades	هاديس	character	KH2	approved	22	00540,03254,03257	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / شخصيات (جديدة في الدفعة 3)
+Cerberus	سيربيروس	character	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / شخصيات (جديدة في الدفعة 3)
+Belle	بيل	character	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / شخصيات (جديدة في الدفعة 3)
+Ariel	آرييل	character	KH2	approved	3	00313,00530,12889	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / شخصيات (جديدة في الدفعة 3)
+Triton	تريتون	character	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / شخصيات (جديدة في الدفعة 3)
+Pooh	بوه	character	KH2	approved	34	00595,05114,05118	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / شخصيات (جديدة في الدفعة 3); Pooh Bear's House = بيت بوه
+Piglet	بيغليت	character	KH2	approved	4	00596,05119,07864	supervisor fix GLOSS-2; was بيركيت; KH2 الدفعة 3 (2026-09-29 — ids 484-695) / شخصيات (جديدة في الدفعة 3); ترجمة صوتية
+Kanga	كانغا	character	KH2	approved	1	15455	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / شخصيات (جديدة في الدفعة 3); صوتية
+The Peddler's Shop	متجر البائع	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 500,513
+The Palace	القصر	place	KH2	approved	5	02935,09801,09871	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 501
+Vault	الخزنة	place	KH2	approved	20	00076,00078,04948	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 502
+Above Agrabah	أعلى أجرابا	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 503
+Palace Walls	جدران القصر	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 504
+The Cave of Wonders: Entrance	كهف العجائب: المدخل	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 505
+The Cave of Wonders: Stone Guardians	كهف العجائب: حراس الحجر	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 507
+The Cave of Wonders: Treasure Room	كهف العجائب: قاعة الكنوز	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 508
+Ruined Chamber	القاعة المهدمة	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 509
+The Cave of Wonders: Valley of Stone	كهف العجائب: وادي الحجر	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 510
+The Cave of Wonders: Chasm of Challenges	كهف العجائب: هاوية التحديات	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 511
+Sandswept Ruins	أطلال الرمال	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 512
+Entrance Hall	صالة المدخل	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 514
+Parlor	الصالون	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 515
+Belle's Room	غرفة بيل	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 516
+The Beast's Room	غرفة الوحش	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 517
+Ballroom	قاعة الرقص	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 518,519,528
+Courtyard	الفناء	place	KH2	approved	3	07339,10197,13584	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 520,566
+The East Wing	الجناح الشرقي	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 521
+The West Hall	القاعة الغربية	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 522
+The West Wing	الجناح الغربي	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 523
+Dungeon	القبو	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 524
+Undercroft	المخزن	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 525
+Secret Passage	الممر السري	place	KH2	approved	2	05267,08512	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 526
+Bridge	الجسر	place	KH2	approved	8	09057,09078,09360	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 527
+Bazaar	البازار	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 499
+Asteroid Sweep	كنس الكويكبات	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 548
+Stardust Sweep	كنس النجوم	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 549
+Broken Highway	الطريق المتصدع	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 550
+Ancient Highway	الطريق القديم	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 551
+Phantom Storm	عاصفة الأشباح	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 552
+Sunlight Storm	عاصفة الشمس	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 553
+Splash Island	جزيرة الرذاذ	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 554
+Floating Island	الجزيرة العائمة	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 555
+Assault of the Dreadnought	هجوم الدريدنوت	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 556
+Audience Chamber	قاعة الاستقبال	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 563
+Library	المكتبة	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 564
+Colonnade	الرواق	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 565
+The Hall of the Cornerstone	قاعة الحجر الأساس	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 567,568
+Gummi Hangar	حظيرة الغامي	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 569
+The Wilderness	البرية	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 570
+Triton's Throne	عرش تريتون	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 571
+Ariel's Grotto	كهف آرييل	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 572
+Undersea Courtyard	الفناء البحري	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 573,574
+The Palace: Performance Hall	القصر: قاعة العرض	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 575
+Sunken Ship	السفينة الغارقة	place	KH2	approved	1	08130	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 576
+The Shore	الشاطئ	place	KH2	approved	1	15130	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 577,578
+Bamboo Grove	غابة الخيزران	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 579
+Encampment	المخيم	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 580
+Checkpoint	نقطة التفتيش	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 581
+Mountain Trail	درب الجبل	term	KH2	approved	1	15076	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Village	القرية	place	KH2	approved	2	02580,09867	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 583,591
+Village Cave	كهف القرية	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 584
+Ridge	الحافة	place	KH2	approved	2	13587,13634	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 585
+Summit	القمة	place	KH2	approved	6	00050,00052,12991	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 586,616
+Imperial Square	الساحة الإمبراطورية	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 587
+Palace Gate	بوابة القصر	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 588
+Antechamber	الغرفة الأمامية	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 589
+Throne Room	قاعة العرش	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 590
+Pit Cell	الحفرة	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 592
+Canyon	الأخدود	term	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Game Grid	شبكة اللعب	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 594
+Dataspace	البيانات	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 595
+I/O Tower: Hallway	برج الإدخال: الممر	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 596
+I/O Tower: Communications Room	برج الإدخال: قاعة الاتصالات	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 597
+Simulation Hangar	حظيرة المحاكاة	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 598
+Solar Sailer Simulation	محاكاة المركب الشمسي	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 599,602
+Central Computer Mesa	هضبة الحاسوب المركزي	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 600
+Central Computer Core	نواة الحاسوب المركزي	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 601
+Pride Rock	صخرة الكبرياء	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 603,613
+Stone Hollow	جوف الحجر	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 604
+The King's Den	كهف الملك	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 605
+Wildebeest Valley	وادي النو	term	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+The Savannah	السافانا	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 607
+Elephant Graveyard	مقبرة الفيلة	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 608
+Gorge	المضيق	place	KH2	approved	1	13637	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 609
+Wastelands	بادية	term	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Jungle	الأدغال	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 611
+Oasis	الواحة	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 612,614
+Overlook	الإطلالة	place	KH2	approved	1	13595	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 615
+Starry Hill	التل النجمي	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 618
+Pooh Bear's House	بيت بوه	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 619
+Rabbit's House	بيت الأرنب	place	KH2	approved	3	13755,14392,15126	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 620
+Piglet's House	بيت بيغليت	place	KH2	approved	0		supervisor fix GLOSS-2; was بيت بيركيت; KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 621
+Kanga's House	بيت كانغا	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 622
+A Windsday Tale	حكاية يوم الريح	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 623
+The Honey Hunt	مطاردة العسل	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 624
+Blossom Valley	وادي الأزهار	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 625
+The Spooky Cave	الكهف المرعب	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 626
+Dummy text	نص تجريبي	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 633
+Cornerstone Hill	تل الحجر الأساس	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 686
+Pier	مرسى	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 687
+Waterway	المجرى	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 688
+Wharf	رصيف	place	KH2	approved	1	13622	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 689
+Lilliput	ليليبوت	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 690
+Building Site	موقع البناء	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 691
+Scene of the Fire	مسرح الحريق	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 692
+Mickey's House	بيت ميكي	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 693
+Villain's Vale	وادي الأشرار	place	KH2	approved	0		KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 694,726
+The Dark Margin	الحافة المظلمة	place	KH2	approved	3	13972,13978,14031	KH2 الدفعة 3 (2026-09-29 — ids 484-695) / مناطق/أماكن فرعية (الدفعة 3); 695
+Halloween Town Square	ساحة بلدة الهالوين	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 697
+Dr. Finklestein's Lab	مختبر د. فينكلشتاين	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 698
+Graveyard	المقبرة	place	KH2	approved	18	00711,01429,03727	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 699
+Curly Hill	تل ملتوي	term	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Hinterlands	الأراضي الخلفية	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 701
+Yuletide Hill	تل الأعياد	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 702
+Candy Cane Lane	ممر عصا الحلوى	term	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Christmas Tree Plaza	ساحة شجرة الميلاد	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 704
+Santa's House	بيت سانتا	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 705
+Toy Factory: Shipping and Receiving	مصنع اللعب: الشحن والاستلام	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 706
+Toy Factory: The Wrapping Room	مصنع اللعب: غرفة التغليف	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 707
+The Coliseum	الكولوسيوم	place	KH2	approved	1	03267	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 708
+Coliseum Gates	بوابات الكولوسيوم	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 709,710,722
+Underworld Entrance	مدخل العالم السفلي	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 711
+Coliseum Foyer	بهو الكولوسيوم	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 712
+Valley of the Dead	وادي الموتى	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 713
+Hades' Chamber	قاعة هاديس	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 714
+Cave of the Dead: Entrance	كهف الموتى: المدخل	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 715
+Well of Captivity	بئر الأسر	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 716
+The Underdrome	الحلبة السفلية	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 717,721
+Cave of the Dead: Inner Chamber	كهف الموتى: القاعة الداخلية	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 718
+Underworld Caverns: Entrance	كهوف العالم السفلي: المدخل	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 719
+The Lock	القفل	place	KH2	approved	2	04905,17000	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 720
+Cave of the Dead: Passage	كهف الموتى: الممر	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 723
+Underworld Caverns: The Lost Road	كهوف العالم السفلي: الطريق الضائع	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 724
+Underworld Caverns: Atrium	كهوف العالم السفلي: البهو	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 725
+The Dark Depths	الأعماق المظلمة	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 727
+The Great Maw	الهاوية الكبرى	term	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Crystal Fissure	صدع الكريستال	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 729
+Castle Gate	بوابة القلعة	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 730
+Ansem's Study	مكتب أنسيم	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 731
+postern	البوابة الخلفية	place	KH2	approved	0		conflict, see GLOSSARY_CONFLICTS.md; KH2 nm / ca / eh / lm / he / title / gumi / ; hb; supervisor decision TRANS-1
+Restoration Site	موقع الترميم	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 733
+Bailey	الرحيبة	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 734
+Borough	الحي	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 735
+Beach	الشاطئ	place	KH2	approved	9	02188,02557,07243	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 736
+Main Island: Ocean's Road	الجزيرة الرئيسية: طريق المحيط	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 737
+Main Island: Shore	شاطئ الجزيرة	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 738
+The Empty Realm	العالم الفارغ	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 739
+Roxas's Room	غرفة روكساس	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 740
+The Usual Spot	المكان المعتاد	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 741
+Back Alley	الزقاق	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 742
+Sandlot	الساحة	term	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Rampart	السور	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 744
+Harbor	الميناء	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 745
+Town	البلدة	place	KH2	approved	77	00704,00776,01741	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 746
+The Interceptor	المتعقب	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 747,751
+The Interceptor: Ship's Hold	المتعقب: قاع السفينة	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 748
+The Black Pearl	اللؤلؤة السوداء	place	KH2	approved	26	00086,00087,01699	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 749
+The Black Pearl: Captain's Stateroom	اللؤلؤة السوداء: مقصورة القبطان	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 750
+Isla de Muerta: Rock Face	إيسلا دي مويرتا: وجه الصخر	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 752
+Isla de Muerta: Cave Mouth	إيسلا دي مويرتا: فوهة الكهف	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 753
+Isla de Muerta: Treasure Heap	إيسلا دي مويرتا: كومة الكنوز	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 754
+Ship Graveyard: The Interceptor's Hold	مقبرة السفن: قاع المتعقب	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 755
+Isla de Muerta: Powder Store	إيسلا دي مويرتا: مخزن البارود	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 756
+Isla de Muerta: Moonlight Nook	إيسلا دي مويرتا: زاوية ضوء القمر	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 757
+Ship Graveyard: Seadrift Keep	مقبرة السفن: حصن التيار	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 758
+Ship Graveyard: Seadrift Row	مقبرة السفن: صف التيار	place	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / مناطق/عوالم (الدفعة 4); 759
+Stock	تخزين	menu	KH2	approved	14	00130,00186,00200	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قوائم وأوامر (الدفعة 4); 1109
+Use	استخدام	menu	KH2	approved	307	00022,00117,00128	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قوائم وأوامر (الدفعة 4); 1110,1111,1112
+Throw away	إلقاء	menu	KH2	approved	1	15440	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قوائم وأوامر (الدفعة 4); 1110,1111,1112
+Not Used	مهمل	menu	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قوائم وأوامر (الدفعة 4); 1110,1111,1112
+Select item.	اختر الغرض.	menu	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قوائم وأوامر (الدفعة 4); 1113,1107
+Make a Selection.	اختر ما تريد.	menu	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قوائم وأوامر (الدفعة 4); 1113,1107
+Valor	الشجاعة	ability	KH2	approved	1	12451	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قوائم وأوامر (الدفعة 4); 1117,1119,1121
+Master	الإتقان	ability	KH2	approved	128	00108,00110,00345	conflict, see GLOSSARY_CONFLICTS.md; KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قوائم وأوامر (الدفعة 4); 1117,1119,1121; supervisor decision TRANS-1
+master	السيد	term	KH2	approved	128	00108,00110,00345	conflict, see GLOSSARY_CONFLICTS.md; KH2 al / lk / bb (2026-10-01 — مبني); bb; supervisor decision TRANS-1
+Final	النهائي	ability	KH2	approved	53	00106,01812,01815	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قوائم وأوامر (الدفعة 4); 1117,1119,1121
+Unequip items.	إلغاء التجهيز.	menu	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قوائم وأوامر (الدفعة 4); 1129
+Party In	الانضمام	menu	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قوائم وأوامر (الدفعة 4); 1134,1135
+Party Out	المغادرة	menu	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قوائم وأوامر (الدفعة 4); 1134,1135
+Summons	الاستدعاءات	menu	KH2	approved	2	12219,16930	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قوائم وأوامر (الدفعة 4); 1142
+<Name> cannot be switched at this time.	لا يمكن تبديل <الاسم> في الوقت الحالي.	menu	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قوائم وأوامر (الدفعة 4); 1139,1140,1141,1144-1147
+MP Charge	شحن MP	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1153-1156
+Auto-Reload	إعادة تلقائية	ability	KH2	approved	6	00186,00190,00191	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1153-1156
+Battle Style	أسلوب القتال	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1153-1156
+Twin Howl	العواءان	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Stalwart Fang	الناب المتين	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Outcry	الصراخ	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Last Howl	آخر عواء	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Bushido	بوشيدو	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1168-1171
+Shooting Star	الشهاب	ability	KH2	approved	4	10340,11868,12122	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; نصل النفي بدل «النصل المطرد»
+Banishing Blade	نصل النفي	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; نصل النفي بدل «النصل المطرد»
+Spiral	اللولب	ability	KH2	approved	6	10338,15162,16078	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; نصل النفي بدل «النصل المطرد»
+Red Rocket	الصاروخ الأحمر	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1172-1175
+Flametongue	لسان اللهب	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1172-1175
+Heat Lance	رمح الحرارة	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1172-1175
+Red Meteor	النيزك الأحمر	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1172-1175
+Whirli-Goof	غوفي الدوار	ability	KH2	approved	0		conflict, see GLOSSARY_CONFLICTS.md; KH2 قرارات معلقة — بانتظار فحص العرض (needs_; KH2 alt forms: غوفي الدوار / غوفي الدوار را / غوفي الدوار غا; KH2 in game: دور غوفي / را / جا; sys 1176-1178, 13116; jm 19195; supervisor decision TRANS-1
+Ride the Wind	ركوب الريح	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1179-1181
+Soar	التحليق	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1179-1181
+Cyclone	الإعصار	ability	KH2	approved	2	11468,16548	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1179-1181
+Kickback	الارتداد	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1183,1184
+Dog Paddle	سباحة كلبية	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1187,1189
+Push Harder	ادفع أقوى	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1187,1189
+Release	التحرير	menu	KH2	approved	22	06290,10424,10426	conflict, see GLOSSARY_CONFLICTS.md; KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300); supervisor decision TRANS-1
+Bump	الاصطدام	ability	KH2	approved	4	01067,01068,10448	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1191,1192,1193,1194,1209,1212
+Meteor Spike	شوكة النيزك	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1191,1192,1193,1194,1209,1212
+Vertigo Toss	رمي الدوخة	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1196-1199
+Hang On	تمسك	ability	KH2	approved	6	03437,03932,04903	conflict, see GLOSSARY_CONFLICTS.md; KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1196-1199; supervisor decision TRANS-1
+Let Go	أفلت	ability	KH2	approved	8	06959,06960,08347	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1196-1199
+Connect	التوصيل	ability	KH2	approved	11	02009,06617,06957	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1196-1199
+Bat Cry	صرخة الخفاش	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1200-1203
+Lance Tug	سحب الرمح	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1200-1203
+Learn	تعلم	ability	KH2	approved	37	00028,00470,01580	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1200-1203
+Jump	قفز	menu	KH2	approved	43	03474,06503,07930	conflict, see GLOSSARY_CONFLICTS.md; KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300); supervisor decision TRANS-1
+Wake Up!	استيقظ!	ability	KH2	approved	1	05599	KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1204,1205,1207,1208,1211
+Get Up!	قم!	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1204,1205,1207,1208,1211
+Step Vault	خطوة الوثب	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1204,1205,1207,1208,1211
+Slingshot	المقلاع	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1204,1205,1207,1208,1211
+Pendulum Round	جولة البندول	ability	KH2	approved	0		KH2 الدفعة 4 (2026-09-29 — ids 697-759, 761- / قدرات (الدفعة 4); 1204,1205,1207,1208,1211
+Sprinkle	رش	menu	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1215
+Open The Door	افتح الباب	menu	KH2	approved	2	04814,15342	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1218-1220
+Enter The Book	ادخل الكتاب	menu	KH2	approved	1	13030	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1218-1220
+Leave The Book	غادر الكتاب	menu	KH2	approved	1	13189	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1218-1220
+Depart	غادر	ability	KH2	approved	2	15169,15528	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Warp	التحول	menu	KH2	approved	13	10386,10519,10704	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1222
+Approach	اقترب	menu	KH2	approved	8	08255,08559,10336	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1224,1227,1232,1234,1235,1243,1251
+Move	تحرك	menu	KH2	approved	137	00395,00396,00403	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1225,1228,1229,1233,1244,1252,1253
+Persuade	إقناع	menu	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1225,1228,1229,1233,1244,1252,1253
+Report	أبلغ	menu	KH2	approved	17	01773,06710,12964	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1225,1228,1229,1233,1244,1252,1253
+Tinker With It	أصلحه	menu	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1225,1228,1229,1233,1244,1252,1253
+Punish	عاقب	menu	KH2	approved	3	01446,01580,16786	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1225,1228,1229,1233,1244,1252,1253
+Question	اسأل	menu	KH2	approved	15	01123,02266,02528	conflict, see GLOSSARY_CONFLICTS.md; KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1225,1228,1229,1233,1244,1252,1253; supervisor decision TRANS-1
+QUESTION	سؤال	menu	KH2	approved	15	01123,02266,02528	conflict, see GLOSSARY_CONFLICTS.md; KH2 دفعة sysB20 (2026-10-01 — مصطلحات مثبّتة; عنوان نافذة السؤال — id 2698; supervisor decision TRANS-1
+Interrogate	استجوب	menu	KH2	approved	1	06546	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1225,1228,1229,1233,1244,1252,1253
+Ask For Help	اطلب مساعدة	menu	KH2	approved	1	10430	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1226,1256
+Ask About Missions	اسأل عن المهام	menu	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1230,1231,1248
+Examine The Book	افحص الكتاب	menu	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1230,1231,1248
+Ask For The Bottle	اطلب الزجاجة	menu	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1230,1231,1248
+Enter Tournament	ادخل البطولة	menu	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1236,1237,1240,1239
+Go To The Tournament	انطلق إلى البطولة	menu	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1236,1237,1240,1239
+Help Her Up	ساعدها	menu	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1241,1246,1249,1258,1259
+Greet	التحية	menu	KH2	approved	2	03673,14163	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1241,1246,1249,1258,1259
+Access Computer	اتصل بالحاسوب	menu	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / أوامر تفاعل (الدفعة 5); 1241,1246,1249,1258,1259
+Iago	آياغو	character	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / شخصيات (جديدة في الدفعة 5); صوتية
+Minnie	ميني	character	KH2	approved	10	00524,10441,10442	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / شخصيات (جديدة في الدفعة 5); تمييز عن ميكي
+Will	ويل	character	KH2	approved	398	00170,00186,00218	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / شخصيات (جديدة في الدفعة 5); Will Turner
+Flounder	فلاندر	character	KH2	approved	1	15515	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / شخصيات (جديدة في الدفعة 5); أطلنطيكا
+Rafiki	رفايكي	character	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / شخصيات (جديدة في الدفعة 5); صوتية
+Scar	سكار	character	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / شخصيات (جديدة في الدفعة 5); صوتية
+Zero	زيرو	character	KH2	approved	10	00218,09648,10526	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / شخصيات (جديدة في الدفعة 5); كلب أوغي الهيكلي
+Oogie	أوغي	character	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / شخصيات (جديدة في الدفعة 5)
+Mushu	موشو	character	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / شخصيات (جديدة في الدفعة 5); صوتية
+Shan-Yu	شان-يو	character	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / شخصيات (جديدة في الدفعة 5); صوتية — يُرسم بشرطة
+Pete	بيت	character	KH2	approved	19	00520,03403,03419	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / شخصيات (جديدة في الدفعة 5); الاسم المعتمد عربياً
+Merlin	ميرلين	character	KH2	approved	23	00553,03210,03214	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / شخصيات (جديدة في الدفعة 5); صوتية
+The Queen	الملكة	character	KH2	approved	4	02579,02649,12262	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / شخصيات (جديدة في الدفعة 5); بلا اسم في النص — يبقى عاماً
+Kingdom Key	مفتاح المملكة	item	KH2	approved	1	12232	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1474
+Oathkeeper	حافظ القسم	item	KH2	approved	1	12248	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1476
+Oblivion	النسيان	item	KH2	approved	9	03697,04541,06135	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1478
+Ultima Weapon	سلاح ألتيما	item	KH2	approved	1	12244	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1483
+Frontier of Ultima	حدود ألتيما	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1482
+Detection Saber	سيف الكشف	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1480,1494
+Detection Shield	درع الكشف	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1480,1494
+Antiform Dummy	المضاد التجريبي	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1484,1485,1505,1509
+Dummy	تجريبي	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1484,1485,1505,1509
+Mage's Staff	عصا الساحر	item	KH2	approved	2	12250,12251	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1486,1492
+Knight's Shield	درع الفارس	item	KH2	approved	2	12264,12265	KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1486,1492
+Test the King	اختبار الملك	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1496,1498
+Scimitar	سيميتار	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1496,1498
+Battlefields of War	حقول الحرب	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1500,1502
+Sword of the Ancestor	سيف الأجداد	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1500,1502
+Identity Disk	قرص الهوية	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1506,1518
+Way to the Dawn	طريق الفجر	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1506,1518
+Beast's Claw	مخلب الوحش	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1510,1512,1514
+Bone Fist	قبضة العظم	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1510,1512,1514
+Proud Fang	الناب الشامخ	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1510,1512,1514
+Skill and Crossbones	المهارة والعظميات	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1516
+Torn Pages	صفحات ممزقة	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); 1522
+keychain	سلسلة مفاتيح	item	KH2	approved	0		KH2 الدفعة 5 (2026-09-29 — ids 1215-1259, 13 / كيبلايد/أسلحة (الدفعة 5); وصف 1475
+Ukulele Charm	تعويذة يوكوليلي	item	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / خرائط متفرقة + عناصر + أشكال +; 1600
+Nothing	العدم	place	KH2	approved	43	00804,01412,01664	KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / عالم الظلال / TWTNW / بلدة الش; موحّد لكل العائلة: نداء/مدخل/مذبح/طريق/عالم العدم + حيث يتجمع العدم
+Naught	العدم	place	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / عالم الظلال / TWTNW / بلدة الش; موحّد لكل العائلة: نداء/مدخل/مذبح/طريق/عالم العدم + حيث يتجمع العدم
+Station of Awakening	محطة الاستيقاظ	place	KH2	approved	2	02321,13556	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Station of Serenity	محطة الطمأنينة	place	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / عالم الظلال / TWTNW / بلدة الش; الطمأنينة=Tranquility (الدفعة 2)
+Station of Calling	محطة النداء	place	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / عالم الظلال / TWTNW / بلدة الش; الطمأنينة=Tranquility (الدفعة 2)
+Castle Oblivion	قلعة النسيان	world	KH2	approved	7	03697,06135,06238	KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / عالم الظلال / TWTNW / بلدة الش; Oblivion=النسيان (الدفعة 5)
+Merlin's House	بيت ميرلين	place	KH2	approved	1	13766	KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / عالم الظلال / TWTNW / بلدة الش
+Scar's Darkness	ظلام سكار	place	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / عالم الظلال / TWTNW / بلدة الش
+The Mysterial Train	القطار الغامض	place	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / عالم الظلال / TWTNW / بلدة الش; 2667-2672
+Tunnelway	النفق	place	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / عالم الظلال / TWTNW / بلدة الش; 2667-2672
+Underground Concourse	الرواق السفلي	place	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / عالم الظلال / TWTNW / بلدة الش; 2667-2672
+Betwixt and Between	ما بين الاثنين	place	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / عالم الظلال / TWTNW / بلدة الش; 2667-2672
+Other Game Files	ملفات اللعبة الأخرى	menu	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2693-2695
+MEMORY CARD slot 1-2	بطاقة الذاكرة 1-2	menu	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2693-2695
+Return to the title screen.	العودة إلى شاشة العنوان.	menu	KH2	approved	1	10941	KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2696
+Save data is corrupt.	بيانات الحفظ تالفة.	menu	KH2	approved	1	15667	KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2714-2717
+Cannot save in new file.	لا يمكن الحفظ في ملف جديد.	menu	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2714-2717
+Save new file.	حفظ ملف جديد.	menu	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2714-2717
+Insufficient free space on system storage.	لا توجد مساحة كافية في تخزين النظام.	menu	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2718,2719
+There is no data.	لا توجد بيانات.	menu	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2718,2719
+I won't give up!	لن أستسلم!	menu	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2741,2742
+Jiminy's Journal	يوميات جيميني	menu	KH2	approved	2	07206,07849	KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2743 — Journal=اليوميات (الدفعة 1)
+Buy	شراء	menu	KH2	approved	16	02915,04767,07245	KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2764-2768,2772 — مطابقة للدفعة 1/4
+Sell	بيع	menu	KH2	approved	5	05280,07297,14322	KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2764-2768,2772 — مطابقة للدفعة 1/4
+Buy Items.	شراء الأغراض.	menu	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2769-2771,2777
+Sell Items in Stock.	بيع أغراض التخزين.	menu	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2769-2771,2777
+Close Shop Menu.	إغلاق قائمة المتجر.	menu	KH2	approved	0		KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2769-2771,2777
+Purchase?	الشراء?	menu	KH2	approved	1	14352	KH2 الدفعة 6 (2026-09-29 — ids 1568-1644, 25 / قوائم الحفظ والمتاجر (ids 2693; 2769-2771,2777
+There are no items.	لا توجد أغراض.	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / رسائل نظام وصعوبة (ids 2778-27; 2778-2780
+Sell?	البيع?	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / رسائل نظام وصعوبة (ids 2778-27; 2778-2780
+FAKE	مزيف	menu	KH2	approved	5	01275,01276,06838	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / رسائل نظام وصعوبة (ids 2778-27; 2778-2780
+Drive Gauge Powered Up!	ارتفع عداد الدرايف!	menu	KH2	approved	0		supervisor fix GLOSS-2; was ارتفع ععداد الدرايف!; KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / رسائل نظام وصعوبة (ids 2778-27; 2788
+Radiant Garden	الحديقة المضيئة	world	KH2	approved	13	03130,03155,07768	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / رسائل نظام وصعوبة (ids 2778-27; 2793 — عالم جديد
+Beginner Mode	وضع المبتدئ	menu	KH2	approved	2	13836,13944	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / رسائل نظام وصعوبة (ids 2778-27; 6430,6431 — برايد ترجمة صوتية (نمط ليميت)
+Proud Mode	وضع برايد	menu	KH2	approved	2	13838,13946	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / رسائل نظام وصعوبة (ids 2778-27; 6430,6431 — برايد ترجمة صوتية (نمط ليميت)
+Go To The Rescue	انطلق للإنقاذ	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر وميولات (ids 7503-7679)
+Translate	ترجم	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر وميولات (ids 7503-7679)
+Examine The Wall	افحص الجدار	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر وميولات (ids 7503-7679)
+Speed Trap	فخ السرعة	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر وميولات (ids 7503-7679)
+Episode List	قائمة الحلقات	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر وميولات (ids 7503-7679)
+Summary of Events	ملخص الأحداث	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر وميولات (ids 7503-7679)
+Next Objective	الهدف التالي	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر وميولات (ids 7503-7679)
+Jiminy Memo	مذكرة جيميني	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر وميولات (ids 7503-7679)
+Select landing area	اختر منطقة الهبوط	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر وميولات (ids 7503-7679)
+Press	اضغط	menu	KH2	approved	205	00048,00426,00427	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر وميولات (ids 7503-7679)
+Takedown	إسقاط	menu	KH2	approved	2	10738,16386	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر وميولات (ids 7503-7679)
+Launch	أطلق	menu	KH2	approved	31	00291,00292,00293	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر وميولات (ids 7503-7679)
+Remove Shortcut settings.	إزالة إعدادات الاختصارات.	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر وميولات (ids 7503-7679)
+Don't MP Charge	عدم شحن MP	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر وميولات (ids 7503-7679)
+Grab On	تمسك	ability	KH2	approved	3	04804,13124,14096	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / سلوكيات الفريق والقدرات (ids 7
+Hit	ضربة	ability	KH2	approved	37	07384,07640,07999	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / سلوكيات الفريق والقدرات (ids 7
+Fore!	انتبه!	ability	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / سلوكيات الفريق والقدرات (ids 7
+Move center	اذهب للمركز	ability	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / سلوكيات الفريق والقدرات (ids 7
+Free	مجاني	ability	KH2	approved	49	01588,01679,01681	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / سلوكيات الفريق والقدرات (ids 7
+Well-Balanced	متوازن	ability	KH2	approved	2	12295,12296	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / سلوكيات الفريق والقدرات (ids 7
+Rare	نادر	ability	KH2	approved	3	01586,10520,15215	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / سلوكيات الفريق والقدرات (ids 7
+Comet	مذنب	ability	KH2	approved	6	10631,11070,11179	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / سلوكيات الفريق والقدرات (ids 7
+Comet Rain	مطر المذنبات	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; sys 7764 صُحّح (كان «مطر المذنبين»)
+Aero Blade	نصل الريح	item	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / دروع وأسنة (ids 8301-8863)
+Adamant Shield	درع الأدمانت	item	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / دروع وأسنة (ids 8301-8863)
+Chain Gear	ترس السلسلة	item	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / دروع وأسنة (ids 8301-8863)
+Ogre Shield	درع الغول	item	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / دروع وأسنة (ids 8301-8863)
+Falling Star	النجم الساقط	item	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / دروع وأسنة (ids 8301-8863)
+Dreamcloud	سحابة الحلم	item	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / دروع وأسنة (ids 8301-8863)
+Knight Defender	مدافع الفارس	item	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / دروع وأسنة (ids 8301-8863)
+Genji Shield	درع الجينجي	item	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / دروع وأسنة (ids 8301-8863)
+Akashic Record	السجل الأكاشيكي	item	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / دروع وأسنة (ids 8301-8863)
+Nobody Guard	حماية اللا أحد	item	KH2	approved	2	12274,12275	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / دروع وأسنة (ids 8301-8863)
+Nobody Lance	رمح اللا أحد	item	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / دروع وأسنة (ids 8301-8863)
+Rising Dragon	التنين الصاعد	item	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / دروع وأسنة (ids 8301-8863)
+Shaman's Relic	تحفة الشامان	item	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Warp Snipe	قنص التحول	item	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / دروع وأسنة (ids 8301-8863)
+Nobody	اللا أحد	term	KH2	approved	29	02379,03124,03601	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / دروع وأسنة (ids 8301-8863); مصطلح جديد للمنظمة (مثل Heartless=بلا قلب)
+Buy Tickets	شراء التذاكر	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر متفرقة (8869-9933)
+Touch The Light	المس الضوء	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر متفرقة (8869-9933)
+The Beam	المس الشعاع	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر متفرقة (8869-9933)
+Learn The Rules	تعلم القواعد	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر متفرقة (8869-9933)
+Examine The Table	افحص الطاولة	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر متفرقة (8869-9933)
+Listen to the story	استمع إلى القصة	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر متفرقة (8869-9933)
+Enter Password	أدخل كلمة السر	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر متفرقة (8869-9933)
+Key Counter	الرد بالمفتاح	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Lunarsault	لونارسالت	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر متفرقة (8869-9933)
+Break Raid	غارة الكسر	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر متفرقة (8869-9933)
+Rising Sun	الشروق	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر متفرقة (8869-9933)
+Duel Stance	المبارزة	menu	KH2	approved	0		KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر متفرقة (8869-9933)
+The End	النهاية	menu	KH2	approved	30	00186,02310,03484	KH2 الدفعة 7 (2026-09-29 — ids 2778-9933) / أوامر متفرقة (8869-9933)
+Fail-Safe	صمام الأمان	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Peter Pan	بيتر بان	character	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / شخصيات وأماكن جديدة; صوتية
+Big Ben	بيغ بن	place	KH2	approved	1	07472	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / شخصيات وأماكن جديدة; اسم علامة
+Pegasus	بيجاسوس	character	KH2	approved	1	00535	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / شخصيات وأماكن جديدة; 12092
+Phil	فيل	character	KH2	approved	1	03377	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / شخصيات وأماكن جديدة; 12932
+Scapegoat	كبش الفداء	ability	KH2	approved	1	15169	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Jump!	قفز!	ability	KH2	approved	2	10453,10483	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Aerial Recovery	التعافي الجوي	ability	KH2	approved	4	10303,10315,16360	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Pinball	بين بول	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Captain's Stateroom	مقصورة القبطان	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135); مطابقة الدفعة 4
+Air Twister	الدوار الجوي	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Tornado Ride	رحلة الإعصار	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Quick Blade	النصل السريع	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Root Ravager	خراب الجذور	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Clear Shot	رمية صافية	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Begin Game	ابدأ اللعبة	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Stop Dice	أوقف النرد	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Aura Guard	حماية الهالة	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Dismiss	الإنهاء	ability	KH2	approved	2	03588,04260	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Hop On	اركب	ability	KH2	approved	3	08768,14995,16621	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Shift Shot	رمية الإزاحة	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Heal Stomp	دوس الشفاء	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Get Off	انزل	ability	KH2	approved	1	16143	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Wind Dance	رقصة الريح	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+High Climb	التسلق	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Needle Dive	غطسة الإبرة	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Help	مساعدة	ability	KH2	approved	227	00008,00073,00104	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Pegasus Run	جري بيجاسوس	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Juggle Parry	صد التلاعب	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Overhand	العلوية	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قدرات وأوامر (ids 9934-12135)
+Knocksmash	دمار الكسر	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Duo Raid	غارة ثنائية	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Cosmo Boost	كوزمو بوست	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Lion	الأسد	ability	KH2	approved	1	15251	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / فئات وقدرات دونالد (13026-1313
+Weapons	الأسلحة	ability	KH2	approved	26	00120,00177,10495	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / فئات وقدرات دونالد (13026-1313
+Action	الفعل	ability	KH2	approved	26	00046,06767,06874	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / فئات وقدرات دونالد (13026-1313
+Growth	النمو	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / فئات وقدرات دونالد (13026-1313
+Support	الدعم	ability	KH2	approved	7	00209,01298,10555	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / فئات وقدرات دونالد (13026-1313
+Wisdom	الحكمة	ability	KH2	approved	3	12458,13326,13341	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / فئات وقدرات دونالد (13026-1313
+There are no Abilities.	لا توجد قدرات.	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / فئات وقدرات دونالد (13026-1313
+Config	الضبط	ability	KH2	approved	12	00009,00321,00444	user decision GLOSS-1; KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Log	سجل	ability	KH2	approved	3	07189,07218,14402	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Switch	تبديل	ability	KH2	approved	12	10291,10458,10488	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Pulsing Thunder	ثاندر نابض	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Don't equip this ability.	إلغاء تجهيز هذه القدرة.	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Mobile Action	الفعل المتنقل	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Synch Blade	نصل التزامن	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Magic Haste	تسريع السحر	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Magic Spice	بهارات السحر	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Backshuffle	رجوع خلفي	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Rockshatter	حطام الصخر	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Stomp Bomb	قنبلة الدوس	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Air Slash	قطع جوي	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Shoot	إطلاق	ability	KH2	approved	17	10373,10424,10426	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Leap	قفزة	ability	KH2	approved	14	10346,10348,10453	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Dispel	التفكيك	ability	KH2	approved	3	13446,16238,17021	KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Rodeo	روديو	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Grand Cross	التقاطع الكبير	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Rapid Blow	ضربة سريعة	ability	KH2	approved	0		KH2 الدفعة 8 (2026-09-29 — ids 9934-14029) / قوائم وأوصاف قدرات (13846-1400
+Wildcat	القط البري	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; الغناء اختُصر من المشهد الغنائي (259%)؛ الباقي مطابقة الدفعات
+High Fang	الناب العالي	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; الغناء اختُصر من المشهد الغنائي (259%)؛ الباقي مطابقة الدفعات
+Proud Roar	الزئير الفخور	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; جزيرة الكنز والزئير بدل الصيغ الخاطئة
+Equip Guide	دليل التجهيز	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; Option=الخيارات (الدفعة 1)
+Option Guide	دليل الخيارات	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; Option=الخيارات (الدفعة 1)
+Switch Party Members	تبديل أعضاء الفريق	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; Option=الخيارات (الدفعة 1)
+Show Status	عرض الحالة	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; Option=الخيارات (الدفعة 1)
+Field Camera	كاميرا الميدان	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408
+Right Stick	العصا اليمنى	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408
+Navigational Map	خريطة الملاحة	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408
+Vibration	الاهتزاز	menu	KH2	approved	5	00344,00434,00435	KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408
+Command Menu	قائمة الأوامر	menu	KH2	approved	9	00220,00418,00419	KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408
+Game Mode	وضع اللعبة	menu	KH2	approved	4	13808,13825,13925	KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408
+Auto	تلقائي	ability	KH2	approved	20	00186,00190,00191	conflict, see GLOSSARY_CONFLICTS.md; KH2 قرارات معلقة — بانتظار فحص العرض (needs_; KH2 in game: آلي; sys 14110, 17154, 17239; supervisor decision TRANS-1
+Manual	يدوي	menu	KH2	approved	1	00351	KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; ON/OFF استُقرّ مفعل/معطل (لا وجود سابق لـ نعم/لا)
+ON	مفعل	menu	KH2	approved	1438	00112,00113,00117	KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; ON/OFF استُقرّ مفعل/معطل (لا وجود سابق لـ نعم/لا)
+OFF	معطل	menu	KH2	approved	987	00251,00254,00364	KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; ON/OFF استُقرّ مفعل/معطل (لا وجود سابق لـ نعم/لا)
+Stereo	ستيريو	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; "دولبي" داخل الوصف 14130 فقط؛ Latin حرف I فقط في II
+Pro Logic II	برو لوجيك II	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; "دولبي" داخل الوصف 14130 فقط؛ Latin حرف I فقط في II
+Mono	مونو	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; "دولبي" داخل الوصف 14130 فقط؛ Latin حرف I فقط في II
+Kingdom Hearts	كينغدوم هارتس	term	KH2	approved	47	00714,00725,00806	user decision GLOSS-1; KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; صوتية — لا يمكن ترك اللاتيني (K/D/N/G ممنوعة)
+LT	الزر الأيسر	menu	KH2	kh2-only	0		KH2 constraint, revisit; KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; ممنوع حرف L; supervisor decision TRANS-1
+Faith	فيث	magic	KH2	approved	3	13397,16172,16321	supervisor fix GLOSS-2; note cleaned; KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; صوتية كالطع (لا يدخل ترجمة الأسماء المعربة)
+Over the Horizon	ما وراء الأفق	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408
+Omega Finale	أوميغا النهائي	menu	KH2	approved	1	16566	KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408
+Apply For Work	تقديم طلب عمل	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408
+Reflect Dummy	ريفلكت التجريبي	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; Dummy=تجريبي (الدفعة 5)
+Upper Dummy	تجريبي علوي	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; Dummy=تجريبي (الدفعة 5)
+Stop	ستوب	magic	KH2	approved	80	00811,01264,01347	KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; Stop=ستوب (مجلد الأدوات)
+Land	هبط	menu	KH2	approved	23	00737,01478,01587	KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; Stop=ستوب (مجلد الأدوات)
+Reverse Blade	النصل المقلوب	menu	KH2	approved	0		KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; Stop=ستوب (مجلد الأدوات)
+Cannon Bomb	قنبلة المدفع	item	KH2	approved	0		KH2 الدفعة 10 (2026-09-29 — ids 14830-15068) / عناصر وتحديات (14831-14853)
+Full Bloom	الإزهار	item	KH2	approved	0		KH2 constraint, revisit; KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; supervisor decision TRANS-1
+Grand Ribbon	الشريط العظيم	item	KH2	approved	0		KH2 الدفعة 10 (2026-09-29 — ids 14830-15068) / أطقم واحزمة (14921-15006)
+Ribbon	الشريط	item	KH2	approved	4	11753,12369,12370	KH2 الدفعة 10 (2026-09-29 — ids 14830-15068) / أطقم واحزمة (14921-15006)
+Petite Ribbon	الشريط الصغير	item	KH2	approved	1	12369	KH2 الدفعة 10 (2026-09-29 — ids 14830-15068) / أطقم واحزمة (14921-15006)
+Acrisius	أكريسيوس	item	KH2	approved	2	12367,12376	KH2 الدفعة 10 (2026-09-29 — ids 14830-15068) / أطقم واحزمة (14921-15006); اسم عابر — بدون "سلسلة"
+Dense Crystal	بلورة كثيفة	item	KH2	approved	0		KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / عائلات مواد تركيب جديدة (15069; بالانضغاط
+Swing	التأرجح	menu	KH2	approved	15	09197,10459,10489	KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+Jump on	اقفز فوق	menu	KH2	approved	1	08559	KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+Everyone	الجميع	menu	KH2	approved	31	00893,01539,01897	KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+Zone Guard	درع المنطقة	menu	KH2	approved	0		KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+Disc Strike	ضربة القرص	menu	KH2	approved	0		KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+Clear Light	الضوء النقي	menu	KH2	approved	0		KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+Burst Frontier	حدود الانفجار	menu	KH2	approved	0		KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+Ghost Ride	رحلة الأشباح	menu	KH2	approved	0		KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+Hinder	العرقلة	menu	KH2	approved	0		KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+Post	بريد	menu	KH2	approved	1	14175	KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+Deliver	التسليم	menu	KH2	approved	11	01046,01839,03669	KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+Pearl	لؤلؤة	menu	KH2	approved	37	00086,00087,01487	KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+Mog's Workshop	ورشة موغ	menu	KH2	approved	0		KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+Synthesize	التركيب	menu	KH2	approved	7	14343,14397,14407	KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+D-Charge	الشحن	menu	KH2	approved	0		KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+Struggle Sword	سيف الصراع	menu	KH2	approved	0		KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / أوامر ونصوص (15171-15300)
+High Counter	الرد العالي	ability	KH2	approved	0		KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / قدرات (15305-15335)
+Finishing Plus	الختام+	ability	KH2	approved	0		KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / قدرات (15305-15335)
+Negative Combo	الكومبو السلبي	ability	KH2	approved	0		KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / قدرات (15305-15335)
+Berserk Charge	شحن الهياج	ability	KH2	approved	1	16481	KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / قدرات (15305-15335)
+Damage Drive	درايف الضرر	ability	KH2	approved	0		KH2 الدفعة 11 (2026-09-29 — ids 15069-15335) / قدرات (15305-15335)
+Combination Boost	تعزيز الدمج	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / قدرات سورا/القائمة الرئيسية (1
+Leaf Bracer	درع الورقة	ability	KH2	approved	1	16433	KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / قدرات سورا/القائمة الرئيسية (1
+Magic Lock-On	تثبيت السحر	ability	KH2	approved	1	16445	KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / قدرات سورا/القائمة الرئيسية (1
+No Experience	بلا خبرة	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / قدرات سورا/القائمة الرئيسية (1
+Defender	المدافع	ability	KH2	approved	3	00843,11946,16447	KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / قدرات سورا/القائمة الرئيسية (1
+Auto Limit	تلقائي: ليميت	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / قدرات سورا/القائمة الرئيسية (1
+Auto Change	التبديل	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / قدرات سورا/القائمة الرئيسية (1
+Auto Healing	الشفاء	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / قدرات سورا/القائمة الرئيسية (1
+Hyper Healing	الشفاء الفوري	ability	KH2	approved	1	16471	KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / قدرات سورا/القائمة الرئيسية (1
+MP Hastera	تسريع MP+	ability	KH2	approved	1	16451	KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / قدرات سورا/القائمة الرئيسية (1; تدرّج بعلامة + مقابل التصريح المفرد تسريع MP
+MP Hastega	تسريع MP++	ability	KH2	approved	1	16452	KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / قدرات سورا/القائمة الرئيسية (1; تدرّج بعلامة + مقابل التصريح المفرد تسريع MP
+Ferocious Rush	الاندفاع الشرس	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / هجمات وأسماء (15512-15578)
+Blazing Fury	غضب مشتعل	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / هجمات وأسماء (15512-15578)
+Icy Terror	رعب جليدي	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / هجمات وأسماء (15512-15578)
+Bolts of Sorrow	صواعق الحزن	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / هجمات وأسماء (15512-15578)
+Mushu Fire	نار موشو	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / هجمات وأسماء (15512-15578)
+Dark Shield	درع الظلام	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / هجمات وأسماء (15512-15578)
+Dark Aura	هالة مظلمة	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Fierce Claw	المخلب الشرس	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / هجمات وأسماء (15512-15578)
+Groundshaker	مزلزل الأرض	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Scouting Disk	قرص الاستطلاع	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / هجمات وأسماء (15512-15578)
+Slow 2	بطيء 2	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / هجمات وأسماء (15512-15578)
+No Mercy	بلا رحمة	ability	KH2	approved	1	01950	KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / هجمات وأسماء (15512-15578)
+Bone Smash	تكسير العظام	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / هجمات وأسماء (15512-15578)
+Freeze	تجميد	ability	KH2	approved	8	01025,01061,01078	KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / هجمات وأسماء (15512-15578)
+Rain Storm	عاصفة المطر	ability	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / هجمات وأسماء (15512-15578)
+Never Land	نيفر لاند	world	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+My shadow!	ظلي!	term	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+The Flying Boy	الولد الطائر	character	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+Tiny Fairy	الجنية الصغيرة	character	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+Wendy	ويندي	character	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+Anti-Sora	سورا المضاد	term	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+Believe!	آمن!	term	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+Old Rival	الخصم القديم	term	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+Victory	النصر	term	KH2	approved	5	01729,08290,10373	KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+The Clocktower	برج الساعة	term	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Present	الهدية	term	KH2	approved	7	05734,05874,11521	KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+Journey's End	نهاية الرحلة	term	KH2	approved	1	14285	KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+Trinity	ترينتي	ability	KH2	approved	9	11962,12983,14246	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; ألتيما بالألف
+Ultima	ألتيما	ability	KH2	approved	4	04173,04619,11448	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; ألتيما بالألف
+Break	كسر	term	KH2	approved	32	01959,02153,02503	KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+Run Through	اخترق	term	KH2	approved	2	01010,15438	KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+Dummy 06-16, 23-27	تجريبي NN	term	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+Ultimate Recipe	الوصفة القصوى	term	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+Major Drive	الدرايف الأكبر	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; ألتيما بالألف
+Begin Combo	ابدأ الكومبو	term	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+Materials	المواد	item	KH2	approved	20	00121,10293,10294	conflict, see GLOSSARY_CONFLICTS.md; KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15; supervisor decision TRANS-1
+Materials	مواد	item	KH2	approved	20	00121,10293,10294	conflict, see GLOSSARY_CONFLICTS.md; KH2 دفعة batchF / sysB21 (2026-10-01 — جديد،; sys 15998-16007: مواد الرتبة <C 09 3x>; supervisor decision TRANS-1
+Overtaker	المسيطر	term	KH2	approved	0		KH2 الدفعة 12 (2026-09-29 — ids 15336-15730) / عالم الـ Never Land ووصفات (15
+Recovery Run	جري التعافي	menu	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أوامر تفاعل وتزلج (15765-15773
+Grab	أمسك	menu	KH2	approved	15	04804,09017,10393	KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أوامر تفاعل وتزلج (15765-15773
+Rescue	الإنقاذ	menu	KH2	approved	31	00100,01526,02410	KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أوامر تفاعل وتزلج (15765-15773
+Arm-in-Arm	ذراع بذراع	menu	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أوامر تفاعل وتزلج (15765-15773
+Piggyback	على الظهر	menu	KH2	approved	1	09846	KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أوامر تفاعل وتزلج (15765-15773
+About-Face	الانعطافة	menu	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أوامر تفاعل وتزلج (15765-15773
+Show Stealer	سارق الأضواء	menu	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أوامر تفاعل وتزلج (15765-15773
+Heelflip	قلبة كعب	menu	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أوامر تفاعل وتزلج (15765-15773; درجة ° ممنوعة → "360 درجة" اختُصر إلى "360"
+Pop-Jump	قفزة مفاجئة	menu	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أوامر تفاعل وتزلج (15765-15773; درجة ° ممنوعة → "360 درجة" اختُصر إلى "360"
+360° Spin	دوران 360	menu	KH2	kh2-only	0		KH2 constraint, revisit; KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أوامر تفاعل وتزلج (15765-15773; درجة ° ممنوعة → "360 درجة" اختُصر إلى "360"; supervisor decision TRANS-1
+Method Grab	حيلة الإمساك	menu	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أوامر تفاعل وتزلج (15765-15773; درجة ° ممنوعة → "360 درجة" اختُصر إلى "360"
+Air Walk	مشي جوي	menu	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أوامر تفاعل وتزلج (15765-15773; درجة ° ممنوعة → "360 درجة" اختُصر إلى "360"
+Handstand	على اليدين	menu	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أوامر تفاعل وتزلج (15765-15773; درجة ° ممنوعة → "360 درجة" اختُصر إلى "360"
+Star Seeker	باحث النجوم	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Hidden Dragon	التنين الخفي	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Hero's Crest	قمة البطل	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Monochrome	أحادي اللون	item	KH2	approved	1	14607	KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Follow the Wind	اتبع الريح	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Circle of Life	دائرة الحياة	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Photon Debugger	مصحح الفوتون	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Gull Wing	جناح النورس	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Rumbling Rose	الوردة الراعدة	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Guardian Soul	روح الحارس	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Wishing Lamp	مصباح الأمنيات	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Decisive Pumpkin	القرع الحاسم	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Sleeping Lion	الأسد النائم	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Sweet Memories	الذكريات الحلوة	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Mysterious Abyss	الأعماق الغامضة	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Fatal Crest	الشارة القاتلة	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Bond of Flame	رابطة اللهب	item	KH2	approved	0		KH2 الدفعة 13 (2026-09-29 — ids 15731-17051) / أسلحة (15866-15958)
+Fenrir	فنرير	item	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Cavern of Remembrance: Depths	كهف الذكرى: الأعماق	place	KH2	approved	0		KH2 الدفعة 16 (2026-09-29 — ids 19826-20419) / أسماء المناطق (19988-20007)
+Mining Area	منطقة التعدين	place	KH2	approved	0		KH2 الدفعة 16 (2026-09-29 — ids 19826-20419) / أسماء المناطق (19988-20007)
+Engine Chamber	حجرة المحرك	place	KH2	approved	0		KH2 الدفعة 16 (2026-09-29 — ids 19826-20419) / أسماء المناطق (19988-20007)
+Mineshaft	المناجم	place	KH2	approved	0		KH2 الدفعة 16 (2026-09-29 — ids 19826-20419) / أسماء المناطق (19988-20007)
+Transport to Remembrance	الممر نحو الذكرى	place	KH2	approved	0		KH2 الدفعة 16 (2026-09-29 — ids 19826-20419) / أسماء المناطق (19988-20007)
+Station of Remembrance	محطة الذكرى	place	KH2	approved	0		KH2 الدفعة 16 (2026-09-29 — ids 19826-20419) / أسماء المناطق (19988-20007)
+Garden of Assemblage	حديقة التجمع	place	KH2	approved	1	13767	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Underground Facility	المنشأة تحت الأرضية	place	KH2	approved	0		KH2 الدفعة 16 (2026-09-29 — ids 19826-20419) / أسماء المناطق (19988-20007)
+Memory's Contortion	تشوه الذاكرة	place	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+The World of Nothing	عالم العدم	place	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Hall of Empty Melodies	قاعة اللحن الفارغ	place	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+The Old Mansion	القصر القديم	place	KH2	approved	13	07107,07133,07457	KH2 الدفعة 16 (2026-09-29 — ids 19826-20419) / أسماء المناطق (19988-20007)
+Destiny Island	جزر المصير	place	KH2	approved	0		KH2 الدفعة 16 (2026-09-29 — ids 19826-20419) / أسماء المناطق (19988-20007); supervisor decision TRANS-1
+Addled Impasse	المأزق المضطرب	place	KH2	approved	0		KH2 الدفعة 16 (2026-09-29 — ids 19826-20419) / أسماء المناطق (19988-20007)
+Mansion: Basement Hall	القصر: قاعة القبو	place	KH2	approved	0		KH2 الدفعة 16 (2026-09-29 — ids 19826-20419) / أسماء المناطق (19988-20007)
+Havoc's Divide	فجوة الدمار	place	KH2	approved	0		KH2 الدفعة 16 (2026-09-29 — ids 19826-20419) / أسماء المناطق (19988-20007)
+Station of Oblivion	محطة النسيان	place	KH2	approved	0		KH2 الدفعة 16 (2026-09-29 — ids 19826-20419) / أسماء المناطق (19988-20007)
+Gathering Place	مكان التجمع	place	KH2	approved	0		KH2 الدفعة 16 (2026-09-29 — ids 19826-20419) / أسماء المناطق (19988-20007)
+Seifer	سايفر	character	KH2	approved	1	09929	KH2 tt.bar — الدفعة 1 (2026-09-30 — ids 1317; ids 13174,13176,13177,13184,13194 — ترجمة صوتية (لاتيني: S I F R كلها مسموحة)
+Klepto Club	نادي اللصوص	term	KH2	approved	0		KH2 tt.bar — الدفعة 1 (2026-09-30 — ids 1317; id 13178 — مزاح الفريق
+recon	استكشاف	term	KH2	approved	1	06591	KH2 tt.bar — الدفعة 1 (2026-09-30 — ids 1317; id 13196
+the real thieves	اللصوص الحقيقيين	term	KH2	approved	0		KH2 tt.bar — الدفعة 1 (2026-09-30 — ids 1317; ids 13182,13178
+the thieves	اللصوص	term	KH2	approved	0		KH2 tt.bar — الدفعة 1 (2026-09-30 — ids 1317; ids 13182,13178
+clear our names	تبرئة أسمائنا	term	KH2	approved	0		KH2 tt.bar — الدفعة 1 (2026-09-30 — ids 1317; id 13185
+set the record straight	تصحيح سجلنا	term	KH2	approved	0		KH2 tt.bar — الدفعة 1 (2026-09-30 — ids 1317; id 13182
+get off our backs	تركنا وشأننا	term	KH2	approved	0		KH2 tt.bar — الدفعة 1 (2026-09-30 — ids 1317; id 13185
+Roxas, c'mon.	روكساس, هيا.	term	KH2	approved	0		KH2 tt.bar — الدفعة 2 (2026-10-01 — ids 1320; id 13200 — روكساس في المسرد
+Over here!	إلى هنا!	term	KH2	approved	5	06406,08223,09194	KH2 tt.bar — الدفعة 2 (2026-10-01 — ids 1320; id 13201 — بادئة <13><08> تبقى في بنية الرسالة قبل النص
+Setzer	سيتزر	character	KH2	approved	0		KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; بطل بلدة الشفق في الصراع — ترجمة صوتية — id 13297
+Vivi	فيفي	character	KH2	approved	0		KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; مشارك في البطولة — صوتية — id 13306
+Axel	آكسل	character	KH2	approved	39	00486,00487,03106	KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; عضو المنظمة — صوتية — id 13346
+Dusk	الداسك	term	KH2	approved	1	00673	KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; مخلوقات المنظمة — صوتية (المفرد والجمع) — id 13348
+Dusks	الداسك	term	KH2	approved	0		KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; مخلوقات المنظمة — صوتية (المفرد والجمع) — id 13348
+Saïx	سايكس	character	KH2	approved	14	00499,03689,13378	KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; عضو المنظمة — صوتية — id 13829
+DiZ	ديز	character	KH2	approved	1	15353	KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; الشخصية المقنعة — صوتية — id 13531
+Rai	راي	character	KH2	approved	1	09938	KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; طفل في البلدة — صوتية — id 13449
+Ansem the Wise	أنسيم الحكيم	character	KH2	approved	24	00506,01614,03088	KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; لقب أنسيم — id 13757
+realm of light	عالم النور	place	KH2	approved	8	02049,02195,02473	KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; id 13621
+realm of darkness	عالم الظلام	place	KH2	approved	29	02023,02027,02180	KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; id 13784
+seven wonders of Twilight Town	عجائب بلدة الشفق السبع	term	KH2	approved	0		KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; id 13431
+seven wonders	العجائب السبع	term	KH2	approved	4	09930,09972,09986	KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; موحّد — id 13436
+ghost train	قطار الأشباح	term	KH2	approved	0		KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; id 13456
+Twilight Disciplinary Committee	لجنة انضباط بلدة الشفق	term	KH2	approved	0		KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; لقب سايفر — id 13306
+the usual place	المكان المعتاد	term	KH2	approved	0		KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; موحّد مع id741 — id 13543
+Struggle tournament	بطولة الصراع	term	KH2	approved	0		KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; موحّد مع Struggle=صراع — id 13319
+Your Majesty	جلالتك	term	KH2	approved	12	02581,03152,03919	KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; مخاطبة الملك ميكي — id 13762
+Restoration at N%	الاستعادة N بالمئة	term	KH2	approved	0		KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; % يُترجم "بالمئة" — id 13286
+haunted mansion	القصر المسكون	term	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Rucksack	يا حقيبة الظهر	term	KH2	approved	0		KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; نداء ساخر من سايفر — id 13373
+blondie	يا أشقر	term	KH2	approved	2	05271,05312	KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; نداء ساخر من فريق سايفر — id 13231
+candy shop	متجر الحلويات	place	KH2	approved	0		KH2 اقتراحات كُلب — دُمجت بقرار المشرف 2026-; id 13213
+INFORMATION	معلومات	menu	KH2	approved	15	01664,03643,10516	KH2 دفعة sysB20 (2026-10-01 — مصطلحات مثبّتة; عنوان نوافذ المعلومات — ids 1130, 14671
+MP Cost	تكلفة MP	menu	KH2	approved	28	16615,16616,16617	KH2 دفعة sysB20 (2026-10-01 — مصطلحات مثبّتة; وصف السحر — ids 1589-1599, 13044-13066
+Magic Command	أمر السحر	menu	KH2	approved	0		KH2 دفعة sysB20 (2026-10-01 — مصطلحات مثبّتة; "استخدمها من أمر السحر" — ids 1589-1599
+Don't Equip	عدم التجهيز	menu	KH2	approved	0		KH2 دفعة sysB20 (2026-10-01 — مصطلحات مثبّتة; id 13865 = عدم التجهيز (<X 53> أمامها)
+Maleficent	مالفيسنت	character	KH2	approved	10	00519,03403,03406	KH2 دفعة batchF / sysB21 (2026-10-01 — جديد،; ترجمة صوتية — tt 14449
+Yen Sid	ين سيد	character	KH2	approved	30	00521,02081,02230	KH2 دفعة batchF / sysB21 (2026-10-01 — جديد،; tt (لم يُترجم بعد) — مقترح
+Tutorial:	درس:	term	KH2	approved	0		KH2 دفعة batchF / sysB21 (2026-10-01 — جديد،; tt 14163-14173
+Equip more to increase the effect.	اجعل عدة منها لزيادة الأثر.	term	KH2	approved	0		KH2 دفعة batchF / sysB21 (2026-10-01 — جديد،; موحّد مع id 14918
+Shards	شظايا	item	KH2	approved	1	16861	KH2 دفعة batchF / sysB21 (2026-10-01 — جديد،; الجمع من أسماء الأغراض المفردة (14823-15215)
+Stones	أحجار	item	KH2	approved	1	08777	KH2 دفعة batchF / sysB21 (2026-10-01 — جديد،; الجمع من أسماء الأغراض المفردة (14823-15215)
+Gems	جواهر (+ مظلمة، مشتعلة، جليدية، صاعقة، جبارة، لامعة، كثيفة، شفقية)	item	KH2	approved	0		KH2 دفعة batchF / sysB21 (2026-10-01 — جديد،; الجمع من أسماء الأغراض المفردة (14823-15215)
+Chiro	تشيرو	character	KH2	approved	0		KH2 batchG (2026-10-01 — مبني، غير مثبّت); قطة صاحبة المتجر — tt 17416
+Gummi Ship	سفينة الغامي	item	KH2	approved	46	07855,10510,10514	KH2 batchG (2026-10-01 — مبني، غير مثبّت); tt 14567
+Armor Shop	متجر الدروع	place	KH2	approved	0		KH2 batchG (2026-10-01 — مبني، غير مثبّت)
+Accessory Shop	متجر الإكسسوارات	place	KH2	approved	0		KH2 batchG (2026-10-01 — مبني، غير مثبّت)
+Struggle Battle Rule	قاعدة معركة الصراع	term	KH2	approved	0		KH2 batchG (2026-10-01 — مبني، غير مثبّت); tt 17301-17406
+orbs	كرات	item	KH2	approved	3	10368,16786,17039	KH2 batchG (2026-10-01 — مبني، غير مثبّت)
+Mail Delivery	توصيل البريد	term	KH2	approved	0		KH2 batchI (2026-10-01 — مبني، غير مثبّت) — ; 2888-2894
+Cargo Climb	تسلق الحمولة	term	KH2	approved	0		KH2 batchI (2026-10-01 — مبني، غير مثبّت) — ; 2888-2894
+Grandstander	المستعرض	term	KH2	approved	0		KH2 batchI (2026-10-01 — مبني، غير مثبّت) — ; 2888-2894
+Poster Duty	مهمة الملصقات	term	KH2	approved	0		KH2 batchI (2026-10-01 — مبني، غير مثبّت) — ; 2888-2894
+Bumble-Buster	قاتل النحل	term	KH2	approved	0		KH2 batchI (2026-10-01 — مبني، غير مثبّت) — ; 2888-2894
+Junk Sweep	كنس الخردة	term	KH2	approved	0		KH2 batchI (2026-10-01 — مبني، غير مثبّت) — ; 2888-2894
+Cooks R' Us	طهاة لأجلكم	term	KH2	approved	0		KH2 batchI (2026-10-01 — مبني، غير مثبّت) — ; 2888-2894
+Daisy	ديزي	character	KH2	approved	2	00525,02988	KH2 جولة العوالم (2026-10-01 — es / dc / wm ; dc
+Pluto	بلوتو	character	KH2	approved	3	00526,15245,15246	KH2 جولة العوالم (2026-10-01 — es / dc / wm ; dc
+Chip	تشيب	character	KH2	approved	30	00522,01202,01258	KH2 جولة العوالم (2026-10-01 — es / dc / wm ; wm 18410-18824
+Dale	ديل	character	KH2	approved	12	00523,03072,03209	KH2 جولة العوالم (2026-10-01 — es / dc / wm ; wm 18410-18824
+Aqua	أكوا	character	KH2	approved	86	00483,00512,00849	KH2 جولة العوالم (2026-10-01 — es / dc / wm ; dc 21409-21422 (X لاتينية ممنوعة)
+Ven	فين	character	KH2	approved	31	00849,00853,02040	KH2 جولة العوالم (2026-10-01 — es / dc / wm ; dc 21409-21422 (X لاتينية ممنوعة)
+Xehanort	زيهانورت	character	KH2	approved	166	00108,00110,00492	KH2 جولة العوالم (2026-10-01 — es / dc / wm ; dc 21409-21422 (X لاتينية ممنوعة)
+Pain	بين	character	KH2	approved	9	01592,02459,04147	KH2 جولة العوالم (2026-10-01 — es / dc / wm ; wm 19526-19540
+Panic	بانيك	character	KH2	approved	3	03704,03705,15105	KH2 جولة العوالم (2026-10-01 — es / dc / wm ; wm 19526-19540
+Cerberus Cup	كأس سيربيروس	item	KH2	approved	0		KH2 جولة العوالم (2026-10-01 — es / dc / wm ; wm
+Titan Cup	كأس تيتان	item	KH2	approved	0		KH2 جولة العوالم (2026-10-01 — es / dc / wm ; wm
+Land in <world>	الهبوط في <العالم>	term	KH2	approved	0		KH2 جولة العوالم (2026-10-01 — es / dc / wm ; wm 18545-18563 (ZZ/FA = عالم تجريبي)
+Proceed through <gummi route>	المرور عبر <المسار>	term	KH2	approved	0		KH2 جولة العوالم (2026-10-01 — es / dc / wm ; wm 19021-19029
+Slash Gummies	غامي القطع	item	KH2	approved	0		KH2 جولة العوالم (2026-10-01 — es / dc / wm ; sys 22053-22055
+Slash Gauge	عداد القطع	term	KH2	approved	0		KH2 جولة العوالم (2026-10-01 — es / dc / wm ; sys 22053-22055
+Teeny Ships	السفن الصغيرة	item	KH2	approved	9	08742,10535,10546	KH2 جولة العوالم (2026-10-01 — es / dc / wm ; sys 22056-22057
+EX-Formation	تشكيل إكس	term	KH2	approved	0		KH2 جولة العوالم (2026-10-01 — es / dc / wm ; sys 22056-22057
+Free Development	التطوير الحر	term	KH2	approved	0		KH2 جولة العوالم (2026-10-01 — es / dc / wm ; sys 16835, 19581, 15501
+Willy	ويلي	character	KH2	approved	0		KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; wi
+Windsday	يوم الريح	term	KH2	approved	0		KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; po (موحّد مع "حكاية يوم الريح")
+Somebody-I-Don't-Know	شخص لا أعرفه	term	KH2	approved	0		KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; po
+hunny	العسل	term	KH2	approved	9	10392,12239,12295	KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; po
+honey	العسل	term	KH2	approved	35	00591,00948,05152	KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; po
+Jagular	جاغوار	character	KH2	approved	0		KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; po
+Master Control Program	برنامج التحكم الرئيسي	term	KH2	kh2-only	0		KH2 constraint, revisit; KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; tr (C محظور لاتينياً); supervisor decision TRANS-1
+MCP	برنامج التحكم الرئيسي	term	KH2	kh2-only	0		KH2 constraint, revisit; KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; tr (C محظور لاتينياً); supervisor decision TRANS-1
+DTD	دي تي دي	term	KH2	kh2-only	0		KH2 constraint, revisit; KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; tr (D محظور); supervisor decision TRANS-1
+User	مستخدم	term	KH2	approved	1	07195	KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; tr
+de-rezz	تفكيك	term	KH2	approved	0		KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; tr
+Light Cycle	دراجة الضوء	item	KH2	approved	0		KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; tr
+solar sailer	المركب الشمسي	item	KH2	approved	0		KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; tr
+Sark	سارك	character	KH2	approved	0		KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; tr
+Rabbit	الأرنب	character	KH2	approved	36	00104,00598,05126	KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; po
+Eeyore	إيور	character	KH2	approved	0		KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; po
+Tigger	تيغر	character	KH2	approved	10	00597,05139,07864	KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; po
+Roo	رو	character	KH2	approved	5	00599,05140,07864	KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; po
+Owl	البومة	character	KH2	approved	0		KH2 wi / tr / po (2026-10-01 — مبني، غير مثب; po
+Abu	أبو	character	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); al
+Jafar	جعفر	character	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); al
+Carpet	البساط	character	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); al
+Jasmine	ياسمين	character	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); al
+Nala	نالا	character	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); lk
+Mufasa	موفاسا	character	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); lk
+Timon	تيمون	character	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); lk
+Pumbaa	بومبا	character	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); lk
+Shenzi	شينزي	character	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); lk
+Banzai	بانزاي	character	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); lk
+Ed	إد	character	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); lk
+hakuna matata	هاكونا ماتاتا	term	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); lk
+king's den	كهف الملك	place	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); lk
+Cogsworth	كوغزورث	character	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); bb
+Lumiere	لوميير	character	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); bb
+Mrs. Potts	السيدة بوتس	character	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); bb
+Xaldin	زالدين	character	KH2	approved	2	07233,15355	KH2 al / lk / bb (2026-10-01 — مبني); bb
+enchantress	الساحرة	term	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); bb
+rose	الوردة	term	KH2	approved	3	06325,15524,17019	KH2 al / lk / bb (2026-10-01 — مبني); bb
+hand guard	واقية اليد	term	KH2	approved	0		KH2 al / lk / bb (2026-10-01 — مبني); KH2 alt forms: واقية اليد / واقية يد; fixP1: غيّر من واقي لليد
+Jack Sparrow	جاك سبارو	character	KH2	approved	10	00579,01481,01482	KH2 nm / ca / eh / lm / he / title / gumi / ; ca
+Barbossa	باربوسا	character	KH2	approved	4	00583,01503,01637	KH2 nm / ca / eh / lm / he / title / gumi / ; ca
+Elizabeth	إليزابيث	character	KH2	approved	7	00582,01509,01979	KH2 nm / ca / eh / lm / he / title / gumi / ; ca
+Will Turner	ويل تيرنر	character	KH2	approved	1	00581	KH2 nm / ca / eh / lm / he / title / gumi / ; ca
+Davy Jones	ديفي جونز	character	KH2	approved	32	00587,01451,01497	KH2 nm / ca / eh / lm / he / title / gumi / ; ca
+Cortez	كورتيز	character	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; ca
+Bootstrap Bill	بوتستراب بيل	character	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; ca
+medallion	ميدالية	item	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; ca
+Aztec gold	ذهب الأزتك	item	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; ca
+parley	هدنة	term	KH2	approved	4	01715,01937,14158	KH2 nm / ca / eh / lm / he / title / gumi / ; ca
+Sebastian	سيباستيان	character	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; lm
+Ursula	أورسولا	character	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; lm
+Eric	إيريك	character	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; lm
+King Triton	الملك تريتون	character	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; lm
+Xemnas	زيمناس	character	KH2	approved	52	00496,01241,01611	KH2 nm / ca / eh / lm / he / title / gumi / ; eh, hb, title
+Zexion	زيكسيون	character	KH2	approved	3	04066,05855,15354	KH2 nm / ca / eh / lm / he / title / gumi / ; eh, hb, title
+Lexaeus	ليكساوس	character	KH2	approved	2	07233,15356	KH2 nm / ca / eh / lm / he / title / gumi / ; eh, hb, title
+Luxord	لوكسورد	character	KH2	approved	30	00500,01608,01862	KH2 nm / ca / eh / lm / he / title / gumi / ; eh, hb, title
+Demyx	ديميكس	character	KH2	approved	8	00504,04347,04478	KH2 nm / ca / eh / lm / he / title / gumi / ; eh, hb, title
+Xigbar	زيغبار	character	KH2	approved	17	00498,03465,03653	KH2 nm / ca / eh / lm / he / title / gumi / ; eh, hb, title
+Vexen	فيكسن	character	KH2	approved	20	00503,03671,03689	KH2 nm / ca / eh / lm / he / title / gumi / ; eh, hb, title
+Marluxia	مارلوكسيا	character	KH2	approved	24	00501,03011,03012	KH2 nm / ca / eh / lm / he / title / gumi / ; eh, hb, title
+Larxene	لارزين	character	KH2	approved	21	00502,02621,02634	KH2 nm / ca / eh / lm / he / title / gumi / ; eh, hb, title
+Naminé	ناميني	character	KH2	approved	28	00490,02437,02438	KH2 nm / ca / eh / lm / he / title / gumi / ; eh
+Chamber of Repose	قاعة الراحة	place	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; eh
+Chamber of Waking	قاعة اليقظة	place	KH2	approved	1	15332	KH2 nm / ca / eh / lm / he / title / gumi / ; eh
+Stunt Dodge	المراوغة البهلوانية	ability	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; eh
+Megara	ميغارا	character	KH2	approved	1	00533	KH2 nm / ca / eh / lm / he / title / gumi / ; he
+Wonderboy	فتى العجائب	character	KH2	approved	3	03289,03368,03497	KH2 nm / ca / eh / lm / he / title / gumi / ; he
+Underworld	العالم السفلي	world	KH2	approved	3	03555,15076,15385	KH2 nm / ca / eh / lm / he / title / gumi / ; he
+Underdrome	الحلبة السفلية	place	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; he
+Olympus Stone	حجر أوليمبوس	item	KH2	approved	0		user decision GLOSS-2; was حجر أولمبيا; KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Hades Cup	كأس هاديس	item	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; he
+Paradox Cup	كأس مفارقة	item	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; he
+Leon	ليون	character	KH2	approved	1	00602	KH2 nm / ca / eh / lm / he / title / gumi / ; hb
+Cloud	كلاود	character	KH2	approved	7	03257,11756,13587	KH2 nm / ca / eh / lm / he / title / gumi / ; hb
+Yuffie	يوفي	character	KH2	approved	1	00604	KH2 nm / ca / eh / lm / he / title / gumi / ; hb
+Aerith	إيريث	character	KH2	approved	1	00603	KH2 nm / ca / eh / lm / he / title / gumi / ; hb
+Tifa	تيفا	character	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; hb
+Cid	سيد	character	KH2	approved	5	00605,05885,05888	KH2 nm / ca / eh / lm / he / title / gumi / ; hb
+Sephiroth	سيفيروث	character	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; hb
+Scrooge	العم سكروج	character	KH2	approved	15	00548,07296,07298	KH2 nm / ca / eh / lm / he / title / gumi / ; hb
+Claymore	كليمور	item	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; hb
+Zero District	المنطقة صفر	place	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; hb
+Absent Silhouette	الظل الغائب	term	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; ca, he
+Gummi	الغامي	item	KH2	approved	149	07855,10217,10218	KH2 nm / ca / eh / lm / he / title / gumi / ; gumi
+Material Gummi	غامي المادة	item	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; gumi
+Deco-Gummi	غامي الزينة	item	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; gumi
+Blueprint	مخطط	item	KH2	approved	100	10498,10517,10521	KH2 nm / ca / eh / lm / he / title / gumi / ; gumi
+Teeny Ship	سفينة صغيرة	item	KH2	approved	18	08734,10511,10531	KH2 nm / ca / eh / lm / he / title / gumi / ; gumi
+Lv.	مستوى	term	KH2	approved	0		user decision GLOSS-2; KH2 nm / ca / eh / lm / he / title / gumi / ; موحَّد مع LV؛ انظر fixLV_rows.md
+Hayner	هاينر	character	KH2	approved	17	00545,07067,07073	KH2 nm / ca / eh / lm / he / title / gumi / ; title
+Pence	بنس	character	KH2	approved	17	00546,07067,07073	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Olette	أوليت	character	KH2	approved	14	00547,07067,07073	KH2 nm / ca / eh / lm / he / title / gumi / ; title
+Selphie	سيلفي	character	KH2	approved	0		KH2 nm / ca / eh / lm / he / title / gumi / ; title
+Rikku	ريكا	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm (ريكا لتمييزها عن ريكو=Riku)
+Yuna	يونا	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm (ريكا لتمييزها عن ريكو=Riku)
+Paine	باين	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm (ريكا لتمييزها عن ريكو=Riku)
+Fuu	فو	character	KH2	approved	1	09938	KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Squall Leonhart	سكوال ليونهارت	character	KH2	approved	1	15458	KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Huey	هوي	character	KH2	approved	1	00550	KH2 jm.bar - Jiminy's Journal (2026-10-02, م; موحَّد مع متاجر sys
+Dewey	ديوي	character	KH2	approved	1	00551	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Louie	لوي	character	KH2	approved	1	00552	KH2 jm.bar - Jiminy's Journal (2026-10-02, م; موحَّد مع متاجر sys
+Tinker Bell	تينكر بيل	character	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Jiminy Cricket	جيميني كريكت	character	KH2	approved	4	00478,07669,15071	KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Chicken Little	تشيكن ليتل	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Flora	فلورا	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Fauna	فونا	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Merryweather	ميريويذر	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Daisy Duck	البطة ديزي	character	KH2	approved	1	00525	KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Horace Horsecollar	هوراس هورسكولر	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Clarabelle Cow	البقرة كلارابيل	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Clara Cluck	كلارا كلاك	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Dr. Finkelstein	الدكتور فينكلشتاين	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+The Mayor	العمدة	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Oogie Boogie	أوغي بوغي	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Santa Claus	سانتا كلوز	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Jetsam	جيتسام	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Flotsam	فلوتسام	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Vanessa	فانيسا	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Gopher	غوفر	character	KH2	approved	8	00601,05134,07864	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Ienzo	إينزو	character	KH2	approved	17	00507,03094,03146	KH2 jm.bar - Jiminy's Journal (2026-10-02, م; تلاميذ أنسيم (تقارير أنسيم)
+Even	إيفن	character	KH2	approved	107	00284,00503,00906	KH2 jm.bar - Jiminy's Journal (2026-10-02, م; تلاميذ أنسيم (تقارير أنسيم)
+Braig	برايغ	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; تلاميذ أنسيم (تقارير أنسيم)
+Dilan	ديلان	character	KH2	approved	4	00508,05799,07233	KH2 jm.bar - Jiminy's Journal (2026-10-02, م; تلاميذ أنسيم (تقارير أنسيم)
+Aeleus	إيليوس	character	KH2	approved	6	00509,03095,03096	KH2 jm.bar - Jiminy's Journal (2026-10-02, م; تلاميذ أنسيم (تقارير أنسيم)
+realm of nothingness	عالم العدم	place	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Philoctetes	فيلوكتيتس	character	KH2	approved	1	00534	KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Hera	هيرا	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Zeus	زيوس	character	KH2	approved	10	00536,03263,03316	KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Captain Li Shang	القائد لي شانغ	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Chien-Po	تشين-بو	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Yao	ياو	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Ling	لينغ	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Fa Mulan	فا مولان	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Tung-Shao	تونغ شاو	character	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Final Fantasy III..X-2	فاينل فانتسي 3..10-2	term	KH2	kh2-only	0		KH2 constraint, revisit; KH2 jm.bar - Jiminy's Journal (2026-10-02, م; أرقام عوض الرومانية (F/N/L محظورة لاتينياً); supervisor decision TRANS-1
+Secret Ansem Report	تقرير أنسيم السري	term	KH2	approved	0		KH2 jm.bar - Jiminy's Journal (2026-10-02, م; jm
+Flare Force	قوة الفلاير	ability	KH2	approved	1	16313	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys؛ jm يتبعها
+Duck Flare	فلاير البط	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys؛ jm يتبعها
+Rocket Flare	شعلة الصاروخ	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys؛ jm يتبعها
+Megaduck Flare	ميجا فلاير البط	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys؛ jm يتبعها
+Teamwork	تعاون	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Howling Moon	عواء القمر	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Overdrive	أوفردرايف	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; نصل النفي بدل «النصل المطرد»
+Dragonblaze	لهيب التنين	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Trick Fantasy	فانتازيا الحيلة	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Speedster	الاندفاع	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Trickster	الحيلة	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Downbeat	النبضة	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Synchronization	التزامن	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Finale	النهاية	ability	KH2	approved	1	16566	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Treasure Isle	جزيرة الكنز	place	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; جزيرة الكنز والزئير بدل الصيغ الخاطئة
+King's Pride	فخر الملك	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; جزيرة الكنز والزئير بدل الصيغ الخاطئة
+Complete Compilement	الإكمال الكامل	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; إعادة البرمجة بانتظار فحص العرض في sys 14625
+Setup	الإعداد	ability	KH2	approved	5	11004,11018,11030	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; إعادة البرمجة بانتظار فحص العرض في sys 14625
+Cluster Code	رمز التجمع	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; إعادة البرمجة بانتظار فحص العرض في sys 14625
+Eternal Session	الجلسة الأبدية	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Last Saber	النصل الأخير	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Master Hearts	القلوب المتقنة	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+All's End	نهاية الكل	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+FPS Mode	منظور 1	ability	KH2	kh2-only	0		KH2 constraint, revisit; KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys; supervisor decision TRANS-1
+Firecracker	الشماريخ	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Ukulele	يوكوليلي	item	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; صيغ sys
+Sonic	الرنين	ability	KH2	approved	10	06715,10615,11474	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; اسم الليميت بالترجمة الصوتية
+Rave	حفلة	ability	KH2	approved	1	16277	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; اسم الليميت بالترجمة الصوتية
+Strike	الضرب	ability	KH2	approved	55	00297,00298,00299	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; بدل «ضربة غازية»
+Judgment	الحكم	ability	KH2	approved	2	01974,15141	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; بدل «ضربة غازية»
+Final Arcana	أسرار النهاية	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Arcana	الأسرار	ability	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Bash	الكبس	ability	KH2	approved	4	14737,16177,16280	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Impact	الصدم	ability	KH2	approved	24	00300,00301,00302	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; بدل «اللانهاية»
+"Valor"/"Wisdom"/"Master"/"Final" Genie	جني الشجاعة	term	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; KH2 alt forms: جني الشجاعة / جني الحكمة / جني الإتقان / الجني النهائي; لا «جيني»
+Leave	غادر	ability	KH2	approved	58	01159,01250,01374	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Twilight Shard	شظية الشفق	item	KH2	approved	1	12602	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Twilight Gem	جوهرة الشفق	item	KH2	approved	1	12604	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Twilight Crystal	بلورة الشفق	item	KH2	approved	1	12605	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Save the King	منقذ الملك	item	KH2	approved	2	12276,12277	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Firagun	فايراغون	magic	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Thundara	صاعقة قوية	magic	KH2	approved	3	11446,12373,16045	user decision FULL-1: replaces the transliterated form (was: KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد)
+Thundaga	صاعقة كبرى	magic	KH2	approved	3	11447,12353,16046	user decision FULL-1: replaces the transliterated form (was: KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد)
+Thundagun	ثانداغون	magic	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Blizzara	جليد قوي	magic	KH2	approved	3	11432,12349,16041	user decision FULL-1: replaces the transliterated form (was: KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد)
+Blizzaga	جليد أكبر	magic	KH2	approved	4	11433,11434,12350	user decision FULL-1: replaces the transliterated form (was: KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد)
+Magnega	ماغنيغا	magic	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Reflega	ريفليغا	magic	KH2	approved	1	16156	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Moogle	موغل	term	KH2	approved	40	00039,10249,10270	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; Moogle = موغل، Mog = موغ
+Christmas	الميلاد	place	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; «عيد الميلاد» حيث يلتبس
+Christmas Town	بلدة الميلاد	world	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; «عيد الميلاد» حيث يلتبس
+Gauge	عداد	term	KH2	approved	45	00309,00310,00311	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Shop	متجر	term	KH2	approved	32	00039,09545,09554	KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Hades Paradox Cup	كأس مفارقة هاديس	item	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Optional Gummi	غامي اختياري	item	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Support Gummi	غامي مساعد	item	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد
+Struggle Battle R	معركة الصراع ر	term	KH2	approved	0		KH2 قرارات GLOSSARY (2026-10-08) — صيغة واحد; كما هي في tt
+Reprogram	إعادة البرمجة	ability	KH2	kh2-only	0		KH2 قرارات معلقة — بانتظار فحص العرض (needs_; KH2 in game: برمجة; sys 14625; supervisor decision TRANS-1
+Terra	تيرا	character	KH3-new	approved	95	00485,00494,00849	supervisor review GLOSS-2; name: English pronunciation
+Ventus	فينتوس	character	KH3-new	approved	50	00484,02128,03200	supervisor review GLOSS-2; name: pronunciation; KH2 short form Ven = فين
+Xion	شيون	character	KH3-new	approved	23	00489,04049,04051	supervisor review GLOSS-2; name: pronunciation "Shee-on" (X read as sh)
+Lea	ليا	character	KH3-new	approved	21	00486,04102,05798	supervisor review GLOSS-2; name: pronunciation "Lee-a"
+Vanitas	فانيتاس	character	KH3-new	approved	32	00497,02097,03201	supervisor review GLOSS-2; name: pronunciation
+Ansem	أنسيم	character	KH3-new	approved	75	00495,00506,01227	supervisor review GLOSS-2; same as KH2 مكتب أنسيم / أنسيم الحكيم
+Master Xehanort	المعلم زيهانورت	character	KH3-new	approved	48	00108,00110,00492	supervisor review GLOSS-2; Keyblade Master title = المعلم (a person, not the Drive Form الإتقان); KH2 Xehanort = زيهانورت
+Young Xehanort	زيهانورت الشاب	character	KH3-new	approved	21	00493,04320,04344	supervisor review GLOSS-2; correct Arabic word order (noun + adjective)
+Terra-Xehanort	تيرا-زيهانورت	character	KH3-new	approved	15	00494,13382,13434	supervisor review GLOSS-2; both approved/proposed parts, hyphen kept like KH2 شان-يو
+Riku Replica	نسخة ريكو	character	KH3-new	approved	8	00491,03697,04320	supervisor review GLOSS-2; correct Arabic: "..."
+Replica Xehanort	نسخة زيهانورت	character	KH3-new	approved	1	00518	supervisor review GLOSS-2; same pattern as Riku Replica
+Dark Riku	ريكو المظلم	character	KH3-new	approved	9	00505,13435,13461	supervisor review GLOSS-2; same pattern as KH2 هالة مظلمة / درع الظلام
+Armored Xehanort	زيهانورت المدرع	character	KH3-new	approved	10	00517,13408,13409	supervisor review GLOSS-2; correct Arabic adjective
+Lingering Will	الإرادة الباقية	character	KH3-new	approved	5	00511,14216,14260	supervisor review GLOSS-2; title, translated (not a name)
+Anti-Aqua	أكوا المضادة	character	KH3-new	approved	5	00512,13381,13423	supervisor review GLOSS-2; KH2 Anti-Sora = سورا المضاد; feminine agreement
+Master Eraqus	المعلم إيراكوس	character	KH3-new	approved	7	00513,06324,07624	supervisor review GLOSS-2; title المعلم + pronunciation
+Master Yen Sid	المعلم ين سيد	character	KH3-new	approved	26	02081,02230,03041	supervisor review GLOSS-2; title المعلم + KH2 Yen Sid = ين سيد
+The Boy in White	الفتى بالأبيض	character	KH3-new	approved	1	00514	supervisor review GLOSS-2; short correct Arabic
+The Boy in Black	الفتى بالأسود	character	KH3-new	approved	1	00515	supervisor review GLOSS-2; same pattern as The Boy in White
+Dark Figure	الهيئة المظلمة	character	KH3-new	approved	1	00516	supervisor review GLOSS-2; descriptive title, translated
+Chirithy	تشيريثي	character	KH3-new	approved	11	00510,02318,02407	supervisor review GLOSS-2; name: pronunciation
+King Mickey	الملك ميكي	character	KH3-new	approved	24	00479,03131,03242	supervisor review GLOSS-2; title + KH2 Mickey = ميكي
+Queen Minnie	الملكة ميني	character	KH3-new	approved	2	00524,15370	supervisor review GLOSS-2; title + KH2 Minnie = ميني
+Donald Duck	دونالد داك	character	KH3-new	approved	3	00475,02767,04722	supervisor review GLOSS-2; full name, pronunciation; KH2 Donald = دونالد
+Wreck-It Ralph	رالف المدمر	character	KH3-new	approved	4	00310,00527,12886	supervisor review GLOSS-2; Arabic release title of the film (most common usage)
+Hermes	هيرميس	character	KH3-new	approved	1	00537	supervisor review GLOSS-2; Greek god, common Arabic spelling
+Apollo	أبولو	character	KH3-new	approved	1	00538	supervisor review GLOSS-2; Greek god, common Arabic spelling
+Athena	أثينا	character	KH3-new	approved	1	00539	supervisor review GLOSS-2; Greek goddess, common Arabic spelling
+Rock Titan	تيتان الصخر	character	KH3-new	approved	7	00541,12994,12995	supervisor review GLOSS-2; KH2 Titan Cup = كأس تيتان; same pattern for Ice/Lava/Tornado Titan
+Scrooge McDuck	سكروج ماكدك	character	KH3-new	approved	2	00548,15267	supervisor review GLOSS-2; full name, pronunciation; KH2 Scrooge = العم سكروج
+Uncle Scrooge	العم سكروج	character	KH3-new	approved	12	07296,07298,07300	supervisor review GLOSS-2; same as KH2 Scrooge = العم سكروج
+Little Chef	الطاهي الصغير	character	KH3-new	approved	44	00549,03227,07315	supervisor review GLOSS-2; EN uses a title, not the name Remy; translated
+Woody	وودي	character	KH3-new	approved	27	00554,06458,06505	supervisor review GLOSS-2; name: pronunciation
+Buzz	باز	character	KH3-new	approved	44	00555,06500,06525	supervisor review GLOSS-2; name: pronunciation
+Rex	ريكس	character	KH3-new	approved	31	00065,00556,06454	supervisor review GLOSS-2; name: pronunciation
+Hamm	هام	character	KH3-new	approved	17	00063,00557,06497	supervisor review GLOSS-2; name: pronunciation
+Little Green Men	الرجال الخضر الصغار	character	KH3-new	approved	3	00558,13080,15086	supervisor review GLOSS-2; descriptive group name, translated
+Green Army Men	جنود الجيش الخضر	character	KH3-new	approved	1	00559	supervisor review GLOSS-2; descriptive group name, translated
+Andy	آندي	character	KH3-new	approved	29	06496,06506,06559	supervisor review GLOSS-2; name: pronunciation
+Sarge	الرقيب	character	KH3-new	approved	11	06591,06710,06729	supervisor review GLOSS-2; rank used as a name; translated
+Rapunzel	رابونزل	character	KH3-new	approved	92	00560,05272,05324	supervisor review GLOSS-2; name: pronunciation
+Flynn Rider	فلين رايدر	character	KH3-new	approved	9	00561,05252,05268	supervisor review GLOSS-2; name: pronunciation
+Flynn	فلين	character	KH3-new	approved	37	00561,00562,05252	supervisor review GLOSS-2; name: pronunciation
+Eugene	يوجين	character	KH3-new	approved	18	00563,05522,05523	supervisor review GLOSS-2; name: pronunciation
+Mother Gothel	الأم غوثل	character	KH3-new	approved	10	00564,05546,05551	supervisor review GLOSS-2; title translated + name
+Maximus	ماكسيموس	character	KH3-new	approved	11	00565,05480,05492	supervisor review GLOSS-2; name: pronunciation
+Pascal	باسكال	character	KH3-new	approved	3	00566,05516,15415	supervisor review GLOSS-2; name: pronunciation
+Sulley	سولي	character	KH3-new	approved	32	00073,00567,04702	supervisor review GLOSS-2; was سالي; name: pronunciation "Sully"
+Mike	مايك	character	KH3-new	approved	29	00073,00568,04712	supervisor review GLOSS-2; name: pronunciation
+Mike Wazowski	مايك وازوسكي	character	KH3-new	approved	7	04718,04719,04720	supervisor review GLOSS-2; name: pronunciation
+Boo	بو	character	KH3-new	approved	79	00073,00074,00076	supervisor review GLOSS-2; name: pronunciation
+Randall	راندال	character	KH3-new	approved	24	00570,04824,04834	supervisor review GLOSS-2; name: pronunciation
+Anna	آنا	character	KH3-new	approved	37	00572,02770,02809	supervisor review GLOSS-2; name: pronunciation
+Elsa	إلسا	character	KH3-new	approved	69	00573,02578,02593	supervisor review GLOSS-2; name: pronunciation
+Kristoff	كريستوف	character	KH3-new	approved	16	00574,02772,02868	supervisor review GLOSS-2; name: pronunciation
+Sven	سفين	character	KH3-new	approved	13	00575,02772,02789	supervisor review GLOSS-2; name: pronunciation
+Olaf	أولاف	character	KH3-new	approved	41	00576,02763,02792	supervisor review GLOSS-2; name: pronunciation
+Marshmallow	مارشميلو	character	KH3-new	approved	2	00577,16994	supervisor review GLOSS-2; name: pronunciation
+Hans	هانز	character	KH3-new	approved	4	00578,02981,14132	supervisor review GLOSS-2; name: pronunciation
+Elizabeth Swann	إليزابيث سوان	character	KH3-new	approved	1	00582	supervisor review GLOSS-2; KH2 Elizabeth = إليزابيث + surname
+Hector Barbossa	هيكتور باربوسا	character	KH3-new	approved	1	00583	supervisor review GLOSS-2; KH2 Barbossa = باربوسا + first name
+Tia Dalma	تيا دالما	character	KH3-new	approved	9	00584,01522,01551	supervisor review GLOSS-2; name: pronunciation
+Joshamee Gibbs	جوشامي غيبز	character	KH3-new	approved	1	00585	supervisor review GLOSS-2; name: pronunciation
+Cutler Beckett	كاتلر بيكيت	character	KH3-new	approved	4	00586,01531,01883	supervisor review GLOSS-2; name: pronunciation
+Calypso	كاليبسو	character	KH3-new	approved	3	01885,01888,01893	supervisor review GLOSS-2; name: pronunciation
+Kraken	الكراكن	term	KH3-new	approved	9	01434,01517,01578	supervisor review GLOSS-2; sea monster, common Arabic usage
+Flying Dutchman	الهولندي الطائر	term	KH3-new	approved	15	01444,01531,01884	supervisor review GLOSS-2; ship name, common Arabic usage
+Baymax	بايماكس	character	KH3-new	approved	50	00588,00594,00913	supervisor review GLOSS-2; name: pronunciation
+Hiro Hamada	هيرو هامادا	character	KH3-new	approved	1	00589	supervisor review GLOSS-2; name: pronunciation
+Hiro	هيرو	character	KH3-new	approved	50	00097,00589,00928	supervisor review GLOSS-2; name: pronunciation
+Go Go Tomago	غو غو توماغو	character	KH3-new	approved	1	00590	supervisor review GLOSS-2; name: pronunciation
+Honey Lemon	هوني ليمون	character	KH3-new	approved	5	00591,00948,07904	supervisor review GLOSS-2; name: pronunciation (a nickname, kept as a name)
+Wasabi	واسابي	character	KH3-new	approved	6	00592,00946,01144	supervisor review GLOSS-2; name: pronunciation
+Fred	فريد	character	KH3-new	approved	10	00593,00951,00969	supervisor review GLOSS-2; name: pronunciation
+Tadashi	تاداشي	character	KH3-new	approved	13	01096,01101,01371	supervisor review GLOSS-2; name: pronunciation
+Dark Baymax	بايماكس المظلم	character	KH3-new	approved	8	00594,13216,14183	supervisor review GLOSS-2; same pattern as Dark Riku
+Big Hero 6	الأبطال الستة	term	KH3-new	approved	28	00096,00100,00929	supervisor review GLOSS-2; Arabic release title of the film (most common usage)
+Winnie the Pooh	ويني ذا بوه	character	KH3-new	approved	9	00595,10200,15125	supervisor review GLOSS-2; name: English pronunciation; KH2 Pooh = بوه
+Lumpy	لمبي	character	KH3-new	approved	13	00600,05132,05180	supervisor review GLOSS-2; name: pronunciation
+Unversed	الأنفيرسد	term	KH3-new	approved	24	04746,04748,04755	supervisor review GLOSS-2; invented race name, no Arabic meaning; transliterated (Heartless/Nobody have EN meaning and were translated)
+Nobodies	اللا أحد	term	KH3-new	approved	36	03097,04323,05397	supervisor review GLOSS-2; plural of KH2 Nobody = اللا أحد (same form)
+Organization	المنظمة	term	KH3-new	approved	127	00106,00107,00771	user decision GLOSS-2; short form of KH2 منظمة (Organization XIII)
+Real Organization XIII	منظمة XIII الحقيقية	term	KH3-new	approved	20	01243,05916,06359	user decision GLOSS-2; KH3 has Latin; <X 5E> was KH2-only; XIII needs allowed_latin if approved
+Darkubes	المكعبات المظلمة	term	KH3-new	approved	23	00100,00101,00661	supervisor review GLOSS-2; descriptive enemy name, translated
+Gigas	جيغاس	item	KH3-new	approved	31	00688,00689,00690	supervisor review GLOSS-2; robot name (Greek), pronunciation
+Dream Eater	آكل الأحلام	term	KH3-new	approved	1	14509	supervisor review GLOSS-2; descriptive race name, translated
+Meow Wow	مياو واو	character	KH3-new	approved	9	10329,10344,11517	supervisor review GLOSS-2; sound-name, pronunciation
+Keyblade War	حرب الكيبلايد	term	KH3-new	approved	20	00720,00730,03730	supervisor review GLOSS-2; KH2 Keyblade = كيبلايد
+Keyblade Graveyard	مقبرة الكيبلايد	world	KH3-new	approved	17	00711,01429,03727	supervisor review GLOSS-2; KH2 Keyblade = كيبلايد; world name
+Keyblade Master	معلم الكيبلايد	term	KH3-new	approved	11	00738,02137,04519	supervisor review GLOSS-2; matches Master Xehanort = المعلم زيهانورت
+Keyblade wielder	حامل الكيبلايد	term	KH3-new	approved	14	02425,02471,03711	supervisor review GLOSS-2; correct Arabic "bearer"
+Keyblade wielder (fem)	حاملة كيبلايد	term	KH3-new	approved	0		feminine; supervisor decision REVIEW-1
+Keyblades	الكيبلايدات	item	KH3-new	approved	21	00961,02229,04082	supervisor review GLOSS-2; regular Arabic plural of كيبلايد
+χ-blade	نصل χ	term	KH3-new	approved	29	00826,03808,03880	supervisor review GLOSS-2; χ read "kai"; blade = نصل (KH2 Blade = نصل)
+Mark of Mastery	اختبار الإتقان	term	KH3-new	approved	18	03847,04202,04649	supervisor review GLOSS-2; the Mark of Mastery is an exam; KH2 Mastery family = الإتقان
+Guardians of Light	حراس النور	term	KH3-new	approved	17	03014,03018,05556	supervisor review GLOSS-2; KH2 realm of light = عالم النور (light in lore = النور)
+Seekers of Darkness	الباحثون عن الظلام	term	KH3-new	approved	2	15070,15135	supervisor review GLOSS-2; KH2 realm of darkness = عالم الظلام
+Princesses of Heart	أميرات القلب	term	KH3-new	approved	2	06348,15330	supervisor review GLOSS-2; literal, short
+New Seven Hearts	القلوب السبعة الجديدة	term	KH3-new	approved	16	02706,03013,04310	supervisor review GLOSS-2; literal
+Light	النور	term	KH3-new	approved	169	00723,00737,00743	supervisor review GLOSS-2; lore word, KH2 realm of light = عالم النور (not ضوء)
+Darkness	الظلام	term	KH3-new	approved	175	00737,00746,00750	supervisor review GLOSS-2; lore word, KH2 realm of darkness = عالم الظلام
+Book of Prophecies	كتاب النبوءات	item	KH3-new	approved	2	03584,03587	supervisor review GLOSS-2; literal
+Lucky Emblem	شعار الحظ	item	KH3-new	approved	8	07121,07122,08358	supervisor review GLOSS-2; literal, short
+Recusant's Sigil	ختم المتمرد	item	KH3-new	approved	4	15152,15199,15223	supervisor review GLOSS-2; literal (recusant = one who refuses)
+Union	الاتحاد	term	KH3-new	approved	4	15168,15169,16089	supervisor review GLOSS-2; Union χ term; literal
+Olympus	أوليمبوس	world	KH3-new	approved	29	00050,00052,00703	user decision GLOSS-2; correct Arabic for Mount Olympus; KH2 compounds used أولمبيا (= Olympia, another place), see GLOSSARY_CONFLICTS.md
+Mount Olympus	جبل أوليمبوس	place	KH3-new	approved	6	00050,00052,12908	user decision GLOSS-2; same as Olympus
+Thebes	طيبة	place	KH3-new	approved	11	00051,03564,09762	supervisor review GLOSS-2; classical Arabic name of the Greek city
+Realm of the Gods	عالم الآلهة	place	KH3-new	approved	5	00053,12907,12999	supervisor review GLOSS-2; literal
+Toy Box	صندوق الألعاب	world	KH3-new	approved	7	00705,10915,13540	supervisor review GLOSS-2; world name, translated (descriptive)
+Kingdom of Corona	مملكة كورونا	world	KH3-new	approved	8	00706,10916,13534	supervisor review GLOSS-2; kingdom + name
+Arendelle	آرنديل	world	KH3-new	approved	22	00708,02575,02578	supervisor review GLOSS-2; name: pronunciation
+The Caribbean	الكاريبي	world	KH3-new	approved	7	00710,09641,10920	supervisor review GLOSS-2; common Arabic name
+Caribbean	الكاريبي	world	KH3-new	approved	7	00710,09641,10920	supervisor review GLOSS-2; same as The Caribbean
+Monstropolis	مونستروبوليس	world	KH3-new	approved	8	00707,07840,07851	supervisor review GLOSS-2; name: pronunciation
+San Fransokyo	سان فرانسوكيو	world	KH3-new	approved	17	00709,01006,08057	supervisor review GLOSS-2; name: pronunciation
+Scala ad Caelum	سكالا آد كايلوم	world	KH3-new	approved	8	00713,00781,10922	supervisor review GLOSS-2; Latin name: pronunciation
+Daybreak Town	بلدة الفجر	world	KH3-new	approved	1	13537	supervisor review GLOSS-2; same pattern as KH2 Twilight Town = بلدة الشفق
+The Mysterious Tower	البرج الغامض	world	KH3-new	approved	3	13547,13974,13986	supervisor review GLOSS-2; literal
+The Final World	العالم الأخير	world	KH3-new	approved	10	02318,02349,13356	supervisor review GLOSS-2; literal; "final" = last here (KH2 Final Form النهائي is a form name)
+Final World	العالم الأخير	world	KH3-new	approved	11	02318,02319,02349	supervisor review GLOSS-2; same as The Final World
+The Land of Departure	أرض الانطلاق	world	KH3-new	approved	4	13554,13752,13985	supervisor review GLOSS-2; literal
+Andy's House	بيت آندي	place	KH3-new	approved	2	12896,13557	supervisor review GLOSS-2; KH2 pattern بيت X
+Galaxy Toys	غالاكسي تويز	place	KH3-new	approved	24	00059,06592,06593	supervisor review GLOSS-2; shop brand name: pronunciation
+Kid Korral	كيد كورال	place	KH3-new	approved	4	00066,06920,13084	supervisor review GLOSS-2; shop area brand name: pronunciation
+The North Mountain	الجبل الشمالي	place	KH3-new	approved	7	00082,12898,13175	supervisor review GLOSS-2; literal
+The Labyrinth of Ice	متاهة الجليد	place	KH3-new	approved	2	12899,13633	supervisor review GLOSS-2; literal
+Ice Palace	قصر الجليد	place	KH3-new	approved	12	02938,08531,08607	supervisor review GLOSS-2; literal
+The Factory	المصنع	place	KH3-new	approved	11	00075,04837,08895	supervisor review GLOSS-2; literal
+The Power Plant	محطة الطاقة	place	KH3-new	approved	3	00077,13660,14380	supervisor review GLOSS-2; literal
+The Door Vault	خزنة الأبواب	place	KH3-new	approved	16	00076,00078,04949	supervisor review GLOSS-2; KH2 Vault = الخزنة
+Laugh Floor	طابق الضحك	place	KH3-new	approved	3	08927,08940,13663	supervisor review GLOSS-2; literal
+The High Seas	أعالي البحار	place	KH3-new	approved	3	10387,13251,13685	supervisor review GLOSS-2; common Arabic expression
+Davy Jones' Locker	خزانة ديفي جونز	place	KH3-new	approved	16	01497,01498,01501	supervisor review GLOSS-2; KH2 Davy Jones = ديفي جونز; Locker = خزانة
+Shipwreck Cove	خليج حطام السفن	place	KH3-new	approved	12	00092,01828,01871	supervisor review GLOSS-2; literal
+Exile Island	جزيرة المنفى	place	KH3-new	approved	2	13290,13703	supervisor review GLOSS-2; literal
+The Neighborhood	الحي السكني	place	KH3-new	approved	3	12911,13728,14388	supervisor review GLOSS-2; was الحي; literal; KH2 Borough = الحي (same Arabic, different EN — check)
+Tram Common	ساحة الترام	place	KH3-new	approved	2	13023,13729	supervisor review GLOSS-2; KH2 tram square = ساحة الترام
+Hiro's Garage	مرآب هيرو	place	KH3-new	approved	2	13219,13739	supervisor review GLOSS-2; literal
+North District	الحي الشمالي	place	KH3-new	approved	3	13740,13743,13744	supervisor review GLOSS-2; literal
+Central District	الحي الأوسط	place	KH3-new	approved	3	13741,13745,13746	supervisor review GLOSS-2; literal
+South District	الحي الجنوبي	place	KH3-new	approved	5	01047,01051,13742	supervisor review GLOSS-2; literal
+The Badlands	الأراضي القاحلة	place	KH3-new	approved	2	12912,13756	supervisor review GLOSS-2; literal
+The Stairway to the Sky	درج السماء	place	KH3-new	approved	2	12914,13764	supervisor review GLOSS-2; literal, short
+Breezy Quarter	حي النسيم	place	KH3-new	approved	2	12915,13765	supervisor review GLOSS-2; literal
+Gummiphone	هاتف الغامي	item	KH3-new	approved	26	00007,00027,03079	supervisor review GLOSS-2; KH2 Gummi = الغامي; phone = هاتف
+Formchange	تحول السلاح	ability	KH3-new	approved	15	10281,10284,13009	supervisor review GLOSS-2; Keyblade transformation; التحول alone is KH2 Warp
+Formchanges	تحولات السلاح	ability	KH3-new	approved	30	10254,10256,10283	supervisor review GLOSS-2; plural of Formchange
+Second Form	الشكل الثاني	ability	KH3-new	approved	10	12288,12301,12302	supervisor review GLOSS-2; KH2 Form = الشكل
+Ultimate Form	الشكل الأقصى	ability	KH3-new	approved	2	12300,16267	supervisor review GLOSS-2; KH2 Ultimate Recipe = الوصفة القصوى
+Rage Form	شكل الغضب	ability	KH3-new	approved	6	10334,10349,14792	supervisor review GLOSS-2; KH2 Limit Form = شكل الليميت pattern
+Shotlock	التصويب المثبت	ability	KH3-new	approved	19	10260,10288,10289	supervisor review GLOSS-2; was التصويب المقفل; lock-on shot, translated
+Shotlocks	التصويبات المثبتة	ability	KH3-new	approved	5	00211,14802,14815	supervisor review GLOSS-2; was التصويبات المقفلة; plural of Shotlock
+Flowmotion	الحركة الانسيابية	ability	KH3-new	approved	20	10300,10312,10313	supervisor review GLOSS-2; descriptive, translated
+Airstep	الخطوة الجوية	ability	KH3-new	approved	5	16190,16923,16978	supervisor review GLOSS-2; literal
+Attraction	لعبة الملاهي	ability	KH3-new	approved	23	00335,00416,00417	supervisor review GLOSS-2; theme-park ride
+Attractions	ألعاب الملاهي	ability	KH3-new	approved	11	10259,10287,10328	supervisor review GLOSS-2; plural of Attraction
+Team Attack	هجوم الفريق	ability	KH3-new	approved	6	10286,16473,16720	supervisor review GLOSS-2; KH2 Party = الفريق
+Link	الرابطة	ability	KH3-new	approved	20	00267,00334,00414	supervisor review GLOSS-2; summon by bond; literal
+Links	الروابط	ability	KH3-new	approved	16	00224,00233,00316	supervisor review GLOSS-2; plural of Link
+Synthesis	التركيب	menu	KH3-new	approved	72	10265,10293,10294	supervisor review GLOSS-2; KH2 Synthesize = التركيب
+Combo	كومبو	ability	KH3-new	approved	86	00332,00409,00410	supervisor review GLOSS-2; KH2 compounds use كومبو (Combo Plus = كومبو بلس)
+Battlegate	بوابة المعركة	term	KH3-new	approved	31	13504,13505,13506	supervisor review GLOSS-2; literal
+Focus Gauge	عداد التركيز	term	KH3-new	approved	7	10288,10289,12565	supervisor review GLOSS-2; KH2 Gauge = عداد
+Classic Kingdom	المملكة الكلاسيكية	term	KH3-new	approved	9	00466,10352,10370	supervisor review GLOSS-2; literal
+Verum Rex	فيروم ريكس	term	KH3-new	approved	6	10354,13094,13095	supervisor review GLOSS-2; in-game film/game title: pronunciation
+Cuisine	المطبخ	menu	KH3-new	approved	21	00021,00038,00048	supervisor review GLOSS-2; menu title for cooking
+Moogles	الموغل	character	KH3-new	approved	8	00531,10270,10271	supervisor review GLOSS-2; same word as Moogle (KH2); KH2 Moogle = موغل; collective
+Water	ماء	magic	KH3-new	approved	51	00017,00300,00301	user decision FULL-1: replaces the transliterated form (was: supervisor review GLOSS-2; spell name transliterated like KH)
+Watera	ماء قوي	magic	KH3-new	approved	2	11440,16049	user decision FULL-1: replaces the transliterated form (was: supervisor review GLOSS-2; tier pattern of KH2 فايرا)
+Waterga	ماء أكبر	magic	KH3-new	approved	3	11441,11442,16050	user decision FULL-1: replaces the transliterated form (was: supervisor review GLOSS-2; tier pattern of KH2 فايراغا)
+Waterza	ماء أقصى	magic	KH3-new	approved	2	16051,16750	user decision FULL-1: replaces the transliterated form (was: supervisor review GLOSS-2; KH3 4th tier -za = زا)
+Aero	ريح	magic	KH3-new	approved	33	00020,10551,10771	user decision FULL-1: replaces the transliterated form (was: supervisor review GLOSS-2; spell name transliterated)
+Aerora	ريح قوية	magic	KH3-new	approved	1	16053	user decision FULL-1: replaces the transliterated form (was: supervisor review GLOSS-2; tier pattern)
+Aeroga	ريح كبرى	magic	KH3-new	approved	1	16054	user decision FULL-1: replaces the transliterated form (was: supervisor review GLOSS-2; tier pattern)
+Aeroza	ريح قصوى	magic	KH3-new	approved	2	16055,16751	user decision FULL-1: replaces the transliterated form (was: supervisor review GLOSS-2; tier pattern)
+Firaza	نار قصوى	magic	KH3-new	approved	4	12346,16039,16747	user decision FULL-1: replaces the transliterated form (was: supervisor review GLOSS-2; tier pattern of KH2 فايراغا)
+Blizzaza	جليد أقصى	magic	KH3-new	approved	3	12372,16043,16748	user decision FULL-1: replaces the transliterated form (was: supervisor review GLOSS-2; tier pattern of KH2 بليزاغا)
+Thundaza	صاعقة قصوى	magic	KH3-new	approved	3	12354,16047,16749	user decision FULL-1: replaces the transliterated form (was: supervisor review GLOSS-2; tier pattern of KH2 ثانداغا)
+Cure	شفاء	magic	KH3-new	approved	8	14803,14816,16056	user decision FULL-1: replaces the transliterated form (was: supervisor review GLOSS-2; pronunciation "kyur"; KH2 wrote ك)
+Cura	شفاء قوي	magic	KH3-new	approved	1	16057	user decision FULL-1: replaces the transliterated form (was: supervisor review GLOSS-2; tier pattern)
+Curaga	شفاء أكبر	magic	KH3-new	approved	1	16058	user decision FULL-1: replaces the transliterated form (was: supervisor review GLOSS-2; tier pattern)
+Curaza	شفاء أقصى	magic	KH3-new	approved	3	16059,16480,16728	user decision FULL-1: replaces the transliterated form (was: supervisor review GLOSS-2; tier pattern)
+Hero's Origin	أصل البطل	item	KH3-new	approved	2	10341,12233	supervisor review GLOSS-2; Keyblade, literal
+Favorite Deputy	النائب المفضل	item	KH3-new	approved	1	12235	supervisor review GLOSS-2; Keyblade, literal (sheriff's deputy)
+Ever After	إلى الأبد	item	KH3-new	approved	3	05677,10342,12236	supervisor review GLOSS-2; Keyblade, from "..."
+Happy Gear	الترس السعيد	item	KH3-new	approved	1	12237	supervisor review GLOSS-2; Keyblade, literal
+Crystal Snow	ثلج الكريستال	item	KH3-new	approved	1	12238	supervisor review GLOSS-2; Keyblade, KH2 Crystal Fissure = صدع الكريستال
+Hunny Spout	إبريق العسل	item	KH3-new	approved	1	12239	supervisor review GLOSS-2; Keyblade, KH2 hunny = العسل
+Nano Gear	الترس النانوي	item	KH3-new	approved	1	12240	supervisor review GLOSS-2; Keyblade, literal
+Wheel of Fate	عجلة القدر	item	KH3-new	approved	1	12241	supervisor review GLOSS-2; Keyblade, common expression
+Grand Chef	الطاهي الكبير	item	KH3-new	approved	1	12242	supervisor review GLOSS-2; Keyblade, matches Little Chef = الطاهي الصغير
+Classic Tone	النغمة الكلاسيكية	item	KH3-new	approved	1	12243	supervisor review GLOSS-2; Keyblade, literal
+Starlight	ضوء النجوم	item	KH3-new	approved	18	10910,11133,11134	supervisor review GLOSS-2; Keyblade, literal
+Elemental Encoder	مشفر العناصر	item	KH3-new	approved	1	12246	supervisor review GLOSS-2; Keyblade, literal
+Dead of Night	جوف الليل	item	KH3-new	approved	1	12247	supervisor review GLOSS-2; Keyblade, Arabic idiom for "..."
+Warhammer	مطرقة الحرب	item	KH3-new	approved	2	12252,12253	supervisor review GLOSS-2; Donald staff, literal
+Magician's Wand	عصا المشعوذ	item	KH3-new	approved	2	12254,12255	supervisor review GLOSS-2; عصا الساحر is taken by KH2 Mage's Staff
+Nirvana	نيرفانا	item	KH3-new	approved	3	06829,12256,12257	supervisor review GLOSS-2; loanword, common usage
+Astrolabe	الأسطرلاب	item	KH3-new	approved	2	12258,12259	supervisor review GLOSS-2; correct Arabic word
+Heartless Maul	مطرقة بلا قلب	item	KH3-new	approved	2	12260,12261	supervisor review GLOSS-2; KH2 Heartless = بلا قلب
+Save the Queen	منقذة الملكة	item	KH3-new	approved	2	12262,12263	supervisor review GLOSS-2; KH2 batch 13 form (feminine, pairs with منقذ الملك)
+Clockwork Shield	درع الساعة	item	KH3-new	approved	2	12266,12267	supervisor review GLOSS-2; literal, short
+Star Shield	درع النجم	item	KH3-new	approved	2	12268,12269	supervisor review GLOSS-2; literal
+Aegis Shield	درع إيغيس	item	KH3-new	approved	2	12270,12271	supervisor review GLOSS-2; KH2 Aegis Chain = سلسلة إيغيس
+Storm Anchor	مرساة العاصفة	item	KH3-new	approved	2	12272,12273	supervisor review GLOSS-2; literal
+Refocuser	مجدد التركيز	item	KH3-new	approved	2	12549,12550	supervisor review GLOSS-2; restores Focus; Focus = التركيز
+Hi-Refocuser	مجدد التركيز القوي	item	KH3-new	approved	1	12550	supervisor review GLOSS-2; KH2 Hi-Potion = جرعة قوية pattern
+Hi-Ether	إيثر قوي	item	KH3-new	approved	1	12552	supervisor review GLOSS-2; KH2 Hi-Potion = جرعة قوية, Ether = إيثر
+Panacea	ترياق	item	KH3-new	approved	1	12551	supervisor review GLOSS-2; correct Arabic word, short
+Slideshow	عرض الصور	menu	KH3-new	approved	18	10560,10561,10570	supervisor review GLOSS-2; ARABIC-TEST-2 title-screen test value
+Memory Archive	أرشيف الذكريات	menu	KH3-new	approved	5	13776,13807,13912	supervisor review GLOSS-2; ARABIC-TEST-2 title-screen test value
+Theater	المسرح	menu	KH3-new	approved	5	10208,13773,13806	supervisor review GLOSS-2; ARABIC-TEST-2 title-screen test value
+Yozora	يوزورا	character	ReMind	approved	19	00608,06410,06423	supervisor review GLOSS-2; name: pronunciation (Re Mind secret episode)
+Fairy Godmother	الجنية العرابة	character	ReMind	approved	2	00606,05925	supervisor review GLOSS-2; common Arabic usage (Cinderella)
+Re Mind	Re Mind	term	ReMind	approved	1	00714	supervisor review GLOSS-2; shown as Re<icon>Mind logo; Latin kept (ARABIC-TEST-2 decision, allowed_latin)
+Limitcut Episode	حلقة تجاوز الحدود	menu	ReMind	approved	3	13782,13797,14843	supervisor review GLOSS-2; ARABIC-TEST-2 test value; open question in PROJECT_MAP §8
+Secret Episode	الحلقة السرية	menu	ReMind	approved	4	13783,13798,14007	supervisor review GLOSS-2; ARABIC-TEST-2 test value
+Data Greeting	تحية البيانات	menu	ReMind	approved	17	10562,10563,10564	supervisor review GLOSS-2; ARABIC-TEST-2 test value; open question in PROJECT_MAP §8
+Downloadable Content	المحتوى الإضافي	menu	ReMind	approved	16	00471,13778,13795	supervisor review GLOSS-2; ARABIC-TEST-2 test value; common Arabic gaming usage
+Premium Menu	القائمة المميزة	menu	ReMind	approved	14	00033,00034,00035	supervisor review GLOSS-2; literal
+EZ Codes	رموز التسهيل	menu	ReMind	approved	7	10567,10579,10580	supervisor review GLOSS-2; EZ = easy; translated
+PRO Codes	رموز المحترفين	menu	ReMind	approved	8	10568,10579,10581	supervisor review GLOSS-2; translated, pairs with EZ Codes
+Invisible Platform	منصة خفية	term	ReMind	approved	6	14617,14618,14619	supervisor review GLOSS-2; Data Greeting tool, literal
+Light Source	مصدر ضوء	term	ReMind	approved	4	14623,14624,14625	supervisor review GLOSS-2; Data Greeting tool, literal (physical light = ضوء)
+Decoy Duckies	البطات المخادعة	term	ReMind	approved	4	11963,14554,14555	supervisor review GLOSS-2; Data Greeting object, literal
+Main Characters	الشخصيات الرئيسية	menu	ReMind	approved	3	14500,14501,15235	supervisor review GLOSS-2; Data Greeting list, literal
+Visual Tools	الأدوات المرئية	menu	ReMind	approved	3	14460,14475,14491	supervisor review GLOSS-2; Data Greeting menu, literal
+Screen Effects	تأثيرات الشاشة	menu	ReMind	approved	2	14458,14465	supervisor review GLOSS-2; Data Greeting menu, literal
+Musical	موسيقي	menu	KH2	approved	4	10402,10461,10490	KH2 constraint, revisit; KH2 الدفعة 9 (2026-09-29 — ids 14030-14829) / قوائم الإعدادات والأوامر (1408; الغناء اختُصر من المشهد الغنائي (259%)؛ الباقي مطابقة الدفعات; TRANS-2 supervisor decision
+Grind	طحن	ability	KH2	approved	3	10399,10438,10472	KH2 قرارات معلقة — بانتظار فحص العرض (needs_; KH2 in game: الهرس; sys 16941; TRANS-2 supervisor decision
+Flash Tracer	فلاش تريسر	term	KH3-new	approved	13	00098,08043,08061	TRANS-1 coined; approved by supervisor TRANS-2
+shugyo	شوغيو	term	KH3-new	approved	14	00097,00989,01008	TRANS-1 coined; approved by supervisor TRANS-2
+Trinity Sled	زلاجة ترينتي	ability	KH3-new	approved	2	12983,16303	TRANS-1 coined; approved by supervisor TRANS-2
+Mountain Coaster	قطار الجبل	ability	KH3-new	approved	3	12997,13360,16285	TRANS-1 coined; approved by supervisor TRANS-2
+Scream Strike	ضربة الصراخ	ability	KH3-new	approved	3	13130,14838,16305	TRANS-1 coined; approved by supervisor TRANS-2
+Subzero Impact	الصدمة تحت الصفر	ability	KH3-new	approved	3	13172,16316,16994	TRANS-1 coined; approved by supervisor TRANS-2
+Cover Shot	الرمية الساترة	ability	KH3-new	approved	4	13201,16214,17062	TRANS-1 coined; approved by supervisor TRANS-2
+Pole Spin	دوران العمود	ability	KH3-new	approved	3	13158,16411,17182	TRANS-1 coined; approved by supervisor TRANS-2
+Leviathan Force	قوة اللفياثان	ability	KH3-new	approved	4	10385,13262,16131	TRANS-1 coined; approved by supervisor TRANS-2
+Last Ray	الشعاع الأخير	ability	KH3-new	approved	2	13413,16234	TRANS-1 coined; approved by supervisor TRANS-2
+Return to the Light	العودة إلى النور	ability	KH3-new	approved	4	13416,14189,15212	TRANS-1 coined; approved by supervisor TRANS-2
+Verum Rex: Beat of Lead	فيروم ريكس: إيقاع الرصاص	term	KH3-new	approved	6	10354,13094,13095	TRANS-1 coined; approved by supervisor TRANS-2
+Frozen Slider	المنزلق المتجمد	term	KH3-new	approved	5	10359,13181,13184	TRANS-1 coined; approved by supervisor TRANS-2
+Tigger's Vegetable Spree	جولة تيغر للخضار	term	KH3-new	approved	2	10390,13197	TRANS-1 coined; approved by supervisor TRANS-2
+Lumpy's Fruit Parade	موكب فاكهة لمبي	term	KH3-new	approved	2	10391,13198	TRANS-1 coined; approved by supervisor TRANS-2
+Pooh's Hunny Harvest	حصاد العسل لبوه	term	KH3-new	approved	2	10392,13199	TRANS-1 coined; approved by supervisor TRANS-2
+Flan	بودينغ	term	KH3-new	approved	23	00664,00665,00666	TRANS-1: coined while translating menus_ui, needs supervisor approval; TRANS-2 supervisor decision
+The Flantastic Seven	البودينغ السبعة الرائعون	term	KH3-new	approved	2	13478,15581	TRANS-1: coined while translating menus_ui, needs supervisor approval; TRANS-2 supervisor decision
+Gummi Editor	محرر الغامي	term	KH3-new	approved	9	10532,10534,10545	TRANS-1 coined; approved by supervisor TRANS-2
+Gummi Mission	مهمة الغامي	term	KH3-new	approved	9	10678,10705,10967	TRANS-1 coined; approved by supervisor TRANS-2
+Gummi Missions	مهام الغامي	term	KH3-new	approved	10	10497,10516,10517	TRANS-1 coined; approved by supervisor TRANS-2
+Gummi LV	مستوى الغامي	term	KH3-new	approved	8	10522,10546,10680	TRANS-1 coined; approved by supervisor TRANS-2
+Starlight Way	طريق ضوء النجوم	place	KH3-new	approved	17	10910,11133,11134	TRANS-1 coined; approved by supervisor TRANS-2
+Misty Stream	التيار الضبابي	place	KH3-new	approved	20	10911,11136,11137	TRANS-1 coined; approved by supervisor TRANS-2
+The Eclipse	الكسوف	place	KH3-new	approved	19	10912,11139,11140	TRANS-1 coined; approved by supervisor TRANS-2
+Schwarzgeist	شفارتسغايست	character	KH3-new	approved	10	10625,10717,10725	TRANS-1 coined; approved by supervisor TRANS-2
+Astrowarrior	محارب النجوم	character	KH3-new	approved	6	10621,10715,11071	TRANS-1 coined; approved by supervisor TRANS-2
+Flower Guardian	حارس الزهرة	character	KH3-new	approved	6	10622,10716,11072	TRANS-1 coined; approved by supervisor TRANS-2
+Dreadshark	قرش الرعب	character	KH3-new	approved	6	10623,10718,11074	TRANS-1 coined; approved by supervisor TRANS-2
+Glacial Fortress	الحصن الجليدي	character	KH3-new	approved	6	10624,10719,11075	TRANS-1 coined; approved by supervisor TRANS-2
+Colossus Pyramid	الهرم العملاق	character	KH3-new	approved	6	10628,10721,11076	TRANS-1 coined; approved by supervisor TRANS-2
+Supreme Warrior	المحارب الأعظم	character	KH3-new	approved	6	10629,10722,11077	TRANS-1 coined; approved by supervisor TRANS-2
+Scarlet Shark	القرش القرمزي	character	KH3-new	approved	6	10630,10723,11078	TRANS-1 coined; approved by supervisor TRANS-2
+Comet Crawler	زاحف المذنب	character	KH3-new	approved	2	10631,11070	TRANS-1 coined; approved by supervisor TRANS-2
+Omega Machina	أوميغا ماكينا	character	KH3-new	approved	5	10632,11080,11189	TRANS-1 coined; approved by supervisor TRANS-2
+Space Worm	دودة الفضاء	character	KH3-new	approved	2	10627,11079	TRANS-1 coined; approved by supervisor TRANS-2
+Battle Code	رمز المعركة	term	KH3-new	approved	14	14783,14784,14785	TRANS-1 coined; approved by supervisor TRANS-2
+Support Code	رمز الدعم	term	KH3-new	approved	3	14795,14796,14797	TRANS-1 coined; approved by supervisor TRANS-2
+Merits	الاستحقاقات	term	KH3-new	approved	7	08268,10580,14750	TRANS-1 coined; approved by supervisor TRANS-2
+Sky Walk Challenge	تحدي المشي في السماء	term	KH3-new	approved	3	13534,13535,14828	TRANS-1 coined; approved by supervisor TRANS-2
+Collector's Goals	أهداف الجامع	term	KH3-new	approved	3	10293,14400,14406	TRANS-1 coined; approved by supervisor TRANS-2
+Photo Missions	مهام التصوير	term	KH3-new	approved	3	10267,14399,14405	TRANS-1 coined; approved by supervisor TRANS-2
+Kupo coin	عملة كوبو	item	KH3-new	approved	4	10271,12878,13474	TRANS-1 coined; approved by supervisor TRANS-2
+bistro	المطعم	place	KH3-new	approved	38	03227,07306,07317	TRANS-1 coined; approved by supervisor TRANS-2
+AR device	جهاز AR	term	KH3-new	approved	15	00993,01003,01211	TRANS-1: coined while translating menus_ui, needs supervisor approval; TRANS-2 supervisor decision
+Ice Titan	تيتان الجليد	character	KH3-new	approved	2	00542,16976	TRANS-1 coined; approved by supervisor TRANS-2
+Lava Titan	تيتان الحمم	character	KH3-new	approved	2	00543,16977	TRANS-1 coined; approved by supervisor TRANS-2
+Tornado Titan	تيتان الإعصار	character	KH3-new	approved	4	00544,13002,13004	TRANS-1 coined; approved by supervisor TRANS-2
+Neoshadow	الظل الجديد	character	KH3-new	approved	1	00612	TRANS-1 coined; approved by supervisor TRANS-2
+Shadow	الظل	character	KH3-new	approved	15	00611,00803,02291	TRANS-1 coined; approved by supervisor TRANS-2
+Popcat	بوب كات	character	KH3-new	approved	5	00627,00628,00629	TRANS-1 coined; approved by supervisor TRANS-2
+Chief Puff	الزعيم المنتفخ	character	KH3-new	approved	2	00643,14379	TRANS-1 coined; approved by supervisor TRANS-2
+Demon Tower	برج الشياطين	character	KH3-new	approved	6	00654,13421,13422	TRANS-1 coined; approved by supervisor TRANS-2
+Demon Tide	مد الشياطين	character	KH3-new	approved	12	00653,13016,13364	TRANS-1 coined; approved by supervisor TRANS-2
+Lich	الليتش	character	KH3-new	approved	12	00662,01416,13308	TRANS-1 coined; approved by supervisor TRANS-2
+Dark Inferno	الجحيم المظلم	character	KH3-new	approved	6	00617,00671,13380	TRANS-1 coined; approved by supervisor TRANS-2
+Mechanitaur	القنطور الآلي	character	KH3-new	approved	1	00636	TRANS-1 coined; approved by supervisor TRANS-2
+Satyr	الساتير	character	KH3-new	approved	1	00635	TRANS-1 coined; approved by supervisor TRANS-2
+Cactuar	كاكتوار	character	KH3-new	approved	5	11100,11208,11362	TRANS-1 coined; approved by supervisor TRANS-2
+Tonberry	تونبيري	character	KH3-new	approved	4	11104,11212,11363	TRANS-1 coined; approved by supervisor TRANS-2
+Selfie Poses	أوضاع التصوير الذاتي	term	KH3-new	approved	1	13834	TRANS-1 coined; approved by supervisor TRANS-2
+Critical Mode	الوضع الحرج	menu	KH3-new	approved	3	13808,13839,13947	TRANS-1 coined; approved by supervisor TRANS-2
+Standard Mode	الوضع العادي	menu	KH3-new	approved	2	13837,13945	TRANS-1: coined while translating menus_ui, needs supervisor approval; TRANS-2 supervisor decision
+Teeny Ship α	سفينة صغيرة α	term	KH3-new	approved	2	10958,11008	TRANS-1: coined while translating menus_ui, needs supervisor approval; TRANS-2 supervisor decision
+Teeny Ship β	سفينة صغيرة β	term	KH3-new	approved	2	10959,11009	TRANS-1: coined while translating menus_ui, needs supervisor approval; TRANS-2 supervisor decision
+Surge	التسارع	ability	KH3-new	approved	6	04145,10347,13299	TRANS-1: coined while translating menus_ui, needs supervisor approval; TRANS-2 supervisor decision; SWAP-1: title 14239 "..." keeps أول فيض من المشاعر (title text, not the term)
+Draw Card	سحب بطاقة	ability	KH3-new	approved	3	13443,13444,16240	TRANS-1 coined; approved by supervisor TRANS-2
+Doom	الهلاك	term	KH3-new	approved	4	13445,13446,15508	TRANS-1 coined; approved by supervisor TRANS-2
+Selfie	التصوير الذاتي	term	KH3-new	approved	6	10277,10279,13834	TRANS-1 coined; approved by supervisor TRANS-2
+Frost	الجليدية	term	KH3-new	approved	9	00657,10616,12578	TRANS-1 coined; approved by supervisor TRANS-2
+Blazing	المشتعلة	term	KH3-new	approved	6	12574,12575,12576	TRANS-1 coined; approved by supervisor TRANS-2
+Stock	المخزون	menu	KH3-new	approved	14	00130,00186,00200	TRANS-2 supervisor: count column / "..." (command Stock = تخزين stays for the KH2 command)
+Warp	انتقال سريع	menu	KH3-new	approved	13	10386,10519,10704	TRANS-2 supervisor: fast travel in the world map (KH2 Warp = التحول stays for the KH2 command)
+Heartless Hunter	صائد البلا قلب	term	KH3-new	approved	1	11081	TRANS-2 supervisor: noun + البلا قلب pattern
+Heartless Harrier	مطارد البلا قلب	term	KH3-new	approved	1	11082	TRANS-2 supervisor: noun + البلا قلب pattern
+Heartless Menacer	مهدد البلا قلب	term	KH3-new	approved	1	11083	TRANS-2 supervisor: noun + البلا قلب pattern
+Heartless Destroyer	مدمر البلا قلب	term	KH3-new	approved	1	11084	TRANS-2 supervisor: noun + البلا قلب pattern
+Heartless Obliterator	ماحق البلا قلب	term	KH3-new	approved	1	11085	TRANS-2 supervisor: noun + البلا قلب pattern
+Resistance	مقاومة	term	KH3-new	approved	44	12393,12396,12397	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Reprisal	الثأر	ability	KH3-new	approved	12	10341,16423,16602	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Combo finisher	ضربة ختامية	term	KH3-new	approved	54	10335,16593,16594	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Risk Dodge	التفادي المحفوف بالمخاطر	ability	KH3-new	approved	1	16359	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Synthesis material	مادة تركيب	term	KH3-new	approved	62	12634,12635,12636	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Shard	شظية	item	KH3-new	approved	13	12574,12578,12582	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Stone	حجر	item	KH3-new	approved	32	08228,09644,11571	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Gem	جوهرة	item	KH3-new	approved	13	12576,12580,12584	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Crystal	بلورة	item	KH3-new	approved	50	00294,00295,00296	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Heartbinder	رابط القلب	item	KH3-new	approved	10	07675,12870,12871	supervisor decision REVIEW-1
+Situation command	أمر الموقف	term	KH3-new	approved	19	00424,10292,10307	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Team attack	هجوم الفريق	term	KH3-new	approved	6	10286,16473,16720	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Teeny ship	سفينة صغيرة	term	KH3-new	approved	18	08734,10511,10531	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Gummi block	كتلة غامي	term	KH3-new	approved	17	10550,10551,10552	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Blueprint Fragment	جزء مخطط	item	KH3-new	approved	46	10651,11780,11781	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Prize Postcard	بطاقة بريدية للجوائز	item	KH3-new	approved	2	12868,13024	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+M.O.G. Card	بطاقة M.O.G.	item	KH3-new	approved	1	12869	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Treasure Prize	جائزة الكنز	item	KH3-new	approved	1	12880	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Secret Report	تقرير سري	item	KH3-new	approved	13	12964,12965,12966	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Highwind	هايويند	item	KH3-new	approved	14	11825,11828,11831	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Falcon	فالكون	item	KH3-new	approved	11	11826,11829,11832	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Invincible	إنفينسيبل	item	KH3-new	approved	13	02223,11827,11830	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Dive	غوص	ability	KH3-new	approved	19	02198,04372,07618	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Rush	اجتياح	ability	KH3-new	approved	9	02161,06882,07937	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Counter	الرد	ability	KH3-new	approved	32	10326,10341,12289	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Backlash	رد الفعل	ability	KH3-new	approved	1	16011	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Knockback	الإزاحة	ability	KH3-new	approved	1	16174	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Peak	الذروة	term	KH3-new	approved	6	11837,11838,11839	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Burning	الحرق	term	KH3-new	approved	2	14585,16711	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Stun	الذهول	term	KH3-new	approved	5	10346,16274,16468	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Sneeze	العطس	term	KH3-new	approved	6	10439,10473,16015	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Electrified	الكهرباء	term	KH3-new	approved	4	08912,13135,16715	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Max HP	أقصى HP	term	KH3-new	approved	43	00041,00141,12810	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Maximum AP	أقصى AP	term	KH3-new	approved	46	12490,12491,12492	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Equippable	قابل للتجهيز	term	KH3-new	approved	11	12558,12559,12560	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Flowmotion maneuver	مناورة الحركة الانسيابية	term	KH3-new	approved	5	16655,16657,16659	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Grand magic	السحر الكبير	term	KH3-new	approved	8	10264,10292,14806	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Excellent	ممتاز	term	KH3-new	approved	5	03668,14795,15569	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Flanniversary Badge	شارة ذكرى البودينغ	item	KH3-new	approved	1	12487	TRANS-2: coined while translating items_abilities, needs supervisor approval; SWAP-1: approved as is
+Fire Resistance	مقاومة النار	term	KH3-new	approved	7	12396,12397,12398	SWAP-1: supervisor (elemental resistance = element noun / Donald spell in KH2 order)
+Blizzard Resistance	مقاومة الجليد	term	KH3-new	approved	7	12400,12401,12402	SWAP-1: supervisor (elemental resistance = element noun / Donald spell in KH2 order)
+Thunder Resistance	مقاومة الصاعقة	term	KH3-new	approved	7	12404,12405,12406	SWAP-1: supervisor (elemental resistance = element noun / Donald spell in KH2 order)
+Water Resistance	مقاومة الماء	term	KH3-new	approved	5	12412,12413,12414	SWAP-1: supervisor (elemental resistance = element noun / Donald spell in KH2 order)
+Aero Resistance	مقاومة الهواء	term	KH3-new	approved	5	12415,12416,12417	SWAP-1: supervisor (elemental resistance = element noun / Donald spell in KH2 order)
+Dark Resistance	مقاومة الظلام	term	KH3-new	approved	18	12393,12408,12409	SWAP-1: supervisor (elemental resistance = element noun / Donald spell in KH2 order)
+Donald Fire	نار دونالد	term	KH3-new	approved	1	16367	user decision FULL-1: replaces the transliterated form (was: SWAP-1: supervisor (elemental resistance = element noun / Do)
+Donald Blizzard	جليد دونالد	term	KH3-new	approved	1	16368	user decision FULL-1: replaces the transliterated form (was: SWAP-1: supervisor (elemental resistance = element noun / Do)
+Donald Thunder	صاعقة دونالد	term	KH3-new	approved	1	16369	user decision FULL-1: replaces the transliterated form (was: SWAP-1: supervisor (elemental resistance = element noun / Do)
+Donald Cure	شفاء دونالد	term	KH3-new	approved	1	16371	user decision FULL-1: replaces the transliterated form (was: SWAP-1: supervisor (elemental resistance = element noun / Do)
+Spiked Turtletoad	سلحفاة الضفدع الشوكية	character	KH3-new	proposed	3	00682,16904,16905	TRANS-3 executor proposal (tutorials/journal)
+Catastrochorus	الكاتاستروكوراس	character	KH3-new	proposed	2	00663,16906	TRANS-3 executor proposal (tutorials/journal)
+Powerwild	باورويلد	character	KH3-new	proposed	1	00640	TRANS-3 executor proposal (tutorials/journal)
+King of Toys	ملك الألعاب	character	KH3-new	proposed	2	00655,16922	TRANS-3 executor proposal (tutorials/journal)
+Lightning Angler	صياد البرق	character	KH3-new	proposed	3	00660,16924,16925	TRANS-3 executor proposal (tutorials/journal)
+Grim Guardianess	الحارسة القاتمة	character	KH3-new	proposed	2	00656,16928	TRANS-3 executor proposal (tutorials/journal)
+Lump of Horror	كتلة الرعب	character	KH3-new	proposed	5	00684,00686,00687	TRANS-3 executor proposal (tutorials/journal)
+Marionette	الدمية المتحركة	character	KH3-new	proposed	7	00639,15554,15555	TRANS-3 executor proposal (tutorials/journal)
+Supreme Smashers	المحطمون الأسمى	character	KH3-new	proposed	2	16990,16991	TRANS-3 executor proposal (tutorials/journal)
+Sköll	سكول	character	KH3-new	proposed	3	00658,16992,16993	TRANS-3 executor proposal (tutorials/journal)
+Rock Troll	ترول الصخر	character	KH3-new	proposed	3	00633,15500,16919	TRANS-3 executor proposal (tutorials/journal)
+Flame Core	لب اللهب	character	KH3-new	proposed	2	00614,14375	TRANS-3 executor proposal (tutorials/journal)
+Frost Serpent	ثعبان الصقيع	character	KH3-new	proposed	1	00657	TRANS-3 executor proposal (tutorials/journal)
+Darkside	دارك سايد	character	KH3-new	proposed	3	00652,00672,16983	TRANS-3 executor proposal (tutorials/journal)
+Care Spray	رذاذ العناية	ability	KH3-new	proposed	3	16187,16394,16934	TRANS-3 executor proposal (tutorials/journal)
+Aerial Dodge	المراوغة الجوية	ability	KH3-new	proposed	8	16142,16186,16352	TRANS-3 executor proposal (tutorials/journal)
+Sky Strike	الضربة السماوية	ability	KH3-new	proposed	2	16320,16936	TRANS-3 executor proposal (tutorials/journal)
+Cover Slide	الانزلاق الساتر	ability	KH3-new	proposed	3	16215,17061,17076	TRANS-3 executor proposal (tutorials/journal)
+Splash Run	ركضة الرذاذ	ability	KH3-new	proposed	2	16288,17058	TRANS-3 executor proposal (tutorials/journal)
+Goofy Bombardier	غوفي القاصف	ability	KH3-new	proposed	3	15482,16304,16932	TRANS-3 executor proposal (tutorials/journal)
+Showdown	المواجهة الحاسمة	ability	KH3-new	proposed	5	06844,14026,14277	TRANS-3 executor proposal (tutorials/journal)
+Thinking of You	أفكر بك	ability	KH3-new	proposed	2	16323,17003	TRANS-3 executor proposal (tutorials/journal)
+Trinity Guard	حرس ترينتي	ability	KH3-new	proposed	3	15501,16302,17047	TRANS-3 executor proposal (tutorials/journal)
+Dark Firaga	نار كبرى مظلمة	ability	KH3-new	approved	3	16064,16958,16987	user decision FULL-1: replaces the transliterated form (was: TRANS-3 executor proposal (tutorials/journal))
+Pirate Ship	سفينة القراصنة	other	KH3-new	proposed	2	16284,17204	TRANS-3 executor proposal (tutorials/journal)
+Wall Kick	ركلة الجدار	other	KH3-new	proposed	2	16413,17180	TRANS-3 executor proposal (tutorials/journal)
+diving strike	ضربة الانقضاض	other	KH3-new	proposed	3	16013,17175,17176	TRANS-3 executor proposal (tutorials/journal)
+Power of Waking	قوة اليقظة	other	KH3-new	proposed	33	01420,02115,02428	TRANS-3 executor proposal (tutorials/journal)
+Sleeping Worlds	عوالم النوم	other	KH3-new	proposed	5	01412,03087,07037	TRANS-3 executor proposal (tutorials/journal)
+Dandelion	الهندباء	other	KH3-new	proposed	0		TRANS-3 executor proposal (tutorials/journal)
+Lost Masters	المعلمون المفقودون	other	KH3-new	proposed	5	00728,14249,15169	TRANS-3 executor proposal (tutorials/journal)
+Master of Masters	معلم المعلمين	other	KH3-new	proposed	1	15170	TRANS-3 executor proposal (tutorials/journal)
+Gazing Eye	العين الناظرة	other	KH3-new	proposed	2	00740,15170	TRANS-3 executor proposal (tutorials/journal)
+Lost Page	الصفحة المفقودة	other	KH3-new	proposed	1	15168	TRANS-3 executor proposal (tutorials/journal)
+Subject X	العينة X	other	KH3-new	proposed	2	15160,15161	TRANS-3 executor proposal (tutorials/journal)
+Pureblood	النقي	other	KH3-new	proposed	0		TRANS-3 executor proposal (tutorials/journal)
+Emblem Heartless	بلا قلب الشعار	other	KH3-new	proposed	1	15206	TRANS-3 executor proposal (tutorials/journal)
+Spirit	الروح	other	KH3-new	proposed	4	03109,04449,11733	TRANS-3 executor proposal (tutorials/journal)
+Nightmare	الكابوس	other	KH3-new	proposed	1	11735	TRANS-3 executor proposal (tutorials/journal)
+dark corridor	الممر المظلم	other	KH3-new	proposed	7	00066,06914,06918	TRANS-3 executor proposal (tutorials/journal)
+vessel	الوعاء	other	KH3-new	proposed	25	01341,01495,01618	TRANS-3 executor proposal (tutorials/journal)
+Datascape	عالم البيانات	other	KH3-new	approved	4	02455,07039,07205	supervisor decision REVIEW-1
+The Replica Program	برنامج النسخ	other	KH3-new	proposed	6	01248,15164,15167	TRANS-3 executor proposal (tutorials/journal)
+Ansem's Code	شفرة أنسيم	other	KH3-new	proposed	6	03089,03174,07219	TRANS-3 executor proposal (tutorials/journal)
+The Black Box	الصندوق الأسود	other	KH3-new	proposed	3	07028,14029,15192	TRANS-3 executor proposal (tutorials/journal)
+The Old Words	الكلمات القديمة	other	KH3-new	proposed	1	15193	TRANS-3 executor proposal (tutorials/journal)
+The Three Realms	العوالم الثلاثة	other	KH3-new	proposed	1	15185	TRANS-3 executor proposal (tutorials/journal)
+Ocean Between	المحيط البيني	other	KH3-new	proposed	3	10505,10515,10517	TRANS-3 executor proposal (tutorials/journal)
+realm between	العالم البيني	other	KH3-new	proposed	2	15212,15216	TRANS-3 executor proposal (tutorials/journal)
+Gummi Radar	رادار الغامي	other	KH3-new	proposed	4	10494,10513,10522	TRANS-3 executor proposal (tutorials/journal)
+Berserk Gauge	عداد الهياج	other	KH3-new	proposed	4	17002,17004,17032	TRANS-3 executor proposal (tutorials/journal)
+Chain Bonus	مكافأة السلسلة	other	KH3-new	proposed	4	10343,10373,10374	TRANS-3 executor proposal (tutorials/journal)
+Frozen	ملكة الثلج	other	KH3-new	approved	21	02684,02980,03031	film title (common Arabic dub title); supervisor BUILD-1
+Toy Story	حكاية لعبة	other	KH3-new	approved	6	15275,15276,15277	film title (common Arabic dub title); supervisor BUILD-1
+Tangled	متشابك	other	KH3-new	proposed	8	14689,14740,15281	pending: supervisor to verify (film title, BUILD-1)
+Blizzard	جليد	magic	FULL-1	approved	35	00016,11431,11742	user decision FULL-1: new row
+Thunder	صاعقة	magic	FULL-1	approved	28	00018,07856,11445	user decision FULL-1: new row
+Donald Aero	ريح دونالد	term	FULL-1	approved	1	16370	user decision FULL-1: new row
+Fire Boost	تعزيز النار	term	FULL-1	approved	1	16424	user decision FULL-1: new row
+Titans	التيتان	character	KH3-new	approved	10	03261,03263,03297	supervisor REVIEW-1
+The Fates	ربات القدر	character	KH3-new	approved	2	03255,05660	supervisor REVIEW-1
+Meg	ميغ	character	KH3-new	approved	6	03347,03361,03366	supervisor REVIEW-1
+Styx	نهر ستيكس	place	KH3-new	approved	1	03335	supervisor REVIEW-1
+Pandora's Box	صندوق باندورا	item	KH3-new	approved	1	03592	supervisor REVIEW-1
+Master Aqua	المعلمة أكوا	character	KH3-new	approved	3	07612,07635,15130	supervisor REVIEW-1
+Black Pearl	اللؤلؤة السوداء	item	KH3-new	approved	27	00086,00087,01699	supervisor REVIEW-1
+Brethren Court	مجلس الإخوة	term	KH3-new	approved	2	01533,01665	supervisor REVIEW-1
+Isla de Muerta	جزيرة الموتى	place	KH3-new	approved	1	01505	supervisor REVIEW-1
+Pirate Code	شريعة القراصنة	term	KH3-new	approved	1	08112	supervisor REVIEW-1
+Monsters, Incorporated	شركة المرعبين المحدودة	place	KH3-new	approved	10	04787,08983,08984	supervisor REVIEW-1
+Buzz Lightyear	باز لايتير	character	KH3-new	approved	1	06525	supervisor REVIEW-1
+Replica	نسخة	term	KH3-new	approved	38	00491,00518,01248	supervisor REVIEW-1
+Luxu	لوكسو	character	KH3-new	approved	2	06071,06086	supervisor REVIEW-1
+Ava	آفا	character	KH3-new	approved	2	06080,06084	supervisor REVIEW-1
+Isa	إيسا	character	KH3-new	approved	2	04023,04101	supervisor REVIEW-1
+Sea-Salt Ice Cream	مثلجات ملح البحر	item	KH3-new	approved	3	07172,11925,14564	supervisor REVIEW-1
+Mr. McDuck	السيد ماكدك	character	KH3-new	approved	2	07339,09948	supervisor REVIEW-1
+Keyblade Hero 3	أبطال الكيبلايد الثلاثة	term	KH3-new	approved	6	00955,01082,07854	supervisor REVIEW-1
+Microbots	الروبوتات الدقيقة	term	KH3-new	approved	8	01114,01115,01118	supervisor REVIEW-1
+Zettaflare	زيتافلير	magic	KH3-new	approved	2	03749,04397	supervisor REVIEW-1
+Stopza	ستوبزا	magic	KH3-new	approved	2	04174,04620	supervisor REVIEW-1
+Golden Herc	تمثال هرقل الذهبي	item	KH3-new	approved	2	09794,12875	supervisor REVIEW-1
+Krei Tech	كراي تك	place	KH3-new	approved	1	09455	supervisor REVIEW-1
+Slinky	سلينكي	character	KH3-new	approved	2	06531,06532	supervisor REVIEW-1
+Bahamut	باهاموت	character	KH3-new	approved	2	06530,06879	supervisor REVIEW-1
+Data-Sora	سورا الرقمي	character	KH3-new	approved	1	07049	supervisor REVIEW-1
+Datascapes	عوالم البيانات	other	KH3-new	approved	2	14040,15186	supervisor decision REVIEW-1
+Altair	الطائر	character	KH3-new	approved	1	11914	supervisor decision REVIEW-1
+Dream Heartbinder	رابط قلب الحلم	item	KH3-new	approved	1	12870	unchanged; supervisor decision REVIEW-1
+Pixel Heartbinder	رابط قلب البكسل	item	KH3-new	approved	1	12871	named variant, form as Dream Heartbinder (supervisor: Dream unchanged); REVIEW-1
+'Ohana Heartbinder	رابط قلب أوهانا	item	KH3-new	approved	1	12872	named variant, form as Dream Heartbinder (supervisor: Dream unchanged); REVIEW-1
+Pride Heartbinder	رابط قلب الفخر	item	KH3-new	approved	1	12873	named variant, form as Dream Heartbinder (supervisor: Dream unchanged); REVIEW-1
+Ocean Heartbinder	رابط قلب المحيط	item	KH3-new	approved	1	12874	named variant, form as Dream Heartbinder (supervisor: Dream unchanged); REVIEW-1
+Komory Bat	خفاش كومري	term	ReMind	proposed	1	14527	TRANS-5: Dream Eater name, transliterated like Necho Cat
+Tubguin Ace	تابغوين إيس	term	ReMind	proposed	1	14528	TRANS-5: Dream Eater name, transliterated like Necho Cat
+Tama Sheep	خروف تاما	term	ReMind	proposed	1	14529	TRANS-5: Dream Eater name, transliterated like Necho Cat
+Pricklemane	بريكلمين	term	ReMind	proposed	1	14530	TRANS-5: Dream Eater name, transliterated like Necho Cat
+Hebby Repp	هيبي ريب	term	ReMind	proposed	1	14532	TRANS-5: Dream Eater name, transliterated like Necho Cat
+Lord Kyroo	اللورد كيرو	term	ReMind	proposed	1	14535	TRANS-5: Dream Eater name, transliterated like Necho Cat
+Ryu Dragon	تنين ريو	term	ReMind	proposed	1	14536	TRANS-5: Dream Eater name, transliterated like Necho Cat
+Escarglow	إسكارغلو	term	ReMind	proposed	1	14537	TRANS-5: Dream Eater name, transliterated like Necho Cat
+Dearly Beloved -Reprise-	ديرلي بيلوفد -إعادة-	other	ReMind	proposed	1	14685	TRANS-5: Data Greeting/Slideshow music title, transliterated
+Hand in Hand ～Attraction Flow～	هاند إن هاند ～أتراكشن فلو～	other	ReMind	proposed	1	14686	TRANS-5: Data Greeting/Slideshow music title, transliterated
+Working Together -Tres Version-	ووركينغ توغيذر -نسخة تريس-	other	ReMind	proposed	1	14687	TRANS-5: Data Greeting/Slideshow music title, transliterated
+Wave of Darkness	موجة الظلام	other	ReMind	proposed	2	03260,14688	TRANS-5: Data Greeting/Slideshow music title, transliterated
+Tangled à la Mode	تانغلد آلا مود	other	ReMind	proposed	1	14689	TRANS-5: Data Greeting/Slideshow music title, transliterated

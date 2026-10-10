@@ -1,0 +1,498 @@
+id	namespace	key	source_hash	AR	status	note
+05222	kh3_event_ra.ra301a	ra3010010ra0	92d0a7e5	<i(on)>لماذا لا أستطيع الخروج?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05223	kh3_event_ra.ra301a	ra3010020gt0_1	049b90e8	<i(on)>العالم الخارجي مكان خطير.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05224	kh3_event_ra.ra301a	ra3010020gt0_2	162e3f06	<i(on)>يجب أن تبقي هنا، حيث أنت بأمان.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05225	kh3_event_ra.ra301a	ra3010020gt0_3	ae925863	<i(on)>هل تفهمين يا زهرتي?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05226	kh3_event_ra.ra301a	ra3010030ra0_1	521cf547	<i(on)>تلك الأضواء تظهر كل عام في عيد ميلادي—<br>في عيد ميلادي فقط.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05227	kh3_event_ra.ra301a	ra3010030ra0_2	40a95aa9	<i(on)>ولا أستطيع إلا أن أشعر أنها...<br>أنها من أجلي.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05228	kh3_event_ra.ra301a	ra3010030ra0_3	f8153dcc	<i(on)>أريد أن أراها.<br>لا من نافذتي فقط... بل بعيني.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05229	kh3_event_ra.ra301a	ra3010030ra0_4	65c20575	<i(on)>يجب أن أعرف ما هي.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05230	kh3_event_ra.ra301a	ra_worldname	88ee9d9c		todo	
+05231	kh3_event_ra.ra302a	ra3020020go0	75576a4e	يا له من يوم جميل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05232	kh3_event_ra.ra302a	ra3020030sr0	f890a371	نعم، الطقس رائع.<br>مثالي لنزهة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05233	kh3_event_ra.ra302a	ra3020040do0	86ea256b	لماذا تظن أننا جئنا <i(on)>إلى هنا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05234	kh3_event_ra.ra302a	ra3020050sr0	7cb33ea4	لا أدري يا دونالد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05235	kh3_event_ra.ra302a	ra3020060go0	3bba8117	سنكتشف ذلك في الطريق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05236	kh3_event_ra.ra302a	ra3020070do0	294368a1	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05237	kh3_event_ra.ra302a	ra3020080sr0	cae23809	أنا متأكد أننا جئنا إلى هذا العالم<br>لسبب وجيه <i(on)>ما<i(off)>، لكن ألا يمكننا القلق لاحقا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05238	kh3_event_ra.ra302a	ra3020080sr0b	f0e2a1f6		todo	
+05239	kh3_event_ra.ra302a	ra3020090do0	30bb23c6	لا مانع لدي، ما دام لا يوجد بلا قلب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05240	kh3_event_ra.ra302a	ra3020220fy0	8d1dd282	أفسحوا الطريق! أفسحوا الطريق! أفسحوا الطريق!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05241	kh3_event_ra.ra302a	ra3020270sr0	6f468427	بلا قلب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05242	kh3_event_ra.ra302a	ra3020290sr0	76becf40	أرأيتم? ما إن تذكرهم حتى يظهروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05243	kh3_event_ra.ra302a	ra3020310go0	82e08eac	وداعا لنزهتنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05244	kh3_event_ra.ra302a	ra3020320do0	5ad71196	لم أفعل شيئا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05245	kh3_event_ra.ra302a	ra3020330sr0	a08e0a59	لا بأس. لنطرد هؤلاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05246	kh3_event_ra.ra302a	ra3020340fy0	881b2a70	بما أنكم الثلاثة تبدون خبراء،<br>هل تمانعون أن أترك هذه المعركة لكم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05247	kh3_event_ra.ra302a	ra3020350sr0	24ad978c	نعم. سنتولى أمرهم.<br>هيا، اهرب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05248	kh3_event_ra.ra302a	ra3020360fy0_1	8dc2a5b4	لكم شكري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05249	kh3_event_ra.ra302a	ra3020360fy0_2	9f770a5a	الحصان كان كافيا.<br>لا أحتاج إلى وحوش تلاحقني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05250	kh3_event_ra.ra302a	ra3020370do0	715dc189	<i(on)>ماذا<i(off)> كان كافيا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05251	kh3_event_ra.ra302a	ra3020380fy0_1	85d14312	آه، لا شيء، لا شيء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05252	kh3_event_ra.ra302a	ra3020380fy0_2	9764ecfc	اسمي فلين. فلين رايدر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05253	kh3_event_ra.ra302a	ra3020390fy0	3e4a2cdd	أوه! احذروا، يبدون غاضبين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05254	kh3_event_ra.ra302a	ra3020400fy0	f7eef65e	ببطء... ببطء...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05255	kh3_event_ra.ra302a	ra3020400fy0b	c9d42eba	أنا راحل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05256	kh3_event_ra.ra303a	ra3030010sr0	c384d057	ماذا? أين ذهب فلين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05257	kh3_event_ra.ra303a	ra3030020do0	f313bd14	هرب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05258	kh3_event_ra.ra303a	ra3030030go0	e1ea54a2	أظنني رأيته يذهب من هناك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05259	kh3_event_ra.ra303a	ra3030040sr0	e80e0048	ماذا? لكن "هناك"... طريق مسدود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05260	kh3_event_ra.ra303a	ra3030050go0	65c9c977	نعم. هذا محير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05261	kh3_event_ra.ra303a	ra3030060do0	bdfe564d	إذن، هل ذهب من هناك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05262	kh3_event_ra.ra303a	ra3030070go0	af07bffb		todo	
+05263	kh3_event_ra.ra303a	ra3030080sr0	3b383da3	أقترح أن نتحرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05264	kh3_event_ra.ra304a	ra3040010do0	e42fe24b	لا يمكن أن يكون قد جاء من هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05265	kh3_event_ra.ra304a	ra3040030sr0	b1dfb44e	على الأقل نجا بنفسه. صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05266	kh3_event_ra.ra304a	ra3040050go0	dd5cdbe2	مهلا! والآن اختفى سورا أيضا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05267	kh3_event_ra.ra304a	ra3040060sr0	9a556451	من هنا يا رفاق! إنه ممر سري!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05268	kh3_event_ra.ra305a	ra3050020fy0_1	b837aa28	كيف حالك? اسمي فلين رايدر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05269	kh3_event_ra.ra305a	ra3050020fy0_2	aa8205c6	كيف يمضي يومك? هاه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05270	kh3_event_ra.ra305a	ra3050030ra0	2994cb43	من غيرك يعرف مكاني يا فلين رايدر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05271	kh3_event_ra.ra305a	ra3050040fy0	689091cd	حسنا، تمهلي يا شقراء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05272	kh3_event_ra.ra305a	ra3050050ra0	adb75696	رابونزل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05273	kh3_event_ra.ra305a	ra3050060fy0_1	bee05e5c	يرحمك الله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05274	kh3_event_ra.ra305a	ra3050060fy0_2	ac55f1b2	إليك الأمر. كنت في ورطة، أتجول<br>في الغابة حين عثرت على—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05275	kh3_event_ra.ra305a	ra3050060fy0_3	14e996d7		todo	
+05276	kh3_event_ra.ra305a	ra3050070fy0	c739dc07	أوه! لا لا! لا لا لا!<br>أين حقيبتي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05277	kh3_event_ra.ra305a	ra3050080ra0	1be6503b	خبأتها. في مكان لن تجدها فيه أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05278	kh3_event_ra.ra305a	ra3050090ra0	7e816b7d	إذن، ماذا تريد من شعري?<br>أن تقصه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05279	kh3_event_ra.ra305a	ra3050100fy0	a7581fb3	ما—?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05280	kh3_event_ra.ra305a	ra3050110ra0	627fd8e8	أن تبيعه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05281	kh3_event_ra.ra305a	ra3050120fy0	6d96693f	لا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05282	kh3_event_ra.ra305a	ra3050130ra0	a8b1ae64	مهلا. أنت <i(on)>لا<i(off)> تريد شعري?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05283	kh3_event_ra.ra305a	ra3050140fy0_1	4c51a1cc	ولماذا قد أريد شعرك بحق السماء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05284	kh3_event_ra.ra305a	ra3050140fy0_2	5ee40e22	اسمعي، كانوا يطاردونني،<br>رأيت برجا، فتسلقته، اتفقنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05285	kh3_event_ra.ra305a	ra3050140fy0_3	e6586947	انتهت القصة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05286	kh3_event_ra.ra305a	ra3050170ra0	e65c453d	حسنا يا فلين رايدر.<br>أنا مستعدة لأعرض عليك صفقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05287	kh3_event_ra.ra305a	ra3050180fy0	3a83c901	صفقة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05288	kh3_event_ra.ra305a	ra3050190ra0	ffa40e5a	انظر من هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05289	kh3_event_ra.ra305a	ra3050210ra0	3a6171c0	أتعرف ما هذه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05290	kh3_event_ra.ra305a	ra3050220fy0	3588c017	تقصدين الفوانيس التي<br>يطلقونها من أجل الأميرة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05291	kh3_event_ra.ra305a	ra3050230ra0	f0af074c	فوانيس? كنت أعرف أنها ليست نجوما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05292	kh3_event_ra.ra305a	ra3050240ra0_1	be5148de	مساء الغد سيضيئون<br>سماء الليل بهذه "الفوانيس".	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05293	kh3_event_ra.ra305a	ra3050240ra0_2	ace4e730	<i(on)>ستكون<i(off)> دليلي، وتأخذني إلى هذه الفوانيس،<br>وتعيدني إلى البيت سالمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05294	kh3_event_ra.ra305a	ra3050240ra0_2b	099f073b		todo	
+05295	kh3_event_ra.ra305a	ra3050240ra0_3	14588055	حينها، وحينها فقط،<br>سأعيد إليك حقيبتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05296	kh3_event_ra.ra305a	ra3050240ra0_4	898fb8ec	هذه صفقتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05297	kh3_event_ra.ra305a	ra3050250fy0_1	84fb546e	نعم... لا يمكنني. للأسف...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05298	kh3_event_ra.ra305a	ra3050250fy0_2	964efb80	علاقتي بالمملكة ليست<br>"ودية" تماما هذه الأيام،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05299	kh3_event_ra.ra305a	ra3050250fy0_3	2ef29ce5	لذا لن آخذك إلى أي مكان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05300	kh3_event_ra.ra305a	ra3050270ra0_1	bc8f4ff9	شيء ما جاء بك إلى هنا يا فلين رايدر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05301	kh3_event_ra.ra305a	ra3050270ra0_2	ae3ae017	سمه ما شئت: القدر، المصير...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05302	kh3_event_ra.ra305a	ra3050270ra0_3	16868772	لذا قررت أن أثق بك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05303	kh3_event_ra.ra305a	ra3050280fy0	629d6029	قرار فظيع حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05304	kh3_event_ra.ra305a	ra3050290ra0	a7baa772	أنا جادة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05305	kh3_event_ra.ra305a	ra3050310fy0_1	73f6a5b0	دعيني أفهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05306	kh3_event_ra.ra305a	ra3050310fy0_2	61430a5e	آخذك لرؤية الفوانيس،<br>وأعيدك إلى البيت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05307	kh3_event_ra.ra305a	ra3050310fy0_2b	77cf50db	ثم تعيدين إلي حقيبتي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05308	kh3_event_ra.ra305a	ra3050320ra0	14ed592d	أعدك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05309	kh3_event_ra.ra305a	ra3050330ra0	718a626b	وحين أعد بشيء،<br>لا أخلف وعدي أبدا، أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05310	kh3_event_ra.ra305a	ra3050340ra0	90cec4f8	أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05311	kh3_event_ra.ra305a	ra3050350fy0_1	752151c4	<i(on)>آه، ماذا أفعل? لا يمكنني أن أدعها تجد ذلك التاج.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05312	kh3_event_ra.ra305a	ra3050350fy0_2	6794fe2a	<i(on)>حسنا، فكر فقط...<br>أحتاج الحقيبة والشقراء تملكها.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05313	kh3_event_ra.ra305a	ra3050350fy0_2b	06454af1	<i(on)>قد يكون هناك المزيد من الوحوش في الخارج...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05314	kh3_event_ra.ra305a	ra3050350fy0_3	df28994f	<i(on)>وجدتها! الرجال الثلاثة بالملابس المضحكة.<br>بدوا أقوياء بما يكفي ليكونوا مفيدين.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05315	kh3_event_ra.ra305a	ra3050360fy0_1	77ff56e3	حسنا، لا بأس، سآخذك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05316	kh3_event_ra.ra305a	ra3050360fy0_2	654af90d	لكن بشرط واحد:<br>أن يرافقنا مساعدي الثلاثة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05317	kh3_event_ra.ra306a	ra3060010sr0	43d4cfd7	انظروا إلى ذلك. برج!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05318	kh3_event_ra.ra306a	ra3060030sr0	891ab95b	لنتفقده!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05319	kh3_event_ra.ra307a	ra3070040ra0	f01560c5	إنه ناعم جدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05320	kh3_event_ra.ra307a	ra3070050ra0	95725b83	أنا حرة... أنا حرة حقا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05321	kh3_event_ra.ra307a	ra3070070sr0	362d57a8	فلين، يسعدني أن أراك سالما!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05322	kh3_event_ra.ra307a	ra3070080fy0	8363a133	يا رفاق! أنتم هنا، وفي الوقت المناسب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05323	kh3_event_ra.ra307a	ra3070110sr0	332baf5a	آه... من هذه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05324	kh3_event_ra.ra307a	ra3070120fy0_1	cc158d4d	آه، هذه رابونزل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05325	kh3_event_ra.ra307a	ra3070120fy0_2	dea022a3	أشعر أن هذه قد تكون<br>أول مرة تخرج فيها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05326	kh3_event_ra.ra307a	ra3070120fy0_2b	1b1087cb	امنحوها بضع دقائق لتعتاد على الأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05327	kh3_event_ra.ra307a	ra3070130sr0	f9e5d9d6	أول مرة <i(on)>على الإطلاق?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05328	kh3_event_ra.ra307a	ra3070140ra0	713005e2	لا أصدق أنني فعلتها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05329	kh3_event_ra.ra307a	ra3070150ra0	14573ea4	لا أصدق أنني فعلتها. لا أصدق أنني <i(on)>فعلتها!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05330	kh3_event_ra.ra307a	ra3070160ra0	bbfe736e	ستغضب أمي كثيرا لو عرفت<br>أنني عصيتها وغادرت البرج...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05331	kh3_event_ra.ra307a	ra3070170ra0	de994828	لكن لا بأس—أعني، ما لا تعرفه<br>لن يقتلها... صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05332	kh3_event_ra.ra307a	ra3070180ra0	a2063809	يا إلهي. هذا سيقتلها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05333	kh3_event_ra.ra307a	ra3070190ra0	c761034f	هذا ممتع جداااا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05334	kh3_event_ra.ra307a	ra3070200ra0	67c34793	أنا ابنة فظيعة. سأعود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05335	kh3_event_ra.ra307a	ra3070210ra0	02a47cd5	لن أعود أبدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05336	kh3_event_ra.ra307a	ra3070220ra0	ad0d311f	أنا إنسانة حقيرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05337	kh3_event_ra.ra307a	ra3070230ra0	c86a0a59	أفضل. يوم. على الإطلاق!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05338	kh3_event_ra.ra307a	ra3070250fy0	ec096b91	ألاحظ أنك في حرب صغيرة<br>مع نفسك هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05339	kh3_event_ra.ra307a	ra3070260go0	62d15298	<i(on)>أكثر<i(off)> من صغيرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05340	kh3_event_ra.ra307a	ra3070270do0	7028bb2e	بل كبيرة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05341	kh3_event_ra.ra307a	ra3070280sr0	9389eb86	نعم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05342	kh3_event_ra.ra307a	ra3070300ra0	e6e622b4	قفوا مكانكم! من أنتم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05343	kh3_event_ra.ra307a	ra3070310sr0	ea106355		todo	
+05344	kh3_event_ra.ra307a	ra3070320fy0	8c68a825	قلت لك من قبل: مساعدي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05345	kh3_event_ra.ra307a	ra3070330sr0	20de15d9	مساعدوك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05346	kh3_event_ra.ra307a	ra3070340fy0	084b35f0	اسمحوا لي أن أقدم، آه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05347	kh3_event_ra.ra307a	ra3070350sr0	a4fd880c	آه، اسمي سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05348	kh3_event_ra.ra307a	ra3070360do0	946ae54f	دونالد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05349	kh3_event_ra.ra307a	ra3070370go0	86930cf9	وأنا غوفي. تشرفنا يا آنسة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05350	kh3_event_ra.ra307a	ra3070380ra0_1	c10b7327	سورا، دونالد، و... غوفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05351	kh3_event_ra.ra307a	ra3070380ra0_2	d3bedcc9	يسعدني... لقاؤكم أيضا. أنا رابونزل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05352	kh3_event_ra.ra307a	ra3070390fy0	be1a335d	نعم. مساعدي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05353	kh3_event_ra.ra307a	ra3070410sr0	db085422	منذ متى <i(on)>هذا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05354	kh3_event_ra.ra307a	ra3070420fy0_1	4c4592cd	اسمع، إنها تريد حقا أن ترى<br>عرض الفوانيس ليلة الغد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05355	kh3_event_ra.ra307a	ra3070420fy0_2	5ef03d23	وأنا رجل لطيف، لذا قررت مساعدتها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05356	kh3_event_ra.ra307a	ra3070420fy0_3	e64c5a46	المشكلة الوحيدة أن تلك الوحوش قد تظهر مجددا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05357	kh3_event_ra.ra307a	ra3070420fy0_4	7b9b62ff	أستطيع إيصالها إلى المملكة—<br>لكنكم بوضوح أبرع مني في القتال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05358	kh3_event_ra.ra307a	ra3070430do0	8ef80227	هذا لأننا أبطال!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05359	kh3_event_ra.ra307a	ra3070450go0	7d454d02	ونحن خبراء في بلا قلب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05360	kh3_event_ra.ra307a	ra3070470sr0	5f2bc9f7	اترك الأمر لنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05361	kh3_event_ra.ra307a	ra3070480fy0	ea653f6c	اتفقنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05362	kh3_event_ra.ra307a	ra3070490do0	d9eda219	رابونزل مثيرة للاهتمام...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05363	kh3_event_ra.ra307a	ra3070500go0	d7eaf83a	نعم، قلبها يشدها في كل اتجاه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05364	kh3_event_ra.ra307a	ra3070510sr0_1	2ed6c0c7	لا بد أن العالم الخارجي يبدو كبيرا ومخيفا.<br>أعرف شعورها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05365	kh3_event_ra.ra307a	ra3070510sr0_2	3c636f29	من حسن حظي أنكما ظهرتما<br>في الوقت المناسب تماما—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05366	kh3_event_ra.ra307a	ra3070510sr0_3	84df084c	وكل ما تلا ذلك لا ينسى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05367	kh3_event_ra.ra307a	ra3070520do0	6aba5c46	أوووه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05368	kh3_event_ra.ra307a	ra3070540sr0_1	29b4c9ae	نعم، لا ينسى...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05369	kh3_event_ra.ra307a	ra3070540sr0_2	3b016640	تماما مثل وجهك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05370	kh3_event_ra.ra307a	ra3070550do0	8bfefad5	حقا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05371	kh3_event_ra.ra307a	ra3070561do0	8a3f268e		todo	
+05372	kh3_event_ra.ra307a	ra3070590go0	2f5615ce	هيا الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05373	kh3_event_ra.ra307a	ra3070600sr0	6754a36b	الكل للواحد، والواحد للكل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05374	kh3_event_ra.ra308a	ra3080010ra0	801e961b	آه، انظروا. ما هذا? إنه ناعم جدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05375	kh3_event_ra.ra308a	ra3080050sr0	a76207e5	بلا قلب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05376	kh3_event_ra.ra308a	ra3080070sr0	6dac7169	رابونزل، احتمي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05377	kh3_event_ra.ra308a	ra3080090fy0	bd85bcb4	حسنا، أكره قول هذا،<br>لكنني أعفيك من هذه الصفقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05378	kh3_event_ra.ra308a	ra3080100ra0	645cc87a	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05379	kh3_event_ra.ra308a	ra3080110fy0	a17b0f21	المكان هنا مخيف جدا.<br>لنعد أدراجنا ونأخذك إلى البيت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05380	kh3_event_ra.ra308a	ra3080120ra0	ae92bef6	لا. سأرى تلك الفوانيس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05381	kh3_event_ra.ra308a	ra3080130fy0	6bb579ad	أوه، هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05382	kh3_event_ra.ra308a	ra3080140sr0	43205984	رابونزل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05383	kh3_event_ra.ra308a	ra3080150ra0	4fd61865	لا بأس. لست خائفة من مواجهتهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05384	kh3_event_ra.ra309a	ra3090010gt0	d1243612	رابونزل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05385	kh3_event_ra.ra309a	ra3090030gt0	1bea409e	رابونزل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05386	kh3_event_ra.ra309a	ra3090120xm0	e2d04672	تبحث عن أحد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05387	kh3_event_ra.ra309a	ra3090130gt0	9acf25b9	من هناك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05388	kh3_event_ra.ra309a	ra3090150xm0	0394e0e1	إنها هدية ثمينة جدا.<br>اسمح لي أن أساعدك في استعادتها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05389	kh3_event_ra.ra310a	ra3100010fy0	563a8ac7	حسنا. هذا مريب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05390	kh3_event_ra.ra310a	ra3100030sr0	55257af1	رابونزل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05391	kh3_event_ra.ra310a	ra3100040ra0	ddf0a6c5	لا تقلق.<br>أعرف الآن أن أحذر من الأزهار.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05392	kh3_event_ra.ra310a	ra3100060sr0	7eafaaee	أيا كان، فهو ليس طبيعيا. سأتفقده.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05393	kh3_event_ra.ra310a	ra3100070do0	84f6b121	انتبه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05394	kh3_event_ra.ra310a	ra3100110sr0	1ece695a	المكان آمن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05395	kh3_event_ra.ra310a	ra3100160do0	60b4ef40	سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05396	kh3_event_ra.ra310a	ra3100210sr0	46d0c072	هؤلاء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05397	kh3_event_ra.ra310a	ra3100220go0	01d97fc1	إنهم اللا أحد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05398	kh3_event_ra.ra310a	ra3100230ra0	e58fcc59	قالت أمي إن العالم الخارجي<br>مليء بالأوغاد والسفاحين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05399	kh3_event_ra.ra310a	ra3100240do0_1	afdb617f	هؤلاء ليسوا أوغادا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05400	kh3_event_ra.ra310a	ra3100240do0_2	bd6ece91	إنهم... آه، لا أدري...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05401	kh3_event_ra.ra310a	ra3100250sr0	083d2b2b	رابونزل، فلين، ابقيا بعيدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05402	kh3_event_ra.ra310a	ra3100260ra0	ce051c46	لا. أريد أن أساعدك في القتال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05403	kh3_event_ra.ra310a	ra3100270sr0_1	43ea1729	أعرف. لكنني أخشى أنك لا تستطيعين<br>إيذاء هؤلاء بمقلاة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05404	kh3_event_ra.ra310a	ra3100270sr0_2	515fb8c7	ثقي بي في هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05405	kh3_event_ra.ra310a	ra3100280sr0	be6c2d86	فلين، هلا شرحت لها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05406	kh3_event_ra.ra310a	ra3100290fy0	12da907a	لا مشكلة. معرفة وقت الهرب<br>من اختصاصاتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05407	kh3_event_ra.ra310a	ra3100300fy0	6b4318a9	هيا يا رابونزل. يجب أن نذهب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05408	kh3_event_ra.ra310a	ra3100310ra0	ae64dff2	لكن—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05409	kh3_event_ra.ra310a	ra3100320fy0_1	24c54b6d	اسمعي، أنا أيضا أريد البقاء والقتال،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05410	kh3_event_ra.ra310a	ra3100320fy0_2	3670e483	لكن مساعدي يتولون الأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05411	kh3_event_ra.ra310a	ra3100330ra0	64aaa97e	حسنا. أرجوك كن حذرا يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05412	kh3_event_ra.ra311a	ra3110010go0	8691fbae	أتعرفون من يستخدم اللا أحد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05413	kh3_event_ra.ra311a	ra3110020do0	5ea66494	المنظمة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05414	kh3_event_ra.ra311a	ra3110030sr0	a4ff7f5b	نعم. أنا متفاجئ أننا لم نرهم بعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05415	kh3_event_ra.ra311a	ra3110040sr0	45bbd9c8	أعرف أنك هناك! اخرج أيها المنتهي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05416	kh3_event_ra.ra311a	ra3110050xm0	f4d56507	"المنتهي"? ولماذا تقول ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05417	kh3_event_ra.ra311a	ra3110070sr0_1	d46b887b	لأن التحكم باللا أحد?<br>هذا أسلوب المنظمة القديمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05418	kh3_event_ra.ra311a	ra3110070sr0_2	c6de2795	لماذا? هل أنت في المنظمة "الحقيقية" أيضا?<br>هنيئا لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05419	kh3_event_ra.ra311a	ra3110080xm0_1	8772511c	اسمي مارلوكسيا، ونعم، هذا صحيح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05420	kh3_event_ra.ra311a	ra3110080xm0_2	95c7fef2	كم هو مثير أن أراك مجددا يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05421	kh3_event_ra.ra311a	ra3110090sr0	f3eadf65	"مجددا"?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05422	kh3_event_ra.ra311a	ra3110100sr0	8a7357b6	<i(on)>أنت<i(off)> تعرفه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05423	kh3_event_ra.ra311a	ra3110101do0	bb25e6ae		todo	
+05424	kh3_event_ra.ra311a	ra3110110xm0_1	7ab24143	مؤسف أنك لا تذكرني،<br>لأنني أذكرك جيدا جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05425	kh3_event_ra.ra311a	ra3110110xm0_2	6807eead	ومع ذلك... <i(on)>تلك<i(off)> الذكريات أود محوها قريبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05426	kh3_event_ra.ra311a	ra3110120sr0	40bd213a	لا أفهم ما تقول.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05427	kh3_event_ra.ra311a	ra3110130xm0	f1d39df5	ولا ينبغي لك.<br>ولن تفهم أبدا في الحقيقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05428	kh3_event_ra.ra311a	ra3110140xm0	10973b66	والآن، إن سمحت لي، جئت أطلب معروفا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05429	kh3_event_ra.ra311a	ra3110150sr0	a1f987a9	معروفا? لا بد أنك تمزح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05430	kh3_event_ra.ra311a	ra3110160xm0_1	7ebbb210	أرجوك اسمع ما سأقوله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05431	kh3_event_ra.ra311a	ra3110160xm0_2	6c0e1dfe	أنا متأكد أنك لاحظت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05432	kh3_event_ra.ra311a	ra3110170xm0_1	7f0e4f0d	أو ربما لا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05433	kh3_event_ra.ra311a	ra3110170xm0_2	6dbbe0e3	لكن يجب أن تعرف أن تلك الفتاة التي معك،<br>رابونزل، هي نور هذا العالم نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05434	kh3_event_ra.ra311a	ra3110170xm0_3	d5078786	أود أن تحميها من أهواله المظلمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05435	kh3_event_ra.ra311a	ra3110180sr0	17a88104	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05436	kh3_event_ra.ra311a	ra3110210sr0	b70ac5d8	بدءا بك، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05437	kh3_event_ra.ra311a	ra3110220xm0_1	b1734edb	كل ما تسعى إليه المنظمة هو التوازن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05438	kh3_event_ra.ra311a	ra3110220xm0_2	a3c6e135	يجب أن تفهم أن هدفنا النهائي<br>ليس الصدام مع النور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05439	kh3_event_ra.ra311a	ra3110220xm0_3	1b7a8650	بل نسعى إلى أن نكمله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05440	kh3_event_ra.ra311a	ra3110220xm0_4	86adbee9	استخدم ذلك الكيبلايد... لتحمي رابونزل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05441	kh3_event_ra.ra311a	ra3110230sr0	7dc4b354	نور رابونزل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05442	kh3_event_ra.ra311a	ra3110250sr0	f9e72e81	مهلا. أين ذهبا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05443	kh3_event_ra.ra311a	ra3110260go0	beee9132	أظن أنهما تقدما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05444	kh3_event_ra.ra311a	ra3110270sr0	3329580d	إذن من الأفضل أن نجدهما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05445	kh3_event_ra.ra312a	ra3120010sr0	a72e0168	أتساءل أين ذهبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05446	kh3_event_ra.ra312a	ra3120020go0	e027bedb	لا تقلق. لا يمكن أن يكونا قد ابتعدا كثيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05447	kh3_event_ra.ra312a	ra3120030do0	f2de576d	كان لا بد أن تتوقف لتتحدث.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05448	kh3_event_ra.ra312a	ra3120040sr0	8ca4d177	مهلا! ألق اللوم على المنتهي، لا علي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05449	kh3_event_ra.ra312a	ra3120050go0	01631848	أظنك تقصد مارلوكسيا.<br>أراهن أن المنتهي يفضل هذا الاسم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05450	kh3_event_ra.ra312a	ra3120070sr0	230d9cbd	مرحبااا? رابونزل? فلين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05451	kh3_event_ra.ra312a	ra3120080gt0	96e33398	عذرا أيها المسافرون الطيبون.<br>هل تعرفون رابونزل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05452	kh3_event_ra.ra312a	ra3120100sr0	436c5f09	آه، نعم... نوعا ما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05453	kh3_event_ra.ra312a	ra3120110do0	b93544c6	لماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05454	kh3_event_ra.ra312a	ra3120120gt0_1	f5d51da8	أعتذر. أنا أم رابونزل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05455	kh3_event_ra.ra312a	ra3120120gt0_2	e760b246	المسكينة غادرت البيت دون كلمة،<br>وأنا أموت قلقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05456	kh3_event_ra.ra312a	ra3120120gt0_3	5fdcd523	أرجوكم أخبروني: أين ابنتي العزيزة الحلوة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05457	kh3_event_ra.ra312a	ra3120130go0	0465e0ba	كنا سنخبرك، لكننا أضعناها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05458	kh3_event_ra.ra312a	ra3120140do0	92bf94d9	دون قصد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05459	kh3_event_ra.ra312a	ra3120150sr0	68e68f16	يمكننا البحث معا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05460	kh3_event_ra.ra312a	ra3120160gt0	0e3e1dd8	أضعتموها? لا فائدة منكم إذن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05461	kh3_event_ra.ra312a	ra3120160gt0b	e10877bb		todo	
+05462	kh3_event_ra.ra312a	ra3120170gt0	6b59269e	سأجدها بنفسي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05463	kh3_event_ra.ra312a	ra3120180do0	4189a932	هربت من البيت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05464	kh3_event_ra.ra312a	ra3120190sr0	bbd0b2fd	ماذا لو كان مارلوكسيا على حق في ما قاله?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05465	kh3_event_ra.ra312a	ra3120200do0	844cd6a8	أتثق بمنظمة XIII?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05466	kh3_event_ra.ra312a	ra3120210sr0	7e15cd67	ماذا? لا! بالطبع لا. لكن... ماذا لو?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05467	kh3_event_ra.ra312a	ra3120220go0	391c72d4	أوافقك. لماذا رابونزل في خطر،<br>وأي ظلام يلاحقها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05468	kh3_event_ra.ra312a	ra3120230sr0	b4dbbbeb	يا رفاق، الخطوة الأولى أن نجدها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05469	kh3_event_ra.ra312a	ra3120240do0	caa13df1		todo	
+05470	kh3_event_ra.ra313a	ra3130010ra0	3f657e65	م-م-مهلا! مهلا، مهلا، مهلا، مهلا.<br>على مهلك يا فتى، على مهلك! اهدأ. مهلا، مهلا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05471	kh3_event_ra.ra313a	ra3130040sr0	7d7ed4dd	هذا الصوت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05472	kh3_event_ra.ra313a	ra3130050go0	f0b91de2	إنها رابونزل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05473	kh3_event_ra.ra313a	ra3130080ra0	c7d99391	أنت فتى طيب جدا! نعم، أنت كذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05474	kh3_event_ra.ra313a	ra3130090ra0	a2bea8d7	هل تعبت من مطاردة<br>هذا الرجل السيئ في كل مكان?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05475	kh3_event_ra.ra313a	ra3130100fy0	7b67dc19	عفوا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05476	kh3_event_ra.ra313a	ra3130110ra0	be401b42	لا أحد يقدرك، صحيح? صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05477	kh3_event_ra.ra313a	ra3130120fy0	b1a9aa95	أوه، هيا. إنه حصان سيئ!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05478	kh3_event_ra.ra313a	ra3130130ra0	748e6dce	أوه. إنه ليس إلا حبيبا كبيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05479	kh3_event_ra.ra313a	ra3130140ra1	2d76ac38	أليس كذلك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05480	kh3_event_ra.ra313a	ra3130140ra2	3fc303d6	يا ماكسيموس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05481	kh3_event_ra.ra313a	ra3130150fy0	50ed0c06	ما... لا بد أنك تمزحين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05482	kh3_event_ra.ra313a	ra3130160ra0_1	0b74e329	اسمع، اليوم هو أهم يوم في حياتي تقريبا،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05483	kh3_event_ra.ra313a	ra3130160ra0_2	19c14cc7	والمشكلة،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05484	kh3_event_ra.ra313a	ra3130160ra0_2b	94fb0c40	أنني أحتاجك <i(on)>ألا<i(off)> تتسبب في اعتقاله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05485	kh3_event_ra.ra313a	ra3130170ra0_1	0ac11e34	لأربع وعشرين ساعة فقط،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05486	kh3_event_ra.ra313a	ra3130170ra0_2	1874b1da	ثم يمكنكما مطاردة بعضكما<br>كما يحلو لكما. اتفقنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05487	kh3_event_ra.ra313a	ra3130190ra0	239bcdf0	وهو أيضا عيد ميلادي. لعلمك فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05488	kh3_event_ra.ra313a	ra3130200sr0	eaa8f38b	رابونزل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05489	kh3_event_ra.ra313a	ra3130210ra0	e65eb26a	أنتم هنا. وأنتم بخير!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05490	kh3_event_ra.ra313a	ra3130230sr0	4501be41	نعم! وأنت أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05491	kh3_event_ra.ra313a	ra3130240ra0	cdd46275	وانظروا! كسبت صديقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05492	kh3_event_ra.ra313a	ra3130250ra0_1	c0b5ecb1	أقدم لكم ماكسيموس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05493	kh3_event_ra.ra313a	ra3130250ra0_2	d200435f	يمكنكم القول إن فلين عرفنا ببعض.<br>وأينما ذهب أحدهما، تبعه الآخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05494	kh3_event_ra.ra313a	ra3130260ra0	071a14f9	هؤلاء سورا وغوفي ودونالد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05495	kh3_event_ra.ra313a	ra3130290ra0	7b8564d8	إنهم يساعدونني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05496	kh3_event_ra.ra313a	ra3130300fy0	a25c1016	هيا، المملكة ليست بعيدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05497	kh3_event_ra.ra314a	ra3140020sr0	41c85b9d	رابونزل تبدو سعيدة حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05498	kh3_event_ra.ra314a	ra3140030do0	bb914052	صحيح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05499	kh3_event_ra.ra314a	ra3140040go0	2d4b3431	حلمها سيتحقق.<br>سيطلقون الفوانيس بعد حلول الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05500	kh3_event_ra.ra314a	ra3140050sr0	a08cfd0e	رائع! لا نريد أن يفوتنا ذلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05501	kh3_event_ra.ra315a	ra3150030	0e303eeb	إنها من أجل الأميرة المفقودة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05502	kh3_event_ra.ra315a	ra3150100ra0	9268373b	هيا جميعا! تعالوا ارقصوا معنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05503	kh3_event_ra.ra316a	ra3160000ra0_1	80d73955	ظللت أنظر من النافذة ثمانية عشر عاما،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05504	kh3_event_ra.ra316a	ra3160000ra0_2	926296bb	أحلم بما قد أشعر به<br>حين ترتفع تلك الأضواء في السماء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05505	kh3_event_ra.ra316a	ra3160000ra0_3	2adef1de	ماذا لو لم يكن كل ما حلمت به?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05506	kh3_event_ra.ra316a	ra3160010fy0	1f759df8	سيكون كذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05507	kh3_event_ra.ra316a	ra3160020ra0	109c2c2f	وماذا لو كان? ماذا أفعل حينها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05508	kh3_event_ra.ra316a	ra3160030fy0	d5bbeb74	هذا هو الجزء الجميل على ما أظن.<br>ستبحثين عن حلم جديد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05509	kh3_event_ra.ra316a	ra3160050ra0	f1d88abc	لدي شيء لك أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05510	kh3_event_ra.ra316a	ra3160060ra0_1	856b371b	كان علي أن أعطيك إياه من قبل،<br>لكنني كنت خائفة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05511	kh3_event_ra.ra316a	ra3160060ra0_2	97de98f5	والأمر أنني لم أعد خائفة.<br>أتفهم ما أعنيه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05512	kh3_event_ra.ra316a	ra3160070fy0	9b56002d	بدأت أفهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05513	kh3_event_ra.ra316a	ra3160080fy0	e7c9700c	آسف. كل شيء بخير.<br>هناك... أمر علي أن أتولاه فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05514	kh3_event_ra.ra316a	ra3160090ra0	22eeb757	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05515	kh3_event_ra.ra316a	ra3160100fy0	fb37c399	سأعود حالا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05516	kh3_event_ra.ra316a	ra3160110ra0	3e1004c2	لا بأس يا باسكال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05517	kh3_event_ra.ra316a	ra3160170sr0	d3a2e3b0	ألم تجدوا وقتا أسوأ من هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05518	kh3_event_ra.ra316a	ra3160180go0	479d61e8	لا أظنهم يقدرون اللحظة يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05519	kh3_event_ra.ra316a	ra3160190do0	5564885e	ولا ذرة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05520	kh3_event_ra.ra316a	ra3160200sr0	6af8ec0b	حان وقت رحيل هؤلاء المفسدين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05521	kh3_event_ra.ra316a	ra3160210do0	90a1f7c4	نعم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05522	kh3_event_ra.ra317a	ra3170010ra0	4eef644f	يوجين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05523	kh3_event_ra.ra317a	ra3170020ra0	e1462985	يوجين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05524	kh3_event_ra.ra317a	ra3170030xm0	39b9efed	يا للأسف... هرب بالتاج<br>ونسيك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05525	kh3_event_ra.ra317a	ra3170040ra0_1	29445f66	لا. لن يفعل ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05526	kh3_event_ra.ra317a	ra3170040ra0_2	3bf1f088	من أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05527	kh3_event_ra.ra317a	ra3170050xm0_1	d8c6d18d	انسي فلين رايدر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05528	kh3_event_ra.ra317a	ra3170050xm0_2	ca737e63	أنت تعرفين أين مكانك،<br>وليس معه. والآن...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05529	kh3_event_ra.ra317a	ra3170120gt0	c083e901	رابونزل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05530	kh3_event_ra.ra317a	ra3170130ra0	050477e4	أمي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05531	kh3_event_ra.ra317a	ra3170140gt0	44a074d4	فتاتي الغالية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05532	kh3_event_ra.ra317a	ra3170150ra0	8127ea31	أمي...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05533	kh3_event_ra.ra317a	ra3170160gt0	8e6e0258	هل أنت بخير? هل أصبت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05534	kh3_event_ra.ra317a	ra3170170ra0	4be99cbd	أ-أمي، كيف—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05535	kh3_event_ra.ra317a	ra3170180gt0_1	84d4dee2	كنت قلقة جدا عليك يا عزيزتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05536	kh3_event_ra.ra317a	ra3170180gt0_2	9661710c	لذا تبعتك.<br>ورأيتهم يهاجمونك، و—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05537	kh3_event_ra.ra317a	ra3170190gt0	f2f17279	يا إلهي. لنذهب. لنذهب قبل أن يفيقوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05538	kh3_event_ra.ra317a	ra3170220sr0	51ec9f2d	مهلا، أليست تلك رابونزل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05539	kh3_event_ra.ra317a	ra3170230sr0	348ba46b	انتظري! رابونز—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05540	kh3_event_ra.ra317a	ra3170240xm0	01c68571	تحل ببعض اللياقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05541	kh3_event_ra.ra317a	ra3170250do0	2f961937	أنت مجددا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05542	kh3_event_ra.ra317a	ra3170260sr0	1f017474	مارلوكسيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05543	kh3_event_ra.ra317a	ra3170270xm0	ae6fc8bb	وجدت الفتاة أمها العزيزة.<br>عليك أن تتركهما وشأنهما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05544	kh3_event_ra.ra317a	ra3170280sr0	06f93f13	ولماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05545	kh3_event_ra.ra317a	ra3170290xm0_1	eb7bc004	لأن رابونزل مهمة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05546	kh3_event_ra.ra317a	ra3170290xm0_2	f9ce6fea	يجب أن تبقى في أعلى برجها بعيدا عن الأنظار،<br>وأن تعيش أيامها مع الأم غوثل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05547	kh3_event_ra.ra317a	ra3170300go0	f2a77eff	ولا ترى أحدا غيرها أبدا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05548	kh3_event_ra.ra317a	ra3170310sr0	7f60b7c0	لكن هذا مثل... حبسها في سجن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05549	kh3_event_ra.ra317a	ra3170320xm0_1	15d02a61	هذا <i(on)>بالضبط<i(off)> ما هو عليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05550	kh3_event_ra.ra317a	ra3170320xm0_2	0765858f	شعر رابونزل يحمل<br>سحر الشفاء القوي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05551	kh3_event_ra.ra317a	ra3170320xm0_2b	644195d3	ونعم، الأم غوثل تريده لنفسها.<br>وكذلك آخرون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05552	kh3_event_ra.ra317a	ra3170320xm0_3	bfd9e2ea	وإن كانت أفعال الأم غوثل<br>ستحمي رابونزل وتحفظها...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05553	kh3_event_ra.ra317a	ra3170320xm0_3b	a8eb954d	فهي تسدي المنظمة معروفا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05554	kh3_event_ra.ra317a	ra3170330sr0	b5aec14c	أي معروف?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05555	kh3_event_ra.ra317a	ra3170340xm0_1	106c242f	لنقل إنها تحتفظ برابونزل<br>على الرف من أجلنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05556	kh3_event_ra.ra317a	ra3170340xm0_2	02d98bc1	بيدق إضافي إن فشلت في<br>العثور على بقية حراس النور،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05557	kh3_event_ra.ra317a	ra3170340xm0_2b	2d0e82ec	واحتجنا إلى أن نلجأ إلى<br>قلوب نور أخرى بدلا منهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05558	kh3_event_ra.ra317a	ra3170340xm0_3	ba65eca4	القلوب السبعة الجديدة لتكتمل الصفوف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05559	kh3_event_ra.ra317a	ra3170350sr0	318d5c99	"القلوب السبعة الجديدة"?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05560	kh3_event_ra.ra317a	ra3170360xm0	4a2d96da	نعم. سبعة ورثوا نور الأميرات<br>بعد أن أدين دورهن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05561	kh3_event_ra.ra317a	ra3170370sr0	fb432a15	إذن أنتم لا تهتمون بها.<br>أنتم تريدون رابونزل لأغراضكم فقط!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05562	kh3_event_ra.ra317a	ra3170380sr0	87dc5a34	لقد انتهى أمرك هنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05563	kh3_event_ra.ra317a	ra3170390xm0_1	1aa1c5ae	همف. كنت أعلم أنك ستثير ضجة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05564	kh3_event_ra.ra317a	ra3170390xm0_2	08146a40	حسنا إذن، حان وقت إطفاء أنوارك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05565	kh3_event_ra.ra317a	ra3170430do0	1b88d6b2	سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05566	kh3_event_ra.ra317a	ra3170450xm0	d49cec67	لطالما كان نومك عميقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05567	kh3_event_ra.ra318a	ra3180070ra0	914ddf5b	أنا الأميرة المفقودة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05568	kh3_event_ra.ra318a	ra3180080gt0	4d320ad9	ارفعي صوتك يا رابونزل.<br>تعرفين كم أكره التمتمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05569	kh3_event_ra.ra318a	ra3180090ra0	88b5943c	أنا الأميرة المفقودة. أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05570	kh3_event_ra.ra318a	ra3180100ra0_1	5e07dc10	هل تمتمت يا أمي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05571	kh3_event_ra.ra318a	ra3180100ra0_2	4cb273fe	أم أنه لا ينبغي لي أن أناديك بذلك أصلا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05572	kh3_event_ra.ra318a	ra3180110gt0_1	0880b9bf	أوه يا رابونزل. هل تسمعين ما تقولين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05573	kh3_event_ra.ra318a	ra3180110gt0_2	1a351651	لماذا تسألين سؤالا سخيفا كهذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05574	kh3_event_ra.ra318a	ra3180120ra0	3be26a63	إنها أنت! كان <i(on)>كل شيء<i(off)> أنت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05575	kh3_event_ra.ra318a	ra3180130gt0	fe65f486	كل ما فعلته كان لحمايتك <i(on)>أنت.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05576	kh3_event_ra.ra318a	ra3180150gt0	7a466953	رابونزل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05577	kh3_event_ra.ra318a	ra3180160ra0	750f813a	أمضيت حياتي كلها مختبئة من أناس<br>يريدون استغلالي من أجل قوتي...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05578	kh3_event_ra.ra318a	ra3180160ra0b	68fd109a		todo	
+05579	kh3_event_ra.ra318a	ra3180170gt0	b0881fdf	رابونزل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05580	kh3_event_ra.ra318a	ra3180180ra0	6cf7ca5d	بينما كان علي أن أختبئ منك أنت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05581	kh3_event_ra.ra318a	ra3180190gt0	a97054b8	إلى أين ستذهبين? لن يكون هناك من أجلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05582	kh3_event_ra.ra318a	ra3180200ra0	a932b5c7	ماذا فعلت به?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05583	kh3_event_ra.ra318a	ra3180210gt0	6cb52b22	ذلك المجرم سيشنق جزاء جرائمه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05584	kh3_event_ra.ra318a	ra3180220ra0	63fcc34b	لا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05585	kh3_event_ra.ra318a	ra3180230gt0	a67b5dae	هيا، هيا، كل شيء بخير. اسمعيني.<br>كل هذا كما ينبغي أن يكون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05586	kh3_event_ra.ra318a	ra3180260ra0_1	92a4dae1	لا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05587	kh3_event_ra.ra318a	ra3180260ra0_2	8011750f	كنت مخطئة بشأن العالم.<br>وكنت مخطئة بشأني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05588	kh3_event_ra.ra318a	ra3180260ra0_3	38ad126a	ولن أدعك تستخدمين شعري <i(on)>أبدا<i(off)> مرة أخرى!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05589	kh3_event_ra.ra318a	ra3180260ra0_4	a57a2ad3		todo	
+05590	kh3_event_ra.ra318a	ra3180300gt0_1	31f049b7	تريدينني أن أكون الشريرة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05591	kh3_event_ra.ra318a	ra3180300gt0_2	2345e659	حسنا. الآن أنا الشريرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05592	kh3_event_ra.ra319a	ra3190010fy0	44f4bb39	مهلا يا ماكس! مهلا يا فتى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05593	kh3_event_ra.ra319a	ra3190020do0	bdb250c0		todo	
+05594	kh3_event_ra.ra319a	ra3190030go0	af4bb976	فلين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05595	kh3_event_ra.ra319a	ra3190040fy0	6f7e6b26	هل سورا بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05596	kh3_event_ra.ra319a	ra3190050do0	5cf6f653	لا نعرف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05597	kh3_event_ra.ra319a	ra3190060go0	84c16969	نظل نناديه ونهزه،<br>لكنه لا يفتح عينيه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05598	kh3_event_ra.ra319a	ra3190070do0	963880df	سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05599	kh3_event_ra.ra319a	ra3190080go0	9d39220e	استيقظ!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05600	kh3_event_ra.ra319a	ra3190090fy0_1	379cbfa5	همم... مساعد لا يستجيب...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05601	kh3_event_ra.ra319a	ra3190090fy0_2	2529104b	لحظة. أعرف كيف أصلح هذا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05602	kh3_event_ra.ra319a	ra3190100fy0	a0b6e558	ماكس، اغسله!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05603	kh3_event_ra.ra319a	ra3190120do0	3c9735e7	سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05604	kh3_event_ra.ra319a	ra3190140fy0	ee5b0e01	حسنا، هذا نجح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05605	kh3_event_ra.ra319a	ra3190140fy1	56e76964	أحسنت يا ماكس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05606	kh3_event_ra.ra319a	ra3190150sr0	42edb3fd	ماذا? كيف انتهى بي الأمر...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05607	kh3_event_ra.ra319a	ra3190160sr0	ed44fe37	يا للهول! فلين، رابونزل محتجزة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05608	kh3_event_ra.ra319a	ra3190170fy0_1	ce555ca9	صحيح. في برج أمها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05609	kh3_event_ra.ra319a	ra3190170fy0_2	dce0f347	هذا يتطلب عملية إنقاذ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05610	kh3_event_ra.ra319a	ra3190180fy0	3d6d33ea	هل أنتم معي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05611	kh3_event_ra.ra319a	ra3190200sr0	3179caca	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05612	kh3_event_ra.ra319a	ra3190300fy0	798d2957	لننطلق يا ماكس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05613	kh3_event_ra.ra320a	ra3200110sr0	7a2e12a4	سنتولى الأمر من هنا يا فلين.<br>اذهب وساعد رابونزل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05614	kh3_event_ra.ra320a	ra3200120fy0	1c56d9d4	شكرا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05615	kh3_event_ra.ra321a	ra3210020fy0	6ca9b959	رابونزل! ظننت أنني لن أراك مجددا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05616	kh3_event_ra.ra322a	ra3220030gt0_1	7bc2adb9	رابونزل، حقا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05617	kh3_event_ra.ra322a	ra3220030gt0_2	69770257	كفى! توقفي عن مقاومتي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05618	kh3_event_ra.ra322a	ra3220050ra0_1	294c3b45	لا! لن أتوقف!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05619	kh3_event_ra.ra322a	ra3220050ra0_2	3bf994ab	سأقاوم في كل دقيقة مما تبقى من حياتي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05620	kh3_event_ra.ra322a	ra3220050ra0_3	8345f3ce	لن أكف أبدا عن محاولة الهرب منك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05621	kh3_event_ra.ra322a	ra3220050ra0_4	1e92cb77	لكن... إن سمحت لي بإنقاذه، فسأذهب معك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05622	kh3_event_ra.ra322a	ra3220080fy0_1	189e3b69	لا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05623	kh3_event_ra.ra322a	ra3220080fy0_2	0a2b9487	لا يا رابونزل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05624	kh3_event_ra.ra322a	ra3220090ra0_1	223427d9	لن أهرب أبدا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05625	kh3_event_ra.ra322a	ra3220090ra0_2	30818837	لن أحاول الفرار أبدا. فقط دعيني أشفيه...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05626	kh3_event_ra.ra322a	ra3220090ra0_3	883def52	وسنكون أنا وأنت معا—<br>إلى الأبد، كما تريدين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05627	kh3_event_ra.ra322a	ra3220090ra0_4	15ead7eb	سيعود كل شيء كما كان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05628	kh3_event_ra.ra322a	ra3220090ra0_5	ad56b08e	أعدك. كما تريدين تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05629	kh3_event_ra.ra322a	ra3220090ra0_6	bfe31f60	فقط... دعيني أشفيه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05630	kh3_event_ra.ra322a	ra3220110gt0	8b9ac0b5	تحسبا لأي فكرة تخطر لك بشأن اللحاق بنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05631	kh3_event_ra.ra322a	ra3220120ra0	84d328dc	يو... يوجين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05632	kh3_event_ra.ra322a	ra3220140ra0	00f0b509	أوه، أنا آسفة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05633	kh3_event_ra.ra322a	ra3220150ra0	65978e4f	لكن كل شيء سيكون بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05634	kh3_event_ra.ra322a	ra3220160fy0	6a7e3f98	لا... رابونزل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05635	kh3_event_ra.ra322a	ra3220170ra0	af59f8c3	أعدك. يجب أن تثق بي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05636	kh3_event_ra.ra322a	ra3220180fy0	738674ff	لا! لا يمكنني أن أدعك تفعلين هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05637	kh3_event_ra.ra322a	ra3220190ra0	b6a1b3a4	وأنا لا يمكنني أن أدعك تموت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05638	kh3_event_ra.ra322a	ra3220200fy0	b6430b65	لكن إن فعلت هذا...<br>إن فعلت هذا، فستموتين أنت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05639	kh3_event_ra.ra322a	ra3220210ra0	7364cc3e	اسمع. كل شيء سيكون بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05640	kh3_event_ra.ra322a	ra3220220fy0	7c8d7de9	رابونزل... انتظري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05641	kh3_event_ra.ra322a	ra3220250ra0	3d892767	يوجين، ماذا—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05642	kh3_event_ra.ra322a	ra3220260gt0	32c0cf0e	لا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05643	kh3_event_ra.ra322a	ra3220270gt0	57a7f448	أوه لا. لا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05644	kh3_event_ra.ra322a	ra3220280gt0	2b388469	ماذا فعلت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05645	kh3_event_ra.ra322a	ra3220290gt0	4e5fbf2f	ماذا <i(on)>فعلت?!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05646	kh3_event_ra.ra323a	ra3230040xm0_1	778a27e9	سقطت في الظلام...<br>لا يمكننا أن نسمح لها بالاقتراب من نورنا النقي الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05647	kh3_event_ra.ra323a	ra3230040xm0_1b	29132a1d		todo	
+05648	kh3_event_ra.ra323a	ra3230040xm0_2	653f8807	وجودها لن يزيده إلا قتامة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05649	kh3_event_ra.ra324a	ra3240010ra0	e310170e	لا ترحل. ابق معي يا يوجين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05650	kh3_event_ra.ra324a	ra3240060ra0	0254b19d	<i(on)>زهرتي، تألقي وأشرقي<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05651	kh3_event_ra.ra324a	ra3240060ra0b	0b04b4b6	<i(on)>ودعي قوتك تتوهج<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05652	kh3_event_ra.ra324a	ra3240080ra0_1	76f8bbd4	<i(on)>أعيدي الزمن إلى الوراء<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05653	kh3_event_ra.ra324a	ra3240080ra0_1b	b5556017	<i(on)>وأرجعي ما كان لي<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05654	kh3_event_ra.ra324a	ra3240080ra0_2	644d143a	رابونزل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05655	kh3_event_ra.ra324a	ra3240090fy0	de8b3da1	مرحبا. رابونزل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05656	kh3_event_ra.ra324a	ra3240100ra0	0752496f	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05657	kh3_event_ra.ra324a	ra3240110fy0	c2758e34	رابونزل... كنت حلمي الجديد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05658	kh3_event_ra.ra324a	ra3240120ra0	cd9c3fe3	وأنت كنت حلمي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05659	kh3_event_ra.ra324a	ra3240160ra0_1	8f3158d8	<i(on)>اشفي ما قد جرح<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05660	kh3_event_ra.ra324a	ra3240160ra0_1b	8a7e97e9	<i(on)>وغيري حكم الأقدار<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05661	kh3_event_ra.ra324a	ra3240160ra0_2	9d84f736	<i(on)>وأنقذي ما قد ضاع<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05662	kh3_event_ra.ra324a	ra3240160ra0_2b	04f1900a	<i(on)>وأرجعي ما كان لي<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05663	kh3_event_ra.ra324a	ra3240160ra1	3bcdb3df	<i(on)>ما كان لي<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05664	kh3_event_ra.ra324a	ra3240220fy0	35c26ad6	رابونزل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05665	kh3_event_ra.ra324a	ra3240230ra0	f0e5ad8d	يوجين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05666	kh3_event_ra.ra324a	ra3240240fy0_1	7e5a4bf0	هل أخبرتك من قبل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05667	kh3_event_ra.ra324a	ra3240240fy0_2	6cefe41e	أنني معجب بذوات الشعر البني?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05668	kh3_event_ra.ra324a	ra3240260ra0	db6f7d92	يوجين!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05669	kh3_event_ra.ra325a	ra3250010sr0	7b5b6803	واو يا رابونزل!<br>ستتمكنين أخيرا من رؤية بيتك الحقيقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05670	kh3_event_ra.ra325a	ra3250020ra0_1	d7783b41	أعرف! أعني... لا أصدق ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05671	kh3_event_ra.ra325a	ra3250020ra0_2	c5cd94af	أخيرا أستطيع أن أكون مع عائلتي الحقيقية!<br>ما كنت لأنجح دون مساعدتكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05672	kh3_event_ra.ra325a	ra3250030do0	2eab3e06	العفو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05673	kh3_event_ra.ra325a	ra3250050fy0	fc6705e0	من وجهة نظري،<br>لا يمكن للمملكة أن تحظى بأميرة أفضل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05674	kh3_event_ra.ra325a	ra3250060fy0	53ce482a	ولا يمكنني أن أحظى بمساعدين أفضل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05675	kh3_event_ra.ra325a	ra3250060fy1	eb722f4f	شكرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05676	kh3_event_ra.ra325a	ra3250070ra0	96e98f71	نعم، شكرا جزيلا لكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05677	kh3_event_ra.ra325a	ra3250080do0	1cd9a57e	وعاشوا في سعادة دائمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05678	kh3_event_ra.ra325a	ra3250090sr0	e680beb1	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05679	kh3_event_ra.ra325a	ra3250100go0	77b9c41b	والآن يا فلين، كن لطيفا مع ماكسيموس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05680	kh3_event_ra.ra325a	ra3250110fy0	33af8b9e	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05681	kh3_event_ra.ra325a	ra3250120sr0	55d740ee	ستكونين رائعة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05682	kh3_event_ra.ra325a	ra3250130ra0	5921010f	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05683	kh3_event_ra.ra325a	ra3250150sr0	b493e67d	لم نر الرجل الذي يتحكم بالوحوش<br>منذ مدة، فهذا هم أقل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05684	kh3_event_ra.ra325a	ra3250150sr0b	12319a8b		todo	
+05685	kh3_event_ra.ra325a	ra3250160go0	f39a59ce	لكن ما زال هناك احتمال<br>أن يكون في مكان ما هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05686	kh3_event_ra.ra325a	ra3250170sr0_1	8b4886a8	إن عاد وحاول إزعاج<br>رابونزل مجددا، فسيحميها فلين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05687	kh3_event_ra.ra325a	ra3250170sr0_2	99fd2946	ونحن الثلاثة لن نكون بعيدين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05688	kh3_event_ra.ra325a	ra3250180do0	9dfcc059	هيا. رابونزل هي القوية،<br>إن أردت رأيي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05689	kh3_event_ra.ra325a	ra3250190fy0	ae745d2c	صحيح. لكن مع ذلك،<br>لن أدعها تغيب عن ناظري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05690	kh3_event_ra.ra325a	ra3250200ra0	ae96e5ed	أوه... يوجين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05691	kh3_event_ra.ra325a	ra3250210sr0	a260a40c	"يوجين"?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05692	kh3_event_ra.ra325a	ra3250220fy0_1	d4a2d7f9	آه! هذا اسمي الحقيقي.<br>يوجين فيتزهربرت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05693	kh3_event_ra.ra325a	ra3250220fy0_2	c6177817	صحيح. لم أخبركم بذلك قط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05694	kh3_event_ra.ra325a	ra3250230do0	f790f209	هذا مختلف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05695	kh3_event_ra.ra325a	ra3250240go0	614a866a	أظنه اسما رائعا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05696	kh3_event_ra.ra325a	ra3250250sr0	ec8d4f55	وأنا أيضا. سعيد بلقائك من جديد يا يوجين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05697	kh3_event_ra.ra325a	ra3250260ra0	2ab57838	مهلا! ظننت أنني الوحيدة<br>التي ستخبرها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05698	kh3_event_ra.ra325a	ra3250270fy0_1	d3c0de90	لا تقلقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05699	kh3_event_ra.ra325a	ra3250270fy0_2	c175717e	لدي الكثير من أسرار فيتزهربرت<br>محفوظة لك وحدك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05700	kh3_event_ra.ra325a	ra3250280ra0	334d335f	حقا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05701	kh3_event_ra.ra325a	ra3250290sr0	3fbb72be	مهلا! عم تتحدثان أيها العاشقان?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05702	kh3_event_ra.ra325a	ra3250310fy0	ea944791	لا شيء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05703	kh3_event_ra.ra325a	ra3250300ra0	2fb380ca	لا شيء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05704	kh3_event_ra.ra325a	ra3250320do0	13d2ac68	هيا، يمكنكما إخبارنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05705	kh3_event_ra.ra325a	ra3250330go0	012b45de	نعم، ليس من اللطيف إخفاء الأسرار.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05706	kh3_event_ra.ra325a	ra3250340fy0	c11e978e	هذا السر ليس من شأنكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05707	kh3_event_ra.ra325a	ra3250360sr0	c20167b8	ماكسيموس، أمسك به!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05708	kh3_event_ra.ra325a	ra3250390fy0	774f9123	لا بد أنكم تمزحون!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05709	kh3_event_ra.ra326a	ra3260010pe0	b3a48a7e	عالم <i(on)>آخر<i(off)> لم نجد فيه شيئا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05710	kh3_event_ra.ra326a	ra3260030pe0	796afcf2	هل أنت متأكدة أن هذا الصندوق موجود أصلا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05711	kh3_event_ra.ra326a	ra3260040ma0	8ed3b889	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05712	kh3_event_ra.ra326a	ra3260050pe0	fd496127	نعم، وكيف تعرفين ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05713	kh3_event_ra.ra326a	ra3260060ma0	441dce05	إنه منقوش.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05714	kh3_event_ra.ra326a	ra3260070pe0	378717ab	إنه ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05715	kh3_event_ra.ra326a	ra3260080ma0	5de58562	تعال معي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05716	kh3_event_ra.ra326a	ra3260090pe0_1	ec4a5e0d	إلى أين? أولئك الحمقى لن يساعدونا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05717	kh3_event_ra.ra326a	ra3260090pe0_2	fefff1e3	سورا بالتأكيد لا يبحث عن الصندوق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05718	kh3_event_ra.ra326a	ra3260100ma0	411b36f7	ومن قال إننا سنتبعهم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2

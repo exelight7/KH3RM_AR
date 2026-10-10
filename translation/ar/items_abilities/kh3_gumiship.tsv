@@ -1,0 +1,853 @@
+id	namespace	key	source_hash	AR	status	note
+11379	kh3_gumiship.item	materialgumi_0010	7bc17a92	زاوي/G-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11380	kh3_gumiship.item	materialgumi_0020	f54e7d71	زاوي/G-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11381	kh3_gumiship.item	materialgumi_0030	39e47def	زاوي/G-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11382	kh3_gumiship.item	materialgumi_0040	332174f6	زاوي/G-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11383	kh3_gumiship.item	materialgumi_0050	ff8b7468	زاوي/G-05	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11384	kh3_gumiship.item	materialgumi_0060	7104738b	زاوي/G-06	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11385	kh3_gumiship.item	materialgumi_0070	bdae7315	زاوي/G-07	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11386	kh3_gumiship.item	materialgumi_0080	648e61b9	زاوي/G-08	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11387	kh3_gumiship.item	materialgumi_0090	a8246127	زاوي/G-09	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11388	kh3_gumiship.item	materialgumi_0100	2cce3663	زاوي/G-10	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11389	kh3_gumiship.item	materialgumi_0110	e06436fd	زاوي/G-11	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11390	kh3_gumiship.item	materialgumi_0120	6eeb311e	زاوي/G-12	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11391	kh3_gumiship.item	materialgumi_0130	a2413180	مستدير/G-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11392	kh3_gumiship.item	materialgumi_0140	a8843899	مستدير/G-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11393	kh3_gumiship.item	materialgumi_0150	642e3807	مستدير/G-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11394	kh3_gumiship.item	materialgumi_0160	eaa13fe4	مستدير/G-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11395	kh3_gumiship.item	materialgumi_0170	260b3f7a	مستدير/G-05	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11396	kh3_gumiship.item	materialgumi_0180	ff2b2dd6	مستدير/G-06	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11397	kh3_gumiship.item	materialgumi_0190	33812d48	مستدير/G-07	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11398	kh3_gumiship.item	materialgumi_0200	5b50e493	مستدير/G-08	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11399	kh3_gumiship.item	materialgumi_0210	97fae40d	مستدير/G-09	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11400	kh3_gumiship.item	materialgumi_0220	1975e3ee	مستدير/G-10	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11401	kh3_gumiship.item	materialgumi_0230	d5dfe370	مستدير/G-11	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11402	kh3_gumiship.item	materialgumi_0240	df1aea69	مستدير/G-12	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11403	kh3_gumiship.item	materialgumi_0250	13b0eaf7	مستدير/G-13	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11404	kh3_gumiship.item	materialgumi_0260	9d3fed14	مستدير/G-14	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11405	kh3_gumiship.item	materialgumi_0270	5195ed8a	مستدير/G-15	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11406	kh3_gumiship.item	materialgumi_0280	88b5ff26	أسطواني/G-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11407	kh3_gumiship.item	materialgumi_0290	441fffb8	أسطواني/G-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11408	kh3_gumiship.item	materialgumi_0300	c0f5a8fc	أسطواني/G-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11409	kh3_gumiship.item	materialgumi_0310	0c5fa862	أسطواني/G-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11410	kh3_gumiship.item	materialgumi_0320	82d0af81	أسطواني/G-05	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11411	kh3_gumiship.item	materialgumi_0330	4e7aaf1f	أسطواني/G-06	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11412	kh3_gumiship.item	materialgumi_0340	44bfa606	أسطواني/G-07	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11413	kh3_gumiship.item	materialgumi_0350	8815a698	أسطواني/G-08	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11414	kh3_gumiship.item	materialgumi_0360	069aa17b	أسطواني/G-09	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11415	kh3_gumiship.item	materialgumi_0370	ca30a1e5	ريح/G-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11416	kh3_gumiship.item	materialgumi_0380	1310b349	ريح/G-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11417	kh3_gumiship.item	materialgumi_0390	dfbab3d7	ريح/G-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11418	kh3_gumiship.item	materialgumi_0400	b46d4173	ريح/G-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11419	kh3_gumiship.item	materialgumi_0410	78c741ed	ريح/G-05	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11420	kh3_gumiship.item	materialgumi_0420	f648460e	ريح/G-06	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11421	kh3_gumiship.item	materialgumi_0430	3ae24690	ريح/G-07	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11422	kh3_gumiship.item	materialgumi_0440	30274f89	ريح/G-08	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11423	kh3_gumiship.item	materialgumi_0450	fc8d4f17	ريح/G-09	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11424	kh3_gumiship.item	materialgumi_0460	720248f4	ريح/G-10	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11425	kh3_gumiship.item	materialgumi_0470	bea8486a	ريح/G-11	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11426	kh3_gumiship.item	materialgumi_0480	67885ac6	ريح/G-12	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11427	kh3_gumiship.item	decogumi_0010	dcf47667	نار/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11428	kh3_gumiship.item	decogumi_0020	527b7184	نار قوية/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11429	kh3_gumiship.item	decogumi_0030	9ed1711a	نار كبرى/G-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11430	kh3_gumiship.item	decogumi_0040	94147803	نار كبرى/G-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11431	kh3_gumiship.item	decogumi_0050	58be789d	جليد/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11432	kh3_gumiship.item	decogumi_0060	d6317f7e	جليد قوي/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11433	kh3_gumiship.item	decogumi_0070	1a9b7fe0	جليد أكبر/G-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11434	kh3_gumiship.item	decogumi_0080	c3bb6d4c	جليد أكبر/G-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11435	kh3_gumiship.item	decogumi_0090	0f116dd2	جرافيتي/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11436	kh3_gumiship.item	decogumi_0100	8bfb3a96	جرافيرا/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11437	kh3_gumiship.item	decogumi_0110	47513a08	جرافيغا/G-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11438	kh3_gumiship.item	decogumi_0120	c9de3deb	جرافيغا/G-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11439	kh3_gumiship.item	decogumi_0130	05743d75	ماء/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11440	kh3_gumiship.item	decogumi_0140	0fb1346c	ماء قوي/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11441	kh3_gumiship.item	decogumi_0150	c31b34f2	ماء أكبر/G-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11442	kh3_gumiship.item	decogumi_0160	4d943311	ماء أكبر/G-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11443	kh3_gumiship.item	decogumi_0170	813e338f	مذنب/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11444	kh3_gumiship.item	decogumi_0180	581e2123	نيزك/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11445	kh3_gumiship.item	decogumi_0190	94b421bd	صاعقة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11446	kh3_gumiship.item	decogumi_0200	fc65e866	صاعقة قوية/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11447	kh3_gumiship.item	decogumi_0210	30cfe8f8	صاعقة كبرى/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11448	kh3_gumiship.item	decogumi_0220	be40ef1b	ألتيما/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11449	kh3_gumiship.item	decogumi_0230	72eaef85	ماساموني/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11450	kh3_gumiship.item	decogumi_0240	782fe69c	إكسكاليبر/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11451	kh3_gumiship.item	decogumi_0250	b485e602	مثقاب/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11452	kh3_gumiship.item	decogumi_0260	3a0ae1e1	منشار/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11453	kh3_gumiship.item	decogumi_0270	f6a0e17f	غونغنير/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11454	kh3_gumiship.item	decogumi_0280	2f80f3d3	نصل ليزري/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11455	kh3_gumiship.item	decogumi_0290	e32af34d	قبضة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11456	kh3_gumiship.item	decogumi_0300	67c0a409	ذراع آلية/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11457	kh3_gumiship.item	decogumi_0310	ab6aa497	فيرنير/G	reviewed	unsure: Vernier = فيرنير (gummi thruster part); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11458	kh3_gumiship.item	decogumi_0320	25e5a374	دافع/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11459	kh3_gumiship.item	decogumi_0330	e94fa3ea	معزز/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11460	kh3_gumiship.item	decogumi_0340	e38aaaf3	صاروخ/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11461	kh3_gumiship.item	decogumi_0350	2f20aa6d	مروحة صغيرة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11462	kh3_gumiship.item	decogumi_0360	a1afad8e	مروحة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11463	kh3_gumiship.item	decogumi_0370	6d05ad10	مروحة لولبية/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11464	kh3_gumiship.item	decogumi_0380	b425bfbc	دوار صغير/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11465	kh3_gumiship.item	decogumi_0390	788fbf22	دوار/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11466	kh3_gumiship.item	decogumi_0400	13584d86	دوار كبير/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11467	kh3_gumiship.item	decogumi_0410	dff24d18	صاري/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11468	kh3_gumiship.item	decogumi_0420	517d4afb	الإعصار/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11469	kh3_gumiship.item	decogumi_0430	9dd74a65	العاصفة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11470	kh3_gumiship.item	decogumi_0440	9712437c	الزوبعة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11471	kh3_gumiship.item	decogumi_0450	5bb843e2	التيفون/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11472	kh3_gumiship.item	decogumi_0460	d5374401	الإعصار المداري/G	reviewed	unsure: Typhoon/Hurricane/Tempest part names have no glossary entry; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11473	kh3_gumiship.item	decogumi_0470	199d449f	الدوامة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11474	kh3_gumiship.item	decogumi_0480	c0bd5633	توربو الرنين/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11475	kh3_gumiship.item	decogumi_0490	0c1756ad	الظلام/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11476	kh3_gumiship.item	decogumi_0500	88fd01e9	ملاك/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11477	kh3_gumiship.item	decogumi_0510	44570177	فراشة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11478	kh3_gumiship.item	decogumi_0520	cad80694	خلفي/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11479	kh3_gumiship.item	decogumi_0530	0672060a	إطار/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11480	kh3_gumiship.item	decogumi_0540	0cb70f13	جنزير/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11481	kh3_gumiship.item	decogumi_0550	c01d0f8d	عجلة ثلاثية/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11482	kh3_gumiship.item	decogumi_0560	4e92086e	قمرة فقاعية/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11483	kh3_gumiship.item	decogumi_0570	823808f0	قمرة مسطحة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11484	kh3_gumiship.item	decogumi_0580	5b181a5c	قمرة صلبة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11485	kh3_gumiship.item	decogumi_0590	97b21ac2	قمرة كروية/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11486	kh3_gumiship.item	decogumi_0600	ff63d319	الجسر/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11487	kh3_gumiship.item	decogumi_0610	33c9d387	جسر كبير/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11488	kh3_gumiship.item	decogumi_0620	bd46d464	قمرة صغيرة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11489	kh3_gumiship.item	decogumi_0630	71ecd4fa	قمرة طويلة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11490	kh3_gumiship.item	decogumi_0640	7b29dde3	قمرة عريضة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11491	kh3_gumiship.item	decogumi_0650	b783dd7d	جدار/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11492	kh3_gumiship.item	decogumi_0660	390cda9e	جدار كبير/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11493	kh3_gumiship.item	decogumi_0670	f5a6da00	درع/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11494	kh3_gumiship.item	decogumi_0680	2c86c8ac	درع كبير/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11495	kh3_gumiship.item	decogumi_0690	e02cc832	كرة نيون/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11496	kh3_gumiship.item	decogumi_0700	64c69f76	قضيب نيون/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11497	kh3_gumiship.item	decogumi_0710	a86c9fe8	سلسلة نيون/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11498	kh3_gumiship.item	decogumi_0720	26e3980b	قبة الرادار/G	reviewed	unsure: Radome = قبة الرادار; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11499	kh3_gumiship.item	decogumi_0730	ea499895	هوائي/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11500	kh3_gumiship.item	decogumi_0740	e08c918c	طبق قطعي/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11501	kh3_gumiship.item	decogumi_0750	2c269112	ضوء دائري/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11502	kh3_gumiship.item	decogumi_0760	a2a996f1	ضوء مربع/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11503	kh3_gumiship.item	decogumi_0770	6e03966f	ضوء وامض/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11504	kh3_gumiship.item	decogumi_0780	b72384c3	علم/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11505	kh3_gumiship.item	decogumi_0790	7b89845d	كاتم الصوت/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11506	kh3_gumiship.item	decogumi_0800	16520007	مدخنة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11507	kh3_gumiship.item	decogumi_0810	daf80099	قرن الخنفساء/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11508	kh3_gumiship.item	decogumi_0820	5477077a	أذن قطة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11509	kh3_gumiship.item	decogumi_0830	98dd07e4	ذيل قطة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11510	kh3_gumiship.item	decogumi_0840	92180efd	تاج/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11511	kh3_gumiship.item	decogumi_0850	5eb20e63	كلب/G-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11512	kh3_gumiship.item	decogumi_0860	d03d0980	قطة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11513	kh3_gumiship.item	decogumi_0870	1c97091e	تشوكوتشيك/G	reviewed	unsure: Chocochick = تشوكوتشيك (FF chocobo chick); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11514	kh3_gumiship.item	decogumi_0880	c5b71bb2	كلب/G-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11515	kh3_gumiship.item	decogumi_0890	091d1b2c	أرنب/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11516	kh3_gumiship.item	decogumi_0900	8df74c68	طائر/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11517	kh3_gumiship.item	decogumi_0910	415d4cf6	مياو واو/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11518	kh3_gumiship.item	decogumi_0920	cfd24b15	البودينغ السبعة الرائعون/G-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11519	kh3_gumiship.item	decogumi_0930	03784b8b	البودينغ السبعة الرائعون/G-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11520	kh3_gumiship.item	decogumi_0940	09bd4292	البودينغ السبعة الرائعون/G-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11521	kh3_gumiship.item	decogumi_0950	c517420c	الهدية/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11522	kh3_gumiship.item	decogumi_0960	4b9845ef	كعكة/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11523	kh3_gumiship.item	decogumi_0970	87324571	صندوق الكنز/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11524	kh3_gumiship.item	decogumi_0980	5e1257dd	فانوس/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11525	kh3_gumiship.item	material_0010	7dc41a20	قياسي/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11526	kh3_gumiship.item	material_0020	f34b1dc3	نتوءات/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11527	kh3_gumiship.item	material_0030	3fe11d5d	شفاف/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11528	kh3_gumiship.item	material_0040	35241444	تمويه/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11529	kh3_gumiship.item	material_0050	f98e14da	إطار/M-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11530	kh3_gumiship.item	material_0060	77011339	إطار/M-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11531	kh3_gumiship.item	material_0070	bbab13a7	صندوق خشبي/M-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11532	kh3_gumiship.item	material_0080	628b010b	صندوق خشبي/M-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11533	kh3_gumiship.item	material_0090	ae210195	دوائر إلكترونية/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11534	kh3_gumiship.item	material_0100	2acb56d1	منحوت/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11535	kh3_gumiship.item	material_0110	e661564f	بلاستيك/M-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11536	kh3_gumiship.item	material_0120	68ee51ac	بلاستيك/M-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11537	kh3_gumiship.item	material_0130	a4445132	جينز/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11538	kh3_gumiship.item	material_0140	ae81582b	حياكة/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11539	kh3_gumiship.item	material_0150	622b58b5	قطيفة/M	reviewed	unsure: Plush = قطيفة; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11540	kh3_gumiship.item	material_0160	eca45f56	درزات/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11541	kh3_gumiship.item	material_0170	200e5fc8	كرتون/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11542	kh3_gumiship.item	material_0180	f92e4d64	جبن/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11543	kh3_gumiship.item	material_0190	35844dfa	كعكة إسفنجية/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11544	kh3_gumiship.item	material_0200	5d558421	بسكويت/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11545	kh3_gumiship.item	material_0210	91ff84bf	مضيء/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11546	kh3_gumiship.item	material_0220	1f70835c	صناعي/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11547	kh3_gumiship.item	material_0230	d3da83c2	ترتر/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11548	kh3_gumiship.item	material_0240	d91f8adb	زجاج ملون/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11549	kh3_gumiship.item	material_0250	15b58a45	عربي/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11550	kh3_gumiship.item	material_0260	9b3a8da6	سلة/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11551	kh3_gumiship.item	material_0270	57908d38	لحاء/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11552	kh3_gumiship.item	material_0280	8eb09f94	خشب/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11553	kh3_gumiship.item	material_0290	421a9f0a	فلين/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11554	kh3_gumiship.item	material_0300	c6f0c84e	باركيه/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11555	kh3_gumiship.item	material_0310	0a5ac8d0	أرضية/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11556	kh3_gumiship.item	material_0320	84d5cf33	جليد/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11557	kh3_gumiship.item	material_0330	487fcfad	حمم/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11558	kh3_gumiship.item	material_0340	42bac6b4	نار/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11559	kh3_gumiship.item	material_0350	8e10c62a	ثلج/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11560	kh3_gumiship.item	material_0360	009fc1c9	ماء/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11561	kh3_gumiship.item	material_0370	cc35c157	حراشف السمك/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11562	kh3_gumiship.item	material_0380	1515d3fb	حراشف الأفعى/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11563	kh3_gumiship.item	material_0390	d9bfd365	بقع الزرافة/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11564	kh3_gumiship.item	material_0400	b26821c1	بقع النمر/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11565	kh3_gumiship.item	material_0410	7ec2215f	بقع البقرة/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11566	kh3_gumiship.item	material_0420	f04d26bc	فرو/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11567	kh3_gumiship.item	material_0430	3ce72622	جلد/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11568	kh3_gumiship.item	material_0440	36222f3b	كريستال/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11569	kh3_gumiship.item	material_0450	fa882fa5	جمشت/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11570	kh3_gumiship.item	material_0460	74072846	ألماس/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11571	kh3_gumiship.item	material_0470	b8ad28d8	حجر/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11572	kh3_gumiship.item	material_0480	618d3a74	طوب/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11573	kh3_gumiship.item	material_0490	ad273aea	خرسانة/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11574	kh3_gumiship.item	material_0500	29cd6dae	رخام/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11575	kh3_gumiship.item	material_0510	e5676d30	طين/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11576	kh3_gumiship.item	material_0520	6be86ad3	رمل/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11577	kh3_gumiship.item	material_0530	a7426a4d	فولاذ/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11578	kh3_gumiship.item	material_0540	ad876354	حديد/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11579	kh3_gumiship.item	material_0550	612d63ca	مرآة/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11580	kh3_gumiship.item	material_0560	efa26429	حلقات سلسلة/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11581	kh3_gumiship.item	material_0570	230864b7	صدأ/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11582	kh3_gumiship.item	material_0580	fa28761b	مسامير برشام/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11583	kh3_gumiship.item	pattern_0010	8ee0abbd	قياسي/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11584	kh3_gumiship.item	pattern_0020	006fac5e	معينات/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11585	kh3_gumiship.item	pattern_0030	ccc5acc0	معينات/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11586	kh3_gumiship.item	pattern_0040	c600a5d9	معينات/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11587	kh3_gumiship.item	pattern_0050	0aaaa547	معينات/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11588	kh3_gumiship.item	pattern_0060	8425a2a4	سداسيات/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11589	kh3_gumiship.item	pattern_0070	488fa23a	سداسيات/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11590	kh3_gumiship.item	pattern_0080	91afb096	سداسيات/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11591	kh3_gumiship.item	pattern_0090	5d05b008	سداسيات/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11592	kh3_gumiship.item	pattern_0100	d9efe74c	حمار وحشي/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11593	kh3_gumiship.item	pattern_0110	1545e7d2	حمار وحشي/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11594	kh3_gumiship.item	pattern_0120	9bcae031	حمار وحشي/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11595	kh3_gumiship.item	pattern_0130	5760e0af	حمار وحشي/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11596	kh3_gumiship.item	pattern_0140	5da5e9b6	خطان مزدوجان/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11597	kh3_gumiship.item	pattern_0150	910fe928	شعارات/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11598	kh3_gumiship.item	pattern_0160	1f80eecb	شعارات/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11599	kh3_gumiship.item	pattern_0170	d32aee55	شعارات/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11600	kh3_gumiship.item	pattern_0180	0a0afcf9	كرة قدم/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11601	kh3_gumiship.item	pattern_0190	c6a0fc67	كرة قدم/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11602	kh3_gumiship.item	pattern_0200	ae7135bc	كرة قدم/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11603	kh3_gumiship.item	pattern_0210	62db3522	كرة قدم/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11604	kh3_gumiship.item	pattern_0220	ec5432c1	نجوم/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11605	kh3_gumiship.item	pattern_0230	20fe325f	نجوم/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11606	kh3_gumiship.item	pattern_0240	2a3b3b46	نجوم/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11607	kh3_gumiship.item	pattern_0250	e6913bd8	نجوم/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11608	kh3_gumiship.item	pattern_0260	681e3c3b	البستوني/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11609	kh3_gumiship.item	pattern_0270	a4b43ca5	البستوني/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11610	kh3_gumiship.item	pattern_0280	7d942e09	البستوني/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11611	kh3_gumiship.item	pattern_0290	b13e2e97	البستوني/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11612	kh3_gumiship.item	pattern_0300	35d479d3	أضواء/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11613	kh3_gumiship.item	pattern_0310	f97e794d	أضواء/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11614	kh3_gumiship.item	pattern_0320	77f17eae	أضواء/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11615	kh3_gumiship.item	pattern_0330	bb5b7e30	أضواء/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11616	kh3_gumiship.item	pattern_0340	b19e7729	تيجان/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11617	kh3_gumiship.item	pattern_0350	7d3477b7	تيجان/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11618	kh3_gumiship.item	pattern_0360	f3bb7054	تيجان/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11619	kh3_gumiship.item	pattern_0370	3f1170ca	تيجان/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11620	kh3_gumiship.item	pattern_0380	e6316266	مربعات/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11621	kh3_gumiship.item	pattern_0390	2a9b62f8	مربعات/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11622	kh3_gumiship.item	pattern_0400	414c905c	مربعات/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11623	kh3_gumiship.item	pattern_0410	8de690c2	مربعات/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11624	kh3_gumiship.item	pattern_0420	03699721	أرابيسك/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11625	kh3_gumiship.item	pattern_0430	cfc397bf	أرابيسك/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11626	kh3_gumiship.item	pattern_0440	c5069ea6	أرابيسك/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11627	kh3_gumiship.item	pattern_0450	09ac9e38	أرابيسك/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11628	kh3_gumiship.item	pattern_0460	872399db	قمم الأمواج/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11629	kh3_gumiship.item	pattern_0470	4b899945	قمم الأمواج/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11630	kh3_gumiship.item	pattern_0480	92a98be9	قمم الأمواج/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11631	kh3_gumiship.item	pattern_0490	5e038b77	قمم الأمواج/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11632	kh3_gumiship.item	pattern_0500	dae9dc33	ريش السهام/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11633	kh3_gumiship.item	pattern_0510	1643dcad	ريش السهام/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11634	kh3_gumiship.item	pattern_0520	98ccdb4e	ريش السهام/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11635	kh3_gumiship.item	pattern_0530	5466dbd0	ريش السهام/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11636	kh3_gumiship.item	pattern_0540	5ea3d2c9	أوراق الشجر/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11637	kh3_gumiship.item	pattern_0550	9209d257	أوراق الشجر/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11638	kh3_gumiship.item	pattern_0560	1c86d5b4	أوراق الشجر/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11639	kh3_gumiship.item	pattern_0570	d02cd52a	أوراق الشجر/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11640	kh3_gumiship.item	pattern_0580	090cc786	نقاط كبيرة/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11641	kh3_gumiship.item	pattern_0590	c5a6c718	نقاط كبيرة/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11642	kh3_gumiship.item	pattern_0600	ad770ec3	نقاط كبيرة/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11643	kh3_gumiship.item	pattern_0610	61dd0e5d	نقاط كبيرة/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11644	kh3_gumiship.item	pattern_0620	ef5209be	خطوط/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11645	kh3_gumiship.item	pattern_0630	23f80920	خطوط/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11646	kh3_gumiship.item	pattern_0640	293d0039	خطوط/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11647	kh3_gumiship.item	pattern_0650	e59700a7	خطوط/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11648	kh3_gumiship.item	pattern_0660	6b180744	قلوب/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11649	kh3_gumiship.item	pattern_0670	a7b207da	قلوب/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11650	kh3_gumiship.item	pattern_0680	7e921576	قلوب/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11651	kh3_gumiship.item	pattern_0690	b23815e8	قلوب/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11652	kh3_gumiship.item	pattern_0700	36d242ac	نقاط بولكا/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11653	kh3_gumiship.item	pattern_0710	fa784232	نقاط بولكا/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11654	kh3_gumiship.item	pattern_0720	74f745d1	نقاط بولكا/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11655	kh3_gumiship.item	pattern_0730	b85d454f	نقاط بولكا/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11656	kh3_gumiship.item	pattern_0740	b2984c56	زهور/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11657	kh3_gumiship.item	pattern_0750	7e324cc8	زهور/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11658	kh3_gumiship.item	pattern_0760	f0bd4b2b	زهور/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11659	kh3_gumiship.item	pattern_0770	3c174bb5	زهور/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11660	kh3_gumiship.item	pattern_0780	e5375919	هندسي/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11661	kh3_gumiship.item	pattern_0790	299d5987	هندسي/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11662	kh3_gumiship.item	pattern_0800	4446dddd	هندسي/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11663	kh3_gumiship.item	pattern_0810	88ecdd43	هندسي/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11664	kh3_gumiship.item	pattern_0820	0663daa0	طاحونة هواء/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11665	kh3_gumiship.item	pattern_0830	cac9da3e	طاحونة هواء/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11666	kh3_gumiship.item	pattern_0840	c00cd327	طاحونة هواء/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11667	kh3_gumiship.item	pattern_0850	0ca6d3b9	طاحونة هواء/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11668	kh3_gumiship.item	pattern_0860	8229d45a	وهج/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11669	kh3_gumiship.item	pattern_0870	4e83d4c4	وهج/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11670	kh3_gumiship.item	pattern_0880	97a3c668	وهج/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11671	kh3_gumiship.item	pattern_0890	5b09c6f6	وهج/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11672	kh3_gumiship.item	pattern_0900	dfe391b2	شبكة/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11673	kh3_gumiship.item	pattern_0910	1349912c	شبكة/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11674	kh3_gumiship.item	pattern_0920	9dc696cf	شبكة/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11675	kh3_gumiship.item	pattern_0930	516c9651	شبكة/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11676	kh3_gumiship.item	pattern_0940	5ba99f48	تارتان/P-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11677	kh3_gumiship.item	pattern_0950	97039fd6	تارتان/P-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11678	kh3_gumiship.item	pattern_0960	198c9835	تارتان/P-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11679	kh3_gumiship.item	pattern_0970	d52698ab	تارتان/P-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11680	kh3_gumiship.item	pattern_1100	778776dd	معينات/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11681	kh3_gumiship.item	pattern_1110	bb2d7643	سداسيات/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11682	kh3_gumiship.item	pattern_1120	35a271a0	حمار وحشي/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11683	kh3_gumiship.item	pattern_1130	f908713e	خطان مزدوجان/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11684	kh3_gumiship.item	pattern_1140	f3cd7827	شعارات/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11685	kh3_gumiship.item	pattern_1145	c4138815	كرة قدم/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11686	kh3_gumiship.item	pattern_1150	3f6778b9	نجوم/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11687	kh3_gumiship.item	pattern_1160	b1e87f5a	البستوني/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11688	kh3_gumiship.item	pattern_1170	7d427fc4	أضواء/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11689	kh3_gumiship.item	pattern_1180	a4626d68	تيجان/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11690	kh3_gumiship.item	pattern_1190	68c86df6	مربعات/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11691	kh3_gumiship.item	pattern_1200	0019a42d	أرابيسك/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11692	kh3_gumiship.item	pattern_1210	ccb3a4b3	قمم الأمواج/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11693	kh3_gumiship.item	pattern_1220	423ca350	ريش السهام/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11694	kh3_gumiship.item	pattern_1230	8e96a3ce	أوراق الشجر/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11695	kh3_gumiship.item	pattern_1240	8453aad7	نقاط كبيرة/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11696	kh3_gumiship.item	pattern_1250	48f9aa49	خطوط/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11697	kh3_gumiship.item	pattern_1260	c676adaa	قلوب/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11698	kh3_gumiship.item	pattern_1270	0adcad34	نقاط بولكا/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11699	kh3_gumiship.item	pattern_1280	d3fcbf98	زهور/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11700	kh3_gumiship.item	pattern_1290	1f56bf06	هندسي/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11701	kh3_gumiship.item	pattern_1300	9bbce842	طاحونة هواء/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11702	kh3_gumiship.item	pattern_1310	5716e8dc	وهج/P	reviewed	unsure: Dazzle = وهج; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11703	kh3_gumiship.item	pattern_1320	d999ef3f	شبكة/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11704	kh3_gumiship.item	pattern_1330	1533efa1	تارتان/P	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11705	kh3_gumiship.item	sticker_0010	b8670548	صفر/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11706	kh3_gumiship.item	sticker_0020	36e802ab	واحد/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11707	kh3_gumiship.item	sticker_0030	fa420235	اثنان/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11708	kh3_gumiship.item	sticker_0040	f0870b2c	ثلاثة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11709	kh3_gumiship.item	sticker_0050	3c2d0bb2	أربعة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11710	kh3_gumiship.item	sticker_0060	b2a20c51	خمسة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11711	kh3_gumiship.item	sticker_0070	7e080ccf	ستة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11712	kh3_gumiship.item	sticker_0080	a7281e63	سبعة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11713	kh3_gumiship.item	sticker_0090	6b821efd	ثمانية/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11714	kh3_gumiship.item	sticker_0100	ef6849b9	تسعة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11715	kh3_gumiship.item	sticker_0110	23c24927	روماني واحد/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11716	kh3_gumiship.item	sticker_0120	ad4d4ec4	روماني اثنان/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11717	kh3_gumiship.item	sticker_0130	61e74e5a	روماني ثلاثة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11718	kh3_gumiship.item	sticker_0140	6b224743	روماني أربعة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11719	kh3_gumiship.item	sticker_0150	a78847dd	روماني خمسة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11720	kh3_gumiship.item	sticker_0160	2907403e	روماني ستة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11721	kh3_gumiship.item	sticker_0170	e5ad40a0	روماني سبعة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11722	kh3_gumiship.item	sticker_0180	3c8d520c	روماني ثمانية/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11723	kh3_gumiship.item	sticker_0190	f0275292	روماني تسعة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11724	kh3_gumiship.item	sticker_0200	98f69b49	روماني عشرة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11725	kh3_gumiship.item	sticker_0210	545c9bd7	ميدالية/S-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11726	kh3_gumiship.item	sticker_0220	dad39c34	ميدالية/S-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11727	kh3_gumiship.item	sticker_0230	16799caa	ميدالية/S-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11728	kh3_gumiship.item	sticker_0240	1cbc95b3	ميدالية/S-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11729	kh3_gumiship.item	sticker_0250	d016952d	ميدالية/S-05	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11730	kh3_gumiship.item	sticker_0260	5e9992ce	نصل χ/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11731	kh3_gumiship.item	sticker_0270	92339250	تاج/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11732	kh3_gumiship.item	sticker_0280	4b1380fc	كينغدوم هارتس/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11733	kh3_gumiship.item	sticker_0290	87b98062	روح/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11734	kh3_gumiship.item	sticker_0300	0353d726	الأنفيرسد/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11735	kh3_gumiship.item	sticker_0310	cff9d7b8	كابوس/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11736	kh3_gumiship.item	sticker_0320	4176d05b	بلا قلب/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11737	kh3_gumiship.item	sticker_0330	8ddcd0c5	اللا أحد/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11738	kh3_gumiship.item	sticker_0340	8719d9dc	كيبلايد/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11739	kh3_gumiship.item	sticker_0350	4bb3d942	روكساس/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11740	kh3_gumiship.item	sticker_0360	c53cdea1	إيراكوس/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11741	kh3_gumiship.item	sticker_0370	0996de3f	نار/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11742	kh3_gumiship.item	sticker_0380	d0b6cc93	جليد/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11743	kh3_gumiship.item	sticker_0390	1c1ccc0d	ماء/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11744	kh3_gumiship.item	sticker_0400	77cb3ea9	صاعقة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11745	kh3_gumiship.item	sticker_0410	bb613e37	فضي/S-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11746	kh3_gumiship.item	sticker_0420	35ee39d4	فضي/S-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11747	kh3_gumiship.item	sticker_0430	f944394a	فضي/S-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11748	kh3_gumiship.item	sticker_0440	f3813053	نفل/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11749	kh3_gumiship.item	sticker_0450	3f2b30cd	أسنان القرش/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11750	kh3_gumiship.item	sticker_0460	b1a4372e	شبكة العنكبوت/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11751	kh3_gumiship.item	sticker_0470	7d0e37b0	زر/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11752	kh3_gumiship.item	sticker_0480	a42e251c	زهرة الكرز/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11753	kh3_gumiship.item	sticker_0490	68842582	الشريط/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11754	kh3_gumiship.item	sticker_0500	ec6e72c6	قمر/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11755	kh3_gumiship.item	sticker_0510	20c47258	نجمة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11756	kh3_gumiship.item	sticker_0520	ae4b75bb	سحابة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11757	kh3_gumiship.item	sticker_0530	62e17525	ملاك/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11758	kh3_gumiship.item	sticker_0540	68247c3c	شيطان/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11759	kh3_gumiship.item	sticker_0550	a48e7ca2	ندفة ثلج/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11760	kh3_gumiship.item	sticker_0560	2a017b41	بالونات/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11761	kh3_gumiship.item	sticker_0570	e6ab7bdf	قوس قزح/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11762	kh3_gumiship.item	sticker_0580	3f8b6973	ألعاب نارية/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11763	kh3_gumiship.item	sticker_0590	f32169ed	عنب/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11764	kh3_gumiship.item	sticker_0600	9bf0a036	أناناس/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11765	kh3_gumiship.item	sticker_0610	575aa0a8	بطيخ/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11766	kh3_gumiship.item	sticker_0620	d9d5a74b	تفاحة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11767	kh3_gumiship.item	sticker_0630	157fa7d5	فطر/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11768	kh3_gumiship.item	sticker_0640	1fbaaecc	ثمرة البلوط/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11769	kh3_gumiship.item	sticker_0650	d310ae52	دعسوقة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11770	kh3_gumiship.item	sticker_0660	5d9fa9b1	جناح فراشة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11771	kh3_gumiship.item	sticker_0670	9135a92f	ورقة/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11772	kh3_gumiship.item	sticker_0680	4815bb83	عين مياو واو/S-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11773	kh3_gumiship.item	sticker_0690	84bfbb1d	عين مياو واو/S-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11774	kh3_gumiship.item	sticker_0700	0055ec59	عين مياو واو/S-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11775	kh3_gumiship.item	sticker_0710	ccffecc7	عين مياو واو/S-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11776	kh3_gumiship.item	sticker_0720	4270eb24	ضمادة/S-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11777	kh3_gumiship.item	sticker_0721	facc8c41	ضمادة/S-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11778	kh3_gumiship.item	sticker_0730	8edaebba	قرع/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11779	kh3_gumiship.item	sticker_0740	841fe2a3	باركود/S	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11780	kh3_gumiship.item	piecelist_0010	12f93d61	جزء مخطط VGA-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11781	kh3_gumiship.item	piecelist_0020	9c763a82	جزء مخطط VGA-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11782	kh3_gumiship.item	piecelist_0030	50dc3a1c	جزء مخطط VGA-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11783	kh3_gumiship.item	piecelist_0040	5a193305	جزء مخطط VGA-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11784	kh3_gumiship.item	piecelist_0050	96b3339b	جزء مخطط VGA-05	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11785	kh3_gumiship.item	piecelist_0060	183c3478	جزء مخطط VGA-06	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11786	kh3_gumiship.item	piecelist_0070	d49634e6	جزء مخطط VGA-07	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11787	kh3_gumiship.item	piecelist_0080	0db6264a	جزء مخطط VGA-08	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11788	kh3_gumiship.item	piecelist_0090	c11c26d4	جزء مخطط VGA-09	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11789	kh3_gumiship.item	piecelist_0100	45f67190	جزء مخطط VGA-10	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11790	kh3_gumiship.item	piecelist_0110	895c710e	جزء مخطط VGA-11	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11791	kh3_gumiship.item	piecelist_0120	07d376ed	جزء مخطط VGA-12	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11792	kh3_gumiship.item	piecelist_0130	cb797673	جزء مخطط VGA-13	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11793	kh3_gumiship.item	piecelist_0140	c1bc7f6a	جزء مخطط VGA-14	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11794	kh3_gumiship.item	piecelist_0150	0d167ff4	جزء مخطط VGA-15	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11795	kh3_gumiship.item	piecelist_0310	6567ef91	جزء مخطط SRS-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11796	kh3_gumiship.item	piecelist_0320	ebe8e872	جزء مخطط SRS-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11797	kh3_gumiship.item	piecelist_0330	2742e8ec	جزء مخطط SRS-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11798	kh3_gumiship.item	piecelist_0340	2d87e1f5	جزء مخطط SRS-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11799	kh3_gumiship.item	piecelist_0350	e12de16b	جزء مخطط SRS-05	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11800	kh3_gumiship.item	piecelist_0360	6fa2e688	جزء مخطط SRS-06	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11801	kh3_gumiship.item	piecelist_0370	a308e616	جزء مخطط SRS-07	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11802	kh3_gumiship.item	piecelist_0380	7a28f4ba	جزء مخطط SRS-08	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11803	kh3_gumiship.item	piecelist_0390	b682f424	جزء مخطط SRS-09	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11804	kh3_gumiship.item	piecelist_0400	dd550680	جزء مخطط SRS-10	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11805	kh3_gumiship.item	piecelist_0410	11ff061e	جزء مخطط SRS-11	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11806	kh3_gumiship.item	piecelist_0420	9f7001fd	جزء مخطط SRS-12	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11807	kh3_gumiship.item	piecelist_0430	53da0163	جزء مخطط SRS-13	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11808	kh3_gumiship.item	piecelist_0440	591f087a	جزء مخطط SRS-14	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11809	kh3_gumiship.item	piecelist_0450	95b508e4	جزء مخطط SRS-15	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11810	kh3_gumiship.item	piecelist_0610	fdc49881	جزء مخطط STR-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11811	kh3_gumiship.item	piecelist_0620	734b9f62	جزء مخطط STR-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11812	kh3_gumiship.item	piecelist_0630	bfe19ffc	جزء مخطط STR-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11813	kh3_gumiship.item	piecelist_0640	b52496e5	جزء مخطط STR-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11814	kh3_gumiship.item	piecelist_0650	798e967b	جزء مخطط STR-05	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11815	kh3_gumiship.item	piecelist_0660	f7019198	جزء مخطط STR-06	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11816	kh3_gumiship.item	piecelist_0670	3bab9106	جزء مخطط STR-07	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11817	kh3_gumiship.item	piecelist_0680	e28b83aa	جزء مخطط STR-08	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11818	kh3_gumiship.item	piecelist_0690	2e218334	جزء مخطط STR-09	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11819	kh3_gumiship.item	piecelist_0700	aacbd470	جزء مخطط STR-10	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11820	kh3_gumiship.item	piecelist_0710	6661d4ee	جزء مخطط STR-11	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11821	kh3_gumiship.item	piecelist_0720	e8eed30d	جزء مخطط STR-12	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11822	kh3_gumiship.item	piecelist_0730	2444d393	جزء مخطط STR-13	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11823	kh3_gumiship.item	piecelist_0740	2e81da8a	جزء مخطط STR-14	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11824	kh3_gumiship.item	piecelist_0750	e22bda14	جزء مخطط STR-15	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11825	kh3_gumiship.item	blueprint_0010	6de0bd31	هايويند مستوى 1	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11826	kh3_gumiship.item	blueprint_0020	e36fbad2	فالكون مستوى 1	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11827	kh3_gumiship.item	blueprint_0030	2fc5ba4c	إنفينسيبل مستوى 1	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11828	kh3_gumiship.item	blueprint_0040	2500b355	هايويند مستوى 2	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11829	kh3_gumiship.item	blueprint_0050	e9aab3cb	فالكون مستوى 2	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11830	kh3_gumiship.item	blueprint_0060	6725b428	إنفينسيبل مستوى 2	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11831	kh3_gumiship.item	blueprint_0070	ab8fb4b6	هايويند مستوى 3	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11832	kh3_gumiship.item	blueprint_0080	72afa61a	فالكون مستوى 3	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11833	kh3_gumiship.item	blueprint_0090	be05a684	إنفينسيبل مستوى 3	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11834	kh3_gumiship.item	blueprint_0100	3aeff1c0	هايويند مستوى 4	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11835	kh3_gumiship.item	blueprint_0110	f645f15e	فالكون مستوى 4	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11836	kh3_gumiship.item	blueprint_0120	78caf6bd	إنفينسيبل مستوى 4	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11837	kh3_gumiship.item	blueprint_0280	9e943885	هايويند الذروة	reviewed	unsure: Peak = الذروة (no glossary entry); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11838	kh3_gumiship.item	blueprint_0290	523e381b	فالكون الذروة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11839	kh3_gumiship.item	blueprint_0300	d6d46f5f	إنفينسيبل الذروة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11840	kh3_gumiship.item	blueprint_0310	1a7e6fc1	قطة نيتشو	reviewed	unsure: Necho Cat = قطة نيتشو (name transliterated); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11841	kh3_gumiship.item	blueprint_0320	94f16822	غوستابوكي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11842	kh3_gumiship.item	blueprint_0330	585b68bc	باندا كوما	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11843	kh3_gumiship.item	blueprint_0340	529e61a5	هوت رود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11844	kh3_gumiship.item	blueprint_0350	9e34613b	ريد نوكتورن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11845	kh3_gumiship.item	blueprint_0360	10bb66d8	طائرة مصنوعة يدويا	reviewed	unsure: Craft Airplane = طائرة مصنوعة يدويا; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11846	kh3_gumiship.item	blueprint_0370	dc116646	غواصة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11847	kh3_gumiship.item	blueprint_0380	053174ea	قاطرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11848	kh3_gumiship.item	blueprint_0390	c99b7474	خنفساء وحيد القرن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11849	kh3_gumiship.item	blueprint_0400	a24c86d0	بطة مطاطية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11850	kh3_gumiship.item	blueprint_0410	6ee6864e	جيغاس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11851	kh3_gumiship.item	blueprint_0420	e06981ad	شفارتسغايست	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11852	kh3_gumiship.item	blueprint_0430	2cc38133	ديناصور محلق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11853	kh3_gumiship.item	blueprint_0440	2606882a	عجلات حلوة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11854	kh3_gumiship.item	blueprint_0450	eaac88b4	سورا المحشو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11855	kh3_gumiship.item	blueprint_0460	64238f57	محارب الكرتون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11856	kh3_gumiship.item	blueprint_0470	a8898fc9	سرب القرطاسية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11857	kh3_gumiship.item	blueprint_0480	71a99d65	بسمارك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11858	kh3_gumiship.item	blueprint_0490	bd039dfb	كاكتوار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11859	kh3_gumiship.item	blueprint_0500	39e9cabf	تونبيري	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11860	kh3_gumiship.item	blueprint_0510	f543ca21	الموغل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11861	kh3_gumiship.item	blueprint_0520	7bcccdc2	أوميغا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11862	kh3_gumiship.item	blueprint_0530	b766cd5c	إنديميون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11863	kh3_gumiship.item	blueprint_0540	bda3c445	القنبلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11864	kh3_gumiship.item	blueprint_0550	7109c4db	العفريت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11865	kh3_gumiship.item	blueprint_0560	ff86c338	ألتروس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11866	kh3_gumiship.item	blueprint_0570	332cc3a6	فيغا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11867	kh3_gumiship.item	blueprint_0580	ea0cd10a	سيريوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11868	kh3_gumiship.item	blueprint_0590	26a6d194	الشهاب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11869	kh3_gumiship.item	blueprint_0600	4e77184f	هايويند الذهبية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11870	kh3_gumiship.item	blueprint_0610	82dd18d1	علامة الاستفهام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11871	kh3_gumiship.item	blueprint_0620	0c521f32	سفينة هوائية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11872	kh3_gumiship.item	blueprint_0630	c0f81fac	الجناح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11873	kh3_gumiship.item	blueprint_0640	ca3d16b5	سيارة خارقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11874	kh3_gumiship.item	blueprint_0650	0697162b	بيتي الحبيب	reviewed	unsure: idiom approximated; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11875	kh3_gumiship.item	blueprint_0660	881811c8	غاليون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11876	kh3_gumiship.item	blueprint_0670	44b21156	محفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11877	kh3_gumiship.item	blueprint_0710	197854be	T-هايويند مستوى 1	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11878	kh3_gumiship.item	blueprint_0720	97f7535d	T-فالكون مستوى 1	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11879	kh3_gumiship.item	blueprint_0730	5b5d53c3	T-إنفينسيبل مستوى 1	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11880	kh3_gumiship.item	blueprint_0740	51985ada	T-هايويند مستوى 2	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11881	kh3_gumiship.item	blueprint_0750	9d325a44	T-فالكون مستوى 2	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11882	kh3_gumiship.item	blueprint_0760	13bd5da7	T-إنفينسيبل مستوى 2	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11883	kh3_gumiship.item	blueprint_0770	df175d39	T-هايويند مستوى 3	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11884	kh3_gumiship.item	blueprint_0780	06374f95	T-فالكون مستوى 3	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11885	kh3_gumiship.item	blueprint_0790	ca9d4f0b	T-إنفينسيبل مستوى 3	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11886	kh3_gumiship.item	blueprint_0800	a746cb51	T-هايويند مستوى 4	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11887	kh3_gumiship.item	blueprint_0810	6beccbcf	T-فالكون مستوى 4	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11888	kh3_gumiship.item	blueprint_0820	e563cc2c	T-إنفينسيبل مستوى 4	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11889	kh3_gumiship.item	blueprint_0980	ef069c8b	T-هايويند الذروة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11890	kh3_gumiship.item	blueprint_0990	23ac9c15	T-فالكون الذروة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11891	kh3_gumiship.item	blueprint_1000	0f222c3e	T-إنفينسيبل الذروة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11892	kh3_gumiship.item	blueprint_1010	c3882ca0	سوشي الفضاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11893	kh3_gumiship.item	blueprint_1020	4d072b43	كتكوت البسكويت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11894	kh3_gumiship.item	blueprint_1030	81ad2bdd	حلزون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11895	kh3_gumiship.item	blueprint_1040	8b6822c4	رأس الظل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11896	kh3_gumiship.item	blueprint_1050	47c2225a	دبابة صغيرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11897	kh3_gumiship.item	blueprint_1060	c94d25b9	سيارة صغيرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11898	kh3_gumiship.item	blueprint_1070	05e72527	رجل الثلج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11899	kh3_gumiship.item	blueprint_1080	dcc7378b	بنتاغوين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11900	kh3_gumiship.item	blueprint_1090	106d3715	مروحية صغيرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11901	kh3_gumiship.item	blueprint_1100	94876051	منطاد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11902	kh3_gumiship.item	blueprint_1110	582d60cf	ثنائي البالون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11903	kh3_gumiship.item	blueprint_1120	d6a2672c	شوكة غوستابوكي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11904	kh3_gumiship.item	blueprint_1130	1a0867b2	سكين غوستابوكي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11905	kh3_gumiship.item	blueprint_1140	10cd6eab	غاليونيت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11906	kh3_gumiship.item	blueprint_1150	dc676e35	الجنية الزرقاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11907	kh3_gumiship.item	blueprint_1160	52e869d6	كركي ورقي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11908	kh3_gumiship.item	blueprint_1170	9e426948	جيغاس الصغير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11909	kh3_gumiship.item	blueprint_1180	47627be4	ثعبان لعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11910	kh3_gumiship.item	blueprint_1190	8bc87b7a	سلحفاة لعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11911	kh3_gumiship.item	blueprint_1200	e319b2a1	خنفساء صغيرة جدا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11912	kh3_gumiship.item	blueprint_1210	2fb3b23f	دراجة صغيرة جدا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11913	kh3_gumiship.item	blueprint_1220	a13cb5dc	تابع علامة الاستفهام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11914	kh3_gumiship.item	blueprint_1230	6d96b542	الطائر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11915	kh3_gumiship.item	blueprint_1240	6753bc5b	دنب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11916	kh3_gumiship.item	blueprint_1250	abf9bcc5	القطب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11917	kh3_gumiship.item	blueprint_1260	2576bb26	الصليب الجنوبي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11918	kh3_gumiship.item	blueprint_1270	e9dcbbb8	الصقر الليلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11919	kh3_gumiship.item	blueprint_1280	30fca914	أثر النيزك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11920	kh3_gumiship.item	blueprint_1290	fc56a98a	فالكون الذهبية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11921	kh3_gumiship.item	blueprint_1300	78bcfece	إنفينسيبل الذهبية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11922	kh3_gumiship.item	blueprint_1310	b416fe50	ميونيير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11923	kh3_gumiship.item	blueprint_1320	3a99f9b3	كوديميون #1	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11924	kh3_gumiship.item	blueprint_1330	f633f92d	كوديميون #2	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11925	kh3_gumiship.item	blueprint_1340	fcf6f034	آيس كريم ملح البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11926	kh3_gumiship.item	blueprint_1350	305cf0aa	طائرة ورقية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11927	kh3_gumiship.item	ability_0010	19342614	ترقية المدفع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11928	kh3_gumiship.item	ability_0020	97bb21f7	ترقية الليزر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11929	kh3_gumiship.item	ability_0030	5b112169	ترقية SW	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11930	kh3_gumiship.item	ability_0040	51d42870	ترقية الصدم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11931	kh3_gumiship.item	ability_0060	13f12f0d	جوائز إضافية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11932	kh3_gumiship.item	ability_0080	067b3d3f	ترقية الشفاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11933	kh3_gumiship.item	ability_0090	cad13da1	حياة تلقائية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11934	kh3_gumiship.item	ability_0100	4e3b6ae5	محول التكلفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11935	kh3_gumiship.item	ability_0110	82916a7b	محول SW	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11936	kh3_gumiship.item	ability_0120	0c1e6d98	تسريع SW	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11937	kh3_gumiship.item	ability_0130	c0b46d06	تسريع التعزيز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11938	kh3_gumiship.item	ability_0140	ca71641f	ترقية HP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11939	kh3_gumiship.item	ability_0150	06db6481	ترقية الدحرجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11940	kh3_gumiship.item	ability_0160	88546362	ممدد الدحرجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11941	kh3_gumiship.item	ability_0170	44fe63fc	ترقية السرعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11942	kh3_gumiship.item	ability_0180	9dde7150	ترقية الحركة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11943	kh3_gumiship.item	ability_0190	517471ce	ماص الصدمات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11944	kh3_gumiship.item	ability_0200	39a5b815	القوة النهائية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11945	kh3_gumiship.item	ability_0210	f50fb88b	المحارب الباسل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11946	kh3_gumiship.item	ability_0220	7b80bf68	المدافع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11947	kh3_gumiship.item	ability_0230	b72abff6	رمية الامتصاص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11948	kh3_gumiship.item	ability_0240	bdefb6ef	رمية التناضح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11949	kh3_gumiship.item	formation_0010	7c4fa1eb	هجوم جانبي	reviewed	unsure: Flank (gummi ability) = هجوم جانبي, meaning guessed; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11950	kh3_gumiship.item	formation_0020	f2c0a608	تتبع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11951	kh3_gumiship.item	spweapon_0010	75cb2e14	عدة الإصلاح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11952	kh3_gumiship.item	spweapon_0020	fb4429f7	حقل القوة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11953	kh3_gumiship.item	spweapon_0030	37ee2969	صاروخ ثقيل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11954	kh3_gumiship.item	spweapon_0040	3d2b2070	رمية مزدوجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11955	kh3_gumiship.item	spweapon_0050	f18120ee	عاصفة نارية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11956	kh3_gumiship.item	spweapon_0060	7f0e270d	عاصفة ليزر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11957	kh3_gumiship.item	spweapon_0070	b3a42793	ليزر ضوء الشمس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11958	kh3_gumiship.item	spweapon_0100	22c462e5	الحاجز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11959	kh3_gumiship.item	spweapon_0110	ee6e627b	ليزر متعقب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11960	kh3_gumiship.item	spweapon_0130	ac4b6506	رمية كهربائية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11961	kh3_gumiship.item	spweapon_0160	e4ab6b62	أسلحة الفارس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11962	kh3_gumiship.item	spweapon_0170	28016bfc	نار ترينتي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11963	kh3_gumiship.item	spweapon_0180	f1217950	البطات المخادعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11964	kh3_gumiship.item	treasure_0010	887ecd46	خريطة الكنز 1	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11965	kh3_gumiship.item	treasure_0020	06f1caa5	خريطة الكنز 2	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11966	kh3_gumiship.item	treasure_0030	ca5bca3b	خريطة الكنز 3	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11967	kh3_gumiship.item	treasure_0040	c09ec322	يعرض مواقع الكنوز في طريق ضوء النجوم على الخريطة والرادار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11968	kh3_gumiship.item	treasure_0050	0c34c3bc	يعرض مواقع الكنوز في التيار الضبابي على الخريطة والرادار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11969	kh3_gumiship.item	treasure_0060	82bbc45f	يعرض مواقع الكنوز في الكسوف على الخريطة والرادار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11970	kh3_gumiship.item	detail_0010	407f9ed2	كتلة غامي ذات حواف حادة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11971	kh3_gumiship.item	detail_0020	cef09931	كتلة غامي ذات حواف مستديرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11972	kh3_gumiship.item	detail_0030	025a99af	كتلة غامي أسطوانية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11973	kh3_gumiship.item	detail_0040	089f90b6	لوح غامي يحسن دحرجة سفينتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11974	kh3_gumiship.item	detail_0050	c4359028	مجموعة من قطع الغامي الأساسية تشكل هيئة محددة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11975	kh3_gumiship.item	detail_0060	4aba97cb	يطلق طلقة مباشرة إلى الأمام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11976	kh3_gumiship.item	detail_0070	86109755	يطلق طلقة قوية مباشرة إلى الأمام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11977	kh3_gumiship.item	detail_0080	5f3085f9	يطلق طلقة شديدة القوة مباشرة إلى الأمام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11978	kh3_gumiship.item	detail_0090	939a8567	يطلق طلقة في اتجاهين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11979	kh3_gumiship.item	detail_0100	1770d223	يطلق طلقة في ثلاثة اتجاهات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11980	kh3_gumiship.item	detail_0110	dbdad2bd	يطلق طلقة في أربعة اتجاهات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11981	kh3_gumiship.item	detail_0120	5555d55e	يطلق طلقة تحدث انفجارا صغيرا عند الارتطام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11982	kh3_gumiship.item	detail_0130	99ffd5c0	يطلق طلقة تحدث انفجارا كبيرا عند الارتطام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11983	kh3_gumiship.item	detail_0140	933adcd9	يطلق طلقة قوية تحدث انفجارا كبيرا عند الارتطام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11984	kh3_gumiship.item	detail_0150	5f90dc47	يولد موجة أفقية عريضة عند استخدام التعزيز.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11985	kh3_gumiship.item	detail_0180	c495c996	يستهدف أقرب عدو تلقائيا ويطلق طلقتين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11986	kh3_gumiship.item	detail_0190	083fc908	يستهدف أقرب عدو تلقائيا ويطلق 4 طلقات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11987	kh3_gumiship.item	detail_0200	60ee00d3	يستهدف حتى عدوين ويطلق ليزرا متعقبا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11988	kh3_gumiship.item	detail_0210	ac44004d	يستهدف حتى 4 أعداء ويطلق ليزرا متعقبا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11989	kh3_gumiship.item	detail_0220	22cb07ae	يستهدف حتى 6 أعداء ويطلق ليزرا متعقبا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11990	kh3_gumiship.item	detail_0230	ee610730	يستهدف تلقائيا العدو صاحب أعلى HP متبق ويطلق 6 أشعة ليزر متعقبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11991	kh3_gumiship.item	detail_0240	e4a40e29	يحسن قوة سفينتك ويتيح لك إلحاق الضرر بالأعداء عند الاصطدام. كما يولد موجة صدم أمامية عند استخدام التعزيز.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11992	kh3_gumiship.item	detail_1010	ee170f43	يحسن سرعة سفينتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11993	kh3_gumiship.item	detail_1020	609808a0	يحسن حركة سفينتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11994	kh3_gumiship.item	detail_1030	ac32083e	يحسن دحرجة سفينتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11995	kh3_gumiship.item	detail_1040	a6f70127	يحسن HP سفينتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11996	kh3_gumiship.item	detail_1050	6a5d01b9	يحسن قوة سفينتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11997	kh3_gumiship.item	detail_1060	e4d2065a	يكشف HP البلا قلب الكبار ويحسن حركة سفينتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11998	kh3_gumiship.item	detail_1070	287806c4	يحسن سرعة سفينتك وحركتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+11999	kh3_gumiship.item	detail_1080	f1581468	يحسن سرعة سفينتك ودحرجتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12000	kh3_gumiship.item	detail_1090	3df214f6	يحسن HP سفينتك وسرعتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12001	kh3_gumiship.item	detail_1100	b91843b2	يحسن قوة سفينتك وسرعتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12002	kh3_gumiship.item	detail_1110	75b2432c	يحسن حركة سفينتك ودحرجتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12003	kh3_gumiship.item	detail_1120	fb3d44cf	يحسن HP سفينتك وحركتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12004	kh3_gumiship.item	detail_1130	37974451	يحسن قوة سفينتك وحركتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12005	kh3_gumiship.item	detail_1140	3d524d48	يحسن HP سفينتك ودحرجتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12006	kh3_gumiship.item	detail_1150	f1f84dd6	يحسن قوة سفينتك ودحرجتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12007	kh3_gumiship.item	detail_1160	7f774a35	يحسن HP سفينتك وقوتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12008	kh3_gumiship.item	detail_1170	b3dd4aab	يكشف HP البلا قلب الكبار ويحسن قوة سفينتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12009	kh3_gumiship.item	detail_2010	c7dfbbb1	قمرة قيادة لسفينة غامي. يجب تضمين واحدة في كل مخطط للسفينة الرئيسية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12010	kh3_gumiship.item	detail_2020	4950bc52	يقلل الضرر الذي تتلقاه سفينتك. ركب أكثر من واحد لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12011	kh3_gumiship.item	detail_2030	85fabccc	يقلل الضرر الذي تتلقاه سفينتك كثيرا. ركب أكثر من واحد لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12012	kh3_gumiship.item	detail_2040	8f3fb5d5	يولد حاجزا بقدر صغير من HP في بداية كل معركة. ركب أكثر من واحد لتقوية الحاجز.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12013	kh3_gumiship.item	detail_2050	4395b54b	يولد حاجزا بقدر كبير من HP في بداية كل معركة. ركب أكثر من واحد لتقوية الحاجز.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12014	kh3_gumiship.item	detail_2060	cd1ab2a8	يفعل وضع الهياج الذي يحسن قوة سفينتك ويمنحك نقاطا أعلى عند هزيمة الأعداء. لكن HP سيثبت عند 1.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12015	kh3_gumiship.item	detail_2070	01b0b236	يكشف HP البلا قلب الكبار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12016	kh3_gumiship.item	detail_3010	69b72a20	الخامة الافتراضية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12017	kh3_gumiship.item	detail_3020	e7382dc3	لون موحد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12018	kh3_gumiship.item	detail_4010	944ed255	يتيح لك تخصيص سفينتك دون تكلفة بناء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12019	kh3_gumiship.item	detail_5010	3a2643c4		todo	skip: empty
+12020	kh3_gumiship.item	detail_5020	b4a94427		todo	skip: empty
+12021	kh3_gumiship.item	detail_5030	780344b9		todo	skip: empty
+12022	kh3_gumiship.item	detail_5040	72c64da0		todo	skip: empty
+12023	kh3_gumiship.item	detail_5050	be6c4d3e		todo	skip: empty
+12024	kh3_gumiship.item	detail_5060	30e34add		todo	skip: empty
+12025	kh3_gumiship.item	detail_5070	fc494a43		todo	skip: empty
+12026	kh3_gumiship.item	detail_5080	256958ef		todo	skip: empty
+12027	kh3_gumiship.item	detail_5090	e9c35871		todo	skip: empty
+12028	kh3_gumiship.item	detail_5100	6d290f35		todo	skip: empty
+12029	kh3_gumiship.item	detail_5110	a1830fab		todo	skip: empty
+12030	kh3_gumiship.item	detail_5120	2f0c0848		todo	skip: empty
+12031	kh3_gumiship.item	detail_5130	e3a608d6		todo	skip: empty
+12032	kh3_gumiship.item	detail_5140	e96301cf		todo	skip: empty
+12033	kh3_gumiship.item	detail_5150	25c90151		todo	skip: empty
+12034	kh3_gumiship.item	detail_5160	ab4606b2		todo	skip: empty
+12035	kh3_gumiship.item	detail_5170	67ec062c		todo	skip: empty
+12036	kh3_gumiship.item	detail_5180	becc1480		todo	skip: empty
+12037	kh3_gumiship.item	detail_5190	7266141e		todo	skip: empty
+12038	kh3_gumiship.item	detail_5200	1ab7ddc5		todo	skip: empty
+12039	kh3_gumiship.item	detail_5210	d61ddd5b		todo	skip: empty
+12040	kh3_gumiship.item	detail_5220	5892dab8		todo	skip: empty
+12041	kh3_gumiship.item	detail_5230	9438da26		todo	skip: empty
+12042	kh3_gumiship.item	detail_5240	9efdd33f		todo	skip: empty
+12043	kh3_gumiship.item	detail_5250	5257d3a1		todo	skip: empty
+12044	kh3_gumiship.item	detail_5260	dcd8d442		todo	skip: empty
+12045	kh3_gumiship.item	detail_5270	1072d4dc		todo	skip: empty
+12046	kh3_gumiship.item	detail_5280	c952c670		todo	skip: empty
+12047	kh3_gumiship.item	detail_5290	05f8c6ee		todo	skip: empty
+12048	kh3_gumiship.item	detail_5300	811291aa		todo	skip: empty
+12049	kh3_gumiship.item	detail_5310	4db89134		todo	skip: empty
+12050	kh3_gumiship.item	detail_5320	c33796d7		todo	skip: empty
+12051	kh3_gumiship.item	detail_5330	0f9d9649		todo	skip: empty
+12052	kh3_gumiship.item	detail_5340	05589f50		todo	skip: empty
+12053	kh3_gumiship.item	detail_5350	c9f29fce		todo	skip: empty
+12054	kh3_gumiship.item	detail_5360	477d982d		todo	skip: empty
+12055	kh3_gumiship.item	detail_5370	8bd798b3		todo	skip: empty
+12056	kh3_gumiship.item	detail_5380	52f78a1f		todo	skip: empty
+12057	kh3_gumiship.item	detail_5390	9e5d8a81		todo	skip: empty
+12058	kh3_gumiship.item	detail_5400	f58a7825		todo	skip: empty
+12059	kh3_gumiship.item	detail_5410	392078bb		todo	skip: empty
+12060	kh3_gumiship.item	detail_5420	b7af7f58		todo	skip: empty
+12061	kh3_gumiship.item	detail_5430	7b057fc6		todo	skip: empty
+12062	kh3_gumiship.item	detail_5440	71c076df		todo	skip: empty
+12063	kh3_gumiship.item	detail_5450	bd6a7641		todo	skip: empty
+12064	kh3_gumiship.item	detail_6010	13eef736		todo	skip: empty
+12065	kh3_gumiship.item	detail_6020	9d61f0d5	سفينة هجومية صممت مع التركيز على الهجوم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12066	kh3_gumiship.item	detail_6030	51cbf04b	سفينة متينة هيئت للدفاع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12067	kh3_gumiship.item	detail_6040	5b0ef952	سفينة ذات قدرات هجومية ودفاعية متوازنة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12068	kh3_gumiship.item	detail_6050	97a4f9cc	سفينة هجومية ذات قوة نيران متقدمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12069	kh3_gumiship.item	detail_6060	192bfe2f	سفينة متينة ذات دفاعات متقدمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12070	kh3_gumiship.item	detail_6070	d581feb1	سفينة متوازنة ذات قدرات هجومية ودفاعية محسنة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12071	kh3_gumiship.item	detail_6080	0ca1ec1d	سفينة هجومية ذات قوة نيران متقدمة جدا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12072	kh3_gumiship.item	detail_6090	c00bec83	سفينة متينة ذات دفاعات متقدمة جدا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12073	kh3_gumiship.item	detail_6100	44e1bbc7	سفينة متوازنة ذات قدرات هجومية ودفاعية محسنة كثيرا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12074	kh3_gumiship.item	detail_6110	884bbb59	سفينة هجومية ذات قوة نيران مذهلة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12075	kh3_gumiship.item	detail_6120	06c4bcba	سفينة متينة ذات دفاعات فائقة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12076	kh3_gumiship.item	detail_6130	ca6ebc24		todo	skip: empty
+12077	kh3_gumiship.item	detail_6140	c0abb53d		todo	skip: empty
+12078	kh3_gumiship.item	detail_6150	0c01b5a3		todo	skip: empty
+12079	kh3_gumiship.item	detail_6160	828eb240		todo	skip: empty
+12080	kh3_gumiship.item	detail_6170	4e24b2de		todo	skip: empty
+12081	kh3_gumiship.item	detail_6180	9704a072		todo	skip: empty
+12082	kh3_gumiship.item	detail_6190	5baea0ec		todo	skip: empty
+12083	kh3_gumiship.item	detail_6200	337f6937		todo	skip: empty
+12084	kh3_gumiship.item	detail_6210	ffd569a9		todo	skip: empty
+12085	kh3_gumiship.item	detail_6220	715a6e4a		todo	skip: empty
+12086	kh3_gumiship.item	detail_6230	bdf06ed4		todo	skip: empty
+12087	kh3_gumiship.item	detail_6240	b73567cd		todo	skip: empty
+12088	kh3_gumiship.item	detail_6250	7b9f6753		todo	skip: empty
+12089	kh3_gumiship.item	detail_6260	f51060b0		todo	skip: empty
+12090	kh3_gumiship.item	detail_6270	39ba602e		todo	skip: empty
+12091	kh3_gumiship.item	detail_6280	e09a7282	سفينة متوازنة ذات قدرات هجومية ودفاعية هائلة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12092	kh3_gumiship.item	detail_6290	2c30721c	سفينة هجومية ذات قوة نيران ساحقة تخترق دفاعات الأعداء مباشرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12093	kh3_gumiship.item	detail_6300	a8da2558	سفينة متينة ذات دفاعات حديدية تصد أي هجوم تقريبا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12094	kh3_gumiship.item	detail_6310	647025c6		todo	skip: empty
+12095	kh3_gumiship.item	detail_6320	eaff2225		todo	skip: empty
+12096	kh3_gumiship.item	detail_6330	265522bb		todo	skip: empty
+12097	kh3_gumiship.item	detail_6340	2c902ba2		todo	skip: empty
+12098	kh3_gumiship.item	detail_6350	e03a2b3c		todo	skip: empty
+12099	kh3_gumiship.item	detail_6360	6eb52cdf		todo	skip: empty
+12100	kh3_gumiship.item	detail_6370	a21f2c41		todo	skip: empty
+12101	kh3_gumiship.item	detail_6380	7b3f3eed		todo	skip: empty
+12102	kh3_gumiship.item	detail_6390	b7953e73		todo	skip: empty
+12103	kh3_gumiship.item	detail_6400	dc42ccd7		todo	skip: empty
+12104	kh3_gumiship.item	detail_6410	10e8cc49		todo	skip: empty
+12105	kh3_gumiship.item	detail_6420	9e67cbaa		todo	skip: empty
+12106	kh3_gumiship.item	detail_6430	52cdcb34		todo	skip: empty
+12107	kh3_gumiship.item	detail_6440	5808c22d		todo	skip: empty
+12108	kh3_gumiship.item	detail_6450	94a2c2b3		todo	skip: empty
+12109	kh3_gumiship.item	detail_6460	1a2dc550		todo	skip: empty
+12110	kh3_gumiship.item	detail_6470	d687c5ce		todo	skip: empty
+12111	kh3_gumiship.item	detail_6480	0fa7d762		todo	skip: empty
+12112	kh3_gumiship.item	detail_6490	c30dd7fc		todo	skip: empty
+12113	kh3_gumiship.item	detail_6500	47e780b8		todo	skip: empty
+12114	kh3_gumiship.item	detail_6510	8b4d8026		todo	skip: empty
+12115	kh3_gumiship.item	detail_6520	05c287c5		todo	skip: empty
+12116	kh3_gumiship.item	detail_6530	c968875b		todo	skip: empty
+12117	kh3_gumiship.item	detail_6540	c3ad8e42		todo	skip: empty
+12118	kh3_gumiship.item	detail_6550	0f078edc		todo	skip: empty
+12119	kh3_gumiship.item	detail_6560	8188893f		todo	skip: empty
+12120	kh3_gumiship.item	detail_6570	4d2289a1	اكتملت مهمة الغامي!<br>تم الحصول على المخطط الخاص+ <color(strong)>فيغا<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12121	kh3_gumiship.item	detail_6580	94029b0d	اكتملت مهمة الغامي!<br>تم الحصول على المخطط الخاص+ <color(strong)>سيريوس<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12122	kh3_gumiship.item	detail_6590	58a89b93	اكتملت مهمة الغامي!<br>تم الحصول على المخطط الخاص+ <color(strong)>الشهاب<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12123	kh3_gumiship.item	detail_6600	30795248		todo	skip: empty
+12124	kh3_gumiship.item	detail_6610	fcd352d6		todo	skip: empty
+12125	kh3_gumiship.item	detail_6620	725c5535		todo	skip: empty
+12126	kh3_gumiship.item	detail_6630	bef655ab		todo	skip: empty
+12127	kh3_gumiship.item	detail_6640	b4335cb2		todo	skip: empty
+12128	kh3_gumiship.item	detail_6650	78995c2c		todo	skip: empty
+12129	kh3_gumiship.item	detail_6660	f6165bcf		todo	skip: empty
+12130	kh3_gumiship.item	detail_6670	3abc5b51		todo	skip: empty
+12131	kh3_gumiship.item	detail_6680	e39c49fd		todo	skip: empty
+12132	kh3_gumiship.item	detail_6690	2f364963		todo	skip: empty
+12133	kh3_gumiship.item	detail_6700	abdc1e27		todo	skip: empty
+12134	kh3_gumiship.item	detail_6710	67761eb9		todo	skip: empty
+12135	kh3_gumiship.item	detail_6720	e9f9195a		todo	skip: empty
+12136	kh3_gumiship.item	detail_6730	255319c4		todo	skip: empty
+12137	kh3_gumiship.item	detail_6740	2f9610dd		todo	skip: empty
+12138	kh3_gumiship.item	detail_6750	e33c1043		todo	skip: empty
+12139	kh3_gumiship.item	detail_6760	6db317a0		todo	skip: empty
+12140	kh3_gumiship.item	detail_6770	a119173e		todo	skip: empty
+12141	kh3_gumiship.item	detail_6780	78390592		todo	skip: empty
+12142	kh3_gumiship.item	detail_6790	b493050c		todo	skip: empty
+12143	kh3_gumiship.item	detail_6800	d9488156		todo	skip: empty
+12144	kh3_gumiship.item	detail_6810	15e281c8		todo	skip: empty
+12145	kh3_gumiship.item	detail_6820	9b6d862b		todo	skip: empty
+12146	kh3_gumiship.item	detail_6830	57c786b5		todo	skip: empty
+12147	kh3_gumiship.item	detail_6840	5d028fac		todo	skip: empty
+12148	kh3_gumiship.item	detail_6850	91a88f32		todo	skip: empty
+12149	kh3_gumiship.item	detail_6860	1f2788d1		todo	skip: empty
+12150	kh3_gumiship.item	detail_6870	d38d884f		todo	skip: empty
+12151	kh3_gumiship.item	detail_6880	0aad9ae3		todo	skip: empty
+12152	kh3_gumiship.item	detail_6890	c6079a7d		todo	skip: empty
+12153	kh3_gumiship.item	detail_6900	42edcd39		todo	skip: empty
+12154	kh3_gumiship.item	detail_6910	8e47cda7		todo	skip: empty
+12155	kh3_gumiship.item	detail_6920	00c8ca44		todo	skip: empty
+12156	kh3_gumiship.item	detail_6930	cc62cada		todo	skip: empty
+12157	kh3_gumiship.item	detail_6940	c6a7c3c3		todo	skip: empty
+12158	kh3_gumiship.item	detail_6950	0a0dc35d		todo	skip: empty
+12159	kh3_gumiship.item	detail_6960	8482c4be		todo	skip: empty
+12160	kh3_gumiship.item	detail_6970	4828c420		todo	skip: empty
+12161	kh3_gumiship.item	detail_6980	9108d68c		todo	skip: empty
+12162	kh3_gumiship.item	detail_6990	5da2d612		todo	skip: empty
+12163	kh3_gumiship.item	detail_7000	712c6639		todo	skip: empty
+12164	kh3_gumiship.item	detail_7010	bd8666a7		todo	skip: empty
+12165	kh3_gumiship.item	detail_7020	33096144		todo	skip: empty
+12166	kh3_gumiship.item	detail_7030	ffa361da		todo	skip: empty
+12167	kh3_gumiship.item	detail_7040	f56668c3		todo	skip: empty
+12168	kh3_gumiship.item	detail_7050	39cc685d		todo	skip: empty
+12169	kh3_gumiship.item	detail_7060	b7436fbe		todo	skip: empty
+12170	kh3_gumiship.item	detail_7070	7be96f20		todo	skip: empty
+12171	kh3_gumiship.item	detail_7080	a2c97d8c		todo	skip: empty
+12172	kh3_gumiship.item	detail_7090	6e637d12		todo	skip: empty
+12173	kh3_gumiship.item	detail_7100	ea892a56		todo	skip: empty
+12174	kh3_gumiship.item	detail_7110	26232ac8		todo	skip: empty
+12175	kh3_gumiship.item	detail_7120	a8ac2d2b		todo	skip: empty
+12176	kh3_gumiship.item	detail_7130	64062db5		todo	skip: empty
+12177	kh3_gumiship.item	detail_7140	6ec324ac		todo	skip: empty
+12178	kh3_gumiship.item	detail_7150	a2692432		todo	skip: empty
+12179	kh3_gumiship.item	detail_7160	2ce623d1		todo	skip: empty
+12180	kh3_gumiship.item	detail_7170	e04c234f		todo	skip: empty
+12181	kh3_gumiship.item	detail_7180	396c31e3		todo	skip: empty
+12182	kh3_gumiship.item	detail_7190	f5c6317d		todo	skip: empty
+12183	kh3_gumiship.item	detail_7200	9d17f8a6		todo	skip: empty
+12184	kh3_gumiship.item	detail_8010	336c019d	أقصى مستوى: {0}<br>كل قطعة مركبة تزيد ضرر المدفع<br>بنسبة {1}%.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12185	kh3_gumiship.item	detail_8020	bde3067e	أقصى مستوى: {0}<br>كل قطعة مركبة تزيد ضرر الليزر بنسبة {1}%.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12186	kh3_gumiship.item	detail_8030	714906e0	أقصى مستوى: {0}<br>كل قطعة مركبة تزيد ضرر السلاح الخاص بنسبة {1}%.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12187	kh3_gumiship.item	detail_8040	7b8c0ff9	أقصى مستوى: {0}<br>كل قطعة مركبة تزيد ضرر غامي الصدم بنسبة {1}%.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12188	kh3_gumiship.item	detail_8050	b7260f67	أقصى مستوى: {0}<br>يزيد عدد الجوائز التي تنالها من الأعداء والعقبات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12189	kh3_gumiship.item	detail_8060	39a90884	أقصى مستوى: {0}<br>يزيد تأثير جوائز HP التي تلتقطها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12190	kh3_gumiship.item	detail_8070	f503081a	أقصى مستوى: {0}<br>يعيد سفينتك إلى حالة القتال مرة واحدة إذا انخفض HP السفينة إلى 0 أثناء المعركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12191	kh3_gumiship.item	detail_8080	2c231ab6	أقصى مستوى: {0}<br>يتيح لك التخلي عن سفينة صغيرة واحدة لكل قطعة مركبة لزيادة حد تكلفة سفينتك الرئيسية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12192	kh3_gumiship.item	detail_8090	e0891a28	أقصى مستوى: {0}<br>يتيح لك التخلي عن سلاحك الخاص لزيادة حد تكلفة سفينتك الرئيسية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12193	kh3_gumiship.item	detail_8100	64634d6c	أقصى مستوى: {0}<br>كل قطعة مركبة تقلل وقت الشحن بعد استخدام سلاحك الخاص بنسبة {1}%.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12194	kh3_gumiship.item	detail_8110	a8c94df2	أقصى مستوى: {0}<br>كل قطعة مركبة تقلل وقت الشحن بعد استخدام عداد التعزيز بنسبة {1}%.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12195	kh3_gumiship.item	detail_8120	26464a11	أقصى مستوى: {0}<br>كل قطعة مركبة تزيد أقصى HP لسفينتك الرئيسية بنسبة {1}%.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12196	kh3_gumiship.item	detail_8130	eaec4a8f	أقصى مستوى: {0}<br>كل قطعة مركبة تزيد دحرجتك بنسبة {1}%.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12197	kh3_gumiship.item	detail_8140	e0294396	أقصى مستوى: {0}<br>كل قطعة مركبة تزيد قليلا من مدة عدم قابليتك للإصابة أثناء الدحرجة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12198	kh3_gumiship.item	detail_8150	2c834308	أقصى مستوى: {0}<br>كل قطعة مركبة تزيد سرعتك بنسبة {1}%.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12199	kh3_gumiship.item	detail_8160	a20c44eb	أقصى مستوى: {0}<br>كل قطعة مركبة تزيد حركتك بنسبة {1}%.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12200	kh3_gumiship.item	detail_8170	6ea64475	أقصى مستوى: {0}<br>يقلل الضرر الناتج عن الاصطدام بالتضاريس وسفن الأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12201	kh3_gumiship.item	detail_8180	b78656d9	أقصى مستوى: {0}<br>يزيد القوة بمقدار {2} كلما بلغ HP المتبقي لسفينتك {1}% أو أقل.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12202	kh3_gumiship.item	detail_8190	7b2c5647	أقصى مستوى: {0}<br>يزيد القوة والنقاط التي تكسبها قليلا حتى أول مرة تتلقى فيها ضررا في المعركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12203	kh3_gumiship.item	detail_8200	13fd9f9c	أقصى مستوى: {0}<br>يقلل الضرر بنسبة 75% عندما يبلغ HP لديك {1}%<br>أو أقل.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12204	kh3_gumiship.item	detail_8210	df579f02	أقصى مستوى: {0}<br>يستعيد قدرا صغيرا من HP لسفينتك عند إلحاق الضرر بالأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12205	kh3_gumiship.item	detail_8220	51d898e1	أقصى مستوى: {0}<br>يستعيد جزءا يسيرا من عداد السلاح عند إلحاق الضرر بالأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12206	kh3_gumiship.item	detail_8230	9d72987f	قدرة المخطط الخاص.<br>تخفض الحد الأقصى للإحصائيات الممكنة مقابل حرية التصميم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12207	kh3_gumiship.item	detail_9010	9d04900c	يستعيد HP لسفينتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12208	kh3_gumiship.item	detail_9020	138b97ef	يفعل حاجزا قصير الأمد يبطل ضرر الأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12209	kh3_gumiship.item	detail_9030	df219771	يرسل صاروخا ضخما متفجرا نحو الأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12210	kh3_gumiship.item	detail_9040	d5e49e68	يضيف مؤقتا حاويات أمامية ذاتية الإطلاق على جانبي السفينة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12211	kh3_gumiship.item	detail_9050	194e9ef6	يطلق سلسلة من المتفجرات الموجهة نحو الأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12212	kh3_gumiship.item	detail_9060	97c19915	يمطر بالليزر جميع الأعداء الذين استهدفتهم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12213	kh3_gumiship.item	detail_9070	5b6b998b	يطلق حلقة من الليزر باستمرار لفترة قصيرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12214	kh3_gumiship.item	detail_9100	ca0bdcfd	يفعل حاجزا يشبه الجدار يوقف نيران الأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12215	kh3_gumiship.item	detail_9110	06a1dc63	يطلق ليزرا يتعقب الأعداء مرارا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12216	kh3_gumiship.item	detail_9130	4484db1e	يطلق ليزرا قويا قادرا على اختراق أي دفاع للأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12217	kh3_gumiship.item	detail_9160	0c64d57a	يزود السفينة بدرع يقلل الضرر ورمح قوي يولد موجة صدم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12218	kh3_gumiship.item	detail_9170	c0ced5e4	يطلق سلسلة من الألعاب النارية الملونة على الأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12219	kh3_gumiship.item	detail_9180	19eec748	يستدعي بطات مطاطية توقف نيران الأعداء ثم تبحر نحوهم وتنفجر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12220	kh3_gumiship.item	detail_9900	cc07aa03		todo	skip: no Latin letters (native script / symbols)
+12221	kh3_gumiship.item	detail_a010	264ec727	يعرض مواقع الكنوز في طريق ضوء النجوم على الخريطة والرادار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12222	kh3_gumiship.item	detail_a020	a8c1c0c4	يعرض مواقع الكنوز في التيار الضبابي على الخريطة والرادار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12223	kh3_gumiship.item	detail_a030	646bc05a	يعرض مواقع الكنوز في الكسوف على الخريطة والرادار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12224	kh3_gumiship.item	detail_9700	2536791d	يحسن قوة سفينتك وسرعتها ودحرجتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12225	kh3_gumiship.item	detail_9710	e99c7983	يحسن HP سفينتك وقوتها وحركتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12226	kh3_gumiship.item	detail_9720	67137e60	يحسن HP سفينتك وقوتها لكنه يقلل الحركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12227	kh3_gumiship.item	detail_9730	abb97efe	يحسن HP سفينتك وحركتها ودحرجتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12228	kh3_gumiship.item	detail_9740	a17c77e7	يحسن HP سفينتك ودحرجتها لكنه يقلل الحركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12229	kh3_gumiship.item	detail_9750	6dd67779	يحسن HP سفينتك وسرعتها وحركتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12230	kh3_gumiship.item	detail_9760	e359709a	يحسن HP سفينتك وسرعتها لكنه يقلل الحركة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1

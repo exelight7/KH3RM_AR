@@ -1,0 +1,1 @@
+فشل: لا توجد صلاحية على مجلد اللعبة / FAILED: no permission on the game folder

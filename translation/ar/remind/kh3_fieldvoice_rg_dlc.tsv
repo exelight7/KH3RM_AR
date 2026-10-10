@@ -1,0 +1,22 @@
+id	namespace	key	source_hash	AR	status	note
+09339	kh3_fieldvoice_rg_dlc.chat	sora_2010	b9f284fd	أظن أن علي فحص هذه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09340	kh3_fieldvoice_rg_dlc.chat	sora_2020	377d831e	هذا لا يستجيب بعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09341	kh3_fieldvoice_rg_dlc.chat	sora_2030	fbd78380	هذا لم يستجب من قبل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09342	kh3_fieldvoice_rg_dlc.talk	leon_2010	5df5763f	لو كانت المنظمة الحقيقية، لتمنيت<br>أن أواجههم أنا بدلا منكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09343	kh3_fieldvoice_rg_dlc.talk	leon_2020	d37a71dc	أنا متأكد أن بيانات سورا<br>تستطيع التعامل مع أي شيء، مهما كان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09344	kh3_fieldvoice_rg_dlc.talk	leon_2030	1fd07142	دليل داخل حلم?<br>سمعت هذا من قبل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09345	kh3_fieldvoice_rg_dlc.talk	leon_2040	1515785b	سنذهب ونبحث عن أدلة في أماكن أخرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09346	kh3_fieldvoice_rg_dlc.talk	aerith_2010	17170ffd	آمل... أن تجد ما تبحث عنه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09347	kh3_fieldvoice_rg_dlc.talk	aerith_2020	9998081e	هل هناك احتمال... أن<br>نساعدكم في شيء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09348	kh3_fieldvoice_rg_dlc.talk	aerith_2030	55320880	إذن هناك دليل داخل حلم ريكو?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09349	kh3_fieldvoice_rg_dlc.talk	aerith_2040	5ff70199	ستخبر كايري بذلك أيضا... أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09350	kh3_fieldvoice_rg_dlc.talk	yuffie_2010	0ffcae2c	أوه، رائع، اترك الأمر لسيد ليعيد بناء<br>أكثر مما يلزم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09351	kh3_fieldvoice_rg_dlc.talk	yuffie_2020	8173a9cf	بيانات سورا ستنجز المهمة بطريقة ما.<br>فهي في النهاية سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09352	kh3_fieldvoice_rg_dlc.talk	yuffie_2030	4dd9a951	أحسنت يا بيانات سورا! لكن للأسف<br>ما زلنا لم نجد أي دليل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09353	kh3_fieldvoice_rg_dlc.talk	yuffie_2040	471ca048	أظن أن الأدلة التي نبحث عنها<br>أقرب مما نتخيل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09354	kh3_fieldvoice_rg_dlc.talk	cid_2010	0b68d635	بيانات سورا أعيد بناؤها بالكامل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09355	kh3_fieldvoice_rg_dlc.talk	cid_2020	85e7d1d6	لم أتوقع أن تعاد بيانات المنظمة هي الأخرى...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09356	kh3_fieldvoice_rg_dlc.talk	cid_2030	494dd148	ولا دليل واحد في البيانات.<br>ولا شيء يستحق بعد عمل سنة كاملة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09357	kh3_fieldvoice_rg_dlc.talk	cid_2040	4388d851	آمل ألا تتوقعوا مني<br>أن أحول حلما إلى بيانات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09358	kh3_fieldvoice_rg_dlc.talk	fgm_2010	d003768a	تعلم، المعلم ين سيد وميرلين<br>قلقان عليك كثيرا يا عزيزي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09359	kh3_fieldvoice_rg_dlc.talk	fgm_2020	5e8c7169	أنا متأكدة أنك ستجد دليلا<br>داخل حلمك يا عزيزي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2

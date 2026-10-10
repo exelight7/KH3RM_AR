@@ -1,0 +1,89 @@
+id	namespace	key	source_hash	AR	status	note
+09007	kh3_fieldvoice_po.chat	sora_0010	3e52a19e	ها هو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09008	kh3_fieldvoice_po.chat	sora_0020	b0dda67d	اذهبوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09009	kh3_fieldvoice_po.chat	sora_0030	7c77a6e3	هل يكفي هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09010	kh3_fieldvoice_po.chat	sora_0040	76b2affa		todo	
+09011	kh3_fieldvoice_po.chat	sora_0060	3497a887	رائع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09012	kh3_fieldvoice_po.chat	sora_0070	f83da819	ممتاز!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09013	kh3_fieldvoice_po.chat	sora_0080	211dbab5	ها نحن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09014	kh3_fieldvoice_po.chat	sora_0090	edb7ba2b	لنبدأ الزراعة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09015	kh3_fieldvoice_po.chat	sora_0100	695ded6f	لنبدأ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09016	kh3_fieldvoice_po.chat	sora_0110	a5f7edf1	شكرا يا أرنب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09017	kh3_fieldvoice_po.chat	sora_0120	2b78ea12	اجمعها كلها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09018	kh3_fieldvoice_po.chat	sora_0130	e7d2ea8c	<pb(1.25)>هذا هو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09019	kh3_fieldvoice_po.chat	sora_0140	ed17e395	شكرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09020	kh3_fieldvoice_po.chat	sora_0150	21bde30b	أحسنت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09021	kh3_fieldvoice_po.chat	sora_0170	6398e476	استمر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09022	kh3_fieldvoice_po.chat	sora_0180	bab8f6da	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09023	kh3_fieldvoice_po.chat	sora_0190	7612f644	فهمت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09024	kh3_fieldvoice_po.chat	sora_0200	1ec33f9f	هات المزيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09025	kh3_fieldvoice_po.chat	sora_0210	d2693f01	كل هذا في يوم عمل واحد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09026	kh3_fieldvoice_po.chat	sora_0220	5ce638e2	أقول إننا نستحق راحة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09027	kh3_fieldvoice_po.chat	pooh_0010	1808b3a8	بطني بدأت تقرقر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09028	kh3_fieldvoice_po.chat	pooh_0020	9687b44b	أنا في مزاج<br>للقمة من العسل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09029	kh3_fieldvoice_po.chat	pooh_0030	5a2db4d5	لذيذ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09030	kh3_fieldvoice_po.chat	pooh_0040	50e8bdcc	عسل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09031	kh3_fieldvoice_po.chat	pooh_0050	9c42bd52	هل ترى أي عسل في الجوار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09032	kh3_fieldvoice_po.chat	pooh_0060	12cdbab1	يا للمتاعب. أنا جائع جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09033	kh3_fieldvoice_po.chat	pooh_0070	de67ba2f	أوه، شكرا لك يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09034	kh3_fieldvoice_po.chat	pooh_0080	0747a883	ربما لقمة صغيرة أخرى...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09035	kh3_fieldvoice_po.chat	pooh_0090	cbeda81d	هل هناك المزيد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09036	kh3_fieldvoice_po.chat	rabbit_0010	efe61e3e	أظنني سأجمع هذه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09037	kh3_fieldvoice_po.chat	rabbit_0020	616919dd	أرجو أنك تركت<br>تلك التي أسعى <i(on)>أنا<i(off)> إليها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09038	kh3_fieldvoice_po.chat	rabbit_0030	adc31943	مبهر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09039	kh3_fieldvoice_po.chat	rabbit_0040	a706105a	أحسنت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09040	kh3_fieldvoice_po.chat	rabbit_0050	6bac10c4	سآخذ تلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09041	kh3_fieldvoice_po.chat	rabbit_0060	e5231727	اسمح لي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09042	kh3_fieldvoice_po.chat	rabbit_0070	298917b9	انظروا إلى ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09043	kh3_fieldvoice_po.chat	rabbit_0080	f0a90515	المزيد! المزيد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09044	kh3_fieldvoice_po.chat	rabbit_0090	3c03058b	شكرا لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09045	kh3_fieldvoice_po.chat	rabbit_0100	b8e952cf	يا إلهي، يا له من خير وفير!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09046	kh3_fieldvoice_po.chat	tigger_0010	ff50d3c3		todo	
+09047	kh3_fieldvoice_po.chat	tigger_0020	71dfd420	هذا أفضل ما يجيده التيغرات!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09048	kh3_fieldvoice_po.chat	lumpy_0010	1f33ad4d	شاهدوا هذا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09049	kh3_fieldvoice_po.chat	lumpy_0020	91bcaaae	أنا سأفعلها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09050	kh3_fieldvoice_po.chat	gopher_0010	fd311162	في خدمتك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09051	kh3_fieldvoice_po.chat	gopher_0020	73be1681	هل طلبني أحد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09052	kh3_fieldvoice_po.talk	pooh_0010	1808b3a8	هل نساعد الأرنب في حديقته يا سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09053	kh3_fieldvoice_po.talk	pooh_0020	9687b44b	أود كثيرا بعض العسل الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09054	kh3_fieldvoice_po.talk	pooh_0030	5a2db4d5	هل هناك خطب يا سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09055	kh3_fieldvoice_po.talk	pooh_0040	50e8bdcc	أوه، مرحبا يا سورا. من الجميل أن أراك<br>في يوم مشمس كهذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09056	kh3_fieldvoice_po.talk	pooh_0050	9c42bd52	أظنني سأجوع مجددا قريبا جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09057	kh3_fieldvoice_po.talk	pooh_0060	12cdbab1	أتعرف، أحيانا أقف على الجسر<br>وأبحث عن أشكال غريبة في الأوراق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09058	kh3_fieldvoice_po.talk	rabbit_0010	efe61e3e	حديقة خضراواتي هناك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09059	kh3_fieldvoice_po.talk	rabbit_0020	616919dd	كل بستاني يعرف أن سر الحصاد الوفير<br>هو النسب الصحيحة والتوقيت المثالي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09060	kh3_fieldvoice_po.talk	rabbit_0030	adc31943	الفاكهة هناك في البستان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09061	kh3_fieldvoice_po.talk	rabbit_0040	a706105a	كلما حصدنا أكثر، زاد حماس<br>الجميع للمساعدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09062	kh3_fieldvoice_po.talk	rabbit_0050	6bac10c4	رقعة الأزهار هناك. أتراها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09063	kh3_fieldvoice_po.talk	rabbit_0060	e5231727	تأكد من أن تترك لي الكثير لأحصده.<br>سأنجز العمل بإتقان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09064	kh3_fieldvoice_po.talk	rabbit_0070	298917b9	سورا! كم هو جميل أن أراك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09065	kh3_fieldvoice_po.talk	rabbit_0080	f0a90515	إنه يوم رائع للزراعة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09066	kh3_fieldvoice_po.talk	rabbit_0090	3c03058b	سورا، هل أخبرتك? لفت نظري رمز مميز جدا<br>وأنا أغسل الملابس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09067	kh3_fieldvoice_po.talk	tigger_0010	ff50d3c3	التيغرات يحبون الزراعة.<br>لكن ليس بقدر القفز!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09068	kh3_fieldvoice_po.talk	tigger_0020	71dfd420	هل حان وقت القفز? هاه? هاه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09069	kh3_fieldvoice_po.talk	tigger_0030	bd75d4be	أتريد أن نقفز معا يا سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09070	kh3_fieldvoice_po.talk	tigger_0040	b7b0dda7	سورا! هل تدربت على قفزتك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09071	kh3_fieldvoice_po.talk	tigger_0050	7b1add39	اترك الزراعة لي أنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09072	kh3_fieldvoice_po.talk	tigger_0060	f595dada	هل رأيت شيئا في الأوراق<br>حين قفزت هناك? لا، مستحيل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09073	kh3_fieldvoice_po.talk	piglet_0010	cdc65cf0	هل تظن أن هناك طريقة لأساعد?<br>أود ذلك كثيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09074	kh3_fieldvoice_po.talk	piglet_0020	43495b13	أرجو أن نجد الكثير والكثير من الفاكهة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09075	kh3_fieldvoice_po.talk	piglet_0030	8fe35b8d	أوه، أحب الأزهار! ألا تحبها أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09076	kh3_fieldvoice_po.talk	piglet_0040	85265294	أوه! مرحبا يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09077	kh3_fieldvoice_po.talk	piglet_0050	498c520a	هل خططت لشيء مثير اليوم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09078	kh3_fieldvoice_po.talk	piglet_0060	c70355e9	آه، لاحظت أن لأوراق الشجر شكلا مثيرا للاهتمام<br>حين تنظر إليها من الجسر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09079	kh3_fieldvoice_po.talk	lumpy_0010	1f33ad4d	أريد أن أساعد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09080	kh3_fieldvoice_po.talk	lumpy_0020	91bcaaae	سنكون بارعين جدا في هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09081	kh3_fieldvoice_po.talk	lumpy_0030	5d16aa30	رائحة الأزهار جميلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09082	kh3_fieldvoice_po.talk	lumpy_0040	57d3a329	مرحبا يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09083	kh3_fieldvoice_po.talk	lumpy_0050	9b79a3b7	سورا، هل نلعب في الحديقة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09084	kh3_fieldvoice_po.talk	roo_0010	efe403cd	هيا! سنجمع الكثير و<i(on)>الكثير<i(off)> من الخضراوات!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09085	kh3_fieldvoice_po.talk	roo_0020	616b042e	سأكون أفضل جامع فاكهة على الإطلاق!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09086	kh3_fieldvoice_po.talk	roo_0030	adc104b0	واو... انظروا إلى كل هذه الأزهار الجميلة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09087	kh3_fieldvoice_po.talk	roo_0040	a7040da9	سورا، لقد عدت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09088	kh3_fieldvoice_po.talk	roo_0050	6bae0d37	لنزرع المزيد! سيكون ممتعا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09089	kh3_fieldvoice_po.talk	roo_0060	e5210ad4	وجدت أنا والأرنب شكلا رائعا جدا<br>حين كنت أساعده في غسل الملابس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09090	kh3_fieldvoice_po.talk	gopher_0010	fd311162	لا تكاسل. جدولي مزدحم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09091	kh3_fieldvoice_po.talk	gopher_0020	73be1681	قل فقط أين أحفر يا بني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09092	kh3_fieldvoice_po.talk	gopher_0030	bf14161f	أزهار، هاه? إذن هذا ما يدبره...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09093	kh3_fieldvoice_po.talk	gopher_0040	b5d11f06	سعيد برؤيتك يا بني. آه، هل أنت مشغول?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+09094	kh3_fieldvoice_po.talk	gopher_0050	797b1f98	قل الكلمة فقط، آه، إن احتجت إلى خدماتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2

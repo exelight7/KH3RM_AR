@@ -1,0 +1,275 @@
+id	namespace	key	source_hash	AR	status	note
+13852	kh3_menu.save	detail_0001_dlc	3e2de16e	اختر خانة للحفظ فيها.<br><color(strong)>(<icon(dlc)> المحتوى الإضافي)<color>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+13854	kh3_menu.save	detail_0002_dlc	9184aca4	اختر خانة للتحميل منها.<br><color(strong)>(<icon(dlc)> المحتوى الإضافي)<color>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+13856	kh3_menu.save	detail_0003_dlc	f4e397e2	اختر خانة لنقل البيانات منها.<br><color(strong)>(<icon(dlc)> المحتوى الإضافي)<color>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14454	kh3_menu.hologram	title_0010	e3c6eb2e	تحية البيانات	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14455	kh3_menu.hologram	title_0020	6d49eccd	المواقع	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14456	kh3_menu.hologram	title_0030	a1e3ec53	الشخصيات	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14457	kh3_menu.hologram	title_0040	ab26e54a	الأشياء	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14458	kh3_menu.hologram	title_0050	678ce5d4	تأثيرات الشاشة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14459	kh3_menu.hologram	title_0060	e903e237	النظام	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14460	kh3_menu.hologram	title_0070	25a9e2a9	الأدوات المرئية	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14461	kh3_menu.hologram	menu_0010	bbe8907f	جديد	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14462	kh3_menu.hologram	menu_0020	3567979c	تحميل	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14463	kh3_menu.hologram	menu_0030	f9cd9702	الشخصيات	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14464	kh3_menu.hologram	menu_0040	f3089e1b	الأشياء	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14465	kh3_menu.hologram	menu_0050	3fa29e85	تأثيرات الشاشة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14466	kh3_menu.hologram	menu_0060	b12d9966	إعادة ضبط الكل	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14467	kh3_menu.hologram	menu_0070	7d8799f8	حفظ	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14468	kh3_menu.hologram	menu_0080	a4a78b54	المواقع	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14469	kh3_menu.hologram	menu_0090	680d8bca	النظام	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14470	kh3_menu.hologram	menu_0100	ece7dc8e	خروج	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14471	kh3_menu.hologram	menu_0110	204ddc10	حفظ الصورة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14472	kh3_menu.hologram	menu_0120	aec2dbf3	الألبوم	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14473	kh3_menu.hologram	menu_0130	6268db6d	مساعدة اللعبة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14474	kh3_menu.hologram	menu_0140	68add274	وضع الشخصيات	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14475	kh3_menu.hologram	menu_0150	a407d2ea	الأدوات المرئية	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14476	kh3_menu.hologram	detail_0010	407f9ed2	إنشاء تحية بيانات جديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14477	kh3_menu.hologram	detail_0020	cef09931	تحميل بيانات تحية البيانات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14478	kh3_menu.hologram	detail_0030	025a99af	اختر موقع صورتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14479	kh3_menu.hologram	detail_0040	089f90b6	ضع شخصية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14480	kh3_menu.hologram	detail_0050	c4359028	ضع شيئا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14481	kh3_menu.hologram	detail_0060	4aba97cb	ضع تأثير شاشة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14482	kh3_menu.hologram	detail_0070	86109755	إعادة ضبط كل العناصر الموضوعة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14483	kh3_menu.hologram	detail_0080	5f3085f9	حفظ الإعداد الحالي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14484	kh3_menu.hologram	detail_0090	939a8567	تغيير الموقع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14485	kh3_menu.hologram	detail_0100	1770d223	عرض قائمة النظام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14486	kh3_menu.hologram	detail_0110	dbdad2bd	الخروج من تحية البيانات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14487	kh3_menu.hologram	detail_0120	5555d55e	اختر شخصية لوضعها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14488	kh3_menu.hologram	detail_0130	99ffd5c0	الشخصية المختارة تتجاوز العدد الأقصى المسموح،<br>لذا ستحل محل شخصية مماثلة موضوعة بالفعل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14489	kh3_menu.hologram	detail_0140	933adcd9	اختر شيئا لوضعه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14490	kh3_menu.hologram	detail_0150	5f90dc47	الشيء المختار يتجاوز العدد الأقصى المسموح،<br>لذا سيحل محل شيء مماثل موضوع بالفعل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14491	kh3_menu.hologram	detail_0160	d11fdba4	اضبط أدوات مرئية تغير بيئة الصورة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14492	kh3_menu.hologram	detail_0170	1db5db3a	اختر أداة مرئية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14493	kh3_menu.hologram	detail_0180	c495c996	احفظ بيانات صورتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14494	kh3_menu.hologram	detail_0190	083fc908	الانتقال إلى مساعدة اللعبة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14495	kh3_menu.hologram	detail_0200	60ee00d3	لا توجد شخصيات موضوعة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14496	kh3_menu.hologram	detail_0210	ac44004d	حدد موضعا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14497	kh3_menu.hologram	detail_0220	22cb07ae	اختر تأثير الشاشة الذي تريد استخدامه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14498	kh3_menu.hologram	timestamp_01	2513e898	{1}/{2}/{0}	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14499	kh3_menu.hologram	timestamp_02	37a64776	{0}:{1}	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14500	kh3_menu.hologram	category_character_0010	c7bf5ff9	الشخصيات الرئيسية	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14501	kh3_menu.hologram	category_character_0020	4930581a	الشخصيات الرئيسية {0}	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14502	kh3_menu.hologram	category_character_0030	859a5884	منظمة XIII الحقيقية	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14503	kh3_menu.hologram	category_character_0040	8f5f519d	منظمة XIII الحقيقية {0}	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14504	kh3_menu.hologram	category_character_0050	43f55103	الأعداء	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14505	kh3_menu.hologram	category_character_0060	cd7a56e0	الأعداء {0}	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14506	kh3_menu.hologram	category_character_0070	01d0567e	أخرى	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14507	kh3_menu.hologram	category_character_0080	d8f044d2	أخرى {0}	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14508	kh3_menu.hologram	category_character_0090	145a444c	سورا (KH2)	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14509	kh3_menu.hologram	category_object_0010	0a74a0dd	آكل الأحلام	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14510	kh3_menu.hologram	category_object_0020	84fba73e	غامي مصغر	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14511	kh3_menu.hologram	category_object_0030	4851a7a0	قطع الغامي	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14512	kh3_menu.hologram	category_object_0040	4294aeb9	السحر	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14513	kh3_menu.hologram	category_object_0050	8e3eae27	أخرى	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14514	kh3_menu.hologram	category_screeneffect_0010	e114bad6	التأثيرات	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14515	kh3_menu.hologram	category_screeneffect_0020	6f9bbd35	المرشحات	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14516	kh3_menu.hologram	category_assist_0010	aa479d30	المنصات	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14517	kh3_menu.hologram	category_assist_0020	24c89ad3	مصادر الضوء	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14518	kh3_menu.hologram	select_0010	1a7e2316	الموقع {0}	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14519	kh3_menu.hologram	select_0020	94f124f5	{0} {1}	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14520	kh3_menu.hologram	select_0030	585b246b	بدون كيبلايد	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14521	kh3_menu.hologram	select_0040	529e2d72	الملصقات	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14522	kh3_menu.hologram	select_0050	9e342dec	التأثير {0}	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14523	kh3_menu.hologram	select_0060	10bb2a0f	مفعل	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14524	kh3_menu.hologram	select_0070	dc112a91	معطل	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14525	kh3_menu.hologram	select_0080	0531383d	－	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14526	kh3_menu.hologram	select_0090	c99b38a3	مياو واو	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14527	kh3_menu.hologram	select_0100	4d716fe7	خفاش كومري	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14528	kh3_menu.hologram	select_0110	81db6f79	تابغوين إيس	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14529	kh3_menu.hologram	select_0120	0f54689a	خروف تاما	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14530	kh3_menu.hologram	select_0130	c3fe6804	بريكلمين	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14531	kh3_menu.hologram	select_0140	c93b611d	غوستابوكي	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14532	kh3_menu.hologram	select_0150	05916183	هيبي ريب	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14533	kh3_menu.hologram	select_0160	8b1e6660	باندا كوما	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14534	kh3_menu.hologram	select_0170	47b466fe	قطة نيتشو	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14535	kh3_menu.hologram	select_0180	9e947452	اللورد كيرو	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14536	kh3_menu.hologram	select_0190	523e74cc	تنين ريو	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14537	kh3_menu.hologram	select_0200	3aefbd17	إسكارغلو	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14538	kh3_menu.hologram	select_0210	f645bd89	هايويند	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14539	kh3_menu.hologram	select_0220	78caba6a	مكوك الضربة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14540	kh3_menu.hologram	select_0230	b460baf4	مانتا الصاروخ	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14541	kh3_menu.hologram	select_0240	bea5b3ed	غبار النجوم	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14542	kh3_menu.hologram	select_0250	720fb373	المبهر	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14543	kh3_menu.hologram	select_0260	fc80b490	مدفعي الشعلة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14544	kh3_menu.hologram	select_0270	302ab40e	الفراشة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14545	kh3_menu.hologram	select_0280	e90aa6a2	عنقود اللهب	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14546	kh3_menu.hologram	select_0290	25a0a63c	الليزر الثقيل	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14547	kh3_menu.hologram	select_0300	a14af178	البرج الصغير	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14548	kh3_menu.hologram	select_0310	6de0f1e6	دوار الجناح	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14549	kh3_menu.hologram	select_0320	e36ff605	فانوس الفضاء	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14550	kh3_menu.hologram	select_0330	2fc5f69b	غواص الصوت	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14551	kh3_menu.hologram	select_0340	2500ff82	بطريق الصقيع	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14552	kh3_menu.hologram	select_0350	e9aaff1c	المراقب	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14553	kh3_menu.hologram	select_0360	6725f8ff	صاروخ ثقيل	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14554	kh3_menu.hologram	select_0370	ab8ff861	البطات المخادعة: أحمر	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14555	kh3_menu.hologram	select_0380	72afeacd	البطات المخادعة: أزرق	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14556	kh3_menu.hologram	select_0390	be05ea53	البطات المخادعة: أخضر	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14557	kh3_menu.hologram	select_0400	d5d218f7	كلب/G-01	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14558	kh3_menu.hologram	select_0410	19781869	كلب/G-02	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14559	kh3_menu.hologram	select_0420	97f71f8a	قطة/G	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14560	kh3_menu.hologram	select_0430	5b5d1f14	صوص/G	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14561	kh3_menu.hologram	select_0440	5198160d	الهدية/G	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14562	kh3_menu.hologram	select_0450	9d321693	الكنز/G	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14563	kh3_menu.hologram	select_0460	13bd1170	فطيرة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14564	kh3_menu.hologram	select_0470	df1711ee	مثلجات ملح البحر	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14565	kh3_menu.hologram	select_0480	06370342	بلورة: نار	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14566	kh3_menu.hologram	select_0490	ca9d03dc	بلورة: جليد	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14567	kh3_menu.hologram	select_0500	4e775498	بلورة: البرق	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14568	kh3_menu.hologram	select_0510	82dd5406	بلورة: ماء	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14569	kh3_menu.hologram	select_0520	0c5253e5	بلورة: ريح	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14570	kh3_menu.hologram	select_0530	c0f8537b	بلورة: نور	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14571	kh3_menu.hologram	select_0540	ca3d5a62	بلورة: ظلام	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14572	kh3_menu.hologram	select_0560	88185d1f	ضربة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14573	kh3_menu.hologram	select_0570	44b25d81	انفجار سحري	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14574	kh3_menu.hologram	select_0580	9d924f2d	هالة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14575	kh3_menu.hologram	select_0590	51384fb3	نار	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14576	kh3_menu.hologram	select_0600	39e98668	ماء	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14577	kh3_menu.hologram	select_0610	f54386f6	جليد	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14578	kh3_menu.hologram	select_0620	7bcc8115	البرق	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14579	kh3_menu.hologram	select_0630	b766818b	ريح	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14580	kh3_menu.hologram	select_0640	bda38892	النور	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14581	kh3_menu.hologram	select_0650	7109880c	الظلام	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14582	kh3_menu.hologram	select_0660	ff868fef	ماس كهربائي	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14583	kh3_menu.hologram	select_0670	332c8f71	الصدم	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14584	kh3_menu.hologram	select_0680	ea0c9ddd	تحطم	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14585	kh3_menu.hologram	select_0690	26a69d43	الحرق	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14586	kh3_menu.hologram	select_0700	a24cca07	التألق	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14587	kh3_menu.hologram	select_0710	6ee6ca99	الكون	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14588	kh3_menu.hologram	select_0720	e069cd7a	ريكو (شعر شبه طويل)	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14589	kh3_menu.hologram	select_0730	2cc3cde4	الحركة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14590	kh3_menu.hologram	select_0740	2606c4fd	الهجوم	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14591	kh3_menu.hologram	select_0750	eaacc463	تلقي الضرر	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14592	kh3_menu.hologram	select_0760	6423c380	عادي	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14593	kh3_menu.hologram	select_0770	a889c31e	سعيد	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14594	kh3_menu.hologram	select_0780	71a9d1b2	غاضب	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14595	kh3_menu.hologram	select_0790	bd03d12c	حزين	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14596	kh3_menu.hologram	select_0800	d0d85576	مندهش	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14597	kh3_menu.hologram	select_0810	1c7255e8	منزعج	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14598	kh3_menu.hologram	select_0820	92fd520b	بريق	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14599	kh3_menu.hologram	select_0830	5e575295	توهج	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14600	kh3_menu.hologram	select_0840	54925b8c	زهرة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14601	kh3_menu.hologram	select_0850	98385b12	شرارة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14602	kh3_menu.hologram	select_0860	16b75cf1	حجر	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14603	kh3_menu.hologram	select_0870	da1d5c6f	دخان	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14604	kh3_menu.hologram	select_0880	033d4ec3	زغب	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14605	kh3_menu.hologram	select_0890	cf974e5d	ريشة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14606	kh3_menu.hologram	select_0900	4b7d1919	ثلج	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14607	kh3_menu.hologram	select_0910	87d71987	أحادي اللون	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14608	kh3_menu.hologram	select_0920	09581e64	سيبيا	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14609	kh3_menu.hologram	select_0930	c5f21efa	التباين: قوي	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14610	kh3_menu.hologram	select_0940	cf3717e3	التباين: ضعيف	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14611	kh3_menu.hologram	select_0950	039d177d	أحمر	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14612	kh3_menu.hologram	select_0960	8d12109e	أزرق	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14613	kh3_menu.hologram	select_0970	41b81000	أصفر	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14614	kh3_menu.hologram	select_0980	989802ac	صغير	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14615	kh3_menu.hologram	select_0990	54320232	متوسط	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14616	kh3_menu.hologram	select_1000	78bcb219	كبير	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14617	kh3_menu.hologram	select_1010	b416b287	منصة خفية: A	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14618	kh3_menu.hologram	select_1020	3a99b564	منصة خفية: B	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14619	kh3_menu.hologram	select_1030	f633b5fa	منصة خفية: C	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14620	kh3_menu.hologram	select_1040	fcf6bce3	منصة خفية: D	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14621	kh3_menu.hologram	select_1050	305cbc7d	منصة خفية: E	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14622	kh3_menu.hologram	select_1060	bed3bb9e	منصة خفية: F	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14623	kh3_menu.hologram	select_1070	7279bb00	مصدر ضوء: أحمر	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14624	kh3_menu.hologram	select_1080	ab59a9ac	مصدر ضوء: أزرق	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14625	kh3_menu.hologram	select_1090	67f3a932	مصدر ضوء: أصفر	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14626	kh3_menu.hologram	select_1100	e319fe76	مصدر ضوء: أبيض	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14627	kh3_menu.hologram	guide_0010	e79e7e68	القائمة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14628	kh3_menu.hologram	guide_0020	6911798b	الشخصيات	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14629	kh3_menu.hologram	guide_0030	a5bb7915	الأشياء	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14630	kh3_menu.hologram	guide_0040	af7e700c	التأثيرات	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14631	kh3_menu.hologram	guide_0050	63d47092	الوضعية	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14632	kh3_menu.hologram	guide_0060	ed5b7771	الوجه	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14633	kh3_menu.hologram	guide_0070	21f177ef	السلاح	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14634	kh3_menu.hologram	guide_0080	f8d16543	تدوير	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14635	kh3_menu.hologram	guide_0090	347b65dd	تحريك	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14636	kh3_menu.hologram	guide_0100	b0913299	حذف	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14637	kh3_menu.hologram	guide_0110	7c3b3207	تبديل وضع التعديل	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14638	kh3_menu.hologram	guide_0120	f2b435e4	الارتفاع	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14639	kh3_menu.hologram	guide_0130	3e1e357a	تعديل	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14640	kh3_menu.hologram	guide_0140	34db3c63	مرشح	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14641	kh3_menu.hologram	guide_0150	f8713cfd	النوع	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14642	kh3_menu.hologram	guide_0160	76fe3b1e	الحجم	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14643	kh3_menu.hologram	guide_0170	ba543b80	وضع	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14644	kh3_menu.hologram	guide_0180	6374292c	وضع وتعديل	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14645	kh3_menu.hologram	guide_0190	afde29b2	وضع آخر	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14646	kh3_menu.hologram	guide_0200	c70fe069	رجوع	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14647	kh3_menu.hologram	guide_0210	0ba5e0f7	الميل	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14648	kh3_menu.hologram	guide_0220	852ae714	اللف	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14649	kh3_menu.hologram	guide_0230	4980e78a	إعادة ضبط الميل/اللف	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14650	kh3_menu.hologram	information_0010	6da9a1a5	لا يمكنك التقدم أكثر من ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14651	kh3_menu.hologram	dialog_0010	4a0702a0	اختر خانة لحفظ بيانات صورة تحية البيانات فيها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14652	kh3_menu.hologram	dialog_0020	c4880543	أضيفت الشخصية <color(strong)>{0}<color><br>إلى تحية البيانات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14653	kh3_menu.hologram	dialog_0030	082205dd	أضيف موقع جديد إلى تحية البيانات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14654	kh3_menu.hologram	dialog_0040	02e70cc4	الانتقال إلى هذا الموقع?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14655	kh3_menu.hologram	dialog_0050_01	3f77bbcb	تم بلوغ الحد الأقصى لعدد الشخصيات.<br>لوضع شخصية جديدة، احذف شخصية<br>موضوعة بالفعل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14656	kh3_menu.hologram	dialog_0050_02	2dc21425	تم بلوغ الحد الأقصى لعدد الأشياء.<br>لوضع شيء جديد، احذف شيئا<br>موضوعا بالفعل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14657	kh3_menu.hologram	dialog_0060	40c20bb9	إعادة ضبط كل العناصر الموضوعة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14658	kh3_menu.hologram	dialog_0070	8c680b27	تحميل بيانات الحفظ?<br><color(strong)>سيضيع كل تقدم لم يحفظ.<color>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14659	kh3_menu.hologram	dialog_0080	5548198b	الانتقال إلى موقع جديد?<br><color(strong)>سيضيع كل تقدم لم يحفظ.<color>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14660	kh3_menu.hologram	dialog_0090_01	ec418620	لا يمكن وضع المزيد من هذه الشخصية. هل تستبدل الشخصية<br>المماثلة الموضوعة حاليا بهذه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14661	kh3_menu.hologram	dialog_0090_02	fef429ce	لا يمكن وضع المزيد من هذا الشيء. هل تستبدل الشيء<br>المماثل الموضوع حاليا بهذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14662	kh3_menu.hologram	dialog_0100	1d084e51	حذف هذه الشخصية?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14663	kh3_menu.hologram	dialog_0101	a5b42934	حذف هذا الشيء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14664	kh3_menu.hologram	dialog_0102	b70186da	حذف هذه الأداة المرئية?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14665	kh3_menu.hologram	dialog_0110	d1a24ecf	الخروج من تحية البيانات?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14666	kh3_menu.hologram	dialog_0120	5f2d492c	لاستخدام تحية البيانات، يجب حفظ بياناتك الحالية.<br>الصور الملتقطة أثناء تحية البيانات ستحفظ<br>في البيانات المنشأة هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14667	kh3_menu.hologram	dialog_0130	938749b2	حفظ الصور?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14668	kh3_menu.hologram	dialog_0140	994240ab	تم بلوغ الحد الأقصى لعدد التأثيرات.<br>لوضع تأثير جديد، احذف تأثيرا موضوعا<br>بالفعل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14669	kh3_menu.hologram	dialog_0150	55e84035	الأداة المختارة تتجاوز العدد الأقصى المسموح،<br>لذا ستحل محل أداة مماثلة موضوعة بالفعل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14670	kh3_menu.slideshow	title_0010	e3c6eb2e	عرض الصور	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14671	kh3_menu.slideshow	title_0020	6d49eccd	اختر الموسيقى الخلفية	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14672	kh3_menu.slideshow	title_0030	a1e3ec53	معاينة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14673	kh3_menu.slideshow	title_0040	ab26e54a	تعديل	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14674	kh3_menu.slideshow	title_0050	678ce5d4	<color(heading)>بسيط<color>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14675	kh3_menu.slideshow	title_0060	e903e237	<color(strong)>فاخر<color>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14676	kh3_menu.slideshow	menu_0010	bbe8907f	جديد	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14677	kh3_menu.slideshow	menu_0020	3567979c	تحميل	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14678	kh3_menu.slideshow	menu_0030	f9cd9702	تشغيل	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14679	kh3_menu.slideshow	menu_0040	f3089e1b	تسجيل	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14680	kh3_menu.slideshow	menu_0050	3fa29e85	تغيير الصورة	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14681	kh3_menu.slideshow	menu_0060	b12d9966	حفظ	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14682	kh3_menu.slideshow	menu_0070	7d8799f8	اختر الموسيقى الخلفية	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14683	kh3_menu.slideshow	menu_0080	a4a78b54	خروج	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14684	kh3_menu.slideshow	menu_0200	9b790e7e	مجلد الحفظ	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14685	kh3_menu.slideshow	bgm_0010	262949c3	ديرلي بيلوفد -إعادة-	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14686	kh3_menu.slideshow	bgm_0020	a8a64e20	هاند إن هاند ～أتراكشن فلو～	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14687	kh3_menu.slideshow	bgm_0030	640c4ebe	ووركينغ توغيذر -نسخة تريس-	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14688	kh3_menu.slideshow	bgm_0040	6ec947a7	موجة الظلام	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14689	kh3_menu.slideshow	bgm_0050	a2634739	تانغلد آلا مود	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14690	kh3_menu.slideshow	sort_0010	a91a25db	حسب التاريخ (تصاعدي)	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14691	kh3_menu.slideshow	sort_0020	27952238	حسب التاريخ (تنازلي)	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14692	kh3_menu.slideshow	sort_0050	2d502b21	حسب العالم (تصاعدي)	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14693	kh3_menu.slideshow	sort_0060	a3df2cc2	حسب العالم (تنازلي)	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14694	kh3_menu.slideshow	timestamp_01	2513e898	{1}/{2}/{0}	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14695	kh3_menu.slideshow	timestamp_02	37a64776	{0}:{1}	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14696	kh3_menu.slideshow	detail_0010	407f9ed2	إنشاء عرض صور جديد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14697	kh3_menu.slideshow	detail_0020	cef09931	تحميل بيانات عرض الصور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14698	kh3_menu.slideshow	detail_0030	025a99af	اختر الموسيقى التي ستعزف أثناء عرض الصور. اضغط <icon(Triangle)> للاستماع إليها،<br>و<icon(Square)> لتغيير أسلوب عرض الصور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14699	kh3_menu.slideshow	detail_0040	089f90b6	تشغيل عرض الصور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14700	kh3_menu.slideshow	detail_0050	c4359028	تشغيل عرض الصور وتسجيله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14701	kh3_menu.slideshow	detail_0060	4aba97cb	تغيير صورة مستخدمة في عرض الصور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14702	kh3_menu.slideshow	detail_0070	86109755	احفظ بيانات عرض الصور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14703	kh3_menu.slideshow	detail_0080	5f3085f9	اختر الصورة التي تريد تغييرها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14704	kh3_menu.slideshow	detail_0090	939a8567	غير ترتيب قائمة صور عرض الصور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14705	kh3_menu.slideshow	detail_0100	1770d223	اختر الموسيقى الخلفية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14706	kh3_menu.slideshow	detail_0110	dbdad2bd	الخروج من عرض الصور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14707	kh3_menu.slideshow	detail_0120	5555d55e	اختر إطارا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14708	kh3_menu.slideshow	detail_0200	60ee00d3	فتح مجلد حفظ مقاطع الفيديو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14709	kh3_menu.slideshow	button_0010	09e6bf48	<icon(Square)> العرض: <color(heading)>بسيط<color> / <color(strong)>فاخر<color>  <icon(Triangle)> تشغيل	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14710	kh3_menu.slideshow	button_0020	8769b8ab	<icon(Square)> العرض: <color(heading)>بسيط<color> / <color(strong)>فاخر<color>  <icon(Triangle)> إيقاف	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14711	kh3_menu.slideshow	button_0030	4bc3b835	<icon(Pad)> عشوائي  <icon(Triangle)> مساعدة  <icon(Square)> تغيير الإطار	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14712	kh3_menu.slideshow	button_0040	4106b12c	<icon(Triangle)> تحديد الصورة الحالية  <icon(Decide)> اختيار	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14713	kh3_menu.slideshow	button_0050	8dacb1b2	<icon(Square)> ترتيب	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14714	kh3_menu.slideshow	button_0060	0323b651	<icon(Decide)> تأكيد  <icon(Cancel)> رجوع	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14715	kh3_menu.slideshow	dialog_0010	4a0702a0	الخروج من شاشة تعديل عرض الصور?<br><color(strong)>سيضيع كل تقدم لم يحفظ.<color>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14716	kh3_menu.slideshow	dialog_0020	c4880543	خلط ترتيب الصور في عرض الصور?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14717	kh3_menu.slideshow	dialog_0030	082205dd	تم حفظ مقطع الفيديو.<br>هل تريد مشاركته?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14718	kh3_menu.slideshow	dialog_0030_xb1	8a779d59	تم حفظ مقطع الفيديو.<br>هل تريد فتح مجلد الحفظ?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14719	kh3_menu.slideshow	dialog_0040	02e70cc4	تغيير الموسيقى الخلفية? يرجى العلم أن تعديلاتك الحالية لن<br>تنعكس إن لم تحفظ تقدمك يدويا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14720	kh3_menu.slideshow	dialog_0050	ce4d0c5a	تحميل بيانات الحفظ? يرجى العلم أن تعديلاتك الحالية لن<br>تنعكس إن لم تحفظ تقدمك يدويا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14721	kh3_menu.slideshow	dialog_0060	40c20bb9	تم إلغاء التسجيل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14722	kh3_menu.slideshow	dialog_0070	8c680b27	توقف التسجيل.<br>المساحة غير كافية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14723	kh3_menu.slideshow	dialog_0080	5548198b	يتم الحفظ...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14724	kh3_menu.slideshow	dialog_0090	99e21915	تعذر تشغيل عرض الصور لأنه يحتوي<br>على بيانات صور تالفة. يرجى تعديل<br>صور عرض الصور والمحاولة مرة أخرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2

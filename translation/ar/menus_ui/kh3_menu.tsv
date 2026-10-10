@@ -1,0 +1,818 @@
+id	namespace	key	source_hash	AR	status	note
+13769	kh3_menu.title	menu_0001	cffef784	متابعة	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13770	kh3_menu.title	menu_0002	dd4b586a	لعبة جديدة	verified	ARABIC-TEST-1 screenshot 20261008_ARABIC-TEST-1_01.png; TEST50 title screenshot (chat, 2026-10-09, F1): joins closed, RTL ok
+13771	kh3_menu.title	menu_0003	65f73f0f	تحميل	verified	TEST50 title screenshot (chat, 2026-10-09, F1): joins closed, RTL ok
+13772	kh3_menu.title	menu_0004	f82007b6	الضبط	verified	verify in TEST50 title screenshot; FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+13773	kh3_menu.title	menu_0005	409c60d3	المسرح	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13774	kh3_menu.title	menu_0006	5229cf3d	الدروس	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13775	kh3_menu.title	menu_0007	ea95a858	الضبط	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13776	kh3_menu.title	menu_0008	b2f6b80e	أرشيف الذكريات	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13777	kh3_menu.title	menu_0009	0a4adf6b	خاص	verified	TEST50 title screenshot (chat, 2026-10-09, F1): joins closed, RTL ok
+13778	kh3_menu.title	menu_0010	bbe8907f	المحتوى الإضافي	verified	TEST50 title screenshot (chat, 2026-10-09, F1): joins closed, RTL ok
+13779	kh3_menu.title	menu_0012	11e158f4	Re<icon(CodaL)>Mind	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13780	kh3_menu.title	menu_0012_1	4a306ab2	Re<icon(Coda)>Mind	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13781	kh3_menu.title	menu_0012_2	5885c55c	<color(strong)>Re<color><icon(CodaY)><color(strong)>Mind<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13782	kh3_menu.title	menu_0013	a95d3f91	حلقة تجاوز الحدود	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13783	kh3_menu.title	menu_0014	348a0728	الحلقة السرية	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13784	kh3_menu.title	menu_0015	8c36604d	تحية البيانات	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13785	kh3_menu.title	menu_0016	9e83cfa3	عرض الصور	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13786	kh3_menu.title	menu_0017	263fa8c6	الأوركسترا	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13787	kh3_menu.title	detail_0001	3469f929	تابع اللعب من آخر بيانات حفظ.	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13788	kh3_menu.title	detail_0002	26dc56c7	ابدأ اللعبة من البداية.	verified	TEST50 title screenshot (chat, 2026-10-09, F1): joins closed, RTL ok
+13789	kh3_menu.title	detail_0003	9e6031a2	تابع من بيانات الحفظ التي تختارها.	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13790	kh3_menu.title	detail_0004	03b7091b	اضبط إعدادات اللعبة.	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13791	kh3_menu.title	detail_0005	bb0b6e7e	أعد مشاهدة المقاطع السينمائية التي شاهدتها في اللعبة.	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13792	kh3_menu.title	detail_0006	a9bec190	تدرب عمليا وتعلم طريقة اللعب.	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13793	kh3_menu.title	detail_0007	1102a6f5	استرجع أحداث الماضي.	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13794	kh3_menu.title	detail_0009	f1ddd1c6	استرجع رحلتك حتى الآن.	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13795	kh3_menu.title	detail_0010	407f9ed2	العب المحتوى الإضافي (DLC).	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13796	kh3_menu.title	detail_0012	ea765659	العب Re<icon(Coda)>Mind.	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13797	kh3_menu.title	detail_0013	52ca313c	العب حلقة تجاوز الحدود.	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13798	kh3_menu.title	detail_0014	cf1d0985	العب الحلقة السرية.	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13799	kh3_menu.title	detail_0015	77a16ee0	ضع الشخصيات كما تشاء لالتقاط صورة مخصصة.	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13800	kh3_menu.title	detail_0016	6514c10e	أنشئ فيلما من الصور التي التقطتها.	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13801	kh3_menu.title	detail_0017	dda8a66b	استمتع بموسيقى ومشاهد حفل كينغدوم هارتس أوركسترا: عالم تريس.	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13802	kh3_menu.title	info_0001	a457f49c	معلومات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13803	kh3_menu.title	dialog_0001_xb1	b70e0f37	تستخدم هذه اللعبة ميزة الحفظ التلقائي.<br>سيظهر مؤشر أثناء جريان عملية الحفظ.<br>لا تغلق جهاز PC حتى يكتمل الحفظ.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13804	kh3_menu.title	dialog_0003	9418add0	يمكنك ضبط سطوع الشاشة لاحقا<br>من قائمة الإعدادات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13805	kh3_menu.title	dialog_0004	09cf9569	تم فتح <color(strong)>{0}<color>.<br>سيضاف هذا الغرض تلقائيا إلى مخزونك<br>عند بدء اللعبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13806	kh3_menu.title	dialog_0006	a3c65de2	تمت إضافة <color(strong)>{0}<color> إلى المسرح.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13807	kh3_menu.title	dialog_0007	1b7a3a87	تم فتح أرشيف الذكريات<br>في شاشة العنوان.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13808	kh3_menu.title	dialog_0008	43192ad1	تمت إضافة وضع لعبة جديد هو <color(strong)>الوضع الحرج<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13809	kh3_menu.title	dialog_0009	fba54db4	سيتم نسخ بيانات الحفظ الحالية وتحويلها<br>لتتوافق مع أحدث إصدار من اللعبة.<br>(لن تفقد أي بيانات حفظ أثناء العملية.)<br><br>لن تكون بيانات الحفظ المحولة متوافقة بعد الآن<br>مع الإصدارات السابقة من اللعبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13810	kh3_menu.title	dialog_0010	4a0702a0	سيتم تحويل بيانات الحفظ الحالية لتتوافق<br>مع أحدث إصدار من اللعبة.<br><br>لن تكون بيانات الحفظ المحولة متوافقة بعد الآن<br>مع الإصدارات السابقة من اللعبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13811	kh3_menu.title	dialog_0011	f2bb65c5	قبل البث...	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13812	kh3_menu.title	dialog_0012	e00eca2b	هذه اللعبة عمل محمي بحقوق النشر. تعود حقوق النشر إلى The Walt Disney Company ومجموعة من المؤلفين الذين يمثلون The Walt Disney Company. كما تعود حقوق نشر بعض الشخصيات إلى Square Enix Co., Ltd.<br><br>يمكنك بث هذه اللعبة بحرية في سياقات غير تجارية. غير أن استخدام بث اللعبة لتقديم الموسيقى أو الاستماع إليها بصورة رئيسية محظور حتى في هذه السياقات غير التجارية.<br><br>للاطلاع على معلومات حول شروط الاستخدام المتعلقة ببث اللعبة، يرجى زيارة موقع كينغدوم هارتس الرسمي: https://www.kingdomhearts.com/3/us/home/	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13813	kh3_menu.title	dialog_0012_xb1	998227da		todo	skip: empty
+13814	kh3_menu.title	dialog_0015	7dd9f292	بيانات الحفظ غير متوافقة مع هذا الإصدار من اللعبة.<br>يرجى تحديث التطبيق إلى أحدث إصدار متاح.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13815	kh3_menu.title	dialog_0017	d7d03a19	تمت إضافة قدرات جديدة لسورا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13816	kh3_menu.title	dialog_0018	8fb32a4f	للعب <color(strong)>كينغدوم هارتس Ⅲ Re<color><icon(CodaY)><color(strong)>Mind<color>،<br>انتقل إلى <color(strong)>المحتوى الإضافي<color> من شاشة العنوان.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13817	kh3_menu.title	dialog_0019	370f4d2a	لتغيير لغة أصوات الشخصيات،<br>انتقل إلى <color(strong)>الضبط<color> من شاشة العنوان.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13818	kh3_menu.title	dialog_0020	c4880543	أصبح <color(strong)>{0}<color> متاحا الآن في قائمة DLC.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13819	kh3_menu.title	dialog_0021	7c346226	بيانات إنهاء القصة الرئيسية مطلوبة للعب<br><color(strong)>Re<color><icon(CodaY)><color(strong)>Mind<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13820	kh3_menu.title	dialog_0022	6e81cdc8	بيانات إنهاء {1} مطلوبة للعب<br><color(strong)>{0}<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13821	kh3_menu.title	dialog_0023	d63daaad	عند اختيار لعبة جديدة لبدء اللعب،<br>ستضاف <color(strong)>القائمة المميزة<color> التي تتيح لك<br>استخدام ميزات تساعدك في اللعب أو تضيف<br>تحديات إضافية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13822	kh3_menu.title	dialog_0024	4bea9214	لا توجد بيانات حفظ فتحت فيها تحية البيانات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13823	kh3_menu.title	dialog_0025	f356f571	للوصول إلى <color(strong)>القائمة المميزة<color>، اضغط <icon(Pad)><br>في أعلى القائمة الرئيسية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13824	kh3_menu.title	window_0001	3f167830	لعبة جديدة	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+13825	kh3_menu.title	window_0002	2da3d7de	اختر وضع اللعبة.	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+13826	kh3_menu.title	window_0003	951fb0bb	وضع سهل يمكنك اجتيازه بيسر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13827	kh3_menu.title	window_0004	08c88802	مستوى الصعوبة العادي.<br>موصى به للاعبين الجدد.	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+13828	kh3_menu.title	window_0005	b074ef67	تحد مثير مليء بالأعداء الأقوياء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13829	kh3_menu.title	window_0006	a2c14089	الاختبار الأقصى لمهاراتك القتالية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13830	kh3_menu.title	window_0007	1a7d27ec	بدء اللعبة بهذه الصعوبة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13831	kh3_menu.title	window_0008	421e37ba	<icon(Triangle)> قبل البث...	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13832	kh3_menu.title	window_0009_xb	234352ee	<icon(Square)> تغيير الملف الشخصي  <icon(Triangle)> قبل البث...	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13833	kh3_menu.title	window_0020	c58f1828	يمكنك نقل العناصر التالية<br>من بيانات إنهاء اللعبة الحالية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13834	kh3_menu.title	window_0021	7d337f4d	- الكيبلايدات<br>- أوضاع التصوير الذاتي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13835	kh3_menu.title	window_0022	6f86d0a3	هل تريد نقل هذه العناصر?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13836	kh3_menu.title	choice_0001	acfed7f3	وضع المبتدئ	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+13837	kh3_menu.title	choice_0002	be4b781d	الوضع العادي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+13838	kh3_menu.title	choice_0003	06f71f78	وضع برايد	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+13839	kh3_menu.title	choice_0004	9b2027c1	الوضع الحرج	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+13840	kh3_menu.title	choice_0005	239c40a4	حسنا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13841	kh3_menu.title	choice_0008	d1f69879	نعم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13842	kh3_menu.title	choice_0009	694aff1c	لا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13843	kh3_menu.title	version_0001	55371b50	الإصدار {0}	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+13844	kh3_menu.save	title_0001	97d08cd5	حفظ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13845	kh3_menu.save	title_0002	8565233b	تحميل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13846	kh3_menu.save	manual_0001	45fda7f7	لا توجد بيانات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13847	kh3_menu.save	manual_0002	57480819	لا توجد بيانات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13848	kh3_menu.save	button_0001	7df0d8b3	<icon(Triangle)> حذف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13849	kh3_menu.save	button_0002	6f45775d	<icon(Triangle)> حذف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13850	kh3_menu.save	button_0003	d7f91038	<icon(Decide)> متابعة حلقة DLC  <icon(square)> متابعة القصة الرئيسية  <icon(Triangle)> حذف الملف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13851	kh3_menu.save	detail_0001	3469f929	اختر خانة للحفظ فيها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13853	kh3_menu.save	detail_0002	26dc56c7	اختر خانة للتحميل منها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13855	kh3_menu.save	detail_0003	9e6031a2	اختر بيانات الإنهاء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13857	kh3_menu.save	detail_0004	03b7091b	اختر خانة للتحميل منها.<br>استخدم <icon(square)> <color(strong)>للمتابعة من القصة الرئيسية<color>.<br><color(strong)>(<icon(dlc)> المحتوى الإضافي)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13858	kh3_menu.save	level	9273c49a	مستوى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13859	kh3_menu.save	munny	218ae1bb	موني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13860	kh3_menu.save	time	15015009	الوقت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13861	kh3_menu.save	time_val	6b0b36d2		todo	skip: numbers/symbols
+13862	kh3_menu.save	difficulty_0	445e2bb1	المبتدئ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13863	kh3_menu.save	difficulty_1	fce24cd4	العادي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13864	kh3_menu.save	difficulty_2	ee57e33a	برايد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13865	kh3_menu.save	difficulty_3	56eb845f	الحرج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13866	kh3_menu.save	dialog_0001	3e11655b	فقدت القدرة على استخدام الأغراض المضافة حديثا<br>في اللعبة. إما أن المحتوى الإضافي المطلوب<br>غير مثبت أو لم تعد تملك صلاحية استخدامه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13867	kh3_menu.save	dialog_0002	2ca4cab5	تعذر تحميل بيانات الحفظ المحددة.<br>إما أن المحتوى الإضافي المطلوب<br>غير مثبت أو لم تعد تملك صلاحية استخدامه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13868	kh3_menu.save	dialog_0003	9418add0	بيانات إنهاء اللعبة مطلوبة للانتقال إلى الحلقة<br>التالية. يرجى حفظ تقدمك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13869	kh3_menu.save	dialog_0004	09cf9569	<color(strong)>للعب كينغدوم هارتس Ⅲ Re<color><icon(CodaY)><color(strong)>Mind<color> من البداية،<br>تحتاج إلى بيانات إنهاء القصة الرئيسية دون<br>أي تقدم في DLC.<br><br>ننصحك بعدم الكتابة فوق بيانات إنهاء<br>القصة الرئيسية الحالية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13870	kh3_menu.save	dialog_0005	b173f20c	جار إنشاء بيانات الإنهاء.<br>يرجى حفظ تقدمك حتى هذه النقطة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13871	kh3_menu.save	dialog_0006	a3c65de2	يرجى حفظ تقدمك حتى هذه النقطة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13872	kh3_menu.savepoint	title_0001	97d08cd5	حفظ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13873	kh3_menu.savepoint	title_0002	8565233b	اختيار المنطقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13874	kh3_menu.savepoint	menu_0001	cffef784	حفظ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13875	kh3_menu.savepoint	menu_0002	dd4b586a	اختيار منطقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13876	kh3_menu.savepoint	menu_0003	65f73f0f	خريطة العالم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13877	kh3_menu.savepoint	menu_0004	f82007b6	زيارة المطعم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13878	kh3_menu.savepoint	menu_0005	409c60d3	شاشة العنوان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13879	kh3_menu.savepoint	menu_0006	5229cf3d	الدروس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13880	kh3_menu.savepoint	manual_0001	45fda7f7	لا توجد بيانات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13881	kh3_menu.savepoint	manual_0002	57480819	لا توجد بيانات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13882	kh3_menu.savepoint	detail_0001	3469f929	احفظ تقدمك في اللعبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13883	kh3_menu.savepoint	detail_0002	26dc56c7	انتقل إلى نقطة حفظ أخرى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13884	kh3_menu.savepoint	detail_0003	9e6031a2	عد إلى خريطة العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13885	kh3_menu.savepoint	detail_0004	03b7091b	زر مطعم الطاهي الصغير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13886	kh3_menu.savepoint	detail_0005	bb0b6e7e	تدرب عمليا وتعلم<br>طريقة اللعب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13887	kh3_menu.savepoint	detail_0006	a9bec190	اخرج من اللعبة وعد<br>إلى شاشة العنوان.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13888	kh3_menu.savepoint	detail_0011	f8c3f9b7	اختر وجهة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13889	kh3_menu.savepoint	level	9273c49a	مستوى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13890	kh3_menu.savepoint	munny	218ae1bb	موني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13891	kh3_menu.savepoint	time	15015009	الوقت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13892	kh3_menu.savepoint	time_val	6b0b36d2		todo	skip: tags/args only
+13893	kh3_menu.savepoint	dialog_0001	3e11655b	تم فتح <color(strong)>اختيار المنطقة<color>.<br>يمكنك الآن اختيار <color(strong)>اختيار منطقة<color> من<br>إحدى نقاط الحفظ للانتقال سريعا إلى نقاط حفظ<br>أخرى داخل العالم نفسه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13894	kh3_menu.savepoint	dialog_0002	2ca4cab5	العودة إلى خريطة العالم?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13895	kh3_menu.savepoint	dialog_0003	9418add0	زيارة المطعم?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13896	kh3_menu.savepoint	dialog_0005	b173f20c	<color(strong)>لا تملك مكونات كافية للطهي.<color><br>هل تزور المطعم رغم ذلك?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13897	kh3_menu.savepoint	dialog_0004	09cf9569	العودة إلى شاشة العنوان?<br><color(strong)>سيفقد كل تقدم لم يحفظ.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13898	kh3_menu.savepoint	dialog_0006	a3c65de2	تم فتح <color(strong)>المطعم<color>.<br>يمكنك الآن زيارة مطعم الطاهي الصغير<br>من نقاط الحفظ.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13899	kh3_menu.savepoint	dialog_0007	1b7a3a87	تم فتح <color(strong)>الدروس<color>.<br>تتيح لك الدروس التدرب عمليا على<br>اللعبة وتعلم طريقة اللعب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13900	kh3_menu.savepoint	dialog_0011	f2bb65c5	الانتقال إلى هذه المنطقة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13901	kh3_menu.pause	menu_0001	cffef784	متابعة	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+13902	kh3_menu.pause	menu_0002	dd4b586a	مساعدة اللعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13903	kh3_menu.pause	menu_0003	65f73f0f	تخطي المشهد	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+13904	kh3_menu.pause	menu_0004	f82007b6	إعادة المحاولة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13905	kh3_menu.pause	menu_0005	409c60d3	خروج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13906	kh3_menu.pause	menu_0007	ea95a858	المشهد التالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13907	kh3_menu.pause	menu_0008	b2f6b80e	المشهد السابق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13908	kh3_menu.pause	menu_0009	0a4adf6b	قائمة المسرح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13909	kh3_menu.pause	menu_0101	545bbbeb	الخروج من الدرس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13910	kh3_menu.pause	menu_0201	23c5691b	الحلقة التالية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13911	kh3_menu.pause	menu_0202	3170c6f5	الحلقة السابقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13912	kh3_menu.pause	menu_0203	89cca190	قائمة أرشيف الذكريات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13913	kh3_menu.pause	menu_0301	b8602574	التالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13914	kh3_menu.pause	menu_0302	aad58a9a	السابق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13915	kh3_menu.pause	menu_0303	1269edff	العودة إلى القائمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13916	kh3_menu.gameover	title_0001	97d08cd5	القائمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13917	kh3_menu.gameover	menu_0001	cffef784	متابعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13918	kh3_menu.gameover	menu_0002	dd4b586a	إعادة المحاولة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13919	kh3_menu.gameover	menu_0003	65f73f0f	الاستعداد وإعادة المحاولة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13920	kh3_menu.gameover	menu_0004	f82007b6	تحميل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13921	kh3_menu.gameover	menu_0005	409c60d3	مساعدة اللعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13922	kh3_menu.gameover	menu_0006	5229cf3d	خروج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13923	kh3_menu.gameover	menu_0007	ea95a858	استسلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13924	kh3_menu.battlereport	title_0010	e3c6eb2e	تقرير المعركة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13925	kh3_menu.battlereport	menu_0010	bbe8907f	وضع اللعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13926	kh3_menu.battlereport	menu_0020	3567979c	الأعداء المهزومون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13927	kh3_menu.battlereport	menu_0030	f9cd9702	الكيبلايد الأكثر استخداما	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13928	kh3_menu.battlereport	menu_0040	f3089e1b	المسافة المقطوعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13929	kh3_menu.battlereport	menu_0050	3fa29e85	أمر الموقف الأكثر استخداما	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13930	kh3_menu.battlereport	menu_0060	b12d9966	اكتمال سفينة الغامي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13931	kh3_menu.battlereport	menu_0070	7d8799f8	شعارات الحظ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13932	kh3_menu.battlereport	menu_0080	a4a78b54	الطعام الأكثر استهلاكا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13933	kh3_menu.battlereport	menu_0090	680d8bca	وقت الإنهاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13934	kh3_menu.battlereport	score_0010	bcd56348		todo	skip: tags/args only
+13935	kh3_menu.battlereport	score_0020	325a64ab		todo	skip: tags/args only
+13936	kh3_menu.battlereport	score_0030	fef06435		todo	skip: numbers/symbols
+13937	kh3_menu.battlereport	score_0040	f4356d2c	{0} كم   {1} ميل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13938	kh3_menu.battlereport	score_0050	389f6db2		todo	skip: numbers/symbols
+13939	kh3_menu.battlereport	score_0060	b6106a51		todo	skip: numbers/symbols
+13940	kh3_menu.battlereport	score_0070	7aba6acf		todo	skip: numbers/symbols
+13941	kh3_menu.battlereport	score_0080	a39a7863		todo	skip: numbers/symbols
+13942	kh3_menu.battlereport	score_0090	6f3078fd		todo	skip: numbers/symbols
+13943	kh3_menu.battlereport	text_0010	20bf2d21	النهاية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13944	kh3_menu.battlereport	text_0020	ae302ac2	وضع المبتدئ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13945	kh3_menu.battlereport	text_0030	629a2a5c	الوضع العادي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13946	kh3_menu.battlereport	text_0040	685f2345	وضع برايد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13947	kh3_menu.battlereport	text_0050	a4f523db	الوضع الحرج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13948	kh3_menu.battlereport	button_0010	09e6bf48	<icon(decide)> قائمة الحفظ  <icon(cancel)> إنهاء اللعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13949	kh3_menu.battlereport	dialog_0010	4a0702a0	في الشاشة التالية، يمكنك حفظ <color(strong)>بيانات إنهاء اللعبة<color>.<br>ستوسم بيانات الحفظ هذه بتاج وتتيح لك<br>متابعة المغامرة قبل المعركة الأخيرة مباشرة.<br><br>سيسمح حفظ بيانات الإنهاء بنقل البيانات عند<br>اختيار لعبة جديدة لإعادة اللعب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13950	kh3_menu.battlereport	dialog_0020	c4880543	الخروج دون حفظ?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13951	kh3_menu.theater	title_0010	e3c6eb2e	المسرح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13952	kh3_menu.theater	menu_0010	bbe8907f	الترجمة النصية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13953	kh3_menu.theater	menu_0020	3567979c	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13954	kh3_menu.theater	menu_0030	f9cd9702	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13955	kh3_menu.theater	menu_0040	f3089e1b	تشغيل الكل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13956	kh3_menu.theater	chapter_0010	8111bc45	المقدمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13957	kh3_menu.theater	chapter_0020	0f9ebba6	الافتتاحية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13958	kh3_menu.theater	chapter_0030	c334bb38	كينغدوم هارتس II.9	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13959	kh3_menu.theater	chapter_0040	c9f1b221	الفصل I: أوليمبوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13960	kh3_menu.theater	chapter_0050	055bb2bf	الفصل II: عالم الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13961	kh3_menu.theater	chapter_0060	8bd4b55c	كينغدوم هارتس III	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13962	kh3_menu.theater	chapter_0070	477eb5c2	الفصل III: بلدة الشفق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13963	kh3_menu.theater	chapter_0080	9e5ea76e	الفاصل I-1: الغابة السرية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13964	kh3_menu.theater	chapter_0085	a980575c	الفاصل I-2: الحديقة المضيئة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13965	kh3_menu.theater	chapter_0090	52f4a7f0	الفصل IV: صندوق الألعاب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13966	kh3_menu.theater	chapter_0100	d61ef0b4	الفاصل II: هاتف الغامي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13967	kh3_menu.theater	chapter_0110	1ab4f02a	الفصل V: مملكة كورونا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13968	kh3_menu.theater	chapter_0120	943bf7c9	الفاصل III: الحديقة المضيئة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13969	kh3_menu.theater	chapter_0130	5891f757	الفصل VI: مونستروبوليس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13970	kh3_menu.theater	chapter_0140	5254fe4e	الفاصل IV: سفينة الغامي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13971	kh3_menu.theater	chapter_0150	9efefed0	الفصل VII: آرنديل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13972	kh3_menu.theater	chapter_0160	1071f933	الفاصل V: الحافة المظلمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13973	kh3_menu.theater	chapter_0170	dcdbf9ad	الفصل EX: غابة المئة فدان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13974	kh3_menu.theater	chapter_0180	05fbeb01	الفاصل VI-1: البرج الغامض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13975	kh3_menu.theater	chapter_0185	32251b33	الفاصل VI-2: مقبرة الكيبلايد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13976	kh3_menu.theater	chapter_0190	c951eb9f	الفصل VIII: الكاريبي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13977	kh3_menu.theater	chapter_0200	a1802244	الفاصل VII-1: الغابة السرية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13978	kh3_menu.theater	chapter_0203	b3358daa	الفاصل VII-2: الحافة المظلمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13979	kh3_menu.theater	chapter_0206	84eb7d98	الفاصل VII-3: القصر القديم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13980	kh3_menu.theater	chapter_0210	6d2a22da	الفصل IX: سان فرانسوكيو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13981	kh3_menu.theater	chapter_0220	e3a52539	الفاصل VIII: جزر المصير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13982	kh3_menu.theater	chapter_0230	2f0f25a7	الفصل X: عالم الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13983	kh3_menu.theater	chapter_0240	25ca2cbe	الفاصل IX-1: الحديقة المضيئة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13984	kh3_menu.theater	chapter_0245	1214dc8c	الفاصل IX-2: الحديقة المضيئة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13985	kh3_menu.theater	chapter_0250	e9602c20	الفصل XI: أرض الانطلاق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13986	kh3_menu.theater	chapter_0260	67ef2bc3	الفاصل X: البرج الغامض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13987	kh3_menu.theater	chapter_0263	755a842d	الفاصل XI-1: الاستراحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13988	kh3_menu.theater	chapter_0266	4284741f	الفاصل XI-2: الاستراحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13989	kh3_menu.theater	chapter_0270	ab452b5d	الفاصل XI-3: الاستراحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13990	kh3_menu.theater	chapter_0273	b9f084b3	الفاصل XI-4: الاستراحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13991	kh3_menu.theater	chapter_0276	8e2e7481	الفاصل XII: جزر المصير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13992	kh3_menu.theater	chapter_0280	726539f1	الفصل XII: مقبرة الكيبلايد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13993	kh3_menu.theater	chapter_0290	becf396f	الفاصل XIII: الماضي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13994	kh3_menu.theater	chapter_0300	3a256e2b	الفصل XIII: العالم الأخير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13995	kh3_menu.theater	chapter_0310	f68f6eb5	الفصل XIV: مقبرة الكيبلايد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13996	kh3_menu.theater	chapter_0330	b4aa69c8	الفصل XV: سكالا آد كايلوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13997	kh3_menu.theater	chapter_0340	be6f60d1	النهاية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13998	kh3_menu.theater	chapter_0350	72c5604f	الخاتمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13999	kh3_menu.theater	chapter_0360	fc4a67ac	الفيلم السري	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14000	kh3_menu.theater	chapter_0370	30e06732	Re<icon(Coda)>Mind: المقدمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14001	kh3_menu.theater	chapter_0380	e9c0759e	Re<icon(Coda)>Mind: الافتتاحية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14002	kh3_menu.theater	chapter_0390	256a7500	Re<icon(Coda)>Mind الفصل I: مقبرة الكيبلايد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14003	kh3_menu.theater	chapter_0400	4ebd87a4	Re<icon(Coda)>Mind الفصل II: مقبرة الكيبلايد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14004	kh3_menu.theater	chapter_0410	8217873a	Re<icon(Coda)>Mind الفصل III: سكالا آد كايلوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14005	kh3_menu.theater	chapter_0420	0c9880d9	نهاية أخرى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14006	kh3_menu.theater	chapter_0430	c0328047	الحلقة: ريكو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14007	kh3_menu.theater	chapter_0440	caf7895e	الحلقة السرية: فالسوس ريكس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14008	kh3_menu.theater	scene_0010_010	b42c1590	المناورة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14009	kh3_menu.theater	scene_0020_010	ec32bcb8	الافتتاحية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14010	kh3_menu.theater	scene_0030_010	6d17d99f	مقدمة المغامرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14011	kh3_menu.theater	scene_0040_010	5c0feee8	طموحات هاديس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14012	kh3_menu.theater	scene_0040_020	d280e90b	بلا ضجة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14013	kh3_menu.theater	scene_0040_030	1e2ae995	عودة التيتان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14014	kh3_menu.theater	scene_0040_040	14efe08c	الوصول المفاجئ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14015	kh3_menu.theater	scene_0040_050	d845e012	طريق إيجاد القوة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14016	kh3_menu.theater	scene_0040_060	56cae7f1	رغبة مالفيسنت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14017	kh3_menu.theater	scene_0040_070	9a60e76f	الدروع تفعل كل شيء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14018	kh3_menu.theater	scene_0040_080	4340f5c3	صرخة استغاثة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14019	kh3_menu.theater	scene_0040_090	8feaf55d	لسنا أبطالا بعد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14020	kh3_menu.theater	scene_0040_100	0b00a219	المبنى المنهار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14021	kh3_menu.theater	scene_0040_110	c7aaa287	تحذير زيغبار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14022	kh3_menu.theater	scene_0040_120	4925a564	هاديس يتحرك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14023	kh3_menu.theater	scene_0040_130	858fa5fa	ابن زيوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14024	kh3_menu.theater	scene_0040_140	8f4aace3	تيتان الصخر يتدحرج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14025	kh3_menu.theater	scene_0040_150	43e0ac7d	روعة أوليمبوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14026	kh3_menu.theater	scene_0040_160	cd6fab9e	مواجهة التيتان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14027	kh3_menu.theater	scene_0040_170	01c5ab00	خاسر لا يتقبل الهزيمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14028	kh3_menu.theater	scene_0040_180	d8e5b9ac	حيث ينتمي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14029	kh3_menu.theater	scene_0040_190	144fb932	الباحثون عن الصندوق الأسود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14030	kh3_menu.theater	scene_0050_010	dd2a8bcf	أثر يتلاشى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14031	kh3_menu.theater	scene_0050_020	53a58c2c	الحافة المظلمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14032	kh3_menu.theater	scene_0050_030	9f0f8cb2	لم الشمل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14033	kh3_menu.theater	scene_0060_010	853422e7	بداية جديدة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14034	kh3_menu.theater	scene_0060_020	0bbb2504	قلب داخل قلب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14035	kh3_menu.theater	scene_0070_005	ff65b76c	شوارع الحنين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14036	kh3_menu.theater	scene_0070_010	041147c0	مرحبا، وداعا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14037	kh3_menu.theater	scene_0070_020	8a9e4023	الصديق الذي لم يلتقوه قط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14038	kh3_menu.theater	scene_0070_030	463440bd	جامع طعام في محنة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14039	kh3_menu.theater	scene_0070_040	4cf149a4	تحت السيطرة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14040	kh3_menu.theater	scene_0070_050	805b493a	عوالم البيانات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14041	kh3_menu.theater	scene_0070_070	c27e4e47	أنسيم وزيمناس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14042	kh3_menu.theater	scene_0070_080	1b5e5ceb	عزم سورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14043	kh3_menu.theater	scene_0070_090	d7f45c75	الطاهي الصغير في المطعم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14044	kh3_menu.theater	scene_0070_100	531e0b31	سنتمنى جميعا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14045	kh3_menu.theater	scene_0070_110	9fb40baf	شبع تام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14046	kh3_menu.theater	scene_0080_010	e7044c09	حديث على الورق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14047	kh3_menu.theater	scene_0080_020	698b4bea	مكان تيرا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14048	kh3_menu.theater	scene_0090_010	6621292e	فاصل إعلاني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14049	kh3_menu.theater	scene_0090_015	51ffd91c	المتسللون المقنعون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14050	kh3_menu.theater	scene_0090_020	e8ae2ecd	لم يكن الوضع موحشا هكذا دائما	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14051	kh3_menu.theater	scene_0090_030	24042e53	أول الزيهانورتات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14052	kh3_menu.theater	scene_0090_040	2ec1274a	اختطاف الديناصور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14053	kh3_menu.theater	scene_0090_050	e26b27d4	هجوم الكايجو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14054	kh3_menu.theater	scene_0090_060	6ce42037	ريكس يبهر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14055	kh3_menu.theater	scene_0090_070	a04e20a9	الأخيار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14056	kh3_menu.theater	scene_0090_080	796e3205	واصل الرقم القياسي!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14057	kh3_menu.theater	scene_0090_090	b5c4329b	انسحاب شجاع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14058	kh3_menu.theater	scene_0090_100	312e65df	فندق الرعب والفطور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14059	kh3_menu.theater	scene_0090_110	fd846541	شكوك باز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14060	kh3_menu.theater	scene_0090_120	730b62a2	وداعا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14061	kh3_menu.theater	scene_0090_130	bfa1623c	غرفة آندي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14062	kh3_menu.theater	scene_0090_140	b5646b25	أين ريكس?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14063	kh3_menu.theater	scene_0090_150	79ce6bbb	ليس باز أيضا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14064	kh3_menu.theater	scene_0090_160	f7416c58	اضغط ابدأ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14065	kh3_menu.theater	scene_0090_170	3beb6cc6	لإنقاذ صديق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14066	kh3_menu.theater	scene_0090_180	e2cb7e6a	القلب لا يتخلى أبدا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14067	kh3_menu.theater	scene_0090_190	2e617ef4	إلى ما لا نهاية وما بعدها	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14068	kh3_menu.theater	scene_0100_010	34bc8daa	نسخة من أجل روكساس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14069	kh3_menu.theater	scene_0110_010	b599e88d	عالم خارج نافذتها	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14070	kh3_menu.theater	scene_0110_020	3b16ef6e	انسحاب فلين المتعجل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14071	kh3_menu.theater	scene_0110_030	f7bceff0	طريق مسدود?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14072	kh3_menu.theater	scene_0110_040	fd79e6e9	مقدر لهما اللقاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14073	kh3_menu.theater	scene_0110_050	31d3e677	الخطوات الأولى في الخارج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14074	kh3_menu.theater	scene_0110_060	bf5ce194	شجاعة رابونزل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14075	kh3_menu.theater	scene_0110_070	73f6e10a	هدية ثمينة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14076	kh3_menu.theater	scene_0110_080	aad6f3a6	الفرار تخصصه	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14077	kh3_menu.theater	scene_0110_090	667cf338	طلب مارلوكسيا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14078	kh3_menu.theater	scene_0110_100	e296a47c	الأم غوثل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14079	kh3_menu.theater	scene_0110_110	2e3ca4e2	ماكسيموس يلاقي ندا له	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14080	kh3_menu.theater	scene_0110_120	a0b3a301	بلدة صاخبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14081	kh3_menu.theater	scene_0110_130	6c19a39f	من أجل الأميرة المفقودة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14082	kh3_menu.theater	scene_0110_140	66dcaa86	تحت الفوانيس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14083	kh3_menu.theater	scene_0110_150	aa76aa18	القلوب السبعة الجديدة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14084	kh3_menu.theater	scene_0110_160	24f9adfb	رابونزل تتذكر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14085	kh3_menu.theater	scene_0110_170	e853ad65	إلى البرج!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14086	kh3_menu.theater	scene_0110_180	3173bfc9	فلين يتعرض لهجوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14087	kh3_menu.theater	scene_0110_190	fdd9bf57	قوة واحدة تتلاشى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14088	kh3_menu.theater	scene_0110_200	9508768c	قوة أعظم تنهض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14089	kh3_menu.theater	scene_0110_210	59a27612	حياة جديدة تبدأ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14090	kh3_menu.theater	scene_0110_220	d72d71f1	إنه محفور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14091	kh3_menu.theater	scene_0120_010	ed8741a5	العالم المفقود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14092	kh3_menu.theater	scene_0120_020	63084646	عودة فيكسن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14093	kh3_menu.theater	scene_0130_010	6ca22482	لا يبدو حنونا جدا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14094	kh3_menu.theater	scene_0130_030	2e8723ff	مبيدو الحشرات في العمل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14095	kh3_menu.theater	scene_0130_040	24422ae6	طاقة الضحك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14096	kh3_menu.theater	scene_0130_050	e8e82a78	تمسك بالباب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14097	kh3_menu.theater	scene_0130_060	66672d9b	ظل ساخر	reviewed	ratio ok: short title; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14098	kh3_menu.theater	scene_0130_070	aacd2d05	أضحك بو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14099	kh3_menu.theater	scene_0130_080	73ed3fa9	خلف ذلك الباب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14100	kh3_menu.theater	scene_0130_090	bf473f37	انتقام راندال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14101	kh3_menu.theater	scene_0130_100	3bad6873	مصنع جديد و"محسن"	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14102	kh3_menu.theater	scene_0130_110	f70768ed	لمسة من الألوان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14103	kh3_menu.theater	scene_0130_120	79886f0e	الاغتسال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14104	kh3_menu.theater	scene_0130_130	b5226f90	بو MVP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14105	kh3_menu.theater	scene_0130_140	bfe76689	دخول صاحب المعطف الأسود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14106	kh3_menu.theater	scene_0130_150	734d6617	الشفرة 72-16	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14107	kh3_menu.theater	scene_0130_160	fdc261f4	CDA تقتحم المكان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14108	kh3_menu.theater	scene_0130_170	3168616a	تبادل إطلاق النار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14109	kh3_menu.theater	scene_0130_180	e84873c6	ممر الأنابيب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14110	kh3_menu.theater	scene_0130_190	24e27358	لو لم يكن يعرف حقيقة الأمر...	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14111	kh3_menu.theater	scene_0130_200	4c33ba83	ورقة رابحة في جعبة راندال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14112	kh3_menu.theater	scene_0130_210	8099ba1d	أراك لاحقا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14113	kh3_menu.theater	scene_0130_220	0e16bdfe	مواجهة مع فانيتاس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14114	kh3_menu.theater	scene_0130_230	c2bcbd60	اكتملت الإبادة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14115	kh3_menu.theater	scene_0140_010	5dba13f5	إينزو يطمئن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14116	kh3_menu.theater	scene_0150_010	dc9f76d2	بدت حزينة جدا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14117	kh3_menu.theater	scene_0150_020	52107131	معضلة إلسا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14118	kh3_menu.theater	scene_0150_030	9eba71af	افهم الموقف يا فتى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14119	kh3_menu.theater	scene_0150_050	58d57828	إلسا في ورطة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14120	kh3_menu.theater	scene_0150_060	d65a7fcb	قصر الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14121	kh3_menu.theater	scene_0150_070	1af07f55	انهيار جليدي!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14122	kh3_menu.theater	scene_0150_080	c3d06df9	انهيار جليدي! ...مهلا، مجددا?!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14123	kh3_menu.theater	scene_0150_090	0f7a6d67	رجل ثلج يمشي ويتكلم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14124	kh3_menu.theater	scene_0150_100	8b903a23	حكاية الأختين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14125	kh3_menu.theater	scene_0150_110	473a3abd	إعادة تركيب أولاف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14126	kh3_menu.theater	scene_0150_120	c9b53d5e	العودة صعودا إلى الجبل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14127	kh3_menu.theater	scene_0150_130	051f3dc0	إلسا ترفض المساعدة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14128	kh3_menu.theater	scene_0150_150	c3703447	ظننته شتاء، لا <i(on)>خريفا<i(off)>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14129	kh3_menu.theater	scene_0150_160	4dff33a4	حضور مظلم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14130	kh3_menu.theater	scene_0150_170	8155333a	عملاق الثلج الطيب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14131	kh3_menu.theater	scene_0150_180	58752196	محنة آرنديل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14132	kh3_menu.theater	scene_0150_190	94df2108	آنا توقف هانز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14133	kh3_menu.theater	scene_0150_200	fc0ee8d3	لفتة شجاعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14134	kh3_menu.theater	scene_0150_210	30a4e84d	ثلاثة عشر ظلاما	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14135	kh3_menu.theater	scene_0150_220	be2befae	الحب الحقيقي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14136	kh3_menu.theater	scene_0160_010	8481dffa	لقاء غير متوقع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14137	kh3_menu.theater	scene_0170_010	05a4badd	رسالة من ميرلين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14138	kh3_menu.theater	scene_0170_020	8b2bbd3e	صورة سورا مفقودة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14139	kh3_menu.theater	scene_0170_030	4781bda0	مشكلة من نوع الأرنب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14140	kh3_menu.theater	scene_0170_040	4d44b4b9	والآن إلى البستان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14141	kh3_menu.theater	scene_0170_050	81eeb427	مفاجأة للدب بوه	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14142	kh3_menu.theater	scene_0170_060	0f61b3c4	معا إلى الأبد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14143	kh3_menu.theater	scene_0170_070	c3cbb35a	ما ضاع يمكن العثور عليه	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14144	kh3_menu.theater	scene_0180_010	e6b1b114	مراجعة سريعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14145	kh3_menu.theater	scene_0180_020	683eb6f7	أصول المنظمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14146	kh3_menu.theater	scene_0190_010	6794d433	نفاد البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14147	kh3_menu.theater	scene_0190_020	e91bd3d0	خلف اللؤلؤة السوداء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14148	kh3_menu.theater	scene_0190_030	25b1d34e	اجتماع في خزانة ديفي جونز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14149	kh3_menu.theater	scene_0190_040	2f74da57	صندوق الرجل الميت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14150	kh3_menu.theater	scene_0190_050	e3dedac9	خطوة لنا جميعا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14151	kh3_menu.theater	scene_0190_060	6d51dd2a	غارة جوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14152	kh3_menu.theater	scene_0190_070	a1fbddb4	هذا هروب من الخدمة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14153	kh3_menu.theater	scene_0190_080	78dbcf18	اتفاق	reviewed	ratio ok: short title; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14154	kh3_menu.theater	scene_0190_090	b471cf86	من الطينة نفسها	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14155	kh3_menu.theater	scene_0190_100	309b98c2	ملائم بشكل مريب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14156	kh3_menu.theater	scene_0190_110	fc31985c	ممر جديد عبر "الثقب"	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14157	kh3_menu.theater	scene_0190_120	72be9fbf	سفينتنا الخاصة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14158	kh3_menu.theater	scene_0190_130	be149f21	مفاوضات مع لوكسورد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14159	kh3_menu.theater	scene_0190_140	b4d19638	النصر في المتناول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14160	kh3_menu.theater	scene_0190_150	787b96a6	اللعبة الطويلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14161	kh3_menu.theater	scene_0190_160	f6f49145	استفسار أخير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14162	kh3_menu.theater	scene_0190_170	3a5e91db	لقاء الحاجز الرملي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14163	kh3_menu.theater	scene_0190_180	e37e8377	الأسطول والترحيب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14164	kh3_menu.theater	scene_0190_190	2fd483e9	إلى خليج حطام السفن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14165	kh3_menu.theater	scene_0190_200	47054a32	ارفعوا الأعلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14166	kh3_menu.theater	scene_0190_210	8baf4aac	تنقلب الموازين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14167	kh3_menu.theater	scene_0190_220	05204d4f	حان وقت رفاقك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14168	kh3_menu.theater	scene_0200_010	36628a8d	لا شيء كما ينبغي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14169	kh3_menu.theater	scene_0200_020	b8ed8d6e	خطر يحدق بريكو والملك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14170	kh3_menu.theater	scene_0200_030	74478df0	التكفير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14171	kh3_menu.theater	scene_0210_010	b747efaa	مدينة الأبطال الخارقين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14172	kh3_menu.theater	scene_0210_020	39c8e849	جهاز AR	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14173	kh3_menu.theater	scene_0210_030	f562e8d7	البحث عن ميزة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14174	kh3_menu.theater	scene_0210_040	ffa7e1ce	تمت الترقية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14175	kh3_menu.theater	scene_0210_050	330de150	تمرين ما بعد شوغيو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14176	kh3_menu.theater	scene_0210_060	bd82e6b3	تعويض الفارق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14177	kh3_menu.theater	scene_0210_070	7128e62d	الميكروبوتات?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14178	kh3_menu.theater	scene_0210_080	a808f481	مشكلة خارقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14179	kh3_menu.theater	scene_0210_090	64a2f41f	دخول الشرير الخارق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14180	kh3_menu.theater	scene_0210_100	e048a35b	ريكو من الماضي?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14181	kh3_menu.theater	scene_0210_110	2ce2a3c5	بايماكس الأول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14182	kh3_menu.theater	scene_0210_120	a26da426	صديق لك?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14183	kh3_menu.theater	scene_0210_130	6ec7a4b8	بايماكس المظلم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14184	kh3_menu.theater	scene_0210_140	6402ada1	خيار صعب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14185	kh3_menu.theater	scene_0210_150	a8a8ad3f	إعادة التشغيل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14186	kh3_menu.theater	scene_0220_010	ef594682	مفتاح مرشد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14187	kh3_menu.theater	scene_0230_010	6e7c23a5	فات الأوان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14188	kh3_menu.theater	scene_0230_020	e0f32446	مواجهة الظلام بشجاعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14189	kh3_menu.theater	scene_0230_030	2c5924d8	العودة إلى النور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14190	kh3_menu.theater	scene_0240_010	5f6414d2	المبعدون ينفذون خطة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14191	kh3_menu.theater	scene_0240_020	d1eb1331	هدية من فيكسن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14192	kh3_menu.theater	scene_0250_010	de4171f5	قلعة النسيان مفتوحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14193	kh3_menu.theater	scene_0250_020	50ce7616	ضيف غير مدعو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14194	kh3_menu.theater	scene_0250_030	9c647688	نهاية السبات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14195	kh3_menu.theater	scene_0260_010	865fd8dd	حراس النور يجتمعون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14196	kh3_menu.theater	scene_0260_020	08d0df3e	تحت النجوم نفسها	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14197	kh3_menu.theater	scene_0260_030	c47adfa0	الصندوق الذي لا يعثر عليه	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14198	kh3_menu.theater	scene_0270_010	077abdfa	أهداف متعارضة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14199	kh3_menu.theater	scene_0270_020	89f5ba19	عزم النسخة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14200	kh3_menu.theater	scene_0270_030	455fba87	فاكهة الباوبو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14201	kh3_menu.theater	scene_0280_010	e46fb633	الزيهانورتات يجتمعون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14202	kh3_menu.theater	scene_0280_020	6ae0b1d0	النور ينقضي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14203	kh3_menu.theater	scene_0290_010	654ad314	للنور أكثر مما تراه العين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14204	kh3_menu.theater	scene_0300_010	37d77790	البحر والسماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14205	kh3_menu.theater	scene_0300_020	b9587073	عالم من القلوب فقط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14206	kh3_menu.theater	scene_0300_030	75f270ed	سأنتظر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14207	kh3_menu.theater	scene_0300_035_1	a4c5e1e1	أكثر من أي أحد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14208	kh3_menu.theater	scene_0300_035_2	b6704e0f	نجمة بلا اسم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14209	kh3_menu.theater	scene_0300_040	7f3779f4	اتجه نحو النور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14210	kh3_menu.theater	scene_0300_050	b39d796a	صديق ثابت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14211	kh3_menu.theater	scene_0300_060	3d127e89	ليتش لا بد من مواجهته	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14212	kh3_menu.theater	scene_0300_070	f1b87e17	إنقاذ قلب ريكو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14213	kh3_menu.theater	scene_0300_080	28986cbb	الثمن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14214	kh3_menu.theater	scene_0300_090	e4326c25	نور في الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14215	kh3_menu.theater	scene_0310_010	b6f212b7	شكرا يا كايري	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14216	kh3_menu.theater	scene_0310_020	387d1554	الإرادة الباقية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14217	kh3_menu.theater	scene_0310_030	f4d715ca	نور الماضي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14218	kh3_menu.theater	scene_0310_040	fe121cd3	ممر من النور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14219	kh3_menu.theater	scene_0310_050	32b81c4d	نصل χ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14220	kh3_menu.theater	scene_0320_010	eeecbb9f	المواجهات الأخيرة I	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14221	kh3_menu.theater	scene_0320_020	6063bc7c	أنسيم ينسحب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14222	kh3_menu.theater	scene_0320_030	acc9bce2	ريكو وريكو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14223	kh3_menu.theater	scene_0320_040	a60cb5fb	وعد باطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14224	kh3_menu.theater	scene_0320_050	6aa6b565	نسخة من أجل ناميني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14225	kh3_menu.theater	scene_0320_060	e429b286	المواجهات الأخيرة II	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14226	kh3_menu.theater	scene_0320_070	2883b218	زيمناس ينسحب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14227	kh3_menu.theater	scene_0320_080	f1a3a0b4	نصيب المقامر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14228	kh3_menu.theater	scene_0320_090	3d09a02a	سر لم يقل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14229	kh3_menu.theater	scene_0320_100	b9e3f76e	استعادة هويته	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14230	kh3_menu.theater	scene_0320_110	7549f7f0	إلى معارك منفصلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14231	kh3_menu.theater	scene_0320_120	fbc6f013	المواجهات الأخيرة III	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14232	kh3_menu.theater	scene_0320_130	376cf08d	الظلام هو ما أنا عليه	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14233	kh3_menu.theater	scene_0320_140	3da9f994	من القيود إلى الروابط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14234	kh3_menu.theater	scene_0320_150	f103f90a	المواجهات الأخيرة IV	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14235	kh3_menu.theater	scene_0320_160	7f8cfee9	النور الأخير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14236	kh3_menu.theater	scene_0320_170	b326fe77	أنت تعترف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14237	kh3_menu.theater	scene_0320_180	6a06ecdb	ثلاثة عشر وسبعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14238	kh3_menu.theater	scene_0320_190	a6acec45	المزيد لينشد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14239	kh3_menu.theater	scene_0320_200	ce7d259e	أول فيض من المشاعر	reviewed	title text, not the Surge term (SWAP-1); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14240	kh3_menu.theater	scene_0320_210	02d72500	وداعا يا سورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14241	kh3_menu.theater	scene_0320_220	8c5822e3	كينغدوم هارتس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14242	kh3_menu.theater	scene_0330_010	6fc9deb8	عالم غريب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14243	kh3_menu.theater	scene_0330_020	e146d95b	الظلال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14244	kh3_menu.theater	scene_0330_030	2decd9c5	درج السماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14245	kh3_menu.theater	scene_0330_040	2729d0dc	سماء واحدة، مصير واحد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14246	kh3_menu.theater	scene_0330_050	eb83d042	ترينتي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14247	kh3_menu.theater	scene_0330_060	650cd7a1	كش مات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14248	kh3_menu.theater	scene_0340_010	5ed1e9cf	النهاية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14249	kh3_menu.theater	scene_0350_010	dff48ce8	المعلمون الضائعون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14250	kh3_menu.theater	scene_0360_010	87ea25c0	يوزورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14251	kh3_menu.theater	scene_0370_010	06cf40e7	تحركات استراتيجية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14252	kh3_menu.theater	scene_0370_020	88404704	لم ينته الأمر بعد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14253	kh3_menu.theater	scene_0380_010	e5da4b2e	لقاء	reviewed	ratio ok: short title; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14254	kh3_menu.theater	scene_0380_020	6b554ccd	الخطة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14255	kh3_menu.theater	scene_0380_030	a7ff4c53	كما يأمر القلب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14256	kh3_menu.theater	scene_0390_010	64ff2e09	قلب فينتوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14257	kh3_menu.theater	scene_0390_020	ea7029ea	قلب أكوا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14258	kh3_menu.theater	scene_0390_030	26da2974	الدمعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14259	kh3_menu.theater	scene_0400_010	33de84c3	ناميني تنادي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14260	kh3_menu.theater	scene_0400_020	bd518320	الإرادة الباقية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14261	kh3_menu.theater	scene_0400_030	71fb83be	إلى الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14262	kh3_menu.theater	scene_0400_040	7b3e8aa7	الماضي المعاد: المواجهات الأخيرة I	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14263	kh3_menu.theater	scene_0400_050	b7948a39	الماضي المعاد: أنسيم ينسحب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14264	kh3_menu.theater	scene_0400_060	391b8dda	الماضي المعاد: ريكو وريكو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14265	kh3_menu.theater	scene_0400_070	f5b18d44	الماضي المعاد: وعد باطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14266	kh3_menu.theater	scene_0400_080	2c919fe8	الوعاء المسترد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14267	kh3_menu.theater	scene_0400_090	e03b9f76	الماضي المعاد: المواجهات الأخيرة II	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14268	kh3_menu.theater	scene_0400_100	64d1c832	الماضي المعاد: زيمناس ينسحب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14269	kh3_menu.theater	scene_0400_110	a87bc8ac	الماضي المعاد: نصيب المقامر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14270	kh3_menu.theater	scene_0400_120	26f4cf4f	الماضي المعاد: سر لم يقل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14271	kh3_menu.theater	scene_0400_130	ea5ecfd1	الماضي المعاد: استعادة هويته	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14272	kh3_menu.theater	scene_0400_140	e09bc6c8	الماضي المعاد: إلى معارك منفصلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14273	kh3_menu.theater	scene_0400_150	2c31c656	العزم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14274	kh3_menu.theater	scene_0400_160	a2bec1b5	الماضي المعاد: المواجهات الأخيرة III	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14275	kh3_menu.theater	scene_0400_170	6e14c12b	الماضي المعاد: الظلام هو ما أنا عليه	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14276	kh3_menu.theater	scene_0400_180	b734d387	قلب تيرا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14277	kh3_menu.theater	scene_0400_190	7b9ed319	المواجهة المنتظرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14278	kh3_menu.theater	scene_0400_200	134f1ac2	المواجهات الأخيرة IV	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14279	kh3_menu.theater	scene_0400_210	dfe51a5c	قلب روكساس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14280	kh3_menu.theater	scene_0400_220	516a1dbf	المفتاح الأخير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14281	kh3_menu.theater	scene_0400_230	9dc01d21	الختم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14282	kh3_menu.theater	scene_0400_240	97051438	كلمات صريحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14283	kh3_menu.theater	scene_0400_250	5baf14a6	قلبان آخران	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14284	kh3_menu.theater	scene_0400_260	d5201345	ثلاثة عشر وسبعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14285	kh3_menu.theater	scene_0400_270	198a13db	نهاية الرحلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14286	kh3_menu.theater	scene_0400_280	c0aa0177	القوة الكامنة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14287	kh3_menu.theater	scene_0400_290	0c0001e9	وداعا يا سورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14288	kh3_menu.theater	scene_0400_300	88ea56ad	مكان كايري	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14289	kh3_menu.theater	scene_0410_010	b2fbe1e4	ما قبل الماضي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14290	kh3_menu.theater	scene_0410_020	3c74e607	مطاردة كايري	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14291	kh3_menu.theater	scene_0410_030	f0dee699	البحث عن كايري	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14292	kh3_menu.theater	scene_0410_040	fa1bef80	قلوبنا تتصل كقلب واحد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14293	kh3_menu.theater	scene_0410_050	36b1ef1e	معركة الحراس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14294	kh3_menu.theater	scene_0410_060	b83ee8fd	سورا وكايري	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14295	kh3_menu.theater	scene_0410_070	7494e863	ربط القلوب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14296	kh3_menu.theater	scene_0420_010	eae548cc	نهاية أخرى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14297	kh3_menu.theater	scene_0430_020	e54f2a08	الوعد السري	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14298	kh3_menu.theater	scene_0430_030	29e52a96	البيانات المعاد إنشاؤها	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14299	kh3_menu.theater	scene_0430_040	2320238f	المفاتيح الثلاثة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14300	kh3_menu.theater	scene_0440_010	5ad81a9c	سورا ويوزورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14301	kh3_menu.theater	scene_0440_020	d4571d7f	راودتني أفكار غريبة مؤخرا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14302	kh3_menu.theater	scene_0440_030	18fd1de1	يعني، هل أي من هذا حقيقي أم لا?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14303	kh3_menu.theater	detail_0010	407f9ed2	اختر فصلا لعرض قائمة المشاهد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14304	kh3_menu.theater	detail_0020	cef09931	اختر المشهد الذي تريد مشاهدته.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14305	kh3_menu.theater	button_0010	09e6bf48	<icon(Square)> تبديل الترجمة النصية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14306	kh3_menu.memory	title_0010	e3c6eb2e	أرشيف الذكريات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14307	kh3_menu.memory	menu_0010	bbe8907f	أرشيف الذكريات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14308	kh3_menu.memory	menu_0020	3567979c	الترجمة النصية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14309	kh3_menu.memory	menu_0030	f9cd9702	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14310	kh3_menu.memory	menu_0040	f3089e1b	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14311	kh3_menu.memory	menu_0050	3fa29e85	تشغيل الكل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14312	kh3_menu.memory	episode_0010	2f92826b	الحلقة 1: الانطلاقات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14313	kh3_menu.memory	episode_0020	a11d8588	الحلقة 2: الذكريات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14314	kh3_menu.memory	episode_0030	6db78516	الحلقة 3: الشفق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14315	kh3_menu.memory	episode_0040	67728c0f	الحلقة 4: الفجر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14316	kh3_menu.memory	episode_0050	abd88c91	الحلقة 5: الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14317	kh3_menu.memory	detail_0010	407f9ed2	اختر الحلقة التي تريد مشاهدتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14318	kh3_menu.memory	button_0010	09e6bf48	<icon(Square)> تبديل الترجمة النصية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14319	kh3_menu.shop	shop_0010	691b9940	متجر الموغل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14320	kh3_menu.shop	shop_0020	e7949ea3	متجر الغامي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14321	kh3_menu.shop	menu_0010	bbe8907f	شراء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14322	kh3_menu.shop	menu_0020	3567979c	بيع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14323	kh3_menu.shop	menu_0030	f9cd9702	الورشة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14324	kh3_menu.shop	tab_0010	94963592	الكل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14325	kh3_menu.shop	tab_0020	1a193271	أغراض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14326	kh3_menu.shop	tab_0030	d6b332ef	الأسلحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14327	kh3_menu.shop	tab_0040	dc763bf6	الدروع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14328	kh3_menu.shop	tab_0050	10dc3b68	الإكسسوارات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14329	kh3_menu.shop	tab_0060	9e533c8b	المواد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14330	kh3_menu.shop	tab_1010	3afea403	المتجر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14331	kh3_menu.shop	tab_1020	b471a3e0	شراء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14332	kh3_menu.shop	tab_1030	78dba37e	بيع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14333	kh3_menu.shop	item_0010	cd2c0fe7	الاسم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14334	kh3_menu.shop	item_0020	43a30804	الكمية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14335	kh3_menu.shop	item_0030	8f09089a	الكمية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14336	kh3_menu.shop	item_0040	85cc0183	المخزون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14337	kh3_menu.shop	item_0050	4966011d	السعر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14338	kh3_menu.shop	item_0060	c7e906fe		todo	skip: numbers/symbols
+14339	kh3_menu.shop	item_0070	0b430660		todo	skip: no Latin letters (native script / symbols)
+14340	kh3_menu.shop	munny_0010	6a2400c3	موني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14341	kh3_menu.shop	detail_0010	407f9ed2	اشتر الأغراض والأسلحة وغيرها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14342	kh3_menu.shop	detail_0020	cef09931	بع ما لم تعد بحاجة إليه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14343	kh3_menu.shop	detail_0030	025a99af	ركب الأغراض وغيرها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14344	kh3_menu.shop	detail_0110	dbdad2bd	اختر الغرض الذي ترغب في شرائه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14345	kh3_menu.shop	detail_0120	5555d55e	اختر الغرض الذي ترغب في بيعه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14346	kh3_menu.shop	button_0010	09e6bf48	<icon(KeyLeftRight)> تغيير الكمية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14347	kh3_menu.shop	button_0020	8769b8ab	<icon(KeyLeftRight)> تغيير الكمية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14348	kh3_menu.shop	button_0025	b0b74899	<icon(Triangle)> مساعدة اللعبة  <icon(KeyLeftRight)> تغيير الكمية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14349	kh3_menu.shop	dialog_0010	4a0702a0	لا يمكنك حمل المزيد من ذلك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14350	kh3_menu.shop	dialog_0020	c4880543	ليس لديك موني كاف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14351	kh3_menu.shop	dialog_0110	d1a24ecf	موني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14352	kh3_menu.shop	dialog_0210	a63c9c3f	إتمام هذا الشراء?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14353	kh3_menu.shop	dialog_0220	28b39bdc	إتمام هذا البيع?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14354	kh3_menu.shop	dialog_0310	3d99d050	تمت مبادلة <color(strong)>{0}<color> مقابل <color(strong)>{1}<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14355	kh3_menu.shop	mission_0010	b1255eb2	أحتاج إلى قفازات فرن للتعامل مع ذلك المتهور، كوبو.	reviewed	unsure: moogle shop chatter, playful puns approximated; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14356	kh3_menu.shop	mission_0020	3faa5951	ذلك الشرير يبلل كرة رأسي الصوفية باستمرار، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14357	kh3_menu.shop	mission_0030	f30059cf	المحطم الآلي يخترق الجدار، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14358	kh3_menu.shop	mission_0040	f9c550d6	من بنى ذلك البرج في الغابة، كوبو?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14359	kh3_menu.shop	mission_0050	356f5048	الناعم لا يعني اللطيف دائما، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14360	kh3_menu.shop	mission_0060	bbe057ab	امنحوا ذلك العامل المجتهد ذا اللون الأصفر علاوة، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14361	kh3_menu.shop	mission_0070	774a5735	لا أستطيع نسيان تلك العضلات المنحوتة، كوبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14362	kh3_menu.shop	mission_0080	ae6a4599	أتمنى لو أترك العمل وأشاهد المهرجان، كوبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14363	kh3_menu.shop	mission_0090	62c04507	صنع الصواعق يحتاج إلى نار حامية، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14364	kh3_menu.shop	mission_0100	e62a1243	لا أظن أن ذلك القصر فيه مدفأة، كوبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14365	kh3_menu.shop	mission_0110	2a8012dd	"ملك الآلهة" عند بعضهم و"أبي" عند آخرين، كوبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14366	kh3_menu.shop	mission_0120	a40f153e	أظنني رأيت رجل ثلج يمشي ويتكلم، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14367	kh3_menu.shop	mission_0130	68a515a0	ها هي، كوبو. نجمة حظي، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14368	kh3_menu.shop	mission_0140	62601cb9	أحب مشاهدة الترام يمر عند الشفق، كوبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14369	kh3_menu.shop	mission_0150	aeca1c27	ابق قرب الشلال لتهزم حر المناطق الاستوائية، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14370	kh3_menu.shop	mission_0160	20451bc4	تلك الأسماك تسبح في الهواء، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14371	kh3_menu.shop	mission_0170	ecef1b5a	مهلا، كوبو... ذلك الأخضر يبدو مألوفا، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14372	kh3_menu.shop	mission_0180	35cf09f6	هو يساعد في إبعاد الطيور عن الحقول، كوبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14373	kh3_menu.shop	mission_0190	f9650968	أروني سربا مخيفا من الظلال، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14374	kh3_menu.shop	mission_0200	91b4c0b3	أحيي بتحية الموغل جميع أصدقائك الأشداء، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14375	kh3_menu.shop	mission_detail_0010	91a71c3b	يبدو أن الموغل يريد صورة <color(strong)>نواة اللهب<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14376	kh3_menu.shop	mission_detail_0020	1f281bd8	يبدو أن الموغل يريد صورة <color(strong)>نواة الماء<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14377	kh3_menu.shop	mission_detail_0030	d3821b46	يبدو أن الموغل يريد صورة <color(strong)>عرض الحائط الكبير لوحوش وحشرات<color>.<br>(صندوق الألعاب / غالاكسي تويز)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14378	kh3_menu.shop	mission_detail_0040	d947125f	يبدو أن الموغل يريد صورة <color(strong)>برج رابونزل<color>.<br>(مملكة كورونا / الغابة)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14379	kh3_menu.shop	mission_detail_0050	15ed12c1	يبدو أن الموغل يريد صورة <color(strong)>الزعيم المنتفخ<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14380	kh3_menu.shop	mission_detail_0060	9b621522	يبدو أن الموغل يريد صورة <color(strong)>عميل CDA<color>.<br>(مونستروبوليس / محطة الطاقة)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14381	kh3_menu.shop	mission_detail_0070	57c815bc	يبدو أن الموغل يريد صورة <color(strong)>تمثال هرقل<color>.<br>(أوليمبوس / طيبة)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14382	kh3_menu.shop	mission_detail_0080	8ee80710	يبدو أن الموغل يريد صورة <color(strong)>المهرجان<color>.<br>(مملكة كورونا / المملكة)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14383	kh3_menu.shop	mission_detail_0090	4242078e	يبدو أن الموغل يريد صورة <color(strong)>النار في المسبك المعزول<color>.<br>(أوليمبوس / عالم الآلهة)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14384	kh3_menu.shop	mission_detail_0100	c6a850ca	يبدو أن الموغل يريد صورة <color(strong)>قصر الجليد<color>.<br>(آرنديل / الجبل الشمالي)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14385	kh3_menu.shop	mission_detail_0110	0a025054	يبدو أن الموغل يريد صورة <color(strong)>زيوس<color>.<br>(أوليمبوس)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14386	kh3_menu.shop	mission_detail_0120	848d57b7	يبدو أن الموغل يريد صورة <color(strong)>أولاف<color>.<br>(آرنديل)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14387	kh3_menu.shop	mission_detail_0130	48275729	يبدو أن الموغل يريد صورة <color(strong)>نجمة المساء<color>.<br>(سان فرانسوكيو / المدينة)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14388	kh3_menu.shop	mission_detail_0140	42e25e30	يبدو أن الموغل يريد صورة <color(strong)>الترام<color>.<br>(بلدة الشفق / الحي السكني)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14389	kh3_menu.shop	mission_detail_0150	8e485eae	يبدو أن الموغل يريد صورة <color(strong)>الشلال في ميناء رويال<color>.<br>(الكاريبي / ميناء رويال)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14390	kh3_menu.shop	mission_detail_0160	00c7594d	يبدو أن الموغل يريد صورة <color(strong)>مخاريط الرياح السمكية<br>في وضح النهار<color>.<br>(سان فرانسوكيو / المدينة)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14391	kh3_menu.shop	mission_detail_0170	cc6d59d3	يبدو أن الموغل يريد صورة <color(strong)>كاكتوار الأخضر الكبير<color>.<br>(صندوق الألعاب / غالاكسي تويز)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14392	kh3_menu.shop	mission_detail_0180	154d4b7f	يبدو أن الموغل يريد صورة <color(strong)>فزاعة الطيور في الحقول<color>.<br>(غابة المئة فدان / بيت الأرنب)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14393	kh3_menu.shop	mission_detail_0190	d9e74be1	يبدو أن الموغل يريد صورة <color(strong)>برج الشياطين<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14394	kh3_menu.shop	mission_detail_0200	b136823a	يبدو أن الموغل يريد صور <color(strong)>رفاق سورا<color>.<br>التقطت: {0} / {1}	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14395	kh3_menu.shop	mission_detail_0200_1	55b3d0bd	يبدو أن الموغل يريد صور <color(strong)>رفاق سورا<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14396	kh3_menu.synthesis	title_0010	e3c6eb2e	الورشة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14397	kh3_menu.synthesis	menu_0010	bbe8907f	تركيب الأغراض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14398	kh3_menu.synthesis	menu_0020	3567979c	مسبك الكيبلايد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14399	kh3_menu.synthesis	menu_0030	f9cd9702	مهام التصوير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14400	kh3_menu.synthesis	menu_0040	f3089e1b	أهداف الجامع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14401	kh3_menu.synthesis	menu_0050	3fa29e85	قائمة المواد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14402	kh3_menu.synthesis	log_0010	8aeb72f1	سجل التركيب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14403	kh3_menu.synthesis	log_0020	04647512	مكتمل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14404	kh3_menu.synthesis	log_0030	c8ce758c	الأغراض المصنوعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14405	kh3_menu.synthesis	log_0040	c20b7c95	مهام التصوير المكتملة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14406	kh3_menu.synthesis	log_0050	0ea17c0b	أهداف الجامع المكتملة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14407	kh3_menu.synthesis	bonus_0010	9503c0dc	أكمل هذا الهدف لتنال<br>حق <color(strong)>تركيب<color> الأغراض أدناه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14408	kh3_menu.synthesis	bonus_0020	1b8cc73f	أكمل هذا الهدف لتحصل على<br>الغرض أدناه <color(strong)>مكافأة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14409	kh3_menu.synthesis	bonus_0030	d726c7a1	أكمل هذا الهدف لإضافة الغرض<br>أدناه إلى <color(strong)>المتجر<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14410	kh3_menu.synthesis	item_0010	cd2c0fe7	الاسم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14411	kh3_menu.synthesis	item_0020	43a30804	الكمية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14412	kh3_menu.synthesis	item_0030	8f09089a	المخزون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14413	kh3_menu.synthesis	item_0040	85cc0183	المواد المطلوبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14414	kh3_menu.synthesis	item_0050	4966011d	الكمية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14415	kh3_menu.synthesis	materials_0010	a08721b8	لا يمكن تقوية هذا الكيبلايد أكثر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14416	kh3_menu.synthesis	detail_0010	407f9ed2	استخدم المواد لتركيب أغراض جديدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14417	kh3_menu.synthesis	detail_0020	cef09931	طور كيبلايداتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14418	kh3_menu.synthesis	detail_0030	025a99af	ساعد الموغل في إيجاد الإلهام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14419	kh3_menu.synthesis	detail_0040	089f90b6	اجمع المواد لفتح المكافآت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14420	kh3_menu.synthesis	detail_0050	c4359028	اعرض قائمة المواد التي تركتها<br>في الورشة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14421	kh3_menu.synthesis	detail_0110	dbdad2bd	اختر الغرض الذي تريد تركيبه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14422	kh3_menu.synthesis	detail_0210	ac44004d	طور <color(strong)>{0}<color>.	reviewed	ratio ok: args-only English length; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14423	kh3_menu.synthesis	detail_0310	37e14c22	اختر هدفا للجامع لمعرفة المزيد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14424	kh3_menu.synthesis	collection_0010	e75e5d2d	احصل على {0}|plural(one=مادة تركيب واحدة,other={0} من مواد التركيب المختلفة).	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14425	kh3_menu.synthesis	collection_0020	69d15ace	احصل على كل أنواع مواد التركيب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14426	kh3_menu.synthesis	collection_0030	a57b5a50	احصل على {0} من مواد التركيب على الأقل في المجموع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14427	kh3_menu.synthesis	collection_0040	afbe5349	احصل على {0} على الأقل من <color(strong)>{1}<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14428	kh3_menu.synthesis	collection_0050	631453d7	احصل على كل أنواع المواد <icon(s_normal)>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14429	kh3_menu.synthesis	collection_0060	ed9b5434	احصل على كل أنواع المواد <icon(s_rare)>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14430	kh3_menu.synthesis	collection_0070	213154aa	احصل على كل أنواع المواد <icon(s_srare)>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14431	kh3_menu.synthesis	collection_0080	f8114606	احصل على كل أنواع المواد <icon(s_ssrare)>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14432	kh3_menu.synthesis	collection_0090	34bb4698	احصل على كل أنواع المواد <color(strong)>المشتعلة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14433	kh3_menu.synthesis	collection_0100	b05111dc	احصل على كل أنواع المواد <color(strong)>الجليدية<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14434	kh3_menu.synthesis	collection_0110	7cfb1142	احصل على كل أنواع المواد <color(strong)>الصاعقة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14435	kh3_menu.synthesis	collection_0120	f27416a1	احصل على كل أنواع المواد <color(strong)>الصافية<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14436	kh3_menu.synthesis	collection_0130	3ede163f	احصل على كل أنواع المواد <color(strong)>النابضة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14437	kh3_menu.synthesis	collection_0140	341b1f26	احصل على كل أنواع المواد <color(strong)>الملتوية<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14438	kh3_menu.synthesis	collection_0150	f8b11fb8	احصل على كل أنواع المواد <color(strong)>البينية<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14439	kh3_menu.synthesis	collection_0160	763e185b	احصل على كل أنواع المواد <color(strong)>الشفقية<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14440	kh3_menu.synthesis	collection_0170	ba9418c5	احصل على كل أنواع المواد <color(strong)>الميثريل<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14441	kh3_menu.synthesis	collection_0180	63b40a69	احصل على كل أنواع المواد <color(strong)>الشريرة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14442	kh3_menu.synthesis	collection_0190	af1e0af7	احصل على كل أنواع المواد <color(strong)>المهدئة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14443	kh3_menu.synthesis	collection_0200	c7cfc32c	احصل على كل أنواع المواد <color(strong)>النبعية<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14444	kh3_menu.synthesis	collection_0210	0b65c3b2	احصل على كل أنواع المواد <color(strong)>الجائعة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14445	kh3_menu.synthesis	dialog_0010	4a0702a0	ستترك مواد التركيب التي جمعتها<br>هنا في الورشة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14446	kh3_menu.synthesis	dialog_0020	c4880543	اكتمل هدف الجامع!<br>لقد فتحت أغراضا جديدة للتركيب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14447	kh3_menu.synthesis	dialog_0030	082205dd	اكتمل هدف الجامع!<br>سلمك الموغل غرضا: <color(strong)>{0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14448	kh3_menu.synthesis	dialog_0040	02e70cc4	اكتمل هدف الجامع!<br>تمت إضافة غرض جديد إلى المتجر:<br><color(strong)>{0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14449	kh3_menu.synthesis	dialog_0050	ce4d0c5a	اكتملت مهمة التصوير!<br>لقد فتحت أغراضا جديدة للتركيب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14450	kh3_menu.synthesis	dialog_0110	d1a24ecf	المتابعة في التركيب?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14451	kh3_menu.synthesis	dialog_0210	a63c9c3f	تنقصك المواد المطلوبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14452	kh3_menu.synthesis	dialog_0220	28b39bdc	تطوير <color(strong)>{0}<color>?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14453	kh3_menu.synthesis	dialog_0310	3d99d050	عرض قائمة المواد المخزنة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14725	kh3_menu.philharmonic	title_0010	e3c6eb2e	الأوركسترا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14726	kh3_menu.philharmonic	menu_0010	bbe8907f	أوركسترا كينغدوم هارتس -عالم تريس-	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14727	kh3_menu.philharmonic	menu_0050	3fa29e85	تشغيل الكل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14728	kh3_menu.philharmonic	program_0010	fa524770	01 ديرلي بيلوفد من كينغدوم هارتس III	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14729	kh3_menu.philharmonic	program_0020	74dd4093	02 موسيقى من كينغدوم هارتس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14730	kh3_menu.philharmonic	program_0030	b877400d	03 موسيقى من ري: تشين أوف ميموريز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14731	kh3_menu.philharmonic	program_0040	b2b24914	04 موسيقى من كينغدوم هارتس II	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14732	kh3_menu.philharmonic	program_0050	7e18498a	05 موسيقى من 358/2 دايز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14733	kh3_menu.philharmonic	program_0060	f0974e69	06 بريتي بريتي أبيليتيز من كودد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14734	kh3_menu.philharmonic	program_0070	3c3d4ef7	07 موسيقى من بيرث باي سليب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14735	kh3_menu.philharmonic	program_0080	e51d5c5b	08 موسيقى من دريم دروب ديستانس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14736	kh3_menu.philharmonic	program_0090	29b75cc5	09 موسيقى زمن آخر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14737	kh3_menu.philharmonic	program_0100	ad5d0b81	10 ديابوليك باش	reviewed	context: song title, glossary Bash (الكبس) does not apply; GLOSS flag expected; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14738	kh3_menu.philharmonic	program_0110	61f70b1f	11 فيس ماي فيرز -النسخة الآلية لأوركسترا كينغدوم-	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14739	kh3_menu.philharmonic	program_0120	ef780cfc	12 المجموعة السيمفونية: عوالم تريس I -عن الآلهة والألعاب-	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14740	kh3_menu.philharmonic	program_0130	23d20c62	13 المجموعة السيمفونية: عوالم تريس II -تشابك مع المخاوف-	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14741	kh3_menu.philharmonic	program_0140	2917057b	14 المجموعة السيمفونية: عوالم تريس III -ضجة متجمدة-	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14742	kh3_menu.philharmonic	program_0150	e5bd05e5	15 المجموعة السيمفونية: عوالم تريس IV -حكاية قرصان-	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14743	kh3_menu.philharmonic	program_0160	6b320206	16 المجموعة السيمفونية: عوالم تريس V -رحلة بطل-	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14744	kh3_menu.philharmonic	program_0170	a7980298	17 افتتاحية المعركة الحاسمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14745	kh3_menu.philharmonic	program_0180	7eb81034	18 سيمبل آند كلين -النسخة الآلية لأوركسترا كينغدوم تريس-	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14746	kh3_menu.philharmonic	program_0190	b21210aa	19 دونت ثينك توايس -النسخة الآلية لأوركسترا كينغدوم-	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14747	kh3_menu.philharmonic	detail_0010	407f9ed2	اختر عنصرا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14748	kh3_menu.philharmonic	button_0010	09e6bf48	<icon(Triangle)> الشارات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14749	kh3_menu.debugcood	title_0010	e3c6eb2e	القائمة المميزة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14750	kh3_menu.debugcood	title_0020	6d49eccd	الاستحقاقات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14751	kh3_menu.debugcood	title_0030	a1e3ec53	استحقاقات رموز التسهيل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14752	kh3_menu.debugcood	title_0040	ab26e54a	استحقاقات رموز المحترفين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14753	kh3_menu.debugcood	tab_0010	94963592	رموز التسهيل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14754	kh3_menu.debugcood	tab_0020	1a193271	رموز المحترفين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14755	kh3_menu.debugcood	button_0010	09e6bf48	<icon(Triangle)> <color(strong)>الاستحقاقات<color>	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14756	kh3_menu.debugcood	button_0020	8769b8ab	<icon(Triangle)> <color(strong)>الاستحقاقات<color>  <icon(L2)><icon(R2)> تغيير الرمز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14757	kh3_menu.debugcood	button_0030	4bc3b835	<icon(L2)><icon(R2)> تغيير الرمز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14758	kh3_menu.debugcood	button_0040	4106b12c	<icon(Square)> عرض معلومات إضافية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14759	kh3_menu.debugcood	menu_0010	bbe8907f	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14760	kh3_menu.debugcood	menu_0020	3567979c	معطل	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14761	kh3_menu.debugcood	menu_0030	f9cd9702	السجل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14762	kh3_menu.debugcood	menu_0040	f3089e1b	مجموع النقاط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14763	kh3_menu.debugcood	menu_0050	3fa29e85	{0} {0}|plural(one=نقطة,other=نقاط)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14764	kh3_menu.debugcood	menu_0060	b12d9966	الرتبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14765	kh3_menu.debugcood	menu_0070	7d8799f8	العالم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14766	kh3_menu.debugcood	menu_0080	a4a78b54	النتيجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14767	kh3_menu.debugcood	menu_0090	680d8bca		todo	skip: no Latin letters (native script / symbols)
+14768	kh3_menu.debugcood	cheat_0010	606c5fca	الضربة القاتلة	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14769	kh3_menu.debugcood	cheat_0020	eee35829	البقاء	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14770	kh3_menu.debugcood	cheat_0030	224958b7	الصد التلقائي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14771	kh3_menu.debugcood	cheat_0040	288c51ae	تجدد HP	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14772	kh3_menu.debugcood	cheat_0050	e4265130	تجدد MP	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14773	kh3_menu.debugcood	cheat_0060	6aa956d3	تجدد التركيز	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14774	kh3_menu.debugcood	cheat_0070	a603564d	شحن التحول	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14775	kh3_menu.debugcood	cheat_0080	7f2344e1	تذكرة الملاهي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14776	kh3_menu.debugcood	cheat_0090	b389447f	أفضل دمج	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14777	kh3_menu.debugcood	cheat_0100	3763133b	الفيض	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14778	kh3_menu.debugcood	cheat_0110	fbc913a5	الرابطة الدائمة	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14779	kh3_menu.debugcood	cheat_0120	75461446	بلا AP	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14780	kh3_menu.debugcood	cheat_0130	b9ec14d8	خبير الطهي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14781	kh3_menu.debugcood	cheat_0140	b3291dc1	خصم المتجر	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14782	kh3_menu.debugcood	cheat_0150	7f831d5f	أستاذ سفينة الغامي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+14783	kh3_menu.debugcood	detail_cheat_0010	06875935	يمكنك هزيمة الأعداء بضربة واحدة. لكن بعض<br>الأعداء والزعماء محصنون ضد هذا التأثير.<br><color(strong)>(رمز المعركة)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14784	kh3_menu.debugcood	detail_cheat_0020	88085ed6	تصبح إحصائيات القوة والسحر ثلاثة أمثال قيمتها لدى<br>الحلفاء والأعداء معا.<br><color(strong)>(رمز المعركة)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14785	kh3_menu.debugcood	detail_cheat_0030	44a25e48	تصد هجمات الأعداء تلقائيا. لا يعمل الصد التلقائي<br>أثناء هجومك أو عند استخدام أشكال<br>لا تتيح الصد.<br><color(strong)>(رمز المعركة)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14786	kh3_menu.debugcood	detail_cheat_0040	4e675751	يتجدد HP لفريقك بالكامل تلقائيا.<br><color(strong)>(رمز المعركة)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14787	kh3_menu.debugcood	detail_cheat_0050	82cd57cf	يتجدد MP لفريقك بالكامل تلقائيا.<br>لكن تجدد MP لا يعمل أثناء<br>إعادة شحن MP.<br><color(strong)>(رمز المعركة)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14788	kh3_menu.debugcood	detail_cheat_0060	0c42502c	يعاد شحن عداد التركيز لديك تلقائيا.<br><color(strong)>(رمز المعركة)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14789	kh3_menu.debugcood	detail_cheat_0070	c0e850b2	يزداد عداد تحول السلاح لديك تدريجيا<br>مع الوقت.<br><color(strong)>(رمز المعركة)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14790	kh3_menu.debugcood	detail_cheat_0080	19c8421e	تظهر مؤشرات ألعاب الملاهي بشكل أكثر تكرارا<br>أثناء المعركة.<br><color(strong)>(رمز المعركة)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14791	kh3_menu.debugcood	detail_cheat_0090	d5624280	تظهر أوامر الفريق بشكل أكثر تكرارا في المعركة.<br><color(strong)>(رمز المعركة)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14792	kh3_menu.debugcood	detail_cheat_0100	518815c4	يظهر أمر شكل الغضب بشكل أكثر<br> تكرارا في المعركة.<br><color(strong)>(رمز المعركة)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14793	kh3_menu.debugcood	detail_cheat_0110	9d22155a	تدوم الروابط مدة أطول بكثير.<br><color(strong)>(رمز المعركة)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14794	kh3_menu.debugcood	detail_cheat_0120	13ad12b9	تصبح تكلفة AP لكل القدرات 0. <br>وتعطيل هذا الرمز يزيل<br>القدرات المركبة لفريقك.<br><color(strong)>(رمز المعركة)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14795	kh3_menu.debugcood	detail_cheat_0130	df071227	ستنال دائما تقييم <color(strong)>ممتاز<color> عند<br>الطهي مع الطاهي الصغير.<br><color(strong)>(رمز الدعم)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14796	kh3_menu.debugcood	detail_cheat_0140	d5c21b3e	جميع أغراض المتجر بنصف السعر.<br><color(strong)>(رمز الدعم)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14797	kh3_menu.debugcood	detail_cheat_0150	19681ba0	في محرر الغامي: مستوى السفينة 99<br>وأغراض الغامي كلها بالحد الأقصى.<br><color(red)>لا يمكن استعادة المخزون السابق.<color><br><color(strong)>(رمز الدعم)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14798	kh3_menu.debugcood	challenge_0010	9e314a03	الحالة الافتراضية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14799	kh3_menu.debugcood	challenge_0020	10be4de0	دفاع صفر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14800	kh3_menu.debugcood	challenge_0030	dc144d7e	نزف HP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14801	kh3_menu.debugcood	challenge_0040	d6d14467	نزف MP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14802	kh3_menu.debugcood	challenge_0050	1a7b44f9	بلا تصويبات مثبتة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14803	kh3_menu.debugcood	challenge_0060	94f4431a	بلا شفاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14804	kh3_menu.debugcood	challenge_0070	585e4384	بلا أغراض قتال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14805	kh3_menu.debugcood	challenge_0080	817e5128	بلا روابط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14806	kh3_menu.debugcood	challenge_0090	4dd451b6	بلا تحول السلاح/السحر الكبير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14807	kh3_menu.debugcood	challenge_0100	c93e06f2	بلا ألعاب ملاهي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14808	kh3_menu.debugcood	challenge_0110	0594066c	بلا هجمات الفريق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14809	kh3_menu.debugcood	challenge_0120	8b1b018f	بلا عملات كوبو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14810	kh3_menu.debugcood	challenge_0130	47b10111	حد القدرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14811	kh3_menu.debugcood	detail_challenge_0010	5f3af983	تعود إحصائيات فريقك بالكامل إلى حالتها<br>الافتراضية الأولية بغض النظر عن المستوى.<br><color(strong)>★★★★★<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14812	kh3_menu.debugcood	detail_challenge_0020	d1b5fe60	يضبط دفاع فريقك بالكامل على 0. لكن<br>تعزيزات الدفاع من المعدات تظل سارية.<br><color(strong)>★★★★☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14813	kh3_menu.debugcood	detail_challenge_0030	1d1ffefe	أثناء المعركة، ينخفض HP لفريقك بالكامل تلقائيا<br>مع الوقت حتى يبلغ مستويات خطرة.<br><color(strong)>★★★☆☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14814	kh3_menu.debugcood	detail_challenge_0040	17daf7e7	أثناء المعركة، ينخفض MP لفريقك بالكامل تلقائيا<br>مع الوقت ويتضاعف زمن إعادة شحن MP.<br><color(strong)>★★★★☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14815	kh3_menu.debugcood	detail_challenge_0050	db70f779	لا يمكنك استخدام التصويبات المثبتة.<br><color(strong)>★★☆☆☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14816	kh3_menu.debugcood	detail_challenge_0060	55fff09a	لا يمكن لفريقك بالكامل استخدام سحر الشفاء.<br><color(strong)>★★★★★<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14817	kh3_menu.debugcood	detail_challenge_0070	9955f004	أثناء المعركة، لا يمكن لفريقك بالكامل استخدام الأغراض.<br><color(strong)>★★★☆☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14818	kh3_menu.debugcood	detail_challenge_0080	4075e2a8	لا يمكنك استخدام الروابط.<br><color(strong)>★★☆☆☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14819	kh3_menu.debugcood	detail_challenge_0090	8cdfe236	لا يمكنك استخدام تحول السلاح أو السحر الكبير.<br><color(strong)>★★★★☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14820	kh3_menu.debugcood	detail_challenge_0100	0835b572	لا تظهر أوامر ألعاب الملاهي خارج <br>بعض المعارك الخاصة.<br><color(strong)>★☆☆☆☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14821	kh3_menu.debugcood	detail_challenge_0110	c49fb5ec	لا تظهر أوامر الفريق خارج <br>بعض المعارك الخاصة.<br><color(strong)>★☆☆☆☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14822	kh3_menu.debugcood	detail_challenge_0120	4a10b20f	عملات الكوبو التي بحوزتك بلا تأثير.<br><color(strong)>★★☆☆☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14823	kh3_menu.debugcood	detail_challenge_0130	86bab291	يوضع حد أقصى قدره 30 للقدرات التي يمكنك تركيبها على سورا.<br><color(strong)>★★★★☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14824	kh3_menu.debugcood	cheatachievement_0010	cdf00c73	تحدي الجو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14825	kh3_menu.debugcood	cheatachievement_0020	437f0b90	تحدي كسر الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14826	kh3_menu.debugcood	cheatachievement_0030	8fd50b0e	تحدي الروابط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14827	kh3_menu.debugcood	cheatachievement_0040	85100217	تحدي جيغاس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14828	kh3_menu.debugcood	cheatachievement_0050	49ba0289	تحدي المشي في السماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14829	kh3_menu.debugcood	cheatachievement_0060	c735056a	تحدي البولينغ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14830	kh3_menu.debugcood	cheatachievement_0070	0b9f05f4	تحدي شكل الغضب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14831	kh3_menu.debugcood	cheatachievement_0080	d2bf1758	تحدي البقاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14832	kh3_menu.debugcood	cheatachievement_0090	1e1517c6	تحدي شفارتسغايست	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14833	kh3_menu.debugcood	detail_cheatachievement_0010	ccc3f8a4	اهزم 13 عدوا في الجو دون الهبوط!<br><br>لا يحتسب الأعداء المهزومون بالسحر أو الروابط أو أوامر الفريق أو ألعاب الملاهي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14834	kh3_menu.debugcood	detail_cheatachievement_0020	424cff47	جمد وحطم 30 عدوا في معركة واحدة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14835	kh3_menu.debugcood	detail_cheatachievement_0030	8ee6ffd9	استخدم أي رابطة لهزيمة 77 عدوا دفعة واحدة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14836	kh3_menu.debugcood	detail_cheatachievement_0040	8423f6c0	استخدم أي لعبة ملاهي لهزيمة 5 ألعاب جيغاس<br>دفعة واحدة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14837	kh3_menu.debugcood	detail_cheatachievement_0050	4889f65e	سافر من البرج في الغابة إلى<br>مملكة كورونا دون المشي على الأرض والهبوط 5 مرات فقط كحد أقصى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14838	kh3_menu.debugcood	detail_cheatachievement_0060	c606f1bd	اهزم 10 أعداء دفعة واحدة باستخدام هجوم<br>الفريق ضربة الصراخ.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14839	kh3_menu.debugcood	detail_cheatachievement_0070	0aacf123	اهزم 20 من الظلال/الظلال الجديدة دفعة واحدة<br>باستخدام شكل الغضب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14840	kh3_menu.debugcood	detail_cheatachievement_0080	d38ce38f	أكمل بوابة المعركة بصعوبة ★★☆ مع تفعيل رمز المعركة "البقاء" فقط.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14841	kh3_menu.debugcood	detail_cheatachievement_0090	1f26e311	اهزم شفارتسغايست في التيار الضبابي<br>بالرتبة A!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14842	kh3_menu.debugcood	challengeachievement_0010	c8531384	Re<icon(Coda)>Mind	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14843	kh3_menu.debugcood	challengeachievement_0020	46dc1467	حلقة تجاوز الحدود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14844	kh3_menu.debugcood	challengeachievement_0030	8a7614f9	الحلقة السرية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14845	kh3_menu.debugcood	detail_challengeachievement_0010	698839ff	عند تفعيل رموز المحترفين، ترتفع درجة استحقاقك<br>حين تهزم أعداء أقوياء.<br>كلما زاد عدد رموز ★ في الرمز، ارتفعت<br>صعوبته وزادت النقاط التي تنالها.<br>وحين يبلغ مجموع نقاطك قدرا معينا<br>ترتفع رتبة استحقاقك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14846	kh3_menu.debugcood	complete_0010	f040daaa	اكتملت!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14847	kh3_menu.debugcood	complete_0020	7ecfdd49	ارتفعت الرتبة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14848	kh3_menu.debugcood	complete_0030	b265ddd7		todo	skip: tags/args only
+14849	kh3_menu.debugcood	complete_0040	b8a0d4ce	<color(strong)>الرتبة {0} → الرتبة {1}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14850	kh3_menu.debugcood	dialog_0010	4a0702a0	هل أنت متأكد من رغبتك في تعطيل <color(strong)>{0}<color>?<br>سيؤدي ذلك إلى إزالة قدرات فريقك بالكامل.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14851	kh3_menu.debugcood	dialog_0020	c4880543	هل أنت متأكد من رغبتك في تفعيل <color(strong)>{0}<color>?<br>بعد ذلك لا يمكن استعادة مستوى سفينة الغامي<br>ومخزون أغراض الغامي السابقين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14852	kh3_menu.debugcood	dialog_0030	082205dd	هل أنت متأكد من رغبتك في تعطيل <color(strong)>{0}<color>?<br>سيؤدي ذلك إلى انخفاض درجة<br>استحقاقك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14853	kh3_menu.debugcood	dialog_0040	02e70cc4	هل أنت متأكد من رغبتك في تفعيل <color(strong)>{0}<color>?<br>القدرات المركبة حاليا تتجاوز الحد الأقصى<br>لذا ستزال جميع قدرات سورا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14854	kh3_menu.debugcood	dialog_0050	ce4d0c5a	تم فتح <color(strong)>{0}<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14855	kh3_menu.debugcood	dialog_0060_ps	885ea45a	<color(strong)>عند تفعيل رموز المعركة لا يمكن الحصول<br>على بعض الكؤوس.<br><br>عند تفعيل رمز أستاذ سفينة الغامي<br>لن تتمكن من الحصول على كأس<br>"منقذ الحطام" باستخدام بيانات الحفظ هذه.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14856	kh3_menu.debugcood	dialog_0060_xb1	62546621	<color(strong)>عند تفعيل رموز المعركة لا يمكن الحصول<br>على بعض الإنجازات.<br><br>عند تفعيل رمز أستاذ سفينة الغامي<br>لن تتمكن بيانات الحفظ هذه من الحصول<br>على إنجاز "منقذ الحطام".<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14857	kh3_menu.debugcood	dialog_0070	8c680b27	<color(strong)>تفعيل رمز المعركة?<color> تفعيل رموز المعركة<br>سيجعلك غير مؤهل لنيل درجة استحقاق رموز المحترفين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14858	kh3_menu.debugcood	window_0010	4b001fcb	النقاط: {0} {0}|plural(one=نقطة,other=نقاط)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14859	kh3_menu.debugcood	window_0020	c58f1828	النقاط: {0} {0}|plural(one=نقطة,other=نقاط) <color(strong)>رقم قياسي جديد<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1

@@ -1,0 +1,559 @@
+id	namespace	key	source_hash	AR	status	note
+12978	kh3_level.he	information_0010	6da9a1a5	اصعد الجبل!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12979	kh3_level.he	information_0020	e326a646	واصل صعود الجبل!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12980	kh3_level.he	information_0030	2f8ca6d8	توجه إلى الأغورا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12981	kh3_level.he	information_0040	2549afc1	تعاون مع هرقل واهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12982	kh3_level.he	information_0050	e9e3af5f	تأكد من وصول الجميع في طيبة إلى بر الأمان!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12983	kh3_level.he	information_0060	676ca8bc	استخدم <icon(Triangle)><color(strong)>زلاجة ترينتي<color> الخاصة بغوفي لعبور النار!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12984	kh3_level.he	information_0070	abc6a822	ساعد الشابة التي يهاجمها بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12985	kh3_level.he	information_0080	72e6ba8e	واصل البحث! قد يكون هناك المزيد من الناس في خطر!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12986	kh3_level.he	information_0090	be4cba10	اهزم جميع بلا قلب قبل انهيار المبنى! <br><color(strong)>استخدم <color><icon(L2)> <color(strong)>للتنقل بين أوامر المواقف!<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12987	kh3_level.he	information_0095	89924a22	اهزم جميع بلا قلب قبل انهيار المبنى! <br><color(strong)>استخدم <color><icon(KeyUpDown)> <color(strong)>للتنقل بين أوامر المواقف!<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12988	kh3_level.he	information_0100	3aa6ed54	واصل التقدم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12989	kh3_level.he	information_0110	f60cedca	اذهب مع هرقل إلى جبل أوليمبوس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12990	kh3_level.he	information_0115	c1d21df8	اضغط <icon(Triangle)> لتشغيل المسبك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12991	kh3_level.he	information_0120	7883ea29	توجه إلى القمة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12992	kh3_level.he	information_0130	b429eab7	اهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12993	kh3_level.he	information_0140	beece3ae	اركض صعودا على الجرف وتوجه إلى القمة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12994	kh3_level.he	information_0150	7246e330	اهزم تيتان الصخر!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12995	kh3_level.he	information_0160	fcc9e4d3	استخدم <icon(Lstick)> للركض على مواطئ القدم المتلألئة واضرب رؤوس تيتان الصخر!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12996	kh3_level.he	information_0165	cb1714e1	استهدف الساق الأخرى التي ما زال لديها HP!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12997	kh3_level.he	information_0170	3063e44d	استخدم لعبة الملاهي <icon(Triangle)><color(strong)>قطار الجبل<color> لتكسب الأفضلية!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12998	kh3_level.he	information_0180	e943f6e1	اهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12999	kh3_level.he	information_0190	25e9f67f	توجه إلى أعلى نقطة في عالم الآلهة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13000	kh3_level.he	information_0200	4d383fa4	استخدم الخطوة الجوية لتسلق الأنقاض!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13001	kh3_level.he	information_0210	81923f3a	واجه التيتان!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13002	kh3_level.he	information_0220	0f1d38d9	اهزم تيتان الإعصار!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13003	kh3_level.he	information_0230	c3b73847	اهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13004	kh3_level.he	information_0240	c972315e	استخدم <color(strong)>الخطوة الجوية<color> (اضغط مطولا على <icon(R1)> + اضغط <icon(Square)>) للاقتراب من تيتان الإعصار!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13005	kh3_level.he	other_0010	b6819bff	استكشف البلدة مع هرقل في الوقت الحالي!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13006	kh3_level.he	dialog_0010	4a0702a0	دخول درس الجري الحر?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13007	kh3_level.he	dialog_0020	c4880543	دخول درس الحركة الانسيابية?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13008	kh3_level.he	dialog_0030	082205dd	دخول درس السحر?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13009	kh3_level.he	dialog_0040	02e70cc4	دخول درس تحول السلاح?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13010	kh3_level.he	dialog_0050	ce4d0c5a	دخول درس ألعاب الملاهي?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13011	kh3_level.he	dialog_0060	40c20bb9	دخول درس التصويب المثبت?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13012	kh3_level.he	dialog_0070	8c680b27	دخول درس الخطوة الجوية?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13013	kh3_level.he	system_0010	4c46517a	افتح <icon(Option)><color(strong)>القائمة الرئيسية<color> لاستخدام الأغراض التي تجدها وتجهيزها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13014	kh3_level.he	system_0020	c2c95699	لست متأكدا من وظيفة كل زر?<br>زر <color(strong)>مساعدة اللعبة<color> في القائمة الرئيسية للمراجعة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13015	kh3_level.tt	information_0010	6da9a1a5	اهزم جميع اللا أحد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13016	kh3_level.tt	information_0020	e326a646	اهزم مد الشياطين!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13017	kh3_level.tt	information_0030	2f8ca6d8	توجه إلى القصر القديم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13018	kh3_level.tt	information_0040	2549afc1	اهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13019	kh3_level.tt	information_0050	e9e3af5f	توجه إلى القصر القديم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13020	kh3_level.tt	information_0060	676ca8bc	عد إلى البلدة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13021	kh3_level.tt	information_0070	abc6a822	اهزم جميع الأعداء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13022	kh3_level.tt	information_0080	72e6ba8e	عد إلى البلدة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13023	kh3_level.tt	information_0090	be4cba10	اجمع المكونات في ساحة الترام!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13024	kh3_level.tt	other_0010	b6819bff	وضعت <color(strong)><icon(KeyItem)>بطاقة بريدية للجوائز<color> في صندوق البريد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13025	kh3_level.tt	other_0020	380e9c1c	أرسل البطاقات البريدية التي تحصل عليها عند الشراء<br>من متجر الموغل لتنال جوائز رائعة!<br>(لا تبخل. تسوق مع الموغل، كوبو!)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13026	kh3_level.tt	other_0030	f4a49c82	العودة إلى خريطة العالم?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13027	kh3_level.tt	other_0040	fe61959b	دخول المطعم?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13028	kh3_level.tt	other_0050	32cb9505	اختبار مهاراتك في الطهي مع الطاهي الصغير?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13029	kh3_level.tt	other_0060	bc4492e6	لا تملك مكونات كافية للطهي.<br>هل تدخل المطعم رغم ذلك?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13030	kh3_level.tt	other_0070	70ee9278	دخول الكتاب?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13031	kh3_level.tt	choice_0010	d8e8b008	نعم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13032	kh3_level.tt	choice_0011	6054d76d	ربما لاحقا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13033	kh3_level.tt	choice_0020	5667b7eb	هيا بنا...	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13034	kh3_level.tt	choice_0021	eedbd08e	ربما لاحقا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13035	kh3_level.ra	information_0010	6da9a1a5	اهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13036	kh3_level.ra	information_0020	e326a646	ابحث عن فلين!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13037	kh3_level.ra	information_0030	2f8ca6d8	توجه إلى البرج!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13038	kh3_level.ra	information_0040	2549afc1	أرشد رابونزل إلى المملكة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13039	kh3_level.ra	information_0050	e9e3af5f	اهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13040	kh3_level.ra	information_0060	676ca8bc	اهزم جميع اللا أحد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13041	kh3_level.ra	information_0070	abc6a822	تعقب رابونزل وفلين!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13042	kh3_level.ra	information_0080	72e6ba8e	توجه إلى المملكة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13043	kh3_level.ra	information_0090	be4cba10	اعمل مع رابونزل لتسلق المنحدرات!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13044	kh3_level.ra	information_0095	89924a22	أرشد الطيور إلى رابونزل. <br><color(strong)>امش بهدوء<color> كي لا تخيفها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13045	kh3_level.ra	information_0100	3aa6ed54	اهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13046	kh3_level.ra	information_0110	f60cedca	اهزم بلا قلب المتحولين!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13047	kh3_level.ra	information_0120	7883ea29	استكشف المملكة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13048	kh3_level.ra	information_0130	b429eab7	ارقص مع أهل البلدة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13049	kh3_level.ra	information_0140	beece3ae	اضغط <icon(Triangle)> لإشراك الجميع في الرقص!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13050	kh3_level.ra	information_0150	7246e330	اضغط <icon(Triangle)> لتنهي بأسلوب مبهر!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13051	kh3_level.ra	information_0160	fcc9e4d3	اهزم جميع اللا أحد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13052	kh3_level.ra	information_0170	3063e44d	تسابق نحو البرج!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13053	kh3_level.ra	information_0175	07bd147f	توجه إلى برج رابونزل!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13054	kh3_level.ra	information_0180	e943f6e1	اهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13055	kh3_level.ra	information_0190	25e9f67f	توجه إلى البرج!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13056	kh3_level.ra	information_0200	4d383fa4	اهزم بلا قلب الأم غوثل!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13057	kh3_level.ra	choice_0010	d8e8b008	هيا! موافق!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13058	kh3_level.ra	choice_0020	5667b7eb	ليس الآن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13059	kh3_level.ra	other_0010	b6819bff	الرقص مع رابونزل?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13060	kh3_level.ra	other_0020	380e9c1c	أعيدت أغراض رابونزل إلى مخزونك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13061	kh3_level.ra	other_0030	f4a49c82	يبدو أن اللافتة تشير إلى طريق القلعة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13062	kh3_level.ra	mission_name_0020	663cc47f	رقصة المهرجان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13063	kh3_level.ra	mission_content_0010	4deb8581	عداد الرقص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13064	kh3_level.ra	mission_content_0020	c3648262	النقاط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13065	kh3_level.ra	mission_content_0030	0fce82fc	السلسلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13066	kh3_level.ra	mission_content_0040	050b8be5	الرتبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13067	kh3_level.ra	mission_content_0050	c9a18b7b	الحركات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13068	kh3_level.ts	information_0010	6da9a1a5	اهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13069	kh3_level.ts	information_0020	e326a646	توجه إلى متجر غالاكسي تويز للألعاب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13070	kh3_level.ts	information_0030	2f8ca6d8	اهزم ألعاب الروبوت جيغاس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13071	kh3_level.ts	information_0035	185256ea	اركب جيغاس مهزوما لاستخدامه في المعركة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13072	kh3_level.ts	information_0040	2549afc1	توجه إلى الطابق الثاني وابحث عن الألعاب المفقودة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13073	kh3_level.ts	information_0050	e9e3af5f	اهزم الألعاب الخاضعة للسيطرة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13074	kh3_level.ts	information_0060	676ca8bc	تقدم عبر فتحات التهوية فوق رف <color(strong)>وحوش وحشرات<color> للوصول إلى قسم الدمى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13075	kh3_level.ts	information_0070	abc6a822	ابحث عن الألعاب التي تصدر ضجيجا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13076	kh3_level.ts	information_0080	72e6ba8e	اكتشف مصدر الصوت الغريب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13077	kh3_level.ts	information_0090	be4cba10	ابحث عن هام!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13078	kh3_level.ts	information_0100	3aa6ed54	اهزم الدمية العملاقة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13079	kh3_level.ts	information_0110	f60cedca	تعقب UFO!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13080	kh3_level.ts	information_0120	7883ea29	أسقط UFO وأنقذ الرجال الخضر الصغار!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13081	kh3_level.ts	information_0130	b429eab7	عد إلى الطابق الأول من متجر الألعاب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13082	kh3_level.ts	information_0140	beece3ae	اتبع ريكس إلى قسم ألعاب الفيديو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13083	kh3_level.ts	information_0150	7246e330	صد جميع ألعاب جيغاس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13084	kh3_level.ts	information_0160	fcc9e4d3	اعبر النافذة الصغيرة في قسم الرضع والأطفال الصغار: الهواء الطلق للوصول إلى كيد كورال!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13085	kh3_level.ts	information_0170	3063e44d	ركب الكتل لإنشاء طريق إلى الممر المظلم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13086	kh3_level.ts	information_0180	e943f6e1	اهزم جميع بلا قلب ثم ركب الكتل!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13087	kh3_level.ts	information_0190	25e9f67f	اهزم جميع بلا قلب ثم ركب الكتل!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13088	kh3_level.ts	information_0200	4d383fa4	اهزم جميع بلا قلب ثم ركب الكتل!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13089	kh3_level.ts	information_0210	81923f3a	تسلل إلى الممر المظلم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13090	kh3_level.ts	information_0220	0f1d38d9	اهزم العملاق من بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13091	kh3_level.ts	information_1010	c3c13034	استخدم الفخاخ للقضاء على حشد جيغاس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13092	kh3_level.ts	information_1020	4d4e37d7	اهزم الرئيسيين! <br>يمكنك ركوب الذين تسقطهم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13093	kh3_level.ts	information_1030	81e43749	اهزم جيغاس الأخير!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13094	kh3_level.ts	other_0010	b6819bff	تم فتح <color(strong)>فيروم ريكس: إيقاع الرصاص<color>.<br>افحص جهاز الألعاب في قسم<br>ألعاب الفيديو للعب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13095	kh3_level.ts	other_0020	380e9c1c	لعب فيروم ريكس: إيقاع الرصاص?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13096	kh3_level.ts	title_0010	e3c6eb2e	بدء اللعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13097	kh3_level.ts	title_0020	6d49eccd	مساعدة اللعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13098	kh3_level.ts	title_0030	a1e3ec53	الخروج من اللعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13099	kh3_level.ts	result_0010	e9f89e3d	المجموع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13100	kh3_level.ts	result_0020	677799de	الوقت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13101	kh3_level.ts	result_0030	abdd9940	الرتبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13102	kh3_level.ts	result_0110	725dd252	كل الفخاخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13103	kh3_level.ts	result_0120	fcd2d5b1	سلسلة فائقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13104	kh3_level.ts	result_0130	3078d52f	القبضة الغاضبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13105	kh3_level.ts	result_0140	3abddc36	آس المفجر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13106	kh3_level.ts	result_0150	f617dca8	ساحر الفخاخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13107	kh3_level.ts	result_0160	7898db4b	ركوب واحد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13108	kh3_level.ts	result_0170	b432dbd5	اركبها كلها	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13109	kh3_level.ts	result_0180	6d12c979	ضربات متعددة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13110	kh3_level.ts	result_0190	a1b8c9e7	المحارب الأقصى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13111	kh3_level.ts	result_0200	c969003c	النتيجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13112	kh3_level.ts	result_0210	05c300a2	مكافأة الوقت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13113	kh3_level.ts	result_1010	47900fac		todo	skip: numbers/symbols
+13114	kh3_level.ts	hud_0010	b6e402f1	HP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13115	kh3_level.ts	mission_name_0010	e8b3c39c	فيروم ريكس: إيقاع الرصاص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13116	kh3_level.ts	mission_name_0020	663cc47f	فيروم ريكس: إيقاع الرصاص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13117	kh3_level.ts	bonus_0010	9503c0dc	مكافأة الرئيسيين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13118	kh3_level.ts	bonus_0020	1b8cc73f	تحطيم البلورة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13119	kh3_level.ts	bonus_0030	d726c7a1	انفجار الحرارة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13120	kh3_level.ts	bonus_0040	dde3ceb8	فخ الصعق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13121	kh3_level.mi	information_0010	6da9a1a5	اهزم الأعداء الجدد الغريبين!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13122	kh3_level.mi	information_0020	e326a646	توغل في المبنى وأعد بو إلى منزلها!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13123	kh3_level.mi	information_0025	d4f85674	اهزم جميع الأنفيرسد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13124	kh3_level.mi	information_0030	2f8ca6d8	تمسك بالباب وتوجه إلى الخزنة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13125	kh3_level.mi	information_0040	2549afc1	دافع عن نفسك ضد بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13126	kh3_level.mi	information_0050	e9e3af5f	اضغط <icon(Triangle)> للاحتماء خلف الباب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13127	kh3_level.mi	information_0060	676ca8bc	اختبئ خلف الباب لتفادي الكهرباء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13128	kh3_level.mi	information_0070	abc6a822	تخلص من بلا قلب الذين يخيفون بو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13129	kh3_level.mi	information_0075	9c185810	ستخاف بو إذا تضرر سولي. <br>اهزم أي بلا قلب يقتربون كثيرا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13130	kh3_level.mi	information_0080	72e6ba8e	استخدم <icon(Triangle)><color(strong)>ضربة الصراخ<color> لتنتزع ضحكة كبيرة من بو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13131	kh3_level.mi	information_0090	be4cba10	واصل البحث عن باب بو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13132	kh3_level.mi	information_0100	3aa6ed54	واصل التقدم وابحث عن مخرج من المصنع!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13133	kh3_level.mi	information_0110	f60cedca	أوقف لوحة تحكم الليزر! <br>اضغط <icon(Triangle)> للانزلاق تحت المعدات والاحتماء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13134	kh3_level.mi	information_0120	7883ea29	استخدم المصعد وواصل التقدم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13135	kh3_level.mi	information_0130	b429eab7	تجنب الأسطح المكهربة واهزم جميع الأعداء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13136	kh3_level.mi	information_0140	beece3ae	تخلص من الأنفيرسد الذين يخيفون بو واهرب من المصنع!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13137	kh3_level.mi	information_0145	8932139c	ستخاف بو إذا تضرر سولي. <br>اهزم أي أنفيرسد يقتربون كثيرا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13138	kh3_level.mi	information_0150	7246e330	توجه إلى خزنة الأبواب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13139	kh3_level.mi	information_0160	fcc9e4d3	تجنب النيران واهزم جميع الأعداء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13140	kh3_level.mi	information_0170	3063e44d	تجنب النيران واهزم جميع الأعداء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13141	kh3_level.mi	information_0180	e943f6e1	اصعد عبر الأنبوب المحطم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13142	kh3_level.mi	information_0185	de9d06d3	اهزم جميع الأنفيرسد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13143	kh3_level.mi	information_0190	25e9f67f	واصل التقدم وابحث عن باب بو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13144	kh3_level.mi	information_0200	4d383fa4	اهزم الأنفيرسد العملاق!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13145	kh3_level.mi	choice_0010	d8e8b008	حسنا، هيا بنا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13146	kh3_level.mi	choice_0020	5667b7eb	ليس الآن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13147	kh3_level.mi	choice_0030	9acdb775	حسنا، هيا بنا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13148	kh3_level.mi	choice_0040	9008be6c	ليس الآن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13149	kh3_level.mi	other_0010	b6819bff	الذهاب إلى خزنة الأبواب?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13150	kh3_level.mi	other_0020	380e9c1c	الذهاب إلى خزنة الأبواب?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13151	kh3_level.fz	information_0010	6da9a1a5	اذهب وتحدث إلى المرأة التي فرت عبر الجليد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13152	kh3_level.fz	information_0020	e326a646	اهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13153	kh3_level.fz	information_0030	2f8ca6d8	ابحث عن مخرج من المتاهة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13154	kh3_level.fz	information_0040	2549afc1	اهزم جميع اللا أحد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13155	kh3_level.fz	information_0050	e9e3af5f	اهزم جميع اللا أحد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13156	kh3_level.fz	information_0060	676ca8bc	اهزم جميع اللا أحد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13157	kh3_level.fz	information_0070	abc6a822	اهزم جميع اللا أحد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13158	kh3_level.fz	information_0075	9c185810	اقفز نحو عمود الجليد واضغط <icon(Square)> للانزلاق الجوي إليه. <br>تأكد من تركيب قدرة <color(strong)>دوران العمود<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13159	kh3_level.fz	information_0080	72e6ba8e	اتبع إلسا صعودا إلى الجبل!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13160	kh3_level.fz	information_0090	be4cba10	اهرب من الانهيار الجليدي!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13161	kh3_level.fz	information_0100	3aa6ed54	تجنب العقبات أثناء انزلاقك من الجبل!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13162	kh3_level.fz	information_0110	f60cedca	اهزم جميع بلا قلب الطائرين!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13163	kh3_level.fz	information_0120	7883ea29	توجه إلى قصر الجليد الخاص بإلسا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13164	kh3_level.fz	information_0130	b429eab7	اعثر على قطع أولاف كي تتمكن آنا من إعادة تركيبه!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13165	kh3_level.fz	information_0170	3063e44d	اهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13166	kh3_level.fz	information_0180	e943f6e1	توجه إلى قصر الجليد الخاص بإلسا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13167	kh3_level.fz	information_0190	25e9f67f	اهزم وحش الثلج!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13168	kh3_level.fz	information_0200	4d383fa4	زر إلسا مرة أخرى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13169	kh3_level.fz	information_0210	81923f3a	تعقب الرجل الذي اختطف إلسا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13170	kh3_level.fz	information_0220	0f1d38d9	شق طريقك عبر العاصفة الثلجية!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13171	kh3_level.fz	information_0240	c972315e	اهزم العملاق من بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13172	kh3_level.fz	information_0250	05d831c0	استخدم <icon(Triangle)><color(strong)>الصدمة تحت الصفر<color> لصد الظلام!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13173	kh3_level.fz	information_0260	8b573623	زر آنا وإلسا في قصر الجليد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13174	kh3_level.fz	information_0270	47fd36bd	اعثر على قطع أولاف كي تتمكن آنا من إعادة تركيبه! (مرة أخرى!)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13175	kh3_level.fz	information_0280	9edd2411	استكشف الجبل الشمالي!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13176	kh3_level.fz	choice_0010	d8e8b008	هيا! موافق!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13177	kh3_level.fz	choice_0020	5667b7eb	ليس الآن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13178	kh3_level.fz	choice_0030	9acdb775	هيا! أنا معكم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13179	kh3_level.fz	choice_0040	9008be6c	ليس الآن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13180	kh3_level.fz	guage_0010	06544d1b	أولاف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13181	kh3_level.fz	other_0010	b6819bff	تم فتح <color(strong)>المنزلق المتجمد<color>.<br>تحدث إلى أصدقائك قرب قصر الجليد للعب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13182	kh3_level.fz	other_0020	380e9c1c	التزلج نزولا من الجبل بالزلاجة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13183	kh3_level.fz	other_0030	f4a49c82	اللعب مع أولاف?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13184	kh3_level.fz	mission_name_0010	e8b3c39c	المنزلق المتجمد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13185	kh3_level.fz	mission_name_0020	663cc47f	المنزلق المتجمد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13186	kh3_level.po	information_0010	6da9a1a5	اذهب إلى حديقة الخضار وساعد الأرنب في القطف!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13187	kh3_level.po	information_0020	e326a646	اذهب إلى البستان وساعد الأرنب في القطف!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13188	kh3_level.po	information_0030	2f8ca6d8	اذهب إلى حقل الزهور وساعد الأرنب في القطف!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13189	kh3_level.po	other_0010	b6819bff	مغادرة الكتاب?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13190	kh3_level.po	other_0020	380e9c1c	مساعدة الأرنب في قطف الخضار?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13191	kh3_level.po	other_0030	f4a49c82	مساعدة الأرنب في قطف الفاكهة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13192	kh3_level.po	other_0040	fe61959b	مساعدة الأرنب في قطف الزهور?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13193	kh3_level.po	other_0050	32cb9505	يحتاج الأرنب إلى مساعدة في قطف الخضار!<br>افحص اللافتة الصحيحة لبدء اللعبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13194	kh3_level.po	other_0060	bc4492e6	طلب الأرنب المساعدة في البستان!<br>افحص اللافتة الصحيحة لبدء اللعبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13195	kh3_level.po	other_0070	70ee9278	طلب الأرنب المساعدة في قطف الزهور!<br>افحص اللافتة الصحيحة لبدء اللعبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13196	kh3_level.po	name_0010	d33789b1	غابة المئة فدان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13197	kh3_level.po	name_0110	4892c5de	جولة تيغر للخضار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13198	kh3_level.po	name_0120	c61dc23d	موكب فاكهة لمبي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13199	kh3_level.po	name_0130	0ab7c2a3	حصاد العسل لبوه	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13200	kh3_level.bx	information_0020	e326a646	تعاون مع بايماكس واهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13201	kh3_level.bx	information_0030	2f8ca6d8	استخدم <icon(Triangle)><color(strong)>الرمية الساترة<color> لتشق طريقك للأمام!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13202	kh3_level.bx	information_0040	2549afc1	تحدث إلى هيرو عندما تكون مستعدا للانطلاق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13203	kh3_level.bx	information_0050	e9e3af5f	اضغط <icon(Triangle)> للانتقال إلى المسار الآخر!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13204	kh3_level.bx	information_0055	de3d5f6d	مر عبر الحلقات وأكمل مسار فلاش تريسر!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13205	kh3_level.bx	information_0060	676ca8bc	استخدم المؤشر على جهاز AR لتحديد موقع التهديد الرئيسي!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13206	kh3_level.bx	information_0065	50b2588e	اهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13207	kh3_level.bx	information_0070	abc6a822	اهزم العملاق من بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13208	kh3_level.bx	information_0080	72e6ba8e	الميكروبوتات? أيا كانت، تعقبها!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13209	kh3_level.bx	information_0090	be4cba10	اهزم التهديد الغامض!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13210	kh3_level.bx	information_0100	3aa6ed54	استخدم المؤشرات على جهاز AR للعثور على الأبطال الستة وإنقاذهم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13211	kh3_level.bx	information_0105	0d781d66	أعضاء الأبطال الستة يتلاشون بسرعة. <br>أنقذهم قبل فوات الأوان!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13212	kh3_level.bx	information_0110	f60cedca	أنقذ باقي أعضاء الأبطال الستة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13213	kh3_level.bx	information_0120	7883ea29	توجه إلى حيث تتجمع كل المكعبات المظلمة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13214	kh3_level.bx	information_0130	b429eab7	اهزم المكعبات المظلمة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13215	kh3_level.bx	information_0140	beece3ae	تحدث إلى هيرو عندما تكون مستعدا للانطلاق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13216	kh3_level.bx	information_0150	7246e330	أخضع بايماكس المظلم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13217	kh3_level.bx	information_0160	fcc9e4d3	استخدم <icon(Decide)><color(strong)>الضربة<color> لصد المكعبات المظلمة القادمة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13218	kh3_level.bx	other_0010	b6819bff	التوجه إلى المدينة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13219	kh3_level.bx	other_0020	380e9c1c	العودة إلى مرآب هيرو?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13220	kh3_level.bx	other_0030	f4a49c82	تم فتح <color(strong)>فلاش تريسر<color>.<br>تحدث إلى أصدقائك في المدينة لاختبار مهاراتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13221	kh3_level.bx	other_0040	fe61959b	تم فتح مسار فلاش تريسر جديد.<br>تحدث إلى أصدقائك في المدينة لاختبار مهاراتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13222	kh3_level.bx	other_0050	32cb9505	اختبار مهاراتك في فلاش تريسر?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13223	kh3_level.bx	other_0060	bc4492e6	المحاولة مرة أخرى?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13224	kh3_level.bx	other_0070	70ee9278	التوجه إلى المدينة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13225	kh3_level.bx	choice_0010	d8e8b008	ليس الآن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13226	kh3_level.bx	choice_0020	5667b7eb	الزيارة نهارا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13227	kh3_level.bx	choice_0030	9acdb775	الزيارة ليلا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13228	kh3_level.bx	choice_0040	9008be6c	حسنا، هيا بنا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13229	kh3_level.bx	choice_0110	434dfc67	هيا! موافق!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13230	kh3_level.bx	choice_0120	cdc2fb84	ليس الآن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13231	kh3_level.bx	choice_0210	34d32e97	إلغاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13232	kh3_level.bx	choice_0220	ba5c2974	الزيارة نهارا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13233	kh3_level.bx	choice_0230	76f629ea	الزيارة ليلا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13234	kh3_level.bx	mission_name_0010	e8b3c39c	فلاش تريسر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13235	kh3_level.bx	mission_name_0020	663cc47f	فلاش تريسر: المسار A	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13236	kh3_level.bx	mission_name_0030	aa96c4e1	فلاش تريسر: المسار B	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13237	kh3_level.ca	information_0010	6da9a1a5	ساعد جاك على اللحاق باللؤلؤة السوداء قبل أن تهرب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13238	kh3_level.ca	information_0015	5a775197	صل إلى اللؤلؤة السوداء قبل أن تهرب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13239	kh3_level.ca	information_0020	e326a646	أبحر إلى الجزيرة ذات القمتين!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13240	kh3_level.ca	information_0030	2f8ca6d8	أغرق أسطول بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13241	kh3_level.ca	information_0040	2549afc1	اهزم بلا قلب العملاق الطائر!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13242	kh3_level.ca	information_0050	e9e3af5f	اضغط <icon(Triangle)> عندما تقترب من بلا قلب العملاق لتقفز على ظهره!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13243	kh3_level.ca	information_0060	676ca8bc	اضغط <icon(Decide)> لمهاجمة الرأس! <br>استخدم <icon(Square)> لتجنب الخطر!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13244	kh3_level.ca	information_0070	abc6a822	اللؤلؤة السوداء تتعرض للهجوم! <br>اهزم بلا قلب العملاق الطائر!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13245	kh3_level.ca	information_0080	72e6ba8e	عليك البقاء قرب السفينة. جار الالتفاف...	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13246	kh3_level.ca	information_0090	be4cba10	استكشف الجزيرة وابحث عن سفينة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13247	kh3_level.ca	information_0100	3aa6ed54	استول على كنز القراصنة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13248	kh3_level.ca	information_0110	f60cedca	اهزم بلا قلب العملاق المائي!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13249	kh3_level.ca	information_0120	7883ea29	توغل أكثر في الكهف!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13250	kh3_level.ca	information_0130	b429eab7	التيار أسرع من أن تسبح خلاله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13251	kh3_level.ca	information_0140	beece3ae	استكشف أعالي البحار!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13252	kh3_level.ca	information_0150	7246e330	صل إلى ميناء رويال قبل لوكسورد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13253	kh3_level.ca	information_0160	fcc9e4d3	دمر سفينة لوكسورد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13254	kh3_level.ca	information_0170	3063e44d	اهزم جميع الأعداء على سطح السفينة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13255	kh3_level.ca	information_0180	e943f6e1	استكشف ميناء رويال واجمع السراطين البيضاء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13256	kh3_level.ca	information_0190	25e9f67f	تحتاج إلى المزيد من السراطين البيضاء. واصل البحث!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13257	kh3_level.ca	information_0230	c3b73847	عد إلى الأرصفة حيث تنتظر السفينة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13258	kh3_level.ca	information_0240	c972315e	أبحر إلى خليج حطام السفن للمعركة الأخيرة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13259	kh3_level.ca	information_0250	05d831c0	أغرق الأسطول الذي يعترض طريقك!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13260	kh3_level.ca	information_0260	8b573623	استهدف المجسات وحرر اللؤلؤة السوداء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13261	kh3_level.ca	information_0265	bc89c611	الهولندي الطائر يهاجم اللؤلؤة السوداء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13262	kh3_level.ca	information_0267	16800e9a	صوب نحو الهولندي الطائر وأطلق <icon(Triangle)><color(strong)>قوة اللفياثان<color>!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13263	kh3_level.ca	information_0270	47fd36bd	ساعد جاك على هزيمة ديفي جونز!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13264	kh3_level.ca	information_0280	9edd2411	ابحث عن جزر جديدة لاستكشافها!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13265	kh3_level.ca	information_0290	5277248f	اهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13266	kh3_level.ca	information_0310	1a377355	اصعد على متن سفينة بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13267	kh3_level.ca	information_0320	94b874b6	اصعد على متن سفينة لوكسورد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13268	kh3_level.ca	information_0330	58127428	دمر النوى وأغرق سفن العدو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13269	kh3_level.ca	information_0340	52d77d31	استخدم الخطوة الجوية للوصول إلى بلا قلب الطائرين!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13270	kh3_level.ca	count_0010	282309f1	السراطين البيضاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13271	kh3_level.ca	other_0010	b6819bff	لعرض الخرائط البحرية، افحص الوثائق قرب الدفة<br>أو اضغط <icon(Pad)> ببساطة أثناء التحكم بالسفينة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13272	kh3_level.ca	ship_name_0010	ea8ef5a1	اللفياثان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13273	kh3_level.ca	ship_name_0020	6401f242	اللؤلؤة السوداء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13274	kh3_level.ca	ship_status_0010	99a21f17	السراطين المجمعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13275	kh3_level.ca	ship_status_0020	172d18f4	المدافع الجانبية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13276	kh3_level.ca	ship_status_0030	db87186a	المدافع الأمامية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13277	kh3_level.ca	ship_status_0040	d1421173	HP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13278	kh3_level.ca	ship_status_0050	1de811ed	القوة النارية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13279	kh3_level.ca	ship_status_0060	9367160e	مستوى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13280	kh3_level.ca	ship_status_0070	5fcd1690	التالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13281	kh3_level.ca	land_0010	a15c44da	خليج حطام السفن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13282	kh3_level.ca	land_0020	2fd34339	الجزيرة المهجورة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13283	kh3_level.ca	land_0030	e37943a7	إيسلا دي لوس ماستيلس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13284	kh3_level.ca	land_0040	e9bc4abe	الجزر المتكتلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13285	kh3_level.ca	land_0050	25164a20	جزيرة الحاجز الرملي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13286	kh3_level.ca	land_0060	ab994dc3	إيسلا فيردي مونتانيا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13287	kh3_level.ca	land_0070	67334d5d	نهاية السفينة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13288	kh3_level.ca	land_0080	be135ff1	جزيرة الحبس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13289	kh3_level.ca	land_0090	72b95f6f	جزيرة حدوة الحصان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13290	kh3_level.ca	land_0100	f653082b	جزيرة المنفى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13291	kh3_level.ca	land_0110	3af908b5	جزيرة الحظ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13292	kh3_level.ca	land_0115	0d27f887	بوابة الندم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13293	kh3_level.ca	land_0120	b4760f56	ميناء رويال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13294	kh3_level.ca	icon_0010	3e3ac861	الهدف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13295	kh3_level.ca	icon_0030	7c1fcf1c	نقطة الحفظ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13296	kh3_level.ca	icon_0060	34ffc178	نقطة مرور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13297	kh3_level.ca	dialog_0010	4a0702a0	الذهاب إلى <color(yellow)>{0}<color>?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13298	kh3_level.ca	dialog_0020	c4880543	ازدادت قوة اللفياثان!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13299	kh3_level.ca	dialog_0030	082205dd	يمكن للسفينة الآن استخدام <color(strong)>التسارع<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13300	kh3_level.ca	dialog_0040	02e70cc4	بفضل جميع السراطين البيضاء التي جمعتها،<br>يمكنك الآن الإبحار على متن اللؤلؤة السوداء الشهيرة!<br>(يمكنك التبديل بين السفن في ميناء رويال.)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13301	kh3_level.ca	dialog_0060	40c20bb9	لا يمكنك التقدم أكثر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13302	kh3_level.ca	button_0010	09e6bf48	<icon(Decide)> السفر السريع  <icon(Lstick)> تحريك المؤشر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13303	kh3_level.ca	button_0020	8769b8ab	<icon(Lstick)> تحريك المؤشر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13304	kh3_level.dp	information_0010	6da9a1a5	انضم إلى أكوا واذهب إلى جانب فينتوس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13305	kh3_level.dp	information_0020	e326a646	اهزم فانيتاس وحافظ على سلامة فينتوس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13306	kh3_level.ew	information_0010	6da9a1a5	ابحث عن حراس النور الذين سقطوا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13307	kh3_level.ew	information_0020	e326a646	تعقب بلا قلب الذي أخذ قلب ريكو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13308	kh3_level.ew	information_0030	2f8ca6d8	اهزم الليتش واستعد قلب ريكو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13309	kh3_level.ew	information_0040	2549afc1	اقصد البوابات الغارقة في الظلام!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13310	kh3_level.ew	information_0050	e9e3af5f	اهزم الليتش واستعد قلب الملك!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13311	kh3_level.ew	information_0060	676ca8bc	اهزم الليتش واستعد قلب دونالد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13312	kh3_level.ew	information_0070	abc6a822	اهزم الليتش واستعد قلب غوفي!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13313	kh3_level.ew	information_0080	72e6ba8e	اهزم الليتش واستعد قلب أكوا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13314	kh3_level.ew	information_0090	be4cba10	اهزم الليتش واستعد قلب فينتوس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13315	kh3_level.ew	information_0100	3aa6ed54	اهزم الليتش واستعد قلب آكسل!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13316	kh3_level.ew	information_0110	f60cedca	اهزم جميع بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13317	kh3_level.ew	information_0120	7883ea29	اهزم العملاق من بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13318	kh3_level.ew	information_0130	b429eab7	اجمع الأشباح لإعادة تجميع سورا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13319	kh3_level.ew	text_0010	20bf2d21	هناك سبعة قلوب يجب إنقاذها...	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13320	kh3_level.ew	text_0020	ae302ac2	ما الذي ترغب فيه?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13321	kh3_level.ew	text_0030	629a2a5c	أي قوة تنشد?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13322	kh3_level.ew	text_0040	685f2345	<br><br>هل هذا ما ترغب به?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13323	kh3_level.ew	text_0035	5544da6e	<br><br>هل هذه هي القوة التي تنشدها?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13324	kh3_level.ew	text_0050	a4f523db	هل تنشد مزيدا من الإرشاد?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13325	kh3_level.ew	text_0110	bb1a614e	الحيوية...<br>جسد صلب يتحمل<br>أشد التحديات قسوة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13326	kh3_level.ew	text_0120	359566ad	الحكمة...<br>عقل حاد يمنحك<br>إتقان قوة عجيبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13327	kh3_level.ew	text_0130	f93f6633	التوازن...<br>جسد وعقل متساويان في الفضل<br>والإمكانات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13328	kh3_level.ew	text_0210	cc84b3be	قوة المحارب...<br>شجاعة لا تقهر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13329	kh3_level.ew	text_0220	420bb45d	قوة الساحر...<br>القوة الداخلية.	reviewed	
+13330	kh3_level.ew	text_0230	8ea1b4c3	قوة الحارس...<br>اللطف لمساعدة الأصدقاء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13331	kh3_level.ew	text_0240	8464bdda	<br>هل هذا هو أنت?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13332	kh3_level.ew	text_0500	74b65aaf	أي نوع من المغامرات تنشد?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13333	kh3_level.ew	text_0510	b81c5a31	مغامرة عادية<br>طريق مألوف ومباشر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13334	kh3_level.ew	text_0520	36935dd2	مغامرة سهلة<br>طريق أيسر لتحقيق الأهداف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13335	kh3_level.ew	text_0530	fa395d4c	مغامرة صعبة<br>طريق أشق لكنه أكثر مجدا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13336	kh3_level.ew	text_0540	f0fc5455	<br><br>هل هذه هي المغامرة التي تنشدها?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13337	kh3_level.ew	tut_0010	46483d5b	استخدم <icon(Lstick)> للتحرك.<br>يمكنك ضبط الكاميرا بواسطة <icon(Rstick)>.<br>اضغط <icon(R3)> لإعادة ضبط الكاميرا.<pb>للقفز، اضغط <icon(Cancel)>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13338	kh3_level.ew	tut_0040	0ea8333f	دخول درس أساسيات القتال?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13339	kh3_level.ew	tut_0050	c20233a1	إذا واجهت صعوبة، يمكنك تجربة الدروس متى شئت<br>باختيار <color(strong)>الدروس<color> من شاشة العنوان.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13340	kh3_level.ew	choice_0010	d8e8b008	اختر الحيوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13341	kh3_level.ew	choice_0020	5667b7eb	اختر الحكمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13342	kh3_level.ew	choice_0030	9acdb775	اختر التوازن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13343	kh3_level.ew	choice_0040	9008be6c	اختر المحارب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13344	kh3_level.ew	choice_0050	5ca2bef2	اختر الساحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13345	kh3_level.ew	choice_0060	d22db911	اختر الحارس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13346	kh3_level.ew	choice_0070	1e87b98f	نعم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13347	kh3_level.ew	choice_0080	c7a7ab23	لا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13348	kh3_level.ew	choice_0090	0b0dabbd	ساعدني على التذكر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13349	kh3_level.ew	choice_0100	8fe7fcf9	علمني القتال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13350	kh3_level.ew	choice_0110	434dfc67	أنا بخير الآن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13351	kh3_level.ew	choice_0510	404bc718	مغامرة عادية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13352	kh3_level.ew	choice_0520	cec4c0fb	مغامرة سهلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13353	kh3_level.ew	choice_0530	026ec065	مغامرة صعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13354	kh3_level.ew	choice_0540	08abc97c	عرض الوصف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13355	kh3_level.ew	other_0010	b6819bff	هل أنت مستعد للعودة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13356	kh3_level.ew	other_0020	380e9c1c	الذهاب إلى العالم الأخير?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13357	kh3_level.ew	other_0030	f4a49c82	العودة إلى مقبرة الكيبلايد?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13358	kh3_level.ew	other_0040	fe61959b	جمع الأشباح مرة أخرى?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13359	kh3_level.kg	information_0010	6da9a1a5	اهزم جميع الأعداء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13360	kh3_level.kg	information_0015	5a775197	استخدم <icon(Triangle)><color(strong)>قطار الجبل<color> للقضاء على العدو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13361	kh3_level.kg	information_0018	a81d894a	اختر <icon(Triangle)><color(strong)>إنهاء<color> لتوجيه الضربة القاضية!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13362	kh3_level.kg	information_0020	e326a646	تقدم وانضم إلى الآخرين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13363	kh3_level.kg	information_0030	2f8ca6d8	تقدم وانضم إلى الآخرين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13364	kh3_level.kg	information_0040	2549afc1	اهزم مد الشياطين!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13365	kh3_level.kg	information_0050	e9e3af5f	اضغط <icon(Triangle)> مرارا لقبول مساعدة الفيلق الغامض وصد سيل بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13366	kh3_level.kg	information_0060	676ca8bc	تجنب الأعداء الكبار وواصل الضغط على <icon(Triangle)> للهجوم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13367	kh3_level.kg	information_0070	abc6a822	الآن! اضغط <icon(Triangle)> لتوجيه الضربة القاضية!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13368	kh3_level.kg	information_0080	72e6ba8e	تقدم إلى داخل المتاهة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13369	kh3_level.kg	information_0090	be4cba10	صل إلى ريكو قبل أن يغلق الباب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13370	kh3_level.kg	information_0100	3aa6ed54	صل إلى الملك قبل أن يغلق الباب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13371	kh3_level.kg	information_0110	f60cedca	صل إلى أكوا وفينتوس قبل أن يغلق الباب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13372	kh3_level.kg	information_0120	7883ea29	صل إلى كايري وآكسل قبل أن يغلق الباب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13373	kh3_level.kg	information_0130	b429eab7	ساعد ريكو على هزيمة أعضاء منظمة XIII!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13374	kh3_level.kg	information_0140	beece3ae	ساعد الملك على هزيمة أعضاء منظمة XIII!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13375	kh3_level.kg	information_0150	7246e330	اكتشف أي بطاقة يختبئ فيها لوكسورد وأنقذ الملك!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13376	kh3_level.kg	information_0160	fcc9e4d3	ساعد أكوا وفينتوس على هزيمة أعضاء منظمة XIII!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13377	kh3_level.kg	information_0180	e943f6e1	ساعد كايري وآكسل على هزيمة أعضاء منظمة XIII!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13378	kh3_level.kg	information_0190	25e9f67f	ساعد روكساس وشيون على هزيمة سايكس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13379	kh3_level.kg	information_0200	4d383fa4	ساعد ريكو والملك على هزيمة أعضاء منظمة XIII!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13380	kh3_level.kg	information_0500	39a0d62b	اهزم الجحيم المظلم χ!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13381	kh3_level.kg	information_0510	f50ad6b5	اهزم أكوا المضادة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13382	kh3_level.kg	information_0520	7b85d156	اهزم تيرا-زيهانورت!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13383	kh3_level.kg	information_0530	b72fd1c8	ساعد سورا على هزيمة أعضاء منظمة XIII!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13384	kh3_level.kg	information_0540	bdead8d1	ساعد فينتوس على هزيمة أعضاء منظمة XIII!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13385	kh3_level.kg	information_0550	7140d84f	ساعد فينتوس وسورا على هزيمة أعضاء منظمة XIII!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13386	kh3_level.kg	information_0560	ffcfdfac	ساعد كايري وآكسل على هزيمة أعضاء منظمة XIII!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13387	kh3_level.kg	information_0570	3365df32	ساعد شيون وآكسل على هزيمة أعضاء منظمة XIII!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13388	kh3_level.kg	information_0580	ea45cd9e	ساعد شيون وسورا على هزيمة أعضاء منظمة XIII!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13389	kh3_level.kg	information_0590	26efcd00	اضغط <icon(Square)> للدفاع ضد هجمات نسخ زيهانورت!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13390	kh3_level.kg	information_0600	4e3e04db	اضغط <icon(Square)> لمحاولة إيقاف اندفاع العدو. <br>إذا نجحت، اضغط <icon(Decide)> للرد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13391	kh3_level.kg	information_0610	82940445	اضغط <icon(Triangle)> لشق طريقك. <br>ستنفذ أفعال مختلفة بحسب <br>الموقف!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13392	kh3_level.kg	information_0620	0c1b03a6	دافع ضد هجمات نسخ زيهانورت <br>وشق طريقك نحو ثقب المفتاح!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13393	kh3_level.kg	information_0630	c0b10338	لا تستسلم! اضغط <icon(Triangle)> للنهوض <br>مرارا وتكرارا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13394	kh3_level.kg	information_0640	ca740a21	استخدم <icon(Lstick)> لتحمل الهجمات. يمكنك صد <br>الهجمات بالضغط على <icon(Decide)> في الوقت المناسب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13395	kh3_level.kg	information_0650	06de0abf	استخدم <icon(LstickUp)> للدفع إلى الخلف!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13396	kh3_level.kg	information_0660	88510d5c	اضغط <icon(Decide)> لزيادة القوة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13397	kh3_level.kg	information_0670	44fb0dc2	<icon(Triangle)> استخدم الإيمان الصامد لإلقاء النور على ثقب المفتاح!	reviewed	context: Faith (glossary item name) is a command word here (Enduring Faith); GLOSS flag expected; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13398	kh3_level.kg	information_0680	9ddb1f6e	اضغط <icon(Decide)> لإطلاق النور نحو الثقوب. <br>يمكنك ربط عدة ثقوب معا باستهداف <br>الثقوب المتوهجة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13399	kh3_level.kg	information_0690	51711ff0	<icon(Triangle)> استخدم النور الصامد لإيصال النور إلى الحراس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13400	kh3_level.kg	information_0700	d59b48b4	<icon(Triangle)> حرر الحراس بربط القلوب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13401	kh3_level.kg	information_0710	1931482a	استخدم <icon(L2)><icon(R2)> لاختيار شخصية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13402	kh3_level.kg	information_0720	97be4fc9	تعاونوا على هزيمة نسخ زيهانورت!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13403	kh3_level.kg	information_0730	5b144f57	<icon(Triangle)> أطلق الضربة القاضية!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13404	kh3_level.kg	information_0740	51d1464e	اضغط <icon(Decide)> للهجوم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13405	kh3_level.kg	other_0010	b6819bff	المتابعة إلى الأمام?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13406	kh3_level.bt	information_0010	6da9a1a5	توجه نحو البلدة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13407	kh3_level.bt	information_0020	e326a646	اهزم الخصوم الغامضين!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13408	kh3_level.bt	information_0030	2f8ca6d8	واجه زيهانورت المدرع حين تكون مستعدا تماما!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13409	kh3_level.bt	information_0040	2549afc1	اهزم زيهانورت المدرع!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13410	kh3_level.bt	information_0050	e9e3af5f	اهزم زيهانورت المدرع!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13411	kh3_level.bt	information_0060	676ca8bc	اهزم زيهانورت المدرع!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13412	kh3_level.bt	information_0070	abc6a822	اهزم المعلم زيهانورت!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13413	kh3_level.bt	information_0080	72e6ba8e	استخدم <icon(Triangle)><color(strong)>الشعاع الأخير<color> لإطلاق القوة الحقيقية للكيبلايد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13414	kh3_level.bt	information_0090	be4cba10	اضغط <icon(Triangle)> لاستدعاء روابط صداقتك!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13415	kh3_level.bt	information_0100	3aa6ed54	هاجم المعلم زيهانورت لاستعادة نورك!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13416	kh3_level.bt	information_0110	f60cedca	استخدم <icon(Triangle)><color(strong)>العودة إلى النور<color> لاستعادة نورك!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13417	kh3_level.bt	information_0500	39a0d62b	اهزم بلا قلب الذي يشع نورا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13418	kh3_level.bt	information_0510	f50ad6b5	استعد قلب كايري!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13419	kh3_level.bt	information_0520	7b85d156	توجه نحو الشظية!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13420	kh3_level.bt	other_0010	b6819bff	العودة إلى مقبرة الكيبلايد?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13421	kh3_level.dw	information_0010	6da9a1a5	تعاون مع ميكي واهزم برج الشياطين!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13422	kh3_level.dw	information_0020	e326a646	اهزم برج الشياطين وأنقذ ميكي!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13423	kh3_level.dw	information_0030	2f8ca6d8	اهزم أكوا المضادة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13424	kh3_level.rg	information_0010	6da9a1a5	شغل الحاسوب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13425	kh3_level.rg	information_0020	e326a646	قاتل بيانات منظمة XIII!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13426	kh3_level.rg	information_0030	2f8ca6d8	اهزم بيانات المعلم زيهانورت!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13427	kh3_level.rg	information_0040	2549afc1	اهزم بيانات أنسيم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13428	kh3_level.rg	information_0050	e9e3af5f	اهزم بيانات زيمناس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13429	kh3_level.rg	information_0060	676ca8bc	اهزم بيانات زيغبار!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13430	kh3_level.rg	information_0070	abc6a822	اهزم بيانات لوكسورد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13431	kh3_level.rg	information_0080	72e6ba8e	اهزم بيانات لارزين!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13432	kh3_level.rg	information_0090	be4cba10	اهزم بيانات مارلوكسيا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13433	kh3_level.rg	information_0100	3aa6ed54	اهزم بيانات سايكس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13434	kh3_level.rg	information_0110	f60cedca	اهزم بيانات تيرا-زيهانورت!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13435	kh3_level.rg	information_0120	7883ea29	اهزم بيانات ريكو المظلم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13436	kh3_level.rg	information_0130	b429eab7	اهزم بيانات فانيتاس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13437	kh3_level.rg	information_0140	beece3ae	اهزم بيانات زيهانورت الشاب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13438	kh3_level.rg	information_0150	7246e330	اهزم بيانات شيون!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13439	kh3_level.rg	information_0200	4d383fa4	هاجم البطاقات المعلمة بالعلامة "〇" للعثور على <br>البطاقة التي عليها صورة لوكسورد ثم دمرها!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13440	kh3_level.rg	information_0210	81923f3a	هاجم البطاقة المعلمة بالعلامة "〇" لتدمير <br>البطاقات التي تحمي لوكسورد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13441	kh3_level.rg	information_0220	0f1d38d9	هاجم جميع البطاقات التي تحمل صورة لوكسورد!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13442	kh3_level.rg	information_0230	c3b73847	هاجم البطاقة التي عليها صورة لوكسورد <br>ثلاث مرات متتالية!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13443	kh3_level.rg	information_0240	c972315e	هاجم جميع البطاقات التي عليها صورة لوكسورد أو أزلها <br>بواسطة <icon(Triangle)> سحب بطاقة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13444	kh3_level.rg	information_0250	05d831c0	هاجم البطاقة التي عليها صورة لوكسورد ثلاث مرات <br>متتالية أو أزلها بواسطة <icon(Triangle)> سحب بطاقة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13445	kh3_level.rg	information_0300	d69d73cb	ألحق الضرر بمارلوكسيا لإزالة <br>عداد <color(strong)>الهلاك<color>!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13446	kh3_level.rg	information_0310	1a377355	استخدم <icon(Triangle)>التفكيك لإزالة عداد <color(strong)>الهلاك<color>!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13447	kh3_level.rg	information_0400	a2059a44	حين يتحرك زيغبار، تصرف بسرعة واضغط <icon(Decide)><br>لتوجيه رمية سريعة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13448	kh3_level.rg	information_0500	39a0d62b	وجه ضربات إلى زيهانورت الشاب للإفلات <br>من الزمن المتوقف!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13449	kh3_level.rg	information_0600	4e3e04db	هاجم المعلم زيهانورت لإطفاء عمود النور!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13450	kh3_level.rg	other_0010	b6819bff	اختر أمرا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13451	kh3_level.rg	other_0020	380e9c1c	إلغاء التحليل?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13452	kh3_level.rg	other_0030	f4a49c82	إعادة إنشاء المعركة ضد المعلم زيهانورت.<br>تم تعزيز بيانات الخصم. المتابعة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13453	kh3_level.rg	other_0040	fe61959b	إعادة إنشاء المعركة ضد أنسيم.<br>تم تعزيز بيانات الخصم. المتابعة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13454	kh3_level.rg	other_0050	32cb9505	إعادة إنشاء المعركة ضد زيمناس.<br>تم تعزيز بيانات الخصم. المتابعة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13455	kh3_level.rg	other_0060	bc4492e6	إعادة إنشاء المعركة ضد زيغبار.<br>تم تعزيز بيانات الخصم. المتابعة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13456	kh3_level.rg	other_0070	70ee9278	إعادة إنشاء المعركة ضد لوكسورد.<br>تم تعزيز بيانات الخصم. المتابعة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13457	kh3_level.rg	other_0080	a9ce80d4	إعادة إنشاء المعركة ضد لارزين.<br>تم تعزيز بيانات الخصم. المتابعة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13458	kh3_level.rg	other_0090	6564804a	إعادة إنشاء المعركة ضد مارلوكسيا.<br>تم تعزيز بيانات الخصم. المتابعة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13459	kh3_level.rg	other_0100	e18ed70e	إعادة إنشاء المعركة ضد سايكس.<br>تم تعزيز بيانات الخصم. المتابعة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13460	kh3_level.rg	other_0110	2d24d790	إعادة إنشاء المعركة ضد تيرا-زيهانورت.<br>تم تعزيز بيانات الخصم. المتابعة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13461	kh3_level.rg	other_0120	a3abd073	إعادة إنشاء المعركة ضد ريكو المظلم.<br>تم تعزيز بيانات الخصم. المتابعة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13462	kh3_level.rg	other_0130	6f01d0ed	إعادة إنشاء المعركة ضد فانيتاس.<br>تم تعزيز بيانات الخصم. المتابعة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13463	kh3_level.rg	other_0140	65c4d9f4	إعادة إنشاء المعركة ضد زيهانورت الشاب.<br>تم تعزيز بيانات الخصم. المتابعة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13464	kh3_level.rg	other_0150	a96ed96a	إعادة إنشاء المعركة ضد شيون.<br>تم تعزيز بيانات الخصم. المتابعة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13465	kh3_level.rg	choice_0010	d8e8b008	خروج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13466	kh3_level.rg	choice_0020	5667b7eb	بدء تحليل البيانات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13467	kh3_level.rg	choice_0030	9acdb775	بدء تحية البيانات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13468	kh3_level.rg	choice_0040	9008be6c	متابعة التحليل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13469	kh3_level.rg	choice_0050	5ca2bef2	إلغاء التحليل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13470	kh3_level.rg	choice_0060	d22db911	خروج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13471	kh3_level.rg	choice_0070	1e87b98f	تحدي البيانات المعاد إنشاؤها	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13472	kh3_level.ss	information_0010	6da9a1a5	اهزم يوزورا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13473	kh3_level.ss	information_0100	3aa6ed54	هاجم يوزورا للإفلات من الأماكن التي يصنعها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13474	kh3_level.ss	information_0110	f60cedca	أخذ يوزورا عملة الكوبو الخاصة بك!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13475	kh3_level.ss	dialog_0010_1	93272732	تم فتح القائمة المميزة.<br>يمكنك الآن استخدام رموز التسهيل ورموز المحترفين معا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13476	kh3_level.ss	dialog_0010_2	819288dc	تم فتح رموز المحترفين في القائمة المميزة.<br>يمكنك الآن استخدام رموز التسهيل ورموز المحترفين معا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13477	kh3_level.ss	dialog_0010_3	392eefb9	تم فتح رموز التسهيل في القائمة المميزة.<br>يمكنك الآن استخدام رموز التسهيل ورموز المحترفين معا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13478	kh3_level.ex	pu_name_0010	0231cfd2	البودينغ السبعة الرائعون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13479	kh3_level.ex	pu_name_0110	999483bd	بودينغ الكرز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13480	kh3_level.ex	pu_name_0120	171b845e	بودينغ الفراولة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13481	kh3_level.ex	pu_name_0130	dbb184c0	بودينغ البرتقال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13482	kh3_level.ex	pu_name_0140	d1748dd9	بودينغ الموز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13483	kh3_level.ex	pu_name_0150	1dde8d47	بودينغ العنب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13484	kh3_level.ex	pu_name_0160	93518aa4	بودينغ البطيخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13485	kh3_level.ex	pu_name_0170	5ffb8a3a	بودينغ شمام العسل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13486	kh3_level.ex	information_0040	2549afc1	اهزم جميع الأعداء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13487	kh3_level.ex	information_0050	e9e3af5f	استكشف العالم وابحث عن شعارات الحظ!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13488	kh3_level.ex	information_0060	676ca8bc	استكشف العالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13489	kh3_level.ex	information_0070	abc6a822	اهزم العملاق من بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13490	kh3_level.ex	information_0075	9c185810	اهزم العملاق من بلا قلب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13491	kh3_level.ex	information_0080	72e6ba8e	اهزم برج الشياطين!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13492	kh3_level.ex	information_0090	be4cba10	اهزم الجحيم المظلم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13493	kh3_level.ex	information_0110	f60cedca	اهزم البودينغ بأسرع وقت ممكن! <br>صد سحرهم لإعادته إلى مرسله!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13494	kh3_level.ex	information_0120	7883ea29	تجنب التوت المتدحرج واصطدم بالبودينغ لتكديسه!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13495	kh3_level.ex	information_0130	b429eab7	تفاد هجمات البودينغ العملاق واهزم البودينغ الأصغر!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13496	kh3_level.ex	information_0140	beece3ae	استخدم المدافع لحماية الحصن من غزو البودينغ! <br>اقرع الجرس لإطلاق جميع المدافع دفعة واحدة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13497	kh3_level.ex	information_0150	7246e330	اقفز فوق البودينغ لتبقى في الهواء أطول فترة ممكنة! <br>لا تسقط في أفواه الذين يحاولون التهامك!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13498	kh3_level.ex	information_0160	fcc9e4d3	استخدم الأسهم لاكتساب السرعة واصطدم بأكبر عدد ممكن من البودينغ!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13499	kh3_level.ex	information_0170	3063e44d	راقب كل بودينغ بعناية وحاول التقاط اللحظة المثالية بالكاميرا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13500	kh3_level.ex	dialog_0020	c4880543	تم تعلم <color(strong)>{0}<color>!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13501	kh3_level.ex	dialog_0030	082205dd	تم تعلم <color(strong)>{0}<color>!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13502	kh3_level.ex	other_0030	f4a49c82	ظهرت بوابات المعركة عبر العوالم.<br>بداخلها ينتظرك خصوم أقوياء لتقهرهم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13503	kh3_level.ex	other_0040	fe61959b	يمكنك استبدال <color(strong)>{0}<color> مقابل <color(strong)>{1}<color> في متجر الموغل.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13504	kh3_level.ex	battleportal_01	467ee445	<b(on)>بوابة المعركة 1 - الصعوبة ★☆☆<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13505	kh3_level.ex	battleportal_01_c	b0bee93b	<b(on)>بوابة المعركة 1 - الصعوبة ★☆☆ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13506	kh3_level.ex	battleportal_02	54cb4bab	<b(on)>بوابة المعركة 2 - الصعوبة ★★☆<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13507	kh3_level.ex	battleportal_02_c	c7203bcb	<b(on)>بوابة المعركة 2 - الصعوبة ★★☆ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13508	kh3_level.ex	battleportal_03	ec772cce	<b(on)>بوابة المعركة 3 - الصعوبة ★★☆<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13509	kh3_level.ex	battleportal_03_c	5c8577a4	<b(on)>بوابة المعركة 3 - الصعوبة ★★☆ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13510	kh3_level.ex	battleportal_04	71a01477	<b(on)>بوابة المعركة 4 - الصعوبة ★☆☆<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13511	kh3_level.ex	battleportal_04_c	281d9e2b	<b(on)>بوابة المعركة 4 - الصعوبة ★☆☆ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13512	kh3_level.ex	battleportal_05	c91c7312	<b(on)>بوابة المعركة 5 - الصعوبة ★★☆<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13513	kh3_level.ex	battleportal_05_c	b3b8d244	<b(on)>بوابة المعركة 5 - الصعوبة ★★☆ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13514	kh3_level.ex	battleportal_06	dba9dcfc	<b(on)>بوابة المعركة 6 - الصعوبة ★★☆<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13515	kh3_level.ex	battleportal_06_c	c42600b4	<b(on)>بوابة المعركة 6 - الصعوبة ★★☆ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13516	kh3_level.ex	battleportal_07	6315bb99	<b(on)>بوابة المعركة 7 - الصعوبة ★☆☆<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13517	kh3_level.ex	battleportal_07_c	5f834cdb	<b(on)>بوابة المعركة 7 - الصعوبة ★☆☆ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13518	kh3_level.ex	battleportal_08	3b76abcf	<b(on)>بوابة المعركة 8 - الصعوبة ★☆☆<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13519	kh3_level.ex	battleportal_08_c	2d17d3aa	<b(on)>بوابة المعركة 8 - الصعوبة ★☆☆ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13520	kh3_level.ex	battleportal_09	83caccaa	<b(on)>بوابة المعركة 9 - الصعوبة ★★☆<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13521	kh3_level.ex	battleportal_09_c	b6b29fc5	<b(on)>بوابة المعركة 9 - الصعوبة ★★☆ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13522	kh3_level.ex	battleportal_10	326883be	<b(on)>بوابة المعركة 10 - الصعوبة ★☆☆<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13523	kh3_level.ex	battleportal_10_c	857334c5	<b(on)>بوابة المعركة 10 - الصعوبة ★☆☆ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13524	kh3_level.ex	battleportal_11	8ad4e4db	<b(on)>بوابة المعركة 11 - الصعوبة ★★☆<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13525	kh3_level.ex	battleportal_11_c	1ed678aa	<b(on)>بوابة المعركة 11 - الصعوبة ★★☆ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13526	kh3_level.ex	battleportal_12	98614b35	<b(on)>بوابة المعركة 12 - الصعوبة ★☆☆<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13527	kh3_level.ex	battleportal_12_c	6948aa5a	<b(on)>بوابة المعركة 12 - الصعوبة ★☆☆ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13528	kh3_level.ex	battleportal_13	20dd2c50	<b(on)>بوابة المعركة 13 - الصعوبة ★★☆<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13529	kh3_level.ex	battleportal_13_c	f2ede635	<b(on)>بوابة المعركة 13 - الصعوبة ★★☆ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13530	kh3_level.ex	battleportal_14	bd0a14e9	<b(on)>بوابة المعركة 14 - الصعوبة ★★★<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?<br>يجب على سورا خوض هذا التحدي وحده.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13531	kh3_level.ex	battleportal_14_c	86750fba	<b(on)>بوابة المعركة 14 - الصعوبة ★★★ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?<br>يجب على سورا خوض هذا التحدي وحده.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13532	kh3_level.ex	battleportal_15	05b6738c	<b(on)>بوابة المعركة 0 - الصعوبة ★☆☆<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13533	kh3_level.ex	battleportal_15_c	1dd043d5	<b(on)>بوابة المعركة 0 - الصعوبة ★☆☆ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13534	kh3_level.ex	achievement_0010	a3aaad37	ابدأ <color(strong)>تحدي المشي في السماء<color> للقائمة المميزة! <br>صل إلى مملكة كورونا دون المشي على <br>الأرض والهبوط 5 مرات فقط كحد أقصى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+13535	kh3_level.ex	achievement_0020	2d25aad4	فشل <color(strong)>تحدي المشي في السماء<color> للقائمة المميزة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1

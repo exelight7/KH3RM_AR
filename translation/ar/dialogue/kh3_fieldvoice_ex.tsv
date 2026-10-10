@@ -1,0 +1,67 @@
+id	namespace	key	source_hash	AR	status	note
+08358	kh3_fieldvoice_ex.chat	sora_0010	3e52a19e	مهلا، أظن أن هذا<br>شعار حظ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08359	kh3_fieldvoice_ex.chat	sora_0020	b0dda67d	أرجو أن نجد بعض<br>المكونات هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08360	kh3_fieldvoice_ex.chat	sora_0060	3497a887	آه، أعرف ماذا سألتقط!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08361	kh3_fieldvoice_ex.chat	sora_0070	f83da819	همم، لنر...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08362	kh3_fieldvoice_ex.chat	sora_0080	211dbab5	فهمت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08363	kh3_fieldvoice_ex.chat	sora_0100	695ded6f	رائع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08364	kh3_fieldvoice_ex.chat	sora_0110	a5f7edf1		todo	
+08365	kh3_fieldvoice_ex.chat	sora_0120	2b78ea12		todo	
+08366	kh3_fieldvoice_ex.chat	sora_0130	e7d2ea8c	ماذا? مهلا. إلى أين أنا ذاهب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08367	kh3_fieldvoice_ex.chat	sora_0140	ed17e395	يجب أن نسرع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08368	kh3_fieldvoice_ex.chat	sora_0180	bab8f6da	من الأفضل أن أرسل هذا بالبريد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08369	kh3_fieldvoice_ex.chat	sora_0190	7612f644	هناك صندوق بريد<br>في بلدة الشفق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08370	kh3_fieldvoice_ex.chat	sora_0200	1ec33f9f	أوه، ماذا لدينا <i(on)>هنا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08371	kh3_fieldvoice_ex.chat	donald_0010	0aea742c	سورا! شعار حظ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08372	kh3_fieldvoice_ex.chat	donald_0020	846573cf	يا سلام! لنجد المزيد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08373	kh3_fieldvoice_ex.chat	donald_0030	48cf7351	صورة جميلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08374	kh3_fieldvoice_ex.chat	donald_0040	420a7a48	قد يكون هذا مكانا جيدا<br>لإيجاد بعض المكونات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08375	kh3_fieldvoice_ex.chat	donald_0050	8ea07ad6	لا يمكن أن يكون هذا هو. واصل البحث!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08376	kh3_fieldvoice_ex.chat	donald_0060	002f7d35	الطاهي الصغير سيعرف<br>ماذا يفعل بهذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08377	kh3_fieldvoice_ex.chat	donald_0070	cc857dab	انتظر. أحتاج إلى دقيقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08378	kh3_fieldvoice_ex.chat	donald_0080	15a56f07	تريد صورة لي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08379	kh3_fieldvoice_ex.chat	donald_0090	d90f6f99	هل التقطتها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08380	kh3_fieldvoice_ex.chat	donald_0100	5de538dd	كيف ظهرت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08381	kh3_fieldvoice_ex.chat	donald_0110	914f3843	هيا، انته منها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08382	kh3_fieldvoice_ex.chat	donald_0120	1fc03fa0	مهلا، صورني! صورني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08383	kh3_fieldvoice_ex.chat	donald_0130	d36a3f3e	هل يجب علي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08384	kh3_fieldvoice_ex.chat	donald_0140	d9af3627	سورا، انظر إلى ذلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08385	kh3_fieldvoice_ex.chat	donald_0150	150536b9	لا نريد أن نذهب من <i(on)>هناك<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08386	kh3_fieldvoice_ex.chat	donald_0160	9b8a315a	سورا، ليس هذا هو الطريق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08387	kh3_fieldvoice_ex.chat	donald_0180	8e002368	يا سلام!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08388	kh3_fieldvoice_ex.chat	donald_0200	2a7bea2d	يجب أن نبحث في الأرجاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08389	kh3_fieldvoice_ex.chat	donald_0210	e6d1eab3	لنبحث في مكان آخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08390	kh3_fieldvoice_ex.chat	donald_0220	685eed50	تستطيع تدمير هذا<br>بقفزة من الأعلى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08391	kh3_fieldvoice_ex.chat	donald_0230	a4f4edce	أسرع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08392	kh3_fieldvoice_ex.chat	donald_0240	ae31e4d7	يا سلام! لننطلق!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08393	kh3_fieldvoice_ex.chat	donald_0250	629be449	سورا، لا تفعل ذلك هنا.<br>إنه خطير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08394	kh3_fieldvoice_ex.chat	donald_0260	ec14e3aa	هيا يا سورا، هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08395	kh3_fieldvoice_ex.chat	donald_0270	20bee334	أتساءل ما فائدته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08396	kh3_fieldvoice_ex.chat	goofy_0010	09ab32a8	أراهن أن هناك<br>شعار حظ هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08397	kh3_fieldvoice_ex.chat	goofy_0020	8724354b	سأساعدك في إيجاد الشعار التالي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08398	kh3_fieldvoice_ex.chat	goofy_0030	4b8e35d5	صورة جميلة يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08399	kh3_fieldvoice_ex.chat	goofy_0040	414b3ccc	أراهن أننا سنجد بعض<br>المكونات هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08400	kh3_fieldvoice_ex.chat	goofy_0050	8de13c52	يا سلام!<br>لنر إن كان هناك المزيد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08401	kh3_fieldvoice_ex.chat	goofy_0060	036e3bb1	بدأت أجوع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08402	kh3_fieldvoice_ex.chat	goofy_0070	cfc43b2f	تخيل الأطباق اللذيذة التي<br>سيصنعها الطاهي الصغير بهذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08403	kh3_fieldvoice_ex.chat	goofy_0080	16e42983	ما رأيك بهذه? مضحكة بما يكفي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08404	kh3_fieldvoice_ex.chat	goofy_0090	da4e291d	ستلتقط صورة<br>لي? حسنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08405	kh3_fieldvoice_ex.chat	goofy_0100	5ea47e59	أوه، أراهن أنها رائعة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08406	kh3_fieldvoice_ex.chat	goofy_0110	920e7ec7	احرص على أن تريني إياها<br>لاحقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08407	kh3_fieldvoice_ex.chat	goofy_0120	1c817924	آه... سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08408	kh3_fieldvoice_ex.chat	goofy_0130	d02b79ba	ماذا تصور?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08409	kh3_fieldvoice_ex.chat	goofy_0140	daee70a3	مهلا يا دونالد، ادخل في الصورة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08410	kh3_fieldvoice_ex.chat	goofy_0150	1644703d	أظنني أرى شيئا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08411	kh3_fieldvoice_ex.chat	goofy_0160	98cb77de	سورا، ليس لدينا وقت<br>للرحلات الجانبية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08412	kh3_fieldvoice_ex.chat	goofy_0170	54617740	الاتجاه الخطأ يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08413	kh3_fieldvoice_ex.chat	goofy_0190	41eb6572		todo	
+08414	kh3_fieldvoice_ex.chat	goofy_0210	e590ac37	لا أظن أننا<br>جئنا من هنا بعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08415	kh3_fieldvoice_ex.chat	goofy_0220	6b1fabd4	أنا متأكد تقريبا أننا<br>جئنا إلى هنا من قبل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08416	kh3_fieldvoice_ex.chat	goofy_0230	a7b5ab4a	أراهن أنك تستطيع كسر هذا،<pb(2.0)>إن ضربته بقوة كافية<br>من الأعلى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08417	kh3_fieldvoice_ex.chat	goofy_0240	ad70a253	أسرع يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08418	kh3_fieldvoice_ex.chat	goofy_0250	61daa2cd	هيا يا رفاق!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08419	kh3_fieldvoice_ex.chat	goofy_0260	ef55a52e	لا أظن أن علينا استخدام<br>الحركات المبهرة هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08420	kh3_fieldvoice_ex.chat	goofy_0270	23ffa5b0	<pb(1.0)>والجمهور يهتف بجنون!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08421	kh3_fieldvoice_ex.chat	goofy_0280	fadfb71c	حركات رائعة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08422	kh3_fieldvoice_ex.chat	goofy_0290	3675b782	لا تنس أن ترسل ذلك بالبريد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08423	kh3_fieldvoice_ex.chat	goofy_0300	b29fe0c6	لنرسل هذا في المرة القادمة<br>التي نكون فيها في بلدة الشفق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2

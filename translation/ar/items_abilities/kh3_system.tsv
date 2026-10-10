@@ -1,0 +1,736 @@
+id	namespace	key	source_hash	AR	status	note
+16004	kh3_system.command	revengerash	bbb12cce	ضربة الرد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16005	kh3_system.command	revengeimpact	9c84e9e1	صدمة الرد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16006	kh3_system.command	revengedive	b281dbf3	ركلة الرد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16007	kh3_system.command	counterrush	2dd5a852	الضربة الأخيرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16008	kh3_system.command	barriercracker	977e178d	انفجار الرد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16009	kh3_system.command	hookupper	62721547	الخطاف الصاعد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16010	kh3_system.command	backraid	39de8c68	غارة المخاطرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16011	kh3_system.command	backrush	916dc8b0	رد الفعل	reviewed	unsure: Backlash = رد الفعل; Knockback = الإزاحة; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16012	kh3_system.command	warpslash	3679428a	ضربة الانتقال الآني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16013	kh3_system.command	diveattack	34e8751a	ضربة الغوص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16014	kh3_system.command	ikazuchi	6e894094	البرق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16015	kh3_system.command	sneeze	a8c36260	عطسة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16016	kh3_system.command	blowcounter	e8535979	ضربة الانتقام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16017	kh3_system.command	antiraid	7ddaa1aa	غارة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16018	kh3_system.command	shieldburst	7fff6e0f	الرد النانوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16019	kh3_system.command	bladecounter	174d79d3	شفرة الرد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16020	kh3_system.command	shieldcounter	da3148a2	قبضة الغضب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16021	kh3_system.command	shieldcounter2	42d6deb8	وابل الغضب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16022	kh3_system.command	shieldcounter3	fa6ab9dd	سيل اللهب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16023	kh3_system.command	shieldcounter4	67bd8164	قصف اللهب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16024	kh3_system.command	lightcounter	df9549ba	انفجار النور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16025	kh3_system.command	darkcounter	a21387b5	انفجار الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16026	kh3_system.command	dualcounter	bb41cca3	المحطم المزدوج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16027	kh3_system.command	roxas_counter	f6e0ba2e	الرد المزدوج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16028	kh3_system.command	kairi_counter	ad9b04db	مفرقعة النجوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16029	kh3_system.command	attack	7122130a	هجوم	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+16030	kh3_system.command	attack_po	8b7c3b07	الضرب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16031	kh3_system.command	magic	bb5417d1	السحر	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+16032	kh3_system.command	item	7e8af386	أغراض	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+16033	kh3_system.command	link	ee658108	الرابطة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16034	kh3_system.command	cancel	c6428f2c	إلغاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16035	kh3_system.command	unknown	5ea8da18		todo	skip: no Latin letters (native script / symbols)
+16036	kh3_system.command	fire	d11d6873	نار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16037	kh3_system.command	fira	5e7fff24	نار قوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16038	kh3_system.command	firaga	aecb0e8f	نار كبرى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16039	kh3_system.command	firagan	5c795421	نار قصوى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16040	kh3_system.command	blizzrd	d3fb44ed	جليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16041	kh3_system.command	blizzara	d8984f3b	جليد قوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16042	kh3_system.command	blizzaga	ecc37074	جليد أكبر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16043	kh3_system.command	blizzagan	037a2a69	جليد أقصى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16044	kh3_system.command	thunder	43ddef68	صاعقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16045	kh3_system.command	thundara	26b7970c	صاعقة قوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16046	kh3_system.command	thundaga	12eca843	صاعقة كبرى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16047	kh3_system.command	thundagan	a505698f	صاعقة قصوى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16048	kh3_system.command	water	c80b0673	ماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16049	kh3_system.command	watara	aa94948c	ماء قوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16050	kh3_system.command	wataga	9ecfabc3	ماء أكبر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16051	kh3_system.command	watagan	10bdd987	ماء أقصى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16052	kh3_system.command	aero	46533de3	ريح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16053	kh3_system.command	aerora	918fe842	ريح قوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16054	kh3_system.command	aeroga	a5d4d70d	ريح كبرى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16055	kh3_system.command	aerogan	c3f9f338	ريح قصوى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16056	kh3_system.command	cure	a2561518	شفاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16057	kh3_system.command	cura	2d34824f	شفاء قوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16058	kh3_system.command	curaga	75186339	شفاء أكبر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16059	kh3_system.command	curagan	9f7b8094	شفاء أقصى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16060	kh3_system.command	waterfire	0d95e756	نار البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16061	kh3_system.command	waterblizzard	1b5f700d	جليد البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16062	kh3_system.command	wateraero	9adbb2c6	ريح البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16063	kh3_system.command	waterthunder	20b77901	صاعقة البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16064	kh3_system.command	darkfiraga	e238253d	نار كبرى مظلمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16065	kh3_system.command	af_vikingship0	731e3bf1	تأرجح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16066	kh3_system.command	af_jetcoaster_bm0	b9f2ad54	وهج المدخنة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16067	kh3_system.command	af_jetcoaster_bm1	014eca31	قفزة التفادي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16068	kh3_system.command	af_merrygoround0	4eabf8c5	الموجة الصوتية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16069	kh3_system.command	af_teacup0	0d19bd42	انزلاق الكوب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16070	kh3_system.command	af_waterslider0	cc01c591	قفز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16071	kh3_system.command	af_shootingride0	28d7f627	المفجر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16072	kh3_system.command	af_shootingride1	906b9142	تعزيز الدافع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16073	kh3_system.command	sf_magic_0	b1a6d916	لدغة الأفعى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16074	kh3_system.command	sf_magic_0_1	c7de0caa	ملك القلوب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16075	kh3_system.command	sf_magic_0_2	d56ba344	انفجار العسل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16076	kh3_system.command	sf_magic_1	091abe73	وابل النيازك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16077	kh3_system.command	sf_magic_1_1	5c7b40c5	التيار المكعب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16078	kh3_system.command	sf_magic_1_2	4eceef2b	لولب البخار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16079	kh3_system.command	sf_magic_1_3	f672884e	انفجار شعاع الشمس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16080	kh3_system.command	sf_scalpel_0	81acb9cf	عاصفة الشفرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16081	kh3_system.command	sf_scalpel_0_1	5580b698	غبار الألماس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16082	kh3_system.command	sf_scalpel_0_2	47351976	شفرات المائدة المستديرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16083	kh3_system.command	sf_scalpel_0_3	ff897e13	كسوف غضب الشفرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16084	kh3_system.command	sf_otherself_0	c66fe975	حشد الأشباح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16085	kh3_system.command	sf_otherself_0_1	4ccc7d03	اجتياح الشبح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16086	kh3_system.command	sf_drain_0	804586cd	صدمة الامتصاص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16087	kh3_system.command	sf_drain_0_1	45a507a4	قطرات متلألئة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16088	kh3_system.command	sf_ragnarok_0	71d3903a	راغناروك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16089	kh3_system.command	sf_ragnarok_0_1	0a6e3fb0	راغناروك الاتحاد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16090	kh3_system.command	sf_drop_0	e7d1d5b8	قصف الغوص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16091	kh3_system.command	sf_drop_0_1	1ecd9472	رذاذ العسل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16092	kh3_system.command	sf_rocket_0	bc845b6c	قصف العنقود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16093	kh3_system.command	sf_rocket_0_1	57331aa5	مفاجأة حلوة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16094	kh3_system.command	sf_pellet_0	88d4e9f1	طوفان ذري	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16095	kh3_system.command	sf_pellet_0_1	0c73f3bd	سحاق الفاكهة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16096	kh3_system.command	sf_rush_0	82d22812	غوص المثقاب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16097	kh3_system.command	sf_rush_0_1	f7afbebc	تدفق الضجيج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16098	kh3_system.command	sf_gate_0	d8e715b0	حيلة الانتقال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16099	kh3_system.command	sf_gate_0_1	f067dbab	موصل المنطقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16100	kh3_system.command	sf_laser_0	2ea7162c	الأشعة الشبحية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16101	kh3_system.command	sf_vacuum_0	4bb5ae51	هياج الأعلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16102	kh3_system.command	sf_vacuum_0_1	4a8f1132	الأهلة المتجمدة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16103	kh3_system.command	sf_ultima_0	65da75bb	دائرة إنفينيتي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16104	kh3_system.command	sf_dual	3f8fb709	البداية النجمية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16105	kh3_system.command	sf_focus_0	df17b3c4	مص التركيز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16106	kh3_system.command	sf_rainbowshower_0	e52ae5e1	مطر المنشور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16107	kh3_system.command	sf_burst_0	0f35d834	الرشقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16108	kh3_system.command	sf_kairi	f1ba3eec	قلب أميرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16109	kh3_system.command	sf_riku	3ffa44d3	الانقسام المظلم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16110	kh3_system.command	dm_simba0	1b28c73e	زئير النار الكبرى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16111	kh3_system.command	dm_simba1	a394a05b	قفزة النار الكبرى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16112	kh3_system.command	dm_stitch0	56a53d98	تسارع البلازما	reviewed	unsure: Surge = التسارع (supervisor) applied inside a command name; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16113	kh3_system.command	dm_stitch1	ee195afd	قفز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16114	kh3_system.command	dm_ariel0	5460f488	رذاذ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16115	kh3_system.command	dm_ariel1	ecdc93ed	غوص حورية البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16116	kh3_system.command	dm_ralph0	56d28d72	بناء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16117	kh3_system.command	dm_ralph1	ee6eea17	قفز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16118	kh3_system.command	dm_ralph2	fcdb45f9	اجتياح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16119	kh3_system.command	dm_wandanyan0	ab4b608a	اندفاع الانكماش	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16120	kh3_system.command	dm_wandanyan1	13f707ef	وثبة الإعصار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16121	kh3_system.command	gigas_window	e0f4d1f6	عناصر التحكم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16122	kh3_system.command	gigas0	38d0df36	المفجر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16123	kh3_system.command	gigas1	806cb853	لكمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16124	kh3_system.command	gigas2	92d917bd	المعزز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16125	kh3_system.command	gigas3	2a6570d8	اندفاع الخطر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16126	kh3_system.command	gigas4	b7b24861	اخرج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16127	kh3_system.command	gigas5	0f0e2f04	تجميع المغناطيس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16128	kh3_system.command	gigas6	1dbb80ea	ارتطام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16129	kh3_system.command	gigas7	a507e78f	المتفجرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16130	kh3_system.command	gigas8	fd64f7d9	المدافع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16131	kh3_system.command	specialship0	af195677	قوة اللفياثان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16132	kh3_system.command	specialship1	17a53112	المدافع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16133	kh3_system.command	specialship2	05109efc	التسارع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16134	kh3_system.command	specialship3	bdacf999	جدار الماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16135	kh3_system.command	specialship4	207bc120	إلغاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16136	kh3_system.command	seaaction0	89b71aa6	غوص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16137	kh3_system.command	seaaction1	310b7dc3	هبوط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16138	kh3_system.command	seaaction2	23bed22d	صعود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16139	kh3_system.command	seaaction3	9b02b548	سباحة أسرع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16140	kh3_system.command	smallplane0	f867b0e0	رمية متفجرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16141	kh3_system.command	smallplane1	40dbd785	الطوربيدات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16142	kh3_system.command	smallplane2	526e786b	التفادي الجوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16143	kh3_system.command	smallplane3	ead21f0e	انزل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16144	kh3_system.command	largeplane0	62dda2e0	شقلبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16145	kh3_system.command	largeplane1	da61c585	هجوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16146	kh3_system.command	largeplane2	c8d46a6b	الحاجز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16147	kh3_system.command	pokapong0	2b24e262	لكمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16148	kh3_system.command	pokapong1	93988507	صد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16149	kh3_system.command	pokapong2	812d2ae9	إلغاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16150	kh3_system.command	festival0	55140648	دوران	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16151	kh3_system.command	festival1	eda8612d	خطوة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16152	kh3_system.command	festival2	ff1dcec3	تصفيق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16153	kh3_system.command	snowcurling0	db86816c	قفز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16154	kh3_system.command	chart0	166325de	عرض الخرائط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16155	kh3_system.command	guardian_0010	7f1b80ed	هجوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16156	kh3_system.command	guardian_0020	f194870e	ريفليغا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16157	kh3_system.command	guardian_0030	3d3e8790	رابطة النور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16158	kh3_system.command	guardian_0040	37fb8e89	انفجار ترينتي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16159	kh3_system.command	reaction_0010	9fe28101	الضربة الأمامية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16160	kh3_system.command	reaction_0020	116d86e2	الهجمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16161	kh3_system.command	reaction_0030	ddc7867c	الحماية المزدوجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16162	kh3_system.command	reaction_0040	d7028f65	الوريث	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16163	kh3_system.command	reaction_0050	1ba88ffb	الصفر المطلق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16164	kh3_system.command	reaction_0060	95278818	الوهج الشمسي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16165	kh3_system.command	reaction_0070	598d8886	التحول الجوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16166	kh3_system.command	reaction_0080	80ad9a2a	الرد الملتوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16167	kh3_system.command	reaction_0090	4c079ab4	راكب العاصفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16168	kh3_system.command	reaction_0100	c8edcdf0	ساعة المعجزة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16169	kh3_system.command	reaction_0110	0447cd6e	تفاد سريع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16170	kh3_system.command	reaction_0120	8ac8ca8d	الدفع للخلف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16171	kh3_system.command	reaction_0130	4662ca13	النهوض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16172	kh3_system.command	reaction_0140	4ca7c30a	الإيمان الصامد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16173	kh3_system.command	reaction_0150	800dc394	النور الصامد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16174	kh3_system.command	reaction_0160	0e82c477	الإزاحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16175	kh3_system.command	quickbattle_0010	da490b8e	رمية سريعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16176	kh3_system.command	fr_snowcoverswing	32613849	التحرير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16177	kh3_system.command	fr_sheildguardian0	c6a16c20	كبس الدرع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16178	kh3_system.command	fr_sheildguardian1	7e1d0b45	قفز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16179	kh3_system.command	fr_jackspin0	aca20744	ضربة الزوبعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16180	kh3_system.command	fr_jackspin1	141e6021	قفز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16181	kh3_system.command	fr_giantsoldier0	c32ca223	هياج الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16182	kh3_system.command	fr_giantsoldier1	7b90c546	قفز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16183	kh3_system.command	fr_rocketlaser0	8c10302e	ضربة الصاروخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16184	kh3_system.command	fr_baymaxride0	fd76a984	الضرب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16185	kh3_system.command	fr_baymaxride1	45cacee1	إطلاق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16186	kh3_system.command	fr_baymaxride2	577f610f	التفادي الجوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16187	kh3_system.command	fr_baymaxride3	efc3066a	رذاذ العناية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16188	kh3_system.command	fr_powerstrike0	a462aab8	قفز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16189	kh3_system.command	shootflow	393d11ba	التصويبات المثبتة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16190	kh3_system.command	atheleticflow	4172eee2	الخطوة الجوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16191	kh3_system.command	attractionflow	66acff86	ألعاب الملاهي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16192	kh3_system.command	rideflow	29b2f478	راكب السماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16193	kh3_system.command	rs_shot	a03c89ea	المفجر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16194	kh3_system.command	rs_superslide	c1e8be63	الانزلاق الفائق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16195	kh3_system.command	rs_jump	c490c592	قفز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16196	kh3_system.command	og_shootermood	3a80c27c	إطلاق تلقائي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16197	kh3_system.command	og_directorskip	3caaa12d	تخطي المشهد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16345	kh3_system.ability	name_act_0010	21f31ddf	ضربة السرعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16346	kh3_system.ability	name_act_0020	af7c1a3c	الاجتياح الثلاثي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16347	kh3_system.ability	name_act_0030	63d61aa2	وميض السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16348	kh3_system.ability	name_act_0040	691313bb	ضربة السقوط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16349	kh3_system.ability	name_act_0050	a5b91325	اللولب الصاعد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16350	kh3_system.ability	name_act_0060	2b3614c6	كاسر الأرض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16351	kh3_system.ability	name_act_0070	e79c1458	تدحرج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16352	kh3_system.ability	name_act_0080	3ebc06f4	التفادي الجوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16353	kh3_system.ability	name_act_0090	f216066a	صد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16354	kh3_system.ability	name_act_0100	76fc512e	ضربة الرد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16355	kh3_system.ability	name_act_0110	ba5651b0	صدمة الرد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16356	kh3_system.ability	name_act_0120	34d95653	ركلة الرد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16357	kh3_system.ability	name_act_0130	f87356cd	ضربة الانتقام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16358	kh3_system.ability	name_act_0140	f2b65fd4	الضربة الأخيرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16359	kh3_system.ability	name_act_0150	3e1c5f4a	التفادي المحفوف بالمخاطر	reviewed	unsure: Risk Dodge = التفادي المحفوف بالمخاطر; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16360	kh3_system.ability	name_act_0170	7c395837	التعافي الجوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16361	kh3_system.ability	name_act_0180	a5194a9b	مص التركيز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16362	kh3_system.ability	name_act_0190	69b34a05	نار التناغم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16363	kh3_system.ability	name_act_0200	016283de	جليد التناغم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16364	kh3_system.ability	name_act_0210	cdc88340	صاعقة التناغم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16365	kh3_system.ability	name_act_0220	434784a3	دوران الاندماج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16366	kh3_system.ability	name_act_0230	8fed843d	صاروخ الاندماج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16367	kh3_system.ability	name_act_0250	49828dba	نار دونالد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16368	kh3_system.ability	name_act_0260	c70d8a59	جليد دونالد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16369	kh3_system.ability	name_act_0270	0ba78ac7	صاعقة دونالد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16370	kh3_system.ability	name_act_0280	d287986b	ريح دونالد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16371	kh3_system.ability	name_act_0290	1e2d98f5	شفاء دونالد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16372	kh3_system.ability	name_act_0300	9ac7cfb1	إعصار غوفي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16373	kh3_system.ability	name_act_0310	566dcf2f	توربو غوفي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16374	kh3_system.ability	name_act_0320	d8e2c8cc	قرص غوفي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16375	kh3_system.ability	name_act_0330	1448c852	رمي الصخرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16376	kh3_system.ability	name_act_0340	1e8dc14b	دفقة طاقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16377	kh3_system.ability	name_act_0350	d227c1d5	ارتطام الكتف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16378	kh3_system.ability	name_act_0360	5ca8c636	هجوم الحبل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16379	kh3_system.ability	name_act_0370	9002c6a8	شعاع الليزر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16380	kh3_system.ability	name_act_0380	4922d404	الحبل الدوار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16381	kh3_system.ability	name_act_0390	8588d49a	الأرجحة المستقيمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16382	kh3_system.ability	name_act_0400	ee5f263e	الأرجحة الدائرية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16383	kh3_system.ability	name_act_0410	22f526a0	رمي المقلاة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16384	kh3_system.ability	name_act_0420	ac7a2143	كبس البرميل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16385	kh3_system.ability	name_act_0430	60d021dd	زئير الوحش	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16386	kh3_system.ability	name_act_0440	6a1528c4	إسقاط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16387	kh3_system.ability	name_act_0450	a6bf285a	نظرة الاستعطاف	reviewed	unsure: Googly Appeal = نظرة الاستعطاف (pun); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16388	kh3_system.ability	name_act_0460	28302fb9	كلمة تشجيع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16389	kh3_system.ability	name_act_0470	e49a2f27	كاسر العظام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16390	kh3_system.ability	name_act_0480	3dba3d8b	الانقضاض المتدحرج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16391	kh3_system.ability	name_act_0490	f1103d15	التحطيم القافز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16392	kh3_system.ability	name_act_0500	75fa6a51	النفس البارد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16393	kh3_system.ability	name_act_0510	b9506acf	لكمة المعزز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16394	kh3_system.ability	name_act_0520	37df6d2c	رذاذ العناية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16395	kh3_system.ability	name_act_0540	f1b064ab	ضربة الرنين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16396	kh3_system.ability	name_act_0550	3d1a6435	شق الرنين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16397	kh3_system.ability	name_act_0560	b39563d6	المنشار الدوار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16398	kh3_system.ability	name_act_0570	7f3f6348	شقلبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16399	kh3_system.ability	name_act_0580	a61f71e4	اجتياح جوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16400	kh3_system.ability	name_act_0590	6ab5717a	ضربة سريعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16401	kh3_system.ability	name_act_0600	0264b8a1	خطوة البرق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16402	kh3_system.ability	name_act_0610	ceceb83f	المفجر الشعاعي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16403	kh3_system.ability	name_act_0620	4041bfdc	الشحنة الأخيرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16404	kh3_system.ability	name_act_0630	8cebbf42	الغوص الجوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16405	kh3_system.ability	name_mov_0010	612ee332	القفزة العالية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16406	kh3_system.ability	name_mov_0020	efa1e4d1	الطيران المزدوج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16407	kh3_system.ability	name_mov_0030	230be44f	القفز الفائق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16408	kh3_system.ability	name_mov_0040	29ceed56	الانزلاق الجوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16409	kh3_system.ability	name_mov_0070	a741eab5	الانزلاق الفائق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16410	kh3_system.ability	name_mov_0100	3621afc3	الانسياب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16411	kh3_system.ability	name_mov_0110	fa8baf5d	دوران العمود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16412	kh3_system.ability	name_mov_0120	7404a8be	أرجحة العمود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16413	kh3_system.ability	name_mov_0130	b8aea820	ركلة الجدار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16414	kh3_system.ability	name_sup_0010	738a3fe2	فحص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16415	kh3_system.ability	name_sup_0020	fd053801	أمان MP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16416	kh3_system.ability	name_sup_0030	31af389f	مساعدة الأصدقاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16417	kh3_system.ability	name_sup_0040	3b6a3186	خبرة صفر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16418	kh3_system.ability	name_sup_0050	f7c03118	كومبو بلس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16419	kh3_system.ability	name_sup_0060	794f36fb	كومبو جوي بلس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16420	kh3_system.ability	name_sup_0070	b5e53665	خبير الكومبو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16421	kh3_system.ability	name_sup_0080	6cc524c9	تعزيز الكومبو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16422	kh3_system.ability	name_sup_0090	a06f2457	تعزيز الكومبو الجوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16423	kh3_system.ability	name_sup_0100	24857313	تعزيز الثأر	reviewed	unsure: Reprisal = الثأر (no glossary entry); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16424	kh3_system.ability	name_sup_0110	e82f738d	تعزيز النار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16425	kh3_system.ability	name_sup_0120	66a0746e	تعزيز الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16426	kh3_system.ability	name_sup_0130	aa0a74f0	تعزيز الصاعقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16427	kh3_system.ability	name_sup_0140	a0cf7de9	تعزيز الماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16428	kh3_system.ability	name_sup_0150	6c657d77	تعزيز الريح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16429	kh3_system.ability	name_sup_0160	e2ea7a94	حيلة الساحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16430	kh3_system.ability	name_sup_0170	2e407a0a	مغناطيس الكنوز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16431	kh3_system.ability	name_sup_0180	f76068a6	مغناطيس الكنوز السحري	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16432	kh3_system.ability	name_sup_0190	3bca6838	مغناطيس الكنوز الفائق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16433	kh3_system.ability	name_sup_0200	531ba1e3	درع الورقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16434	kh3_system.ability	name_sup_0210	9fb1a17d	فرصة ثانية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16435	kh3_system.ability	name_sup_0220	113ea69e	تحمل الكومبو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16436	kh3_system.ability	name_sup_0230	dd94a600	ادخار كومبو السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16437	kh3_system.ability	name_sup_0240	d751af19	محفز السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16438	kh3_system.ability	name_sup_0255	2c255fb5	إنهاء تلقائي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16439	kh3_system.ability	name_sup_0260	9574a864	تعزيز الموقف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16440	kh3_system.ability	name_sup_0270	59dea8fa	ممدد تحول السلاح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16441	kh3_system.ability	name_sup_0280	80feba56	ممدد السحر الكبير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16442	kh3_system.ability	name_sup_0290	4c54bac8	معزز ألعاب الملاهي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16443	kh3_system.ability	name_sup_0300	c8beed8c	ممدد ألعاب الملاهي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16444	kh3_system.ability	name_sup_0320	8a9beaf1	ممدد الرابطة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16445	kh3_system.ability	name_sup_0330	4631ea6f	تثبيت السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16446	kh3_system.ability	name_sup_0340	4cf4e376	معيد شحن الصد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16447	kh3_system.ability	name_sup_0350	805ee3e8	المدافع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16448	kh3_system.ability	name_sup_0360	0ed1e40b	التحكم بالضرر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16449	kh3_system.ability	name_sup_0370	c27be495	مص الضرر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16450	kh3_system.ability	name_sup_0380	1b5bf639	تسريع MP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16451	kh3_system.ability	name_sup_0390	d7f1f6a7	تسريع MP+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16452	kh3_system.ability	name_sup_0400	bc260403	تسريع MP++	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16453	kh3_system.ability	name_sup_0410	708c049d	ادخار MP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16454	kh3_system.ability	name_sup_0420	fe03037e	إلقاء إضافي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16455	kh3_system.ability	name_sup_0430	32a903e0	انفجار MP الكامل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16456	kh3_system.ability	name_sup_0440	386c0af9	الضربة المحظوظة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16457	kh3_system.ability	name_sup_0450	f4c60a67	الحاصد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16458	kh3_system.ability	name_sup_0460	7a490d84	محول HP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16459	kh3_system.ability	name_sup_0470	b6e30d1a	محول MP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16460	kh3_system.ability	name_sup_0480	6fc31fb6	محول موني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16461	kh3_system.ability	name_sup_0490	a3691f28	HP بالمشي	reviewed	unsure: HP/MP Walker = HP/MP بالمشي (literal meaning: recover while walking); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16462	kh3_system.ability	name_sup_0500	2783486c	MP بالمشي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16463	kh3_system.ability	name_sup_0510	eb2948f2	الحماية من الحرق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16464	kh3_system.ability	name_sup_0520	65a64f11	الحماية من الغيمة	reviewed	unsure: Cloud status = الغيمة (meaning unclear); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16465	kh3_system.ability	name_sup_0530	a90c4f8f	الحماية من العطس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16466	kh3_system.ability	name_sup_0540	a3c94696	الحماية من التجميد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16467	kh3_system.ability	name_sup_0550	6f634608	الحماية من الكهرباء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16468	kh3_system.ability	name_sup_0560	e1ec41eb	الحماية من الذهول	reviewed	unsure: Stun = الذهول; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16469	kh3_system.ability	name_sup_0570	2d464175	تعزيز الأغراض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16470	kh3_system.ability	name_sup_0580	f46653d9	السحر اللامتناهي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16471	kh3_system.ability	name_sup_0590	38cc5347	الشفاء الفوري	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16472	kh3_system.ability	name_sup_0600	501d9a9c	هجمات فريق أكثر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16473	kh3_system.ability	name_sup_0610	9cb79a02	ممدد هجوم الفريق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16474	kh3_system.ability	name_sup_0620	12389de1	مشاركة الجوائز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16475	kh3_system.ability	name_sup_0630	de929d7f	وقت إضافي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16476	kh3_system.ability	name_sup_0640	d4579466	أفضل حالة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16477	kh3_system.ability	name_sup_0650	18fd94f8	حافز الخبرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16478	kh3_system.ability	name_sup_0660	9672931b	مضاعف الجوائز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16479	kh3_system.ability	name_sup_0670	5ad89385	من الفقر إلى الثراء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16480	kh3_system.ability	name_sup_0680	83f88129	شفاء أقصى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16481	kh3_system.ability	name_sup_0690	4f5281b7	شحن الهياج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16482	kh3_system.ability	name_sup_0700	cbb8d6f3	الإمكانات الخفية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16483	kh3_system.ability	name_sup_0710	0712d66d	المزيد من السحر الكبير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16484	kh3_system.ability	name_sup_0720	899dd18e	ممدد الطعام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16485	kh3_system.ability	name_sup_0730	4537d110	وجبة دسمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16486	kh3_system.ability	name_sup_0740	4ff2d809	محول التركيز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16487	kh3_system.ability	name_sup_0750	8358d897	مص النار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16488	kh3_system.ability	name_sup_0760	0dd7df74	مص الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16489	kh3_system.ability	name_sup_0770	c17ddfea	مص الصاعقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16490	kh3_system.ability	name_sup_0780	185dcd46	مص الماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16491	kh3_system.ability	name_sup_0790	d4f7cdd8	مص الريح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16492	kh3_system.ability	name_sup_0800	b92c4982	مص الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16493	kh3_system.ability	name_sup_0810	7586491c	جهد الفريق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16494	kh3_system.ability	name_sup_0820	fb094eff	مصور الخط الأمامي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16495	kh3_system.ability	name_sup_0830	37a34e61	الطاهي الاستثنائي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16496	kh3_system.ability	name_sup_0840	3d664778	تعاون ثنائي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16497	kh3_system.ability	name_sup_0850	f1cc47e6	قاهر البلا قلب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16498	kh3_system.ability	name_sup_0860	7f434005	قاهر اللا أحد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16499	kh3_system.ability	name_sup_0920	60ac0290	محول الشفاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16500	kh3_system.ability	name_sup_0930	ac06020e	الرد الحرج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16501	kh3_system.ability	name_sup_0940	a6c30b17	الشحن الحرج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16502	kh3_system.ability	name_sup_0950	6a690b89	المحول الحرج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16503	kh3_system.ability	name_sup_0960	e4e60c6a	روليت السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16504	kh3_system.ability	name_txt_0300	13e080c7	انفجار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16505	kh3_system.ability	name_txt_0310	df4a8059	اندفع وأطلق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16506	kh3_system.ability	name_txt_0320	51c587ba	ريبل درايف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16507	kh3_system.ability	name_txt_0330	9d6f8724	دوامة الإعصار	reviewed	unsure: Winder = دوامة (guess); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16508	kh3_system.ability	name_txt_0340	97aa8e3d	الإنهاء الجوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16509	kh3_system.ability	name_txt_0350	5b008ea3	انفجار المغناطيس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16510	kh3_system.ability	name_txt_0360	d58f8940	صدمة الإذهال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16511	kh3_system.ability	name_txt_0370	192589de	نصل الرنين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16512	kh3_system.ability	name_txt_0380	c0059b72	آرس أركانوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16513	kh3_system.ability	name_txt_0400	67786948	رمية منزلقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16514	kh3_system.ability	name_txt_0410	abd269d6	رمية متفجرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16515	kh3_system.ability	name_txt_0420	255d6e35	إطلاق تلقائي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16516	kh3_system.ability	name_txt_0430	e9f76eab	انفجار صاعد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16517	kh3_system.ability	name_txt_0440	e33267b2	الصدمة النهائية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16518	kh3_system.ability	name_txt_0450	2f98672c	رمية مشحونة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16519	kh3_system.ability	name_txt_0460	a11760cf	دوامة التروس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16520	kh3_system.ability	name_txt_0470	6dbd6051	دوامة الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16521	kh3_system.ability	name_txt_0480	b49d72fd	الانزلاق الهجومي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16522	kh3_system.ability	name_txt_0490	78377263	الضربة الملتفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16523	kh3_system.ability	name_txt_0500	fcdd2527	رمية المرساة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16524	kh3_system.ability	name_txt_0510	307725b9	الدوران الخلفي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16525	kh3_system.ability	name_txt_0520	bef8225a	تمشية الكلب	reviewed	unsure: yo-yo trick name = ممشى الكلب (literal); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16526	kh3_system.ability	name_txt_0530	725222c4	ضرب الأرض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16527	kh3_system.ability	name_txt_0540	78972bdd	ضرب جوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16528	kh3_system.ability	name_txt_0550	b43d2b43	الضرب الطائر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16529	kh3_system.ability	name_txt_0560	3ab22ca0	المثقاب الفتاك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16530	kh3_system.ability	name_txt_0570	f6182c3e	الضربة الصاعدة اللولبية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16531	kh3_system.ability	name_txt_0580	2f383e92	أعمدة المثقاب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16532	kh3_system.ability	name_txt_0590	e3923e0c	التفادي بالغوص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16533	kh3_system.ability	name_txt_0600	8b43f7d7	الأشعة الذهبية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16534	kh3_system.ability	name_txt_0610	47e9f749	الأشعة الدوارة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16535	kh3_system.ability	name_txt_0620	c966f0aa	قصف التجسد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16536	kh3_system.ability	name_txt_0630	05ccf034	تحول التجسد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16537	kh3_system.ability	name_txt_0640	0f09f92d	دوران الدرع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16538	kh3_system.ability	name_txt_0650	c3a3f9b3	دائرة البرق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16539	kh3_system.ability	name_txt_0660	4d2cfe50	دائرة اللهب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16540	kh3_system.ability	name_txt_0710	dc4cbb26	اندفاع الدرع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16541	kh3_system.ability	name_txt_0720	52c3bcc5	نسيم الشتاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16542	kh3_system.ability	name_txt_0730	9e69bc5b	الصفر المطلق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16543	kh3_system.ability	name_txt_0740	94acb542	عاصفة الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16544	kh3_system.ability	name_txt_0750	5806b5dc	اجتياح الرمح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16545	kh3_system.ability	name_txt_0760	d689b23f	مطر الرماح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16546	kh3_system.ability	name_txt_0770	1a23b2a1	غوص الرمح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16547	kh3_system.ability	name_txt_0780	c303a00d	دوار العاصفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16548	kh3_system.ability	name_txt_0790	0fa9a093	الإعصار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16549	kh3_system.ability	name_txt_0800	627224c9	قبضة الصاروخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16550	kh3_system.ability	name_txt_0810	aed82457	الدرع النانوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16551	kh3_system.ability	name_txt_0820	205723b4	الرد النانوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16552	kh3_system.ability	name_txt_0830	ecfd232a	اندفاع اللولب	reviewed	unsure: Drove = اندفاع (meaning unclear); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16553	kh3_system.ability	name_txt_0840	e6382a33	العلامات المشعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16554	kh3_system.ability	name_txt_0850	2a922aad	دائرة النور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16555	kh3_system.ability	name_txt_0860	a41d2d4e	حاجز الشفرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16556	kh3_system.ability	name_txt_0870	68b72dd0	شفرة الرد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16557	kh3_system.ability	name_txt_0880	b1973f7c	التفادي الهجومي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16558	kh3_system.ability	name_txt_0890	7d3d3fe2	الانزلاق الخلفي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16559	kh3_system.ability	name_txt_0900	f9d768a6	الانزلاق الخلفي الهجومي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16560	kh3_system.ability	name_txt_0910	357d6838	الحاجز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16561	kh3_system.ability	name_txt_0920	bbf26fdb	انفجار الرد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16562	kh3_system.ability	name_txt_0930	77586f45	الإنهاء الأقصى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16563	kh3_system.ability	name_txt_0940	7d9d665c	انتقال آني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16564	kh3_system.ability	name_txt_0950	b13766c2	التحليق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16565	kh3_system.ability	name_txt_0960	3fb86121	الانزلاق الجليدي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16566	kh3_system.ability	name_txt_0970	f31261bf	أوميغا النهائي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16567	kh3_system.ability	name_txt_0980	2a327313	التجديد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16568	kh3_system.ability	name_txt_0990	e698738d	التعويض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16569	kh3_system.ability	name_txt_1000	ca16c3a6	رمية العسل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16570	kh3_system.ability	name_txt_1010	06bcc338	تثبيت متعدد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16571	kh3_system.ability	name_txt_1020	8833c4db	كاسر الحماية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16572	kh3_system.ability	name_txt_1030	4499c445	التحول النانوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16573	kh3_system.ability	name_txt_1040	4e5ccd5c	شحنة المخاطرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16574	kh3_system.ability	name_txt_1080	19f3d813	زانتيتسوكين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16575	kh3_system.ability	name_txt_1090	d559d88d	قفزة الإنهاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16576	kh3_system.ability	name_txt_1100	51b38fc9	الثقب الأسود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16577	kh3_system.ability	name_txt_1110	9d198f57	الكسر المظلم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16578	kh3_system.ability	name_txt_1120	139688b4	الحد الثلاثي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16579	kh3_system.ability	name_txt_1130	df3c882a	الاجتياح الدوار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16580	kh3_system.ability	name_txt_1140	d5f98133	الشحنة اللولبية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16581	kh3_system.ability	name_txt_1150	195381ad	التفادي الرنان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16582	kh3_system.ability	name_txt_1160	97dc864e	حماية النور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16583	kh3_system.ability	name_txt_1170	5b7686d0	حماية الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16584	kh3_system.ability	name_txt_1200	262d5d39	الانفجار المزدوج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16585	kh3_system.ability	name_txt_1210	ea875da7	انفجار التوازن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16586	kh3_system.ability	name_txt_1220	64085a44	الشحنة الخاطفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16587	kh3_system.ability	name_txt_1230	a8a25ada	طعنة السراب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16588	kh3_system.ability	name_txt_1240	a26753c3	الضربة الدوارة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16589	kh3_system.ability	name_txt_1250	6ecd535d	طعنة الإطلاق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16590	kh3_system.ability	name_txt_1260	e04254be	كاسر الأرض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16591	kh3_system.ability	name_txt_1270	2ce85420	الحماية الثنائية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16592	kh3_system.ability	name_txt_1300	bd881156	خطوة الرنين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16593	kh3_system.ability	detail_act_0010	355eb23b	هاجم بثلاث ضربات متتالية.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16594	kh3_system.ability	detail_act_0020	bbd1b5d8	اقترب من الهدف أثناء الهجوم.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16595	kh3_system.ability	detail_act_0030	777bb546	أطلق وميضا من السحر يقذف الأعداء في الهواء.<br>تحدد قوة السحر لديك مقدار الضرر.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16596	kh3_system.ability	detail_act_0040	7dbebc5f	وأنت في الهواء، اضرب للأسفل<br>لمهاجمة الأهداف على الأرض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16597	kh3_system.ability	detail_act_0050	b114bcc1	أثناء تنفيذ الكومبو، اضغط <icon(Cancel)><br>لقذف الأعداء في الهواء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16598	kh3_system.ability	detail_act_0060	3f9bbb22	أثناء تنفيذ الكومبو، اضغط <icon(Cancel)><br>لإسقاط الأعداء نحو الأرض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16599	kh3_system.ability	detail_act_0070	f331bbbc	وأنت على الأرض، استخدم <icon(Lstick)> واضغط <icon(Square)> للتدحرج<br>في ذلك الاتجاه وتفادي الهجمات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16600	kh3_system.ability	detail_act_0080	2a11a910	وأنت في الهواء، استخدم <icon(Lstick)> واضغط <icon(Square)> للدوران<br>في ذلك الاتجاه وتفادي الهجمات.<br>يعمل أثناء القتال فقط.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16601	kh3_system.ability	detail_act_0090	e6bba98e	اضغط <icon(Square)> للحماية من الهجمات الأمامية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16602	kh3_system.ability	detail_act_0100	6251feca	اضغط <icon(Decide)> بعد <color(strong)>صد<color> ناجح<br>لضرب الأهداف القريبة.<br>يمكنك تركيب قدرة ثأر واحدة فقط.<br><color(strong)>(الثأر)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16603	kh3_system.ability	detail_act_0110	aefbfe54	اضغط <icon(Decide)> بعد <color(strong)>صد<color> ناجح<br>لقذف الأعداء المحيطين في الهواء.<br>يمكنك تركيب قدرة ثأر واحدة فقط.<br><color(strong)>(الثأر)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16604	kh3_system.ability	detail_act_0120	2074f9b7	اضغط <icon(Decide)> بعد <color(strong)>صد<color> ناجح<br>لمهاجمة الأعداء البعيدين.<br>يمكنك تركيب قدرة ثأر واحدة فقط.<br><color(strong)>(الثأر)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16605	kh3_system.ability	detail_act_0130	ecdef929	اضغط <icon(Decide)> بعد <color(strong)>تعاف جوي<color> ناجح<br>لمهاجمة الهدف بوابل<br>من الضربات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16606	kh3_system.ability	detail_act_0140	e61bf030	اضغط <icon(Decide)> بعد تنفيذ <color(strong)>ثأر<color><br>للانتقال فورا إلى جانب الهدف<br>ومواصلة الهجوم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16607	kh3_system.ability	detail_act_0150	2ab1f0ae	اضغط <icon(Cancel)> فور أن يكسر عدو<br>حمايتك لتنفيذ مجموعة من حركات التفادي<br>الخاصة. يمكنك الرد أثناء <color(strong)>التفادي<br>المحفوف بالمخاطر<color> بالضغط على <icon(Decide)>.	reviewed	unsure: colour tag spans a line break, kept as in EN; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16608	kh3_system.ability	detail_act_0170	6894f7d3	اضغط <icon(Cancel)> بعد تلقي الضرر في الهواء<br>لاستعادة توازنك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16609	kh3_system.ability	detail_act_0180	b1b4e57f	أضف <color(strong)>تصويبا مثبتا<color> خاصا إلى ترسانتك<br>لا يكلف أي تركيز. ستمتص التركيز<br>من الأهداف التي تثبتها.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16610	kh3_system.ability	detail_act_0190	7d1ee5e1	تعاون مع دونالد وأحرق أعداءك.<br><color(strong)>(ضربة ختامية: بالقرب من دونالد)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16611	kh3_system.ability	detail_act_0200	15cf2c3a	تعاون مع دونالد وجمد أعداءك.<br><color(strong)>(ضربة ختامية: بالقرب من دونالد)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16612	kh3_system.ability	detail_act_0210	d9652ca4	تعاون مع دونالد واضرب<br>العدو بالبرق.<br><color(strong)>(ضربة ختامية: بالقرب من دونالد)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16613	kh3_system.ability	detail_act_0220	57ea2b47	تعاون مع غوفي وأحدث الفوضى بين<br>الأعداء المحيطين.<br><color(strong)>(ضربة ختامية: بالقرب من غوفي)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16614	kh3_system.ability	detail_act_0230	9b402bd9	تعاون مع غوفي واندفع نحو الأعداء.<br><color(strong)>(ضربة ختامية: بالقرب من غوفي)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16615	kh3_system.ability	detail_act_0250	5d2f225e	أطلق كرة نارية على العدو.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16616	kh3_system.ability	detail_act_0260	d3a025bd	أطلق قطعة جليد على العدو.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16617	kh3_system.ability	detail_act_0270	1f0a2523	اضرب العدو بالبرق.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16618	kh3_system.ability	detail_act_0280	c62a378f	أنشئ زوبعة صغيرة حول العدو.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16619	kh3_system.ability	detail_act_0290	0a803711	استعد HP لهدف ولأي أصدقاء آخرين<br>قريبين.<br><color(strong)>يستهلك كل MP المتبقي.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16620	kh3_system.ability	detail_act_0300	8e6a6055	نفذ دورانا عائما يدوخ<br>الأعداء.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16621	kh3_system.ability	detail_act_0310	42c060cb	اقفز على درع وانزلق نحو الأعداء.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16622	kh3_system.ability	detail_act_0320	cc4f6728	ارم درعا نحو العدو.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16623	kh3_system.ability	detail_act_0330	00e567b6	التقط صخرة كبيرة وارمها نحو العدو.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16624	kh3_system.ability	detail_act_0340	0a206eaf	اجمع قوتك ثم أطلقها<br>في جميع الاتجاهات.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16625	kh3_system.ability	detail_act_0350	c68a6e31	انحن للأمام واندفع نحو العدو.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16626	kh3_system.ability	detail_act_0360	480569d2	لوح بالحبل ثم ارمه نحو العدو.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16627	kh3_system.ability	detail_act_0370	84af694c	أطلق ليزرا من الذراع اليمنى.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16628	kh3_system.ability	detail_act_0380	5d8f7be0	افرد ذراعيك ودر نحو الأعداء.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16629	kh3_system.ability	detail_act_0390	91257b7e	لف شعرك حول غصن شجرة ثم<br>تأرجح ذهابا وإيابا لإبعاد الأعداء.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16630	kh3_system.ability	detail_act_0400	faf289da	لف شعرك حول غصن شجرة ثم<br>تأرجح في دائرة كبيرة لإبعاد الأعداء.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16631	kh3_system.ability	detail_act_0410	36588944	ارم مقلاة نحو العدو.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16632	kh3_system.ability	detail_act_0420	b8d78ea7	اقفز على برميل ودحرجه نحو الأعداء.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16633	kh3_system.ability	detail_act_0430	747d8e39	أطلق زئيرا قويا <color(strong)>يذهل<color><br>الأعداء المحيطين.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16634	kh3_system.ability	detail_act_0440	7eb88720	اندفع نحو العدو.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16635	kh3_system.ability	detail_act_0450	b21287be	اجذب انتباه العدو واستدرج الهجمات.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16636	kh3_system.ability	detail_act_0460	3c9d805d	شجع جميع الأصدقاء لزيادة<br>الضرر الذي تلحقه هجماتهم.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16637	kh3_system.ability	detail_act_0470	f03780c3	ارم عدة قنابل نحو العدو.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16638	kh3_system.ability	detail_act_0480	2917926f	تدحرج على الأرض ثم اقفز في<br>الهواء للهجوم.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16639	kh3_system.ability	detail_act_0490	e5bd92f1	اقفز في الهواء واسحق الأعداء بجسدك.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16640	kh3_system.ability	detail_act_0500	6157c5b5	هاجم بنفخة من النفس الجليدي.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16641	kh3_system.ability	detail_act_0510	adfdc52b	أرسل قبضة تنطلق كالصاروخ في الهواء.<br><color(strong)>تكلفة MP: {0}<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16642	kh3_system.ability	detail_act_0520	2372c2c8	استخدم بخاخ التطهير لاستعادة HP<br>للأصدقاء وإزالة الحالات السلبية.<br><color(strong)>يستهلك كل MP المتبقي.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16643	kh3_system.ability	detail_act_0540	e51dcb4f	أثناء الحركة الانسيابية، اضغط <icon(Decide)> لتنفيذ<br>ضربتين متتاليتين.<br><color(strong)>(هجوم الحركة الانسيابية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16644	kh3_system.ability	detail_act_0550	29b7cbd1	أثناء الحركة الانسيابية، اضغط <icon(Decide)> للضرب<br>للأسفل نحو الأعداء.<br><color(strong)>(هجوم الحركة الانسيابية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16645	kh3_system.ability	detail_act_0560	a738cc32	أثناء الحركة الانسيابية، اضغط <icon(Decide)> للانقضاض على الأعداء<br>بهجوم دوار.<br><color(strong)>(هجوم الحركة الانسيابية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16646	kh3_system.ability	detail_act_0570	6b92ccac	أثناء الدوران حول عمود أفقي،<br>اضغط <icon(Decide)> لتنفيذ هجوم دوار في مكانك.<br><color(strong)>(هجوم الحركة الانسيابية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16647	kh3_system.ability	detail_act_0580	b2b2de00	أطلق هجوما دوارا أفقيا نحو<br>هدف عال في الأعلى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16648	kh3_system.ability	detail_act_0590	7e18de9e	اضرب هدفا قريبا بضربة سريعة للأعلى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16649	kh3_system.ability	detail_act_0600	16c91745	اندفع نحو هدف بعيد أثناء الصد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16650	kh3_system.ability	detail_act_0610	da6317db	أطلق مقذوفات نصلية على الأعداء القريبين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16651	kh3_system.ability	detail_act_0620	54ec1038	أطلق ضربة مدمرة.<br>تحدد قوة السحر لديك مقدار الضرر.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16652	kh3_system.ability	detail_act_0630	984610a6	أطلق هجوما دوارا عموديا نحو هدف<br>في الأسفل.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16653	kh3_system.ability	detail_mov_0010	75834cd6	اقفز عاليا في الهواء. كلما أطلت<br>الضغط على <icon(Cancel)> ارتفعت القفزة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16654	kh3_system.ability	detail_mov_0020	fb0c4b35	اضغط <icon(Cancel)> وأنت في الهواء<br>لتقفز قفزة ثانية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16655	kh3_system.ability	detail_mov_0030	37a64bab	أثناء الحركة الانسيابية، اضغط <icon(Cancel)><br>لتنطلق في الهواء.<br><color(strong)>(مناورة الحركة الانسيابية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16656	kh3_system.ability	detail_mov_0040	3d6342b2	وأنت في الهواء، استخدم <icon(Lstick)> واضغط <icon(Square)> للاندفاع<br>جويا في ذلك الاتجاه وتفادي الهجمات.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16657	kh3_system.ability	detail_mov_0070	b3ec4551	أثناء الحركة الانسيابية، استخدم <icon(Lstick)> واضغط <icon(Square)><br>للاندفاع جويا لمسافة طويلة.<br>كدس القدرة لزيادة التأثير.<br><color(strong)>(مناورة الحركة الانسيابية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16658	kh3_system.ability	detail_mov_0100	228c0027	اضغط مطولا على <icon(Cancel)> وأنت في الهواء<br>لتنساب بسرعة عالية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16659	kh3_system.ability	detail_mov_0110	ee2600b9	نفذ <color(strong)>انزلاقا جويا<color> أو <color(strong)>تفاديا جويا<color> نحو عمود<br>رأسي لتدور حوله<br>وتقذف الأعداء في الهواء.<br><color(strong)>(مناورة الحركة الانسيابية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16660	kh3_system.ability	detail_mov_0120	60a9075a	نفذ <color(strong)>انزلاقا جويا<color> أو <color(strong)>تفاديا جويا<color> نحو عمود<br>أفقي لتتأرجح حوله<br>وتقذف الأعداء في الهواء.<br><color(strong)>(مناورة الحركة الانسيابية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16661	kh3_system.ability	detail_mov_0130	ac0307c4	نفذ <color(strong)>انزلاقا جويا<color> أو <color(strong)>تفاديا جويا<color> نحو جدار<br>لترتد عنه وتمهد لحركتك التالية.<br><color(strong)>(مناورة الحركة الانسيابية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16662	kh3_system.ability	detail_sup_0010	67279006	اعرف HP المتبقي<br>للعدو المستهدف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16663	kh3_system.ability	detail_sup_0020	e9a897e5	عطل إعادة الشحن عند نفاد MP.<br>سحر <color(strong)>الشفاء<color> وأوامر <color(strong)>الرابطة<color><br>وحدها تبدأ إعادة الشحن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16664	kh3_system.ability	detail_sup_0030	2502977b	استخدم أغراض الشفاء والسحر على الأصدقاء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16665	kh3_system.ability	detail_sup_0040	2fc79e62	للمغامرين الجريئين الذين يريدون اللعب<br>دون رفع المستوى. <color(red)>ركب هذه القدرة<br>لتوقف اكتساب الخبرة.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16666	kh3_system.ability	detail_sup_0050	e36d9efc	أضف حركة إضافية إلى كومبو الأرض.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16667	kh3_system.ability	detail_sup_0060	6de2991f	أضف حركة إضافية إلى كومبو الهواء.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16668	kh3_system.ability	detail_sup_0070	a1489981	واصل الكومبو حتى لو<br>أخطأت ضرباتك العدو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16669	kh3_system.ability	detail_sup_0080	78688b2d	يزيد ضرر كومبو الأرض بما<br>يتناسب مع طول الكومبو.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16670	kh3_system.ability	detail_sup_0090	b4c28bb3	يزيد ضرر كومبو الهواء بما<br>يتناسب مع طول الكومبو.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16671	kh3_system.ability	detail_sup_0100	3028dcf7	زد الضرر الذي تلحقه<br>ب<color(strong)>الثأر<color> بنسبة <color(strong)>50%<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16672	kh3_system.ability	detail_sup_0110	fc82dc69	ألحق ضررا أكبر بنسبة <color(strong)>20%<color> بهجمات النار.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16673	kh3_system.ability	detail_sup_0120	720ddb8a	ألحق ضررا أكبر بنسبة <color(strong)>20%<color> بهجمات الجليد.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16674	kh3_system.ability	detail_sup_0130	bea7db14	ألحق ضررا أكبر بنسبة <color(strong)>20%<color> بهجمات الصاعقة.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16675	kh3_system.ability	detail_sup_0140	b462d20d	ألحق ضررا أكبر بنسبة <color(strong)>20%<color> بهجمات الماء.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16676	kh3_system.ability	detail_sup_0150	78c8d293	ألحق ضررا أكبر بنسبة <color(strong)>20%<color> بهجمات الريح.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16677	kh3_system.ability	detail_sup_0160	f647d570	قد تستعيد HP بما يتناسب<br>مع MP الذي تنفقه.<br>كدس القدرة لزيادة الاحتمال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16678	kh3_system.ability	detail_sup_0170	3aedd5ee	اجذب الجوائز القريبة واجمعها تلقائيا.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16679	kh3_system.ability	detail_sup_0180	e3cdc742	اجذب جوائز الأعداء المهزومين بالسحر<br>واجمعها تلقائيا مهما<br>كانت بعيدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16680	kh3_system.ability	detail_sup_0190	2f67c7dc	اجذب الجوائز واجمعها تلقائيا،<br>مهما كانت بعيدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16681	kh3_system.ability	detail_sup_0200	47b60e07	أنه إلقاء سحر الاستشفاء دائما،<br>حتى لو أصابتك الهجمات<br>أثناء ذلك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16682	kh3_system.ability	detail_sup_0210	8b1c0e99	احتفظ دائما بما لا يقل عن 1 HP إذا<br>أصبت وأنت تملك 2 HP أو أكثر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16683	kh3_system.ability	detail_sup_0220	0593097a	احتفظ دائما بما لا يقل عن 1 HP إذا<br>أصبت وأنت تملك 2 HP أو أكثر.<br>ستبقى محميا طوال<br>كومبو العدو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16684	kh3_system.ability	detail_sup_0230	c93909e4	قلل تكلفة MP بمقدار 1 مع كل<br>إلقاء سحر متتال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16685	kh3_system.ability	detail_sup_0240	c3fc00fd	زد ضرر سحرك بما يتناسب<br>مع طول الكومبو لديك.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16686	kh3_system.ability	detail_sup_0255	3888f051	فعل أمر <color(strong)>الإنهاء<color> تلقائيا<br>عندما ينتهي مؤقت أمر الموقف<br>أثناء القتال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16687	kh3_system.ability	detail_sup_0260	81d90780	املأ عدادات أوامر الموقف<br>أسرع عند هزيمة الأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16688	kh3_system.ability	detail_sup_0270	4d73071e	مدد فترة توفر<br>أوامر تحول السلاح.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16689	kh3_system.ability	detail_sup_0280	945315b2	مدد فترة توفر<br>أوامر السحر الكبير.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16690	kh3_system.ability	detail_sup_0290	58f9152c	زد تكرار ظهور مؤشرات <color(strong)>فرصة!<color><br>عند استخدام ألعاب الملاهي.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16691	kh3_system.ability	detail_sup_0300	dc134268	مدد فترة توفر<br>أوامر ألعاب الملاهي.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16692	kh3_system.ability	detail_sup_0320	9e364515	مدد مدة أوامر <color(strong)>الرابطة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16693	kh3_system.ability	detail_sup_0330	529c458b	ثبت الأهداف تلقائيا<br>عند الهجوم بالسحر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16694	kh3_system.ability	detail_sup_0340	58594c92	استعد 3 MP مع كل <color(strong)>صد<color> ناجح.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16695	kh3_system.ability	detail_sup_0350	94f34c0c	قد يزيد الدفاع بمقدار 2<br>عندما يبلغ HP لديك 25% أو أقل.<br>كدس القدرة لزيادة الاحتمال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16696	kh3_system.ability	detail_sup_0360	1a7c4bef	خفض الضرر الذي تتلقاه إلى النصف عندما<br>يبلغ HP لديك 25% أو أقل.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16697	kh3_system.ability	detail_sup_0370	d6d64b71	استعد MP في كل مرة تتلقى فيها ضررا.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16698	kh3_system.ability	detail_sup_0380	0ff659dd	اشحن MP أسرع بنسبة <color(strong)>10%<color> عند نفاده.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16699	kh3_system.ability	detail_sup_0390	c35c5943	اشحن MP أسرع بنسبة <color(strong)>20%<color> عند نفاده.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16700	kh3_system.ability	detail_sup_0400	a88babe7	اشحن MP أسرع بنسبة <color(strong)>30%<color> عند نفاده.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16701	kh3_system.ability	detail_sup_0410	6421ab79	قلل تكلفة MP بنسبة <color(strong)>20%<color>.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16702	kh3_system.ability	detail_sup_0420	eaaeac9a	ألق السحر أو استخدم مهارة سحرية مرة<br>إضافية بين نفاد MP<br>وإعادة الشحن. سحر <color(strong)>الشفاء<color> وأوامر <color(strong)>الرابطة<color><br>ما زالت تبدأ إعادة الشحن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16703	kh3_system.ability	detail_sup_0430	2604ac04	عندما يمتلئ MP، زد قوة<br>أول قدرة سحرية لديك بنسبة <color(strong)>50%<color>.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16704	kh3_system.ability	detail_sup_0440	2cc1a51d	زد تكرار إسقاط الأعداء للأغراض.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16705	kh3_system.ability	detail_sup_0450	e06ba583	التقط مكونا إضافيا للطبخ<br>في كل مرة تجمع فيها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16706	kh3_system.ability	detail_sup_0460	6ee4a260	حول جميع جوائز HP إلى جوائز HP كبيرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16707	kh3_system.ability	detail_sup_0470	a24ea2fe	حول جميع جوائز MP إلى جوائز MP كبيرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16708	kh3_system.ability	detail_sup_0480	7b6eb052	حول جميع جوائز موني إلى جوائز<br>موني متوسطة أو كبيرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16709	kh3_system.ability	detail_sup_0490	b7c4b0cc	استعد HP أثناء المشي أو الجري.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16710	kh3_system.ability	detail_sup_0500	332ee788	استعد MP أثناء المشي أو الجري.<br>تبقى سرعة شحن MP دون تغيير.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16711	kh3_system.ability	detail_sup_0510	ff84e716	امنع حالة <color(strong)>الحرق<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16712	kh3_system.ability	detail_sup_0520	710be0f5	امنع حالة <color(strong)>الغيمة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16713	kh3_system.ability	detail_sup_0530	bda1e06b	امنع حالة <color(strong)>العطس<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16714	kh3_system.ability	detail_sup_0540	b764e972	امنع حالة <color(strong)>التجميد<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16715	kh3_system.ability	detail_sup_0550	7bcee9ec	امنع حالة <color(strong)>الكهرباء<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16716	kh3_system.ability	detail_sup_0560	f541ee0f	امنع حالة <color(strong)>الذهول<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16717	kh3_system.ability	detail_sup_0570	39ebee91	زد تأثير أغراض الشفاء<br>المستخدمة في المعركة بنسبة <color(strong)>50%<color>.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16718	kh3_system.ability	detail_sup_0580	e0cbfc3d	واصل كومبو السحر ما شئت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16719	kh3_system.ability	detail_sup_0590	2c61fca3	انهض من الهزيمة في المعركة<br>أسرع وبمزيد من HP.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16720	kh3_system.ability	detail_sup_0600	44b03578	أنشئ أوامر هجوم الفريق بوتيرة أكبر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16721	kh3_system.ability	detail_sup_0610	881a35e6	مدد فترة توفر<br>أوامر هجوم الفريق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16722	kh3_system.ability	detail_sup_0620	06953205	مرر الجوائز التي لا تستفيد<br>منها إلى الأصدقاء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16723	kh3_system.ability	detail_sup_0630	ca3f329b	مدد فترة توفر جميع<br>أوامر الموقف في كل مرة<br>يظهر فيها أمر موقف جديد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16724	kh3_system.ability	detail_sup_0640	c0fa3b82	ابدأ كل معركة وفريقك<br>بأكمله بكامل HP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16725	kh3_system.ability	detail_sup_0650	0c503b1c	زد الخبرة التي تكسبها في القتال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16726	kh3_system.ability	detail_sup_0660	82df3cff	زد عدد جوائز HP وجوائز MP<br>وجوائز التركيز وجوائز موني<br>التي تظهر بنسبة <color(strong)>50%<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16727	kh3_system.ability	detail_sup_0670	4e753c61	حول جميع الجوائز إلى جوائز موني.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16728	kh3_system.ability	detail_sup_0680	97552ecd	أضف <color(strong)>شفاء أقصى<color> إلى ترسانة<br>أوامر الموقف لديك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16729	kh3_system.ability	detail_sup_0690	5bff2e53	أثناء شحن MP، زد قوتك<br>بمقدار 1 وواصل الكومبو بلا نهاية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16730	kh3_system.ability	detail_sup_0700	df157917	اكتسب قوة وسحرا إضافيين<br>عند قتال الأعداء الأقوياء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16731	kh3_system.ability	detail_sup_0710	13bf7989	أنشئ أوامر السحر الكبير<br>بوتيرة أكبر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16732	kh3_system.ability	detail_sup_0720	9d307e6a	مدد مدة مكافآت الطعام<br>بنسبة <color(strong)>50%<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16733	kh3_system.ability	detail_sup_0730	519a7ef4	زد مكافآت إحصائيات الطعام بنسبة <color(strong)>25%<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16734	kh3_system.ability	detail_sup_0740	5b5f77ed	حول جميع جوائز التركيز إلى<br>جوائز تركيز كبيرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16735	kh3_system.ability	detail_sup_0750	97f57773	استعد MP عند تلقي ضرر النار.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16736	kh3_system.ability	detail_sup_0760	197a7090	استعد MP عند تلقي ضرر الجليد.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16737	kh3_system.ability	detail_sup_0770	d5d0700e	استعد MP عند تلقي ضرر الصاعقة.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16738	kh3_system.ability	detail_sup_0780	0cf062a2	استعد MP عند تلقي ضرر الماء.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16739	kh3_system.ability	detail_sup_0790	c05a623c	استعد MP عند تلقي ضرر الريح.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16740	kh3_system.ability	detail_sup_0800	ad81e666	استعد MP عند تلقي ضرر الظلام.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16741	kh3_system.ability	detail_sup_0810	612be6f8	ابدأ المعارك دائما بأمر<br>هجوم الفريق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16742	kh3_system.ability	detail_sup_0820	efa4e11b	ابق في وضع كاميرا هاتف الغامي<br>أثناء القتال، حتى لو<br>تعثرت بفعل الهجمات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16743	kh3_system.ability	detail_sup_0830	230ee185	احصل على تقييم <color(strong)>ممتاز<color> بسهولة أكبر<br>عند الطبخ مع الطاهي الصغير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16744	kh3_system.ability	detail_sup_0840	29cbe89c	ألحق ضررا إضافيا عند مهاجمة<br>الهدف نفسه الذي يهاجمه سورا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16745	kh3_system.ability	detail_sup_0850	e561e802	ألحق ضررا إضافيا بالبلا قلب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16746	kh3_system.ability	detail_sup_0860	6beeefe1	ألحق ضررا إضافيا باللا أحد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16747	kh3_system.ability	detail_sup_0870	a744ef7f	أنشئ أوامر الموقف <color(strong)>نار قصوى<color><br>دون استيفاء المتطلبات.<br>كدس القدرة لزيادة الاحتمال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16748	kh3_system.ability	detail_sup_0880	7e64fdd3	أنشئ أوامر الموقف <color(strong)>جليد أقصى<color><br>دون استيفاء المتطلبات.<br>كدس القدرة لزيادة الاحتمال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16749	kh3_system.ability	detail_sup_0890	b2cefd4d	أنشئ أوامر الموقف <color(strong)>صاعقة قصوى<color><br>دون استيفاء المتطلبات.<br>كدس القدرة لزيادة الاحتمال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16750	kh3_system.ability	detail_sup_0900	3624aa09	أنشئ أوامر الموقف <color(strong)>ماء أقصى<color><br>دون استيفاء المتطلبات.<br>كدس القدرة لزيادة الاحتمال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16751	kh3_system.ability	detail_sup_0910	fa8eaa97	أنشئ أوامر الموقف <color(strong)>ريح قصوى<color><br>دون استيفاء المتطلبات.<br>كدس القدرة لزيادة الاحتمال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16752	kh3_system.ability	detail_sup_0920	7401ad74	املأ عدادات أوامر الموقف عند<br>إنفاق MP على سحر <color(strong)>الشفاء<color>.<br>كدس القدرة لزيادة التأثير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16753	kh3_system.ability	detail_sup_0930	b8abadea	ألحق ضررا إضافيا بالثأر<br>بالصد قبل لحظة وصول<br>هجوم العدو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16754	kh3_system.ability	detail_sup_0940	b26ea4f3	املأ عدادات أوامر الموقف<br>أسرع أثناء شحن MP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16755	kh3_system.ability	detail_sup_0950	7ec4a46d	<color(red)>لن تظهر مؤشرات ألعاب الملاهي الخضراء بعد الآن<color>، لكن<br>ملء العداد ينتج دائما أمر تحول السلاح.<br><color(strong)>قد تظهر المؤشرات في بعض المعارك.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16756	kh3_system.ability	detail_sup_0960	f04ba38e	أنشئ أمر موقف قويا<br>مثل نار قصوى دون استيفاء المتطلبات.<br>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16757	kh3_system.ability	detail_txt_0010	bc79fd4d	أطلق دفعة من المقذوفات السحرية<br>من طرف الكيبلايد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16758	kh3_system.ability	detail_txt_0020	32f6faae	أطلق دفعة من المقذوفات الشبيهة بالأفاعي<br>من طرف الكيبلايد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16759	kh3_system.ability	detail_txt_0030	fe5cfa30	أطلق دفعة من مقذوفات العسل<br>من طرف الكيبلايد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16760	kh3_system.ability	detail_txt_0040	f499f329	أدر الكيبلايد وأرسل شهبا<br>متهاوية نحو الأهداف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16761	kh3_system.ability	detail_txt_0050	3833f3b7	أدر الكيبلايد وأرسل مقذوفات<br>شبيهة بالمكعبات نحو الأهداف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16762	kh3_system.ability	detail_txt_0060	b6bcf454	أدر الكيبلايد وأرسل ألعابا نارية<br>متهاوية نحو الأهداف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16763	kh3_system.ability	detail_txt_0070	7a16f4ca	أطلق سلسلة من شفرات الجليد<br>الدوارة نحو الأهداف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16764	kh3_system.ability	detail_txt_0080	a336e666	أطلق سلسلة من شفرات الرياح<br>الدوارة نحو الأهداف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16765	kh3_system.ability	detail_txt_0090	6f9ce6f8	أطلق سلسلة من شفرات النور<br>الدوارة نحو الأهداف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16766	kh3_system.ability	detail_txt_0100	eb76b1bc	أنشئ تجسدات تندفع نحو<br>الأهداف مرارا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16767	kh3_system.ability	detail_txt_0110	27dcb122	أنشئ تجسدات تندفع نحو<br>الأهداف مرارا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16768	kh3_system.ability	detail_txt_0120	a953b6c1	امتص HP من الأهداف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16769	kh3_system.ability	detail_txt_0130	65f9b65f	امتص HP من الأهداف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16770	kh3_system.ability	detail_txt_0140	6f3cbf46	أطلق تيارات من النور الساطع<br>تنطلق نحو الأهداف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16771	kh3_system.ability	detail_txt_0150	a396bfd8	أطلق تيارات من النور الساطع<br>تنطلق نحو الأهداف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16772	kh3_system.ability	detail_txt_0160	2d19b83b	أمطر الأهداف بسهام سحرية<br>من أعلى مباشرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16773	kh3_system.ability	detail_txt_0170	e1b3b8a5	أمطر الأهداف بالعسل<br>من أعلى مباشرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16774	kh3_system.ability	detail_txt_0180	3893aa09	أطلق صاروخا عملاقا ينقسم<br>إلى مقذوفات أصغر كثيرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16775	kh3_system.ability	detail_txt_0190	f439aa97	أطلق كتلة عسل عملاقة تنقسم<br>إلى مقذوفات أصغر كثيرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16776	kh3_system.ability	detail_txt_0200	9ce8634c	استخدم درعا لنشر البرق<br>في جميع الاتجاهات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16777	kh3_system.ability	detail_txt_0210	504263d2	استخدم درعا لنشر الفاكهة<br>في جميع الاتجاهات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16778	kh3_system.ability	detail_txt_0220	decd6431	انتقل في المكان وانقض على الأهداف مرارا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16779	kh3_system.ability	detail_txt_0230	126764af	انتقل في المكان وانقض على الأهداف مرارا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16780	kh3_system.ability	detail_txt_0240	18a26db6	أنشئ شبكة من البوابات<br>وهاجم من جميع الاتجاهات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16781	kh3_system.ability	detail_txt_0250	d4086d28	أنشئ شبكة من البوابات<br>وهاجم من جميع الاتجاهات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16782	kh3_system.ability	detail_txt_0260	5a876acb	هاجم بإحاطة نفسك<br>بعواكس وارتداد<br>النور السحري عنها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16783	kh3_system.ability	detail_txt_0270	962d6a55	اضرب الأهداف مرارا<br>بشفرات من الجليد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16784	kh3_system.ability	detail_txt_0280	4f0d78f9	اضرب الأهداف مرارا<br>بشفرات من الرياح.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16785	kh3_system.ability	detail_txt_0290	83a77867	اجمع القوى السحرية وأطلقها،<br>لتدمر المنطقة المحيطة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16786	kh3_system.ability	detail_txt_0300	074d2f23	عاقب الأعداء بحلقة من الكرات<br>الدوارة القوية. تحدد قوة السحر<br>لديك مقدار الضرر.<br><color(strong)>(ضربة ختامية: على الأرض)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16787	kh3_system.ability	detail_txt_0310	cbe72fbd	اندفع نحو الأعداء بضربة مدمرة<br>واقذفهم نحو السماء.<br><color(strong)>(ضربة ختامية: على الأرض)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16788	kh3_system.ability	detail_txt_0320	4568285e	ولد هالة سحرية تلف<br>الأعداء المحيطين.<br>تحدد قوة السحر لديك مقدار الضرر.<br><color(strong)>(ضربة ختامية: على الأرض)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16789	kh3_system.ability	detail_txt_0330	89c228c0	اقفز شقلبة نحو الأعداء واضربهم<br>بسلسلة مدمرة من الضربات.<br><color(strong)>(ضربة ختامية: في الهواء)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16790	kh3_system.ability	detail_txt_0340	830721d9	أطلق وابلا مدمرا من الهجمات<br>يترنح منه الأعداء.<br><color(strong)>(ضربة ختامية: في الهواء)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16791	kh3_system.ability	detail_txt_0350	4fad2147	اجذب الأعداء ثم اطردهم<br>بانفجار مدمر.<br>تحدد قوة السحر لديك مقدار الضرر.<br><color(strong)>(ضربة ختامية: في الهواء)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16792	kh3_system.ability	detail_txt_0360	c12226a4	أطلق موجة صدم <color(strong)>تذهل<color> الأعداء.<br>تحدد قوة السحر لديك مقدار الضرر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16793	kh3_system.ability	detail_txt_0370	0d88263a	اضرب العدو وأنت تعدو بجانبه.<br>واصل الضغط على <icon(Decide)> عند الطلب<br>لتنفيذ هجمات إضافية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16794	kh3_system.ability	detail_txt_0380	d4a83496	دمر العدو بوابل مدمر<br>من الهجمات. واصل الضغط على <icon(Decide)> عند<br>الطلب لتنفيذ هجمات إضافية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16795	kh3_system.ability	detail_txt_0390	18023408	أبد الأعداء المحيطين بخمسة<br>أعمدة من النور المتقاطع.<br>تحدد قوة السحر لديك مقدار الضرر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16796	kh3_system.ability	detail_txt_0400	73d5c6ac	استخدم <icon(Lstick)> واضغط <icon(Square)> لإطلاق دفعة من<br>المقذوفات وأنت تتفادى في ذلك الاتجاه.<br>يعمل أثناء القتال فقط.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16797	kh3_system.ability	detail_txt_0410	bf7fc632	أطلق رشقة من المقذوفات في آن واحد.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16798	kh3_system.ability	detail_txt_0420	31f0c1d1	اضغط مطولا على <icon(R2)> لإطلاق المقذوفات باستمرار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16799	kh3_system.ability	detail_txt_0430	fd5ac14f	أبعد الأعداء ثم<br>اقصفهم بمقذوف.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16800	kh3_system.ability	detail_txt_0440	f79fc856	أطلق مقذوفا ينتج عنه انفجار واسع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16801	kh3_system.ability	detail_txt_0450	3b35c8c8	اضغط مطولا على <icon(R2)> لشحن الطاقة<br>وإطلاقها كمقذوف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16802	kh3_system.ability	detail_txt_0460	b5bacf2b	مزق الأعداء بمخالب ضخمة دوارة.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16803	kh3_system.ability	detail_txt_0470	7910cfb5	مزق الأعداء بمخالب ضخمة دوارة.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16804	kh3_system.ability	detail_txt_0480	a030dd19	ألحق الضرر بالأعداء الذين تلمسهم<br>أثناء تنفيذ <color(strong)>انزلاق فائق<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16805	kh3_system.ability	detail_txt_0490	6c9add87	أثناء الحركة الانسيابية، اضغط <icon(Decide)> لتنفيذ<br>وابل من الهجمات.<br><color(strong)>(هجوم الحركة الانسيابية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16806	kh3_system.ability	detail_txt_0500	e8708ac3	اربط اليويو بالأعداء البعيدين<br>واجذب نفسك نحوهم بسرعة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16807	kh3_system.ability	detail_txt_0510	24da8a5d	أدر ظهرك وأنت تدير اليويو نحو الأعداء.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16808	kh3_system.ability	detail_txt_0520	aa558dbe	ضخم اليويو وارمه نحو الأعداء.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16809	kh3_system.ability	detail_txt_0530	66ff8d20	اضرب الأرض بمطرقة عملاقة.<br><color(strong)>(ضربة ختامية: على الأرض)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16810	kh3_system.ability	detail_txt_0540	6c3a8439	اضرب للأسفل بمطرقة عملاقة.<br><color(strong)>(ضربة ختامية: في الهواء)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16811	kh3_system.ability	detail_txt_0550	a09084a7	أثناء الحركة الانسيابية، اضغط <icon(Decide)> لتوجيه<br>ضربة نحو الأعداء.<br><color(strong)>(هجوم الحركة الانسيابية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16812	kh3_system.ability	detail_txt_0560	2e1f8344	اندفع نحو الأعداء بمثقاب عملاق.<br><color(strong)>(ضربة ختامية: في الهواء)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16813	kh3_system.ability	detail_txt_0570	e2b583da	اقذف الأعداء في الهواء بمثقاب عملاق.<br><color(strong)>(ضربة ختامية: على الأرض)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16814	kh3_system.ability	detail_txt_0580	3b959176	عند الإحاطة بك، استدع مثاقب لا تحصى<br>من تحت أقدام العدو.<br><color(strong)>(ضربة ختامية: على الأرض)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16815	kh3_system.ability	detail_txt_0590	f73f91e8	استخدم <icon(Lstick)> واضغط <icon(Square)> للغوص تحت<br>الأرض والتفادي في ذلك الاتجاه.<br>يعمل أثناء القتال فقط.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16816	kh3_system.ability	detail_txt_0600	9fee5833	اقصف الأعداء بنور سحري<br>متقاطع.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16817	kh3_system.ability	detail_txt_0610	534458ad	أطلق دفعات من النور السحري وأنت تدور.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16818	kh3_system.ability	detail_txt_0620	ddcb5f4e	اضرب الأعداء مع النسخ<br>التي أنشأتها ب<color(strong)>تحول التجسد<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16819	kh3_system.ability	detail_txt_0630	11615fd0	استخدم <icon(Lstick)> واضغط <icon(Square)> لإنشاء نسخة<br>وأنت تتفادى في ذلك الاتجاه.<br>يعمل أثناء القتال فقط.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16820	kh3_system.ability	detail_txt_0640	1ba456c9	افرد ذراعيك ودر نحو الأعداء.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16821	kh3_system.ability	detail_txt_0650	d70e5657	ارفع درعك واضرب<br>المنطقة بالبرق.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16822	kh3_system.ability	detail_txt_0660	598151b4	ارفع درعك واحرق<br>المنطقة بالنار.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16823	kh3_system.ability	detail_txt_0670	952b512a	بعد شحن درعك ب<color(strong)>اندفاع الدرع<color>،<br>اختر <color(strong)>هجوم<color> لدك الأعداء بقبضة<br>عملاقة وقذفهم في الهواء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16824	kh3_system.ability	detail_txt_0680	4c0b4386	بعد شحن درعك ب<color(strong)>اندفاع الدرع<color>،<br>اختر <color(strong)>هجوم<color> لحرق الأعداء بسيل من<br>اللهب وقذفهم في الهواء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16825	kh3_system.ability	detail_txt_0690	80a14318	بعد شحن درعك بالكامل ب<br><color(strong)>اندفاع الدرع<color>، اختر <color(strong)>هجوم<color> لدك<br>الأعداء مرارا بقبضة عملاقة<br>وقذفهم في الهواء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16826	kh3_system.ability	detail_txt_0700	044b145c	بعد شحن درعك بالكامل ب<br><color(strong)>اندفاع الدرع<color>، اختر <color(strong)>هجوم<color> لحرق<br>الأعداء بسلسلة من دفعات اللهب<br>وقذفهم في الهواء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16827	kh3_system.ability	detail_txt_0710	c8e114c2	اضغط مطولا على <icon(Square)> للحماية مؤقتا من<br>الهجمات من جميع الاتجاهات. يمكنك<br>التحرك أثناء الحماية، وكل صد ناجح<br>يشحن الدرع على مراحل.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16828	kh3_system.ability	detail_txt_0720	466e1321	در نحو الأعداء وهاجم مرارا<br>بشفرات ذراعيك.<br><color(strong)>(ضربة ختامية: على الأرض)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16829	kh3_system.ability	detail_txt_0730	8ac413bf	استدع قطع جليد من الأرض<br>تقذف الأعداء في الهواء.<br><color(strong)>(ضربة ختامية: على الأرض)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16830	kh3_system.ability	detail_txt_0740	80011aa6	نفذ ركلة دوارة تشق<br>صفوف الأعداء.<br><color(strong)>(ضربة ختامية: في الهواء)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16831	kh3_system.ability	detail_txt_0750	4cab1a38	استدع حشدا من الرماح الفأسية<br>لضرب الأعداء.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16832	kh3_system.ability	detail_txt_0760	c2241ddb	أمطر الأعداء الغافلين<br>برماح فأسية لا تحصى.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16833	kh3_system.ability	detail_txt_0770	0e8e1d45	أثناء الحركة الانسيابية، اضغط <icon(Decide)> للاندفاع<br>نحو الأعداء.<br><color(strong)>(هجوم الحركة الانسيابية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16834	kh3_system.ability	detail_txt_0780	d7ae0fe9	اقذف الأعداء نحو السماء<br>وأطلق سلسلة من الهجمات.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16835	kh3_system.ability	detail_txt_0790	1b040f77	أثر عاصفة عنيفة.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16836	kh3_system.ability	detail_txt_0800	76df8b2d	حول الأذرع النانوية إلى قبضة<br>عملاقة تجعل الأعداء يترنحون.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16837	kh3_system.ability	detail_txt_0810	ba758bb3	اضغط <icon(Square)> للحماية من الهجمات<br>من جميع الاتجاهات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16838	kh3_system.ability	detail_txt_0820	34fa8c50	اضغط <icon(Decide)> بعد <color(strong)>صد<color> ناجح<br>لقذف الأعداء المحيطين في الهواء.<br><color(strong)>(الثأر)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16839	kh3_system.ability	detail_txt_0830	f8508cce	استدع دائرة من الشفرات<br>تنقض على العدو كالطيور.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16840	kh3_system.ability	detail_txt_0840	f29585d7	هاجم الأعداء من تحت أقدامهم<br>بشفرات من النور.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16841	kh3_system.ability	detail_txt_0850	3e3f8549	استدع شفرات من النور<br>تلتف نحو الخارج.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16842	kh3_system.ability	detail_txt_0860	b0b082aa	اضغط <icon(Square)> للحماية من الهجمات<br>من جميع الاتجاهات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16843	kh3_system.ability	detail_txt_0870	7c1a8234	اضغط <icon(Decide)> بعد <color(strong)>صد<color> ناجح للرد<br>على الأعداء المحيطين بشفرات من النور.<br><color(strong)>(الثأر)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16844	kh3_system.ability	detail_txt_0880	a53a9098	ألحق الضرر بالأعداء أثناء<br>تنفيذ مناورات التفادي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16845	kh3_system.ability	detail_txt_0890	69909006	اضغط <icon(Square)> للانزلاق للخلف وتفادي الهجمات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16846	kh3_system.ability	detail_txt_0900	ed7ac742	اضغط <icon(Square)> للانزلاق للخلف وتفادي الهجمات،<br>مع إلحاق الضرر بالأعداء أثناء ذلك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16847	kh3_system.ability	detail_txt_0910	21d0c7dc	اضغط <icon(Square)> للحماية من الهجمات<br>من جميع الاتجاهات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16848	kh3_system.ability	detail_txt_0920	af5fc03f	اضغط <icon(Decide)> بعد <color(strong)>صد<color> ناجح<br>لقذف الأعداء المحيطين في الهواء.<br><color(strong)>(الثأر)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16849	kh3_system.ability	detail_txt_0930	63f5c0a1	أطلق كامل إمكانات الكيبلايد<br>ونفذ حركة قوية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16850	kh3_system.ability	detail_txt_0940	6930c9b8	اقطع المسافة بينك وبين<br>الهدف فورا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16851	kh3_system.ability	detail_txt_0950	a59ac926	انزلق على الأرض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16852	kh3_system.ability	detail_txt_0960	2b15cec5	انزلق على الأرض كأنها جليد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16853	kh3_system.ability	detail_txt_0970	e7bfce5b	نفذ الضربات الختامية في أي لحظة<br>أثناء الكومبو بالضغط على <icon(Cancel)>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16854	kh3_system.ability	detail_txt_0980	3e9fdcf7	استعد HP بالكامل عند<br>تنفيذ تحول السلاح.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16855	kh3_system.ability	detail_txt_0990	f235dc69	استعد MP بالكامل عند<br>تنفيذ تحول السلاح.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16856	kh3_system.ability	detail_txt_1000	debb6c42	أطلق مقذوفات تغطي بالعسل<br>الأعداء الذين تلمسهم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16857	kh3_system.ability	detail_txt_1010	12116cdc	ثبت عدة أهداف في وقت واحد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16858	kh3_system.ability	detail_txt_1020	9c9e6b3f	امنع صد هجمات سلاحك<br>أو ارتدادها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16859	kh3_system.ability	detail_txt_1030	50346ba1	استخدم خصائص الأذرع النانوية الفريدة<br>لتحويلها إلى أشكال أخرى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16860	kh3_system.ability	detail_txt_1040	5af162b8	ضح بجزء من HP لزيادة قوتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16861	kh3_system.ability	detail_txt_1050	965b6226	أدر الكيبلايد وأرسل شظايا<br>من النور متهاوية نحو الأهداف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16862	kh3_system.ability	detail_txt_1060	18d465c5	أطلق سلسلة من شفرات الظلام<br>الدوارة نحو الأهداف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16863	kh3_system.ability	detail_txt_1070	d47e655b	اقصف الأعداء بمجرة من النجوم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16864	kh3_system.ability	detail_txt_1080	0d5e77f7	أمسك الكيبلايد بقبضة معكوسة وأطلق<br>ضربة اندفاعية.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16865	kh3_system.ability	detail_txt_1090	c1f47769	اغرس الكيبلايد وأنشئ موجة صدم<br>تبعد الأعداء القريبين.<br>تحدد قوة السحر لديك مقدار الضرر.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16866	kh3_system.ability	detail_txt_1100	451e202d	استدع عمودا من النور يقذف الأعداء في الهواء.<br>تحدد قوة السحر لديك مقدار الضرر.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16867	kh3_system.ability	detail_txt_1110	89b420b3	اغرس الكيبلايد وأطلق طاقة الظلام<br>لمهاجمة الأعداء المحيطين.<br>تحدد قوة السحر لديك مقدار الضرر.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16868	kh3_system.ability	detail_txt_1120	073b2750	أطلق وابلا من الهجمات يجعل<br>الأعداء يترنحون.<br><color(strong)>(ضربة ختامية: في الهواء)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16869	kh3_system.ability	detail_txt_1130	cb9127ce	أطلق وابلا من الهجمات يقذف<br>الأعداء بعيدا.<br><color(strong)>(ضربة ختامية: في الهواء)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16870	kh3_system.ability	detail_txt_1140	c1542ed7	أدر الكيبلايد وأنت تندفع بغضب نحو العدو.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16871	kh3_system.ability	detail_txt_1150	0dfe2e49	وأنت على الأرض، استخدم <icon(Lstick)> واضغط <icon(Square)> للتدحرج<br>في ذلك الاتجاه وتفادي الهجمات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16872	kh3_system.ability	detail_txt_1160	837129aa	اضغط <icon(Square)> للحماية من الهجمات<br>من جميع الاتجاهات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16873	kh3_system.ability	detail_txt_1170	4fdb2934	اضغط <icon(Square)> للحماية من الهجمات<br>من جميع الاتجاهات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16874	kh3_system.ability	detail_txt_1180	96fb3b98	اضغط <icon(Decide)> بعد <color(strong)>صد<color> ناجح<br>لقذف الأعداء المحيطين في الهواء.<br><color(strong)>(الثأر)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16875	kh3_system.ability	detail_txt_1190	5a513b06	اضغط <icon(Decide)> بعد <color(strong)>صد<color> ناجح<br>لقذف الأعداء المحيطين في الهواء.<br><color(strong)>(الثأر)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16876	kh3_system.ability	detail_txt_1200	3280f2dd	أطلق موجة صدم أمامية لقذف الأعداء في الهواء.<br>تحدد قوة السحر لديك مقدار الضرر.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16877	kh3_system.ability	detail_txt_1210	fe2af243	استدع النور والظلام معا<br>لمهاجمة العدو.<br>تحدد قوة السحر لديك مقدار الضرر.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16878	kh3_system.ability	detail_txt_1220	70a5f5a0	ضربة كاسحة تتبعها طعنة مدمرة.<br>تحدد قوة السحر لديك مقدار الضرر.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16879	kh3_system.ability	detail_txt_1230	bc0ff53e	اخترق العدو بالنور والظلام.<br>تحدد قوة السحر لديك مقدار الضرر.<br><color(strong)>(ضربة ختامية)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16880	kh3_system.ability	detail_txt_1240	b6cafc27	أطلق هجوما دوارا عموديا نحو هدف<br>في الأسفل.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16881	kh3_system.ability	detail_txt_1250	7a60fcb9	أثناء تنفيذ الكومبو، اضغط <icon(Cancel)><br>لقذف الأعداء في الهواء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16882	kh3_system.ability	detail_txt_1260	f4effb5a	أثناء تنفيذ الكومبو، اضغط <icon(Cancel)><br>لإسقاط الأعداء نحو الأرض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16883	kh3_system.ability	detail_txt_1270	3845fbc4	اضغط <icon(Square)> للحماية من الهجمات<br>من جميع الاتجاهات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16884	kh3_system.ability	detail_txt_1280	e165e968	اضغط <icon(Decide)> بعد <color(strong)>صد<color> ناجح<br>للرد بكيبلايدات متقاطعة.<br><color(strong)>(الثأر)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+16885	kh3_system.ability	detail_txt_1300	a925beb2	وأنت على الأرض، استخدم <icon(Lstick)> واضغط <icon(Square)> للتدحرج<br>في ذلك الاتجاه وتفادي الهجمات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1

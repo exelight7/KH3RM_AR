@@ -1,0 +1,91 @@
+id	namespace	key	source_hash	AR	status	note
+05954	kh3_event_sf.sf231a	sf2310010kr0_1	1ea9860f	<i(on)>آسفة لأنني رحلت دون أن أودعك.<br>هل أخبرك المعلم ين سيد?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05955	kh3_event_sf.sf231a	sf2310010kr0_2	0c1c29e1	<i(on)>أنا أتدرب لأصبح حاملة كيبلايد مثلك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05956	kh3_event_sf.sf231a	sf2310010kr0_3	b4a04e84	<i(on)>هذا صحيح. لا مزيد من انتظار<br>عودتك من مغامراتك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05957	kh3_event_sf.sf231a	sf2310010kr0_3b	ca5faa4e	<i(on)>أريد أن أخرج إلى هناك وأقوم بدوري في المساعدة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05958	kh3_event_sf.sf231a	sf2310020kr0_1	1c778128	<i(on)>استخدم ميرلين سحره ليأخذنا<br>إلى مكان لا يهم فيه الزمن.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05959	kh3_event_sf.sf231a	sf2310020kr0_1b	4165a58c	<i(on)>يمكننا أن نأخذ ما نحتاجه من وقت<br>لإكمال تدريبنا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05960	kh3_event_sf.sf231a	sf2310020kr0_2	0ec22ec6	<i(on)>إنه ساحر مذهل.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05961	kh3_event_sf.sf231a	sf2310030kr0_1	1dc27c35	<i(on)>آه، وحين أقول "نحن" أقصد أنا وليا.<br>إنه آسف جدا على كل المتاعب التي سببها.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05962	kh3_event_sf.sf231a	sf2310030kr0_2	0f77d3db	<i(on)>قلت له إن الأمر لا بأس به، لكنه لا يكف عن الاعتذار.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05963	kh3_event_sf.sf231a	sf2310030kr0_3	b7cbb4be	<i(on)>أعترف أنني خفت منه قليلا في البداية،<br>لكنني تعرفت عليه أكثر.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05964	kh3_event_sf.sf231a	sf2310030kr0_4	2a1c8c07	<i(on)>كل ما أراده هو أن يساعد صديقه.<br>بصراحة، من الصعب ألا تحبه.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05965	kh3_event_sf.sf231a	sf2310040kr0_1	19cb8f66	<i(on)>بين حين وآخر، أراه يحدق بي.<br>وحين أسأله ما الخطب، يقول:<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05966	kh3_event_sf.sf231a	sf2310040kr0_1b	082ab2b3	<i(on)>"لست متأكدا. أظن أنني أنسى شيئا.<br>لا أعرف ما هو."<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05967	kh3_event_sf.sf231a	sf2310040kr0_2	0b7e2088	<i(on)>سورا، أظن أن للأمر علاقة بك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05968	kh3_event_sf.sf231a	sf2310050kr0_1	187e727b	<i(on)>رحلتك كلها تدور حول مساعدة الناس:<br>بعضهم لم تقابلهم من قبل،<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05969	kh3_event_sf.sf231a	sf2310050kr0_2	0acbdd95	<i(on)>وبعضهم مثل ليا قابلتهم.<br>كلهم يعتمدون عليك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05970	kh3_event_sf.sf231a	sf2310060kr0_1	1aa0755c	<i(on)>لن يكون الأمر سهلا، لكنني أتمنى أن تبقى<br>سورا السعيد المرح الذي أعرفه.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05971	kh3_event_sf.sf231a	sf2310060kr0_2	0815dab2	<i(on)>لا يوجد قلب لا تصل إليه ابتسامتك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05972	kh3_event_sf.sf231a	sf2310070kr0	55bb77de	ما الخطب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05973	kh3_event_sf.sf231a	sf2310080x80	eaffe6d6	لا شيء، آسف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05974	kh3_event_sf.sf231a	sf2310090kr0	4c433cb9	ليا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05975	kh3_event_sf.sf231a	sf2310100x80	f6015543	ماذا? أنا آسف فعلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05976	kh3_event_sf.sf231a	sf2310120x80	3ccf23cf	رسالة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05977	kh3_event_sf.sf231a	sf2310130kr0	9a73f9a0	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05978	kh3_event_sf.sf231a	sf2310140x80	b8ecbe1a	إلى سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05979	kh3_event_sf.sf231a	sf2310150kr0	1e506475	ممم، نظريا نعم.<br>لكنني لن أرسلها. إنها لي أكثر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05980	kh3_event_sf.sf231a	sf2310160x80	7222c896	اسألي ميرلين. سيوصلها لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05981	kh3_event_sf.sf231a	sf2310170kr0_1	eacf8deb	نعم، لكن لا بأس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05982	kh3_event_sf.sf231a	sf2310170kr0_2	f87a2205	أحب فقط أن أتحدث إلى سورا، ولو على الورق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05983	kh3_event_sf.sf231a	sf2310180x80	6bda83f1	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05984	kh3_event_sf.sf231a	sf2310220x80	64d18ae7	تفضل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05985	kh3_event_sf.sf231a	sf2310230kr0	c26d5088	مثلجات? حقا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05986	kh3_event_sf.sf231a	sf2310240x80_1	b4ac284a	نعم، طلبت من ميرلين أن يحضرها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05987	kh3_event_sf.sf231a	sf2310240x80_2	a61987a4	أتعرفين، استدعى كلانا الكيبلايدات.<br>يجب أن نحتفل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05988	kh3_event_sf.sf231a	sf2310250kr0	464ecd5d	أنت لطيف يا ليا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05989	kh3_event_sf.sf231a	sf2310260x80	2a3c61be	لا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05990	kh3_event_sf.sf231a	sf2310270kr0	8c80bbd1	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05991	kh3_event_sf.sf231a	sf2310280x80	33c42ad9	لا- لا شيء، أنا فقط...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05992	kh3_event_sf.sf231a	sf2310290kr0	9578f0b6	تحاول أن تتذكر ما نسيته?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05993	kh3_event_sf.sf231a	sf2310300x80	2f3a994c	حسنا، أنا، آه... نعم... نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05994	kh3_event_sf.sf231a	sf2310310kr0	89864323	إذن غدا—أنا وأنت في الحلبة.<br>هل أنت مستعد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05995	kh3_event_sf.sf231a	sf2310320x80	e5f4efc0	بالطبع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05996	kh3_event_sf.sf231a	sf2310330kr0	434835af	لا تتساهل معي يا ليا. أتعدني?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05997	kh3_event_sf.sf231a	sf2310360kr0	68c2e5b0	ماذا? هل أنت بخير? ليا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05998	kh3_event_sf.sf231a	sf2310370x80	ce7e3fdf	نعم... آسف...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+05999	kh3_event_sf.sf231a	sf2310380kr0	713aaed7	أنت تبكي. ما الخطب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06000	kh3_event_sf.sf231a	sf2310390x80	d78674b8	شيء في عيني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06001	kh3_event_sf.sf231a	sf2310400kr0	ddf94f12	ليا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06002	kh3_event_sf.sf231a	sf2310420x80	d4ecd8b7	سأ... أذهب. آسف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06003	kh3_event_sf.sf231a	sf2310430kr0	725002d8	حسنا، لكن كف عن الاعتذار.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06004	kh3_event_sf.sf231a	sf2310440x80	50cf4562	حسنا... بشرط واحد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06005	kh3_event_sf.sf231a	sf2310450kr0	f6739f0d	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06006	kh3_event_sf.sf231a	sf2310460x80_1	fe88c54f	نادني آكسل من الآن فصاعدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06007	kh3_event_sf.sf231a	sf2310460x80_2	ec3d6aa1	هل حفظت ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06008	kh3_event_sf.sf231a	sf2310470kr0	3cbde981	نعم. حسنا يا آكسل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06009	kh3_event_sf.sf481a	sf4810010kr0	90a141cb	مرحبا يا آكسل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06010	kh3_event_sf.sf481a	sf4810020x80	fcd3ed28	أهلا. يعجبني المظهر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06011	kh3_event_sf.sf481a	sf4810030x80	99b4d66e	وقصصت شعرك أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06012	kh3_event_sf.sf481a	sf4810040kr0	bb2b91d4	أجل. إذن، هل ستجرب ملابسك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06013	kh3_event_sf.sf481a	sf4810050x80	1d974bbb	آه... لا أدري. ربما لاحقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06014	kh3_event_sf.sf481a	sf4810060kr0	71e5e758	لكنك ترتدي الشيء نفسه دائما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06015	kh3_event_sf.sf481a	sf4810070x80_1	f75bc547	ما دام يعمل، فلا داعي لإصلاحه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06016	kh3_event_sf.sf481a	sf4810070x80_2	e5ee6aa9	هكذا تميزينني وسط الزحام.<br>أجعل نفسي سهل التذكر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06017	kh3_event_sf.sf481a	sf4810080kr0	681dac3f	يا لك من مراع للآخرين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06018	kh3_event_sf.sf481a	sf4810090x80	cea17650	لا، ليس حقا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06019	kh3_event_sf.sf481a	sf4810100kr0	74e31faa	تدريبنا أوشك على الانتهاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06020	kh3_event_sf.sf481a	sf4810110x80	d25fc5c5	نعم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06021	kh3_event_sf.sf481a	sf4810120kr0	be2d6926	في مكان ما داخلي توجد ناميني.<br>إن استطعنا تحرير روكساس، يمكننا تحريرها أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06022	kh3_event_sf.sf481a	sf4810130x80	1891b349	أظن ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06023	kh3_event_sf.sf481a	sf4810140kr0_1	91fd6df3	ولدت ناميني حين حررني سورا من قلبه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06024	kh3_event_sf.sf481a	sf4810140kr0_2	8348c21d	لذا، بما أنها عادت جزءا مني،<br>ظننت أن كل شيء صار على ما يرام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06025	kh3_event_sf.sf481a	sf4810140kr0_3	3bf4a578	لكنها لا تستطيع أن ترى هذه الغابة،<br>ولا أن تشعر بالريح على وجهها، ولا أي شيء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06026	kh3_event_sf.sf481a	sf4810140kr0_3b	00883af1	ولو استطاعت، لكان الأمر مختلفا بالنسبة لها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06027	kh3_event_sf.sf481a	sf4810140kr0_4	a6239dc1	كان وقتها قصيرا، لكنها عاشته،<br>وهذا يجعله ملكها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06028	kh3_event_sf.sf481a	sf4810140kr0_4b	0a4d33e8	بأي حق أستعيد<br>تلك المشاعر والتجارب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06029	kh3_event_sf.sf481a	sf4810140kr0_5	1e9ffaa4	إنها ليست ملكي.<br>لا شيء كما ينبغي أن يكون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06030	kh3_event_sf.sf481a	sf4810140kr0_5b	c6e73376	لا بالنسبة لها <i(on)>ولا<i(off)> لروكساس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06031	kh3_event_sf.sf481a	sf4810150x80	9cb22e9c	أعرف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06032	kh3_event_sf.sf481a	sf4810160x80_1	07343df0	منذ زمن بعيد حين كنت طفلا، قابلت طفلا<br>غريبا آخر. وبطريقة ما صرنا صديقين بسرعة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06033	kh3_event_sf.sf481a	sf4810160x80_1b	3ff0e6a4		todo	
+06034	kh3_event_sf.sf481a	sf4810160x80_2	1581921e	لم أره مرة أخرى—<br>وكدت أنساه أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06035	kh3_event_sf.sf481a	sf4810160x80_3	ad3df57b	ثم قابلت روكساس. لم أصدق.<br>كانا متطابقين تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06036	kh3_event_sf.sf481a	sf4810160x80_4	30eacdc2	آه، لم أخبر روكساس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06037	kh3_event_sf.sf481a	sf4810160x80_5	8856aaa7	لم أرد أن يختفي <i(on)>هو<i(off)> أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06038	kh3_event_sf.sf481a	sf4810170x80_1	0681c0ed	كان اسم الطفل فينتوس. إنه أحد<br>حاملي الكيبلايد المفقودين الذين نبحث عنهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06039	kh3_event_sf.sf481a	sf4810170x80_1b	ce2ae30e		todo	
+06040	kh3_event_sf.sf481a	sf4810170x80_2	14346f03	أتظنه ما زال يتذكرني <i(on)>أنا<i(off)>?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06041	kh3_event_sf.sf481a	sf4810180kr0	e938c918	أوه نعم. يتذكرك جيدا جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06042	kh3_event_sf.sf481a	sf4810190x80	4f841377	الآن وقد صرنا عائدين،<br>أنا قلق بشأن كل شيء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+06043	kh3_event_sf.sf481a	sf4810200kr0	2cfdb682	لم تعد مضطرا لأن تقلق وحدك يا آكسل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2

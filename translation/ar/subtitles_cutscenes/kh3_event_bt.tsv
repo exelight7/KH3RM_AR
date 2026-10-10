@@ -1,0 +1,148 @@
+id	namespace	key	source_hash	AR	status	note
+00715	kh3_event_bt.bt001a	op0010010sr0_1	7bd251a9	<i(on)>يمكنهم أن يأخذوا عالمك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00716	kh3_event_bt.bt001a	op0010010sr0_2	6967fe47	<i(on)>يمكنهم أن يأخذوا قلبك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00717	kh3_event_bt.bt001a	op0010010sr0_3	d1db9922	<i(on)>ويقطعوك عن كل ما تعرفه.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00718	kh3_event_bt.bt001a	op0010010sr0_3b	db8afac8	<i(on)>لكن إن كان هذا قدرك...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00719	kh3_event_bt.bt001a	op0010010sr0_4	4c0ca19b	<i(on)>فإن كل خطوة إلى الأمام<br>ستكون دائما خطوة أقرب إلى الديار.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00720	kh3_event_bt.bt052a	bt10101yx0	a0aea645	هل سمعت عن حرب الكيبلايد القديمة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00721	kh3_event_bt.bt052a	bt10102ye0	6ed8364d	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00722	kh3_event_bt.bt052a	bt10102ye1	d6645128	بالطبع سمعت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00723	kh3_event_bt.bt052a	bt10103yx0	270e8326	منذ زمن بعيد، خاض حاملو الكيبلايد حربا<br>من أجل امتلاك النور.	verified	TEST50 screenshot (chat, 2026-10-09): joined, RTL, 2 lines ordered, centred, size ok, ، renders in $jimakuNE
+00724	kh3_event_bt.bt052a	bt10104ye0	3d495fa9	نعم، إنها قصة المعلم المفضلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00725	kh3_event_bt.bt052a	bt10105yx0	749feac2	أتساءل ماذا كانوا ينوون أن يفعلوا<br>بكينغدوم هارتس بعد... إظهارها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00726	kh3_event_bt.bt052a	bt10105yx0b	69ebb09f		todo	
+00727	kh3_event_bt.bt052a	bt10106ye0	bae97aca	من يدري?<br>لا أفهم لماذا قد يشعل أحد حربا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00728	kh3_event_bt.bt052a	bt10107yx0	f33fcfa1	إذن... هل تعرف "المعلمين المفقودين"?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00729	kh3_event_bt.bt052a	bt10108ye0	9a6b8c61	من?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00730	kh3_event_bt.bt052a	bt10109yx0	d3bd390a	هم من أشعلوا حرب الكيبلايد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00731	kh3_event_bt.bt052a	bt10110ye0	8c1f2868	لم أسمع بهم قط.<br>أين سمعت بذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00732	kh3_event_bt.bt052a	bt10111yx0	c5c99d03	أو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00733	kh3_event_bt.bt052a	bt10111yx1	7d75fa66	هم من اندلعت الحرب من أجلهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00734	kh3_event_bt.bt052a	bt10112ye0	0bbf0d0b	لا أفهم ما تقصد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00735	kh3_event_bt.bt052a	bt10113yx0	4269b860	يمكنك أن تكف عن التظاهر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00736	kh3_event_bt.bt052a	bt10114ye0	582e64ef	التظاهر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00737	kh3_event_bt.bt052a	bt10115yx0	11f8d184	"على تلك الأرض سيسود الظلام وينطفئ النور."	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00738	kh3_event_bt.bt052a	bt10115yx1	a944b6e1	على معلم الكيبلايد المنتظر أن يعرف هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00739	kh3_event_bt.bt052a	bt10116ye0	df8e418c	إن كنت تقول ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00740	kh3_event_bt.bt052a	bt10117yx0	9658f4e7	العين الناظرة ترى مصير العالم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00741	kh3_event_bt.bt052a	bt10117yx1	2ee49382	المستقبل—لقد كتب سلفا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00742	kh3_event_bt.bt052a	bt10118ye0	ff0cb727	حقا? لست متأكدا من ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00743	kh3_event_bt.bt052a	bt10118ye1	47b0d042	ثم من قال إنني لا أستطيع تغييره?<br>وربما يسود النور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00744	kh3_event_bt.bt052a	bt10119yx0	b6da024c	واثق من نفسك جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00745	kh3_event_bt.bt052a	bt10119yx1	0e666529	لكن الأمور ليست في صالحك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00746	kh3_event_bt.bt052a	bt10120ye0	23b665a2	ربما. لكن على عكس الظلام،<br>في النور أكثر مما تراه العين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00747	kh3_event_bt.bt052a	bt10120ye1	9b0a02c7	قد تتفاجأ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00748	kh3_event_bt.bt052a	bt10121yx0	6a60d0c9	آمل ذلك حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00749	kh3_event_bt.bt711a	bt7110010xy0	b22c661b	كش ملك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00750	kh3_event_bt.bt711a	bt7110020xy0	1d852bd1	وهكذا يسود الظلام، وينطفئ النور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00751	kh3_event_bt.bt711a	bt7110020xy1	a5394cb4	تحتاج إلى استراتيجية جديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00752	kh3_event_bt.bt711a	bt7110030ye0	c853789c	دوري، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00753	kh3_event_bt.bt711a	bt7110040xy0	99a6b604	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00754	kh3_event_bt.bt711a	bt7110050ye0	4c70e549	لم تنته بعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00755	kh3_event_bt.bt711a	bt7110060xy0	5368c088	هيا. هذا ليس عدلا. كنت متأكدا أنني هزمتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00756	kh3_event_bt.bt711a	bt7110070ye0_1	53b3b302	نعم، كدت تفعل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00757	kh3_event_bt.bt711a	bt7110070ye0_2	41061cec	لكن اللعبة لا متعة فيها إن كنت تعرف مسارها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00758	kh3_event_bt.bt711a	bt7110070ye1	3e02f4a0	في النور أكثر مما تراه العين. قلت لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00759	kh3_event_bt.bt711a	bt7110070ye1b	bc9a5db4		todo	
+00760	kh3_event_bt.bt711a	bt7110090ye0	9f46d8a2	بعض النور يأتي من الماضي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00761	kh3_event_bt.bt901a	bt9010040sr0	0f243a26	واو. أين نحن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00762	kh3_event_bt.bt901a	bt9010050go0	82e3f319	إنه جميل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00763	kh3_event_bt.bt901a	bt9010060do0	5ad46c23	تأمله في وقت آخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00764	kh3_event_bt.bt901a	bt9010070sr0	a08d77ec	صحيح. يجب أن نجد المعلم زيهانورت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00765	kh3_event_bt.bt902a	bt9020010go0	051110ff	المكان هادئ جدا هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00766	kh3_event_bt.bt902a	bt9020020do0	dd268fc5	لا أحد في الجوار.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00767	kh3_event_bt.bt902a	bt9020060sr0	0cf54415	مهلا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00768	kh3_event_bt.bt902a	bt9020100sr0	09f3bce7	م-ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00769	kh3_event_bt.bt902a	bt9020150sr0	22796cf8	ماذا يحدث?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00770	kh3_event_bt.bt902a	bt9020184sr0	401926d2	أتمزح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00771	kh3_event_bt.bt902a	bt9020190do0	6e71719a	المنظمة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00772	kh3_event_bt.bt902a	bt9020200go0	b94de7b6	لا أظنهم من أهل المكان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00773	kh3_event_bt.bt902a	bt9020210sr0	348a2e89	مستعدون?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00774	kh3_event_bt.bt903a	bt9030040xn0	6d67b759	من بين كل الأماكن التي قد أرسل إليها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00775	kh3_event_bt.bt903a	bt9030060sr0	fd2f41bf	أيها المعلم زيهانورت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00776	kh3_event_bt.bt903a	bt9030110xn0	c7c80261	انظروا، هذه البلدة...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00777	kh3_event_bt.bt903a	bt9030110xn1_1	1746f4b6	كانت يوما مقر السلطة لكل حاملي الكيبلايد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00778	kh3_event_bt.bt903a	bt9030110xn1_2	05f35b58	إنها الملتقى الذي تنبع منه كل العوالم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00779	kh3_event_bt.bt903a	bt9030120xn0	68614fab	هنا، أستطيع أن أكون واحدا مع نسخي الأخرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00780	kh3_event_bt.bt903a	bt9030120xn1_1	1598f391	متحدين...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00781	kh3_event_bt.bt903a	bt9030120xn1_2	072d5c7f	في سكالا آد كايلوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00782	kh3_event_bt.bt903a	bt9030200do0	3f0930ec	هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00783	kh3_event_bt.bt903a	bt9030210go0	2df0d95a	لنمسك به!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00784	kh3_event_bt.bt903a	bt9030220sr0	6af966e9	نعم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00785	kh3_event_bt.bt903a	bt_worldname	a88a09d7		todo	
+00786	kh3_event_bt.bt904a	bt9040094sr0	ed146f8c	هل أنتما بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00787	kh3_event_bt.bt905a	bt9050210sr0	8c1f3c1c	انتهى الأمر يا زيهانورت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00788	kh3_event_bt.bt905a	bt9050220xn0_1	125bd651	ظننتم أنكم تستطيعون حبسي هنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00789	kh3_event_bt.bt905a	bt9050220xn0_2	00ee79bf	وأنتم تعرفون كل ما تعرفونه عن الروابط?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00790	kh3_event_bt.bt905a	bt9050310xn0	57bcd951	هناك سماء واحدة، ومصير واحد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00791	kh3_event_bt.bt906a	bt9060060xn0	27f9de55	لماذا... كيف...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00792	kh3_event_bt.bt906a	bt9060070sr0	18186579	انتهى الأمر الآن! لقد خسرت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00793	kh3_event_bt.bt906a	bt9060080xn0	3e019532	لا، انظروا... لقد تأخرتم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00794	kh3_event_bt.bt906a	bt9060110go0	f5be6ff2	حقا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00795	kh3_event_bt.bt906a	bt9060120do0	2d89f0c8	لا أدري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00796	kh3_event_bt.bt906a	bt9060130sr0	d7d0eb07	ماذا سيحدث?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00797	kh3_event_bt.bt906a	bt9060140xn0	6c12cdfe	تطهير... سيعود العالم<br>إلى حيث بدأ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00798	kh3_event_bt.bt906a	bt9060150sr0	53f376d2	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00799	kh3_event_bt.bt906a	bt9060160xn0_1	f72f9a12	بدأ العالم في الظلام.<br>ومن ذلك الظلام جاء النور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00800	kh3_event_bt.bt906a	bt9060160xn0_2	e59a35fc	ومن النور جاء الناس،<br>وكانت للناس قلوب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00801	kh3_event_bt.bt906a	bt9060160xn0_3	5d265299	نما الشر في تلك القلوب، فولد مزيدا من الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00802	kh3_event_bt.bt906a	bt9060160xn0_4	c0f16a20	وانتشر ذلك الظلام<br>في العالم كالوباء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00803	kh3_event_bt.bt906a	bt9060160xn0_5	784d0d45	والنور، رمز أمل العالم،<br>التهمه الظل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00804	kh3_event_bt.bt906a	bt9060160xn0_6	6af8a2ab	فلم يبق إلا الخراب... فشل تام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00805	kh3_event_bt.bt906a	bt9060160xn0_7	d244c5ce	لكن النور الأول—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00806	kh3_event_bt.bt906a	bt9060160xn0_8	8a27d598	نور كينغدوم هارتس—<br>يمكن أن يمنحنا بداية جديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00807	kh3_event_bt.bt906a	bt9060160xn0_9	329bb2fd	عالم فارغ، نقي ومشرق...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00808	kh3_event_bt.bt906a	bt9060170sr0	993d005e	لم يكن القرار قرارك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00809	kh3_event_bt.bt906a	bt9060190xn0	da43cb53	إذن قرار من كان?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00810	kh3_event_bt.bt906a	bt9060210xn0_1	3a3961fe	العالم يحتاج إلى من ينهض ويقود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00811	kh3_event_bt.bt906a	bt9060210xn0_2	288cce10	شخص قوي، يمنع الضعفاء من<br>تلويث العالم بظلامهم الذي لا ينتهي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00812	kh3_event_bt.bt906a	bt9060210xn0_3	9030a975	شخص يحدد مصيرهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00813	kh3_event_bt.bt906a	bt9060220sr0_1	4b9010f7	إن كان الأمر كذلك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00814	kh3_event_bt.bt906a	bt9060220sr0_2	5925bf19	فلست ذلك الشخص يا زيهانورت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00815	kh3_event_bt.bt906a	bt9060240sr0_1	4e2c1eb9	القائد الحقيقي يعرف أن<br>المصير خارج عن سيطرته...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00816	kh3_event_bt.bt906a	bt9060240sr0_2	5c99b157	ويتقبل ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00817	kh3_event_bt.bt906a	bt9060250xn0	516b5f90	أنت... تذكرني بصديق قديم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00818	kh3_event_bt.bt906a	bt9060260go0	4ce46049	انظروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00819	kh3_event_bt.bt906a	bt9060270do0	5e1d89ff	لقد نجحت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00820	kh3_event_bt.bt906a	bt9060280mm0	fd0ec432	هل أنت بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00821	kh3_event_bt.bt906a	bt9060310rk0	3c7437eb	كينغدوم هارتس ينغلق في الجهة الأخرى.<br>لكننا استطعنا أن نتبع قلوبنا إليك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00822	kh3_event_bt.bt906a	bt9060330te0	0c0df6b5	أيها المعلم زيهانورت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00823	kh3_event_bt.bt906a	bt9060380te0_1	4e1467f7	في النور أكثر مما تراه العين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00824	kh3_event_bt.bt906a	bt9060380te0_2	5ca1c819	كما قلت لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00825	kh3_event_bt.bt906a	bt9060400xn0	cadcdddf	يا لك من ثعلب ماكر...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00826	kh3_event_bt.bt906a	bt9060430te0	3d15c1c2	والآن، سلم نصل χ يا زيهانورت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00827	kh3_event_bt.bt906a	bt9060450xn0	e1560dc0	فات الأوان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00828	kh3_event_bt.bt906a	bt9060460eq0	79d38f9f	علينا نحن ربما... لكن ليس عليهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00829	kh3_event_bt.bt906a	bt9060470xn0	2b987b4c	لا... أستطيع فعل هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00830	kh3_event_bt.bt906a	bt9060490eq0_1	40836a05	كفى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00831	kh3_event_bt.bt906a	bt9060490eq0_2	5236c5eb	كش ملك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00832	kh3_event_bt.bt907a	bt9070010ye0	f1a82d55	قلت لك إنك قد تتفاجأ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00833	kh3_event_bt.bt907a	bt9070020xy0	eeb00894	نعم، لقد هزمتني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00834	kh3_event_bt.bt907a	bt9070030ye0	3b665bd9	ماذا? حقا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00835	kh3_event_bt.bt907a	bt9070040xy0	6a939541	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00836	kh3_event_bt.bt907a	bt9070050ye0	bf45c60c	فقط لأنك لا تعترف أبدا حين تخسر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00837	kh3_event_bt.bt907a	bt9070060xy0	a05de3cd	لأنني لا أخسر أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00838	kh3_event_bt.bt907a	bt9070070ye0	758bb080	أوه، هيا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00839	kh3_event_bt.bt907a	bt9070120xy0	6f956db3	لعبة جيدة اليوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00840	kh3_event_bt.bt907a	bt9070130ye0	ba433efe	أحاول.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00841	kh3_event_bt.bt907a	bt9070140xy0	ebb6f066	ربما لن أصل إلى ما ستصل إليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00842	kh3_event_bt.bt907a	bt9070150ye0	3e60a32b	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00843	kh3_event_bt.bt907a	bt9070160xy0_1	43b5cebe	حين يحتاج العالم إلى مدافع،<br>سيختارونك أنت يا إيراكوس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00844	kh3_event_bt.bt907a	bt9070160xy0_2	51006150		todo	
+00845	kh3_event_bt.bt907a	bt9070180ye0	8831a586	أ-أتظن ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00846	kh3_event_bt.bt907a	bt9070190xy0	5de7f6cb	لكن هذا لا يعني<br>أنني لن أكون بجانبك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00847	kh3_event_bt.bt907a	bt9070200ye0	4df4da1c	نعم. و<i(on)>أنا<i(off)> سأكون بجانبك <i(on)>أنت<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00848	kh3_event_bt.bt908a	bt9080020xn0	c34f1667	أحسنت صنعا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00849	kh3_event_bt.bt908a	bt9080050eq0	15277f61	تيرا، أكوا، فين. سامحوا معلمكم الأحمق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00850	kh3_event_bt.bt908a	bt9080080vn0	7d6b6547	أيها المعلم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00851	kh3_event_bt.bt908a	bt9080090aq0	c51779f5	أيها المعلم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00852	kh3_event_bt.bt908a	bt9080100te0	d0c4541b	أيها المعلم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00853	kh3_event_bt.bt908a	bt9080110eq0	daeff11f	فين، عرضتك لتجربة مؤلمة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00854	kh3_event_bt.bt908a	bt9080130eq0	10218793	وأكوا، تركت لك عبئا ثقيلا جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00855	kh3_event_bt.bt908a	bt9080150eq0_1	e4a189f6	تيرا، اعتن بهما من أجلي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00856	kh3_event_bt.bt908a	bt9080150eq0_2	f6142618	أرجوك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00857	kh3_event_bt.bt908a	bt9080175eq0	2495b1dc	تفضل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00858	kh3_event_bt.bt908a	bt9080180eq0	22531ceb	مستعد يا صديقي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00859	kh3_event_bt.bt908a	bt9080190xn0	7018e838	نعم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00860	kh3_event_bt.bt908a	bt9080200mm0	ca8e31eb	سورا، لنغلقه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+00861	kh3_event_bt.bt908a	bt9080220sr0	40f25a02	ساعدوني جميعا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2

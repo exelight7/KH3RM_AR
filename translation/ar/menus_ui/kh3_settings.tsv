@@ -1,0 +1,276 @@
+id	namespace	key	source_hash	AR	status	note
+15638	kh3_settings.top	title_0010	e3c6eb2e	إعدادات اللعبة	verified	TEST50 title screenshot (chat, 2026-10-09, F1): joins closed, RTL ok
+15639	kh3_settings.top	menu_0010	bbe8907f	اللغات	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15640	kh3_settings.top	menu_0020	3567979c	العرض	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15641	kh3_settings.top	menu_0030	f9cd9702	الرسومات	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15642	kh3_settings.top	menu_0040	f3089e1b	الصوت	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15643	kh3_settings.top	menu_0050	3fa29e85	وحدة التحكم	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15644	kh3_settings.top	menu_0060	b12d9966	لوحة المفاتيح	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15645	kh3_settings.top	menu_0070	7d8799f8	قبل البث...	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15646	kh3_settings.top	menu_0080	a4a78b54	الخروج من اللعبة	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15647	kh3_settings.top	detail_0010	407f9ed2	اضبط إعدادات اللغة والصوت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15648	kh3_settings.top	detail_0020	cef09931	اضبط إعدادات العرض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15649	kh3_settings.top	detail_0030	025a99af	اضبط إعدادات الرسومات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15650	kh3_settings.top	detail_0040	089f90b6	اضبط إعدادات الصوت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15651	kh3_settings.top	detail_0050	c4359028	اضبط إعدادات وحدة التحكم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15652	kh3_settings.top	detail_0060	4aba97cb	اضبط إعدادات لوحة المفاتيح.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15653	kh3_settings.top	detail_0070	86109755	افتح المتصفح لعرض الموقع الرسمي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15654	kh3_settings.top	detail_0080	5f3085f9	اخرج من اللعبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15655	kh3_settings.top	detail_0100	1770d223	البدء بهذه الإعدادات?<br>(يمكن تغيير الإعدادات أثناء اللعب في أي وقت.)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15656	kh3_settings.top	dialog_0010	4a0702a0	الخروج من اللعبة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15657	kh3_settings.top	dialog_0020	c4880543	الخروج من اللعبة?<br>سيفقد كل تقدم لم يحفظ.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15658	kh3_settings.top	dialog_0030	082205dd	جار الخروج من اللعبة...<br>لا تغلق جهاز PC الآن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15659	kh3_settings.top	button_0010	09e6bf48	<icon(KeyboardUp)> أعلى  <icon(KeyboardDown)> أسفل  <icon(KeyboardLeft)> يسار  <icon(KeyboardRight)> يمين  <icon(ClickLeft)> تأكيد  <icon(Kb_Sp)> إلغاء	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15660	kh3_settings.top	button_0020	8769b8ab	<icon(Decide)> تأكيد  <icon(Cancel)> إلغاء	verified	TEST50 title screenshot (chat, 2026-10-09, F1): joins closed, RTL ok
+15661	kh3_settings.top	button_0030	4bc3b835	<icon(Decide)> تأكيد  <icon(Cancel)> إلغاء  <icon(Kb_Ins)> استعادة الافتراضي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15662	kh3_settings.top	button_0040	4106b12c	<icon(Decide)> تأكيد  <icon(Cancel)> إلغاء  <icon(Kb_Ins)> استعادة الافتراضي  <icon(Kb_Del)> حذف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15663	kh3_settings.top	button_0050	8dacb1b2	<icon(Cancel)> إلغاء	reviewed	ARABIC-TEST-2 test value; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15664	kh3_settings.top	system_0010	4c46517a	بيانات الحفظ تالفة وسيتم حذفها.<br>جار إنشاء بيانات حفظ جديدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15665	kh3_settings.top	system_0020	c2c95699	فشل إنشاء بيانات النظام.<br>إعادة محاولة إنشاء بيانات النظام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15666	kh3_settings.top	system_0030	0e635607	فشل حفظ بيانات اللعبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15667	kh3_settings.top	system_0040	04a65f1e	بيانات الحفظ تالفة. فشل تحميل بيانات اللعبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15668	kh3_settings.top	system_0050	c80c5f80	فشل حذف بيانات اللعبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15669	kh3_settings.top	system_0060	46835863	مشغل Epic Games في وضع عدم الاتصال.<br>يرجى التحقق من اتصالك بالإنترنت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15670	kh3_settings.top	system_0070	8a2958fd	الخروج من اللعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15671	kh3_settings.top	system_0080	53094a51	إعادة المحاولة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15672	kh3_settings.top	system_0090	9fa34acf	تعذر التحقق من تسجيل الدخول، جار العودة إلى Epic Games Launcher	translated	skip: Japanese-language message (native script, shown only in the Japanese locale)
+15673	kh3_settings.language	menu_0010	bbe8907f	النص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15674	kh3_settings.language	menu_0020	3567979c	الأصوات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15675	kh3_settings.language	choice_0100	8fe7fcf9		todo	skip: language name in its own language (Deutsch)
+15676	kh3_settings.language	choice_0110	434dfc67	الإنجليزية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15677	kh3_settings.language	choice_0120	cdc2fb84		todo	skip: language name in its own language (Español)
+15678	kh3_settings.language	choice_0130	0168fb1a		todo	skip: language name in its own language (Français)
+15679	kh3_settings.language	choice_0140	0badf203		todo	skip: language name in its own language (Italiano)
+15680	kh3_settings.language	choice_0150	c707f29d		todo	skip: no Latin letters (native script / symbols)
+15681	kh3_settings.language	choice_0160	4988f57e		todo	skip: no Latin letters (native script / symbols)
+15682	kh3_settings.language	choice_0170	8522f5e0		todo	skip: no Latin letters (native script / symbols)
+15683	kh3_settings.language	choice_0200	f8792e09	الإنجليزية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15684	kh3_settings.language	choice_0210	34d32e97	اليابانية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15685	kh3_settings.language	detail_0010	407f9ed2	اضبط لغة النص المعروض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15686	kh3_settings.language	detail_0020	cef09931	اضبط لغة أصوات الشخصيات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15687	kh3_settings.language	detail_0100	1770d223	اضبط لغة النص المعروض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15688	kh3_settings.language	detail_0110	dbdad2bd	اضبط لغة أصوات الشخصيات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15689	kh3_settings.language	dialog_0010	4a0702a0	تطبيق الإعدادات والعودة إلى شاشة العنوان?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15690	kh3_settings.language	dialog_0020	c4880543	تطبيق الإعدادات والعودة إلى شاشة العنوان?<br>سيفقد كل تقدم لم يحفظ.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15691	kh3_settings.display	menu_0010	bbe8907f	وضع الشاشة	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15692	kh3_settings.display	menu_0020	3567979c	دقة العرض	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15693	kh3_settings.display	menu_0030	f9cd9702	مقياس الدقة	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15694	kh3_settings.display	menu_0040	f3089e1b	معدل الإطارات	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15695	kh3_settings.display	menu_0050	3fa29e85	معدل التحديث	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15696	kh3_settings.display	menu_0060	b12d9966	سطوع العرض	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15697	kh3_settings.display	menu_0070	7d8799f8	HDR	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15698	kh3_settings.display	menu_0080	a4a78b54	سطوع HDR	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15699	kh3_settings.display	menu_0090	680d8bca	عمى الألوان	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15700	kh3_settings.display	menu_0100	ece7dc8e	المرشحات	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15701	kh3_settings.display	menu_0110	204ddc10	الشدة	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15702	kh3_settings.display	choice_0100	8fe7fcf9	ملء الشاشة	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15703	kh3_settings.display	choice_0110	434dfc67	ملء الشاشة بلا حدود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15704	kh3_settings.display	choice_0120	cdc2fb84	نافذة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15705	kh3_settings.display	choice_0200	f8792e09		todo	skip: numbers/symbols
+15706	kh3_settings.display	choice_0210	34d32e97		todo	skip: numbers/symbols
+15707	kh3_settings.display	choice_0220	ba5c2974		todo	skip: numbers/symbols
+15708	kh3_settings.display	choice_0230	76f629ea		todo	skip: numbers/symbols
+15709	kh3_settings.display	choice_0240	7c3320f3		todo	skip: numbers/symbols
+15710	kh3_settings.display	choice_0250	b099206d		todo	skip: numbers/symbols
+15711	kh3_settings.display	choice_0260	3e16278e		todo	skip: numbers/symbols
+15712	kh3_settings.display	choice_0300	63dc6266		todo	skip: numbers/symbols
+15713	kh3_settings.display	choice_0310	af7662f8		todo	skip: numbers/symbols
+15714	kh3_settings.display	choice_0320	21f9651b		todo	skip: numbers/symbols
+15715	kh3_settings.display	choice_0330	ed536585		todo	skip: numbers/symbols
+15716	kh3_settings.display	choice_0340	e7966c9c		todo	skip: numbers/symbols
+15717	kh3_settings.display	choice_0350	2b3c6c02		todo	skip: numbers/symbols
+15718	kh3_settings.display	choice_0360	a5b36be1		todo	skip: numbers/symbols
+15719	kh3_settings.display	choice_0400	17448be9		todo	skip: numbers/symbols
+15720	kh3_settings.display	choice_0410	dbee8b77		todo	skip: numbers/symbols
+15721	kh3_settings.display	choice_0420	55618c94		todo	skip: numbers/symbols
+15722	kh3_settings.display	choice_0430	99cb8c0a	غير مقيد	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15723	kh3_settings.display	choice_0500	8ce1c786	مفعل	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15724	kh3_settings.display	choice_0510	404bc718	معطل	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15725	kh3_settings.display	choice_0600	fb7f1576	معطل	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15726	kh3_settings.display	choice_0610	37d515e8	النمط 1 (عمى اللون الأحمر)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15727	kh3_settings.display	choice_0620	b95a120b	النمط 2 (عمى اللون الأخضر)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15728	kh3_settings.display	choice_0630	75f01295	النمط 3 (عمى اللون الأزرق)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15729	kh3_settings.display	detail_0010	407f9ed2	اضبط وضع عرض الشاشة.<br>يتيح وضع ملء الشاشة أفضل أداء.	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+15730	kh3_settings.display	detail_0020	cef09931	اضبط دقة العرض.<br>يطابق وضع ملء الشاشة بلا حدود دقة التصيير<br>مع دقة شاشتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15731	kh3_settings.display	detail_0030	025a99af	غير قيمة التصيير مع الحفاظ على الدقة.<br>كلما انخفضت القيمة تحسن الأداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15732	kh3_settings.display	detail_0040	089f90b6	اضبط حد معدل الإطارات.<br>كلما ارتفعت القيمة صارت حركات الشخصيات أكثر سلاسة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15733	kh3_settings.display	detail_0050	c4359028	اضبط مزامنة معدل الإطارات ومعدل التحديث بين تشغيل وإيقاف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15734	kh3_settings.display	detail_0060	4aba97cb	اضبط سطوع العرض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15735	kh3_settings.display	detail_0070	86109755	اضبط HDR (النطاق الديناميكي العالي) بين تشغيل وإيقاف.<br>سيؤثر تفعيله على وضع الشاشة<br>وسطوع العرض وإعدادات عمى الألوان.<br><color(strong)>يلزم شاشة تدعم HDR لتشغيل اللعبة بهذه التقنية.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15736	kh3_settings.display	detail_0080	5f3085f9	اضبط مستوى إضاءة HDR (النطاق الديناميكي العالي).	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15737	kh3_settings.display	detail_0090	939a8567	اضبط مرشحات الألوان وشدتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15738	kh3_settings.display	detail_0200	60ee00d3	اضبط وضع عرض الشاشة.<br>يتيح وضع ملء الشاشة أفضل أداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15739	kh3_settings.display	detail_0300	fb4b4cbc	اضبط دقة العرض.<br>يطابق وضع ملء الشاشة بلا حدود دقة التصيير<br>مع دقة شاشتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15740	kh3_settings.display	detail_0400	8fd3a533	اضبط مقياس دقة التصيير.<br>كلما انخفض المعدل ارتفع الأداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15741	kh3_settings.display	detail_0500	1476e95c	اضبط حد معدل الإطارات.<br>كلما ارتفعت القيمة صارت حركات الشخصيات أكثر سلاسة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15742	kh3_settings.display	detail_0600	63e83bac	اضبط مزامنة معدل الإطارات ومعدل التحديث بين تشغيل وإيقاف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15743	kh3_settings.display	detail_0700	f84d77c3	اضبط سطوع العرض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15744	kh3_settings.display	detail_0800	8ad9e8b2	اضبط HDR (النطاق الديناميكي العالي) بين تشغيل وإيقاف.<br>سيؤثر تفعيله على وضع الشاشة<br>وسطوع العرض وإعدادات عمى الألوان.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15745	kh3_settings.display	detail_0900	117ca4dd	اضبط الشريط لتعيين HDR (النطاق الديناميكي العالي) على أعلى مستوى إضاءة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15746	kh3_settings.display	detail_1000	22bd0fdd	اضبط مرشحات الألوان.<br>اضبط الشريط لتغيير الشدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15747	kh3_settings.display	dialog_0010	4a0702a0	استعادة مستوى سطوع HDR إلى الافتراضي?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15748	kh3_settings.display	dialog_0020	c4880543	تطبيق إعدادات الدقة الجديدة?<br>بعد 15 ثانية سيتم تجاهل الإعدادات الجديدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15749	kh3_settings.display	button_0010	09e6bf48	<icon(Kb_Ins)> استعادة الافتراضي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15750	kh3_settings.display	button_0020	8769b8ab	<icon(Decide)> حسنا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15751	kh3_settings.display	button_0030	4bc3b835	<icon(Cancel)> إلغاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15752	kh3_settings.graphics	menu_0010	bbe8907f	الإعدادات المسبقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15753	kh3_settings.graphics	menu_0020	3567979c	الخامات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15754	kh3_settings.graphics	menu_0030	f9cd9702	الظلال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15755	kh3_settings.graphics	menu_0040	f3089e1b	LOD	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15756	kh3_settings.graphics	menu_0050	3fa29e85	LOD الشخصيات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15757	kh3_settings.graphics	menu_0060	b12d9966	LOD النباتات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15758	kh3_settings.graphics	menu_0070	7d8799f8	تنعيم الحواف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15759	kh3_settings.graphics	menu_0080	a4a78b54	ضبابية الحركة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15760	kh3_settings.graphics	menu_0090	680d8bca	الانسداد المحيطي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15761	kh3_settings.graphics	menu_0100	ece7dc8e	ظلال الكبسولة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15762	kh3_settings.graphics	menu_0110	204ddc10	انعكاسات فضاء الشاشة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15763	kh3_settings.graphics	menu_0120	aec2dbf3	السحب الحجمية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15764	kh3_settings.graphics	menu_0130	6268db6d	الضباب الحجمي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15765	kh3_settings.graphics	menu_0140	68add274	التوهج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15766	kh3_settings.graphics	menu_0150	a407d2ea	وهج العدسة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15767	kh3_settings.graphics	menu_0160	2a88d509	DOF	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15768	kh3_settings.graphics	choice_0010	d8e8b008	منخفض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15769	kh3_settings.graphics	choice_0020	5667b7eb	متوسط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15770	kh3_settings.graphics	choice_0030	9acdb775	عال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15771	kh3_settings.graphics	choice_0040	9008be6c	الأقصى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15772	kh3_settings.graphics	choice_0050	5ca2bef2	مخصص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15773	kh3_settings.graphics	choice_0060	d22db911	مفعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15774	kh3_settings.graphics	choice_0070	1e87b98f	معطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15775	kh3_settings.graphics	choice_0080	c7a7ab23	FXAA	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15776	kh3_settings.graphics	choice_0090	0b0dabbd	TXAA	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15777	kh3_settings.graphics	choice_0100	8fe7fcf9	FXAA + TXAA	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15778	kh3_settings.graphics	detail_0010	407f9ed2	استخدم إعدادا مسبقا لجميع إعدادات الرسومات.<br>يتيح المخصص تخصيص كل إعداد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15779	kh3_settings.graphics	detail_0020	cef09931	اضبط جودة الخامات.<br>يتيح الإعداد الأعلى دقة خامات وترشيحا أفضل جودة في بعض الحالات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15780	kh3_settings.graphics	detail_0030	025a99af	اضبط جودة الظلال.<br>كلما ارتفع الإعداد تحسنت تفاصيل الظلال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15781	kh3_settings.graphics	detail_0040	089f90b6	اضبط LOD.<br>عند تفعيله تستخدم مضلعات أقل لعرض الأجسام البعيدة عن الكاميرا.<br>عند تعطيله تعرض الأجسام بأقصى تفصيل بغض النظر عن المسافة وقد يقلل ذلك الأداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15782	kh3_settings.graphics	detail_0050	c4359028	اضبط LOD الشخصيات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15783	kh3_settings.graphics	detail_0060	4aba97cb	اضبط LOD النباتات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15784	kh3_settings.graphics	detail_0070	86109755	اضبط تنعيم الحواف.<br>يلين حواف الأجسام ويقلل التسنن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15785	kh3_settings.graphics	detail_0080	5f3085f9	اضبط ضبابية الحركة.<br>عند تفعيلها قد تصبح المرئيات ضبابية عند الحركة المفاجئة والاصطدامات القوية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15786	kh3_settings.graphics	detail_0090	939a8567	اضبط الانسداد المحيطي.<br>يؤثر في الظلال الناعمة الناتجة عن الإضاءة غير المباشرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15787	kh3_settings.graphics	detail_0100	1770d223	اضبط ظلال الكبسولة.<br>يؤثر في الظلال الناعمة الناتجة عن الشخصيات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15788	kh3_settings.graphics	detail_0110	dbdad2bd	اضبط انعكاسات فضاء الشاشة.<br>يؤثر في الانعكاسات الفورية للماء والمعدن والأسطح العاكسة الأخرى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15789	kh3_settings.graphics	detail_0120	5555d55e	اضبط السحب الحجمية.<br>يؤثر في السحب ثلاثية الأبعاد المتحركة في بعض المناطق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15790	kh3_settings.graphics	detail_0130	99ffd5c0	اضبط الضباب الحجمي.<br>يؤثر في الرذاذ والضباب والدخان والأحجام شبه الشفافة الأخرى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15791	kh3_settings.graphics	detail_0140	933adcd9	اضبط التوهج.<br>يؤثر في شدة الإضاءة الساطعة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15792	kh3_settings.graphics	detail_0150	5f90dc47	اضبط وهج العدسة.<br>عند تفعيله قد تحدث مصادر الضوء كالشمس تشوهات بصرية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15793	kh3_settings.graphics	detail_0160	d11fdba4	اضبط DOF.<br>عند تفعيله تبدو الأجسام البعيدة أكثر ضبابية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15794	kh3_settings.graphics	detail_0200	60ee00d3	استخدم إعدادا مسبقا لجميع إعدادات الرسومات.<br>يتيح المخصص تخصيص كل إعداد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15795	kh3_settings.graphics	detail_0300	fb4b4cbc	اضبط جودة الخامات.<br>يتيح الإعداد الأعلى دقة خامات وترشيحا أفضل جودة في بعض الحالات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15796	kh3_settings.graphics	detail_0400	8fd3a533	اضبط جودة الظلال.<br>كلما ارتفع الإعداد تحسنت تفاصيل الظلال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15797	kh3_settings.graphics	detail_0500	1476e95c	اضبط LOD.<br>عند تفعيله تستخدم مضلعات أقل لعرض الأجسام البعيدة عن الكاميرا.<br>عند تعطيله تعرض الأجسام بأقصى تفصيل بغض النظر عن المسافة وقد يقلل ذلك الأداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15798	kh3_settings.graphics	detail_0600	63e83bac	اضبط LOD الشخصيات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15799	kh3_settings.graphics	detail_0700	f84d77c3	اضبط LOD النباتات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15800	kh3_settings.graphics	detail_0800	8ad9e8b2	اضبط تنعيم الحواف.<br>يلين حواف الأجسام ويقلل التسنن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15801	kh3_settings.graphics	detail_0900	117ca4dd	اضبط ضبابية الحركة.<br>عند تفعيلها قد تصبح المرئيات ضبابية عند الحركة المفاجئة والاصطدامات القوية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15802	kh3_settings.graphics	detail_1000	22bd0fdd	اضبط الانسداد المحيطي.<br>يؤثر في الظلال الناعمة الناتجة عن الإضاءة غير المباشرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15803	kh3_settings.graphics	detail_1100	b91843b2	اضبط ظلال الكبسولة.<br>يؤثر في الظلال الناعمة الناتجة عن الشخصيات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15804	kh3_settings.graphics	detail_1200	ce869142	اضبط انعكاسات فضاء الشاشة.<br>يؤثر في الانعكاسات الفورية للماء والمعدن والأسطح العاكسة الأخرى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15805	kh3_settings.graphics	detail_1300	5523dd2d	اضبط السحب الحجمية.<br>يؤثر في السحب ثلاثية الأبعاد المتحركة في بعض المناطق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15806	kh3_settings.graphics	detail_1400	21bb34a2	اضبط الضباب الحجمي.<br>يؤثر في الرذاذ والضباب والدخان والأحجام شبه الشفافة الأخرى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15807	kh3_settings.graphics	detail_1500	ba1e78cd	اضبط التوهج.<br>يؤثر في شدة الإضاءة الساطعة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15808	kh3_settings.graphics	detail_1600	cd80aa3d	اضبط وهج العدسة.<br>عند تفعيله قد تحدث مصادر الضوء كالشمس تشوهات بصرية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15809	kh3_settings.graphics	detail_1700	5625e652	اضبط DOF.<br>عند تفعيله تبدو الأجسام البعيدة أكثر ضبابية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15810	kh3_settings.graphics	dialog_0010	4a0702a0	تغيير الإعدادات المسبقة?<br>ستستبدل إعدادات الرسومات الحالية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15811	kh3_settings.sound	menu_0010	bbe8907f	مستوى الصوت العام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15812	kh3_settings.sound	menu_0020	3567979c	BGM	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15813	kh3_settings.sound	menu_0030	f9cd9702	المؤثرات الصوتية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15814	kh3_settings.sound	menu_0040	f3089e1b	الأصوات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15815	kh3_settings.sound	detail_0010	407f9ed2	اضبط مستوى الصوت العام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15816	kh3_settings.sound	detail_0020	cef09931	اضبط مستوى موسيقى الخلفية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15817	kh3_settings.sound	detail_0030	025a99af	اضبط مستوى المؤثرات الصوتية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15818	kh3_settings.sound	detail_0040	089f90b6	اضبط مستوى أصوات الشخصيات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15819	kh3_settings.sound	detail_0100	1770d223	اضبط الشريط لتغيير مستوى الصوت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15820	kh3_settings.sound	dialog_0010	4a0702a0	استعادة جميع الإعدادات إلى الافتراضية?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15821	kh3_settings.sound	button_0010	09e6bf48	<icon(Kb_Ins)> استعادة الافتراضي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15822	kh3_settings.gamepad	menu_0010	bbe8907f	تأكيد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15823	kh3_settings.gamepad	menu_0020	3567979c	أيقونات الأزرار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15824	kh3_settings.gamepad	menu_0030	f9cd9702	تعيين الأزرار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15825	kh3_settings.gamepad	choice_0100	8fe7fcf9		todo	skip: tags/args only
+15826	kh3_settings.gamepad	choice_0110	434dfc67		todo	skip: tags/args only
+15827	kh3_settings.gamepad	choice_0200	f8792e09	النمط 1	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15828	kh3_settings.gamepad	choice_0210	34d32e97	النمط 2	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15829	kh3_settings.gamepad	choice_0220	ba5c2974	النمط 3	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15830	kh3_settings.gamepad	choice_0230	76f629ea	تلقائي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15831	kh3_settings.gamepad	choice_0300	63dc6266	غير معين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15832	kh3_settings.gamepad	choice_0310	af7662f8	معين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15833	kh3_settings.gamepad	detail_0010	407f9ed2	عين زرا لفعل التأكيد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15834	kh3_settings.gamepad	detail_0020	cef09931	اختر نمطا لأيقونات أزرار وحدة التحكم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15835	kh3_settings.gamepad	detail_0030	025a99af	عين أزرار وحدة التحكم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15836	kh3_settings.gamepad	detail_0100	1770d223	عين <conv(disable)><icon(Cross)><conv(off)> للتأكيد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15837	kh3_settings.gamepad	detail_0110	dbdad2bd	عين <conv(disable)><icon(Circle)><conv(off)> للتأكيد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15838	kh3_settings.gamepad	detail_0200	60ee00d3	غير أيقونات الأزرار إلى الأنواع النموذجية.<br><conv(disable)><icon(CrossSub)><icon(CircleSub)><icon(SquareSub)><icon(TriangleSub)><icon(LstickSub)><icon(RstickSub)><icon(KeySub)><icon(L1Sub)><icon(R1Sub)><icon(L2Sub)><icon(R2Sub)><icon(L3Sub)><icon(R3Sub)><icon(OptionSub)><icon(PadSub)><conv(off)>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15839	kh3_settings.gamepad	detail_0210	ac44004d	استبدل أيقونات الأزرار تلقائيا لتطابق وحدة التحكم لديك.<conv(disable)><icon(CrossSub)><icon(CircleSub)><icon(SquareSub)><icon(TriangleSub)><icon(LstickSub)><icon(RstickSub)><icon(KeySub)><icon(L1Sub)><icon(R1Sub)><icon(L2Sub)><icon(R2Sub)><icon(L3Sub)><icon(R3Sub)><icon(OptionSub)><icon(PadSub)><conv(off)>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15840	kh3_settings.gamepad	detail_0300	fb4b4cbc	عين الأفعال للأزرار.<br>اضغط زرا في وحدة التحكم لتعيين فعل.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15841	kh3_settings.gamepad	detail_0310	37e14c22	اتبع التعليمات الظاهرة على الشاشة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15842	kh3_settings.gamepad	detail_0320	b96e4bc1	اللعب بهذه الإعدادات?<br>(يمكن عرض الإعدادات بالضغط على أزرار وحدة التحكم.)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15843	kh3_settings.gamepad	detail_0330	75c44b5f		todo	skip: numbers/symbols
+15844	kh3_settings.gamepad	detail_0340	7f014246	<color(red)>هذا الزر معين لفعل آخر بالفعل.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15845	kh3_settings.gamepad	detail_0350	b3ab42d8	<color(red)>تم فصل وحدة التحكم.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15846	kh3_settings.gamepad	button_0010	09e6bf48	<icon(Kb_Del)> إلغاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15847	kh3_settings.gamepad	button_0020	8769b8ab	<icon(Kb_Del)> تراجع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15848	kh3_settings.gamepad	button_0030	4bc3b835	<icon(Kb_Del)> إعادة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15849	kh3_settings.gamepad	button_0040	4106b12c	<icon(Kb_Ins)> حفظ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15850	kh3_settings.keyboard	menu_0010	bbe8907f	تخطيط لوحة المفاتيح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15851	kh3_settings.keyboard	menu_0020	3567979c	ضبط المفاتيح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15852	kh3_settings.keyboard	menu_0030	f9cd9702	حساسية الفأرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15853	kh3_settings.keyboard	menu_0100	ece7dc8e	العنوان: كينغدوم هارتس III	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15854	kh3_settings.keyboard	menu_0100_bbs	22f194a3	العنوان: كينغدوم هارتس 0.2 بيرث باي سليب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15855	kh3_settings.keyboard	menu_0110	204ddc10	الأساسي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15856	kh3_settings.keyboard	menu_0120	aec2dbf3	الفرعي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15857	kh3_settings.keyboard	choice_0100	8fe7fcf9	QWERTY	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15858	kh3_settings.keyboard	choice_0110	434dfc67	AZERTY	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15859	kh3_settings.keyboard	choice_0120	cdc2fb84	QWERTZ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15860	kh3_settings.keyboard	choice_0200	f8792e09	الافتراضي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15861	kh3_settings.keyboard	choice_0210	34d32e97	مخصص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15862	kh3_settings.keyboard	detail_0010	407f9ed2	اضبط تخطيط لوحة المفاتيح.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15863	kh3_settings.keyboard	detail_0020	cef09931	عين مفاتيح لوحة المفاتيح.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15864	kh3_settings.keyboard	detail_0030	025a99af	اضبط حساسية الكاميرا عند استخدام الفأرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15865	kh3_settings.keyboard	detail_0100	1770d223	اختر تخطيط لوحة المفاتيح.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15866	kh3_settings.keyboard	detail_0200	60ee00d3	اختر فعلا لتعيينه.<br><color(red)>ستطبق الإعدادات بعد حفظها.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15867	kh3_settings.keyboard	detail_0200_a	5750d225	اختر فعلا لتعيينه.<br>ستستخدم عناصر التحكم الخاصة بتبديل أوامر المواقف إذا اختير النمط A من قائمة الضبط داخل اللعبة.<br><color(red)>ستطبق الإعدادات بعد حفظها.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15868	kh3_settings.keyboard	detail_0200_b	45e57dcb	اختر فعلا لتعيينه.<br>ستستخدم عناصر التحكم الخاصة بتبديل أوامر المواقف إذا اختير النمط B من قائمة الضبط داخل اللعبة.<br><color(red)>ستطبق الإعدادات بعد حفظها.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15869	kh3_settings.keyboard	detail_0210	ac44004d	<color(red)>تم تغيير ضبط المفاتيح.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15870	kh3_settings.keyboard	detail_0220	22cb07ae	اختر مفتاحا لتعيين فعل له.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15871	kh3_settings.keyboard	detail_0230	ee610730	<color(red)>لا يمكن تعيين هذا الفعل لمفتاح آخر.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15872	kh3_settings.keyboard	detail_0300	fb4b4cbc	اضبط الشريط لتغيير الحساسية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15873	kh3_settings.keyboard	keyconfig_0010	94b89b10	تأكيد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15874	kh3_settings.keyboard	keyconfig_0020	1a379cf3	إلغاء / قفز / إفلات (أثناء التعلق)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15875	kh3_settings.keyboard	keyconfig_0030	d69d9c6d	صد / مراوغة/تدحرج (أثناء الحركة)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15876	kh3_settings.keyboard	keyconfig_0040	dc589574	استخدام أمر الموقف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15877	kh3_settings.keyboard	keyconfig_0050	10f295ea	اضغط مطولا لفتح الاختصارات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15878	kh3_settings.keyboard	keyconfig_0060	9e7d9209	تبديل التثبيت / التصويب المثبت (اضغط مطولا)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15879	kh3_settings.keyboard	keyconfig_0070	52d79297	التنقل بين أوامر المواقف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15880	kh3_settings.keyboard	keyconfig_0080	8bf7803b	تغيير هدف التثبيت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15881	kh3_settings.keyboard	keyconfig_0090	475d80a5	تحريك الشخصية: للأمام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15882	kh3_settings.keyboard	keyconfig_0100	c3b7d7e1	تحريك الشخصية: للخلف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15883	kh3_settings.keyboard	keyconfig_0110	0f1dd77f	تحريك الشخصية: لليسار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15884	kh3_settings.keyboard	keyconfig_0120	8192d09c	تحريك الشخصية: لليمين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15885	kh3_settings.keyboard	keyconfig_0130	4d38d002	تحريك الشخصية: المشي (اضغط مطولا)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15886	kh3_settings.keyboard	keyconfig_0140	47fdd91b	سفينة الغامي: دوران سريع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15887	kh3_settings.keyboard	keyconfig_0140_bbs	91ad13e2	غير معين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15888	kh3_settings.keyboard	keyconfig_0150	8b57d985	تحريك الكاميرا: لأعلى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15889	kh3_settings.keyboard	keyconfig_0160	05d8de66	تحريك الكاميرا: لأسفل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15890	kh3_settings.keyboard	keyconfig_0170	c972def8	تحريك الكاميرا: لليسار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15891	kh3_settings.keyboard	keyconfig_0180	1052cc54	تحريك الكاميرا: لليمين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15892	kh3_settings.keyboard	keyconfig_0190	dcf8ccca	إعادة ضبط الكاميرا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15893	kh3_settings.keyboard	keyconfig_0200	b4290511	تحريك المؤشر: لأعلى / التنقل بين أوامر المواقف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15894	kh3_settings.keyboard	keyconfig_0210	7883058f	تحريك المؤشر: لأسفل / التنقل بين أوامر المواقف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15895	kh3_settings.keyboard	keyconfig_0220	f60c026c	تحريك المؤشر: لليسار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15896	kh3_settings.keyboard	keyconfig_0230	3aa602f2	تحريك المؤشر: لليمين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15897	kh3_settings.keyboard	keyconfig_0240	30630beb	إيقاف مؤقت / فتح القائمة الرئيسية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15898	kh3_settings.keyboard	keyconfig_0250	fcc90b75	دخول وضع الكاميرا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15899	kh3_settings.keyboard	keyconfig_0250_bbs	125671e2	تغيير زاوية الكاميرا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15900	kh3_settings.keyboard	dialog_0010	4a0702a0	استعادة الإعدادات إلى الافتراضية?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15901	kh3_settings.keyboard	dialog_0020	c4880543	حفظ الإعدادات?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15902	kh3_settings.keyboard	dialog_0030	082205dd	أصبح فعل واحد أو أكثر غير معين.<br>حفظ الإعدادات?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15903	kh3_settings.keyboard	dialog_0040	02e70cc4	الخروج من ضبط المفاتيح?<br>لن تحفظ الإعدادات الحالية لأن فعلا واحدا أو أكثر في الأساسي غير معين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15904	kh3_settings.keyboard	dialog_0050	ce4d0c5a	تغيير تخطيط لوحة المفاتيح واستعادة إعدادات ضبط المفاتيح الافتراضية?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15905	kh3_settings.keyboard	dialog_0060	40c20bb9	استعادة حساسية الفأرة إلى الافتراضية?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15906	kh3_settings.keyboard	button_0010	09e6bf48	<icon(Kb_Ins)> استعادة الافتراضي  <icon(Kb_Del)> تراجع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15907	kh3_settings.keyboard	button_0020	8769b8ab	<icon(Kb_Ins)> استعادة الافتراضي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15908	kh3_settings.videostream	title_0010	e3c6eb2e	قبل البث...	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15909	kh3_settings.videostream	messages_0010	4916d8d9	هذه اللعبة عمل محمي بحقوق النشر. تعود حقوق النشر إلى The Walt Disney Company ومجموعة من المؤلفين الذين يمثلون The Walt Disney Company. كما تعود حقوق نشر بعض الشخصيات إلى Square Enix Co., Ltd.<br><br>يمكنك بث هذه اللعبة بحرية في سياقات غير تجارية. غير أن استخدام بث اللعبة لتقديم الموسيقى أو الاستماع إليها بصورة رئيسية محظور حتى في هذه السياقات غير التجارية.<br><br>للاطلاع على معلومات حول شروط الاستخدام المتعلقة ببث اللعبة، يرجى زيارة موقع كينغدوم هارتس الرسمي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15910	kh3_settings.videostream	url_0010	1efd8821	https://www.kingdomhearts.com/3/us/home/	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15911	kh3_settings.videostream	url_0010_bbs	2d7bee6e	https://www.kingdomhearts.com/2_8/us/	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15912	kh3_settings.videostream	detail_0010	407f9ed2	افتح المتصفح لعرض الموقع الرسمي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1

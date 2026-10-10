@@ -1,0 +1,748 @@
+id	namespace	key	source_hash	AR	status	note
+12231	kh3_item.weapon	kb_none	f6cdf2f9		todo	skip: numbers/symbols
+12232	kh3_item.weapon	kb_01	2ff751c8	مفتاح المملكة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12233	kh3_item.weapon	kb_02	3d42fe26	أصل البطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12234	kh3_item.weapon	kb_03	85fe9943	الشهاب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12235	kh3_item.weapon	kb_04	1829a1fa	النائب المفضل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12236	kh3_item.weapon	kb_05	a095c69f	إلى الأبد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12237	kh3_item.weapon	kb_06	b2206971	الترس السعيد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12238	kh3_item.weapon	kb_07	0a9c0e14	ثلج الكريستال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12239	kh3_item.weapon	kb_08	52ff1e42	إبريق العسل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12240	kh3_item.weapon	kb_09	ea437927	الترس النانوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12241	kh3_item.weapon	kb_10	5be13633	عجلة القدر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12242	kh3_item.weapon	kb_11	e35d5156	الطاهي الكبير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12243	kh3_item.weapon	kb_12	f1e8feb8	النغمة الكلاسيكية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12244	kh3_item.weapon	kb_13	495499dd	سلاح ألتيما	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12245	kh3_item.weapon	kb_14	d483a164	ضوء النجوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12246	kh3_item.weapon	kb_15	6c3fc601	مشفر العناصر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12247	kh3_item.weapon	kb_16	7e8a69ef	جوف الليل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12248	kh3_item.weapon	kb_18	9e551edc	حافظ القسم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12249	kh3_item.weapon	kb_19	26e979b9	النسيان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12250	kh3_item.weapon	donald_00	4c13ec07	عصا الساحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12251	kh3_item.weapon	donald_01	f4af8b62	عصا الساحر+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12252	kh3_item.weapon	donald_02	e61a248c	مطرقة الحرب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12253	kh3_item.weapon	donald_03	5ea643e9	مطرقة الحرب+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12254	kh3_item.weapon	donald_04	c3717b50	عصا المشعوذ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12255	kh3_item.weapon	donald_05	7bcd1c35	عصا المشعوذ+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12256	kh3_item.weapon	donald_06	6978b3db	نيرفانا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12257	kh3_item.weapon	donald_07	d1c4d4be	نيرفانا+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12258	kh3_item.weapon	donald_08	89a7c4e8	الأسطرلاب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12259	kh3_item.weapon	donald_09	311ba38d	الأسطرلاب+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12260	kh3_item.weapon	donald_10	80b9ec99	مطرقة بلا قلب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12261	kh3_item.weapon	donald_11	38058bfc	مطرقة بلا قلب+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12262	kh3_item.weapon	donald_12	2ab02412	منقذة الملكة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12263	kh3_item.weapon	donald_13	920c4377	منقذة الملكة+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12264	kh3_item.weapon	goofy_00	15026fbd	درع الفارس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12265	kh3_item.weapon	goofy_01	adbe08d8	درع الفارس+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12266	kh3_item.weapon	goofy_02	bf0ba736	درع الساعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12267	kh3_item.weapon	goofy_03	07b7c053	درع الساعة+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12268	kh3_item.weapon	goofy_04	9a60f8ea	درع النجم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12269	kh3_item.weapon	goofy_05	22dc9f8f	درع النجم+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12270	kh3_item.weapon	goofy_06	30693061	درع إيغيس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12271	kh3_item.weapon	goofy_07	88d55704	درع إيغيس+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12272	kh3_item.weapon	goofy_08	d0b64752	مرساة العاصفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12273	kh3_item.weapon	goofy_09	680a2037	مرساة العاصفة+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12274	kh3_item.weapon	goofy_10	d9a86f23	حماية اللا أحد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12275	kh3_item.weapon	goofy_11	61140846	حماية اللا أحد+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12276	kh3_item.weapon	goofy_12	73a1a7a8	منقذ الملك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12277	kh3_item.weapon	goofy_13	cb1dc0cd	منقذ الملك+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12278	kh3_item.weapon	hercules_00	bf386751	قلب البطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12279	kh3_item.weapon	woody_00	c29577d8	فخر راعي البقر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12280	kh3_item.weapon	buzz_00	1f92752b	بدلة حارس الفضاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12281	kh3_item.weapon	rupunzel_00	4c9cc1b2	الشعر الذهبي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12282	kh3_item.weapon	flynn_00	af555004	المقلاة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12283	kh3_item.weapon	sulley_00	19fe5655	المخالب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12284	kh3_item.weapon	mike_00	3f387a8b	جسد الضربة القاضية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12285	kh3_item.weapon	marshmalow_00	8e8089f7	مخالب الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12286	kh3_item.weapon	baymax_00	7c815309	البدلة المعززة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12287	kh3_item.weapon	jack_sparrow_00	f355744e	المهارة والعظميات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12288	kh3_item.weapon	detail_kb_01	a5ae42c3	أول كيبلايد لك.<br>تحولات السلاح: <color(strong)>الشكل الثاني<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12289	kh3_item.weapon	detail_kb_02	b71bed2d	كيبلايد يركز على القوة.<br>تحولات السلاح: <color(strong)>درع الرد<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12290	kh3_item.weapon	detail_kb_03	0fa78a48	كيبلايد يركز على السحر.<br>تحولات السلاح: <color(strong)>مسدسا السهام المزدوجان<color>، <color(strong)>قاذف السحر<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12291	kh3_item.weapon	detail_kb_04	9270b2f1	كيبلايد يركز على القوة.<br>تحولات السلاح: <color(strong)>المطرقة الفائقة<color>، <color(strong)>لكمة المثقاب<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12292	kh3_item.weapon	detail_kb_05	2accd594	كيبلايد يركز على السحر.<br>تحولات السلاح: <color(strong)>عصا السراب<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12293	kh3_item.weapon	detail_kb_06	38797a7a	كيبلايد يركز على القوة.<br>تحولات السلاح: <color(strong)>المخالب الرشيقة<color>، <color(strong)>اليويوان التوأمان<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12294	kh3_item.weapon	detail_kb_07	80c51d1f	كيبلايد يركز على السحر.<br>تحولات السلاح: <color(strong)>مخالب الجليد<color>، <color(strong)>نصال الجليد<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12295	kh3_item.weapon	detail_kb_08	d8a60d49	كيبلايد متوازن جيدا.<br>تحولات السلاح: <color(strong)>مدافع العسل<color>، <color(strong)>قاذف العسل<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12296	kh3_item.weapon	detail_kb_09	601a6a2c	كيبلايد متوازن جيدا.<br>تحولات السلاح: <color(strong)>الأذرع النانوية<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12297	kh3_item.weapon	detail_kb_10	d1b82538	كيبلايد يركز على القوة.<br>تحولات السلاح: <color(strong)>هايويند<color>، <color(strong)>علم العاصفة<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12298	kh3_item.weapon	detail_kb_11	6904425d	كيبلايد يركز على السحر.<br>تحولات السلاح: <color(strong)>المقلاة<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12299	kh3_item.weapon	detail_kb_12	7bb1edb3	كيبلايد يركز على السحر.<br>تحولات السلاح: <color(strong)>مطرقة الدوي<color>، <color(strong)>مثقاب الساعة<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12300	kh3_item.weapon	detail_kb_13	c30d8ad6	الكيبلايد الأسمى.<br>تحولات السلاح: <color(strong)>الشكل الأقصى<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12301	kh3_item.weapon	detail_kb_14	5edab26f	كيبلايد نجا من العصور القديمة.<br>تحولات السلاح: <color(strong)>الشكل الثاني S<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12302	kh3_item.weapon	detail_kb_15	e666d50a	كيبلايد تسري فيه قوة غامضة.<br>تحولات السلاح: <color(strong)>الشكل الثاني E<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12303	kh3_item.weapon	detail_kb_16	f4d37ae4	كيبلايد تسري فيه قوة غامضة.<br>تحولات السلاح: <color(strong)>الشكل الثاني D<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12304	kh3_item.weapon	detail_kb_18	140c0dd7	كيبلايد مشبع بقوة النور.<br>تحولات السلاح: <color(strong)>شكل النور<color>، <color(strong)>الشكل المزدوج OKP<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12305	kh3_item.weapon	detail_kb_19	acb06ab2	كيبلايد مشبع بقوة الظلام.<br>تحولات السلاح: <color(strong)>شكل الظلام<color>، <color(strong)>الشكل المزدوج OBV<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12306	kh3_item.weapon	detail_donald_00	50bf4560	عصا يستخدمها السحرة في المعارك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12307	kh3_item.weapon	detail_donald_01	e8032205	عصا يستخدمها السحرة في المعارك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12308	kh3_item.weapon	detail_donald_02	fab68deb	عصا تعزز القوة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12309	kh3_item.weapon	detail_donald_03	420aea8e	عصا تعزز القوة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12310	kh3_item.weapon	detail_donald_04	dfddd237	عصا توازن بين القوة والسحر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12311	kh3_item.weapon	detail_donald_05	6761b552	عصا توازن بين القوة والسحر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12312	kh3_item.weapon	detail_donald_06	75d41abc	عصا تمتلك سحرا عظيما.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12313	kh3_item.weapon	detail_donald_07	cd687dd9	عصا تمتلك سحرا عظيما.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12314	kh3_item.weapon	detail_donald_08	950b6d8f	عصا تمنح قوة<br>وسحرا عظيمين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12315	kh3_item.weapon	detail_donald_09	2db70aea	عصا تمنح قوة<br>وسحرا عظيمين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12316	kh3_item.weapon	detail_donald_10	9c1545fe	عصا تمنح قوة عظيمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12317	kh3_item.weapon	detail_donald_11	24a9229b	عصا تمنح قوة عظيمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12318	kh3_item.weapon	detail_donald_12	361c8d75	عصا فائقة تفيض بالسحر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12319	kh3_item.weapon	detail_donald_13	8ea0ea10	عصا فائقة تفيض بالسحر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12320	kh3_item.weapon	detail_goofy_00	e5fe4e2a	درع يستخدمه الفرسان في المعارك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12321	kh3_item.weapon	detail_goofy_01	5d42294f	درع يستخدمه الفرسان في المعارك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12322	kh3_item.weapon	detail_goofy_02	4ff786a1	درع كبير يعزز القوة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12323	kh3_item.weapon	detail_goofy_03	f74be1c4	درع كبير يعزز القوة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12324	kh3_item.weapon	detail_goofy_04	6a9cd97d	درع صغير يعزز القوة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12325	kh3_item.weapon	detail_goofy_05	d220be18	درع صغير يعزز القوة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12326	kh3_item.weapon	detail_goofy_06	c09511f6	درع كبير يمنح قوة عظيمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12327	kh3_item.weapon	detail_goofy_07	78297693	درع كبير يمنح قوة عظيمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12328	kh3_item.weapon	detail_goofy_08	204a66c5	درع صغير يمنح قوة عظيمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12329	kh3_item.weapon	detail_goofy_09	98f601a0	درع صغير يمنح قوة عظيمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12330	kh3_item.weapon	detail_goofy_10	29544eb4	درع يمنح قوة عظيمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12331	kh3_item.weapon	detail_goofy_11	91e829d1	درع يمنح قوة عظيمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12332	kh3_item.weapon	detail_goofy_12	835d863f	درع فائق يحمي من<br>أي هجوم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12333	kh3_item.weapon	detail_goofy_13	3be1e15a	درع فائق يحمي من<br>أي هجوم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12334	kh3_item.guard	item_01	aefd8549	حزام البطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12335	kh3_item.guard	item_02	bc482aa7	قفاز البطل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12336	kh3_item.guard	item_03	04f44dc2	حزام الدرع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12337	kh3_item.guard	item_04	9923757b	حزام الدفاع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12338	kh3_item.guard	item_05	219f121e	حزام الحارس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12339	kh3_item.guard	item_06	332abdf0	رباط القوة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12340	kh3_item.guard	item_07	8b96da95	رباط الكاسح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12341	kh3_item.guard	item_08	d3f5cac3	رباط الكاسح+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12342	kh3_item.guard	item_09	6b49ada6	الحزام الكوني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12343	kh3_item.guard	item_10	daebe2b2	الحزام الكوني+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12344	kh3_item.guard	item_11	625785d7	سوار النار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12345	kh3_item.guard	item_12	70e22a39	سوار النار الكبرى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12346	kh3_item.guard	item_13	c85e4d5c	سوار النار القصوى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12347	kh3_item.guard	item_14	558975e5	سلسلة النار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12348	kh3_item.guard	item_15	ed351280	طوق الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12349	kh3_item.guard	item_16	ff80bd6e	طوق الجليد القوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12350	kh3_item.guard	item_17	473cda0b	طوق الجليد الأكبر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12351	kh3_item.guard	item_18	1f5fca5d	سلسلة الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12352	kh3_item.guard	item_19	a7e3ad38	تميمة الصاعقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12353	kh3_item.guard	item_20	5464e551	تميمة الصاعقة الكبرى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12354	kh3_item.guard	item_21	ecd88234	تميمة الصاعقة القصوى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12355	kh3_item.guard	item_22	fe6d2dda	سلسلة الصاعقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12356	kh3_item.guard	item_23	46d14abf	خلخال الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12357	kh3_item.guard	item_24	db067206	خلخال منتصف الليل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12358	kh3_item.guard	item_25	63ba1563	خلخال الفوضى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12359	kh3_item.guard	item_26	710fba8d	سلسلة الظلام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12360	kh3_item.guard	item_27	c9b3dde8	عصابة إلهية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12361	kh3_item.guard	item_28	91d0cdbe	عصابة الجان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12362	kh3_item.guard	item_29	296caadb	إكليل مائي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12363	kh3_item.guard	item_30	98cee5cf	مروحة الريح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12364	kh3_item.guard	item_31	207282aa	مروحة العاصفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12365	kh3_item.guard	item_32	32c72d44	سوار الريح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12366	kh3_item.guard	item_33	8a7b4a21	سلسلة إيغيس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12367	kh3_item.guard	item_34	17ac7298	أكريسيوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12368	kh3_item.guard	item_35	af1015fd	السلسلة الكونية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12369	kh3_item.guard	item_36	bda5ba13	الشريط الصغير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12370	kh3_item.guard	item_37	0519dd76	الشريط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12371	kh3_item.guard	item_38	5d7acd20	سوار النار القوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12372	kh3_item.guard	item_39	e5c6aa45	طوق الجليد الأقصى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12373	kh3_item.guard	item_40	920becd6	تميمة الصاعقة القوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12374	kh3_item.guard	item_41	2ab78bb3	خلخال الظل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12375	kh3_item.guard	item_42	3802245d	سلسلة أباس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12376	kh3_item.guard	item_43	80be4338	أكريسيوس+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12377	kh3_item.guard	item_44	1d697b81	الشريط الملكي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12378	kh3_item.guard	item_45	a5d51ce4	وردة رجل الإطفاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12379	kh3_item.guard	item_46	b760b30a	وردة المظلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12380	kh3_item.guard	item_47	0fdcd46f	وردة القناع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12381	kh3_item.guard	item_48	57bfc439	وردة رجل الثلج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12382	kh3_item.guard	item_49	ef03a35c	وردة العازل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12383	kh3_item.guard	item_50	5ea1ec48	ثقل القوة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12384	kh3_item.guard	item_51	e61d8b2d	ثقل السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12385	kh3_item.guard	item_52	f4a824c3	حزام السيد	reviewed	unsure: Master = السيد (glossary has Master الإتقان / السيد); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12386	kh3_item.guard	detail_item_01	7576ee40	يمنح زيادة متوسطة في الدفاع،<br>وزيادة صغيرة في مقاومة<br>الصاعقة، الماء، الهواء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12387	kh3_item.guard	detail_item_02	67c341ae	يمنح زيادة كبيرة في الدفاع،<br>وزيادة صغيرة في مقاومة<br>النار، الجليد، الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12388	kh3_item.guard	detail_item_03	df7f26cb	يمنح زيادة طفيفة في الدفاع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12389	kh3_item.guard	detail_item_04	42a81e72	يمنح زيادة صغيرة في الدفاع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12390	kh3_item.guard	detail_item_05	fa147917	يمنح زيادة متوسطة في الدفاع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12391	kh3_item.guard	detail_item_06	e8a1d6f9	يمنح زيادة كبيرة في الدفاع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12392	kh3_item.guard	detail_item_07	501db19c	يمنح زيادة هائلة في الدفاع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12393	kh3_item.guard	detail_item_08	087ea1ca	يمنح زيادة هائلة في الدفاع،<br>وزيادة طفيفة في جميع المقاومات<br>عدا مقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12394	kh3_item.guard	detail_item_09	b0c2c6af	يمنح زيادة مذهلة في الدفاع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12395	kh3_item.guard	detail_item_10	016089bb	يمنح زيادة مذهلة في الدفاع، وزيادة<br>طفيفة في جميع المقاومات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12396	kh3_item.guard	detail_item_11	b9dceede	يمنح زيادة صغيرة في الدفاع<br>ومقاومة النار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12397	kh3_item.guard	detail_item_12	ab694130	يمنح زيادة كبيرة في الدفاع<br>ومقاومة النار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12398	kh3_item.guard	detail_item_13	13d52655	يمنح زيادة هائلة في الدفاع<br>ومقاومة النار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12399	kh3_item.guard	detail_item_14	8e021eec	يمنح زيادة طفيفة في الدفاع، وزيادة<br>مذهلة في مقاومة النار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12400	kh3_item.guard	detail_item_15	36be7989	يمنح زيادة صغيرة في الدفاع<br>ومقاومة الجليد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12401	kh3_item.guard	detail_item_16	240bd667	يمنح زيادة متوسطة في الدفاع<br>ومقاومة الجليد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12402	kh3_item.guard	detail_item_17	9cb7b102	يمنح زيادة كبيرة في الدفاع<br>ومقاومة الجليد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12403	kh3_item.guard	detail_item_18	c4d4a154	يمنح زيادة طفيفة في الدفاع، وزيادة<br>مذهلة في مقاومة الجليد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12404	kh3_item.guard	detail_item_19	7c68c631	يمنح زيادة صغيرة في الدفاع<br>ومقاومة الصاعقة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12405	kh3_item.guard	detail_item_20	8fef8e58	يمنح زيادة كبيرة في الدفاع<br>ومقاومة الصاعقة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12406	kh3_item.guard	detail_item_21	3753e93d	يمنح زيادة هائلة في الدفاع<br>ومقاومة الصاعقة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12407	kh3_item.guard	detail_item_22	25e646d3	يمنح زيادة طفيفة في الدفاع، وزيادة<br>مذهلة في مقاومة الصاعقة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12408	kh3_item.guard	detail_item_23	9d5a21b6	يمنح زيادة متوسطة في الدفاع<br>ومقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12409	kh3_item.guard	detail_item_24	008d190f	يمنح زيادة كبيرة في الدفاع<br>ومقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12410	kh3_item.guard	detail_item_25	b8317e6a	يمنح زيادة هائلة في الدفاع<br>ومقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12411	kh3_item.guard	detail_item_26	aa84d184	يمنح زيادة طفيفة في الدفاع، وزيادة<br>مذهلة في مقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12412	kh3_item.guard	detail_item_27	1238b6e1	يمنح زيادة كبيرة في الدفاع<br>ومقاومة الماء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12413	kh3_item.guard	detail_item_28	4a5ba6b7	يمنح زيادة صغيرة في الدفاع<br>ومقاومة الماء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12414	kh3_item.guard	detail_item_29	f2e7c1d2	يمنح زيادة طفيفة في الدفاع، وزيادة<br>مذهلة في مقاومة الماء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12415	kh3_item.guard	detail_item_30	43458ec6	يمنح زيادة صغيرة في الدفاع<br>ومقاومة الهواء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12416	kh3_item.guard	detail_item_31	fbf9e9a3	يمنح زيادة كبيرة في الدفاع<br>ومقاومة الهواء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12417	kh3_item.guard	detail_item_32	e94c464d	يمنح زيادة طفيفة في الدفاع، وزيادة<br>مذهلة في مقاومة الهواء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12418	kh3_item.guard	detail_item_33	51f02128	يمنح زيادة صغيرة في الدفاع وجميع<br>المقاومات عدا مقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12419	kh3_item.guard	detail_item_34	cc271991	يمنح زيادة متوسطة في الدفاع،<br>وزيادة صغيرة في جميع المقاومات<br>عدا مقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12420	kh3_item.guard	detail_item_35	749b7ef4	يمنح زيادة هائلة في الدفاع،<br>وزيادة صغيرة في جميع المقاومات<br>عدا مقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12421	kh3_item.guard	detail_item_36	662ed11a	يمنح زيادة صغيرة في الدفاع<br>وجميع المقاومات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12422	kh3_item.guard	detail_item_37	de92b67f	يمنح زيادة متوسطة في الدفاع، وزيادة<br>كبيرة في جميع المقاومات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12423	kh3_item.guard	detail_item_38	86f1a629	يمنح زيادة متوسطة في<br>الدفاع ومقاومة النار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12424	kh3_item.guard	detail_item_39	3e4dc14c	يمنح زيادة هائلة في الدفاع<br>ومقاومة الجليد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12425	kh3_item.guard	detail_item_40	498087df	يمنح زيادة متوسطة في الدفاع<br>ومقاومة الصاعقة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12426	kh3_item.guard	detail_item_41	f13ce0ba	يمنح زيادة صغيرة في الدفاع<br>ومقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12427	kh3_item.guard	detail_item_42	e3894f54	يمنح زيادة طفيفة في الدفاع،<br>وزيادة صغيرة في جميع المقاومات<br>عدا مقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12428	kh3_item.guard	detail_item_43	5b352831	يمنح زيادة كبيرة في الدفاع،<br>وزيادة صغيرة في جميع المقاومات<br>عدا مقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12429	kh3_item.guard	detail_item_44	c6e21088	يمنح زيادة كبيرة في الدفاع، وزيادة<br>هائلة في جميع المقاومات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12430	kh3_item.guard	detail_item_45	7e5e77ed	يمنح زيادة صغيرة في الدفاع<br>ومقاومة النار، وزيادة<br>طفيفة في مقاومة الظلام.	reviewed	unsure: Resistance = مقاومة (no glossary entry); amount words slight..incredible = طفيفة..مذهلة; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12431	kh3_item.guard	detail_item_46	6cebd803	يمنح زيادة صغيرة في الدفاع<br>ومقاومة الماء، وزيادة<br>طفيفة في مقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12432	kh3_item.guard	detail_item_47	d457bf66	يمنح زيادة صغيرة في الدفاع<br>ومقاومة الهواء، وزيادة<br>طفيفة في مقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12433	kh3_item.guard	detail_item_48	8c34af30	يمنح زيادة صغيرة في الدفاع<br>ومقاومة الجليد، وزيادة<br>طفيفة في مقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12434	kh3_item.guard	detail_item_49	3488c855	يمنح زيادة صغيرة في الدفاع<br>ومقاومة الصاعقة، وزيادة<br>طفيفة في مقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12435	kh3_item.guard	detail_item_50	852a8741	يمنح زيادة متوسطة في القوة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12436	kh3_item.guard	detail_item_51	3d96e024	يمنح زيادة متوسطة في السحر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12437	kh3_item.guard	detail_item_52	2f234fca	يمنح زيادة مذهلة في الدفاع، وزيادة<br>صغيرة في مقاومة الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12438	kh3_item.accessary	item_01	aefd8549	دبوس الضحك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12439	kh3_item.accessary	item_02	bc482aa7	مشبك الغابة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12440	kh3_item.accessary	item_03	04f44dc2	خاتم القدرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12441	kh3_item.accessary	item_04	9923757b	خاتم القدرة+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12442	kh3_item.accessary	item_05	219f121e	خاتم الفني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12443	kh3_item.accessary	item_06	332abdf0	خاتم الفني+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12444	kh3_item.accessary	item_07	8b96da95	خاتم المهارة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12445	kh3_item.accessary	item_08	d3f5cac3	خاتم المهارة+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12446	kh3_item.accessary	item_09	6b49ada6	خاتم الخبير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12447	kh3_item.accessary	item_10	daebe2b2	خاتم السيد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12448	kh3_item.accessary	item_11	625785d7	الخاتم الكوني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12449	kh3_item.accessary	item_12	70e22a39	خاتم القوة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12450	kh3_item.accessary	item_13	c85e4d5c	خاتم الكاسح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12451	kh3_item.accessary	item_14	558975e5	خاتم الشجاعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12452	kh3_item.accessary	item_15	ed351280	خاتم الشبح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12453	kh3_item.accessary	item_16	ff80bd6e	خاتم الأوريكالكوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12454	kh3_item.accessary	item_17	473cda0b	خاتم السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12455	kh3_item.accessary	item_18	1f5fca5d	خاتم الرون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12456	kh3_item.accessary	item_19	a7e3ad38	خاتم الطاقة	reviewed	unsure: Force Ring = خاتم الطاقة; Power Ring is خاتم القوة; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12457	kh3_item.accessary	item_20	5464e551	خاتم الساحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12458	kh3_item.accessary	item_21	ecd88234	خاتم الحكمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12459	kh3_item.accessary	item_22	fe6d2dda	قلادة برونزية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12460	kh3_item.accessary	item_23	46d14abf	قلادة فضية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12461	kh3_item.accessary	item_24	db067206	قلادة السيد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12462	kh3_item.accessary	item_25	63ba1563	تعويذة برونزية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12463	kh3_item.accessary	item_26	710fba8d	تعويذة فضية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12464	kh3_item.accessary	item_27	c9b3dde8	تعويذة ذهبية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12465	kh3_item.accessary	item_28	91d0cdbe	ميدالية المبتدئ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12466	kh3_item.accessary	item_29	296caadb	ميدالية السيد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12467	kh3_item.accessary	item_30	98cee5cf	ميدالية النجمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12468	kh3_item.accessary	item_31	207282aa	مشبك ميكي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12469	kh3_item.accessary	item_32	32c72d44	قرط الجندي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12470	kh3_item.accessary	item_33	8a7b4a21	قرط المبارز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12471	kh3_item.accessary	item_34	17ac7298	قرط الساحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12472	kh3_item.accessary	item_35	af1015fd	قرط القاتل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12473	kh3_item.accessary	item_36	bda5ba13	تعويذة القمر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12474	kh3_item.accessary	item_37	0519dd76	تميمة النجمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12475	kh3_item.accessary	item_38	5d7acd20	الفنون الكونية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12476	kh3_item.accessary	item_39	e5c6aa45	شارة الكريستال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12477	kh3_item.accessary	item_40	920becd6	زر كم الماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12478	kh3_item.accessary	item_41	2ab78bb3	زر كم الصاعقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12479	kh3_item.accessary	item_42	3802245d	زر كم النار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12480	kh3_item.accessary	item_43	80be4338	زر كم الريح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12481	kh3_item.accessary	item_44	1d697b81	زر كم الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12482	kh3_item.accessary	item_45	a5d51ce4	سيليستريد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12483	kh3_item.accessary	item_46	b760b30a	زر كم الين واليانغ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12484	kh3_item.accessary	item_47	0fdcd46f	خاتم الذواق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12485	kh3_item.accessary	item_48	57bfc439	خاتم السحب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12486	kh3_item.accessary	item_49	ef03a35c	خاتم الحظ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12487	kh3_item.accessary	item_50	5ea1ec48	شارة ذكرى البودينغ	reviewed	unsure: pun flan + anniversary approximated; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12488	kh3_item.accessary	item_57	c376d4f1	الاختراق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12489	kh3_item.accessary	item_58	9b15c4a7	شارة الكريستال+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12490	kh3_item.accessary	detail_item_01	7576ee40	يمنح زيادة متوسطة في القوة،<br>وزيادة صغيرة في السحر،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12491	kh3_item.accessary	detail_item_02	67c341ae	يمنح زيادة صغيرة في القوة،<br>وزيادة متوسطة في السحر،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12492	kh3_item.accessary	detail_item_03	df7f26cb	يمنح زيادة طفيفة في القوة،<br>وزيادة صغيرة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12493	kh3_item.accessary	detail_item_04	42a81e72	يمنح زيادة طفيفة في القوة والسحر،<br>وزيادة صغيرة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12494	kh3_item.accessary	detail_item_05	fa147917	يمنح زيادة طفيفة في<br>القوة والسحر، وزيادة<br>متوسطة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12495	kh3_item.accessary	detail_item_06	e8a1d6f9	يمنح زيادة صغيرة في القوة،<br>وزيادة طفيفة في السحر، وزيادة<br>متوسطة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12496	kh3_item.accessary	detail_item_07	501db19c	يمنح زيادة طفيفة في القوة والسحر،<br>وزيادة كبيرة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12497	kh3_item.accessary	detail_item_08	087ea1ca	يمنح زيادة صغيرة في القوة،<br>وزيادة طفيفة في السحر،<br>وزيادة كبيرة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12498	kh3_item.accessary	detail_item_09	b0c2c6af	يمنح زيادة طفيفة في القوة،<br>وزيادة متوسطة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12499	kh3_item.accessary	detail_item_10	016089bb	يمنح زيادة صغيرة في القوة،<br>وزيادة هائلة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12500	kh3_item.accessary	detail_item_11	b9dceede	يمنح زيادة متوسطة في القوة،<br>وزيادة مذهلة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12501	kh3_item.accessary	detail_item_12	ab694130	يمنح زيادة صغيرة في القوة،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12502	kh3_item.accessary	detail_item_13	13d52655	يمنح زيادة متوسطة في القوة،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12503	kh3_item.accessary	detail_item_14	8e021eec	يمنح زيادة كبيرة في القوة،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12504	kh3_item.accessary	detail_item_15	36be7989	يمنح زيادة هائلة في القوة،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12505	kh3_item.accessary	detail_item_16	240bd667	يمنح زيادة مذهلة في القوة،<br>وزيادة صغيرة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12506	kh3_item.accessary	detail_item_17	9cb7b102	يمنح زيادة صغيرة في السحر،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12507	kh3_item.accessary	detail_item_18	c4d4a154	يمنح زيادة متوسطة في السحر،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12508	kh3_item.accessary	detail_item_19	7c68c631	يمنح زيادة كبيرة في السحر،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12509	kh3_item.accessary	detail_item_20	8fef8e58	يمنح زيادة هائلة في السحر،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12510	kh3_item.accessary	detail_item_21	3753e93d	يمنح زيادة هائلة في السحر،<br>وزيادة صغيرة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12511	kh3_item.accessary	detail_item_22	25e646d3	يمنح مجموعة متنوعة من المكافآت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12512	kh3_item.accessary	detail_item_23	9d5a21b6	قلادة فائقة تمنح<br>مجموعة متنوعة من المكافآت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12513	kh3_item.accessary	detail_item_24	008d190f	قلادة لا مثيل لها تمنح<br>مجموعة متنوعة من المكافآت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12514	kh3_item.accessary	detail_item_25	b8317e6a	يمنح زيادة طفيفة في القوة،<br>السحر وأقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12515	kh3_item.accessary	detail_item_26	aa84d184	يمنح زيادة طفيفة في القوة،<br>السحر وأقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12516	kh3_item.accessary	detail_item_27	1238b6e1	يمنح زيادة طفيفة في القوة،<br>السحر وأقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12517	kh3_item.accessary	detail_item_28	4a5ba6b7	يمنح مجموعة متنوعة من المكافآت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12518	kh3_item.accessary	detail_item_29	f2e7c1d2	ميدالية فائقة تمنح مجموعة<br>متنوعة من المكافآت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12519	kh3_item.accessary	detail_item_30	43458ec6	ميدالية لا مثيل لها تمنح<br>مجموعة متنوعة من المكافآت.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12520	kh3_item.accessary	detail_item_31	fbf9e9a3	يمنح زيادة متوسطة في القوة،<br>وزيادة هائلة في السحر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12521	kh3_item.accessary	detail_item_32	e94c464d	يمنح زيادة متوسطة في<br>القوة، وزيادة طفيفة<br>في السحر وأقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12522	kh3_item.accessary	detail_item_33	51f02128	يمنح زيادة كبيرة في القوة،<br>وزيادة صغيرة في السحر،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12523	kh3_item.accessary	detail_item_34	cc271991	يمنح زيادة متوسطة في<br>السحر، وزيادة طفيفة<br>في القوة وأقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12524	kh3_item.accessary	detail_item_35	749b7ef4	يمنح زيادة صغيرة في القوة،<br>وزيادة كبيرة في السحر،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12525	kh3_item.accessary	detail_item_36	662ed11a	يمنح زيادة صغيرة في القوة والسحر،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12526	kh3_item.accessary	detail_item_37	de92b67f	يمنح زيادة متوسطة في<br>القوة والسحر، وزيادة<br>صغيرة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12527	kh3_item.accessary	detail_item_38	86f1a629	يمنح زيادة كبيرة في القوة والسحر،<br>وزيادة صغيرة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12528	kh3_item.accessary	detail_item_39	3e4dc14c	يمنح زيادة هائلة في القوة والسحر،<br>وزيادة صغيرة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12529	kh3_item.accessary	detail_item_40	498087df	يمنح زيادة طفيفة في<br>السحر وأقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12530	kh3_item.accessary	detail_item_41	f13ce0ba	يمنح زيادة طفيفة في<br>السحر وأقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12531	kh3_item.accessary	detail_item_42	e3894f54	يمنح زيادة طفيفة في<br>السحر وأقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12532	kh3_item.accessary	detail_item_43	5b352831	يمنح زيادة طفيفة في<br>السحر وأقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12533	kh3_item.accessary	detail_item_44	c6e21088	يمنح زيادة طفيفة في<br>السحر وأقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12534	kh3_item.accessary	detail_item_45	7e5e77ed	يمنح زيادة صغيرة في القوة،<br>وزيادة متوسطة في السحر،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12535	kh3_item.accessary	detail_item_46	6cebd803	يمنح زيادة صغيرة في القوة،<br>وزيادة متوسطة في السحر،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12536	kh3_item.accessary	detail_item_47	d457bf66	يمنح زيادة طفيفة في القوة،<br>السحر وأقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12537	kh3_item.accessary	detail_item_48	8c34af30	يمنح زيادة صغيرة في<br>السحر، وزيادة طفيفة<br>في القوة وأقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12538	kh3_item.accessary	detail_item_49	3488c855	يمنح زيادة طفيفة في القوة،<br>السحر وأقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12539	kh3_item.accessary	detail_item_50	852a8741	يمنح زيادة كبيرة<br>في القوة والسحر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12540	kh3_item.accessary	detail_item_57	18fdbff8	يمنح زيادة مذهلة في القوة،<br>وزيادة صغيرة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12541	kh3_item.accessary	detail_item_58	409eafae	يمنح زيادة مذهلة في<br>القوة والسحر، وزيادة<br>متوسطة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12542	kh3_item.battle	potion	3ba5aace	جرعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12543	kh3_item.battle	hipotion	7a779674	جرعة قوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12544	kh3_item.battle	megapotion	09fca9e8	جرعة كبيرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12545	kh3_item.battle	ether	776f982f	إيثر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12546	kh3_item.battle	megaether	2cf9c4fd	إيثر كبير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12547	kh3_item.battle	elixir	a7345fb5	إكسير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12548	kh3_item.battle	lastelixir	72973a39	ميجاليكسير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12549	kh3_item.battle	focussupplement	2eb6f72d	مجدد التركيز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12550	kh3_item.battle	hifocussupplement	49bdf8f0	مجدد التركيز القوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12551	kh3_item.battle	allcure	0bdb5b81	ترياق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12552	kh3_item.battle	hiether	25872515	إيثر قوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12553	kh3_item.battle	tent	76212a91	خيمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12554	kh3_item.battle	powerup	d190c0e6	تعزيز القوة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12555	kh3_item.battle	magicup	726b4727	تعزيز السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12556	kh3_item.battle	guardup	2685d5ee	تعزيز الدفاع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12557	kh3_item.battle	apup	d057e9df	تعزيز AP	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12558	kh3_item.battle	detail_potion	94d0bcc5	يستعيد 80 HP لأحد زملاء الفريق.<br><color(strong)>(قابل للتجهيز)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12559	kh3_item.battle	detail_hipotion	8a8bb7e3	يستعيد 160 HP لأحد زملاء الفريق.<br><color(strong)>(قابل للتجهيز)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12560	kh3_item.battle	detail_megapotion	6f17af17	يستعيد 160 HP للفريق بأكمله.<br><color(strong)>(قابل للتجهيز)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12561	kh3_item.battle	detail_ether	fd368b24	يستعيد 100 MP لأحد زملاء الفريق.<br>إذا كنت تشحن MP فإنه يستعيد<br>نصف العداد. <color(strong)>(قابل للتجهيز)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12562	kh3_item.battle	detail_megaether	30556d9a	يستعيد MP بالكامل للفريق بأكمله.<br><color(strong)>(قابل للتجهيز)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12563	kh3_item.battle	detail_elixir	084149be	يستعيد HP/MP/التركيز بالكامل لأحد<br>زملاء الفريق ويزيل جميع<br>الحالات السلبية. <color(strong)>(قابل للتجهيز)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12564	kh3_item.battle	detail_lastelixir	147c3cc6	يستعيد HP/MP/التركيز بالكامل للفريق<br>بأكمله ويزيل جميع<br>الحالات السلبية. <color(strong)>(قابل للتجهيز)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12565	kh3_item.battle	detail_focussupplement	0b602ab2	يستعيد 40% من عداد التركيز.<br><color(strong)>(قابل للتجهيز)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12566	kh3_item.battle	detail_hifocussupplement	b84f636e	يستعيد عداد التركيز بالكامل.<br><color(strong)>(قابل للتجهيز)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12567	kh3_item.battle	detail_allcure	d0503088	يزيل جميع الحالات السلبية<br>عن أحد زملاء الفريق ويمنحه<br>مناعة مؤقتة. <color(strong)>(قابل للتجهيز)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12568	kh3_item.battle	detail_hiether	fe0c4e1c	يستعيد MP بالكامل لأحد زملاء الفريق.<br>إذا كنت تشحن MP فإنه يستعيد<br>العداد بالكامل. <color(strong)>(قابل للتجهيز)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12569	kh3_item.battle	detail_tent	869827b3	يستعيد HP/MP/التركيز بالكامل للفريق<br>بأكمله. استخدم هذا الغرض من القائمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12570	kh3_item.battle	detail_powerup	0a1babef	يرفع القوة بمقدار 1 بصورة دائمة.<br>استخدم هذا الغرض من القائمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12571	kh3_item.battle	detail_magicup	a9e02c2e	يرفع السحر بمقدار 1 بصورة دائمة.<br>استخدم هذا الغرض من القائمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12572	kh3_item.battle	detail_guardup	fd0ebee7	يرفع الدفاع بمقدار 1 بصورة دائمة.<br>استخدم هذا الغرض من القائمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12573	kh3_item.battle	detail_apup	20eee4fd	يرفع أقصى AP بمقدار 1 بصورة دائمة.<br>استخدم هذا الغرض من القائمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12574	kh3_item.material	item_01	aefd8549	شظية مشتعلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12575	kh3_item.material	item_02	bc482aa7	حجر مشتعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12576	kh3_item.material	item_03	04f44dc2	جوهرة مشتعلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12577	kh3_item.material	item_04	9923757b	بلورة مشتعلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12578	kh3_item.material	item_05	219f121e	شظية جليدية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12579	kh3_item.material	item_06	332abdf0	حجر جليدي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12580	kh3_item.material	item_07	8b96da95	جوهرة جليدية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12581	kh3_item.material	item_08	d3f5cac3	بلورة جليدية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12582	kh3_item.material	item_09	6b49ada6	شظية برقية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12583	kh3_item.material	item_10	daebe2b2	حجر برقي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12584	kh3_item.material	item_11	625785d7	جوهرة برقية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12585	kh3_item.material	item_12	70e22a39	بلورة برقية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12586	kh3_item.material	item_13	c85e4d5c	شظية صافية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12587	kh3_item.material	item_14	558975e5	حجر صاف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12588	kh3_item.material	item_15	ed351280	جوهرة صافية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12589	kh3_item.material	item_16	ff80bd6e	بلورة صافية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12590	kh3_item.material	item_17	473cda0b	شظية نابضة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12591	kh3_item.material	item_18	1f5fca5d	حجر نابض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12592	kh3_item.material	item_19	a7e3ad38	جوهرة نابضة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12593	kh3_item.material	item_20	5464e551	بلورة نابضة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12594	kh3_item.material	item_21	ecd88234	شظية متلوية	reviewed	unsure: Writhing = متلوية; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12595	kh3_item.material	item_22	fe6d2dda	حجر متلو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12596	kh3_item.material	item_23	46d14abf	جوهرة متلوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12597	kh3_item.material	item_24	db067206	بلورة متلوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12598	kh3_item.material	item_25	63ba1563	شظية برزخية	reviewed	unsure: Betwixt = برزخية (invented adjective); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12599	kh3_item.material	item_26	710fba8d	حجر برزخي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12600	kh3_item.material	item_27	c9b3dde8	جوهرة برزخية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12601	kh3_item.material	item_28	91d0cdbe	بلورة برزخية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12602	kh3_item.material	item_29	296caadb	شظية الشفق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12603	kh3_item.material	item_30	98cee5cf	حجر الشفق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12604	kh3_item.material	item_31	207282aa	جوهرة الشفق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12605	kh3_item.material	item_32	32c72d44	بلورة الشفق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12606	kh3_item.material	item_33	8a7b4a21	شظية الميثريل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12607	kh3_item.material	item_34	17ac7298	حجر الميثريل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12608	kh3_item.material	item_35	af1015fd	جوهرة الميثريل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12609	kh3_item.material	item_36	bda5ba13	بلورة الميثريل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12610	kh3_item.material	item_37	0519dd76	شظية شريرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12611	kh3_item.material	item_38	5d7acd20	حجر شرير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12612	kh3_item.material	item_39	e5c6aa45	جوهرة شريرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12613	kh3_item.material	item_40	920becd6	بلورة شريرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12614	kh3_item.material	item_41	2ab78bb3	شظية مهدئة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12615	kh3_item.material	item_42	3802245d	حجر مهدئ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12616	kh3_item.material	item_43	80be4338	جوهرة مهدئة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12617	kh3_item.material	item_44	1d697b81	بلورة مهدئة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12618	kh3_item.material	item_45	a5d51ce4	شظية النبع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12619	kh3_item.material	item_46	b760b30a	حجر النبع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12620	kh3_item.material	item_47	0fdcd46f	جوهرة النبع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12621	kh3_item.material	item_48	57bfc439	بلورة النبع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12622	kh3_item.material	item_49	ef03a35c	شظية جائعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12623	kh3_item.material	item_50	5ea1ec48	حجر جائع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12624	kh3_item.material	item_51	e61d8b2d	جوهرة جائعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12625	kh3_item.material	item_52	f4a824c3	بلورة جائعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12626	kh3_item.material	item_53	4c1443a6	فلوريت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12627	kh3_item.material	item_54	d1c37b1f	الدمشقي	reviewed	unsure: Damascus ore = الدمشقي; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12628	kh3_item.material	item_55	697f1c7a	أدامانتيت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12629	kh3_item.material	item_56	7bcab394	أوريكالكوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12630	kh3_item.material	item_57	c376d4f1	أوريكالكوم+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12631	kh3_item.material	item_58	9b15c4a7	إلكتروم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12632	kh3_item.material	item_59	23a9a3c2	بلورة زائلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12633	kh3_item.material	item_60	d02eebab	بلورة وهمية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12634	kh3_item.material	detail_item_01	7576ee40	شظية من السحر دافئة عند<br>اللمس. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12635	kh3_item.material	detail_item_02	67c341ae	حجر متشظ مشبع بالنار.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12636	kh3_item.material	detail_item_03	df7f26cb	جوهرة رفيعة بالكاد تحتوي<br>اللهب بداخلها. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12637	kh3_item.material	detail_item_04	42a81e72	بلورة معجزة تشكلت من نار خالصة.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12638	kh3_item.material	detail_item_05	fa147917	شظية من السحر باردة عند اللمس.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12639	kh3_item.material	detail_item_06	e8a1d6f9	حجر متشظ مشبع بالجليد.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12640	kh3_item.material	detail_item_07	501db19c	جوهرة رفيعة بالكاد تحتوي<br>البرد بداخلها. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12641	kh3_item.material	detail_item_08	087ea1ca	بلورة معجزة تشكلت من برد خالص.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12642	kh3_item.material	detail_item_09	b0c2c6af	شظية من السحر تحدث وخزا عند الإمساك بها.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12643	kh3_item.material	detail_item_10	016089bb	حجر متشظ مشبع بالبرق.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12644	kh3_item.material	detail_item_11	b9dceede	جوهرة رفيعة بالكاد تحتوي<br>الكهرباء بداخلها. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12645	kh3_item.material	detail_item_12	ab694130	بلورة معجزة تشكلت من<br>برق خالص. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12646	kh3_item.material	detail_item_13	13d52655	شظية من السحر تتلألأ<br>بالوعد. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12647	kh3_item.material	detail_item_14	8e021eec	حجر متشظ مشبع بالنور.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12648	kh3_item.material	detail_item_15	36be7989	جوهرة رفيعة بالكاد تحتوي<br>الإشعاع بداخلها. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12649	kh3_item.material	detail_item_16	240bd667	بلورة معجزة تشكلت من نور خالص.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12650	kh3_item.material	detail_item_17	9cb7b102	شظية من السحر تهدر<br>بالقوة. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12651	kh3_item.material	detail_item_18	c4d4a154	حجر متشظ مشبع بالبأس.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12652	kh3_item.material	detail_item_19	7c68c631	جوهرة رفيعة بالكاد تحتوي<br>القوة بداخلها. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12653	kh3_item.material	detail_item_20	8fef8e58	بلورة معجزة تشكلت من<br>بأس خالص. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12654	kh3_item.material	detail_item_21	3753e93d	شظية من السحر تبقى غارقة في<br>الظل. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12655	kh3_item.material	detail_item_22	25e646d3	حجر متشظ مشبع بالظلام.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12656	kh3_item.material	detail_item_23	9d5a21b6	جوهرة رفيعة بالكاد تحتوي<br>السواد بداخلها. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12657	kh3_item.material	detail_item_24	008d190f	بلورة معجزة تشكلت من<br>ظلام خالص. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12658	kh3_item.material	detail_item_25	b8317e6a	شظية من السحر بطاقة ليست<br>نورا خالصا ولا ظلاما خالصا. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12659	kh3_item.material	detail_item_26	aa84d184	حجر متشظ مشبع بالغموض.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12660	kh3_item.material	detail_item_27	1238b6e1	جوهرة رفيعة بالكاد تحتوي<br>الريبة بداخلها. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12661	kh3_item.material	detail_item_28	4a5ba6b7	بلورة معجزة تشكلت من<br>غموض خالص. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12662	kh3_item.material	detail_item_29	f2e7c1d2	شظية من السحر تتوهج كالشمس<br>الغاربة. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12663	kh3_item.material	detail_item_30	43458ec6	حجر متشظ مشبع بالشفق.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12664	kh3_item.material	detail_item_31	fbf9e9a3	جوهرة رفيعة بالكاد تحتوي<br>الشفق بداخلها. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12665	kh3_item.material	detail_item_32	e94c464d	بلورة معجزة تشكلت من<br>شفق خالص. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12666	kh3_item.material	detail_item_33	51f02128	شظية من خام الميثريل.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12667	kh3_item.material	detail_item_34	cc271991	قطعة متشظية من خام الميثريل. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12668	kh3_item.material	detail_item_35	749b7ef4	جوهرة رفيعة من الميثريل المكرر.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12669	kh3_item.material	detail_item_36	662ed11a	بلورة معجزة تشكلت من<br>ميثريل خالص. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12670	kh3_item.material	detail_item_37	de92b67f	شظية من السحر تبث أفكارا<br>مزعجة. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12671	kh3_item.material	detail_item_38	86f1a629	حجر متشظ مشبع بطاقة<br>شريرة. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12672	kh3_item.material	detail_item_39	3e4dc14c	جوهرة رفيعة بالكاد تحتوي<br>الشر بداخلها. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12673	kh3_item.material	detail_item_40	498087df	بلورة معجزة تشكلت من<br>شر خالص. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12674	kh3_item.material	detail_item_41	f13ce0ba	شظية من السحر تطن بالحياة.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12675	kh3_item.material	detail_item_42	e3894f54	حجر متشظ مشبع بالحيوية.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12676	kh3_item.material	detail_item_43	5b352831	جوهرة رفيعة بالكاد تحتوي<br>النشاط بداخلها. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12677	kh3_item.material	detail_item_44	c6e21088	بلورة معجزة تشكلت من<br>حيوية خالصة. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12678	kh3_item.material	detail_item_45	7e5e77ed	شظية من السحر يعتز بها<br>المحاربون. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12679	kh3_item.material	detail_item_46	6cebd803	حجر متشظ مشبع بالشجاعة.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12680	kh3_item.material	detail_item_47	d457bf66	جوهرة رفيعة بالكاد تحتوي<br>الروح القتالية بداخلها.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12681	kh3_item.material	detail_item_48	8c34af30	بلورة معجزة تشكلت من<br>شجاعة خالصة. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12682	kh3_item.material	detail_item_49	3488c855	شظية من السحر تحلم<br>بالاكتمال. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12683	kh3_item.material	detail_item_50	852a8741	حجر متشظ يتوق إلى الاكتمال.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12684	kh3_item.material	detail_item_51	3d96e024	جوهرة رفيعة بالكاد تحتوي<br>الشوق بداخلها. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12685	kh3_item.material	detail_item_52	2f234fca	بلورة معجزة تشكلت من<br>توق خالص. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12686	kh3_item.material	detail_item_53	979f28af	قطعة خام تتوهج بلطف.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12687	kh3_item.material	detail_item_54	0a481016	قطعة خام صلبة ومتينة. <color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12688	kh3_item.material	detail_item_55	b2f47773	قطعة خام كئيبة.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12689	kh3_item.material	detail_item_56	a041d89d	قطعة خام ثمينة.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12690	kh3_item.material	detail_item_57	18fdbff8	قطعة خام ثمينة للغاية.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12691	kh3_item.material	detail_item_58	409eafae	قطعة خام تشع نورا ذهبيا.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12692	kh3_item.material	detail_item_59	f822c8cb	بلورة معجزة تشكلت من<br>أفكار مجردة من الجسد.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12693	kh3_item.material	detail_item_60	0ba580a2	بلورة معجزة تشكلت من<br>أفكار لا توصف.<br><color(strong)>(مادة تركيب)<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12694	kh3_item.food	fdstuff_0010	c4d15d79	سلطعون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12695	kh3_item.food	fdstuff_0020	4a5e5a9a	محار الإسكالوب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12696	kh3_item.food	fdstuff_0030	86f45a04	كركند	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12697	kh3_item.food	fdstuff_0040	8c31531d	سمك موسى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12698	kh3_item.food	fdstuff_0050	409b5383	ثعبان البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12699	kh3_item.food	fdstuff_0060	ce145460	قاروص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12700	kh3_item.food	fdstuff_0070	02be54fe	بلح البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12701	kh3_item.food	fdstuff_0080	db9e4652	سمك القد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12702	kh3_item.food	fdstuff_0090	173446cc	قرع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12703	kh3_item.food	fdstuff_0100	93de1188	كوسا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12704	kh3_item.food	fdstuff_0110	5f741116	بصل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12705	kh3_item.food	fdstuff_0120	d1fb16f5	طماطم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12706	kh3_item.food	fdstuff_0130	1d51166b	باذنجان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12707	kh3_item.food	fdstuff_0140	17941f72	جزر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12708	kh3_item.food	fdstuff_0150	db3e1fec	ثوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12709	kh3_item.food	fdstuff_0160	55b1180f	كرفس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12710	kh3_item.food	fdstuff_0170	991b1891	مورل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12711	kh3_item.food	fdstuff_0180	403b0a3d	بورتشيني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12712	kh3_item.food	fdstuff_0190	8c910aa3	شانتيريل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12713	kh3_item.food	fdstuff_0200	e440c378	بورتوبيلو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12714	kh3_item.food	fdstuff_0210	28eac3e6	الكمأة السوداء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12715	kh3_item.food	fdstuff_0220	a665c405	فطر المحار الملكي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12716	kh3_item.food	fdstuff_0230	6acfc49b	البوق الأسود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12717	kh3_item.food	fdstuff_0240	600acd82	فطر الطحان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12718	kh3_item.food	fdstuff_0250	aca0cd1c	قرنفل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12719	kh3_item.food	fdstuff_0260	222fcaff	إكليل الجبل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12720	kh3_item.food	fdstuff_0270	ee85ca61	زعتر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12721	kh3_item.food	fdstuff_0280	37a5d8cd	ورق الغار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12722	kh3_item.food	fdstuff_0290	fb0fd853	ريحان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12723	kh3_item.food	fdstuff_0300	7fe58f17	شبت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12724	kh3_item.food	fdstuff_0310	b34f8f89	بقدونس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12725	kh3_item.food	fdstuff_0320	3dc0886a	زعفران	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12726	kh3_item.food	fdstuff_0330	f16a88f4	مشمش	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12727	kh3_item.food	fdstuff_0340	fbaf81ed	عنب الثعلب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12728	kh3_item.food	fdstuff_0350	37058173	ليمون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12729	kh3_item.food	fdstuff_0360	b98a8690	برتقال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12730	kh3_item.food	fdstuff_0370	7520860e	توت العليق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12731	kh3_item.food	fdstuff_0380	ac0094a2	كمثرى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12732	kh3_item.food	fdstuff_0390	60aa943c	توت أسود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12733	kh3_item.food	fdstuff_0400	0b7d6698	تفاح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12734	kh3_item.food	fdstuff_0410	c7d76606	جبن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12735	kh3_item.food	fdstuff_0420	495861e5	شوكولاتة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12736	kh3_item.food	fdstuff_0430	85f2617b	كافيار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12737	kh3_item.food	fdstuff_0440	8f376862	زبدة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12738	kh3_item.food	fdstuff_0450	439d68fc	زيت الزيتون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12739	kh3_item.food	fdstuff_0460	cd126f1f	كورنيشون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12740	kh3_item.food	fdstuff_0470	01b86f81	أرز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12741	kh3_item.food	fdstuff_0480	d8987d2d	عسل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12742	kh3_item.food	fdstuff_0490	14327db3	كرز حامض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12743	kh3_item.food	fdstuff_0500	90d82af7	فراولة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12744	kh3_item.food	fdstuff_0510	5c722a69	برتقال أحمر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12745	kh3_item.food	fdstuff_0520	d2fd2d8a	موز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12746	kh3_item.food	fdstuff_0530	1e572d14	عنب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12747	kh3_item.food	fdstuff_0540	1492240d	شمام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12748	kh3_item.food	fdstuff_0550	d8382493	بطيخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12749	kh3_item.food	fdstuff_0560	56b72370	لحم العجل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12750	kh3_item.food	fdstuff_0570	9a1d23ee	لحم البقر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12751	kh3_item.food	fdstuff_0580	433d3142	سمان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12752	kh3_item.food	fdstuff_0590	8f9731dc	فيليه مينيون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12753	kh3_item.food	goodcook_0010	7debe7cd	فيلوتيه القرع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12754	kh3_item.food	goodcook_0020	f364e02e	كونسوميه	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12755	kh3_item.food	goodcook_0030	3fcee0b0	حساء الجزر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12756	kh3_item.food	goodcook_0040	350be9a9	بيسك السلطعون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12757	kh3_item.food	goodcook_0050	f9a1e937	حساء الطماطم البارد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12758	kh3_item.food	goodcook_0060	772eeed4	محار الإسكالوب المقلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12759	kh3_item.food	goodcook_0070	bb84ee4a	موس الكركند	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12760	kh3_item.food	goodcook_0080	62a4fce6	تيرين الفطر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12761	kh3_item.food	goodcook_0090	ae0efc78	راتاتوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12762	kh3_item.food	goodcook_0100	2ae4ab3c	سلطة كابريزي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12763	kh3_item.food	goodcook_0110	e64eaba2	سمك موسى بطريقة الطحان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12764	kh3_item.food	goodcook_0120	68c1ac41	ماتلوت الأنقليس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12765	kh3_item.food	goodcook_0130	a46bacdf	قاروص في ورق الزبدة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12766	kh3_item.food	goodcook_0140	aeaea5c6	بويابيس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12767	kh3_item.food	goodcook_0150	6204a558	تارتار المأكولات البحرية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12768	kh3_item.food	goodcook_0160	ec8ba2bb	قاروص مقلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12769	kh3_item.food	goodcook_0170	2021a225	بنكرياس العجل المقلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12770	kh3_item.food	goodcook_0180	f901b089	لحم بقري سوتيه	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12771	kh3_item.food	goodcook_0190	35abb017	لحم بقري بورغينيون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12772	kh3_item.food	goodcook_0200	5d7a79cc	سمان محشو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12773	kh3_item.food	goodcook_0210	91d07952	فيليه مينيون مقلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12774	kh3_item.food	goodcook_0220	1f5f7eb1	كريب سوزيت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12775	kh3_item.food	goodcook_0230	d3f57e2f	موس الشوكولاتة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12776	kh3_item.food	goodcook_0240	d9307736	كومبوت الفاكهة الطازجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12777	kh3_item.food	goodcook_0250	159a77a8	توت بالجبن الأبيض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12778	kh3_item.food	goodcook_0260	9b15704b	سوفليه الموز الدافئ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12779	kh3_item.food	goodcook_0270	57bf70d5	جيلي الفاكهة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12780	kh3_item.food	goodcook_0280	8e9f6279	فطيرة الفاكهة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12781	kh3_item.food	excook_0010	b808ae4e	فيلوتيه القرع+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12782	kh3_item.food	excook_0020	3687a9ad	كونسوميه+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12783	kh3_item.food	excook_0030	fa2da933	حساء الجزر+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12784	kh3_item.food	excook_0040	f0e8a02a	بيسك السلطعون+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12785	kh3_item.food	excook_0050	3c42a0b4	حساء الطماطم البارد+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12786	kh3_item.food	excook_0060	b2cda757	محار الإسكالوب المقلي+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12787	kh3_item.food	excook_0070	7e67a7c9	موس الكركند+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12788	kh3_item.food	excook_0080	a747b565	تيرين الفطر+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12789	kh3_item.food	excook_0090	6bedb5fb	راتاتوي+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12790	kh3_item.food	excook_0100	ef07e2bf	سلطة كابريزي+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12791	kh3_item.food	excook_0110	23ade221	سمك موسى بطريقة الطحان+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12792	kh3_item.food	excook_0120	ad22e5c2	ماتلوت الأنقليس+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12793	kh3_item.food	excook_0130	6188e55c	قاروص في ورق الزبدة+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12794	kh3_item.food	excook_0140	6b4dec45	بويابيس+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12795	kh3_item.food	excook_0150	a7e7ecdb	تارتار المأكولات البحرية+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12796	kh3_item.food	excook_0160	2968eb38	قاروص مقلي+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12797	kh3_item.food	excook_0170	e5c2eba6	بنكرياس العجل المقلي+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12798	kh3_item.food	excook_0180	3ce2f90a	لحم بقري سوتيه+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12799	kh3_item.food	excook_0190	f048f994	لحم بقري بورغينيون+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12800	kh3_item.food	excook_0200	9899304f	سمان محشو+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12801	kh3_item.food	excook_0210	543330d1	فيليه مينيون مقلي+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12802	kh3_item.food	excook_0220	dabc3732	كريب سوزيت+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12803	kh3_item.food	excook_0230	161637ac	موس الشوكولاتة+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12804	kh3_item.food	excook_0240	1cd33eb5	كومبوت الفاكهة الطازجة+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12805	kh3_item.food	excook_0250	d0793e2b	توت بالجبن+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12806	kh3_item.food	excook_0260	5ef639c8	سوفليه الموز الدافئ+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12807	kh3_item.food	excook_0270	925c3956	جيلي الفاكهة+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12808	kh3_item.food	excook_0280	4b7c2bfa	فطيرة الفاكهة+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12809	kh3_item.food	detail_fdstuff_0010	ebbb0709	مكون يستخدم في الطبخ.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12810	kh3_item.food	detail_goodcook_0010	433c5243	حساء يرفع مؤقتا أقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12811	kh3_item.food	detail_goodcook_0020	cdb355a0	حساء يرفع مؤقتا أقصى<br>HP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12812	kh3_item.food	detail_goodcook_0030	0119553e	حساء يرفع مؤقتا أقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12813	kh3_item.food	detail_goodcook_0040	0bdc5c27	حساء يرفع مؤقتا السحر وأقصى<br>HP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12814	kh3_item.food	detail_goodcook_0050	c7765cb9	حساء يرفع مؤقتا السحر وأقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12815	kh3_item.food	detail_goodcook_0060	49f95b5a	طبق مقبلات يرفع مؤقتا أقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12816	kh3_item.food	detail_goodcook_0070	85535bc4	طبق مقبلات يرفع مؤقتا الدفاع<br>وأقصى HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12817	kh3_item.food	detail_goodcook_0080	5c734968	طبق مقبلات يرفع مؤقتا أقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12818	kh3_item.food	detail_goodcook_0090	90d949f6	طبق مقبلات يرفع مؤقتا أقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12819	kh3_item.food	detail_goodcook_0100	14331eb2	طبق مقبلات يرفع مؤقتا السحر<br>وأقصى MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12820	kh3_item.food	detail_goodcook_0110	d8991e2c	طبق سمك يرفع مؤقتا الدفاع<br>وأقصى HP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12821	kh3_item.food	detail_goodcook_0120	561619cf	طبق سمك يرفع مؤقتا الدفاع وأقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12822	kh3_item.food	detail_goodcook_0130	9abc1951	طبق سمك يرفع مؤقتا الدفاع وأقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12823	kh3_item.food	detail_goodcook_0140	90791048	طبق سمك يرفع مؤقتا الدفاع وأقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12824	kh3_item.food	detail_goodcook_0150	5cd310d6	طبق سمك يرفع مؤقتا القوة،<br>الدفاع وأقصى HP/MP<br>للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12825	kh3_item.food	detail_goodcook_0160	d25c1735	طبق سمك يرفع مؤقتا القوة،<br>الدفاع وأقصى HP/MP<br>للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12826	kh3_item.food	detail_goodcook_0170	1ef617ab	طبق لحم يرفع مؤقتا القوة<br>وأقصى HP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12827	kh3_item.food	detail_goodcook_0180	c7d60507	طبق لحم يرفع مؤقتا القوة<br>وأقصى HP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12828	kh3_item.food	detail_goodcook_0190	0b7c0599	طبق لحم يرفع مؤقتا القوة<br>وأقصى HP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12829	kh3_item.food	detail_goodcook_0200	63adcc42	طبق لحم يرفع مؤقتا<br>القوة، الدفاع وأقصى<br>HP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12830	kh3_item.food	detail_goodcook_0210	af07ccdc	طبق لحم يرفع مؤقتا<br>القوة، الدفاع وأقصى<br>HP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12831	kh3_item.food	detail_goodcook_0220	2188cb3f	حلوى ترفع مؤقتا السحر وأقصى<br>MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12832	kh3_item.food	detail_goodcook_0230	ed22cba1	حلوى ترفع مؤقتا السحر وأقصى<br>MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12833	kh3_item.food	detail_goodcook_0240	e7e7c2b8	حلوى ترفع مؤقتا السحر وأقصى<br>MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12834	kh3_item.food	detail_goodcook_0250	2b4dc226	حلوى ترفع مؤقتا السحر وأقصى<br>MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12835	kh3_item.food	detail_goodcook_0260	a5c2c5c5	حلوى ترفع مؤقتا القوة،<br>السحر وأقصى MP<br>للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12836	kh3_item.food	detail_goodcook_0270	6968c55b	حلوى ترفع مؤقتا القوة،<br>السحر وأقصى MP<br>للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12837	kh3_item.food	detail_goodcook_0280	b048d7f7	حلوى ترفع مؤقتا القوة،<br>السحر وأقصى MP<br>للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12838	kh3_item.food	detail_excook_0010	7bdb3a47	حساء يرفع مؤقتا أقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12839	kh3_item.food	detail_excook_0020	f5543da4	حساء يرفع مؤقتا أقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12840	kh3_item.food	detail_excook_0030	39fe3d3a	حساء يرفع مؤقتا أقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12841	kh3_item.food	detail_excook_0040	333b3423	حساء يرفع مؤقتا السحر وأقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12842	kh3_item.food	detail_excook_0050	ff9134bd	حساء يرفع مؤقتا السحر وأقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12843	kh3_item.food	detail_excook_0060	711e335e	طبق مقبلات يرفع مؤقتا أقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12844	kh3_item.food	detail_excook_0070	bdb433c0	طبق مقبلات يرفع مؤقتا الدفاع<br>وأقصى HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12845	kh3_item.food	detail_excook_0080	6494216c	طبق مقبلات يرفع مؤقتا أقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12846	kh3_item.food	detail_excook_0090	a83e21f2	طبق مقبلات يرفع مؤقتا أقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12847	kh3_item.food	detail_excook_0100	2cd476b6	طبق مقبلات يرفع مؤقتا السحر<br>وأقصى HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12848	kh3_item.food	detail_excook_0110	e07e7628	طبق سمك يرفع مؤقتا الدفاع وأقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12849	kh3_item.food	detail_excook_0120	6ef171cb	طبق سمك يرفع مؤقتا الدفاع وأقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12850	kh3_item.food	detail_excook_0130	a25b7155	طبق سمك يرفع مؤقتا الدفاع وأقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12851	kh3_item.food	detail_excook_0140	a89e784c	طبق سمك يرفع مؤقتا الدفاع وأقصى<br>HP/MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12852	kh3_item.food	detail_excook_0150	643478d2	طبق سمك يرفع مؤقتا القوة،<br>الدفاع وأقصى HP/MP<br>للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12853	kh3_item.food	detail_excook_0160	eabb7f31	طبق سمك يرفع مؤقتا القوة،<br>الدفاع وأقصى HP/MP<br>للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12854	kh3_item.food	detail_excook_0170	26117faf	طبق لحم يرفع مؤقتا القوة<br>وأقصى HP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12855	kh3_item.food	detail_excook_0180	ff316d03	طبق لحم يرفع مؤقتا القوة<br>وأقصى HP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12856	kh3_item.food	detail_excook_0190	339b6d9d	طبق لحم يرفع مؤقتا القوة<br>وأقصى HP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12857	kh3_item.food	detail_excook_0200	5b4aa446	طبق لحم يرفع مؤقتا<br>القوة، الدفاع وأقصى<br>HP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12858	kh3_item.food	detail_excook_0210	97e0a4d8	طبق لحم يرفع مؤقتا<br>القوة، الدفاع وأقصى<br>HP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12859	kh3_item.food	detail_excook_0220	196fa33b	حلوى ترفع مؤقتا السحر وأقصى<br>MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12860	kh3_item.food	detail_excook_0230	d5c5a3a5	حلوى ترفع مؤقتا السحر وأقصى<br>MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12861	kh3_item.food	detail_excook_0240	df00aabc	حلوى ترفع مؤقتا السحر وأقصى<br>MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12862	kh3_item.food	detail_excook_0250	13aaaa22	حلوى ترفع مؤقتا السحر وأقصى<br>MP للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12863	kh3_item.food	detail_excook_0260	9d25adc1	حلوى ترفع مؤقتا القوة،<br>السحر وأقصى MP<br>للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12864	kh3_item.food	detail_excook_0270	518fad5f	حلوى ترفع مؤقتا القوة،<br>السحر وأقصى MP<br>للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12865	kh3_item.food	detail_excook_0280	88afbff3	حلوى ترفع مؤقتا القوة،<br>السحر وأقصى MP<br>للفريق بأكمله.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12866	kh3_item.key	key_02	664b6096	هاتف الغامي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12867	kh3_item.key	key_03	def707f3	جهاز AR	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12868	kh3_item.key	key_04	43203f4a	بطاقة بريدية للجوائز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12869	kh3_item.key	key_05	fb9c582f	بطاقة M.O.G.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12870	kh3_item.key	key_06	e929f7c1	رابط قلب الحلم	reviewed	unsure: Heartbinder = رابط قلب (no glossary entry); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12871	kh3_item.key	key_07	519590a4	رابط قلب البكسل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12872	kh3_item.key	key_08	09f680f2	رابط قلب أوهانا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12873	kh3_item.key	key_09	b14ae797	رابط قلب الفخر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12874	kh3_item.key	key_10	00e8a883	رابط قلب المحيط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12875	kh3_item.key	key_11	b854cfe6	مجسم هرقل الذهبي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12876	kh3_item.key	key_12	aae16008	دليل الوعود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12877	kh3_item.key	key_13	125d076d	دليل الأزمنة الماضية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12878	kh3_item.key	other_01	9eee5393	عملة كوبو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12879	kh3_item.key	other_02	8c5bfc7d	السراطين البيضاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12880	kh3_item.key	other_03	34e79b18	جائزة الكنز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12881	kh3_item.key	detail_key_02	c93e769d	أحدث اختراعات تشيب وديل، جهاز<br>مذهل يتيح التواصل بين العوالم.<br>ويلتقط الصور أيضا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12882	kh3_item.key	detail_key_03	718211f8	جهاز صممه هيرو لإنشاء<br>طبقات افتراضية فوق العالم الحقيقي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12883	kh3_item.key	detail_key_04	ec552941	بطاقة بريدية حصلت عليها من متجر الموغل.<br>ضعها في صندوق البريد في بلدة الشفق<br>وقد تحدث أشياء جيدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12884	kh3_item.key	detail_key_05	54e94e24	بطاقة عضوية تلقيتها في<br>متجر الموغل. بها ستتمكن<br>من شراء أغراض حصرية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12885	kh3_item.key	detail_key_06	465ce1ca	تميمة حظ تتيح لك استدعاء<br>قوة آكلي الأحلام باستخدام<br>أمر <color(strong)>الرابطة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12886	kh3_item.key	detail_key_07	fee086af	تميمة حظ تتيح لك استدعاء<br>قوة رالف المدمر باستخدام<br>أمر <color(strong)>الرابطة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12887	kh3_item.key	detail_key_08	a68396f9	تميمة حظ تتيح لك استدعاء<br>قوة ستيتش باستخدام أمر <color(strong)>الرابطة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12888	kh3_item.key	detail_key_09	1e3ff19c	تميمة حظ تتيح لك استدعاء<br>قوة سيمبا باستخدام أمر <color(strong)>الرابطة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12889	kh3_item.key	detail_key_10	af9dbe88	تميمة حظ تتيح لك استدعاء<br>قوة آرييل باستخدام أمر <color(strong)>الرابطة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12890	kh3_item.key	detail_key_11	1721d9ed	مجسم لعبة على هيئة هرقل.<br>صغير بما يكفي ليرميه من ليسوا أبطالا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12891	kh3_item.key	detail_key_12	05947603	شهادة تمنح لمن جمع<br>كل الحظ من مختلف العوالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12892	kh3_item.key	detail_key_13	bd281166	شهادة تمنح لمن تحمل<br>أصعب التجارب على الإطلاق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12893	kh3_item.key	detail_other_01	6e127204	عملة خاصة تحمي سورا من<br>الأسوأ. إذا انخفض HP إلى 0 فإنها<br>تستعيد الصحة مرة واحدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12894	kh3_item.navi	mi_01	f10fe7a0	خريطة: شركة المرعبين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12895	kh3_item.navi	mi_02	e3ba484e	خريطة: المصنع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12896	kh3_item.navi	ts_01	fbe125c3	خريطة: بيت آندي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12897	kh3_item.navi	ts_02	e9548a2d	خريطة: غالاكسي تويز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12898	kh3_item.navi	fz_01	0c92f6b4	خريطة: الجبل الشمالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12899	kh3_item.navi	fz_02	1e27595a	خريطة: متاهة الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12900	kh3_item.navi	ra_01_1	890fe33f	خريطة: الغابة (1/2)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12901	kh3_item.navi	ra_01_2	9bba4cd1	خريطة: الغابة (2/2)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12902	kh3_item.navi	ca_01	9be43388	خريطة: مياه ميناء رويال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12903	kh3_item.navi	ca_02_1	e47b1d02	خريطة: جزيرة الحاجز الرملي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12904	kh3_item.navi	ca_02_2	f6ceb2ec	خريطة: نهاية السفينة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12905	kh3_item.navi	ca_02_3	4e72d589	خريطة: إيسلا دي لوس ماستيلس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12906	kh3_item.navi	ca_02_4	d3a5ed30	خريطة: الجزر المتكتلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12907	kh3_item.navi	he_01	7da7e477	خريطة: عالم الآلهة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12908	kh3_item.navi	he_02	6f124b99	خريطة: جبل أوليمبوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12909	kh3_item.navi	he_03	d7ae2cfc	خريطة: طيبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12910	kh3_item.navi	bx_02	d76a9760	خريطة: المدينة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12911	kh3_item.navi	tt_01	0618ddb6	خريطة: الحي السكني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12912	kh3_item.navi	kg_01	55ae8cde	خريطة: الأراضي القاحلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12913	kh3_item.navi	kg_02	471b2330	خريطة: خصلة الانفصال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12914	kh3_item.navi	bt_01	62fdeb46	خريطة: درج السماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12915	kh3_item.navi	bt_02	704844a8	خريطة: حي النسيم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12916	kh3_item.navi	detail_navi	9a273da2	خريطة تساعدك على التنقل في المنطقة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12917	kh3_item.lsi	game_01	df6eae57	أرض العمالقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12918	kh3_item.lsi	game_02	cddb01b9	ميكي طيار البريد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12919	kh3_item.lsi	game_03	756766dc	المزارع الموسيقي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12920	kh3_item.lsi	game_04	e8b05e65	بناء مبنى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12921	kh3_item.lsi	game_05	500c3900	الطبيب المجنون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12922	kh3_item.lsi	game_06	42b996ee	ميكي يقطع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12923	kh3_item.lsi	game_07	fa05f18b	متاعب التاكسي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12924	kh3_item.lsi	game_08	a266e1dd	معركة الحظيرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12925	kh3_item.lsi	game_09	1ada86b8	فتى الكرنفال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12926	kh3_item.lsi	game_10	ab78c9ac	ملقى في البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12927	kh3_item.lsi	game_11	13c4aec9	التخييم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12928	kh3_item.lsi	game_12	01710127	كيف تلعب الغولف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12929	kh3_item.lsi	game_13	b9cd6642	سيرك ميكي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12930	kh3_item.lsi	game_14	241a5efb	الكناري الضال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12931	kh3_item.lsi	game_15	9ca6399e	رياضات الحظيرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12932	kh3_item.lsi	game_16	8e139670	فتى كلوندايك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12933	kh3_item.lsi	game_17	36aff115	صيد القطط الصغيرة لميكي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12934	kh3_item.lsi	game_18	6ecce143	جنون الصيد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12935	kh3_item.lsi	game_19	d6708626	حفلة الشاطئ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12936	kh3_item.lsi	game_20	25f7ce4f	هروب ميكي من السجن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12937	kh3_item.lsi	game_21	9d4ba92a	كيف تلعب البيسبول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12938	kh3_item.lsi	game_22	8ffe06c4	رجل ميكي الآلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12939	kh3_item.lsi	game_23	374261a1	ميكي يخرج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12940	kh3_item.lsi	game_s_01	1f813a80		todo	skip: empty
+12941	kh3_item.lsi	game_s_02	0d34956e		todo	skip: empty
+12942	kh3_item.lsi	game_s_03	b588f20b		todo	skip: empty
+12943	kh3_item.lsi	game_s_04	285fcab2		todo	skip: empty
+12944	kh3_item.lsi	game_s_05	90e3add7		todo	skip: empty
+12945	kh3_item.lsi	game_s_06	82560239		todo	skip: empty
+12946	kh3_item.lsi	game_s_07	3aea655c		todo	skip: empty
+12947	kh3_item.lsi	game_s_08	6289750a		todo	skip: empty
+12948	kh3_item.lsi	game_s_09	da35126f		todo	skip: empty
+12949	kh3_item.lsi	game_s_10	6b975d7b		todo	skip: empty
+12950	kh3_item.lsi	game_s_11	d32b3a1e		todo	skip: empty
+12951	kh3_item.lsi	game_s_12	c19e95f0		todo	skip: empty
+12952	kh3_item.lsi	game_s_13	7922f295		todo	skip: empty
+12953	kh3_item.lsi	game_s_14	e4f5ca2c		todo	skip: empty
+12954	kh3_item.lsi	game_s_15	5c49ad49		todo	skip: empty
+12955	kh3_item.lsi	game_s_16	4efc02a7		todo	skip: empty
+12956	kh3_item.lsi	game_s_17	f64065c2		todo	skip: empty
+12957	kh3_item.lsi	game_s_18	ae237594		todo	skip: empty
+12958	kh3_item.lsi	game_s_19	169f12f1		todo	skip: empty
+12959	kh3_item.lsi	game_s_20	e5185a98		todo	skip: empty
+12960	kh3_item.lsi	game_s_21	5da43dfd		todo	skip: empty
+12961	kh3_item.lsi	game_s_22	4f119213		todo	skip: empty
+12962	kh3_item.lsi	game_s_23	f7adf576		todo	skip: empty
+12963	kh3_item.lsi	detail_game_01	04e5c55e	لعبة من المملكة الكلاسيكية.<br>يمكنك لعبها على هاتف الغامي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12964	kh3_item.report	item_02	bc482aa7	تقرير سري 1	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12965	kh3_item.report	item_03	04f44dc2	تقرير سري 2	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12966	kh3_item.report	item_04	9923757b	تقرير سري 3	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12967	kh3_item.report	item_05	219f121e	تقرير سري 4	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12968	kh3_item.report	item_06	332abdf0	تقرير سري 5	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12969	kh3_item.report	item_07	8b96da95	تقرير سري 6	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12970	kh3_item.report	item_08	d3f5cac3	تقرير سري 7	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12971	kh3_item.report	item_09	6b49ada6	تقرير سري 8	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12972	kh3_item.report	item_10	daebe2b2	تقرير سري 9	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12973	kh3_item.report	item_11	625785d7	تقرير سري 10	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12974	kh3_item.report	item_12	70e22a39	تقرير سري 11	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12975	kh3_item.report	item_13	c85e4d5c	تقرير سري 12	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12976	kh3_item.report	item_14	558975e5	تقرير سري 13	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+12977	kh3_item.report	detail_item_01	7576ee40	وثيقة تحتوي على معلومات حاسمة.<br>يمكنك قراءتها على هاتف الغامي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1

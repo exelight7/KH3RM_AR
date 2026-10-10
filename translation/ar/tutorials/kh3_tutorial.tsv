@@ -1,0 +1,87 @@
+id	namespace	key	source_hash	AR	status	note
+17137	kh3_tutorial.tut	title_0010	e3c6eb2e	الدروس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17138	kh3_tutorial.tut	menu_0030	f9cd9702	أساسيات القتال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17139	kh3_tutorial.tut	menu_0040	f3089e1b	الجري الحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17140	kh3_tutorial.tut	menu_0050	3fa29e85	الحركة الانسيابية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17141	kh3_tutorial.tut	menu_0060	b12d9966	السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17142	kh3_tutorial.tut	menu_0070	7d8799f8	تحولات الكيبلايد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17143	kh3_tutorial.tut	menu_0080	a4a78b54	ألعاب الملاهي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17144	kh3_tutorial.tut	menu_0090	680d8bca	التصويب المثبت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17145	kh3_tutorial.tut	menu_0100	ece7dc8e	الخطوة الجوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17146	kh3_tutorial.tut	detail_0030	025a99af	تعلم التصويب والدفاع والكومبوهات والجوائز.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17147	kh3_tutorial.tut	detail_0040	089f90b6	تعلم الجري الحر وتسلق الجدران وضربات الانقضاض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17148	kh3_tutorial.tut	detail_0050	c4359028	تعلم ركلات الجدران ودوران العمود والانزلاق على السكة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17149	kh3_tutorial.tut	detail_0060	4aba97cb	تعلم إلقاء السحر والضربات السحرية الختامية وإعادة شحن MP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17150	kh3_tutorial.tut	detail_0070	86109755	تعلم تحولات الكيبلايد والضربات الختامية للتحول.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17151	kh3_tutorial.tut	detail_0080	5f3085f9	تعلم مؤشر ألعاب الملاهي واستدعاء ألعاب الملاهي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17152	kh3_tutorial.tut	detail_0090	939a8567	تعلم هجمات التصويب المثبت وعداد التركيز.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17153	kh3_tutorial.tut	detail_0100	1770d223	تعلم استخدام الخطوة الجوية للاستكشاف والقتال.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17154	kh3_tutorial.tut	detail_0010_00	a2ea04fd	اقترب من المرآة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17155	kh3_tutorial.tut	detail_0020_00	0d434937	حين يظهر <color(situation)>أمر موقف<color> أخضر فوق<br>قائمة الأوامر، فهذا يعني أنك تستطيع الضغط على <icon(Triangle)><br>لتنفيذ إجراء خاص.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17156	kh3_tutorial.tut	detail_0020_01	b5ff2e52	<color(strong)><icon(Triangle)>افحص<color> المرآة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17157	kh3_tutorial.tut	detail_0030_00	68247271	<color(strong)>أساسيات القتال<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17158	kh3_tutorial.tut	detail_0030_01	d0981514	اضغط <icon(Decide)> أثناء تحديد <color(strong)>هجوم<color> في<br>قائمة الأوامر للهجوم في اتجاه<br>العدو المعلم باستخدام <color(strong)>مؤشر أصفر<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17159	kh3_tutorial.tut	detail_0030_02	c22dbafa	هاجم الأعداء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17160	kh3_tutorial.tut	detail_0030_03	7a91dd9f	يمكنك <color(strong)>تثبيت الهدف<color> الأقرب بالضغط على <icon(R1)>.<br>ستبقى الكاميرا على ذلك العدو، وستهاجم<br>في اتجاهه. استخدم <icon(R2)> <color(strong)>لتغيير الأهداف<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17161	kh3_tutorial.tut	detail_0030_04	e746e526	ثبت هدفا باستخدام <icon(R1)>، ثم جرب <icon(R2)> لتغيير الأهداف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17162	kh3_tutorial.tut	detail_0030_05	5ffa8243	اضغط <icon(Square)> <color(strong)>لصد هجمات الأعداء<color>.<br>وإذا استخدمت <icon(Lstick)> أثناء الضغط على <icon(Square)>، فستقوم <color(strong)>بتدحرج المراوغة<color><br>في ذلك الاتجاه بدلا من ذلك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17163	kh3_tutorial.tut	detail_0030_06	4d4f2dad	جرب صد هجوم قادم وتنفيذ تدحرج مراوغة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17164	kh3_tutorial.tut	detail_0030_07	f5f34ac8	أحسنت!<br>يسمى ربط الهجمات معا الواحدة تلو الأخرى <color(strong)>كومبو<color>.<br>الكومبوهات أقوى من الهجمات العادية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17165	kh3_tutorial.tut	detail_0030_08	ad905a9e	اهزم الأعداء باستخدام الكومبوهات!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17166	kh3_tutorial.tut	detail_0030_09	152c3dfb	يسقط الأعداء <color(strong)>جوائز<color> عند هزيمتهم.<br>الجوائز الخضراء تعيد HP، والزرقاء تعيد MP.<br>بعض الجوائز تمنح موني أو أغراضا. احرص على التقاطها!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17167	kh3_tutorial.tut	detail_0030_10	a48e72ef	اكتمل الدرس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17168	kh3_tutorial.tut	detail_0040_00	8960d4e2	<color(strong)>الجري الحر<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17169	kh3_tutorial.tut	detail_0040_01	31dcb387	<color(strong)>يساعدك الجري الحر<color> على تجاوز العوائق المزعجة بسهولة.<pb>لنبدأ بالحواف الأمامية.<br>اركض نحوها لتتسلقها تلقائيا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17170	kh3_tutorial.tut	detail_0040_03	9bd57b0c	استخدم <icon(Lstick)> للركض صعودا على الحواف!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17171	kh3_tutorial.tut	detail_0040_04	060243b5	جيد. والآن لنتعامل مع <color(strong)>الأعمدة المتلألئة<color> أمامك.<br>اركض نحوها لتقفز عبرها تلقائيا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17172	kh3_tutorial.tut	detail_0040_05	bebe24d0	استخدم <icon(Lstick)> للركض عبر الأعمدة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17173	kh3_tutorial.tut	detail_0040_06	ac0b8b3e	أمر في غاية السهولة، أليس كذلك?<br>يمكنك الركض صعودا على <color(strong)>الجدران المتلألئة<color> أيضا.<br>أثناء الصعود، استخدم <icon(LstickLeftRight)> للتحرك من جانب إلى آخر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17174	kh3_tutorial.tut	detail_0040_07	14b7ec5b	استخدم <icon(Lstick)> للركض صعودا على الجدار!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17175	kh3_tutorial.tut	detail_0040_08	4cd4fc0d	إذا قفزت من ارتفاع شاهق، فستدخل في <color(strong)>وضعية الانقضاض<color>.<br>اضغط <icon(Decide)> عند اقترابك من هدف وظهور المؤشر<br>لتنفيذ <color(strong)>ضربة انقضاض<color>!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17176	kh3_tutorial.tut	detail_0040_09	f4689b68	استخدم ضربة انقضاض لتدمير الجسم الموجود على الأرض!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17177	kh3_tutorial.tut	detail_0040_10	45cad47c	رائع! بعض الأجسام لا يمكن تدميرها إلا<br>بضربات الانقضاض. افتح عينيك جيدا وحطم<br>هذه الأجسام لتكشف أسرارها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17178	kh3_tutorial.tut	detail_0040_11	fd76b319	اكتمل الدرس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17179	kh3_tutorial.tut	detail_0050_00	ec07efa4	<color(strong)>الحركة الانسيابية<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17180	kh3_tutorial.tut	detail_0050_01	54bb88c1	إضافة إلى الجري الحر، وهو في معظمه تلقائي،<br>يمكنك أيضا استخدام التضاريس لصالحك طوعا.<br>ويسمى هذا <color(strong)>الحركة الانسيابية<color>.<pb>أولا، لنجرب تنفيذ <color(strong)>ركلة جدار<color>.<br>وأنت في الهواء، استخدم <icon(Lstick)> في اتجاه الجدار واضغط <icon(Square)>.<br>اضغط <icon(Square)> مجددا عند ملامسة الجدار للحصول على دفعة سرعة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17181	kh3_tutorial.tut	detail_0050_03	feb2404a	جرب الركل عن الجدران للحصول على دفعة سرعة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17182	kh3_tutorial.tut	detail_0050_04	636578f3	يمكنك أيضا <color(strong)>الدوران حول العمود<color> عند تلك الأعمدة أمامك.<br>وأنت في الهواء، استخدم <icon(Lstick)> في اتجاه العمود واضغط <icon(Square)>.<br>أثناء الدوران، اضغط <icon(Square)> أو <icon(Cancel)> لتنفيذ حيل أخرى.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17183	kh3_tutorial.tut	detail_0050_05	dbd91f96	جرب الدوران حول عمود!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17184	kh3_tutorial.tut	detail_0050_06	c96cb078	هكذا تنفذ.<br>أخيرا، لنجرب <color(strong)>الانزلاق على السكة<color> صعودا على السكة الرفيعة أمامك.<br>كل ما عليك هو التحرك إلى السكة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17185	kh3_tutorial.tut	detail_0050_07	71d0d71d	جرب الانزلاق صعودا على السكة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17186	kh3_tutorial.tut	detail_0050_08	29b3c74b	أثناء الحركة الانسيابية، يمكنك تنفيذ مجموعة متنوعة من<br><color(strong)>هجمات الحركة الانسيابية<color> بالضغط على <icon(Decide)>.<br>جربها كلها!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17187	kh3_tutorial.tut	detail_0050_09	910fa02e	اكتمل الدرس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17188	kh3_tutorial.tut	detail_0060_00	43aea26e	<color(strong)>السحر<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17189	kh3_tutorial.tut	detail_0060_01	fb12c50b	للوصول إلى سحرك، استخدم <icon(Key)> لتحديد أمر <color(strong)>السحر<color>،<br>ثم اضغط <icon(Decide)> أو <icon(KeyRight)>. اختر سحرا من القائمة التي تظهر،<br>ثم اضغط <icon(Decide)> لإلقائه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17190	kh3_tutorial.tut	detail_0060_02	e9a76ae5	جرب إلقاء <color(strong)>نار<color>!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17191	kh3_tutorial.tut	detail_0060_03	511b0d80	إذا ربطت الهجمات أو السحر معا ثم أنهيت<br>الكومبو بسحر، فستطلق<br><color(strong)>ضربة سحرية ختامية<color> قوية.<pb><color(strong)>تسهل الاختصارات<color> إلقاء السحر بالتتابع.<br>اضغط مطولا على <icon(L1)>، ثم اضغط <icon(Cross)><icon(Circle)><icon(Square)><icon(Triangle)> بجانب الإجراءات المعروضة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17192	kh3_tutorial.tut	detail_0060_05	7470525c	اضغط مطولا على <icon(L1)> واضغط <icon(Circle)> مرارا لمواصلة إلقاء <color(strong)>نار<color> <br>حتى تنفذ ضربة سحرية ختامية!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17193	kh3_tutorial.tut	detail_0060_06	66c5fdb2	ممتاز! واصل استخدام السحر، وسينفد MP لديك في النهاية.<br>حين يحدث ذلك، سيبدأ عداد MP <color(strong)>بإعادة الشحن<color>.<br>لن تستطيع استخدام السحر مجددا إلا بعد اكتمال إعادة الشحن.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17194	kh3_tutorial.tut	detail_0060_07	de799ad7	اكتمل الدرس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17195	kh3_tutorial.tut	detail_0070_00	26c99928	<color(strong)>تحولات الكيبلايد<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17196	kh3_tutorial.tut	detail_0070_01	9e75fe4d	<color(strong)>يتيح لك تحول السلاح<color> تبديل أساليب القتال،<br>ويمنحك إمكانية استخدام <color(strong)>ترسانات جديدة<color> من الهجمات والمهارات.<br>غالبا ما يتخذ الكيبلايد الذي تستخدمه <color(strong)>أشكالا أخرى<color>.<pb>أولا، عليك تخزين القوة بمهاجمة الأعداء.<pb>واصل ضرب الأعداء أمامك حتى يظهر<br><color(strong)>أمر تحول السلاح<color> الأخضر، ثم اضغط <icon(Triangle)><br>لتحويل الكيبلايد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17197	kh3_tutorial.tut	detail_0070_04	a9ab0e7f	خزن القوة، ثم اضغط <icon(Triangle)> لتحويل السلاح!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17198	kh3_tutorial.tut	detail_0070_05	1117691a	بعد تحول السلاح، سيظهر <color(strong)>عداد موقوت<color> في<br>أعلى قائمة الأوامر. وحين ينفد هذا العداد،<br>سيعود الكيبلايد إلى حالته الطبيعية.<pb>لكن إذا ضغطت <icon(Triangle)> قبل نفاد العداد،<br>يمكنك تنفيذ <color(strong)>ضربة ختامية<color> مدمرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17199	kh3_tutorial.tut	detail_0070_07	bb1ea191	استخدم الضربة الختامية لتحول السلاح لهزيمة الأعداء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17200	kh3_tutorial.tut	detail_0070_08	e37db1c7	لن تظهر في القتال إلا أوامر تحول السلاح الخاصة <color(strong)>بالكيبلايد الذي تستخدمه<color>.<br>لكل كيبلايد تحولاته الفريدة—<br>بعضها مفاجئ جدا—فاحرص على تجربتها كلها!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17201	kh3_tutorial.tut	detail_0070_09	5bc1d6a2	اكتمل الدرس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17202	kh3_tutorial.tut	detail_0080_00	5a56e909	<color(strong)>ألعاب الملاهي<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17203	kh3_tutorial.tut	detail_0080_01	e2ea8e6c	أحيانا، أثناء القتال، ستلاحظ عدوا<br>معلما باستخدام <color(strong)>مؤشر لعبة ملاهي<color> أخضر.<pb>ضرب العدو الذي عليه هذا المؤشر سيضيف<br><color(strong)>أمر لعبة ملاهي<color> أخضر إلى قائمة أوامر الموقف <icon(Triangle)>.<br>ألعاب الملاهي ألعاب كبيرة لافتة تستخدمها لإسقاط الأعداء!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17204	kh3_tutorial.tut	detail_0080_03	48e346e7	هاجم العدو ذا المؤشر الأخضر، <br>ثم استدع <icon(Triangle)> <color(strong)>سفينة القراصنة<color>!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17205	kh3_tutorial.tut	detail_0080_031	5b38a1a6	استخدم <icon(Lstick)> لتوجيه السفينة، ثم اضغط <icon(Decide)> للهجوم<br>بتأرجح السفينة ذهابا وإيابا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17206	kh3_tutorial.tut	detail_0080_032	498d0e48	اضرب الأعداء حتى يظهر مؤشر لعبة ملاهي أخضر!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17207	kh3_tutorial.tut	detail_0080_04	d5347e5e	في أي وقت تكون فيه مستعدا، يمكنك الضغط على <icon(Triangle)><br>لتنفيذ ضربة ختامية مدمرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17208	kh3_tutorial.tut	detail_0080_05	6d88193b	اضغط <icon(Triangle)> لتنفيذ الضربة الختامية للعبة الملاهي!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17209	kh3_tutorial.tut	detail_0080_06	7f3db6d5	قد تظهر أوامر ألعاب ملاهي متنوعة بحسب<br>مكانك وما يجري حولك. وحين ترى مؤشر<br>لعبة الملاهي ذاك، فلا تضيع الفرصة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17210	kh3_tutorial.tut	detail_0080_07	c781d1b0	اكتمل الدرس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17211	kh3_tutorial.tut	detail_0090_00	3f31d24f	<color(strong)>التصويب المثبت<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17212	kh3_tutorial.tut	detail_0090_01	878db52a	تتيح لك أوامر <color(strong)>التصويب المثبت<color> مهاجمة <color(strong)>عدة أعداء دفعة واحدة<color>.<pb>اضغط مطولا على <icon(R1)> لدخول عرض التصويب المثبت. ستظهر دائرة كبيرة<br>يمكنك تحريكها باستخدام <icon(Lstick)> أو <icon(Rstick)>.<br>وستقوم تلقائيا <color(strong)>بتثبيت<color> الأعداء الذين تلمسهم الدائرة.<pb>وأنت لا تزال تضغط مطولا على <icon(R1)>، اضغط <icon(Decide)> لإطلاق سيل من المقذوفات<br>على الأعداء المستهدفين. وإذا ثبت <color(strong)>العدو نفسه أكثر<br>من مرة<color>، فستهاجمه بعدد المقذوفات نفسه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17213	kh3_tutorial.tut	detail_0090_04	b0534518	اضغط مطولا على <icon(R1)> لتثبيت الأعداء، ثم اضغط <icon(Decide)> لتنفيذ هجوم تصويب مثبت!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17214	kh3_tutorial.tut	detail_0090_05	08ef227d	تستهلك هجمات التصويب المثبت <color(strong)>عداد التركيز<color> لديك.<br>وإذا نفد العداد، فلن تتمكن من استخدام هجمات التصويب المثبت حتى<br>تملأه بجمع <color(strong)>جوائز التركيز<color> أو بزيارة نقطة حفظ.<pb>ليست كل أنواع التصويب المثبت تطلق مقذوفات، وبعضها له فوائد خفية.<br>جرب كيبلايدات مختلفة واكتشف ما تخفيه من أسرار!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17215	kh3_tutorial.tut	detail_0090_07	a2e6eaf6	اكتمل الدرس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17216	kh3_tutorial.tut	detail_0100_00	46a85a9c	<color(strong)>الخطوة الجوية<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17217	kh3_tutorial.tut	detail_0100_01	fe143df9	تتيح لك <color(strong)>الخطوة الجوية<color> الانتقال سريعا إلى أماكن بعيدة<br>أو تقليص المسافة بينك وبين الأعداء.<br>وهي مفيدة خصوصا لبلوغ الأماكن المرتفعة.<pb>اضغط مطولا على <icon(R1)> لدخول عرض التصويب المثبت. حرك الدائرة الكبيرة<br>التي تظهر باستخدام <icon(Lstick)> أو <icon(Rstick)>. وحين تلمس الدائرة<br>تضاريس معينة، سيظهر <color(strong)>خط أصفر<color>.<pb>وأنت لا تزال تضغط مطولا على <icon(R1)>، اضغط <icon(Square)> <color(strong)>للانطلاق نحو<color><br>آخر نقطة علمتها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17218	kh3_tutorial.tut	detail_0100_04	c9cacdcb	اضغط مطولا على <icon(R1)> لتثبيت العمود الذي فوقك، ثم اضغط <icon(Square)> للخطو الجوي إليه!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17219	kh3_tutorial.tut	detail_0100_05	7176aaae	يمكنك الخطو الجوي نحو الأعداء أيضا.<br>قبل الوصول إليهم مباشرة، اضغط <icon(Decide)><br>حين تظهر كلمة <color(strong)>هجوم!<color> لتوجيه الضربة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17220	kh3_tutorial.tut	detail_0100_06	63c30540	استخدم الخطوة الجوية لمهاجمة عدو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17221	kh3_tutorial.tut	detail_0100_07	db7f6225	اكتمل الدرس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+17222	kh3_tutorial.tut	dialog_0010	4a0702a0	هل تريد بدء هذا الدرس?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1

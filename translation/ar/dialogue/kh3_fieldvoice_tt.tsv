@@ -1,0 +1,137 @@
+id	namespace	key	source_hash	AR	status	note
+10105	kh3_fieldvoice_tt.chat	sora_0010	3e52a19e		todo	
+10106	kh3_fieldvoice_tt.chat	sora_0020	b0dda67d	لا نستطيع الرحيل.<br>الطاهي الصغير ما زال يحتاج مساعدتنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10107	kh3_fieldvoice_tt.chat	sora_0030	7c77a6e3	أوه! ما كل هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10108	kh3_fieldvoice_tt.chat	sora_0040	76b2affa	تستطيع فعلها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10109	kh3_fieldvoice_tt.chat	sora_0050	ba18af64	هل يذكركم ذلك الرجل<br>ببيت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10110	kh3_fieldvoice_tt.chat	sora_0060	3497a887	لا أدري. لنتفقده<br>بعد انتهاء الفيلم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10111	kh3_fieldvoice_tt.chat	sora_0070	f83da819	لم أشاهد فيلما منذ زمن طويل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10112	kh3_fieldvoice_tt.chat	sora_0080	211dbab5	أحضرنا بعض المكونات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10113	kh3_fieldvoice_tt.chat	sora_0090	edb7ba2b	أظن أن الطاهي الصغير سيحتاج أكثر<br>من هذا. لنواصل البحث.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10114	kh3_fieldvoice_tt.chat	sora_0100	695ded6f	هل الطعام جاهز?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10115	kh3_fieldvoice_tt.chat	sora_0110	a5f7edf1	ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10116	kh3_fieldvoice_tt.chat	sora_0130	e7d2ea8c	لم يبدأ بعد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10117	kh3_fieldvoice_tt.chat	sora_0150	21bde30b	يا للهول!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10118	kh3_fieldvoice_tt.chat	sora_0170	6398e476	ستجعلني <i(on)>أنا<i(off)> أطبخ?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10119	kh3_fieldvoice_tt.chat	sora_0190	7612f644	نحاول.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10120	kh3_fieldvoice_tt.chat	sora_0200	1ec33f9f	صحيح أيها الطاهي الصغير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10121	kh3_fieldvoice_tt.chat	donald_0010	0aea742c	من حسن الحظ أننا خبراء في هذا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10122	kh3_fieldvoice_tt.chat	donald_0020	846573cf	هل هذا واحد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10123	kh3_fieldvoice_tt.chat	donald_0030	48cf7351	أوه...<br>هل علينا أن نذهب من هناك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10124	kh3_fieldvoice_tt.chat	donald_0040	420a7a48	بلا قلب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10125	kh3_fieldvoice_tt.chat	donald_0050	8ea07ad6	أسرع. الرائحة كريهة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10126	kh3_fieldvoice_tt.chat	donald_0060	002f7d35	مهلا! منذ متى ينمو<br>بلا قلب على الأشجار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10127	kh3_fieldvoice_tt.chat	donald_0070	cc857dab	انزل إلى هنا وقاتل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10128	kh3_fieldvoice_tt.chat	donald_0080	15a56f07	أتريد العودة إلى البلدة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10129	kh3_fieldvoice_tt.chat	donald_0090	d90f6f99	دعني أنقض عليهم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10130	kh3_fieldvoice_tt.chat	donald_0100	5de538dd	هل نحاول اللحاق<br>بهاينر وأوليت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10131	kh3_fieldvoice_tt.chat	donald_0110	914f3843	مهلا، أتظن أن<br>الطاهي الصغير قد يستفيد من <i(on)>هذا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10132	kh3_fieldvoice_tt.chat	donald_0120	1fc03fa0	نعم، هذا هو الطريق<br>إلى القصر القديم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10133	kh3_fieldvoice_tt.chat	donald_0130	d36a3f3e	هيا، لنعد إلى البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10134	kh3_fieldvoice_tt.chat	donald_0140	d9af3627	سورا، نزل اللعبة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10135	kh3_fieldvoice_tt.chat	donald_0150	150536b9	لنجربها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10136	kh3_fieldvoice_tt.chat	donald_0160	9b8a315a	مهلا!<br>هذا يشبه الملك تماما!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10137	kh3_fieldvoice_tt.chat	donald_0170	572031c4	واو، هذا الفيلم يبدو رائعا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10138	kh3_fieldvoice_tt.chat	donald_0190	42aa23f6	بالتأكيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10139	kh3_fieldvoice_tt.chat	donald_0200	2a7bea2d	شاهدنا هذا من قبل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10140	kh3_fieldvoice_tt.chat	donald_0210	e6d1eab3	وجدت واحدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10141	kh3_fieldvoice_tt.chat	donald_0220	685eed50	مؤسف أنه بالأبيض والأسود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10142	kh3_fieldvoice_tt.chat	goofy_0010	09ab32a8	هذه نقطة ضعفه!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10143	kh3_fieldvoice_tt.chat	goofy_0020	8724354b	احذروا! سيهاجم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10144	kh3_fieldvoice_tt.chat	goofy_0030	4b8e35d5	أعرف هاتين الأذنين في أي مكان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10145	kh3_fieldvoice_tt.chat	goofy_0040	414b3ccc	أظننا نقترب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10146	kh3_fieldvoice_tt.chat	goofy_0050	8de13c52	حسنا! مستعدون<br>لتفقد القصر القديم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10147	kh3_fieldvoice_tt.chat	goofy_0060	036e3bb1	يا للعجب، إنهم لا<br>يسهلون الأمر علينا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10148	kh3_fieldvoice_tt.chat	goofy_0070	cfc43b2f	ذلك الصغير<br>بدا سعيدا حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10149	kh3_fieldvoice_tt.chat	goofy_0080	16e42983	أراه. ذلك المبنى في الأمام!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10150	kh3_fieldvoice_tt.chat	goofy_0090	da4e291d	إذن، ما التالي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10151	kh3_fieldvoice_tt.chat	goofy_0100	5ea47e59	سنتولى الأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10152	kh3_fieldvoice_tt.chat	goofy_0110	920e7ec7	يبدو أنه ما زال ينقصنا.<br>لنواصل البحث.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10153	kh3_fieldvoice_tt.chat	goofy_0120	1c817924	أراهن أن هذا الملصق<br>سيعطينا لعبة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10154	kh3_fieldvoice_tt.chat	goofy_0130	d02b79ba	نعم، لنجربها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10155	kh3_fieldvoice_tt.chat	goofy_0140	daee70a3	هذه ستكون ممتعة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10156	kh3_fieldvoice_tt.chat	goofy_0150	1644703d	من أين تأتي الصورة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10157	kh3_fieldvoice_tt.chat	goofy_0160	98cb77de	لم يعودوا يصنعون<br>أفلاما مثل هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10158	kh3_fieldvoice_tt.chat	goofy_0170	54617740	أتساءل إن كان في هذا الملصق<br>إحدى تلك الألعاب الترويجية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10159	kh3_fieldvoice_tt.chat	goofy_0180	8d4165ec	يا للهول! احذر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10160	kh3_fieldvoice_tt.chat	goofy_0190	41eb6572	يمكنني مشاهدة هذا الفيلم<br>مرارا وتكرارا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10161	kh3_fieldvoice_tt.chat	goofy_0200	293aaca9	مهلا! لقد أسقطت شيئا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10162	kh3_fieldvoice_tt.chat	goofy_0210	e590ac37	فوقك! احذر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10163	kh3_fieldvoice_tt.chat	goofy_0220	6b1fabd4	هذا مثير جدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10164	kh3_fieldvoice_tt.chat	goofy_0230	a7b5ab4a	أوه، لا أحتمل المشاهدة...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10165	kh3_fieldvoice_tt.chat	goofy_0240	ad70a253	ماذا? هل هناك بقعة ما<br>على الشاشة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10166	kh3_fieldvoice_tt.chat	goofy_0250	61daa2cd	همم، أظنه فيلما صامتا.<br>لكن الموسيقى جميلة حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10167	kh3_fieldvoice_tt.chat	goofy_0260	ef55a52e	هل ترى أي شعارات حظ?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10168	kh3_fieldvoice_tt.chat	goofy_0270	23ffa5b0	المحطة التالية: القصر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10169	kh3_fieldvoice_tt.chat	goofy_0280	fadfb71c	إن كنت أذكر جيدا،<br>فالقصر القديم بعد الغابة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10170	kh3_fieldvoice_tt.chat	goofy_0290	3675b782	أتساءل إن كان صديقنا الصغير من<br>الغابة قد وصل إلى بيته بسلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10171	kh3_fieldvoice_tt.chat	goofy_0300	b29fe0c6	أرجو أن يجدوا شيئا<br>مفيدا على ذلك الحاسوب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10172	kh3_fieldvoice_tt.chat	scrooge_0010	71e553ef	ها! مستقبل مطعمي<br>يبدو مشرقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10173	kh3_fieldvoice_tt.chat	scrooge_0020	ff6a540c	الوصفات الجديدة حققت نجاحا ساحقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10174	kh3_fieldvoice_tt.chat	scrooge_0030	33c05492	لا بد أن مكوناتكم<br>أشعلت أفكار الطاهي الصغير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10175	kh3_fieldvoice_tt.chat	scrooge_0040	39055d8b	قريبا سنضطر إلى صرف الزبائن<br>بعيدا! واصلوا العمل الجيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10176	kh3_fieldvoice_tt.chat	scrooge_0050	f5af5d15	تجارتي مزدهرة!<br>رائع، رائع حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10177	kh3_fieldvoice_tt.chat	scrooge_0060	7b205af6	لقد تفوقتما على نفسيكما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10178	kh3_fieldvoice_tt.chat	scrooge_0070	b78a5a68	النقاد مذهولون،<br>والصندوق يرن <i(on)>كاتشينغ!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10179	kh3_fieldvoice_tt.chat	scrooge_0080	6eaa48c4	لا أطيق صبرا لأرى<br>ما ستطبخونه بعد ذلك!<pb(3.5)>ولا الزبائن أيضا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10180	kh3_fieldvoice_tt.talk	donald_0010	0aea742c	سورا، يجب أن نذهب إلى القصر القديم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10181	kh3_fieldvoice_tt.talk	donald_0020	846573cf	أريد أن أساعدك في البحث عن شعارات الحظ!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10182	kh3_fieldvoice_tt.talk	donald_0030	48cf7351	قد يكون هناك شعار حظ قريب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10183	kh3_fieldvoice_tt.talk	donald_0040	420a7a48	يمكنك الاعتماد علي وعلى غوفي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10184	kh3_fieldvoice_tt.talk	donald_0050	8ea07ad6	رأيت الطاهي الصغير خارج المطعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10185	kh3_fieldvoice_tt.talk	donald_0060	002f7d35	يا سلام! سأجد <i(on)>كل<i(off)> شعارات الحظ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10186	kh3_fieldvoice_tt.talk	goofy_0010	09ab32a8	كنا نأمل أن تكون بلدة الشفق آمنة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10187	kh3_fieldvoice_tt.talk	goofy_0020	8724354b	أبقوا أعينكم مفتوحة!<br>شعارات الحظ قد تكون في أي مكان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10188	kh3_fieldvoice_tt.talk	goofy_0030	4b8e35d5	من الأفضل على الأرجح أن نعود إلى البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10189	kh3_fieldvoice_tt.talk	goofy_0040	414b3ccc	لنعد إلى البلدة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10190	kh3_fieldvoice_tt.talk	goofy_0050	8de13c52	الطاهي الصغير يحتاج<br>إلى مزيد من المكونات.<pb(2.2)>من الأفضل أن نبقى منتبهين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10191	kh3_fieldvoice_tt.talk	goofy_0060	036e3bb1	اسمعوا، أظنني لمحت ميرلين في المطعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10192	kh3_fieldvoice_tt.talk	goofy_0070	cfc43b2f	يبدو أنهم علقوا ملصقا جديدا.<br>جهز كاميرتك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10193	kh3_fieldvoice_tt.talk	goofy_0080	16e42983	أتساءل ماذا يطبخ الطاهي الصغير هذه الأيام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10194	kh3_fieldvoice_tt.talk	scrooge_0010	71e553ef	هيا يا فتيان.<br>عليكم أن تجمعوا بعض المكونات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10195	kh3_fieldvoice_tt.talk	scrooge_0020	ff6a540c	سنحتاج إلى المزيد قليلا<br>قبل أن يبدأ الطبخ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10196	kh3_fieldvoice_tt.talk	scrooge_0030	33c05492	لا تنسوا تلك المكونات يا فتيان.<br>أريد زبائن، والزبائن يريدون التنوع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10197	kh3_fieldvoice_tt.talk	scrooge_0040	39055d8b	سأعرض فيلما جديدا في الساحة.<br>لا تنسوا تنزيل اللعبة الترويجية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10198	kh3_fieldvoice_tt.talk	scrooge_0050	f5af5d15	سمعت أنكم جمعتم الكثير من المكونات.<br>بفضلكم، تجارتي في أفضل حال!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10199	kh3_fieldvoice_tt.talk	scrooge_0060	7b205af6	في التجارة والحياة، يجب أن تكون أقسى من<br>الأقوياء وأذكى من الأذكياء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10200	kh3_fieldvoice_tt.talk	merlin_0010	93d873c6	سافر داخل هذا الكتاب وسترى<br>ويني ذا بوه متى شئت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10201	kh3_fieldvoice_tt.talk	merlin_0020	1d577425	يا له من مطبخ رائع!<br>ربما أدلل نفسي بالمزيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10202	kh3_fieldvoice_tt.talk	hayner_0010	224cef76	بلدة الشفق البديلة...<br>أتتخيل? كيف هي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10203	kh3_fieldvoice_tt.talk	hayner_0020	acc3e895	ما زلنا نسأل في الأرجاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10204	kh3_fieldvoice_tt.talk	hayner_0030	6069e80b	هل رأيت أحدث ملصق?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10205	kh3_fieldvoice_tt.talk	hayner_0040	6aace112	سمعت أن أحدث لعبة ترويجية رائعة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10206	kh3_fieldvoice_tt.talk	pence_0010	b4990d5b	أتظن أن لبلدة الشفق الأخرى<br>عجائبها السبع الخاصة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10207	kh3_fieldvoice_tt.talk	pence_0020	3a160ab8	آسف، لا خيوط بعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10208	kh3_fieldvoice_tt.talk	pence_0030	f6bc0a26	هل سمعت?<br>هناك فيلم جديد في المسرح المفتوح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10209	kh3_fieldvoice_tt.talk	pence_0040	fc79033f	أتعرف ما الذي سيجعل ذلك المطعم أفضل?<br>الكعك المملح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10210	kh3_fieldvoice_tt.talk	olette_0010	ca82aef5	إذن أنا وهاينر وبنس أصدقاء في<br>بلدة الشفق الأخرى. لست متفاجئة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10211	kh3_fieldvoice_tt.talk	olette_0020	440da916	أرجو أن نجد شخصا يعرف روكساس...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10212	kh3_fieldvoice_tt.talk	olette_0030	88a7a988	نعلق المزيد من الملصقات.<br>لا تفوتك أي لعبة ترويجية!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10213	kh3_fieldvoice_tt.talk	olette_0040	8262a091	المطعم من عالم آخر!<br>أرجو أن يواصلوا توسيع القائمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10214	kh3_fieldvoice_tt.talk	olette_0050	4ec8a00f	الطعام هنا لذيذ جدا،<br>لدرجة أنني ربما بالغت قليلا. أوبس!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10215	kh3_fieldvoice_tt.talk	huey_0010	bfeb3fba	مرحبا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10216	kh3_fieldvoice_tt.talk	huey_0020	31643859	ماذا نحضر لك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10217	kh3_fieldvoice_tt.talk	huey_0030	fdce38c7	ستحب كتل الغامي الجديدة لدينا كثيرا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10218	kh3_fieldvoice_tt.talk	huey_0040	f70b31de	أتريد أن ترى كتل الغامي الجديدة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10219	kh3_fieldvoice_tt.talk	huey_0050	3ba13140	تريد كتل غامي?<br>أوه، لدينا كل الأنواع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10220	kh3_fieldvoice_tt.talk	huey_0060	b52e36a3	أخبر العم دونالد أن عليه شراء شيء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10221	kh3_fieldvoice_tt.talk	huey_0070	7984363d	حالما نستطيع، سننطلق في<br>مغامرة كبيرة، مثلك ومثل العم دونالد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10222	kh3_fieldvoice_tt.talk	dewey_0010	5eb4c1ff	مرحبا! هل أساعدك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10223	kh3_fieldvoice_tt.talk	dewey_0020	d03bc61c	لم لا تلقي نظرة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10224	kh3_fieldvoice_tt.talk	dewey_0030	1c91c682	أحدث كتل الغامي لدينا ستذهلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10225	kh3_fieldvoice_tt.talk	dewey_0040	1654cf9b	لدينا المزيد من كتل الغامي لتختار منها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10226	kh3_fieldvoice_tt.talk	dewey_0050	dafecf05	لدينا أفضل تشكيلة في البلدة، مضمونة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10227	kh3_fieldvoice_tt.talk	dewey_0060	5471c8e6	لا خصومات عائلية يا عم دونالد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10228	kh3_fieldvoice_tt.talk	dewey_0070	98dbc878	الجميع يحب مطعم العم سكروج.<br>لكننا سنحصل على زبائن كثيرين أيضا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10229	kh3_fieldvoice_tt.talk	louie_0010	522a9210	مرحى! أنت هنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10230	kh3_fieldvoice_tt.talk	louie_0020	dca595f3	هل جئت لتشتري شيئا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10231	kh3_fieldvoice_tt.talk	louie_0030	100f956d	وصلتنا للتو كتل غامي<br>مميزة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10232	kh3_fieldvoice_tt.talk	louie_0040	1aca9c74	أوه، يجب أن ترى كتل الغامي الجديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10233	kh3_fieldvoice_tt.talk	louie_0050	d6609cea	هيا، ساعد صديقا واشتر شيئا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10234	kh3_fieldvoice_tt.talk	louie_0060	58ef9b09	نحتاج حقا إلى تعاملك معنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10235	kh3_fieldvoice_tt.talk	louie_0070	94459b97	إلى متى علي أن<br>أبقى هنا وأكنس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10236	kh3_fieldvoice_tt.talk	moglie_0010	aa21ab3e	أهلا بك، كوبو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10237	kh3_fieldvoice_tt.talk	moglie_0020	24aeacdd	ماذا تريد، كوبو?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10238	kh3_fieldvoice_tt.talk	moglie_0030	e804ac43	اشتر شيئا، كوبو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10239	kh3_fieldvoice_tt.talk	moglie_0040	e2c1a55a	ألق نظرة أقرب، كوبو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+10240	kh3_fieldvoice_tt.talk	moglie_0050	2e6ba5c4	لدي شيء جديد لك، كوبو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2

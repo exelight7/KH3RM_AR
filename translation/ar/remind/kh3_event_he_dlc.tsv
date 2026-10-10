@@ -1,0 +1,45 @@
+id	namespace	key	source_hash	AR	status	note
+03613	kh3_event_he_dlc.he119r	he119r0010x20	dc7d2ac4	ليكن قلبك مفتاحك الهادي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03614	kh3_event_he_dlc.he119r	he119r0020x00_1	4a5520db	تخيل معي:	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03615	kh3_event_he_dlc.he119r	he119r0020x00_2	58e08f35	ماعز أسود يخبئ رسالة، ثم<br>يأمر ماعزا أبيض بالبحث عنها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03616	kh3_event_he_dlc.he119r	he119r0020x00_2b	a6399e90		todo	
+03617	kh3_event_he_dlc.he119r	he119r0020x00_3	e05ce850	ما الذي يمكن أن يقصده بذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03618	kh3_event_he_dlc.he119r	he119r0040x20	f7f7fadb	رائع، لغز. هذا بالضبط ما كنت أحتاجه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03619	kh3_event_he_dlc.he119r	he119r0050x00_1	4e5cd388	هناك احتمالات كثيرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03620	kh3_event_he_dlc.he119r	he119r0050x00_2	5ce97c66	ربما نسي أين أخفاها،<br>أو ربما يمازحه،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03621	kh3_event_he_dlc.he119r	he119r0050x00_2b	1eac8c05		todo	
+03622	kh3_event_he_dlc.he119r	he119r0050x00_3	e4551b03	أو ربما ضاعت الرسالة حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03623	kh3_event_he_dlc.he119r	he119r0050x00_4	798223ba	يمكنني التفكير في عدة أسباب هكذا؛	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03624	kh3_event_he_dlc.he119r	he119r0050x00_5	c13e44df	أما التخمين... فلا فائدة منه إطلاقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03625	kh3_event_he_dlc.he119r	he119r0060x20	3d398c57	حسنا، إذن نفذ أوامرك فحسب،<br>ببساطة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03626	kh3_event_he_dlc.he119r	he119r0070x00	1a7bb06c	نعم، هذا ما فعلته دائما. نفذت<br>الأوامر من الأعلى دون سؤال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03627	kh3_event_he_dlc.he119r	he119r0070x01	a2c7d709	لكنني أحيانا لا أستطيع منع نفسي من<br>التفكير في خطة خصمي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03628	kh3_event_he_dlc.he119r	he119r0080x20	24c1c730	هل طال بقاؤك في هذا العمل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03629	kh3_event_he_dlc.he119r	he119r0090x00	0383fb0b	إن كان ما في الصندوق مجهولا إلى هذا الحد، فلماذا<br>هو بالغ الأهمية للمنظمة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03630	kh3_event_he_dlc.he119r	he119r0090x01	bb3f9c6e	ثم إن من أصدر الأمر،<br>هل هو زيهانورت أم زيمناس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03631	kh3_event_he_dlc.he119r	he119r0100x20	383f74a5	حسنا، الأمر معقد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03632	kh3_event_he_dlc.he119r	he119r0110x00_1	b9512256	كل ما يهم زيهانورت هو الصدام بين<br>الأنوار السبعة والظلمات الثلاث عشرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03633	kh3_event_he_dlc.he119r	he119r0110x00_2	abe48db8	من غير المرجح أن يهتم<br>بهذا الصندوق الغامض.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03634	kh3_event_he_dlc.he119r	he119r0110x01_1	22f46e39	وهذا يعني أن الأمر صدر<br>عن... زيمناس،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03635	kh3_event_he_dlc.he119r	he119r0110x01_2	3041c1d7	أو عن الذي أبلغني بمهمتي، أي أنت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03636	kh3_event_he_dlc.he119r	he119r0120x20	f2f10229	مستحيل! لا بد أنه زيمناس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03637	kh3_event_he_dlc.he119r	he119r0130x00	d5b33e12	تحرياتي تشير إلى غير ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03638	kh3_event_he_dlc.he119r	he119r0140x20	76d29ffc	يا للهول... هل سألته?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03639	kh3_event_he_dlc.he119r	he119r0150x00	5190a3c7	ما هي نواياك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03640	kh3_event_he_dlc.he119r	he119r0160x20_1	3af8f466	اسمع، لا أعرف ما في الصندوق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03641	kh3_event_he_dlc.he119r	he119r0160x20_2	284d5b88	لكن حاملو الكيبلايد يحمونه	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03642	kh3_event_he_dlc.he119r	he119r0160x20_3	90f13ced	منذ زمن بعيد. ألا يثير فضولك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03643	kh3_event_he_dlc.he119r	he119r0160x20_4	0d260454	سمعت أنه يحوي معلومات حيوية<br>لكل حاملي الكيبلايد، أسرارا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03644	kh3_event_he_dlc.he119r	he119r0160x20_4b	4e622f24		todo	
+03645	kh3_event_he_dlc.he119r	he119r0170x00	9b5ed54b	ومن أين سمعت هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03646	kh3_event_he_dlc.he119r	he119r0180x20_1	32eb12c0	همم، لا أذكر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03647	kh3_event_he_dlc.he119r	he119r0180x20_2	205ebd2e	أبقي عيني وأذني مفتوحتين دائما، لكنني<br>زرت أماكن كثيرة جدا،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03648	kh3_event_he_dlc.he119r	he119r0180x20_3	98e2da4b	ومن الصعب ترتيب كل شيء في الذاكرة، تعرف?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03649	kh3_event_he_dlc.he119r	he119r0190x00	82a69e2c	إن كان هذا الصندوق مهما كما تقول،<br>فلماذا الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03650	kh3_event_he_dlc.he119r	he119r0190x00b	56e99c8b		todo	
+03651	kh3_event_he_dlc.he119r	he119r0190x01_1	2f5b86d1	أظن أنك اكتشفت أن آخرين يبحثون عنه أيضا،<br>وأنك تحتاج إلى إيجاده قبل أي أحد غيرك،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03652	kh3_event_he_dlc.he119r	he119r0190x01_2	3dee293f	كي تبقي صلتك بالصندوق<br>سرا عمن حولك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03653	kh3_event_he_dlc.he119r	he119r0200x00	2204daf0	زيغبار، من أنت حقا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03654	kh3_event_he_dlc.he119r	he119r0220x00_1	72902dce	لا يهم. لا فرق عندي.<br>كله سواء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03655	kh3_event_he_dlc.he119r	he119r0220x00_2	60258220	يكفيني أن أتظاهر بالجهل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+03656	kh3_event_he_dlc.he119r	he119r0230x20	cf889047	السؤال هو، من أنت حقا يا لوكسورد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2

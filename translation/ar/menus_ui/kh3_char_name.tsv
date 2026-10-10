@@ -1,0 +1,231 @@
+id	namespace	key	source_hash	AR	status	note
+00472	kh3_char_name.character	unknown_01	1f9b3457	مجهول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00473	kh3_char_name.character	unknown_02	0d2e9bb9		todo	skip: no Latin letters (native script / symbols)
+00474	kh3_char_name.character	main_0010	3b1393ad	سورا	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+00475	kh3_char_name.character	main_0020	b59c944e	دونالد داك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00476	kh3_char_name.character	main_0021	0d20f32b	دونالد	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+00477	kh3_char_name.character	main_0030	793694d0	غوفي	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak)
+00478	kh3_char_name.character	main_0040	73f39dc9	جيميني كريكت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00479	kh3_char_name.character	main_0050	bf599d57	الملك ميكي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00480	kh3_char_name.character	main_0051	07e5fa32	ميكي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00481	kh3_char_name.character	main_0060	31d69ab4	ريكو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00482	kh3_char_name.character	main_0070	fd7c9a2a	كايري	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00483	kh3_char_name.character	main_0080	245c8886	أكوا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00484	kh3_char_name.character	main_0090	e8f68818	فينتوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00485	kh3_char_name.character	main_0100	6c1cdf5c	تيرا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00486	kh3_char_name.character	main_0110	a0b6dfc2	آكسل / ليا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00487	kh3_char_name.character	main_0111	180ab8a7	آكسل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00488	kh3_char_name.character	main_0120	2e39d821	روكساس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00489	kh3_char_name.character	main_0130	e293d8bf	شيون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00490	kh3_char_name.character	main_0140	e856d1a6	ناميني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00491	kh3_char_name.character	main_0150	24fcd138	نسخة ريكو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00492	kh3_char_name.character	main_0160	aa73d6db	المعلم زيهانورت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00493	kh3_char_name.character	main_0170	66d9d645	زيهانورت الشاب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00494	kh3_char_name.character	main_0180	bff9c4e9	تيرا-زيهانورت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00495	kh3_char_name.character	main_0190	7353c477	أنسيم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00496	kh3_char_name.character	main_0200	1b820dac	زيمناس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00497	kh3_char_name.character	main_0210	d7280d32	فانيتاس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00498	kh3_char_name.character	main_0220	59a70ad1	زيغبار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00499	kh3_char_name.character	main_0230	950d0a4f	سايكس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00500	kh3_char_name.character	main_0240	9fc80356	لوكسورد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00501	kh3_char_name.character	main_0250	536203c8	مارلوكسيا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00502	kh3_char_name.character	main_0260	dded042b	لارزين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00503	kh3_char_name.character	main_0270	114704b5	فيكسن / إيفن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00504	kh3_char_name.character	main_0280	c8671619	ديميكس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00505	kh3_char_name.character	main_0290	04cd1687	ريكو المظلم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00506	kh3_char_name.character	main_0300	802741c3	أنسيم الحكيم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00507	kh3_char_name.character	main_0310	4c8d415d	إينزو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00508	kh3_char_name.character	main_0320	c20246be	ديلان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00509	kh3_char_name.character	main_0330	0ea84620	إيليوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00510	kh3_char_name.character	main_0340	046d4f39	تشيريثي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00511	kh3_char_name.character	main_0350	c8c74fa7	الإرادة الباقية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00512	kh3_char_name.character	main_0360	46484844	أكوا المضادة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00513	kh3_char_name.character	main_0370	8ae248da	المعلم إيراكوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00514	kh3_char_name.character	main_0380	53c25a76	الفتى بالأبيض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00515	kh3_char_name.character	main_0390	9f685ae8	الفتى بالأسود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00516	kh3_char_name.character	main_0410	3815a8d2	الهيئة المظلمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00517	kh3_char_name.character	main_0420	b69aaf31	زيهانورت المدرع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00518	kh3_char_name.character	main_0430	7a30afaf	نسخة زيهانورت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00519	kh3_char_name.character	other_0010	b6819bff	مالفيسنت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00520	kh3_char_name.character	other_0020	380e9c1c	بيت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00521	kh3_char_name.character	other_0030	f4a49c82	ين سيد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00522	kh3_char_name.character	other_0040	fe61959b	تشيب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00523	kh3_char_name.character	other_0050	32cb9505	ديل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00524	kh3_char_name.character	other_0060	bc4492e6	الملكة ميني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00525	kh3_char_name.character	other_0070	70ee9278	البطة ديزي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00526	kh3_char_name.character	other_0080	a9ce80d4	بلوتو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00527	kh3_char_name.character	other_0090	6564804a	رالف المدمر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00528	kh3_char_name.character	other_0100	e18ed70e	سيمبا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00529	kh3_char_name.character	other_0110	2d24d790	ستيتش	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00530	kh3_char_name.character	other_0120	a3abd073	آرييل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00531	kh3_char_name.character	other_0130	6f01d0ed	الموغل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00532	kh3_char_name.character	he_0010	13ea27e1	هرقل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00533	kh3_char_name.character	he_0020	9d652002	ميغارا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00534	kh3_char_name.character	he_0030	51cf209c	فيلوكتيتس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00535	kh3_char_name.character	he_0040	5b0a2985	بيجاسوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00536	kh3_char_name.character	he_0050	97a0291b	زيوس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00537	kh3_char_name.character	he_0060	192f2ef8	هيرميس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00538	kh3_char_name.character	he_0070	d5852e66	أبولو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00539	kh3_char_name.character	he_0080	0ca53cca	أثينا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00540	kh3_char_name.character	he_0090	c00f3c54	هاديس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00541	kh3_char_name.character	he_0100	44e56b10	تيتان الصخر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00542	kh3_char_name.character	he_0110	884f6b8e	تيتان الجليد	reviewed	unsure: Ice/Lava/Tornado Titan follow Rock Titan = تيتان الصخر; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00543	kh3_char_name.character	he_0120	06c06c6d	تيتان الحمم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00544	kh3_char_name.character	he_0130	ca6a6cf3	تيتان الإعصار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00545	kh3_char_name.character	tt_0010	fd83f0b7	هاينر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00546	kh3_char_name.character	tt_0020	730cf754	بنس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00547	kh3_char_name.character	tt_0030	bfa6f7ca	أوليت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00548	kh3_char_name.character	tt_0040	b563fed3	سكروج ماكدك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00549	kh3_char_name.character	tt_0050	79c9fe4d	الطاهي الصغير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00550	kh3_char_name.character	tt_0060	f746f9ae	هوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00551	kh3_char_name.character	tt_0070	3becf930	ديوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00552	kh3_char_name.character	tt_0080	e2cceb9c	لوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00553	kh3_char_name.character	tt_0090	2e66eb02	ميرلين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00554	kh3_char_name.character	ts_0010	cc9bc7c0	وودي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00555	kh3_char_name.character	ts_0020	4214c023	باز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00556	kh3_char_name.character	ts_0030	8ebec0bd	ريكس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00557	kh3_char_name.character	ts_0040	847bc9a4	هام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00558	kh3_char_name.character	ts_0050	48d1c93a	الرجال الخضر الصغار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00559	kh3_char_name.character	ts_0060	c65eced9	جنود الجيش الخضر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00560	kh3_char_name.character	ra_0010	6f777abc	رابونزل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00561	kh3_char_name.character	ra_0020	e1f87d5f	فلين رايدر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00562	kh3_char_name.character	ra_0021	59441a3a	فلين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00563	kh3_char_name.character	ra_0030	2d527dc1	يوجين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00564	kh3_char_name.character	ra_0040	279774d8	الأم غوثل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00565	kh3_char_name.character	ra_0050	eb3d7446	ماكسيموس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00566	kh3_char_name.character	ra_0060	65b273a5	باسكال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00567	kh3_char_name.character	mi_0010	af838c69	سولي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00568	kh3_char_name.character	mi_0020	210c8b8a	مايك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00569	kh3_char_name.character	mi_0030	eda68b14	بو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00570	kh3_char_name.character	mi_0040	e763820d	راندال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00571	kh3_char_name.character	mi_0050	2bc98293	عميل CDA	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00572	kh3_char_name.character	fz_0010	8787b5b3	آنا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00573	kh3_char_name.character	fz_0020	0908b250	إلسا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00574	kh3_char_name.character	fz_0030	c5a2b2ce	كريستوف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00575	kh3_char_name.character	fz_0040	cf67bbd7	سفين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00576	kh3_char_name.character	fz_0050	03cdbb49	أولاف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00577	kh3_char_name.character	fz_0060	8d42bcaa	مارشميلو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00578	kh3_char_name.character	fz_0070	41e8bc34	هانز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00579	kh3_char_name.character	ca_0010	759d5671	جاك سبارو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00580	kh3_char_name.character	ca_0011	cd213114	جاك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00581	kh3_char_name.character	ca_0020	fb125192	ويل تيرنر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00582	kh3_char_name.character	ca_0030	37b8510c	إليزابيث سوان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00583	kh3_char_name.character	ca_0040	3d7d5815	هيكتور باربوسا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00584	kh3_char_name.character	ca_0050	f1d7588b	تيا دالما	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00585	kh3_char_name.character	ca_0060	7f585f68	جوشامي غيبز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00586	kh3_char_name.character	ca_0070	b3f25ff6	كاتلر بيكيت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00587	kh3_char_name.character	ca_0080	6ad24d5a	ديفي جونز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00588	kh3_char_name.character	bx_0010	586b8dc8	بايماكس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00589	kh3_char_name.character	bx_0020	d6e48a2b	هيرو هامادا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00590	kh3_char_name.character	bx_0030	1a4e8ab5	غو غو توماغو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00591	kh3_char_name.character	bx_0040	108b83ac	هوني ليمون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00592	kh3_char_name.character	bx_0050	dc218332	واسابي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00593	kh3_char_name.character	bx_0060	52ae84d1	فريد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00594	kh3_char_name.character	bx_0070	9e04844f	بايماكس المظلم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00595	kh3_char_name.character	po_0010	0e2cee68	ويني ذا بوه	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00596	kh3_char_name.character	po_0020	80a3e98b	بيغليت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00597	kh3_char_name.character	po_0030	4c09e915	تيغر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00598	kh3_char_name.character	po_0040	46cce00c	الأرنب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00599	kh3_char_name.character	po_0050	8a66e092	رو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00600	kh3_char_name.character	po_0060	04e9e771	لمبي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00601	kh3_char_name.character	po_0070	c843e7ef	غوفر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00602	kh3_char_name.character	remind_0010	421e7f23	ليون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00603	kh3_char_name.character	remind_0020	cc9178c0	إيريث	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00604	kh3_char_name.character	remind_0030	003b785e	يوفي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00605	kh3_char_name.character	remind_0040	0afe7147	سيد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00606	kh3_char_name.character	remind_0050	c65471d9	الجنية العرابة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00607	kh3_char_name.character	remind_0060	48db763a	زيهانورت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00608	kh3_char_name.character	remind_0120	573434af	يوزورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00609	kh3_char_name.enemy	unknown_01	1f9b3457	مجهول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00610	kh3_char_name.enemy	unknown_02	0d2e9bb9		todo	skip: no Latin letters (native script / symbols)
+00611	kh3_char_name.enemy	ht_0010	eda43dfb	الظل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00612	kh3_char_name.enemy	ht_0020	632b3a18	الظل الجديد	reviewed	unsure: enemy names are not in the glossary; translated by meaning; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00613	kh3_char_name.enemy	ht_0030	af813a86	المرفرف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00614	kh3_char_name.enemy	ht_0040	a544339f	نواة اللهب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00615	kh3_char_name.enemy	ht_0050	69ee3301	نواة الماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00616	kh3_char_name.enemy	ht_0060	e76134e2	نواة الأرض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00617	kh3_char_name.enemy	ht_0070	2bcb347c	الجحيم المظلم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00618	kh3_char_name.enemy	ht_0080	f2eb26d0	الجندي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00619	kh3_char_name.enemy	ht_0090	3e41264e	الجندي الرفيع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00620	kh3_char_name.enemy	ht_0100	baab710a	الجندي الجوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00621	kh3_char_name.enemy	ht_0110	76017194	الجسم الكبير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00622	kh3_char_name.enemy	ht_0120	f88e7677	الجسم المخوذ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00623	kh3_char_name.enemy	ht_0130	342476e9	سامبا القرمزية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00624	kh3_char_name.enemy	ht_0140	3ee17ff0	رومبا البحرية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00625	kh3_char_name.enemy	ht_0150	f24b7f6e	النبضة الذهبية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00626	kh3_char_name.enemy	ht_0160	7cc4788d	بوليرو المالاكيت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00627	kh3_char_name.enemy	ht_0170	b06e7813	بوب كات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00628	kh3_char_name.enemy	ht_0180	694e6abf	بوب كات الحيوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00629	kh3_char_name.enemy	ht_0190	a5e46a21	بوب كات السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00630	kh3_char_name.enemy	ht_0200	cd35a3fa	بوب كات التركيز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00631	kh3_char_name.enemy	ht_0210	019fa364	بوب كات موني	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00632	kh3_char_name.enemy	ht_0220	8f10a487	الرامي الغريب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00633	kh3_char_name.enemy	ht_0230	43baa419	ترول الصخر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00634	kh3_char_name.enemy	ht_0240	497fad00	ترول المعدن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00635	kh3_char_name.enemy	ht_0250	85d5ad9e	الساتير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00636	kh3_char_name.enemy	ht_0260	0b5aaa7d	القنطور الآلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00637	kh3_char_name.enemy	ht_0270	c7f0aae3	جندي اللعب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00638	kh3_char_name.enemy	ht_0280	1ed0b84f	مدفع العمود	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00639	kh3_char_name.enemy	ht_0290	d27ab8d1	الدمية المتحركة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00640	kh3_char_name.enemy	ht_0300	5690ef95	القوة الجامحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00641	kh3_char_name.enemy	ht_0310	9a3aef0b	المجرفة النطاطة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00642	kh3_char_name.enemy	ht_0320	14b5e8e8	حسناء المظلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00643	kh3_char_name.enemy	ht_0330	d81fe876	الزعيم المنتفخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00644	kh3_char_name.enemy	ht_0340	d2dae16f	الكرة المنتفخة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00645	kh3_char_name.enemy	ht_0350	1e70e1f1	عربة الفوضى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00646	kh3_char_name.enemy	ht_0360	90ffe612	قرن الشتاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00647	kh3_char_name.enemy	ht_0370	5c55e68c	فراشة البخار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00648	kh3_char_name.enemy	ht_0380	8575f420	جنية البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00649	kh3_char_name.enemy	ht_0390	49dff4be	سحلية الرمح	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00650	kh3_char_name.enemy	ht_0400	2208061a	مغير المرساة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00651	kh3_char_name.enemy	ht_0410	eea20684	نصل الإطار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00652	kh3_char_name.enemy	ht_0420	602d0167	دارك سايد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00653	kh3_char_name.enemy	ht_0430	ac8701f9	مد الشياطين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00654	kh3_char_name.enemy	ht_0440	a64208e0	برج الشياطين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00655	kh3_char_name.enemy	ht_0450	6ae8087e	ملك الألعاب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00656	kh3_char_name.enemy	ht_0460	e4670f9d	الحارسة الكئيبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00657	kh3_char_name.enemy	ht_0470	28cd0f03	أفعى الصقيع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00658	kh3_char_name.enemy	ht_0480	f1ed1daf	سكول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00659	kh3_char_name.enemy	ht_0490	3d471d31	النسر الغاضب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00660	kh3_char_name.enemy	ht_0500	b9ad4a75	صياد البرق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00661	kh3_char_name.enemy	ht_0510	75074aeb	المكعبات المظلمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00662	kh3_char_name.enemy	ht_0520	fb884d08	الليتش	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00663	kh3_char_name.enemy	ht_0530	37224d96	كاتاستروكورس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00664	kh3_char_name.enemy	ht_0540	3de7448f	بودينغ الكرز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00665	kh3_char_name.enemy	ht_0550	f14d4411	بودينغ الفراولة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00666	kh3_char_name.enemy	ht_0560	7fc243f2	بودينغ البرتقال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00667	kh3_char_name.enemy	ht_0570	b368436c	بودينغ الموز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00668	kh3_char_name.enemy	ht_0580	6a4851c0	بودينغ العنب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00669	kh3_char_name.enemy	ht_0590	a6e2515e	بودينغ شمام العسل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00670	kh3_char_name.enemy	ht_0600	ce339885	بودينغ البطيخ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00671	kh3_char_name.enemy	ht_0610	0299981b	الجحيم المظلم χ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00672	kh3_char_name.enemy	ht_0620	8c169ff8	دارك سايد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00673	kh3_char_name.enemy	nb_0010	274e1ed8	الداسك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00674	kh3_char_name.enemy	nb_0020	a9c1193b	القناص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00675	kh3_char_name.enemy	nb_0030	656b19a5	المهتاج	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00676	kh3_char_name.enemy	nb_0040	6fae10bc	المقامر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00677	kh3_char_name.enemy	nb_0050	a3041022	الساحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00678	kh3_char_name.enemy	nb_0060	2d8b17c1	الحاصد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00679	kh3_char_name.enemy	nb_0070	e121175f	النينجا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00680	kh3_char_name.enemy	uv_0010	250dc1a5	الفيضان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00681	kh3_char_name.enemy	uv_0020	ab82c646	أفعى الزهور	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00682	kh3_char_name.enemy	uv_0030	6728c6d8	السلحفاة الضفدعية الشائكة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00683	kh3_char_name.enemy	uv_0040	6dedcfc1	السلحفاة الضفدعية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00684	kh3_char_name.enemy	uv_0050	a147cf5f	كتلة الرعب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00685	kh3_char_name.enemy	uv_0060	2fc8c8bc	يد القطران	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00686	kh3_char_name.enemy	uv_0070	e362c822	كتلة الرعب B	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00687	kh3_char_name.enemy	uv_0080	3a42da8e	كتلة الرعب A	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00688	kh3_char_name.enemy	other_0010	b6819bff	جيغاس: فئة القوة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00689	kh3_char_name.enemy	other_0020	380e9c1c	جيغاس: فئة السرعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00690	kh3_char_name.enemy	other_0030	f4a49c82	جيغاس: فئة المدفعي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00691	kh3_char_name.enemy	other_0040	fe61959b	وحوش وحشرات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00692	kh3_char_name.enemy	other_0050	32cb9505	حيوانات مرقعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00693	kh3_char_name.enemy	other_0060	bc4492e6	روبوتات جوية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00694	kh3_char_name.enemy	other_0070	70ee9278	حيوانات أليفة نطاطة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00695	kh3_char_name.enemy	other_0080	a9ce80d4	المحطم الأعظم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00696	kh3_char_name.enemy	other_0090	6564804a	العنبر الملائكي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00697	kh3_char_name.enemy	other_0100	e18ed70e	جيغاس: آس القوة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00698	kh3_char_name.enemy	other_0110	2d24d790	جيغاس: آس السرعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00699	kh3_char_name.enemy	other_0120	a3abd073	جيغاس: آس المدفعي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00700	kh3_char_name.enemy	other_0130	6f01d0ed	جيغاس: الآس الصغير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+00701	kh3_char_name.enemy	other_0140	65c4d9f4	جيغاس: الآس الفائق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1

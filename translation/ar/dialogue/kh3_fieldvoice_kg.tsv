@@ -1,0 +1,45 @@
+id	namespace	key	source_hash	AR	status	note
+08800	kh3_fieldvoice_kg.chat	sora_0010	3e52a19e		todo	
+08801	kh3_fieldvoice_kg.chat	sora_0020	b0dda67d	ما <i(on)>هذا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08802	kh3_fieldvoice_kg.chat	sora_0030	7c77a6e3	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08803	kh3_fieldvoice_kg.chat	sora_0031	c4cbc186	هيا بنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08804	kh3_fieldvoice_kg.chat	sora_0110	a5f7edf1	هذه فرصتنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08805	kh3_fieldvoice_kg.chat	sora_0130	e7d2ea8c	أوشكنا على الانتهاء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08806	kh3_fieldvoice_kg.chat	sora_0150	21bde30b	و... الآن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08807	kh3_fieldvoice_kg.chat	sora_0170	6398e476	لا بد أن الآخرين<br>في مكان ما هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08808	kh3_fieldvoice_kg.chat	sora_0180	bab8f6da	آه، يبدو أن علي أن أعبر<br>الباب قبل أن يغلق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08809	kh3_fieldvoice_kg.chat	sora_0190	7612f644	إذن، هذه الألواح في الأرض<br>مفاتيح للأبواب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08810	kh3_fieldvoice_kg.chat	sora_0200	1ec33f9f	الشمس تغرب...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08811	kh3_fieldvoice_kg.chat	sora_0210	d2693f01	هل حل الليل بالفعل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08812	kh3_fieldvoice_kg.chat	sora_0240	9a893165	لا يمكننا إضاعة<br>المزيد من الوقت هنا.<pb(1.9)>الآخرون يحتاجون مساعدتنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08813	kh3_fieldvoice_kg.chat	sora_0250	562331fb	كايري وأكوا والآخرون<br>يقاتلون هناك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08814	kh3_fieldvoice_kg.chat	sora_0260	d8ac3618	زيهانورت ما زال هنا في مكان ما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08815	kh3_fieldvoice_kg.chat	sora_0270	14063686	من الأفضل أن أستعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08816	kh3_fieldvoice_kg.chat	donald_0010	0aea742c	يجب أن نقضي<br>عليهم جماعات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08817	kh3_fieldvoice_kg.chat	donald_0020	846573cf	يجب أن نتحرك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08818	kh3_fieldvoice_kg.chat	donald_0030	48cf7351	يجب أن نذهب نحن أيضا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08819	kh3_fieldvoice_kg.chat	donald_0040	420a7a48	مقبرة الكيبلايد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08820	kh3_fieldvoice_kg.chat	donald_0050	8ea07ad6	أنا سعيد حقا لأن الأبواب اختفت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08821	kh3_fieldvoice_kg.chat	donald_0060	002f7d35	هيا بنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08822	kh3_fieldvoice_kg.chat	donald_0070	cc857dab	يجب أن نواصل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08823	kh3_fieldvoice_kg.chat	goofy_0010	09ab32a8	نعم، انظروا إليهم كلهم!<br>لا يتوقفون عن المجيء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08824	kh3_fieldvoice_kg.chat	goofy_0020	8724354b	الجميع سبقونا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08825	kh3_fieldvoice_kg.chat	goofy_0030	4b8e35d5	لنلحق بهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08826	kh3_fieldvoice_kg.chat	goofy_0040	414b3ccc	يا للعجب، حدث الكثير<br>هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08827	kh3_fieldvoice_kg.chat	goofy_0050	8de13c52	الجدران كثيرة حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08828	kh3_fieldvoice_kg.chat	goofy_0060	036e3bb1	أولا يجب أن نجد الآخرين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08829	kh3_fieldvoice_kg.chat	goofy_0070	cfc43b2f	أتساءل ماذا ينتظرنا في الأمام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+08830	kh3_fieldvoice_kg.talk	donald_0010	0aea742c		todo	
+08831	kh3_fieldvoice_kg.talk	donald_0020	846573cf		todo	
+08832	kh3_fieldvoice_kg.talk	donald_0030	48cf7351		todo	
+08833	kh3_fieldvoice_kg.talk	donald_0040	420a7a48		todo	
+08834	kh3_fieldvoice_kg.talk	donald_0050	8ea07ad6		todo	
+08835	kh3_fieldvoice_kg.talk	donald_0060	002f7d35		todo	
+08836	kh3_fieldvoice_kg.talk	goofy_0010	09ab32a8		todo	
+08837	kh3_fieldvoice_kg.talk	goofy_0020	8724354b		todo	
+08838	kh3_fieldvoice_kg.talk	goofy_0030	4b8e35d5		todo	
+08839	kh3_fieldvoice_kg.talk	goofy_0040	414b3ccc		todo	
+08840	kh3_fieldvoice_kg.talk	goofy_0050	8de13c52		todo	
+08841	kh3_fieldvoice_kg.talk	goofy_0060	036e3bb1		todo	
+08842	kh3_fieldvoice_kg.talk	goofy_0070	cfc43b2f		todo	
+08843	kh3_fieldvoice_kg.talk	goofy_0080	16e42983		todo	

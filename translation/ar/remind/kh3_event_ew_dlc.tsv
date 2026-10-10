@@ -1,0 +1,72 @@
+id	namespace	key	source_hash	AR	status	note
+02484	kh3_event_ew_dlc.ew953a	ew9530020sr0	d08fe856	هذا هو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02485	kh3_event_ew_dlc.ew953a	ew9530040sr0	54ac7583	تشيريثي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02486	kh3_event_ew_dlc.ew953a	ew9530050cs0	f179a3a7	عدت بهذه السرعة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02487	kh3_event_ew_dlc.ew953a	ew9530070cs0	3bb7d52b	ما الأمر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02488	kh3_event_ew_dlc.ew953a	ew9530080sr0	879a4868	حسنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02489	kh3_event_ew_dlc.ew953a	ew9530090cs0	224f9e4c	حتى مع قوة اليقظة،<br>لا يمكنك أن تعيد شخصا هكذا ببساطة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02490	kh3_event_ew_dlc.ew953a	ew9530100sr0	9b64fbfd	لكن قلب كايري لم يضع بعد.<br>ما زالت معنا، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02491	kh3_event_ew_dlc.ew953a	ew9530110cs0	3eb12dd9	ربما، لكن هذه المرة أخشى<br>أن الوضع أسوأ بكثير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02492	kh3_event_ew_dlc.ew953a	ew9530120sr0	51aa8d71	مهلا، لقد أعدت ستة قلوب فعلا.<br>فما الصعوبة في قلب واحد آخر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02493	kh3_event_ew_dlc.ew953a	ew9530120sr0b	c2819abf		todo	
+02494	kh3_event_ew_dlc.ew953a	ew9530130cs0_1	da67a8a1	لكن هذه ليست الطريقة التي يفترض أن تعمل بها القوة أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02495	kh3_event_ew_dlc.ew953a	ew9530130cs0_2	c8d2074f	قوة اليقظة وجدت لتوقظ<br>القلوب النائمة وتعيدها،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02496	kh3_event_ew_dlc.ew953a	ew9530130cs0_2b	50e25365		todo	
+02497	kh3_event_ew_dlc.ew953a	ew9530130cs0_3	706e602a	لا لتعيدها بعد أن تلاشت<br>تماما من الوجود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02498	kh3_event_ew_dlc.ew953a	ew9530130cs1_1	41c2e4ce	لقد فعلت ذلك ست مرات من قبل،<br>ونتيجة لذلك،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02499	kh3_event_ew_dlc.ew953a	ew9530130cs1_2	53774b20	غيرت مسار التاريخ نفسه<br>تغييرا كبيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02500	kh3_event_ew_dlc.ew953a	ew9530130cs2	5e7693de	لقد كسرت محرما من محرمات الطبيعة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02501	kh3_event_ew_dlc.ew953a	ew9530140sr0	d58910a4	الطبيعة...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02502	kh3_event_ew_dlc.ew953a	ew9530150cs0_1	dfdba6ef	فعل محظور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02503	kh3_event_ew_dlc.ew953a	ew9530150cs0_2	cd6e0901	من يكسر محرما من محرمات الطبيعة،<br>يدفع ثمنا باهظا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02504	kh3_event_ew_dlc.ew953a	ew9530170sr0_1	921e6661	سمعت هذا من قبل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02505	kh3_event_ew_dlc.ew953a	ew9530170sr0_2	80abc98f	إذن ما هو الثمن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02506	kh3_event_ew_dlc.ew953a	ew9530180cs0	c60dc02d	ستفقد قواك. لن تستطيع<br>استخدام قوة اليقظة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02507	kh3_event_ew_dlc.ew953a	ew9530190sr0	63d81609	هذا كل شيء? لا مشكلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02508	kh3_event_ew_dlc.ew953a	ew9530200cs0_1	11a6a739	لكن هذا ليس كل شيء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02509	kh3_event_ew_dlc.ew953a	ew9530200cs0_2	031308d7	أنت نفسك... ستختفي من هذا العالم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02510	kh3_event_ew_dlc.ew953a	ew9530200cs0_3	bbaf6fb2	وبدون قواك، لا يمكنك العودة<br>إلى العالم الذي أتيت منه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02511	kh3_event_ew_dlc.ew953a	ew9530220sr0	09b42459	لا يهمني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02512	kh3_event_ew_dlc.ew953a	ew9530230cs0	ac61f27d	ماذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02513	kh3_event_ew_dlc.ew953a	ew9530240sr0_1	59df69f9	هناك أشياء كثيرة لا أفهمها،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02514	kh3_event_ew_dlc.ew953a	ew9530240sr0_2	4b6ac617	لكنني أعرف أن هذا كل ما أستطيع فعله الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02515	kh3_event_ew_dlc.ew953a	ew9530240sr0_3	f3d6a172	علي أن أفعل كل ما أستطيع لإعادة كايري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02516	kh3_event_ew_dlc.ew953a	ew9530240sr0_4	6e0199cb	هذا هو سبب رحلتي كله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02517	kh3_event_ew_dlc.ew953a	ew9530250cs0	28426fa8	...لا أستطيع إيقافك، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02518	kh3_event_ew_dlc.ew953a	ew9530260sr0	4759cf00	لا، علي أن أتبع قلبي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02519	kh3_event_ew_dlc.ew953a	ew9530270cs0	e28c1924	همم... حسنا، إذن هذا وداع حقا،<br>فاستمع إلي جيدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02520	kh3_event_ew_dlc.ew953a	ew9530280sr0	5ea18467		todo	
+02521	kh3_event_ew_dlc.ew953a	ew9530290cs0_1	1dbcb2cc	<i(on)>ستعود إلى الماضي مرة أخرى،<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02522	kh3_event_ew_dlc.ew953a	ew9530290cs0_2	0f091d22	<i(on)>لكنك لن تستطيع إعادة كتابته هذه المرة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02523	kh3_event_ew_dlc.ew953a	ew9530290cs0_3	b7b57a47	<i(on)>مهما حدث، عليك أن تتقبله وتمضي قدما.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02524	kh3_event_ew_dlc.ew959a	ew9590010sr0_1	99f3ceb5	<i(on)>فين، أكوا، تيرا، روكساس...<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02525	kh3_event_ew_dlc.ew959a	ew9590010sr0_2	8b46615b	<i(on)>...وأنا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02526	kh3_event_ew_dlc.ew959a	ew9590010sr0_3	33fa063e	<i(on)>هذا مجموع خمسة حراس.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02527	kh3_event_ew_dlc.ew959a	ew9590020sr0	0b5ed117	<i(on)>علي فقط أن أتتبع قلبين<br>آخرين، وبعدها أصل إلى كايري.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02528	kh3_event_ew_dlc.ew959a	ew9590030sr0	6e39ea51	<i(on)>السؤال هو "متى"?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02529	kh3_event_ew_dlc.ew979a	ew9790030kr0	95bdde38	إنه جميل جدا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02530	kh3_event_ew_dlc.ew979a	ew9790060sr0	b4239525	كايري.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02531	kh3_event_ew_dlc.ew979a	ew9790070sr0	d144ae63	هيا. الجميع ينتظر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02532	kh3_event_ew_dlc.ew979a	ew9790080kr0	a7cf4540		todo	
+02533	kh3_event_ew_dlc.ew979a	ew9790100sr0	b1256dd7		todo	
+02534	kh3_event_ew_dlc.ew979a	ew9790120kr0	71ff8059	ما الأمر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02535	kh3_event_ew_dlc.ew979a	ew9790130sr0	1e8c201d	حسنا... صديقي يفترض أن يكون هنا، لكن...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02536	kh3_event_ew_dlc.ew979a	ew9790140sr0	ffc8868e	هييي! تشيريثي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02537	kh3_event_ew_dlc.ew979a	ew9790150sr0	9aafbdc8	واو! مهلا، لماذا لم تقل شيئا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02538	kh3_event_ew_dlc.ew979a	ew9790160cs0	f5b41d60	كنت فقط أحاول أن أمنحك بعض الخصوصية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02539	kh3_event_ew_dlc.ew979a	ew9790190kr0	438d1b21	تشرفت بمعرفتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02540	kh3_event_ew_dlc.ew979a	ew9790200cs0	2989299d	أوه، وأنا أيضا! سعيد أنك بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02541	kh3_event_ew_dlc.ew979a	ew9790210sr0	8c5cffb9	تشيريثي، نحن عائدون إلى الديار.<br>عليك أن تأتي معنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02542	kh3_event_ew_dlc.ew979a	ew9790220cs0	e3475f11	ماذا...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02543	kh3_event_ew_dlc.ew979a	ew9790230sr0	46928935	صدقني، ليس كافيا أن<br>تنتظر شخصا يهمك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02544	kh3_event_ew_dlc.ew979a	ew9790230sr1_1	6da80531	صحيح أن القلوب مرتبطة<br>أينما كنت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02545	kh3_event_ew_dlc.ew979a	ew9790230sr1_2	7f1daadf	إن كان من المستحيل أن تكونوا معا،<br>فكل ما يمكنك فعله هو الانتظار.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02546	kh3_event_ew_dlc.ew979a	ew9790230sr2	ec9b41be	لكن إن كان ممكنا أن تكونوا معا،<br>فهكذا ينبغي أن يكون.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02547	kh3_event_ew_dlc.ew979a	ew9790240cs0	6764c2c4	سورا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02548	kh3_event_ew_dlc.ew979a	ew9790250sr0	c2b114e0	تعرف، هذا مكان جميل حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02549	kh3_event_ew_dlc.ew979a	ew9790250sr0b	f58f9665	لكنك ستستمتع به أكثر بكثير<br>مع شخص يهمك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02550	kh3_event_ew_dlc.ew979a	ew9790250sr1_1	68140b7f	من قبل، عندما كنت أتجول مع كايري،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02551	kh3_event_ew_dlc.ew979a	ew9790250sr1_2	7aa1a491	تذكرت كم هو مهم...<br>أن نتشارك اللحظات مع الأصدقاء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02552	kh3_event_ew_dlc.ew979a	ew9790250sr2	68b8dc6b	لهذا ستأتي معنا. سآخذك<br>لترى صديقك تشيريثي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+02553	kh3_event_ew_dlc.ew979a	ew9790260cs0	adaab448		todo	
+02554	kh3_event_ew_dlc.ew979a	ew9790290sr0	1187290b	حسنا! لنذهب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2

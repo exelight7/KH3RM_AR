@@ -1,0 +1,178 @@
+id	namespace	key	source_hash	AR	status	note
+14860	kh3_minigame.remy	name_category_0010	0e67aaf2	المقبلات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14861	kh3_minigame.remy	name_category_0020	80e8ad11	الحساء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14862	kh3_minigame.remy	name_category_0030	4c42ad8f	الأسماك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14863	kh3_minigame.remy	name_category_0040	4687a496	اللحوم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14864	kh3_minigame.remy	name_category_0050	8a2da408	الحلويات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14865	kh3_minigame.remy	name_category_0010_f	033d8848		todo	skip: empty
+14866	kh3_minigame.remy	name_category_0020_f	2af53cba		todo	skip: empty
+14867	kh3_minigame.remy	name_category_0030_f	849dad2b		todo	skip: empty
+14868	kh3_minigame.remy	name_category_0040_f	7964555e		todo	skip: empty
+14869	kh3_minigame.remy	name_category_0050_f	d70cc4cf		todo	skip: empty
+14870	kh3_minigame.remy	name_category_0060_f	fec4703d		todo	skip: empty
+14871	kh3_minigame.remy	name_notsuccess_0010	aa50d126		todo	skip: no Latin letters (native script / symbols)
+14872	kh3_minigame.remy	cookingname_0010	715deaa5	محار مقلي	reviewed	unsure: French dish names (Latin/accents not allowed) rendered in Arabic by meaning or transliteration; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14873	kh3_minigame.remy	cookingname_0020	ffd2ed46	موس الكركند	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14874	kh3_minigame.remy	cookingname_0030	3378edd8	راتاتوي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14875	kh3_minigame.remy	cookingname_0040	39bde4c1	تيرين الفطر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14876	kh3_minigame.remy	cookingname_0050	f517e45f	فيلوتيه القرع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14877	kh3_minigame.remy	cookingname_0060	7b98e3bc	كونسوميه	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14878	kh3_minigame.remy	cookingname_0070	b732e322	حساء الجزر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14879	kh3_minigame.remy	cookingname_0080	6e12f18e	بيسك السلطعون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14880	kh3_minigame.remy	cookingname_0090	a2b8f110	سمك موسى بطريقة الطحان	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14881	kh3_minigame.remy	cookingname_0100	2652a654	ماتلوت الأنقليس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14882	kh3_minigame.remy	cookingname_0110	eaf8a6ca	قاروص في ورق الزبدة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14883	kh3_minigame.remy	cookingname_0120	6477a129	بويابيس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14884	kh3_minigame.remy	cookingname_0130	a8dda1b7	بنكرياس العجل المقلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14885	kh3_minigame.remy	cookingname_0140	a218a8ae	لحم بقري سوتيه	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14886	kh3_minigame.remy	cookingname_0150	6eb2a830	لحم بقري بورغينيون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14887	kh3_minigame.remy	cookingname_0160	e03dafd3	سمان محشو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14888	kh3_minigame.remy	cookingname_0170	2c97af4d	كريب سوزيت	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14889	kh3_minigame.remy	cookingname_0180	f5b7bde1	موس الشوكولاتة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14890	kh3_minigame.remy	cookingname_0190	391dbd7f	كومبوت الفاكهة الطازجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14891	kh3_minigame.remy	cookingname_0200	51cc74a4	توت بالجبن الأبيض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14892	kh3_minigame.remy	cookingname_0210	9d66743a	سلطة كابريزي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14893	kh3_minigame.remy	cookingname_0220	13e973d9	حساء الطماطم البارد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14894	kh3_minigame.remy	cookingname_0230	df437347	تارتار المأكولات البحرية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14895	kh3_minigame.remy	cookingname_0240	d5867a5e	قاروص مقلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14896	kh3_minigame.remy	cookingname_0250	192c7ac0	فيليه مينيون مقلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14897	kh3_minigame.remy	cookingname_0260	97a37d23	سوفليه الموز الدافئ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14898	kh3_minigame.remy	cookingname_0270	5b097dbd	جيلي الفاكهة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14899	kh3_minigame.remy	cookingname_0280	82296f11	فطيرة الفاكهة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14900	kh3_minigame.remy	detail_cookingname_0010	8d490bea	محار إسكالوب ضخم محمر بإتقان في زيت زيتون غني وعطري.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14901	kh3_minigame.remy	detail_cookingname_0020	03c60c09	مزيج مغامر بين نكهة الكركند الفاخرة وقوام الموس الطريف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14902	kh3_minigame.remy	detail_cookingname_0030	cf6c0c97	قوس قزح من الخضار المقطعة شرائح رقيقة والمحمصة ببطء ومشبعة بنكهة شهية. طبق قريب من قلب الطاهي الصغير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14903	kh3_minigame.remy	detail_cookingname_0040	c5a9058e	تشكيلة فطر فاخرة معقدة القوام والعبير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14904	kh3_minigame.remy	detail_cookingname_0050	09030510	حساء غني وناعم كالمخمل يبرز حلاوة القرع الطبيعية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14905	kh3_minigame.remy	detail_cookingname_0060	878c02f3	هذا الحساء الكهرماني الشفاف سحر الأومامي بحد ذاته على اللسان.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14906	kh3_minigame.remy	detail_cookingname_0070	4b26026d	الحلاوة البسيطة للجزر المتواضع هي سر جاذبية هذا الحساء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14907	kh3_minigame.remy	detail_cookingname_0080	920610c1	تتخلل نكهة السلطعون القوية كل ملعقة من هذا الحساء الغني الكريمي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14908	kh3_minigame.remy	detail_cookingname_0090	5eac105f	شريحة سمك موسى ممتازة مغموسة بالطحين ومقلية في زبدة ذهبية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14909	kh3_minigame.remy	detail_cookingname_0100	da46471b	قطع فاخرة من الأنقليس تلتقي بتشكيلة من الأعشاب العطرية في هذه اليخنة المطهوة بالنبيذ الأحمر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14910	kh3_minigame.remy	detail_cookingname_0110	16ec4785	قاروص وأعشاب مغلفان بورق الزبدة ومطهوان بالبخار في الفرن. حزمة بهجة للحنك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14911	kh3_minigame.remy	detail_cookingname_0120	98634066	يخنة مليئة بالمأكولات البحرية والخضار العطرية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14912	kh3_minigame.remy	detail_cookingname_0130	54c940f8	النكهة الكثيفة والقوام الهوائي للبنكرياس مع صلصة زبدة الليمون المنعشة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14913	kh3_minigame.remy	detail_cookingname_0140	5e0c49e1	قطع لحم بقري عصارية تقلب بسرعة في المقلاة لحبس نكهة اللحم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14914	kh3_minigame.remy	detail_cookingname_0150	92a6497f	خد بقري مطهو بحب في النبيذ الأحمر لساعات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14915	kh3_minigame.remy	detail_cookingname_0160	1c294e9c	سمان ممتلئ محشو بوفرة من الأطايب ومحمر حتى يصير ذهبيا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14916	kh3_minigame.remy	detail_cookingname_0170	d0834e02	كريب ذهبي رقيق مزين بكراميل البرتقال الحمضي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14917	kh3_minigame.remy	detail_cookingname_0180	09a35cae	شوكولاتة فاخرة عطرة مخفوقة في موس خفيف يذوب في الفم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14918	kh3_minigame.remy	detail_cookingname_0190	c5095c30	فاكهة طازجة مطهوة بلطف في شراب سكري لتعزيز نكهتها مع الحفاظ على قوامها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14919	kh3_minigame.remy	detail_cookingname_0200	add895eb	الحموضة الحلوة للجبن الأبيض تتناغم تماما مع الحلاوة الحامضة للتوت الطازج.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14920	kh3_minigame.remy	detail_cookingname_0210	61729575	طماطم عصارية تلتقي بالفراولة المشرقة في مزيج متوازن رائع بين الحلو والحامض.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14921	kh3_minigame.remy	detail_cookingname_0220	effd9296	عصارة الطماطم الناضجة والبطيخ تمتزج في هذا الحساء البارد الممتع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14922	kh3_minigame.remy	detail_cookingname_0230	23579208	نكهة الحمضيات المنعشة اللاذعة توحد هذه الباقة من المأكولات البحرية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14923	kh3_minigame.remy	detail_cookingname_0240	29929b11	قاروص مشوي على جلده حتى يصير مقرمشا مغريا ثم يقدم مع صلصة العنب الفاكهية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14924	kh3_minigame.remy	detail_cookingname_0250	e5389b8f	المذاق الراقي لفيليه مينيون يعززه صلصة الكرز التي توازن بمهارة بين الحامض والحلو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14925	kh3_minigame.remy	detail_cookingname_0260	6bb79c6c	سوفليه دافئ مصنوع بكمية وفيرة من الموز الناضج ويقترن بشكل رائع مع الآيس كريم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14926	kh3_minigame.remy	detail_cookingname_0270	a71d9cf2	حلوى خيالية تجمع نكهة الفاكهة الطازجة العصارية بمتعة الجيلاتين الناعم كالحرير.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14927	kh3_minigame.remy	detail_cookingname_0280	7e3d8e5e	قاعدة بسكويت زبدة مقرمشة وهشة تعلوها وفرة من الفاكهة. من إبداعات الطاهي الصغير المميزة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14928	kh3_minigame.remy	detail_nostuff_0010	290dea5f	أحضر مكونات جديدة إلى الطاهي الصغير ليساعده ذلك في إيجاد الإلهام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14929	kh3_minigame.remy	detail_notsuccess_0010	f92bd129	يبدو أن لدى الطاهي الصغير فكرة لمقبلات جديدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14930	kh3_minigame.remy	detail_notsuccess_0020	77a4d6ca	يبدو أن لدى الطاهي الصغير فكرة لحساء جديد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14931	kh3_minigame.remy	detail_notsuccess_0030	bb0ed654	يبدو أن لدى الطاهي الصغير فكرة لطبق سمك جديد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14932	kh3_minigame.remy	detail_notsuccess_0040	b1cbdf4d	يبدو أن لدى الطاهي الصغير فكرة لطبق لحم جديد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14933	kh3_minigame.remy	detail_notsuccess_0050	7d61dfd3	يبدو أن لدى الطاهي الصغير فكرة لحلوى جديدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14934	kh3_minigame.remy	menu_0010	bbe8907f	الوصفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14935	kh3_minigame.remy	menu_0020	3567979c	المكونات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14936	kh3_minigame.remy	menu_0030	f9cd9702	المخزون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14937	kh3_minigame.remy	menu_0055	087c6eb7	تحضير هذا الطبق?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14938	kh3_minigame.remy	menu_0060	b12d9966	بدء الطهي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14939	kh3_minigame.remy	menu_0065	86f36954	إلغاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14940	kh3_minigame.remy	menu_0070	7d8799f8	من هذا الطبق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14941	kh3_minigame.remy	menu_0080	a4a78b54	الأغراض المكتسبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14942	kh3_minigame.remy	dialog_0010	4a0702a0	تم الحصول على <color(strong)>{0}<color> ×{1}.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14943	kh3_minigame.remy	dialog_0020	c4880543	طهي هذه الوصفة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14944	kh3_minigame.remy	dialog_0021	7c346226	العودة إلى القائمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14945	kh3_minigame.remy	dialog_0030	082205dd	حصل المطعم على نجمة جديدة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14946	kh3_minigame.remy	dialog_0040	02e70cc4	حصل المطعم على نجمته الأخيرة!<br>لا يوجد شرف أعلى للمطعم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14947	kh3_minigame.remy	dialog_0050	ce4d0c5a	الذهاب لرؤية الطاهي الصغير?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14948	kh3_minigame.remy	dialog_0060	40c20bb9	<color(strong)>لا تملك مكونات كافية للطهي.<color><br>هل تدخل المطعم رغم ذلك?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14949	kh3_minigame.remy	dialog_0070	8c680b27	الدخول?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14950	kh3_minigame.remy	dialog_0080	5548198b	الطهي مع الطاهي الصغير?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14951	kh3_minigame.remy	dialog_0090	99e21915	تم فتح القائمة الخاصة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14952	kh3_minigame.remy	dialog_0100	1d084e51	هل أنت مستعد لبدء الطهي?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14953	kh3_minigame.remy	dialog_0110	d1a24ecf	مغادرة المطعم?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14954	kh3_minigame.remy	dialog_0200	6a969ca1	قد يؤدي هذا إلى <color(strong)>طهي كمية أكبر مما تستطيع حمله<color>. المتابعة رغم ذلك?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14955	kh3_minigame.remy	button_0010	09e6bf48	<icon(R2)> القائمة الخاصة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14956	kh3_minigame.remy	button_0011	b15ad82d	<icon(L2)> القائمة الكلاسيكية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14957	kh3_minigame.pooh	dialog_0010	4a0702a0	هل تريد اللعب مرة أخرى?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14958	kh3_minigame.lsi	gamechoice_0480	7dbb4c40		todo	skip: numbers/symbols
+14959	kh3_minigame.lsi	gamechoice_0490	b1114cde		todo	skip: numbers/symbols
+14960	kh3_minigame.lsi	gamechoice_0500	35fb1b9a		todo	skip: no Latin letters (native script / symbols)
+14961	kh3_minigame.lsi	gamechoice_0510	f9511b04		todo	skip: ordinal suffix (1st/2nd/3rd) has no Arabic equivalent, appended to a number
+14962	kh3_minigame.lsi	gamechoice_0520	77de1ce7		todo	skip: ordinal suffix (1st/2nd/3rd) has no Arabic equivalent, appended to a number
+14963	kh3_minigame.lsi	gamechoice_0530	bb741c79		todo	skip: ordinal suffix (1st/2nd/3rd) has no Arabic equivalent, appended to a number
+14964	kh3_minigame.lsi	gamechoice_0540	b1b11560	النقاط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14965	kh3_minigame.lsi	gamechoice_0550	7d1b15fe	الوضع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14966	kh3_minigame.lsi	gamechoice_0560	f394121d	اللعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14967	kh3_minigame.lsi	gamechoice_0570	3f3e1283	A	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14968	kh3_minigame.lsi	gamechoice_0575	08e0e2b1	B	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14969	kh3_minigame.lsi	gamechoice_0580	e61e002f	المرحلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14970	kh3_minigame.lsi	gamechoice_0590	2ab400b1	المسابقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14971	kh3_minigame.lsi	gamechoice_0600	4265c96a	الرقم القياسي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14972	kh3_minigame.lsi	gamechoice_0610	8ecfc9f4	100 متر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14973	kh3_minigame.lsi	gamechoice_0620	0040ce17	الحواجز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14974	kh3_minigame.lsi	gamechoice_0630	cceace89	القفز الثلاثي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14975	kh3_minigame.lsi	gamechoice_0640	c62fc790	{0}|plural(one=شوط,other=أشواط)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14976	kh3_minigame.lsi	gamechoice_0650	0a85c70e	الانتصارات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14977	kh3_minigame.lsi	gamechoice_0660	840ac0ed		todo	skip: numbers/symbols
+14978	kh3_minigame.lsi	gamechoice_0670	48a0c073		todo	skip: numbers/symbols
+14979	kh3_minigame.lsi	gamechoice_0675	7f7e3041		todo	skip: numbers/symbols
+14980	kh3_minigame.lsi	gamechoice_0680	9180d2df	{0}|plural(one=حفرة,other=حفر)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14981	kh3_minigame.lsi	gamechoice_0690	5d2ad241	ث	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14982	kh3_minigame.lsi	gamechoice_0700	d9c08505	م	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14983	kh3_minigame.lsi	gamechoice_0710	156a859b	صل إلى ميكي واهرب من غرفة العملاق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14984	kh3_minigame.lsi	gamechoice_0720	9be58278	قد الطائرة والتقط البريد المتساقط.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14985	kh3_minigame.lsi	gamechoice_0730	574f82e6	أدر الأنابيب لتدحرج البيض بأمان إلى الصناديق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14986	kh3_minigame.lsi	gamechoice_0740	5d8a8bff	وجه ميكي واجمع جميع سلال النزهة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14987	kh3_minigame.lsi	gamechoice_0750	91208b61	أنقذ ميكي من قلعة الدكتور المجنون المخيفة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14988	kh3_minigame.lsi	gamechoice_0760	1faf8c82	جز العشب بإستراتيجية مع تجنب العقبات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14989	kh3_minigame.lsi	gamechoice_0770	d3058c1c	استخدم سيارة الأجرة لنقل الركاب إلى الوجهة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14990	kh3_minigame.lsi	gamechoice_0780	0a259eb0	تعاون مع ميكي وأوقف الأشرار المتقدمين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14991	kh3_minigame.lsi	gamechoice_0790	c68f9e2e	حضر وجبات النقانق التي يطلبها كل زبون.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14992	kh3_minigame.lsi	gamechoice_0800	ab541a74	اجمع أكبر عدد ممكن من الموز المتساقط.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14993	kh3_minigame.lsi	gamechoice_0810	67fe1aea	تخلص من جميع البعوض المزعج.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14994	kh3_minigame.lsi	gamechoice_0820	e9711d09	اضرب الكرة عبر مجموعة متنوعة من الملاعب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14995	kh3_minigame.lsi	gamechoice_0830	25db1d97	اركب دراجة بعجلة واحدة ومرر الكرة إلى الفقمة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14996	kh3_minigame.lsi	gamechoice_0840	2f1e148e	أمسك جميع الكناري الطائرة في أرجاء الغرفة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14997	kh3_minigame.lsi	gamechoice_0850	e3b41410	تحد ميكي في ثلاث مسابقات ألعاب قوى مختلفة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14998	kh3_minigame.lsi	gamechoice_0860	6d3b13f3	تسابق عبر الغابة على زلاجة وأثبت لبيت من هو الزعيم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+14999	kh3_minigame.lsi	gamechoice_0870	a191136d	أمسك القطط المشاغبة وأعدها إلى سلة ميكي.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15000	kh3_minigame.lsi	gamechoice_0880	78b101c1	تجنب الأسماك العملاقة واصطد أكبر عدد ممكن من الأسماك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15001	kh3_minigame.lsi	gamechoice_0890	b41b015f	احم ميكي وأصدقاءه من الأخطبوط العملاق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15002	kh3_minigame.lsi	gamechoice_0900	30f1561b	أخرج ميكي من السجن دون أن يلمحك الحراس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15003	kh3_minigame.lsi	gamechoice_0910	fc5b5685	تحد فريق بيت في البيسبول، اللعبة الأمريكية المفضلة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15004	kh3_minigame.lsi	gamechoice_0920	72d45166	تحكم بالرجل الآلي واطرح الغوريلا أرضا بضربة K.O.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15005	kh3_minigame.lsi	gamechoice_0930	be7e51f8	اقفز فوق البرك وصل إلى ميني بسلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15006	kh3_minigame.lsi	gamechoice_0940	b4bb58e1	تهانينا!<br>لقد حققت رقما قياسيا جديدا في كل لعبة من المملكة الكلاسيكية!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15007	kh3_minigame.lsi	text_0000	ec152dbf	المملكة الكلاسيكية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15008	kh3_minigame.lsi	text_0010	20bf2d21	اللعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15009	kh3_minigame.lsi	text_0020	ae302ac2	وحدة التحكم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15010	kh3_minigame.lsi	text_0030	629a2a5c	فعل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15011	kh3_minigame.lsi	text_0040	685f2345	يسار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15012	kh3_minigame.lsi	text_0050	a4f523db	يمين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15013	kh3_minigame.lsi	text_0060	2a7a2438	اللعبة A	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15014	kh3_minigame.lsi	text_0070	e6d024a6	اللعبة B	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15015	kh3_minigame.lsi	text_0080	3ff0360a	إعادة تعيين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15016	kh3_minigame.lsi	text_0090	f35a3694	رجوع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15017	kh3_minigame.lsi	text_0100	77b061d0	3 حفر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15018	kh3_minigame.lsi	text_0110	bb1a614e	9 حفر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15019	kh3_minigame.lsi	text_0120	359566ad	18 حفرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15020	kh3_minigame.lsi	text_0130	f93f6633	100 متر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15021	kh3_minigame.lsi	text_0140	f3fa6f2a	الحواجز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15022	kh3_minigame.lsi	text_0150	3f506fb4	القفز الثلاثي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15023	kh3_minigame.lsi	text_0160	b1df6857	متعدد الرياضات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15024	kh3_minigame.lsi	text_0170	7d7568c9	قفز	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15025	kh3_minigame.lsi	text_0180	a4557a65	اندفاع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15026	kh3_minigame.lsi	text_0190	68ff7afb	أعلى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15027	kh3_minigame.lsi	text_0200	002eb320	أسفل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15028	kh3_minigame.lsi	text_0210	cc84b3be	شوط واحد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15029	kh3_minigame.lsi	text_0220	420bb45d	3 أشواط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15030	kh3_minigame.lsi	text_0230	8ea1b4c3	6 أشواط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15031	kh3_minigame.lsi	text_0240	8464bdda	9 أشواط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15032	kh3_minigame.lsi	text_0250	48cebd44	سورا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15033	kh3_minigame.lsi	text_0260	c641baa7	ميكي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15034	kh3_minigame.lsi	text_0270	0aebba39	<icon(R1)> وضع اللعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15035	kh3_minigame.lsi	button_0010	09e6bf48	<icon(Triangle)> مساعدة اللعبة  <icon(L2)> السابق  <icon(R2)> التالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
+15036	kh3_minigame.lsi	button_0020	8769b8ab	<icon(L2)> السابق  <icon(R2)> التالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1
