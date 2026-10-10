@@ -21,12 +21,11 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 
 ## 3. Current phase, last round, next step
 
-- **Phase:** BUILD-5 installed (2026-10-10): the REVIEW-1 and REVIEW-2 corrections are in the game (`pakchunk99-arabic_P.pak`, sha e43d8f97...). 95.3 % of rows installed (16,415 / 17,222); the 807 `todo` rows carry a `skip:` note. Verified 0.6 %.
-- **Last round:** BUILD-5 (2026-10-10). The BUILD-4 pipeline unchanged (`tools\build_build5.py` wraps `build_build4.py`: same movie patches, TresFont, line breaking, no `<p align>`) on the current TSVs; 45 entries differ from BUILD-4 (list in `out\builds\BUILD-5\diff_vs_build4.tsv`, incl. row 15964); 73 files SHA256 PASS, round trip 16,391 exact + 24 same-visual + 0 fail; installed via `SWAP_TO_BUILD5.bat`. Details: `state\LAST_REPORT.md`.
-- **REVIEW-3 (2026-10-10):** unsure items decided (`review\UNSURE_REVIEW2.md` resolved). The corrections are in the TSVs but NOT in the game: BUILD-6 / v0.8.1 is needed to install REVIEW-3.
-- **Next step:** BUILD-6 / v0.8.1 (installs REVIEW-3); screenshots per `technical\BUILD5_CHECKLIST.md` (8 places).
-- **Public repository (PUBLISH-1, 2026-10-10):** https://github.com/exelight7/KH3RM_AR set up (Arabic-only translation, tools, docs); pre-release `v0.5-test (BUILD-5)` prepared. See section 10.
-- **Release v0.8.0 (RELEASE-080, 2026-10-10):** installer `KH3RM_AR_Setup_v0.8.0.exe` (WPF .NET 8, self-contained, embeds the BUILD-5 pak sha e43d8f97...); 22 self tests PASS; assets and notes in `out\release\v0.8.0\`; GitHub Release published (RELEASE-080b): tag `0.8.0` (no v), pre-release, 5 assets.
+- **Phase:** BUILD-6 installed and released as **0.8.1** (2026-10-10): `pakchunk99-arabic_P.pak` sha f6e8be85..., 4,889,997 B, in `~mods` via `SWAP_TO_BUILD6.bat`. 95.3 % of rows installed (16,415 / 17,222); the 807 `todo` rows carry a `skip:` note. Verified 0.6 %.
+- **Last round:** FINAL-1 part 1 (2026-10-10). Row 05051 fixed (`review\corrections\applied\final1_fix.tsv`); BUILD-6 = the BUILD-5 pipeline unchanged (`tools\build_build6.py` wraps `build_build4.py`); 6 entries differ from BUILD-5 (01392 01505 03913 05051 05962 06084, list in `out\builds\BUILD-6\diff_vs_build5.tsv`); 73 files SHA256 PASS, round trip 16,391 exact + 24 same-visual + 0 fail, validate 0 ERR. Installer 0.8.1 (21/21 self tests PASS). Release **0.8.1** (pre-release, 5 assets verified): https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.1 . Details: `state\LAST_REPORT.md`.
+- **Next step:** FINAL-1 part 2 (image pilot: inventory, texture codec, text renderer, 3-texture pilot pak `pakchunk98-arabic-images_P.pak`); screenshots per `technical\BUILD6_CHECKLIST.md` (6 places).
+- **Public repository:** https://github.com/exelight7/KH3RM_AR (README Download points at 0.8.1, roadmap 0.8.x text fixes / 0.9.0 images / 1.0.0 after full testing). See section 10.
+- **Releases:** 0.8.0 (BUILD-5, RELEASE-080) and 0.8.1 (BUILD-6, FINAL-1), both pre-release, tags without "v".
 
 ## 4. Decisions already made
 
@@ -80,6 +79,8 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | 2026-10-10 | Installer: C# WPF .NET 8 in `tools\installer\` (original XAML art only; optional `art\background.png` slot), self-contained single file, detects Steam (registry + libraryfolders.vdf + appmanifest 2552450) and Epic (LauncherInstalled.dat), writes only `~mods\pakchunk99-arabic_P.pak`, refuses while the game runs; unsigned (SmartScreen note in the release) | user approval, RELEASE-080 |
 | 2026-10-10 | REVIEW-3: Isla de Muerta = KH2 form (KH3 form «جزيرة الموتى» retired in glossary.tsv); unchanged by decision: 02025, 03112, 08730, 05955, 05386, 05388, 05994, 09121 | supervisor, REVIEW-3 |
 | 2026-10-10 | Release tag names have NO "v": `0.8.0`, future rounds use `0.8.x` (asset file names keep `v`, e.g. `KH3RM_AR_Setup_v0.8.0.exe`); Release 0.8.0 is live as pre-release with 5 assets (sizes/SHA256 verified) | user, RELEASE-080b |
+| 2026-10-10 | BUILD-6 = the BUILD-5 pipeline unchanged (REVIEW-3 + row 05051); release 0.8.1 created on the user's explicit FINAL-1 instruction before the BUILD-6 checklist screenshots (exception to the PUBLISH-1 release rule, this round only) | user, FINAL-1 |
+| 2026-10-10 | Arabic in round prompts arrives as \uXXXX escapes; the tool layer may turn them into Arabic before Python runs, so fragments are decoded from hex code points (`chr(int(h, 16))`) | executor, FINAL-1 |
 
 ## 5. Folders and key files (auto)
 
@@ -95,6 +96,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `SWAP_TO_BUILD3.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD4.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD5.bat` | chcp 65001 >nul |
+| `SWAP_TO_BUILD6.bat` | chcp 65001 >nul |
 | `SWAP_TO_F1.bat` | chcp 65001 >nul |
 | `SWAP_TO_F2.bat` | chcp 65001 >nul |
 | `SWAP_TO_TEST50.bat` | chcp 65001 >nul |
@@ -131,6 +133,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `technical\BUILD2_CHECKLIST.md` | قائمة فحص BUILD-2 |
 | `technical\BUILD3_CHECKLIST.md` | قائمة فحص BUILD-3 |
 | `technical\BUILD5_CHECKLIST.md` | قائمة فحص BUILD-5 |
+| `technical\BUILD6_CHECKLIST.md` | قائمة فحص BUILD-6 |
 | `technical\FIELD_WIDTHS.tsv` | TSV, columns: prefix, keys, movie, field, font, font_id, size_pt, x0, x1, y0, y1, max_lines, reflow, evidence |
 | `technical\RECON_KH3.md` | RECON_KH3 — Kingdom Hearts III + Re Mind (Steam), read-only recon |
 | `technical\SHAPER_SPEC.md` | SHAPER_SPEC — Arabic pre-shaper for KH3 Scaleform text |
@@ -150,6 +153,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `tools\build_build3.py` | BUILD-3 (TRANS-4): the BUILD-2 full build plus |
 | `tools\build_build4.py` | BUILD-4: the first full build with every translated row (all categories: story dialogue, subtitles, Re Mind, |
 | `tools\build_build5.py` | BUILD-5: the BUILD-4 pipeline unchanged (tools\build_build4.py: same movie patches, TresFont, line breaking, no <p align>) |
+| `tools\build_build6.py` | BUILD-6: the BUILD-5 pipeline unchanged (tools\build_build4.py via the same wrapper as build_build5.py: same movie |
 | `tools\build_test50.py` | TEST50 build: 50 test rows (menus, items, equipment, abilities, plural/acronym/set-letter rows, tutorials, |
 | `tools\comma_fix.py` | TRANS-3: ASCII ',' used as Arabic punctuation -> '،' in translated AR rows. Usage: comma_fix.py [--apply] |
 | `tools\font_census.py` | Read-only (TEST50): font classes of every text field in the game's Scaleform movies. |
@@ -216,7 +220,7 @@ All commands from the project root (`C:\filessss\mewo\kh3fm-arabic`).
 - **Refresh everything** (merge check, tests, corrections, validation, review pages, stats, this map, secret check): `tools\refresh.bat`
 - **Shape a string / run the shaper tests:** `python -I tools\shaper.py "نص"..."installed" column after `tools\refresh.bat`).
 - **BUILD-2:** `python -I tools\build_build2.py` → `out\builds\BUILD-2\` (same outputs; help-field reflow from `technical\FIELD_WIDTHS.tsv` `max_lines`); install `SWAP_TO_BUILD2.bat`, then `python -I tools\build_build2.py --installed`.
-- **BUILD-5 (current full build):** `python -I tools\build_build5.py` → `out\builds\BUILD-5\` (BUILD-4 pipeline on the current TSVs, `diff_vs_build4.tsv`); install `SWAP_TO_BUILD5.bat`, then `python -I tools\build_build5.py --installed`. repak output is not byte-reproducible between runs: a rebuild gives a new sha, so regenerate the swap script (`tools\make_swap_scripts.py`) after the last build.
+- **BUILD-6 (current full build):** `python -I tools\build_build6.py` → `out\builds\BUILD-6\` (BUILD-4 pipeline on the current TSVs, `diff_vs_build5.tsv`, `build.log`); install `SWAP_TO_BUILD6.bat`, then `python -I tools\build_build6.py --installed`. BUILD-5: the same with `build_build5.py` / `SWAP_TO_BUILD5.bat`. repak output is not byte-reproducible between runs: a rebuild gives a new sha, so regenerate the swap script (`tools\make_swap_scripts.py`) after the last build.
 - **BUILD-4:** `python -I tools\build_build4.py` → `out\builds\BUILD-4\` (all translated rows, Subtitle/EN-widest line breaking, 3 patched LV movies, `movie_verify.tsv`, `overflow.tsv` = rows over field capacity); `--fields` regenerates the BUILD-4 rows of `technical\FIELD_WIDTHS.tsv`; install `SWAP_TO_BUILD4.bat`, then `python -I tools\build_build4.py --installed`. repak orders files differently per run, so a rebuild has a new pak SHA (per-file SHA identical): rebuild → regenerate the swap script.
 - **Where a movie places a field (neighbour gaps):** `python -I tools\gfx_layout.py <movie.uexp> <char id>`
 - **BUILD-3:** `python -I tools\build_build3.py` → `out\builds\BUILD-3\` (BUILD-2 + patched CampMenu movie, `movie_verify.tsv`, align test on row 15729); install `SWAP_TO_BUILD3.bat`, then `python -I tools\build_build3.py --installed`.
@@ -226,9 +230,7 @@ All commands from the project root (`C:\filessss\mewo\kh3fm-arabic`).
 - **Build the TEST50 test pak:** `python -I tools\build_test50.py` → `out\builds\TEST50\pakchunk99-test50_P.pak` + `pak_verify_sha256.tsv` + `rows.tsv` (needs font_fields.tsv). Older: `tools\build_arabictest2.py` (F1/F2 title paks)
 - **Measure text fields of a movie:** `python -I tools\gfx_edittext.py <movie.uexp>...`
 - **Offline join/size preview:** `python -I tools\preview_text.py <TresFont.uasset> 3 30 2 out.png "نص"`
-- **Swap the test pak (double-click in the project root, close the game first):** `SWAP_TO_BUILD1.bat` / `SWAP_TO_TEST50.bat` / `SWAP_TO_F1.bat` / `SWAP_TO_F2.bat` delete our `pakchunk99-*_P.pak` from `~mods`, copy the BUILD-1 pak, the TEST50 pak or the ARABIC-TEST-2 F1/F2 pak from `out\builds\`, verify SHA256 against the build and print Arabic + English "Done" (it asks for admin rights only if the copy fails for permissions). `REMOVE_ARABIC.bat` deletes our pak and the empty `~mods`. All three refuse to run while KINGDOM HEARTS III is running and append to `state\SWAP_LOG.tsv` (time, action, hash, result). Scripts are generated by `tools\make_swap_scripts.py` (pure ASCII; messages in `tools\swap_msgs\`). Other paks: copy by hand into `C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS III\KINGDOM HEARTS III\Content\Paks\~mods\`, only one of ours at a time (`technical\RECON_KH3.md` §12).
-- **Commit:** after `tools\refresh.bat` exits 0; `tools\secret_check.py` must PASS.
-- **Installer / release (RELEASE-080):** build the EXE: `cd tools\installer` then `dotnet publish -c Release -o ..\..\out\release\vX\publish` (needs .NET 8 SDK; embeds `out\builds\BUILD-5\pakchunk99-arabic_P.pak`, override with `-p:PakPath=...`; update `Core.ExpectedSha` and `Version` for a new BUILD). Tests: `KH3RM_AR_Setup.exe --selftest out.txt`; screenshots: `--render ar|en out.png`; icon: `--icon app.ico`. GitHub CLI 2.102.0 (official zip, sha ae64e556...) is in `tools\gh-2.102.0\x\bin\gh.exe` (gitignored); release: `gh release create v0.8.0 --prerelease --notes-file out\release\v0.8.0\RELEASE_NOTES.md <assets>` after `gh auth login` (done by the user).
+- **Swap the test pak (double-click in the project root, close the game first):** `SWAP_TO_BUILD1.bat` / `SWAP_TO_TEST50.bat` / `SWAP_TO_F1.bat` / `SWAP_TO_F2.bat` delete our `pakchunk99-*_P.pak` from `~mods`, copy the BUILD-1 pak, the TEST50 pak or the ARABIC-TEST-2 F1/F2 pak from `out\builds\`, verify SHA256 against the build and print Arabic + English "Done"..."v"..."0.8.1 (pre-release)" --notes-file out\release\v0.8.1\RELEASE_NOTES.md <5 assets>` (user logged in), then `gh release view 0.8.1 --json assets` against `SHA256SUMS.txt`. The README download version is `RELEASE` in `tools\make_public.py`.
 
 ## 7. Numbers (auto)
 
@@ -241,14 +243,14 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 | journal | 628 | 615 (97.9%) | 615 (97.9%) | 615 (97.9%) | 0 (0.0%) |
 | menus_ui | 3849 | 3605 (93.7%) | 3605 (93.7%) | 3604 (93.6%) | 94 (2.4%) |
 | remind | 1163 | 1126 (96.8%) | 1126 (96.8%) | 1126 (96.8%) | 0 (0.0%) |
-| subtitles_cutscenes | 6336 | 6083 (96.0%) | 6078 (95.9%) | 6083 (96.0%) | 1 (0.0%) |
+| subtitles_cutscenes | 6336 | 6083 (96.0%) | 6083 (96.0%) | 6083 (96.0%) | 1 (0.0%) |
 | tutorials | 614 | 613 (99.8%) | 613 (99.8%) | 613 (99.8%) | 0 (0.0%) |
-| TOTAL | 17222 | 16415 (95.3%) | 16410 (95.3%) | 16414 (95.3%) | 98 (0.6%) |
+| TOTAL | 17222 | 16415 (95.3%) | 16415 (95.3%) | 16414 (95.3%) | 98 (0.6%) |
 
 ## 8. Open questions
 
-- BUILD-5 screenshots (`technical\BUILD5_CHECKLIST.md`, 8 places; incl. level-up line 15964, rows 01091/05448, party card level label): subtitle line order and 3-line rows (03474, 03581, 06647), field voice in the Subtitle field (assumed), save card and gummi LV labels; from BUILD-3: party-card مستوى and help boxes still unconfirmed.
-- Row 15964 (LV UP!) is installed in BUILD-5 (1,067 of 1,621 units in HudRight #109); confirm by screenshot. Supervisor review still open: lyrics (own MSA wording), the Re Mind batch. (Unsure rows decided in REVIEW-3; row 05050 «النكرة التافه» is actually id 05051, still unfixed; 01302/01304 addressee gender not clear from the script, left feminine.)
+- BUILD-6 / 0.8.1 screenshots (`technical\BUILD6_CHECKLIST.md`, 6 places: the 6 changed rows, party card and save card level labels). Still open from BUILD-5 (`technical\BUILD5_CHECKLIST.md`, 8 places; incl. level-up line 15964, rows 01091/05448, party card level label): subtitle line order and 3-line rows (03474, 03581, 06647), field voice in the Subtitle field (assumed), save card and gummi LV labels; from BUILD-3: party-card مستوى and help boxes still unconfirmed.
+- Row 15964 (LV UP!) is installed (BUILD-5/6) (1,067 of 1,621 units in HudRight #109); confirm by screenshot. Supervisor review still open: lyrics (own MSA wording), the Re Mind batch. (Unsure rows decided in REVIEW-3; row 05051 fixed and installed in FINAL-1; 01302/01304 addressee gender not clear from the script, left feminine.)
 - Row 05955 uses the feminine «حاملة كيبلايد» (glossary second form); its GLOSS warning is accepted.
 - Field guesses to confirm in-game: field/battle voice = Subtitle #1; 49 "(EN widest)" namespaces (tutorial popups, game-over hints, gummi menus, mission/settings help) break at their widest mid-sentence EN line; settings graphics/keyboard and the streaming notice have only engine-wrapped EN paragraphs (no width evidence).
 - Images/videos with English words: 315 assets ≈ 958 words (`technical\TEXT_COVERAGE.md` §5), later texture phase; signage decals in maps not counted.
@@ -285,6 +287,7 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 - 2026-10-10 **PUBLISH-1** (6 entries) — last: T8 close: refresh 0 ERR, secret_check PASS, private commit (no push).
 - 2026-10-10 **RELEASE-080** (3 entries) — last: T3 release prep: gh 2.102.0 official zip (sha ae64e556...) in tools\gh-2.102.0, not logged in; assets + RELEASE_NOTES.md ready; waiting for user gh auth login.
 - 2026-10-10 **REVIEW-3** (3 entries) — last: T8 close: refresh, secret_check, PROJECT_MAP 3 4 8 + CHANGELOG, private commit. BUILD-6 / v0.8.1 needed to install.
+- 2026-10-10 **FINAL-1** (12 entries) — last: T4 notes: Arabic then English, "..." (REVIEW-3 5 rows, 05051, STATS numbers), SmartScreen/legal/font notes kept.
 
 ## 10. Public repository
 

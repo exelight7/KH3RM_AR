@@ -15,7 +15,7 @@ public static class SelfTest
         var root = J(Path.GetTempPath(), "kh3rm_selftest_" + Guid.NewGuid().ToString("N")[..8]);
         try
         {
-            Check("embedded pak sha == BUILD-5", Core.EmbeddedSha() == Core.ExpectedSha);
+            Check("embedded pak sha == BUILD-6", Core.EmbeddedSha() == Core.ExpectedSha);
 
             // fake Steam: library 2 holds the game under a custom installdir, listed in libraryfolders.vdf
             var steam = J(root, "Steam"); var lib2 = J(root, "Games", "SteamLib");

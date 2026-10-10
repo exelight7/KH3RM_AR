@@ -9,6 +9,8 @@ Every round prompt is saved here verbatim as `docs\rounds\<ROUND>.md` (a resumed
 - [FULL-1.md](rounds/FULL-1.md)
 - [TRANS-4.md](rounds/TRANS-4.md)
 - [BUILD-4.md](rounds/BUILD-4.md)
+- [BUILD-5.md](rounds/BUILD-5.md), [PUBLISH-1.md](rounds/PUBLISH-1.md), [RELEASE-080.md](rounds/RELEASE-080.md), [REVIEW-3.md](rounds/REVIEW-3.md)
+- [FINAL-1.md](rounds/FINAL-1.md) — BUILD-6 + release 0.8.1 (part 1), image pilot (part 2)
 
 ## technical\
 - [RECON_KH3.md](../technical/RECON_KH3.md) — game layout, pak/locres facts, LOAD-TEST and ARABIC-TEST procedures
@@ -18,7 +20,8 @@ Every round prompt is saved here verbatim as `docs\rounds\<ROUND>.md` (a resumed
 - [TEXT_COVERAGE.md](../technical/TEXT_COVERAGE.md) — every source of visible text, coverage % (FULL-1); details in `technical\text_coverage\`
 - [FIELD_WIDTHS.tsv](../technical/FIELD_WIDTHS.tsv) — text field per namespace (width, max lines) for line breaking
 - [BUILD2_CHECKLIST.md](../technical/BUILD2_CHECKLIST.md) — in-game checks for the installed BUILD-2
-- [BUILD5_CHECKLIST.md](../technical/BUILD5_CHECKLIST.md) — in-game checks for the installed BUILD-4 (8 places)
+- [BUILD5_CHECKLIST.md](../technical/BUILD5_CHECKLIST.md) — in-game checks for BUILD-5 (8 places)
+- [BUILD6_CHECKLIST.md](../technical/BUILD6_CHECKLIST.md) — in-game checks for the installed BUILD-6 / release 0.8.1 (6 places)
 
 ## state\
 - [PROGRESS.md](../state/PROGRESS.md) — round log

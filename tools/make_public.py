@@ -12,6 +12,7 @@ KEEP = {'.git', 'LICENSE'}                         # remote content we never tou
 TECH = ['RECON_KH3.md', 'SHAPER_SPEC.md', 'FIELD_WIDTHS.tsv', 'TAGS.md']   # + *CHECKLIST.md
 COLS = ['id', 'namespace', 'key', 'source_hash', 'AR', 'status', 'note']
 NOTE_ID = 'state/PROGRESS.md'
+RELEASE = '0.8.1'                                  # README download link + installer screenshot
 # double-quoted English phrase of 3+ words (likely game text) -> "..."
 QUOTE = re.compile(r'"(?=[^"\n]*[A-Za-z])(?:[^"\n؀-ۿ]*\s){2}[^"\n؀-ۿ]*"')
 
@@ -62,7 +63,7 @@ def readme():
     stats = open(os.path.join(ROOT, 'state', 'STATS.md'), encoding='utf-8').read()
     t = [c.strip() for c in next(l for l in stats.splitlines() if l.startswith('| TOTAL')).strip('|').split('|')]
     pct = lambda s: s.split('(')[1].rstrip(')') if '(' in s else s
-    v = {'ROWS': t[1], 'TRANSLATED': pct(t[2]), 'INSTALLED': pct(t[3]), 'REVIEWED': pct(t[4]), 'VERIFIED': pct(t[5])}
+    v = {'VER': RELEASE, 'ROWS': t[1], 'TRANSLATED': pct(t[2]), 'INSTALLED': pct(t[3]), 'REVIEWED': pct(t[4]), 'VERIFIED': pct(t[5])}
     s = open(os.path.join(ROOT, 'tools', 'public_templates', 'README.md'), encoding='utf-8').read()
     return re.sub(r'\{\{(\w+)\}\}', lambda m: v[m.group(1)], s)
 
@@ -82,7 +83,7 @@ def main():
     tech = TECH + sorted(os.path.basename(f) for f in glob.glob(os.path.join(ROOT, 'technical', '*CHECKLIST.md')))
     for f in tech: doc('technical/' + f, keys)
     n = translation(keys)
-    img = os.path.join(ROOT, 'out', 'release', 'v0.8.0', 'ui_ar.png')   # ponytail: hard-coded to the current release
+    img = os.path.join(ROOT, 'out', 'release', 'v' + RELEASE, 'ui_ar.png')
     if os.path.exists(img):
         os.makedirs(os.path.join(PUB, 'docs', 'img'), exist_ok=True)
         shutil.copyfile(img, os.path.join(PUB, 'docs', 'img', 'ui_ar.png'))

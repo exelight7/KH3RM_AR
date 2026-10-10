@@ -461,3 +461,14 @@ eview2_page.py (dump/fix/mark/flags N; pages = 300 translated rows in story orde
 2026-10-10 REVIEW-3 T1-T5: review3.tsv applied (5 rows: Isla de Muerta 01505, 05962, 01392, 03913, 06084); glossary KH3 form retired; row 05050 skipped (text is in 05051).
 2026-10-10 REVIEW-3 T6-T7: 01302/01304 unchanged (addressee not clearly male); UNSURE_REVIEW2.md marked resolved.
 2026-10-10 REVIEW-3 T8 close: refresh, secret_check, PROJECT_MAP 3 4 8 + CHANGELOG, private commit. BUILD-6 / v0.8.1 needed to install.
+2026-10-10 FINAL-1 T1 fix: review\corrections\final1_fix.tsv (05051 fragment found exactly once, built from code points) applied by apply_corrections.py.
+2026-10-10 FINAL-1 T1 note: the tool layer turns \uXXXX in a command into Arabic before Python sees it, so fragments were decoded from hex code points instead.
+2026-10-10 FINAL-1 T1 result: 05051 now reads the REVIEW-3 wording; status reviewed kept.
+2026-10-10 FINAL-1 T2 build: tools\build_build6.py (BUILD-5 wrapper + diff report), pak f6e8be85, 4,889,997 B, 73 files list/hash-list/unpack PASS.
+2026-10-10 FINAL-1 T2 verify: round trip 16,391 exact + 24 same-visual + 0 fail; validate 0 ERR; 6 entries differ from BUILD-5 (01392 01505 03913 05051 05962 06084, 1 per locres).
+2026-10-10 FINAL-1 T2 install: SWAP_TO_BUILD6.bat OK (Get-FileHash f6e8be85 = build = SWAP_LOG), INSTALLED 16,415; technical\BUILD6_CHECKLIST.md (6 places).
+2026-10-10 FINAL-1 T3 installer: tools\installer 0.8.1 (Core.Version, ExpectedSha f6e8be85 = ~mods = SWAP_LOG, csproj PakPath BUILD-6); EXE 70,903,487 B sha 0e4cb475.
+2026-10-10 FINAL-1 T3 tests: --selftest 21/21 PASS (ALL PASS); ui_ar.png / ui_en.png rendered with version 0.8.1.
+2026-10-10 FINAL-1 T3 assets: out\release\v0.8.1\ (exe, pak, SHA256SUMS.txt, ui_ar.png, ui_en.png, RELEASE_NOTES.md).
+2026-10-10 FINAL-1 T4 release: gh release create 0.8.1 --prerelease, title "0.8.1 (pre-release)"..."what changed since 0.8.0" (REVIEW-3 5 rows, 05051, STATS numbers), SmartScreen/legal/font notes kept.
+2026-10-10 FINAL-1 T5 public: README template {{VER}} = RELEASE 0.8.1 in make_public.py, roadmap section (ar+en), docs\INDEX + PROJECT_MAP 3 4 6 8 + CHANGELOG before publishing; refresh 0 ERR, secret_check PASS.

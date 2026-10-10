@@ -18,7 +18,7 @@
 (الأرقام من `state/STATS.md`، المجموع 17222 نصا.)
 
 ### التنزيل
-**[نزّل الإصدار 0.8.0 (نسخة تجريبية)](https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.0)**: شغّل `KH3RM_AR_Setup_v0.8.0.exe`، وسيجد المثبّت مجلد اللعبة (Steam أو Epic) وينسخ الملف ويتحقق منه. إن ظهرت نافذة SmartScreen (البرنامج غير موقّع): «مزيد من المعلومات» ثم «تشغيل على أي حال».
+**[نزّل الإصدار 0.8.1 (نسخة تجريبية)](https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.1)**: شغّل `KH3RM_AR_Setup_v0.8.1.exe`، وسيجد المثبّت مجلد اللعبة (Steam أو Epic) وينسخ الملف ويتحقق منه. إن ظهرت نافذة SmartScreen (البرنامج غير موقّع): «مزيد من المعلومات» ثم «تشغيل على أي حال».
 
 ![واجهة المثبّت](docs/img/ui_ar.png)
 
@@ -37,6 +37,11 @@
 - لم يُتحقق من كل الشاشات: قد تظهر نصوص مقصوصة أو طويلة في بعض القوائم وصناديق المساعدة.
 - الصور والفيديوهات التي فيها كلمات إنجليزية (نحو 315 ملفا) لم تُترجم بعد.
 - أي تحديث للعبة قد يكسر الملف؛ احذفه ثم أعد التثبيت.
+
+### خارطة الطريق
+- **0.8.x**: تصحيحات النصوص (ترجمة ومراجعة وأسطر مقصوصة) حسب لقطات الشاشة.
+- **0.9.0**: الصور والنصوص المرسومة داخل الصور (القوائم، الشروحات، أسماء الأماكن)؛ الشعارات تبقى كما هي.
+- **1.0.0**: بعد اختبار كامل داخل اللعبة بلقطات الشاشة.
 
 ### الإبلاغ عن مشكلة
 افتح [Issue](../../issues) وأرفق لقطة شاشة وموضع المشكلة في اللعبة (القائمة، المشهد، اسم الشخصية).
@@ -75,7 +80,7 @@
 (From `state/STATS.md`, 17222 strings in total.)
 
 ### Download
-**[Get 0.8.0 (pre-release)](https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.0)**: run `KH3RM_AR_Setup_v0.8.0.exe`; it finds the game folder (Steam or Epic), copies the pak and verifies it. If Windows SmartScreen appears (the app is unsigned): More info > Run anyway.
+**[Get 0.8.1 (pre-release)](https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.1)**: run `KH3RM_AR_Setup_v0.8.1.exe`; it finds the game folder (Steam or Epic), copies the pak and verifies it. If Windows SmartScreen appears (the app is unsigned): More info > Run anyway.
 
 ![Installer](docs/img/ui_ar.png)
 
@@ -94,6 +99,11 @@ Delete `pakchunk99-arabic_P.pak` from `~mods` (or run `REMOVE_AR.bat`). No origi
 - Not every screen has been checked: text may be clipped or too long in some menus and help boxes.
 - Images and videos containing English words (about 315 assets) are not translated yet.
 - A game update may break the pak; delete it and reinstall.
+
+### Roadmap
+- **0.8.x**: text fixes (translation, review, clipped lines) from screenshots.
+- **0.9.0**: images, i.e. English text drawn inside textures (menus, tutorials, place names); logos stay as they are.
+- **1.0.0**: after full in-game testing with screenshots.
 
 ### Reporting problems
 Open an [issue](../../issues) with a screenshot and where it happens (menu, cutscene, character).

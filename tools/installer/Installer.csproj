@@ -7,7 +7,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <AssemblyName>KH3RM_AR_Setup</AssemblyName>
     <RootNamespace>Kh3rmAr</RootNamespace>
-    <Version>0.8.0</Version>
+    <Version>0.8.1</Version>
     <RuntimeIdentifier>win-x64</RuntimeIdentifier>
     <SelfContained>true</SelfContained>
     <PublishSingleFile>true</PublishSingleFile>
@@ -16,7 +16,7 @@
     <InvariantGlobalization>true</InvariantGlobalization>
     <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
     <!-- the pak to embed; override with -p:PakPath=... -->
-    <PakPath Condition="'$(PakPath)'==''">$(MSBuildThisFileDirectory)..\..\out\builds\BUILD-5\pakchunk99-arabic_P.pak</PakPath>
+    <PakPath Condition="'$(PakPath)'==''">$(MSBuildThisFileDirectory)..\..\out\builds\BUILD-6\pakchunk99-arabic_P.pak</PakPath>
     <ApplicationIcon Condition="Exists('app.ico')">app.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>

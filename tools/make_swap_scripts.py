@@ -1,5 +1,5 @@
 """SWAP-1/TEST50/BUILD-1/FULL-1/TRANS-4/BUILD-4: generate SWAP_TO_F1.bat, SWAP_TO_F2.bat, SWAP_TO_TEST50.bat, SWAP_TO_BUILD1.bat,
-SWAP_TO_BUILD2.bat, SWAP_TO_BUILD3.bat, SWAP_TO_BUILD4.bat, SWAP_TO_BUILD5.bat,
+SWAP_TO_BUILD2.bat, SWAP_TO_BUILD3.bat, SWAP_TO_BUILD4.bat, SWAP_TO_BUILD5.bat, SWAP_TO_BUILD6.bat,
 REMOVE_ARABIC.bat in the project root (CRLF)."""
 import os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -13,6 +13,7 @@ MSGS = {
     'done_BUILD3': 'تم: BUILD-3 مثبت الآن / Done: BUILD-3 installed',
     'done_BUILD4': 'تم: BUILD-4 مثبت الآن / Done: BUILD-4 installed',
     'done_BUILD5': 'تم: BUILD-5 مثبت الآن / Done: BUILD-5 installed',
+    'done_BUILD6': 'تم: BUILD-6 مثبت الآن / Done: BUILD-6 installed',
     'done_REMOVE': 'تم: حُذف التعريب من اللعبة / Done: Arabic removed',
     'running': 'اللعبة تعمل الآن. أغلقها ثم شغّل هذا الملف من جديد. / The game is running. Close it, then run this file again.',
     'permfail': 'فشل: لا توجد صلاحية على مجلد اللعبة / FAILED: no permission on the game folder',
@@ -105,7 +106,8 @@ B = {'F1': r'%~dp0out\builds\ARABIC-TEST-2\pakchunk99-arabictest2F1_P.pak',
      'BUILD2': r'%~dp0out\builds\BUILD-2\pakchunk99-arabic_P.pak',
      'BUILD3': r'%~dp0out\builds\BUILD-3\pakchunk99-arabic_P.pak',
      'BUILD4': r'%~dp0out\builds\BUILD-4\pakchunk99-arabic_P.pak',
-     'BUILD5': r'%~dp0out\builds\BUILD-5\pakchunk99-arabic_P.pak'}
+     'BUILD5': r'%~dp0out\builds\BUILD-5\pakchunk99-arabic_P.pak',
+     'BUILD6': r'%~dp0out\builds\BUILD-6\pakchunk99-arabic_P.pak'}
 H = {'F1': '302d95d10a972622a2c9d805ff6bbeb5e4cdf47eb2f64e814a240b5accf1f2d0',
      'F2': '5e60bd3a94a573b8af2db8182baaeea4480bf5244f8113b1eebd77cbdb43cb99',
      'TEST50': 'a26a76917c005f8c1d26e7c42da030bf405075a9243f9bdb68191099ead14191',
@@ -113,7 +115,8 @@ H = {'F1': '302d95d10a972622a2c9d805ff6bbeb5e4cdf47eb2f64e814a240b5accf1f2d0',
      'BUILD2': '2ce95c73c7ba110ed0d42d7cabdfd2f755ac1c08d76374b7b2036bafb68db364',
      'BUILD3': '2834d65a94462fae60ac96c5cd22b92f3f69ddb784151d2070e34eb1d6fcad27',
      'BUILD4': 'ae9d609ae953032b1551854df559071ff284af50152ae54f231509ebb8bce243',
-     'BUILD5': 'e43d8f9705588ba4cb7e8058e2f630d2d65734f7bf3068ab7a24c2dddcbe6602'}
+     'BUILD5': 'e43d8f9705588ba4cb7e8058e2f630d2d65734f7bf3068ab7a24c2dddcbe6602',
+     'BUILD6': 'f6e8be85feae061c120674adccfcacd847727c51ef5952aa3b5594898a6e8ae3'}
 def write(name, body):
     s = (body + TAIL).replace('@TAB@', TAB).replace('@MSG@', MSG)
     with open(os.path.join(ROOT, name), 'w', encoding='utf-8', newline='') as f:

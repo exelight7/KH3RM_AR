@@ -1,5 +1,11 @@
 # Changelog
 
+## FINAL-1 part 1 (2026-10-10)
+- Row 05051 fixed (`review/corrections/applied/final1_fix.tsv`, REVIEW-3 wording).
+- BUILD-6 (`tools/build_build6.py`, the BUILD-5 pipeline unchanged): 6 entries differ from BUILD-5 (01392 01505 03913 05051 05962 06084); pak sha f6e8be85…, 4,889,997 B; 73 files SHA256 PASS, round trip 0 fail, validate 0 ERR; installed with the new `SWAP_TO_BUILD6.bat`; `technical/BUILD6_CHECKLIST.md` (6 places).
+- Installer 0.8.1 (embeds BUILD-6; 21/21 self tests PASS); GitHub pre-release **0.8.1** with 5 verified assets.
+- Public README: Download points at 0.8.1 (`RELEASE` in `tools/make_public.py`), roadmap (0.8.x text fixes, 0.9.0 images, 1.0.0 after full testing).
+
 ## REVIEW-3 (2026-10-10)
 - 5 rows corrected (`review\corrections\applied\review3.tsv`): 01505 Isla de Muerta (KH2 form), 05962, 01392, 03913, 06084. Row 05050 skipped (fragment is in 05051). 01302/01304 unchanged (addressee not clearly male). Glossary: KH3 form retired.
 - `review\UNSURE_REVIEW2.md` marked resolved. Not installed: needs BUILD-6 / v0.8.1.
