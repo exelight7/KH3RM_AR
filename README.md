@@ -68,7 +68,7 @@
 
 افتح [بلاغا جديدا](https://github.com/exelight7/KH3RM_AR/issues/new/choose) بالقالب الجاهز: سطر واحد (الكلمات التي رأيتها، المكان، نوع المشكلة) مع لقطة شاشة. التفاصيل في [دليل المختبر](docs/TESTER_GUIDE.md). وللبحث عن السطر المقصود استعمل `python tools\find_text.py <كلمة>`.
 
-## الشكر
+## المعرب
 
 المؤلف: [exelight7](https://github.com/exelight7). المشروع الأقدم لتعريب Kingdom Hearts II Final Mix: [KH2FM_AR](https://github.com/exelight7/KH2FM_AR).
 
