@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.8.3 (2026-10-11, pre-release, docs and tools only)
+- Docs and tools: TESTER_GUIDE, FAQ, bug report template, `find_text`, `apply_feedback`, skip audit.
+- NO change to the translation or the pak: identical to 0.8.2 (BUILD-7, SHA256 f9e23f373ce52a5e9c6690d264b7228d43d0e28aa55d9d76386514db511e82d7).
+- The Arabic text of TESTER_GUIDE and FAQ is under review.
+
+## RELEASE-083 (2026-10-11)
+- Release 0.8.3 (pre-release, no assets) and public sync; text pak unchanged = BUILD-7.
+
+## LIGHT-3 (2026-10-11)
+- Read-only evidence: row 10847 recommendation B; `technical/IMAGES2_PREP.md` (16 minigame HUDs + 5 unreadable); colour-tag join check PASS. No translation, build or publish change.
+
+## LIGHT-2 (2026-10-11)
+- Public sync check (read-only, temp folder): 4 files only in temp, 4 differ; public_check PASS. `review/DECISIONS_NEEDED.md` (19 open items). `docs/INSTALLER_0.9.0_PLAN.md` (docs only). No translation, build or publish change.
+
+## FINISH-TRANS (2026-10-11)
+- `tools/skip_audit.py`: `review/SKIP_AUDIT.tsv` (807 skipped rows classified), `SKIP_SUSPECTS.tsv`, `SAME_AS_EN.tsv`; `tools/stats.py`: "Translatable coverage" line (100.0%). No translation edits.
+
 ## TESTER-KIT (2026-10-10)
 - `tools/find_text.py` (Arabic with/without ال, pre-shaped input via the shaper, `--ids`, `--around`), `tools/apply_feedback.py` -> `review/FEEDBACK_REPORT.md`, tests for both (added to refresh.bat), `state/FEEDBACK_TEMPLATE.tsv`.
 - `docs/TESTER_GUIDE.md`, `FAQ.md`, `.github/ISSUE_TEMPLATE/bug_report.yml` (public; added to make_public).

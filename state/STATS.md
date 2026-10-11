@@ -15,3 +15,5 @@
 | images | textures with English | repaint plan | repainted | images repainted % |
 |---|---|---|---|---|
 | all groups | 324 | 234 | 193 | 82.5% |
+
+Translatable coverage = translated / (total rows - skip-audited rows) = 16415 / (17222 - 807) = 16415 / 16415 (100.0%)

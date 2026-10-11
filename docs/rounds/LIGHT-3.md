@@ -1,0 +1,2 @@
+# LIGHT-3 (prompt summary)
+Read-only round, Sonnet 5.5 low. Tasks: (1) evidence for row 10847 (numerals vs characters); (2) technical\IMAGES2_PREP.md for the 16 minigame HUD textures + 5 unreadable; (3) colour-tag join check with tools\shaper.py; (4) refresh.bat, secret_check, PROJECT_MAP 3/4/8, CHANGELOG, private commit "LIGHT-3"..."round: LIGHT-3"..."done + <path>". Arabic only from project files.

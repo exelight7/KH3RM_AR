@@ -1,0 +1,1 @@
+(prompt saved: FINISH-TRANS round - skip audit, SKIP_SUSPECTS, SAME_AS_EN, translatable coverage line in STATS, no translation edits; report to state\LAST_REPORT.md first line "round: FINISH-TRANS"..."done + <path>".)

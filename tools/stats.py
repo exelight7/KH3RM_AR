@@ -38,5 +38,8 @@ write_tsv(os.path.join(ROOT, 'technical', 'IMAGES_STILL_ENGLISH.tsv'), [['asset'
 pd = sum(r[0] in done for r in plan)
 L += ['', '| images | textures with English | repaint plan | repainted | images repainted % |', '|---|---|---|---|---|',
       f'| all groups | {len(inv)} | {len(plan)} | {pd} | {pct(pd, len(plan))} |']
+audited = sum(1 for r in rows if r['status'] not in ('translated', 'reviewed', 'verified'))   # skip-audited rows (review\SKIP_AUDIT.tsv)
+tt = sum(r['status'] != 'todo' for r in rows)
+L += ['', f'Translatable coverage = translated / (total rows - skip-audited rows) = {tt} / ({len(rows)} - {audited}) = {tt} / {len(rows) - audited} ({pct(tt, len(rows) - audited)})']
 open(os.path.join(ROOT, 'state', 'STATS.md'), 'w', encoding='utf-8', newline='\n').write('\n'.join(L) + '\n')
 print('\n'.join(L[2:]))

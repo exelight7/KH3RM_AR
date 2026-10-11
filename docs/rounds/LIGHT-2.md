@@ -1,0 +1,2 @@
+﻿# LIGHT-2 (Sonnet 5.5, HIGH, small)
+Tasks: (1) read-only public sync check: make_public into TEMP vs public_repo (names only), public_check on temp; (2) review\DECISIONS_NEEDED.md from UNSURE_CLOUD/UNSURE_REVIEW2 still-open entries (max 25; incl. 10847, 14238, 11946, 16892, 02369, 10694, "Tangled"..."LIGHT-2". No builds/installs/pak changes/downloads/push/publish; no TSV/glossary/corrections edits; Arabic only from project files.

@@ -23,10 +23,11 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 
 - **Phase:** BUILD-7 installed and released as **0.8.2** (2026-10-10): `pakchunk99-arabic_P.pak` sha f9e23f37..., 4,889,918 B, in `~mods` via `SWAP_TO_BUILD7.bat` (the IMAGES-MASS images pak stays beside it). 95.3 % of rows installed (16,415 / 17,222); the 807 `todo` rows carry a `skip:` note. Verified 0.6 %.
 - **Round before (SYNC-BUILD7, 2026-10-10):** all 6 cloud PRs merged; `tools\sync_cloud.bat` applied the cloud second pass (69 files; 182 rows really changed: tutorials 54, Re Mind 31, items/abilities 27, menus 26, journal 26, subtitles 16, dialogue 2; 16,106 rows carry the note "..."); glossary aligned (Diving Strike, Powerwild, Frost Serpent, Monsters Inc); BUILD-7 = the BUILD-6 pipeline unchanged (`tools\build_build7.py`), 73 files SHA256 PASS, round trip 16,391 exact + 24 same-visual + 0 fail, 15 overflow rows as in BUILD-6 (none from the changed Risk label); installer 0.8.2 (22/22 self tests PASS); release **0.8.2** (pre-release, 5 assets verified): https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.2 . Details: `state\LAST_REPORT.md`.
+- **FINISH-TRANS (2026-10-11):** 807 skipped rows audited (`review/SKIP_AUDIT.tsv`), 24 suspects (all benign notes), 11 AR==EN acronyms (`review/SAME_AS_EN.tsv`); translatable coverage 100.0 %. No translation edits.
 - **Last round (IMAGES-MASS, 2026-10-10, installed, NOT released):** images pak `out\builds\IMAGES-MASS\pakchunk98-arabic-images_P.pak` (sha 233ef228..., 39,154,907 B, 194 textures, 1,240 text boxes, 388 files SHA256 PASS) sits in `~mods` NEXT TO the BUILD-7 text pak (`SWAP_TO_IMAGES_MASS.bat`; `REMOVE_IMAGES.bat` deletes only the images pak). The images pak is **optional, separate and removable**; it replaced the 3-texture pilot (pilot textures re-rendered with the new stroke rule). **Images repainted: 193 of the 234-texture repaint plan = 82.5 %** (+ SlideShowTx, read full size): command headers 16 + HUD/menus 5, tutorial pictures 128 of 150, area banners 25 of 25, LSI 9 of 9, shared HUD 11 of 14. Still English with the reason: `technical\IMAGES_STILL_ENGLISH.tsv` (16 minigame HUDs = next step, styled logos, brands, unreadable or text-free pictures). New image strings (no translation row): `translation\images_strings.tsv` (I0001-I0018).
 - **What the user must screenshot:** the 6 places in `technical\IMAGES_MASS_CHECKLIST.md` (command header, shop tutorial picture, area banner, key help, LSI taxi game, battle HUD/autosave) + `technical\BUILD7_CHECKLIST.md` (4 places) + `technical\BUILD6_CHECKLIST.md` (6 places).
 - **Cloud review prep (CLOUD-PREP, 2026-10-10):** private repo `exelight7/KH3RM_AR_work` created and filled from `cloud_repo\` (`tools\make_cloud.py`, `cloud_check.py`, `cloud_secret_check.py`, `sync_cloud.bat`, GitHub Action `check`); 4 ranges of the 32 script pages in `review\cloud\TASKS.md`; details `docs\CLOUD_WORKFLOW.md`, `state\LAST_REPORT.md`. Public repo not touched.
-- **LIGHT-1 (2026-10-10):** `images_strings.tsv` validated (0 flags), "images" category in STATS/review index (not in TOTAL); `docs\RELEASE_DRAFT_0.9.0.md` (+ `tools\fill_release_notes.py`) drafted, not published. **Waiting for the user's verdict on the images pack** (report in `technical\IMAGES_MASS_CHECKLIST.md`); next: 16 minigame HUDs, 0.9.0.
+- **LIGHT-1 (2026-10-10):** `images_strings.tsv` validated (0 flags), "images"..."5 characters"..."id A" / "id B"); `docs\INSTALLER_0.9.0_PLAN.md` (images-pack checkbox, documentation only). No translation, build or publish change.
 - **TESTER-KIT (2026-10-10):** `tools\find_text.py`, `tools\apply_feedback.py` (+ tests, in refresh.bat), `docs\TESTER_GUIDE.md`, `FAQ.md`, issue template, `state\FEEDBACK_TEMPLATE.tsv`; public docs added to make_public. **Road map:** 0.9.0 images pack after the user's verdict; 0.9.1 the 16 minigame HUD textures; 0.9.2 docs and tester kit; 0.9.3-0.9.8 fixes from user tests; 0.9.9 release candidate for the user's full playthrough; 1.0.0 LOCKED until the user says go.
 - **Next step:** user screenshots (IMAGES-MASS checklist, BUILD-7 checklist) and the user's verdict on the images pak; 0.9.0 (with the images pak) waits for that verdict; then the 16 minigame HUD textures (resume point in `state\PROGRESS.md`) and the 47 styled logos -> user screenshots -> 1.0.0 (still LOCKED, see section 4).
 - **Public repository:** https://github.com/exelight7/KH3RM_AR (README Download points at 0.8.2, roadmap 0.8.x text fixes / 0.9.0 images / 1.0.0 after full testing). See section 10.
@@ -91,7 +92,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | 2026-10-10 | **Cloud review:** private repo `KH3RM_AR_work` (github.com/exelight7/KH3RM_AR_work, PRIVATE, EN + AR workspace for cloud Claude sessions, `cloud_repo\` here, branch main, never public); public repo `KH3RM_AR` stays Arabic-only; **1.0.0 is LOCKED until (a) cloud second-pass review of all dialogue and subtitles is merged, (b) image phase done, (c) the user says go.** Cloud sessions follow `CLOUD_RULES.md`, ranges in `review\cloud\TASKS.md`, workflow `docs\CLOUD_WORKFLOW.md`, sync `tools\sync_cloud.bat` | user, CLOUD-PREP |
 | 2026-10-10 | Cloud corrections: `review\corrections\cloud\<page>.tsv` (same 4 columns; new_AR == old_AR marks a row as checked) are applied by `apply_corrections.py` and set status reviewed (verified kept) + note `cloud review pass 2`; sync replays the cloud corrections (old_AR must match) instead of copying TSVs, so local changes are never overwritten | executor, CLOUD-PREP |
 | 2026-10-10 | General note: the user tested BUILD-5/6 in game and reported OK, no screenshots (2026-10-10); no row is marked verified because of it | user, CLOUD-PREP |
-| 2026-10-10 | Cloud sync: parallel cloud branches may correct the same id; `apply_corrections` merges identical results and a check mark (new == old) with one real change (the real change wins); two different real changes stay a refusal. Glossary aligned to the corrected rows: Diving Strike = ability-row form, Powerwild / Frost Serpent = bestiary-row forms, Monsters Inc = the short menu form (no "limited"), approved. BUILD-7 = BUILD-6 pipeline unchanged; release 0.8.2 created on the user's explicit SYNC-BUILD7 instruction before the BUILD-7 checklist screenshots | supervisor / executor, SYNC-BUILD7 |
+| 2026-10-10 | Cloud sync: parallel cloud branches may correct the same id; `apply_corrections` merges identical results and a check mark (new == old) with one real change (the real change wins); two different real changes stay a refusal. Glossary aligned to the corrected rows: Diving Strike = ability-row form, Powerwild / Frost Serpent = bestiary-row forms, Monsters Inc = the short menu form (no "limited"..."needs new wording"); installer 0.9.0 images-pack checkbox is planned in `docs\INSTALLER_0.9.0_PLAN.md`, no code yet | user, LIGHT-2 |
 
 ## 5. Folders and key files (auto)
 
@@ -122,6 +123,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `docs\` | project docs: INDEX (doc list), SUPERVISOR (full supervisor instructions) |
 | `docs\CLOUD_WORKFLOW.md` | Cloud review workflow |
 | `docs\INDEX.md` | Docs index |
+| `docs\INSTALLER_0.9.0_PLAN.md` | Installer 0.9.0 plan - optional "..." (documentation only) |
 | `docs\RELEASE_DRAFT_0.9.0.md` | 0.9.0 — DRAFT (not published) |
 | `docs\SUPERVISOR.md` | Supervisor instructions (full copy) |
 | `docs\TESTER_GUIDE.md` | دليل المختبر / Tester guide |
@@ -131,11 +133,15 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `public_repo\` | (no description) |
 | `review\` | review pages (Markdown), corrections, validation report; **`review\script\` = the reference script for translation and review** (story order by the Theater table + TIPS pages, `tools\make_script.py`) |
 | `review\CLOUD_BUGS.md` | Tool bugs found by cloud sessions |
+| `review\DECISIONS_NEEDED.md` | DECISIONS_NEEDED (LIGHT-2) |
 | `review\FLAGS.md` | Flagged rows |
 | `review\INDEX.md` | Review index |
 | `review\RULES.md` | Review workflow |
-| `review\UNSURE_CLOUD.md` | Unsure items (cloud review) |
-| `review\UNSURE_REVIEW2.md` | UNSURE_REVIEW2 (REVIEW-2, RESOLVED: items not changed or changed on an assumption) |
+| `review\SAME_AS_EN.tsv` | TSV, columns: id, category, file, key, EN, AR, status, why |
+| `review\SKIP_AUDIT.tsv` | TSV, columns: id, category, file, key, EN, class, note |
+| `review\SKIP_SUSPECTS.tsv` | TSV, columns: id, category, file, key, EN, class, note |
+| `review\UNSURE_CLOUD.md` | Status as of CLEANUP-1: this file is historical; entries marked changed or resolved elsewhere may be outdated; the glossary and the translat |
+| `review\UNSURE_REVIEW2.md` | Status as of CLEANUP-1: this file is historical; entries marked changed or resolved elsewhere may be outdated; the glossary and the translat |
 | `review\VALIDATION.md` | VALIDATION |
 | `review\review_dialogue.tsv` | TSV, columns: id, EN, AR, status, flags, note |
 | `review\review_items_abilities.tsv` | TSV, columns: id, EN, AR, status, flags, note |
@@ -162,6 +168,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `technical\BUILD6_CHECKLIST.md` | قائمة فحص BUILD-6 |
 | `technical\BUILD7_CHECKLIST.md` | قائمة فحص BUILD-7 |
 | `technical\FIELD_WIDTHS.tsv` | TSV, columns: prefix, keys, movie, field, font, font_id, size_pt, x0, x1, y0, y1, max_lines, reflow, evidence |
+| `technical\IMAGES2_PREP.md` | IMAGES2_PREP (LIGHT-3) |
 | `technical\IMAGES_INVENTORY.tsv` | TSV, columns: asset, group, size, format, mips, storage, pak, screen, english, plan, priority |
 | `technical\IMAGES_MASS_CHECKLIST.md` | قائمة فحص حزمة الصور (IMAGES-MASS) |
 | `technical\IMAGES_PILOT_CHECKLIST.md` | قائمة فحص تجربة الصور (IMAGES-PILOT) |
@@ -230,6 +237,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 | `tools\secret_check.py` | Fail if the AES key or a game binary is tracked by git (or staged). Checks the index, not the working tree. |
 | `tools\setrow.py` | Fix one translated row in place: python -I tools\setrow.py <id> <AR> [note]  (menus_ui only; TRANS-1 helper) |
 | `tools\shaper.py` | Arabic pre-shaper for KH3 Scaleform text (technical/SHAPER_SPEC.md §1-6; §8 checks in tools/test_shaper.py). |
+| `tools\skip_audit.py` | FINISH-TRANS: skip audit (todo rows), suspects, AR==EN / empty-AR check. Read-only on translation TSVs. |
 | `tools\split_translation.py` | One-time/idempotent: split translation\en_source.tsv into translation\<category>\<file>.tsv. |
 | `tools\stats.py` | Write state\STATS.md. translated = status in translated/reviewed/verified; reviewed = reviewed/verified; |
 | `tools\sync_cloud.bat` | Cloud sync: pull merged cloud review work into the private project, then regenerate and push cloud_repo (private KH3RM_AR_work, main, never  |
@@ -307,6 +315,8 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 | all groups | 324 | 234 | 193 | 82.5% |
 
 ## 8. Open questions
+
+- FINISH-TRANS: add HDR/LOD/DOF/FXAA/TXAA etc. to `allowed_latin.txt`? ("Tangled"..."id A"..."id B"; incl. 10847 numerals vs characters [LIGHT-3 evidence: recommend B], 14238, 11946, 16892, 02369, 10694, Tangled). Public repo is behind the private one (CHANGELOG, PROJECT_MAP, STATS, stats.py differ; 4 new files); sync only when the user says publish. Installer 0.9.0 checkbox: plan only.
 
 - Cloud review: done and merged (6 PRs, synced in SYNC-BUILD7). Open: unsure items in `review\UNSURE_CLOUD.md` and tool bugs in `review\CLOUD_BUGS.md` (supervisor to read); the parallel cloud branches corrected some ids twice (handled by `apply_corrections`, section 4).
 - BUILD-7 / 0.8.2 screenshots (`technical\BUILD7_CHECKLIST.md`, 4 places). Still open from BUILD-6 (`technical\BUILD6_CHECKLIST.md`, 6 places) and BUILD-5 (`technical\BUILD5_CHECKLIST.md`, 8 places; incl. level-up line 15964, rows 01091/05448, party card level label): subtitle line order and 3-line rows (03474, 03581, 06647), field voice in the Subtitle field (assumed), save card and gummi LV labels; from BUILD-3: party-card مستوى and help boxes still unconfirmed. Swap scripts run from Git Bash print harmless `find` errors in the game-running check (Git's `find` shadows Windows `find`): run them from cmd.
