@@ -1,3 +1,3 @@
-# License - undecided
+# الترخيص — لم يُحسم بعد
 
-The project owner has not chosen a license yet. Until then: all rights reserved for our Arabic text; unofficial fan translation, not affiliated with Square Enix or Disney. The `LICENSE` file in this repository is the GitHub-generated default (GPL v2) from the repository creation; it is not a decision about the translation text.
+لم يختر صاحب المشروع ترخيصا بعد. إلى ذلك الحين: كل الحقوق محفوظة لنصنا العربي؛ ترجمة غير رسمية من المعجبين، لا علاقة لها بـ Square Enix أو Disney. ملف `LICENSE` في هذا المستودع هو الملف الافتراضي (GPL v2) الذي أنشأه GitHub مع المستودع، وليس قرارا بشأن نص الترجمة.

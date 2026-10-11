@@ -12,7 +12,9 @@ KEEP = {'.git', 'LICENSE'}                         # remote content we never tou
 TECH = ['RECON_KH3.md', 'SHAPER_SPEC.md', 'FIELD_WIDTHS.tsv', 'TAGS.md', 'IMAGES_PLAN.md']   # + *CHECKLIST.md
 COLS = ['id', 'namespace', 'key', 'source_hash', 'AR', 'status', 'note']
 NOTE_ID = 'state/PROGRESS.md'
-RELEASE = '0.8.2'                                  # README download link + installer screenshot
+RELEASE = '0.8.3'                                  # README download link (tag)
+SETUP = 'KH3RM_AR_Setup_v0.8.2.exe'                # installer attached to that release
+IMG_VER = '0.8.2'                                  # out\release\v<IMG_VER>\ui_ar.png screenshot
 # double-quoted English phrase of 3+ words (likely game text) -> "..."
 QUOTE = re.compile(r'"(?=[^"\n]*[A-Za-z])(?:[^"\n؀-ۿ]*\s){2}[^"\n؀-ۿ]*"')
 
@@ -63,7 +65,9 @@ def readme():
     stats = open(os.path.join(ROOT, 'state', 'STATS.md'), encoding='utf-8').read()
     t = [c.strip() for c in next(l for l in stats.splitlines() if l.startswith('| TOTAL')).strip('|').split('|')]
     pct = lambda s: s.split('(')[1].rstrip(')') if '(' in s else s
-    v = {'VER': RELEASE, 'ROWS': t[1], 'TRANSLATED': pct(t[2]), 'INSTALLED': pct(t[3]), 'REVIEWED': pct(t[4]), 'VERIFIED': pct(t[5])}
+    cov = re.search(r'= (\d+) / (\d+) \(([\d.]+%)\)', stats)
+    v = {'VER': RELEASE, 'SETUP': SETUP, 'TRANSLATABLE': f'{int(cov.group(1)):,}', 'TRANSLATABLE_PCT': cov.group(3),
+         'VERIFIED': pct(t[5]), 'VERROWS': f"{int(t[5].split()[0]):,}"}
     s = open(os.path.join(ROOT, 'tools', 'public_templates', 'README.md'), encoding='utf-8').read()
     return re.sub(r'\{\{(\w+)\}\}', lambda m: v[m.group(1)], s)
 
@@ -75,15 +79,15 @@ def main():
         shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
     put('README.md', readme())
     for f in ('PROJECT_MAP.md', 'CHANGELOG.md', 'FAQ.md', '.github/ISSUE_TEMPLATE/bug_report.yml', 'docs/TESTER_GUIDE.md'): doc(f, keys)
-    put('LICENSE_TODO.md', '# License - undecided\n\nThe project owner has not chosen a license yet. Until then: all rights reserved for our Arabic text; '
-        'unofficial fan translation, not affiliated with Square Enix or Disney. The `LICENSE` file in this repository is the '
-        'GitHub-generated default (GPL v2) from the repository creation; it is not a decision about the translation text.\n')
+    put('LICENSE_TODO.md', '# الترخيص — لم يُحسم بعد\n\nلم يختر صاحب المشروع ترخيصا بعد. إلى ذلك الحين: كل الحقوق محفوظة لنصنا العربي؛ '
+        'ترجمة غير رسمية من المعجبين، لا علاقة لها بـ Square Enix أو Disney. ملف `LICENSE` في هذا المستودع هو الملف الافتراضي '
+        '(GPL v2) الذي أنشأه GitHub مع المستودع، وليس قرارا بشأن نص الترجمة.\n')
     for f in ('docs/INDEX.md', 'docs/SUPERVISOR.md', 'state/STATS.md', 'state/PROGRESS.md', 'review/RULES.md'): doc(f, keys)
     for f in sorted(glob.glob(os.path.join(ROOT, 'docs', 'rounds', '*.md'))): doc('docs/rounds/' + os.path.basename(f), keys)
     tech = TECH + sorted(os.path.basename(f) for f in glob.glob(os.path.join(ROOT, 'technical', '*CHECKLIST.md')))
     for f in tech: doc('technical/' + f, keys)
     n = translation(keys)
-    img = os.path.join(ROOT, 'out', 'release', 'v' + RELEASE, 'ui_ar.png')
+    img = os.path.join(ROOT, 'out', 'release', 'v' + IMG_VER, 'ui_ar.png')
     if os.path.exists(img):
         os.makedirs(os.path.join(PUB, 'docs', 'img'), exist_ok=True)
         shutil.copyfile(img, os.path.join(PUB, 'docs', 'img', 'ui_ar.png'))

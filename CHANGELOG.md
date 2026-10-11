@@ -1,5 +1,11 @@
 # Changelog
 
+## README-AR (2026-10-11)
+- Public README, TESTER_GUIDE, FAQ, bug report template and LICENSE_TODO are Arabic only; `make_public.py` and `tools\public_templates\README.md` generate them. Release 0.8.3 notes rewritten in Arabic (pre-release kept, assets untouched).
+
+## RELEASE-083b (2026-10-11)
+- Release 0.8.3 now carries 3 assets: the unchanged v0.8.2 installer, text pak (BUILD-7) and SHA256SUMS.txt; one note line added.
+
 ## 0.8.3 (2026-10-11, pre-release, docs and tools only)
 - Docs and tools: TESTER_GUIDE, FAQ, bug report template, `find_text`, `apply_feedback`, skip audit.
 - NO change to the translation or the pak: identical to 0.8.2 (BUILD-7, SHA256 f9e23f373ce52a5e9c6690d264b7228d43d0e28aa55d9d76386514db511e82d7).
