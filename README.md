@@ -60,7 +60,7 @@ KINGDOM HEARTS III/Content/Paks/~mods/
 
 **وجدت مشكلة؟** [أرسل بلاغًا](https://github.com/exelight7/KH3RM_AR/issues/new/choose) مع لقطة شاشة ومكان ظهورها.
 
-[دليل التجربة](docs/TESTER_GUIDE.md) &nbsp; · &nbsp; [الأسئلة الشائعة](FAQ.md) &nbsp; · &nbsp; [سجل التحديثات](CHANGELOG.md) &nbsp; · &nbsp; [تقارير المراجعة](docs/rounds/CODEX-REVIEW4-HANDOFF.md)
+[دليل التجربة](docs/TESTER_GUIDE.md) &nbsp; · &nbsp; [سجل التحديثات](CHANGELOG.md) &nbsp; · &nbsp; [تقارير المراجعة](docs/rounds/CODEX-REVIEW4-HANDOFF.md)
 
 ---
 
