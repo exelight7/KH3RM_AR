@@ -555,3 +555,7 @@ RESUME IMAGES-MASS: next = cat 1b minigame HUDs (16 scaleform_loc, priority 3), 
 2026-10-13 INSTALLER-CROSSPLATFORM ui: Avalonia 0.8.3, user-selected artwork, credits in GitHub only.
 2026-10-13 INSTALLER-CROSSPLATFORM build: win-x64 and linux-x64 published locally with unchanged BUILD-7 payload; Windows UI previewed, Linux runtime not available.
 2026-10-13 INSTALLER-CROSSPLATFORM publish: update current 0.8.3 with additive installer assets; preserve all previous release assets.
+
+2026-10-13 README-POLISH design: centered header, installer screenshot, direct Windows/Linux downloads and compact installation.
+2026-10-13 README-POLISH content: remove thanks and corporate disclaimers from README; retain technical release status and standalone Graphify footer.
+2026-10-13 README-POLISH publish: update generator template and both README copies; documentation only.

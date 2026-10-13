@@ -1,106 +1,81 @@
-# تعريب Kingdom Hearts III + Re Mind
+<div align="center">
 
-**ترجمة عربية غير رسمية من المعجبين للعبة Kingdom Hearts III + Re Mind على الكمبيوتر (PC).** مجانية، وغير تابعة لشركتي Square Enix أو Disney.
+# KINGDOM HEARTS III
 
-![واجهة المثبّت](docs/img/ui_ar.png)
+### التعريب العربي · Re Mind
 
-> **الحالة: نسخة تجريبية (pre-release).** الترجمة مكتملة لكن لم تُختبر داخل اللعبة بالكامل بعد.
+**حكايتك، بلغتك.**
 
-## ماذا تشمل الترجمة
+القوائم والحوارات والمشاهد واليوميات والشروحات، بواجهة وخط عربي.
 
-- القوائم والواجهة، والعناصر والقدرات
-- الشروحات (tutorials)
-- دفتر اليوميات (journal)
-- كل الترجمة النصية للمشاهد السينمائية والحوارات
-- Re Mind
-- خط الواجهة العربي
-- الهاشتاقات
+**Windows · Linux** &nbsp; / &nbsp; **الإصدار {{VER}} · تجريبي**
+
+[التنزيل](#التنزيل) &nbsp; · &nbsp; [التثبيت](#التثبيت) &nbsp; · &nbsp; [حالة المشروع](#حالة-المشروع) &nbsp; · &nbsp; [خريطة المشروع](#خريطة-المشروع)
+
+![واجهة مثبت التعريب — تصميم داكن وذهبي مع دعم العربية](docs/img/ui_ar.png)
+
+</div>
 
 ## التنزيل
 
-**[نزّل الإصدار {{VER}} (نسخة تجريبية)](https://github.com/exelight7/KH3RM_AR/releases/tag/{{VER}})** وكل الإصدارات في صفحة [Releases](../../releases). الإصدارات الحالية كلها تجريبية، لذلك قد لا يظهر زر «Latest» في GitHub.
+| Windows x64 | Linux x64 |
+|:---:|:---:|
+| **[↓ تنزيل المثبّت](https://github.com/exelight7/KH3RM_AR/releases/download/{{VER}}/KH3RM_AR_Setup_v{{VER}}_windows-x64.exe)** | **[↓ تنزيل الحزمة](https://github.com/exelight7/KH3RM_AR/releases/download/{{VER}}/KH3RM_AR_Setup_v{{VER}}_linux-x64.tar.gz)** |
+| شغّل المثبّت مباشرة | فك الضغط وشغّل `KH3RM_AR_Setup` |
 
-### Windows وLinux
+<div align="center">
 
-- **[مثبت Windows x64](https://github.com/exelight7/KH3RM_AR/releases/download/{{VER}}/KH3RM_AR_Setup_v0.8.3_windows-x64.exe)**.
-- **[مثبت Linux x64 / Steam Deck](https://github.com/exelight7/KH3RM_AR/releases/download/{{VER}}/KH3RM_AR_Setup_v0.8.3_linux-x64.tar.gz)**.
+[تفاصيل الإصدار والملفات](https://github.com/exelight7/KH3RM_AR/releases/tag/{{VER}}) &nbsp; · &nbsp; [دليل المثبّت](tools/installer/README.md)
 
-في Linux: فك الأرشيف وشغل `KH3RM_AR_Setup` داخل جلسة سطح المكتب. يدعم Steam وFlatpak واختيار المجلد يدويا؛ تعمل اللعبة عبر Proton. بنيت نسخة Linux، ولم تجرب على جهاز Linux بعد.
+</div>
 
-[دليل المثبت](tools/installer/README.md) · [الحقوق ومصدر الصورة](tools/installer/CREDITS.md). الحقوق موثقة في المستودع ولا تظهر داخل التطبيق.
+## التثبيت
 
-## التثبيت (٤ خطوات)
+1. **أغلق اللعبة** وافتح المثبّت.
+2. **اختر مجلد اللعبة**؛ يكتشف المثبّت مكتبات Steam تلقائيًا، ويدعم Epic على Windows.
+3. **اضغط «تثبيت»** وانتظر اكتمال العملية.
 
-1. أغلق اللعبة، ثم شغّل `{{SETUP}}`.
-2. إن ظهرت نافذة SmartScreen (المثبّت غير موقّع): اضغط «More info» ثم «Run anyway».
-3. اختر مجلد اللعبة (Steam، أو Epic على Windows)؛ يبحث عنه المثبّت تلقائيا، فإن لم يجده اختره بنفسك.
-4. اضغط «تثبيت». يتحقق المثبّت من الملف بـ SHA256.
+للإزالة، افتح المثبّت واختر **«إزالة»**.
 
-### التثبيت اليدوي
+<details>
+<summary><strong>التثبيت اليدوي</strong></summary>
 
-1. نزّل `pakchunk99-arabic_P.pak` من صفحة [Releases](../../releases).
-2. انسخه إلى مجلد `Content\Paks\~mods` داخل مجلد اللعبة (أنشئ `~mods` إن لم يكن موجودا). مثال:
-   `C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS III\KINGDOM HEARTS III\Content\Paks\~mods`
-3. أبقِ ملف pak واحدا فقط من هذا التعريب في المجلد.
+نزّل `pakchunk99-arabic_P.pak` من [صفحة الإصدار](https://github.com/exelight7/KH3RM_AR/releases/tag/{{VER}})، وضعه داخل مجلد اللعبة في:
 
-## الإزالة
+```text
+KINGDOM HEARTS III/Content/Paks/~mods/
+```
 
-احذف `pakchunk99-arabic_P.pak` من `~mods` (أو شغّل `REMOVE_AR.bat`) واللعبة مغلقة. لا نغيّر أي ملف أصلي من اللعبة.
+أنشئ مجلد `~mods` إن لم يكن موجودًا، وأبقِ نسخة واحدة من حزمة التعريب. للإزالة، احذف الحزمة واللعبة مغلقة.
 
-## حالة التطوير
+</details>
 
-| المقياس | النتيجة |
-|---|---|
-| مترجم من النص القابل للترجمة | {{TRANSLATABLE_PCT}} ({{TRANSLATABLE}} سطرا) |
-| مراجَع لغويا | مراجعات سابقة ومراجعة كاملة في أربع دفعات |
-| تم التحقق منه بلقطة شاشة داخل اللعبة | {{VERIFIED}} فقط ({{VERROWS}} سطرا) |
+## حالة المشروع
 
-الترجمة اكتملت، واكتملت مراجعة كاملة في أربع دفعات، لكن التحقق الفعلي داخل اللعبة لم يشمل إلا نسبة صغيرة جدا. فتوقّع أن تجد أسطرا تحتاج إلى تصحيح، وبلاغاتك هي ما يرفع هذه النسبة. (الأرقام من `state/STATS.md`.)
+| الترجمة في المصدر | المراجعة اللغوية | التحقق داخل اللعبة |
+|:---:|:---:|:---:|
+| **{{TRANSLATABLE_PCT}}** من النص القابل للترجمة | **٤ / ٤ دفعات** مكتملة | **{{VERROWS}} سطرًا** · {{VERIFIED}} |
 
-## خارطة الطريق
+تضم الترجمة **{{TRANSLATABLE}} سطرًا**. حزمة التنزيل الحالية هي BUILD-7؛ تصحيحات المراجعة الأخيرة في المصدر وتنتظر بناءً لاحقًا. نسخة Linux مبنية، وتجربتها على جهاز Linux ما زالت مطلوبة.
 
-| الإصدار | المحتوى |
-|---|---|
-| 0.9.0 | حزمة صور اختيارية (نصوص مرسومة داخل الصور) |
-| 0.9.1 | صور الألعاب المصغّرة |
-| 0.9.2 – 0.9.8 | إصلاحات من نتائج الاختبار |
-| 0.9.9 | نسخة مرشّحة للإصدار النهائي |
-| 1.0.0 | بعد أن يلعب صاحب المشروع اللعبة كاملة فقط |
+**وجدت مشكلة؟** [أرسل بلاغًا](https://github.com/exelight7/KH3RM_AR/issues/new/choose) مع لقطة شاشة ومكان ظهورها.
 
-## مشاكل معروفة
-
-- علامة الاستفهام العربية غير مثبتة بعد، فنستعمل `?` اللاتينية.
-- قد تُقطع بعض الأسطر الطويلة في صناديق الواجهة.
-- تحديثات Steam قد تكسر الملف؛ أعد التثبيت بعدها.
-
-## الإبلاغ عن مشكلة
-
-افتح [بلاغا جديدا](https://github.com/exelight7/KH3RM_AR/issues/new/choose) بالقالب الجاهز: سطر واحد (الكلمات التي رأيتها، المكان، نوع المشكلة) مع لقطة شاشة. التفاصيل في [دليل المختبر](docs/TESTER_GUIDE.md). وللبحث عن السطر المقصود استعمل `python tools\find_text.py <كلمة>`.
-
-## الحقوق
-
-ترجمة غير رسمية من المعجبين. لا يحتوي هذا المستودع على أي ملف من اللعبة ولا على نصها الأصلي؛ ملفات الترجمة فيه عربية فقط. الخط داخل الـ pak يحتوي رسوم حروف محوّلة من Segoe UI، ويتحمل صاحب المشروع مسؤولية استعمالها. حزمة الصور ليست جزءا من الإصدارات العامة. الترخيص لم يُحسم بعد (انظر `LICENSE_TODO.md`).
-
-## الشكر
-
-المؤلف: [exelight7](https://github.com/exelight7). المشروع الأقدم لتعريب Kingdom Hearts II Final Mix: [KH2FM_AR](https://github.com/exelight7/KH2FM_AR).
-
-## البناء من المصدر
-
-تحتاج نسختك الخاصة من اللعبة؛ مفتاح المجتمع **لا يوزَّع** هنا.
-
-1. ثبّت Python وضع مفتاحك ونسخة اللعبة كما في `technical/RECON_KH3.md`.
-2. `python tools\merge_translation.py --check` ثم `python tools\validate.py`.
-3. `python tools\build_build7.py` يبني ملف pak.
+[دليل التجربة](docs/TESTER_GUIDE.md) &nbsp; · &nbsp; [الأسئلة الشائعة](FAQ.md) &nbsp; · &nbsp; [سجل التحديثات](CHANGELOG.md) &nbsp; · &nbsp; [تقارير المراجعة](docs/rounds/CODEX-REVIEW4-HANDOFF.md)
 
 ---
 
-[تقرير المراجعة وتسليم المتابعة](docs/rounds/CODEX-REVIEW4-HANDOFF.md)
+<div align="center">
 
-## خريطة المشروع التفاعلية
+## خريطة المشروع
 
-[![خريطة مشروع التعريب — اضغط للاستكشاف](docs/graph/overview.svg)](https://exelight7.github.io/KH3RM_AR/graph/)
+**استكشف المشروع بصريًا مع Graphify**
 
-**[افتح الخريطة التفاعلية ←](https://exelight7.github.io/KH3RM_AR/graph/)**
+[![خريطة ملفات المشروع وعلاقاتها — اضغط لفتح الخريطة التفاعلية](docs/graph/overview.svg)](https://exelight7.github.io/KH3RM_AR/graph/)
 
-تصفح ملفات المشروع والأدوات وعلاقاتها، وابحث عن أي ملف أو مفهوم. [طريقة الاستخدام](docs/GRAPHIFY.md) · [تقارير دفعات المراجعة](docs/rounds/).
+### [افتح الخريطة التفاعلية ↗](https://exelight7.github.io/KH3RM_AR/graph/)
+
+ابحث عن الملفات والأدوات والمفاهيم، وتتبع العلاقات بينها.
+
+[دليل الخريطة](docs/GRAPHIFY.md)
+
+</div>
