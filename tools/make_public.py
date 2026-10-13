@@ -98,7 +98,7 @@ def main():
     for f in sorted(os.listdir(os.path.join(ROOT, 'tools'))):
         if f.startswith(('repak-', 'gh-')) or f in ('__pycache__', 'KEY_SOURCE.txt', 'bin', 'obj'): continue
         tools_copy('tools/' + f)
-    for f in sorted(glob.glob(os.path.join(ROOT, '*.bat'))): tools_copy(os.path.basename(f))
+    # root *.bat swap/remove scripts only work inside the private project: never published
     print(f'make_public: {n} translation rows written to {PUB}')
 
 if __name__ == '__main__':

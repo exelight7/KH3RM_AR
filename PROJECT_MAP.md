@@ -21,8 +21,9 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 
 ## 3. Current phase, last round, next step
 
-- **RELEASE-090 (2026-10-13, built + installed, NOT published):** **IMAGES-MASS3** images pak (`texture_text.py mass` -> `out\builds\IMAGES-MASS3\`, sha d8d13948..., 41,083,305 B, 212 textures, 0 FAIL, 424 files PASS; the 420 MASS2 files byte-identical): ps4 `HelpItem30402` control panel + `SpecialShip_02` LV / MAX / NEXT / OBJECTIVE (sprite regions of the movie, existing rows 13279 / 15771 / 13280 / 13294) repainted; **211 / 234 = 90.2 % = 100 % of the repaintable textures**, the 23 others KEEP ENGLISH with a written reason in `technical\IMAGES_STILL_ENGLISH.tsv`. Installed via `SWAP_TO_IMAGES_MASS3.bat` (sha = pin; text pak still BUILD-8 45f043de...). Installer 0.9.0 rebuilt with IMAGES-MASS3 (37/37 selftest PASS); `out\release\v0.9.0\` ready (5 assets + Arabic notes). **Publishing stopped:** the generated README changes 2 wording lines (49, 59; from the OPUS-090 D template edit) besides value lines, so no push and no release. Plan: `docs\ROADMAP_TO_1.0.0.md`. Report: `state\LAST_REPORT.md`.
-- **Next step (RELEASE-090):** user says yes/no to README lines 49 / 59 (no = revert those two template lines to the published wording) -> `tools\refresh.bat` -> `tools\publish.bat` -> `gh release create 0.9.0 --prerelease` with the 5 assets (command in `state\LAST_REPORT.md`) -> then the rounds of `docs\ROADMAP_TO_1.0.0.md`.
+- **PUBLISH-090 (2026-10-13, PUBLISHED):** README lines 49 / 59 accepted; `tools\publish.bat` pushed public main (24b0334); GitHub pre-release 0.9.0 with 5 assets (sizes + sha256 digests match SHA256SUMS), isPrerelease true: https://github.com/exelight7/KH3RM_AR/releases/tag/0.9.0. Notes say SpecialShip_02 / ps4 HelpItem30402 not yet seen in game and images pack is optional. Report: `state\LAST_REPORT.md`.
+- **RELEASE-090 (2026-10-13, built + installed, published by PUBLISH-090):** **IMAGES-MASS3** images pak (`texture_text.py mass` -> `out\builds\IMAGES-MASS3\`, sha d8d13948..., 41,083,305 B, 212 textures, 0 FAIL, 424 files PASS; the 420 MASS2 files byte-identical): ps4 `HelpItem30402` control panel + `SpecialShip_02` LV / MAX / NEXT / OBJECTIVE (sprite regions of the movie, existing rows 13279 / 15771 / 13280 / 13294) repainted; **211 / 234 = 90.2 % = 100 % of the repaintable textures**, the 23 others KEEP ENGLISH with a written reason in `technical\IMAGES_STILL_ENGLISH.tsv`. Installed via `SWAP_TO_IMAGES_MASS3.bat` (sha = pin; text pak still BUILD-8 45f043de...). Installer 0.9.0 rebuilt with IMAGES-MASS3 (37/37 selftest PASS); `out\release\v0.9.0\` ready (5 assets + Arabic notes). **Publishing stopped:** the generated README changes 2 wording lines (49, 59; from the OPUS-090 D template edit) besides value lines, so no push and no release. Plan: `docs\ROADMAP_TO_1.0.0.md`. Report: `state\LAST_REPORT.md`.
+- **Next step:** the rounds of `docs\ROADMAP_TO_1.0.0.md` (0.9.0 is out; no 1.0.0 tag yet).
 
 - **INSTALL-8 (2026-10-13, installed, NOT published):** `SWAP_TO_BUILD8.bat` + `SWAP_TO_IMAGES_MASS2.bat` run from cmd; `~mods` now holds BUILD-8 (`pakchunk99`, sha 45f043de..., 4,890,167 B) + IMAGES-MASS2 (`pakchunk98`, sha bc546502..., 40,442,423 B), both SHA256 equal to the pins; `state\INSTALLED.tsv` / STATS updated, 2 new rows in `state\SWAP_LOG.tsv`. Checklist rewritten to 5 yes/no lines: `technical\IMAGES_MASS2_CHECKLIST.md`. Next: user plays and reports only problems; then publish / 0.9.0 on the supervisor's word.
 - **DECIDE-19 (2026-10-13, documents only):** executor choices for the 19 items of `review\DECISIONS_NEEDED.md` -> `review\DECISIONS_ANSWERED.md` (A 5, B 4, LEAVE 10) and `review\proposed\BUILD9_proposed.tsv` (5 rows: 10847, 14238, 10694 + companion 15915, 09582; old_AR = current AR for all, validator logic 0 failures). Proposed only: nothing under `review\corrections`, no translation TSV, glossary, build, install or publish change. Report: `state\LAST_REPORT.md`.
@@ -63,6 +64,7 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 
 ## 4. Decisions already made
 
+- PUBLISH-090: 0.9.0 is a GitHub PRE-RELEASE (not 1.0.0); README lines 49 / 59 wording accepted by the user; publish.bat pushes to exelight7/KH3RM_AR main.
 - 2026-10-13 RELEASE-090 (executor, within the user's round prompt): the image plan is closed at 211 / 234; KEEP ENGLISH = 5-8 px HUD words (5 tutorial pictures), key / button names and glyph-only pictures (16), the heart-only HudRight03, and the styled HudKairi_01 name emblem (a repaint test left hard cut edges: never ship an unclean texture); minigame sprite textures are repainted only inside the sprite regions read from the movie's bitmap fills, the English-language frame decides which words count (SpecialShip_02: LV, MAX, OBJECTIVE; NEXT = default frame, repainted too); the public README may change only through its placeholders, any other line difference stops publishing.
 
 - 2026-10-13 DECIDE-19 (executor, within the user's round prompt; supervisor can overrule): of the 19 DECISIONS_NEEDED items, B for 10847 (the Name Entry screen has kana/kanji/ABC/symbol pages and no Numerals page, so "numerals"..."Remove"..."remove images pack only" button.
@@ -157,6 +159,7 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | `LICENSE_TODO.md` | License — undecided |
 | `PROJECT_MAP.md` | PROJECT_MAP — KH3 Arabic (start here) |
 | `README.md` | <div align="center"> |
+| `RELEASE-090.md` | RELEASE-090 (round prompt, saved verbatim) |
 | `REMOVE_ARABIC.bat` | chcp 65001 >nul |
 | `REMOVE_IMAGES.bat` | chcp 65001 >nul |
 | `REMOVE_IMAGES_PILOT.bat` | chcp 65001 >nul |
@@ -378,7 +381,7 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 
 ## 8. Open questions
 
-- RELEASE-090: (1) README lines 49 (images-pack sentence) and 59 (BUILD-8 sentence) are wording changes from the OPUS-090 D template edit: accept (yes) or revert to the published wording (no)? 0.9.0 publish waits for this. (2) The README template has no images-count placeholder, so the images count is not in the README. (3) IMAGES-MASS3 words (SpecialShip_02, ps4 HelpItem30402) not seen in game. (4) 10847 plural form in BUILD-9: the TSVs only hold «حروف» (rows 15223 / 15226), supervisor to confirm. (5) The Arabic rule was broken once: a sed on `tools\installer\README.md` had Arabic in its pattern (result checked: UTF-8 valid, no U+FFFD, only the ASCII parts changed). Ordered plan with yes/no items: `docs\ROADMAP_TO_1.0.0.md`.
+- PUBLISH-090: README lines 49 / 59 accepted and published; 0.9.0 pre-release is live. Open: in-game check of the 2 new textures, Linux runtime, DECIDE-19.
 
 - DECIDE-19: supervisor to confirm or overrule `review\DECISIONS_ANSWERED.md` and say which rows of `review\proposed\BUILD9_proposed.tsv` become corrections (10847 plural form "5 حروف"..."5 أحرف", 14238 title width not yet seen in game). 10 items stay LEAVE (need new wording from the supervisor: 11946, 03280, 03556, 03566, 07579, 04052, 00331, 10348, Tangled 15281; 02369 already resolved).
 
