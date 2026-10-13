@@ -352,7 +352,7 @@ id	namespace	key	source_hash	AR	status	note
 13328	kh3_level.ew	text_0210	cc84b3be	قوة المحارب...<br>شجاعة لا تقهر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13329	kh3_level.ew	text_0220	420bb45d	قوة الساحر...<br>القوة الداخلية.	reviewed	
 13330	kh3_level.ew	text_0230	8ea1b4c3	قوة الحارس...<br>اللطف لمساعدة الأصدقاء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-13331	kh3_level.ew	text_0240	8464bdda	<br>هل هذا هو أنت?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13331	kh3_level.ew	text_0240	8464bdda	<br>هل هذا ما أنت عليه?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13332	kh3_level.ew	text_0500	74b65aaf	أي نوع من المغامرات تنشد?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13333	kh3_level.ew	text_0510	b81c5a31	مغامرة عادية<br>طريق مألوف ومباشر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13334	kh3_level.ew	text_0520	36935dd2	مغامرة سهلة<br>طريق أيسر لتحقيق الأهداف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

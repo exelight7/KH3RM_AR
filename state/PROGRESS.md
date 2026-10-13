@@ -545,3 +545,7 @@ RESUME IMAGES-MASS: next = cat 1b minigame HUDs (16 scaleform_loc, priority 3), 
 2026-10-13 CODEX-REVIEW4-3 review: 4305 rows read and ledgered; 227 audited skips, 14 context questions preserved.
 2026-10-13 CODEX-REVIEW4-3 apply: 32 canonical corrections + 0 image-source corrections; original source columns and untargeted Arabic unchanged.
 2026-10-13 CODEX-REVIEW4-3 checks: mandatory refresh PASS, 0 ERR, secret_check PASS; public checkpoint ready.
+
+2026-10-13 CODEX-REVIEW4-4 review: 4305 rows read and ledgered; 236 audited skips, 24 context questions preserved.
+2026-10-13 CODEX-REVIEW4-4 apply: 19 canonical corrections + 0 image-source corrections; original source columns and untargeted Arabic unchanged.
+2026-10-13 CODEX-REVIEW4-4 checks: mandatory refresh PASS, 0 ERR, secret_check PASS; public checkpoint ready.
