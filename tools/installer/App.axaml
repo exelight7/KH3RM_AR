@@ -1,0 +1,16 @@
+<Application xmlns="https://github.com/avaloniaui" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Class="Kh3rmAr.App" RequestedThemeVariant="Dark">
+  <Application.Styles>
+    <FluentTheme />
+    <Style Selector="TextBlock"><Setter Property="Foreground" Value="#F5F1E8"/></Style>
+    <Style Selector="Button"><Setter Property="Cursor" Value="Hand"/><Setter Property="CornerRadius" Value="13"/><Setter Property="FontSize" Value="14"/><Setter Property="Padding" Value="18,12"/></Style>
+    <Style Selector="Button.chrome"><Setter Property="Background" Value="Transparent"/><Setter Property="BorderThickness" Value="0"/><Setter Property="MinWidth" Value="36"/><Setter Property="Padding" Value="10,8"/><Setter Property="Foreground" Value="#B8B6BE"/></Style>
+    <Style Selector="Button.chrome:pointerover /template/ ContentPresenter"><Setter Property="Background" Value="#25232E"/></Style>
+    <Style Selector="Button.chrome:disabled /template/ ContentPresenter"><Setter Property="Background" Value="Transparent"/><Setter Property="Foreground" Value="#68616F"/></Style>
+    <Style Selector="Button.install"><Setter Property="Background" Value="#E8CA89"/><Setter Property="Foreground" Value="#201B13"/><Setter Property="FontWeight" Value="SemiBold"/><Setter Property="FontSize" Value="17"/><Setter Property="HorizontalContentAlignment" Value="Center"/><Setter Property="MinHeight" Value="57"/></Style>
+    <Style Selector="Button.install:pointerover /template/ ContentPresenter"><Setter Property="Background" Value="#F5DDAA"/><Setter Property="Foreground" Value="#201B13"/></Style>
+    <Style Selector="Button.install:disabled"><Setter Property="Opacity" Value="0.38"/></Style>
+    <Style Selector="Button.secondary"><Setter Property="Background" Value="#1C1C27"/><Setter Property="BorderBrush" Value="#3A3845"/><Setter Property="BorderThickness" Value="1"/><Setter Property="Foreground" Value="#E7E2DA"/></Style>
+    <Style Selector="Button.secondary:pointerover /template/ ContentPresenter"><Setter Property="Background" Value="#302C3B"/></Style>
+    <Style Selector="TextBox"><Setter Property="Background" Value="#111119"/><Setter Property="BorderBrush" Value="#34313E"/><Setter Property="CornerRadius" Value="11"/><Setter Property="Foreground" Value="#DDD7CB"/><Setter Property="FontSize" Value="12"/><Setter Property="Padding" Value="12"/></Style>
+  </Application.Styles>
+</Application>

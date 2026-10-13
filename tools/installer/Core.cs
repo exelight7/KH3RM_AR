@@ -10,7 +10,7 @@ namespace Kh3rmAr;
 /// <summary>Everything that touches the disk. No UI, so SelfTest can run it on fake folder trees.</summary>
 public static class Core
 {
-    public const string Version = "0.8.2";
+    public const string Version = "0.8.3";
     public const string PakName = "pakchunk99-arabic_P.pak";
     public const string ExpectedSha = "f9e23f373ce52a5e9c6690d264b7228d43d0e28aa55d9d76386514db511e82d7"; // BUILD-7
     public const string SteamAppId = "2552450";
@@ -54,7 +54,7 @@ public static class Core
     /// <summary>Steam: every library with appmanifest_2552450.acf (installdir) -> Paks. Fallback: common\KINGDOM HEARTS III.</summary>
     public static IEnumerable<string> FindSteam(IEnumerable<string> steamRoots)
     {
-        var seen = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+        var seen = new HashSet<string>(OperatingSystem.IsWindows() ? StringComparer.OrdinalIgnoreCase : StringComparer.Ordinal);
         foreach (var root in steamRoots.Where(r => !string.IsNullOrWhiteSpace(r)))
             foreach (var lib in SteamLibraries(root))
             {
@@ -93,6 +93,19 @@ public static class Core
     public static IEnumerable<string> SystemSteamRoots()
     {
         var found = new List<string>();
+        if (!OperatingSystem.IsWindows())
+        {
+            var home = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile);
+            found.AddRange(new[] {
+                Path.Combine(home, ".steam", "steam"), Path.Combine(home, ".steam", "root"),
+                Path.Combine(home, ".local", "share", "Steam"),
+                Path.Combine(home, ".var", "app", "com.valvesoftware.Steam", ".local", "share", "Steam"),
+                Path.Combine(home, ".var", "app", "com.valvesoftware.Steam", "data", "Steam")
+            });
+            var data = Environment.GetEnvironmentVariable("XDG_DATA_HOME");
+            if (!string.IsNullOrEmpty(data)) found.Add(Path.Combine(data, "Steam"));
+            return found.Where(Directory.Exists).Distinct(StringComparer.Ordinal).ToList();
+        }
         foreach (var (hive, key, name) in new[] { (Microsoft.Win32.Registry.CurrentUser, @"Software\Valve\Steam", "SteamPath"),
                                                   (Microsoft.Win32.Registry.LocalMachine, @"SOFTWARE\WOW6432Node\Valve\Steam", "InstallPath"),
                                                   (Microsoft.Win32.Registry.LocalMachine, @"SOFTWARE\Valve\Steam", "InstallPath") })
@@ -108,7 +121,8 @@ public static class Core
         Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.CommonApplicationData), "Epic", "UnrealEngineLauncher", "LauncherInstalled.dat");
 
     public static List<string> DetectAll() =>
-        FindSteam(SystemSteamRoots()).Concat(FindEpic(EpicDat())).Distinct(StringComparer.OrdinalIgnoreCase).ToList();
+        FindSteam(SystemSteamRoots()).Concat(OperatingSystem.IsWindows() ? FindEpic(EpicDat()) : Array.Empty<string>())
+            .Distinct(OperatingSystem.IsWindows() ? StringComparer.OrdinalIgnoreCase : StringComparer.Ordinal).ToList();
 
     // ---- state / install / remove --------------------------------------------------------------------------
     public enum State { NotInstalled, Current, OtherVersion }
@@ -133,7 +147,17 @@ public static class Core
     {
         foreach (var p in Process.GetProcesses())
         {
-            try { if (p.ProcessName.StartsWith(prefix, StringComparison.OrdinalIgnoreCase)) return true; }
+            try
+            {
+                if (p.ProcessName.StartsWith(prefix, StringComparison.OrdinalIgnoreCase)) return true;
+                // Proton/Wine process names can be truncated; inspect executable arguments locally.
+                if (OperatingSystem.IsLinux() && prefix == ProcPrefix)
+                {
+                    var args = File.ReadAllText($"/proc/{p.Id}/cmdline").Split('\0');
+                    if (args.Any(arg => Path.GetFileName(arg.Replace('\\', '/'))
+                        .StartsWith(ProcPrefix, StringComparison.OrdinalIgnoreCase))) return true;
+                }
+            }
             catch (Exception) { }
             finally { p.Dispose(); }
         }
@@ -148,17 +172,27 @@ public static class Core
         if ((running ?? (() => IsGameRunning()))()) return Result.GameRunning;
         if (!Directory.Exists(paks)) return Result.NoPaks;
         var dst = Path.Combine(ModsDir(paks), PakName);
+        var temporary = dst + "." + Guid.NewGuid().ToString("N") + ".tmp";
         try
         {
             Directory.CreateDirectory(ModsDir(paks));
             using (var src = OpenPak())
-            using (var f = new FileStream(dst, FileMode.Create, FileAccess.Write, FileShare.None)) src.CopyTo(f);
-            if (ShaFile(dst) == EmbeddedSha()) return Result.Ok;
-            File.Delete(dst);
-            return Result.HashMismatch;
+            using (var f = new FileStream(temporary, FileMode.CreateNew, FileAccess.Write, FileShare.None))
+                src.CopyTo(f);
+            if (ShaFile(temporary) != ExpectedSha) return Result.HashMismatch;
+            if ((running ?? (() => IsGameRunning()))()) return Result.GameRunning;
+            File.Move(temporary, dst, true);
+            return Result.Ok;
         }
         catch (UnauthorizedAccessException) { return Result.Denied; }
         catch (Exception) { return Result.Error; }
+        finally
+        {
+            // Never remove an installed pak when staging or verification fails.
+            try { if (File.Exists(temporary)) File.Delete(temporary); }
+            catch (IOException) { }
+            catch (UnauthorizedAccessException) { }
+        }
     }
 
     /// <summary>Deletes only our pak; removes ~mods only when it is then empty.</summary>

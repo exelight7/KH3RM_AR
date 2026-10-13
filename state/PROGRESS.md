@@ -551,3 +551,7 @@ RESUME IMAGES-MASS: next = cat 1b minigame HUDs (16 scaleform_loc, priority 3), 
 2026-10-13 CODEX-REVIEW4-4 checks: mandatory refresh PASS, 0 ERR, secret_check PASS; public checkpoint ready.
 
 - CODEX-REVIEW4: اكتملت 4/4؛ 17240 مدخلا، 137 تصحيحا، 64 سياقا معلقا. نشرت الدفعات الأربع مستقلة.
+
+2026-10-13 INSTALLER-CROSSPLATFORM ui: Avalonia 0.8.3, user-selected artwork, credits in GitHub only.
+2026-10-13 INSTALLER-CROSSPLATFORM build: win-x64 and linux-x64 published locally with unchanged BUILD-7 payload; Windows UI previewed, Linux runtime not available.
+2026-10-13 INSTALLER-CROSSPLATFORM publish: update current 0.8.3 with additive installer assets; preserve all previous release assets.

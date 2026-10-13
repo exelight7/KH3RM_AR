@@ -13,8 +13,8 @@ TECH = ['RECON_KH3.md', 'SHAPER_SPEC.md', 'FIELD_WIDTHS.tsv', 'TAGS.md', 'IMAGES
 COLS = ['id', 'namespace', 'key', 'source_hash', 'AR', 'status', 'note']
 NOTE_ID = 'state/PROGRESS.md'
 RELEASE = '0.8.3'                                  # README download link (tag)
-SETUP = 'KH3RM_AR_Setup_v0.8.2.exe'                # installer attached to that release
-IMG_VER = '0.8.2'                                  # out\release\v<IMG_VER>\ui_ar.png screenshot
+SETUP = 'KH3RM_AR_Setup_v0.8.3_windows-x64.exe'                # installer attached to that release
+IMG_VER = '0.8.3-crossplatform'                                  # out\release\v<IMG_VER>\ui_ar.png screenshot
 # double-quoted English phrase of 3+ words (likely game text) -> "..."
 QUOTE = re.compile(r'"(?=[^"\n]*[A-Za-z])(?:[^"\n؀-ۿ]*\s){2}[^"\n؀-ۿ]*"')
 

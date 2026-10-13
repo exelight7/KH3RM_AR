@@ -20,11 +20,20 @@
 
 **[نزّل الإصدار 0.8.3 (نسخة تجريبية)](https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.3)** وكل الإصدارات في صفحة [Releases](../../releases). الإصدارات الحالية كلها تجريبية، لذلك قد لا يظهر زر «Latest» في GitHub.
 
+### Windows وLinux
+
+- **[مثبت Windows x64](https://github.com/exelight7/KH3RM_AR/releases/download/0.8.3/KH3RM_AR_Setup_v0.8.3_windows-x64.exe)**.
+- **[مثبت Linux x64 / Steam Deck](https://github.com/exelight7/KH3RM_AR/releases/download/0.8.3/KH3RM_AR_Setup_v0.8.3_linux-x64.tar.gz)**.
+
+في Linux: فك الأرشيف وشغل `KH3RM_AR_Setup` داخل جلسة سطح المكتب. يدعم Steam وFlatpak واختيار المجلد يدويا؛ تعمل اللعبة عبر Proton. بنيت نسخة Linux، ولم تجرب على جهاز Linux بعد.
+
+[دليل المثبت](tools/installer/README.md) · [الحقوق ومصدر الصورة](tools/installer/CREDITS.md). الحقوق موثقة في المستودع ولا تظهر داخل التطبيق.
+
 ## التثبيت (٤ خطوات)
 
-1. أغلق اللعبة، ثم شغّل `KH3RM_AR_Setup_v0.8.2.exe`.
+1. أغلق اللعبة، ثم شغّل `KH3RM_AR_Setup_v0.8.3_windows-x64.exe`.
 2. إن ظهرت نافذة SmartScreen (المثبّت غير موقّع): اضغط «More info» ثم «Run anyway».
-3. اختر مجلد اللعبة (Steam أو Epic)؛ يبحث عنه المثبّت تلقائيا، فإن لم يجده اختره بنفسك.
+3. اختر مجلد اللعبة (Steam، أو Epic على Windows)؛ يبحث عنه المثبّت تلقائيا، فإن لم يجده اختره بنفسك.
 4. اضغط «تثبيت». يتحقق المثبّت من الملف بـ SHA256.
 
 ### التثبيت اليدوي

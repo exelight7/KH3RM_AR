@@ -1,27 +1,26 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net8.0-windows</TargetFramework>
-    <UseWPF>true</UseWPF>
+    <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <AssemblyName>KH3RM_AR_Setup</AssemblyName>
     <RootNamespace>Kh3rmAr</RootNamespace>
-    <Version>0.8.2</Version>
-    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <Version>0.8.3</Version>
+    <RuntimeIdentifier Condition="'$(RuntimeIdentifier)'==''">win-x64</RuntimeIdentifier>
     <SelfContained>true</SelfContained>
     <PublishSingleFile>true</PublishSingleFile>
     <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
     <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
-    <InvariantGlobalization>true</InvariantGlobalization>
-    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
-    <!-- the pak to embed; override with -p:PakPath=... -->
-    <PakPath Condition="'$(PakPath)'==''">$(MSBuildThisFileDirectory)..\..\out\builds\BUILD-7\pakchunk99-arabic_P.pak</PakPath>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
     <ApplicationIcon Condition="Exists('app.ico')">app.ico</ApplicationIcon>
+    <PakPath Condition="'$(PakPath)'==''">$(MSBuildThisFileDirectory)..\..\out\builds\BUILD-7\pakchunk99-arabic_P.pak</PakPath>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="Avalonia.Desktop" Version="11.3.22" />
+    <PackageReference Include="Avalonia.Themes.Fluent" Version="11.3.22" />
+    <Compile Include="Program.cs;App.axaml.cs;MainWindow.axaml.cs;Core.cs;Strings.cs;SelfTest.cs" />
+    <AvaloniaResource Include="art/hero.jpg" />
     <EmbeddedResource Include="$(PakPath)" LogicalName="pak" />
-    <EmbeddedResource Include="art\background.png" Condition="Exists('art\background.png')" LogicalName="art.bg" />
-    <EmbeddedResource Include="art\CREDIT.txt" Condition="Exists('art\CREDIT.txt')" LogicalName="art.credit" />
   </ItemGroup>
 </Project>
