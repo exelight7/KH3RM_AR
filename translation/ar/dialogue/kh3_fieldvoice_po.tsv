@@ -17,7 +17,7 @@ id	namespace	key	source_hash	AR	status	note
 09022	kh3_fieldvoice_po.chat	sora_0180	bab8f6da	حسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09023	kh3_fieldvoice_po.chat	sora_0190	7612f644	فهمت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09024	kh3_fieldvoice_po.chat	sora_0200	1ec33f9f	هات المزيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09025	kh3_fieldvoice_po.chat	sora_0210	d2693f01	كل هذا في يوم عمل واحد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09025	kh3_fieldvoice_po.chat	sora_0210	d2693f01	هذا عمل معتاد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09026	kh3_fieldvoice_po.chat	sora_0220	5ce638e2	أقول إننا نستحق راحة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09027	kh3_fieldvoice_po.chat	pooh_0010	1808b3a8	بطني بدأت تقرقر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09028	kh3_fieldvoice_po.chat	pooh_0020	9687b44b	أنا في مزاج<br>للقمة من العسل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

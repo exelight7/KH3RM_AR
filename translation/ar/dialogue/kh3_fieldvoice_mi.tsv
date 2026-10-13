@@ -92,7 +92,7 @@ id	namespace	key	source_hash	AR	status	note
 08971	kh3_fieldvoice_mi.talk	sulley_0070	05aad119	من أين جاءت تلك الآلات?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08972	kh3_fieldvoice_mi.talk	sulley_0080	dc8ac3b5	لم نطلب أي معدات كهذه أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08973	kh3_fieldvoice_mi.talk	sulley_0090	1020c32b	ضحكات بو تنتج طاقة قوية جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-08974	kh3_fieldvoice_mi.talk	sulley_0100	94ca946f	إذن ما رأيكم? هل هذا لوني?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08974	kh3_fieldvoice_mi.talk	sulley_0100	94ca946f	إذن ما رأيكم? هل يناسبني هذا اللون?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08975	kh3_fieldvoice_mi.talk	sulley_0110	586094f1	يجب أن نحمي بو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08976	kh3_fieldvoice_mi.talk	sulley_0120	d6ef9312	هيا. يجب أن نصل إلى المخرج!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08977	kh3_fieldvoice_mi.talk	sulley_0130	1a45938c	سورا، دونالد، غوفي، هذه المهمة لكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -101,8 +101,8 @@ id	namespace	key	source_hash	AR	status	note
 08980	kh3_fieldvoice_mi.talk	sulley_0160	52a59de8	أوشكنا على الوصول إلى الخزنة.<br>ثم نستطيع البحث عن باب بو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08981	kh3_fieldvoice_mi.talk	sulley_0170	9e0f9d76	مرحبا يا رفاق! مهلا... إن كنتم هنا،<br>فهل يعني ذلك أن المزيد من تلك الآفات ظهرت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08982	kh3_fieldvoice_mi.talk	sulley_0180	472f8fda	أخبرونا إن كنا نستطيع المساعدة في الإبادة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-08983	kh3_fieldvoice_mi.talk	sulley_0190	8b858f44	تذكروا، أنتم مرحب بكم دائما<br>في شركة المرعبين المحدودة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-08984	kh3_fieldvoice_mi.talk	mike_0010	517fc855	أهلا بكم في شركة المرعبين المحدودة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08983	kh3_fieldvoice_mi.talk	sulley_0190	8b858f44	تذكروا، أنتم مرحب بكم دائما<br>في شركة المرعبين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08984	kh3_fieldvoice_mi.talk	mike_0010	517fc855	أهلا بكم في شركة المرعبين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08985	kh3_fieldvoice_mi.talk	mike_0020	dff0cfb6	مكان مبهر جدا، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08986	kh3_fieldvoice_mi.talk	mike_0030	135acf28	لا تتأخروا.<br>يجب أن نلحق بذلك الباب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08987	kh3_fieldvoice_mi.talk	mike_0040	199fc631	نبحث عن الباب الأبيض الذي عليه أزهار.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

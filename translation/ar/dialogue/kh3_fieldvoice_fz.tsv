@@ -192,7 +192,7 @@ id	namespace	key	source_hash	AR	status	note
 08614	kh3_fieldvoice_fz.chat	marshmallow_0040	4ad4f86f		todo	
 08615	kh3_fieldvoice_fz.chat	marshmallow_0050	867ef8f1	......	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08616	kh3_fieldvoice_fz.chat	anna_0010	cf7ea44f	امم، في الحقيقة يا أولاف، الأمر أنك<br>صرت كبيرا جدا الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-08617	kh3_fieldvoice_fz.chat	anna_0020	41f1a3ac	ليس نحن يا أولاف.<br>أنت على وشك أن تنقلب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08617	kh3_fieldvoice_fz.chat	anna_0020	41f1a3ac	لسنا نحن يا أولاف.<br>أنت على وشك أن تنقلب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08618	kh3_fieldvoice_fz.chat	anna_0030	8d5ba332	كريستوف. لا تفسد الأمر عليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08619	kh3_fieldvoice_fz.chat	anna_0040	879eaa2b	رائع! شكرا لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08620	kh3_fieldvoice_fz.chat	anna_0050	4b34aab5	تفضل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -246,12 +246,12 @@ id	namespace	key	source_hash	AR	status	note
 08668	kh3_fieldvoice_fz.talk	donald_0050	8ea07ad6	يجب أن نخرج من هنا. هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08669	kh3_fieldvoice_fz.talk	donald_0060	002f7d35	سورا، هل تريد أن نتزلج مجددا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08670	kh3_fieldvoice_fz.talk	goofy_0010	09ab32a8	هذا الجبل يبدو خطيرا.<br>أرجو أن تكون تلك السيدة بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-08671	kh3_fieldvoice_fz.talk	goofy_0020	8724354b	ماذا تظنون آنا وإلسا<br>تفعلان الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08671	kh3_fieldvoice_fz.talk	goofy_0020	8724354b	ماذا تظنون أن آنا وإلسا<br>تفعلان الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08672	kh3_fieldvoice_fz.talk	goofy_0030	4b8e35d5	لا شيء سوى الثلج على مد البصر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08673	kh3_fieldvoice_fz.talk	goofy_0040	414b3ccc	من يريد مثلجات الثلج المبشور?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08674	kh3_fieldvoice_fz.talk	goofy_0050	8de13c52	أنا م-م-متجمد جدا، لا أشعر بشيء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08675	kh3_fieldvoice_fz.talk	goofy_0060	036e3bb1	مهلا، هذا طريقنا للدخول والخروج.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-08676	kh3_fieldvoice_fz.talk	goofy_0070	cfc43b2f	هل نستطيع الانزلاق على الجبل مجددا يا سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08676	kh3_fieldvoice_fz.talk	goofy_0070	cfc43b2f	هل نستطيع الانزلاق نزولا على الجبل مجددا يا سورا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08677	kh3_fieldvoice_fz.talk	kristoff_0010	10b7f1fe	من يدري إلى أين تدحرج?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08678	kh3_fieldvoice_fz.talk	kristoff_0020	9e38f61d	لا يمكن أن يكون بعيدا جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08679	kh3_fieldvoice_fz.talk	kristoff_0030	5292f683	سأساعدك في البحث!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

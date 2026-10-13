@@ -80,7 +80,7 @@ id	namespace	key	source_hash	AR	status	note
 10183	kh3_fieldvoice_tt.talk	donald_0040	420a7a48	يمكنك الاعتماد علي وعلى غوفي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10184	kh3_fieldvoice_tt.talk	donald_0050	8ea07ad6	رأيت الطاهي الصغير خارج المطعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10185	kh3_fieldvoice_tt.talk	donald_0060	002f7d35	يا سلام! سأجد <i(on)>كل<i(off)> شعارات الحظ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-10186	kh3_fieldvoice_tt.talk	goofy_0010	09ab32a8	كنا نأمل أن تكون بلدة الشفق آمنة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10186	kh3_fieldvoice_tt.talk	goofy_0010	09ab32a8	ضاع أملنا في أن تكون بلدة الشفق آمنة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10187	kh3_fieldvoice_tt.talk	goofy_0020	8724354b	أبقوا أعينكم مفتوحة!<br>شعارات الحظ قد تكون في أي مكان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10188	kh3_fieldvoice_tt.talk	goofy_0030	4b8e35d5	من الأفضل على الأرجح أن نعود إلى البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10189	kh3_fieldvoice_tt.talk	goofy_0040	414b3ccc	لنعد إلى البلدة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

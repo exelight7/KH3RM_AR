@@ -37,7 +37,7 @@ id	namespace	key	source_hash	AR	status	note
 09955	kh3_fieldvoice_town_tt.chat	lady01_0080	032efabd	حسنا، إنه أشهر<br>مكان في البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09956	kh3_fieldvoice_town_tt.chat	lady02_0010	447f48be	<pb(0.8)>هل صعدت إلى<br>برج الساعة? أجمل مكان في البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09957	kh3_fieldvoice_town_tt.chat	lady02_0020	caf04f5d	لا أريدك أن تذهب<br>إلى الغابة وحدك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09958	kh3_fieldvoice_town_tt.chat	lady02_0050	c0354644	أظن أن التزلج<br>صار موضة قديمة الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09958	kh3_fieldvoice_town_tt.chat	lady02_0050	c0354644	أظن أن التزلج باللوح<br>صار موضة قديمة الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09959	kh3_fieldvoice_town_tt.chat	lady02_0060	4eba41a7	انظروا إلى ذلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09960	kh3_fieldvoice_town_tt.chat	lady02_0070	82104139	صحيح? هذا الفيلم كلاسيكي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09961	kh3_fieldvoice_town_tt.chat	lady02_0080	5b305395	آه! لنر سبب<br>كل هذه الضجة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

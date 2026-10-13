@@ -1,6 +1,6 @@
 id	namespace	key	source_hash	AR	status	note
 09525	kh3_fieldvoice_town_ca.chat	sailor01_0010	0de08061	إذن حان وقت الإبحار<br>بحثا عن بضائع جديدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09526	kh3_fieldvoice_town_ca.chat	sailor01_0020	836f8782	قلت للتو إنني سعيد بالمحاولة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09526	kh3_fieldvoice_town_ca.chat	sailor01_0020	836f8782	قلت للتو إنني سأكون سعيدا بالمحاولة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09527	kh3_fieldvoice_town_ca.chat	sailor01_0070	cb8f89e6	<pb(0.8)>القبطان لن يعجبه <i(on)>هذا<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09528	kh3_fieldvoice_town_ca.chat	sailor01_0080	12af9b4a	أتساءل كيف حالها...<br>أفتقدها حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09529	kh3_fieldvoice_town_ca.chat	sailor01_0110	9645cc0e	أحتاجك أن تذهب<br>إلى الأرصفة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -18,7 +18,7 @@ id	namespace	key	source_hash	AR	status	note
 09541	kh3_fieldvoice_town_ca.chat	sailor04_0110	7e663776	لماذا <i(on)>أنا<i(off)> من يفعل هذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09542	kh3_fieldvoice_town_ca.chat	sailor04_0120	f0e93095	وتسمينني <i(on)>أنا<i(off)> القرصان!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09543	kh3_fieldvoice_town_ca.chat	sailor04_0130	3c43300b	هل هذا دخان من المدخنة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09544	kh3_fieldvoice_town_ca.chat	lady01_0010	1c61e196	على قارب من? أقول إنك <i(on)>أنت<i(off)><br>لست أكثر من ممسح سطح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09544	kh3_fieldvoice_town_ca.chat	lady01_0010	1c61e196	على قارب من? أقول إنك <i(on)>أنت<i(off)><br>لست أكثر من منظف سطح السفينة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09545	kh3_fieldvoice_town_ca.chat	lady01_0020	92eee675	نعم، هذا هو.<br>أحضره إلى متجري?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09546	kh3_fieldvoice_town_ca.chat	lady01_0030	5e44e6eb	إذن أنا كذلك أيضا، وإياك<br>أن ترحل من دوني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09547	kh3_fieldvoice_town_ca.chat	lady01_0040	5481eff2	نعم. عاد في اليوم التالي،<br>يا للمسكين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -38,7 +38,7 @@ id	namespace	key	source_hash	AR	status	note
 09561	kh3_fieldvoice_town_ca.chat	lady01_0180	988bb6d2	ها! تقصدين ميناء رويال-الفقير-إلى-<br>الرجال-المحترمين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09562	kh3_fieldvoice_town_ca.chat	lady01_0280	ef156422	يجب أن تصل السفينة في أي يوم الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09563	kh3_fieldvoice_town_ca.chat	lady01_0290	23bf64bc	آتي إلى هنا كل يوم<br>من أجل طعامي الطازج.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09564	kh3_fieldvoice_town_ca.chat	lady01_0300	a75533f8	<pb(0.85)>كان يجب أن أعرف أفضل من ذلك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09564	kh3_fieldvoice_town_ca.chat	lady01_0300	a75533f8	<pb(0.85)>كان ينبغي أن أتصرف بحكمة أكبر...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09565	kh3_fieldvoice_town_ca.chat	lady01_0370	ad903ae1	ربما أسأل هنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09566	kh3_fieldvoice_town_ca.chat	lady01_0380	74b0284d	أوف، لن تصدقي<br>ما فعله زوجي...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09567	kh3_fieldvoice_town_ca.chat	lady01_0390	b81a28d3	حسنا، أظن أن هذا يفي بالغرض.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -71,13 +71,13 @@ id	namespace	key	source_hash	AR	status	note
 09594	kh3_fieldvoice_town_ca.chat	man01_0010	39d78c35	هل هذا هو البرميل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09595	kh3_fieldvoice_town_ca.chat	man01_0020	b7588bd6	أنا في مزاج لبعض الصيد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09596	kh3_fieldvoice_town_ca.chat	man01_0030	7bf28b48	لا تريد أن تتشاجر<br>مع قرصان. صدقني يا صاح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09597	kh3_fieldvoice_town_ca.chat	man01_0040	71378251	إذن، يجب أن أدع نفسي<br>أسرق?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09597	kh3_fieldvoice_town_ca.chat	man01_0040	71378251	إذن، يجب أن أدع أحدا<br>يسرقني?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09598	kh3_fieldvoice_town_ca.chat	man01_0050	bd9d82cf	شحنة اليوم كانت<br>أكبر من المعتاد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09599	kh3_fieldvoice_town_ca.chat	man01_0060	3312852c	نعم، سيكون من الجميل<br>أن يمتلئ المخزن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09600	kh3_fieldvoice_town_ca.chat	man01_0070	ffb885b2	الأسماك تنتظر. لنبحر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09601	kh3_fieldvoice_town_ca.chat	man01_0080	2698971e	سنصطاد أكثر مما<br>نستطيع حمله!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09602	kh3_fieldvoice_town_ca.chat	man01_0090	ea329780	لقد تحققت ثلاث مرات بالفعل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09603	kh3_fieldvoice_town_ca.chat	man01_0100	6ed8c0c4	جيد. ليس أن ذلك ساعدنا<br>على <i(on)>اصطياد<i(off)> أي شيء مؤخرا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09603	kh3_fieldvoice_town_ca.chat	man01_0100	6ed8c0c4	جيد. رغم أن ذلك لم يساعدنا<br>على <i(on)>اصطياد<i(off)> أي شيء مؤخرا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09604	kh3_fieldvoice_town_ca.chat	man01_0110	a272c05a	فوق، تحت،<br>ثم عبر، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09605	kh3_fieldvoice_town_ca.chat	man01_0120	2cfdc7b9	<pb(0.65)>كلاكما مخطئ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09606	kh3_fieldvoice_town_ca.chat	man01_0190	7197dbef	أظن أنني سأحمل هذا بعد ذلك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -101,7 +101,7 @@ id	namespace	key	source_hash	AR	status	note
 09624	kh3_fieldvoice_town_ca.chat	th_man01_0120	3ac123d8	بكل همة الآن!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09625	kh3_fieldvoice_town_ca.chat	th_man01_0130	f66b2346	<pb(1.4)>هذا صعب...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09626	kh3_fieldvoice_town_ca.chat	th_man01_0140	fcae2a5f	ليس هذا ما طلبته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09627	kh3_fieldvoice_town_ca.chat	th_man01_0150	30042ac1	ما رأيك في <i(on)>هذا<i(off)> الصيد، هاه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09627	kh3_fieldvoice_town_ca.chat	th_man01_0150	30042ac1	ما رأيك في <i(on)>هذا<i(off)>، هاه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09628	kh3_fieldvoice_town_ca.chat	th_man01_0160	be8b2d22	أفضل الأسعار في الميناء، مضمونة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09629	kh3_fieldvoice_town_ca.chat	th_man01_0180	ab013f10	<pb(0.75)>من الأفضل ألا تقترب كثيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09630	kh3_fieldvoice_town_ca.chat	th_man01_0190	67ab3f8e	أين ذهبت السرطانات?<br>من هناك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -111,7 +111,7 @@ id	namespace	key	source_hash	AR	status	note
 09634	kh3_fieldvoice_town_ca.chat	soldier01_0040	d7c49873	نعم، هذا ما قلته<br>قبل حادثة السرطانات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09635	kh3_fieldvoice_town_ca.chat	soldier01_0050	1b6e98ed	هل سمعت? هل سمعت?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09636	kh3_fieldvoice_town_ca.chat	soldier01_0060	95e19f0e	ماذا، سفن الأشباح? نعم.<pb(2.45)>لن تراني <i(on)>أنا<i(off)> أبحر في<br>المياه الجنوبية قريبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09637	kh3_fieldvoice_town_ca.talk	sailor01_0010	0de08061	يتحدثون عن جزيرة في الشمال خضراء<br>كالزمرد. ماذا أعطي لأراها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09637	kh3_fieldvoice_town_ca.talk	sailor01_0010	0de08061	يتحدثون عن جزيرة في الشمال خضراء<br>كالزمرد. لبذلت الغالي لأراها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09638	kh3_fieldvoice_town_ca.talk	sailor03_0010	d4db4c6e	لا يبحر في المياه الجنوبية إلا أحمق<br>وذلك الأسطول الشبحي يجوبها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09639	kh3_fieldvoice_town_ca.talk	man01_0010	39d78c35	رأيت للتو مجموعة من السرطانات تتجه إلى الحصن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09640	kh3_fieldvoice_town_ca.talk	th_man01_0010	2feb6854	أنا متوتر قليلا من سرعة تلك السرطانات<br>وهي تصعد المنحدر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

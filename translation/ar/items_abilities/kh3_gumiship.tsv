@@ -830,7 +830,7 @@ id	namespace	key	source_hash	AR	status	note
 12207	kh3_gumiship.item	detail_9010	9d04900c	يستعيد HP لسفينتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12208	kh3_gumiship.item	detail_9020	138b97ef	يفعل حاجزا قصير الأمد يبطل ضرر الأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12209	kh3_gumiship.item	detail_9030	df219771	يرسل صاروخا ضخما متفجرا نحو الأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-12210	kh3_gumiship.item	detail_9040	d5e49e68	يضيف مؤقتا حاويات أمامية ذاتية الإطلاق على جانبي السفينة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+12210	kh3_gumiship.item	detail_9040	d5e49e68	يضيف مؤقتا حاويات موجهة إلى الأمام وذاتية الإطلاق على جانبي السفينة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12211	kh3_gumiship.item	detail_9050	194e9ef6	يطلق سلسلة من المتفجرات الموجهة نحو الأعداء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12212	kh3_gumiship.item	detail_9060	97c19915	يمطر بالليزر جميع الأعداء الذين استهدفتهم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12213	kh3_gumiship.item	detail_9070	5b6b998b	يطلق حلقة من الليزر باستمرار لفترة قصيرة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

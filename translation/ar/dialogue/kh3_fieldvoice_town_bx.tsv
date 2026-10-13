@@ -47,9 +47,9 @@ id	namespace	key	source_hash	AR	status	note
 09405	kh3_fieldvoice_town_bx.chat	man12_0010	607cd800	هل انتهت فعلا تلك الحادثة التي في الأخبار?<br>هل نحن بأمان?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09406	kh3_fieldvoice_town_bx.chat	man12_0020	eef3dfe3	معي سيارتي، ومعي ثلاجتي،<br>ومعي ثوب السباحة الجديد الرائع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09407	kh3_fieldvoice_town_bx.chat	man12_0030	2259df7d	أنا جاد! قفز من فوق الجسر<br>وكأن الأمر لا شيء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09408	kh3_fieldvoice_town_bx.chat	man12_0040	289cd664	إذن من كان وراء ذعر<br>الوحوش? هل كانت مؤامرة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09408	kh3_fieldvoice_town_bx.chat	man12_0040	289cd664	إذن من كان وراء الذعر<br>من الوحوش? هل كانت مؤامرة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09409	kh3_fieldvoice_town_bx.chat	man12_0050	e436d6fa	بالتأكيد <i(on)>سيصنعون<i(off)> فيلما<br>عن كل هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09410	kh3_fieldvoice_town_bx.chat	man12_0060	6ab9d119	<pb(0.6)>إن أكلنا هنا، فسأقضي<br>اليوم في غيبوبة طعام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09410	kh3_fieldvoice_town_bx.chat	man12_0060	6ab9d119	<pb(0.6)>إن أكلنا هنا، فسأقضي<br>اليوم خاملا من التخمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09411	kh3_fieldvoice_town_bx.chat	man13_0010	e159bd27	سمعت أن سيارتك<br>قذفت إلى البحر? آسف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09412	kh3_fieldvoice_town_bx.chat	man13_0020	6fd6bac4	لا يمكنك لومهم حقا.<br>الوحوش ما زالت تهاجم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09413	kh3_fieldvoice_town_bx.chat	man13_0030	a37cba5a	أتريد أن نعبر الجسر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -113,7 +113,7 @@ id	namespace	key	source_hash	AR	status	note
 09471	kh3_fieldvoice_town_bx.chat	lady06_0020	a3f6d102	قرأت على الإنترنت أن أحدهم<br>كان يتجول عليها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09472	kh3_fieldvoice_town_bx.chat	lady07_0010	ac5cb3c6	إنها تحاول قتلنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09473	kh3_fieldvoice_town_bx.chat	lady07_0040	e4bcbda2	أنتم الأفضل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09474	kh3_fieldvoice_town_bx.chat	lady08_0010	4f49b80f	هذا جيد.<br>لأن الحياة الخشنة <i(on)>خشنة<i(off)> فعلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09474	kh3_fieldvoice_town_bx.chat	lady08_0010	4f49b80f	هذا جيد.<br>لأن العيش بلا وسائل الراحة <i(on)>صعب<i(off)> فعلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09475	kh3_fieldvoice_town_bx.chat	lady08_0020	c1c6bfec	نعم. كيف يجعل صاحب<br>المفتاح شعره هكذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09476	kh3_fieldvoice_town_bx.chat	lady08_0030	0d6cbf72	آه، النسيم لطيف جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09477	kh3_fieldvoice_town_bx.chat	lady08_0040	07a9b66b	لا! لم تكن حيلة من<br>فيلم حركة. إنهم أبطال!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -126,7 +126,7 @@ id	namespace	key	source_hash	AR	status	note
 09484	kh3_fieldvoice_town_bx.chat	lady10_0010	9cf179ac	إذن، فكرة... واسمعني حتى النهاية...<br>قتال الروبوتات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09485	kh3_fieldvoice_town_bx.chat	lady10_0020	127e7e4f	هل رأيت الأبطال<br>في الأخبار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09486	kh3_fieldvoice_town_bx.chat	lady10_0030	ded47ed1	أظن أن هذا جانب مشرق،<br>على الأقل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09487	kh3_fieldvoice_town_bx.chat	lady11_0010	1dd41c8b	لا يجب عليك ذلك.<br>التقنية موجودة لتعمل من أجلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09487	kh3_fieldvoice_town_bx.chat	lady11_0010	1dd41c8b	لست مضطرا لذلك.<br>التقنية موجودة لتعمل من أجلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09488	kh3_fieldvoice_town_bx.chat	lady11_0020	935b1b68	نعم، لكنني مرعوب من رؤية<br>حال بريدي الوارد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09489	kh3_fieldvoice_town_bx.chat	lady11_0030	5ff11bf6	نعم، لا بد أنه كان معلقا<br>بأسلاك أو شيء من هذا القبيل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09490	kh3_fieldvoice_town_bx.chat	lady12_0010	45cab5a3	واو، قوي <i(on)>و<i(off)>حنون?<br>لا يمكن طلب أكثر من ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -154,7 +154,7 @@ id	namespace	key	source_hash	AR	status	note
 09512	kh3_fieldvoice_town_bx.chat	th_lady05_0080	c07e4056	أوه، أنا سأختار الطراز القديم. مؤثرات حقيقية<br>فقط، لا أشياء حاسوبية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09513	kh3_fieldvoice_town_bx.chat	th_lady05_0090	0cd440c8	مهلا، هل صاروا<br>الأبطال التسعة الآن? حسنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09514	kh3_fieldvoice_town_bx.chat	th_lady05_0120	ca1b10f1	<pb(0.65)>هذا لن ينجح...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09515	kh3_fieldvoice_town_bx.chat	th_lady05_0130	06b1106f	لا أقصد الإساءة، لكنني أرجو أن يصبح عملكم<br>بطيئا <i(on)>جدا<i(off)> أيها الأبطال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09515	kh3_fieldvoice_town_bx.chat	th_lady05_0130	06b1106f	لا أقصد الإساءة، لكنني أرجو أن يقل عملكم<br><i(on)>كثيرا<i(off)> أيها الأبطال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09516	kh3_fieldvoice_town_bx.chat	th_lady06_0010	872ff255	أجل. الآن تحتاج فقط<br>إلى أن يأتي الصيف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09517	kh3_fieldvoice_town_bx.chat	th_lady06_0020	09a0f5b6	أوه، نعم! لنجد<br>منصة مراقبة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09518	kh3_fieldvoice_town_bx.chat	th_lady06_0030	c50af528	كان مشابها بالتأكيد،<br>لكنني لست متأكدا أنه نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
