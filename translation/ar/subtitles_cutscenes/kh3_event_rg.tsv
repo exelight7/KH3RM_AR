@@ -18,7 +18,7 @@ id	namespace	key	source_hash	AR	status	note
 05735	kh3_event_rg.rg232a	rg2320090mm0b	44de9c4b	كان هدفهم إعداد ثلاثة عشر وعاء<br>لقلب زيهانورت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05736	kh3_event_rg.rg232a	rg2320090mm0c	fc62fb2e		todo	
 05737	kh3_event_rg.rg232a	rg2320100rk0	19199506	إلى أن قضينا على المنظمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-05738	kh3_event_rg.rg232a	rg2320110rk0_1	92b0aa66	لكن طوال ذلك الوقت كان زيهانورت الشاب يزور<br>المستقبل ليختار ثلاثة عشر وعاء خاصة به—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05738	kh3_event_rg.rg232a	rg2320110rk0_1	92b0aa66	لكن طوال ذلك الوقت كان زيهانورت الشاب يزور<br>المستقبل ليختار ثلاثة عشر وعاء خاصا به—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05739	kh3_event_rg.rg232a	rg2320110rk0_2	80050588	قلوبا تربطها به صلات قوية بما يكفي<br>لتأسيس منظمة جديدة،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05740	kh3_event_rg.rg232a	rg2320110rk0_2b	0e82cbce	منظمة XIII <i(on)>الحقيقية<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05741	kh3_event_rg.rg232a	rg2320120rk0_1	906ead41	والآن يسعون إلى قتالنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -136,7 +136,7 @@ id	namespace	key	source_hash	AR	status	note
 05853	kh3_event_rg.rg612a	rg6120050x90	6f93d050	أوه. مكان جميل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05854	kh3_event_rg.rg612a	rg6120060x60	191a8f36	ديميكس? هل هذا أنت?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05855	kh3_event_rg.rg612a	rg6120070x90	a55da6dc	مرحبا يا زيكسيون! مضى وقت طويل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-05856	kh3_event_rg.rg612a	rg6120070x91	1de1c1b9	كيف تعاملك الإنسانية?<br>عدت إلى اللا أحد، لكن، يعني...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05856	kh3_event_rg.rg612a	rg6120070x91	1de1c1b9	كيف حالك منذ عدت بشرا?<br>عدت إلى اللا أحد، لكن، يعني...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05857	kh3_event_rg.rg612a	rg6120070x92_1	3096b190	لا أستطيع التخلص من شعور<br>بأنهم خدعوني بالكلام المعسول، أتفهم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05858	kh3_event_rg.rg612a	rg6120070x92_2	22231e7e	يجب أن نتحدث حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05859	kh3_event_rg.rg612a	rg6120080x60	00e2c451	مهلا، تمهل. ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -148,9 +148,9 @@ id	namespace	key	source_hash	AR	status	note
 05865	kh3_event_rg.rg612a	rg6120120dz0	a1f27697	آه، أهلا بك يا إينزو الصغير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05866	kh3_event_rg.rg612a	rg6120130x60	b3b53a0e	قالوا لي إنك جننت.<br>وإنك تخليت عنا. كنت مجرد صبي،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05867	kh3_event_rg.rg612a	rg6120130x60b	b2924f2a		todo	
-05868	kh3_event_rg.rg612a	rg6120130x61	0b095d6b	لكن كان يجب أن أعرف أفضل من ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05868	kh3_event_rg.rg612a	rg6120130x61	0b095d6b	لكن كان يجب أن أكون أكثر فطنة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05869	kh3_event_rg.rg612a	rg6120130x62	19bcf285	أنا آسف حقا، من أعماقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-05870	kh3_event_rg.rg612a	rg6120140dz0	25d1eb42	أظن أن المهم هو أنك<br>تدرك الخطأ. سلام عليك يا إينزو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05870	kh3_event_rg.rg612a	rg6120140dz0	25d1eb42	أظن أن المهم هو أنك<br>تدرك الخطأ. اطمئن يا إينزو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05871	kh3_event_rg.rg612a	rg6120140dz1	9d6d8c27	أنا من استهلكه الحقد—<br>وأنا من خذلك في واجباتي كمعلم لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05872	kh3_event_rg.rg612a	rg6120140dz2	8fd823c9	سامحني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05873	kh3_event_rg.rg612a	rg6120150x90	eeb6b577	إذن، آه... هل يمكننا المضي في أمورنا هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

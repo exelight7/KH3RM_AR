@@ -199,7 +199,7 @@ id	namespace	key	source_hash	AR	status	note
 07217	kh3_event_tt.tt207a	tt2070410x60_2	4abf1a45	لا بد أن أنسيم الحكيم أدرج<br>بيانات روكساس كاملة في بنائه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07218	kh3_event_tt.tt207a	tt2070410x60_3	f2037d20	أي أن في مكان ما على جهازك<br>سجلا لتلك البيانات—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07219	kh3_event_tt.tt207a	tt2070420x60_1	5ad4b28c	باختصار... نستطيع فك<br>شفرة أنسيم بسرعة أكبر،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-07220	kh3_event_tt.tt207a	tt2070420x60_2	48611d62	<i(on)>و<i(off)>نستطيع تحليل بلدة الشفق<br>الافتراضية في الوقت نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07220	kh3_event_tt.tt207a	tt2070420x60_2	48611d62	<i(on)>ونستطيع<i(off)> تحليل بلدة الشفق<br>الافتراضية في الوقت نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07221	kh3_event_tt.tt207a	tt2070430sr0_1	935c6e94	حسنا. رائع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07222	kh3_event_tt.tt207a	tt2070430sr0_2	81e9c17a	أنا والحواسيب لا نتفق، لذا... افعل ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07223	kh3_event_tt.tt207a	tt2070440x60_1	5f68bcc2	يسعدني أنك تتابع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -338,7 +338,7 @@ id	namespace	key	source_hash	AR	status	note
 07356	kh3_event_tt.tt211a	tt2110250sr0	969f8307	آه! صحيح. يجب أن أحذركم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07357	kh3_event_tt.tt211a	tt2110260hi0	656daa42	لماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07358	kh3_event_tt.tt211a	tt2110270sr0	5c51f58b	تلك المخلوقات المخيفة قد<br>تعود من جديد، لذا ابقوا متيقظين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-07359	kh3_event_tt.tt211a	tt2110280hi0	7c95e125	حسنا. لكن أليس لدينا أنتم<br>لتتولوا أمرهم عنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07359	kh3_event_tt.tt211a	tt2110280hi0	7c95e125	حسنا. لكن ألستم معنا<br>لتتولوا أمرهم عنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07360	kh3_event_tt.tt211a	tt2110290or0	4cbb1e91	هل عليكم الرحيل <i(on)>مجددا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07361	kh3_event_tt.tt211a	tt2110300sr0	3c30363f		todo	
 07362	kh3_event_tt.tt211a	tt2110310do0	c6692df0	هذا عملنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

@@ -34,7 +34,7 @@ id	namespace	key	source_hash	AR	status	note
 08136	kh3_fieldvoice_ca.chat	donald_0130	d36a3f3e	نقترب!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08137	kh3_fieldvoice_ca.chat	donald_0140	d9af3627	انظر إلى تلك الغيوم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08138	kh3_fieldvoice_ca.chat	donald_0150	150536b9	احذر الصخور الحادة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-08139	kh3_fieldvoice_ca.chat	donald_0160	9b8a315a	يا للهول!<br>ليس المزيد من عبث القرود.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08139	kh3_fieldvoice_ca.chat	donald_0160	9b8a315a	يا للهول!<br>المزيد من عبث القرود!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08140	kh3_fieldvoice_ca.chat	donald_0170	572031c4	واو! حطام سفينة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08141	kh3_fieldvoice_ca.chat	donald_0180	8e002368	طريق مسدود?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08142	kh3_fieldvoice_ca.chat	donald_0190	42aa23f6	نعم، إنها مثل كعكة دونات كبيرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -83,7 +83,7 @@ id	namespace	key	source_hash	AR	status	note
 08185	kh3_fieldvoice_ca.chat	goofy_0130	d02b79ba	من يصل أولا إلى ميناء رويال يفوز!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08186	kh3_fieldvoice_ca.chat	goofy_0140	daee70a3	يجب أن نبتعد عن تلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08187	kh3_fieldvoice_ca.chat	goofy_0150	1644703d	هيا، هيا، هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-08188	kh3_fieldvoice_ca.chat	goofy_0160	98cb77de	إنه على مؤخرة سفينتنا مباشرة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08188	kh3_fieldvoice_ca.chat	goofy_0160	98cb77de	إنه خلف مؤخرة سفينتنا مباشرة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08189	kh3_fieldvoice_ca.chat	goofy_0170	54617740	سورا، اتجه إلى ميناء رويال!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08190	kh3_fieldvoice_ca.chat	goofy_0180	8d4165ec	لا بد أن هذا خليج حطام السفن،<br>المكان الذي أخبرنا عنه جاك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08191	kh3_fieldvoice_ca.chat	goofy_0190	41eb6572	نعم، أرجو ألا يثقبوا<br>السفينة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

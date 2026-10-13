@@ -66,7 +66,7 @@ id	namespace	key	source_hash	AR	status	note
 06438	kh3_event_ss_dlc.ss943a	ss9430050yz0	d5912386	سأنقذك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06439	kh3_event_ss_dlc.ss943a	ss9440010yz0	23e9da4a	لقد كنت―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06440	kh3_event_ss_dlc.ss943a	ss9440020sr0	b5926454	<i(on)>تراودني أفكار غريبة مؤخرا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-06441	kh3_event_ss_dlc.ss943a	ss9440030sr0	d0f55f12	<i(on)>مثل، هل أي من هذا حقيقي أم لا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06441	kh3_event_ss_dlc.ss943a	ss9440030sr0	d0f55f12	<i(on)>أعني، هل أي من هذا حقيقي أم لا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06442	kh3_event_ss_dlc.ss943a	ss9440050yz0	6d043113	<i(on)>لا شيء من هذا... يبدو منطقيا لي.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06443	kh3_event_ss_dlc.ss945a	ss9450010yz0	d233dfe0	أظن... أن قواي ليست مطلوبة بعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06444	kh3_event_ss_dlc.ss945a	ss9450020sr0	444861fe	ماذا تقصد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -75,5 +75,5 @@ id	namespace	key	source_hash	AR	status	note
 06447	kh3_event_ss_dlc.ss945a	ss9460030x00	f21a3399	مثير للإعجاب، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06448	kh3_event_ss_dlc.ss945a	ss9460040sr0	0974f494	لقد كنت―	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06449	kh3_event_ss_dlc.ss945a	ss9460050yz0	55c13c06	<i(on)>تراودني أفكار غريبة مؤخرا.<i(on)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-06450	kh3_event_ss_dlc.ss945a	ss9460060yz0	fa6871cc	<i(on)>مثل، هل أي من هذا حقيقي أم لا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06450	kh3_event_ss_dlc.ss945a	ss9460060yz0	fa6871cc	<i(on)>أعني، هل أي من هذا حقيقي أم لا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06451	kh3_event_ss_dlc.ss945a	ss9460080sr0	da42c97f	<i(on)>لا شيء من هذا... يبدو منطقيا لي.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

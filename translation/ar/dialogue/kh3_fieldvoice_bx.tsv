@@ -42,7 +42,7 @@ id	namespace	key	source_hash	AR	status	note
 07937	kh3_fieldvoice_bx.chat	hiro_0140	336932c8	<i(on)>لا تتسرع. خذها<br>خطوة خطوة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07938	kh3_fieldvoice_bx.chat	hiro_0150	ffc33256	<i(on)>لا تقلق.<br>ستنجح في المرة القادمة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07939	kh3_fieldvoice_bx.chat	hiro_0160	714c35b5	<i(on)>حسنا، أنا لم أبرمج هذا.<i(off)><pb(3.7)><i(on)>لكنك تستطيع التعامل معه.<br>ارتجل فقط.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-07940	kh3_fieldvoice_bx.chat	hiro_0170	bde6352b	<i(on)>هذه البيانات مذهلة!<br>لقد سحقتها يا سورا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07940	kh3_fieldvoice_bx.chat	hiro_0170	bde6352b	<i(on)>هذه البيانات مذهلة!<br>لقد أبدعت يا سورا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07941	kh3_fieldvoice_bx.chat	hiro_0180	64c62787	<i(on)>حصلت على بيانات رائعة.<br>شكرا يا سورا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07942	kh3_fieldvoice_bx.chat	hiro_0190	a86c2719	<i(on)>نعم، هذه البيانات<br>تكفي. عمل جيد يا سورا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07943	kh3_fieldvoice_bx.chat	hiro_0200	c0bdeec2	<i(on)>حسنا، هذا... يجب أن يكفي<br>لنبدأ.<i(off)><pb(3.35)><i(on)>عد يا سورا.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -171,7 +171,7 @@ id	namespace	key	source_hash	AR	status	note
 08066	kh3_fieldvoice_bx.talk	honeylemon_0070	f5bea851	هذه هي. هل تشعر بالاستعداد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08067	kh3_fieldvoice_bx.talk	honeylemon_0080	2c9ebafd	لا تقلق. نحن بارعون جدا في هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08068	kh3_fieldvoice_bx.talk	honeylemon_0090	e034ba63	سنهزم تلك المخلوقات معا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-08069	kh3_fieldvoice_bx.talk	honeylemon_0100	64deed27	يجب أن ينهض أحد ويحمي المدينة،<br>وذلك الأحد هو نحن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08069	kh3_fieldvoice_bx.talk	honeylemon_0100	64deed27	يجب أن ينهض أحد ويحمي المدينة،<br>ونحن من سيفعل ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08070	kh3_fieldvoice_bx.talk	honeylemon_0110	a874edb9	سننهي هذا مرة وإلى الأبد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08071	kh3_fieldvoice_bx.talk	honeylemon_0120	26fbea5a	سورا، لنذهب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08072	kh3_fieldvoice_bx.talk	fred_0010	fb5bd306	مرحبا يا سورا! أتريد أن تجرب جولة فلاش تريسر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -187,7 +187,7 @@ id	namespace	key	source_hash	AR	status	note
 08082	kh3_fieldvoice_bx.talk	wasabi_0010	9a742e96	أشياء بلا قلب تلك تواصل الهجوم.<br>لا أحد بأمان حتى تزول تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08083	kh3_fieldvoice_bx.talk	wasabi_0020	14fb2975	يا رجل! يجب أن ترى الرمز الغامض<br>الذي ظهر في النفق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08084	kh3_fieldvoice_bx.talk	wasabi_0030	d85129eb	مهلا، قال أحدهم إنه رأى نوعا من<br>رموز الحظ في لافتة هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-08085	kh3_fieldvoice_bx.talk	wasabi_0040	d29420f2	تدريب AR... اترك الأمر لهيرو<br>ليحول التمرين إلى تقنية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08085	kh3_fieldvoice_bx.talk	wasabi_0040	d29420f2	تدريب AR... اترك الأمر لهيرو<br>ليضيف التقنية إلى التمرين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08086	kh3_fieldvoice_bx.talk	wasabi_0050	1e3e206c	سأدرس حركاتك عن قرب.<br>من الجيد دائما توسيع مهاراتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08087	kh3_fieldvoice_bx.talk	wasabi_0060	90b1278f	أخبر هيرو حين تكون مستعدا لبدء التدريب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08088	kh3_fieldvoice_bx.talk	wasabi_0070	5c1b2711	حسنا، لنستفد من كل ذلك <i(on)>الشوغيو<i(off)>!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

@@ -35,7 +35,7 @@ id	namespace	key	source_hash	AR	status	note
 06077	kh3_event_ss.ss931a	ep9210080ad0	6fc084f5	ماذا حدث? لماذا نحن هنا? أخبرني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06078	kh3_event_ss.ss931a	ep9210090x20	085f929f	كان لي دور أؤديه.<br>وبعد كل هذه السنين، انتهى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06079	kh3_event_ss.ss931a	ep9210100sn0	02dd58cb	أي دور?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-06080	kh3_event_ss.ss931a	ep9210110x20	14a1210a	يبدو أن آفا لم تنج في النهاية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06080	kh3_event_ss.ss931a	ep9210110x20	14a1210a	يبدو أن آفا لم تأت في النهاية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06081	kh3_event_ss.ss931a	ep9210120le0	ebf5409c	ماذا تعني?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06082	kh3_event_ss.ss931a	ep9210130x20	de6f5786	أخبرتها بكل وضوح بما علي فعله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06083	kh3_event_ss.ss931a	ep9210140le0	6fd6dd49	أهذا سبب قرارك باستبعادها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -133,7 +133,7 @@ id	namespace	key	source_hash	AR	status	note
 06175	kh3_event_ss.ss993a	memory30040	79193ea5	<i(on)>بعقل كصفحة بيضاء،<br>يبدأ روكساس بعد الأيام،<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06176	kh3_event_ss.ss993a	memory30040b	56f2a1b9	<i(on)>عازما على ألا ينسى أي شيء مرة أخرى.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06177	kh3_event_ss.ss993a	memory30050	b5b33e3b	<i(on)>يخرج هو وصديقه آكسل<br>في مهام للمنظمة.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-06178	kh3_event_ss.ss993a	memory30060	3b3c39d8	اليوم يكتمل 255.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06178	kh3_event_ss.ss993a	memory30060	3b3c39d8	اليوم هو اليوم 255.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06179	kh3_event_ss.ss993a	memory30060b	bac93f26	مر هذا العدد من الأيام منذ<br>انضممت إلى المنظمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06180	kh3_event_ss.ss993a	memory30070	f7963946	إذن، حفظت الرقم، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06181	kh3_event_ss.ss993a	memory30080	2eb62bea	<i(on)>وسرعان ما ينضم إليهما العضو<br>الرابع عشر في المجموعة، فتاة اسمها شيون.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -211,7 +211,7 @@ id	namespace	key	source_hash	AR	status	note
 06253	kh3_event_ss.ss994a	memory40140	03f8d459	لا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06254	kh3_event_ss.ss994a	memory40150	cf52d4c7	إنه الطريق إلى الفجر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06255	kh3_event_ss.ss994a	memory40160	41ddd324	<i(on)>ومع الوقت، يلتقي ريكو بشيون،<br>التي تهاجمه بكيبلايد زائف.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-06256	kh3_event_ss.ss994a	memory40170	8d77d3ba	أخبرني أولا... لماذا<br>ترتدين ملابسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06256	kh3_event_ss.ss994a	memory40170	8d77d3ba	أخبرني أولا... لماذا<br>ترتدي ملابسنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06257	kh3_event_ss.ss994a	memory40180	5457c116	لأتأكد أن أعز أصدقائي...<br>ينام بسلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06258	kh3_event_ss.ss994a	memory40190	98fdc188	لا أعرف من يفترض أن تكوني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06259	kh3_event_ss.ss994a	memory40200	f02c0853	لكن... لا يمكنك مقاتلة النار بالشرر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -232,7 +232,7 @@ id	namespace	key	source_hash	AR	status	note
 06274	kh3_event_ss.ss994a	memory40320	29ac4341	<i(on)>وتختار شيون الأمر نفسه.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06275	kh3_event_ss.ss994a	memory40330	e50643df	مكاني مع سورا.<br>والآن، سأعود... لأكون معه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06276	kh3_event_ss.ss994a	memory40330b	3abacbb3		todo	
-06277	kh3_event_ss.ss994a	memory40340	efc34ac6	<i(on)>يتصادم ريكو وروكساس،<br>وكلاهما يائس لإنقاذ صديق.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06277	kh3_event_ss.ss994a	memory40340	efc34ac6	<i(on)>يتصادم ريكو وروكساس،<br>وكلاهما مستميت لإنقاذ صديق.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06278	kh3_event_ss.ss994a	memory40340b	4e22223c		todo	
 06279	kh3_event_ss.ss994a	memory40350	23694a58	لماذا تحاول إيقافي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06280	kh3_event_ss.ss994a	memory40360	ade64dbb	لأنني أريد استعادة بقية ذكريات سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

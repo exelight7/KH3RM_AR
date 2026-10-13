@@ -103,7 +103,7 @@ id	namespace	key	source_hash	AR	status	note
 04784	kh3_event_mi.mi353a	mi3530590sr0_1	3796805c	مهلا، إنهم يحتاجوننا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04785	kh3_event_mi.mi353a	mi3530590sr0_2	25232fb2	ثم إننا نريد أن نعرف<br>كيف وصل كل هؤلاء الأنفيرسد إلى هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04786	kh3_event_mi.mi354a	mi3540010mk0	31cbb884	<i(on)>يجب أن نعيدها إلى بيتها الآن،<br>وإلا أقسم... أقسم! أقسم!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04787	kh3_event_mi.mi354a	mi3540020su0_1	bf737b31	شركة المرعبين المحدودة كانت تعتمد<br>على طاقة صراخ أطفال البشر،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04787	kh3_event_mi.mi354a	mi3540020su0_1	bf737b31	شركة المرعبين كانت تعتمد<br>على طاقة صراخ أطفال البشر،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04788	kh3_event_mi.mi354a	mi3540020su0_2	adc6d4df	لكننا الآن نجمع ضحكاتهم بدلا من ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04789	kh3_event_mi.mi354a	mi3540020su1	aac68fd0	وتبين أن الضحك أقوى بعشر مرات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04790	kh3_event_mi.mi354a	mi3540060su0	5c9703ec	وما كنا لنكتشف ذلك أبدا لولا بو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -134,7 +134,7 @@ id	namespace	key	source_hash	AR	status	note
 04815	kh3_event_mi.mi357a	mi3570130sr0	35e2b772		todo	
 04816	kh3_event_mi.mi358a	mi3580020su0	80e4c6cb	الباب مفتوح!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04817	kh3_event_mi.mi358a	mi3580080su0	d7f166f5	باب بو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04818	kh3_event_mi.mi358a	mi3580100mk0	4717c89b	مستعدون? حان وقت ركوب آخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04818	kh3_event_mi.mi358a	mi3580100mk0	4717c89b	مستعدون? حان وقت رحلة أخرى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04819	kh3_event_mi.mi358a	mi3580120sr0	0b04aaf5	رائع.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04820	kh3_event_mi.mi359a	mi3590020su0	713ec361	ها هو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04821	kh3_event_mi.mi360a	mi3600060mk0	c5e57fc3	مهلا! كيف انعطفنا في الاتجاه الخطأ?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -257,7 +257,7 @@ id	namespace	key	source_hash	AR	status	note
 04938	kh3_event_mi.mi365a	mi3650480rd0	92e7d55a	والآن... آمرك بتدميرهم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04939	kh3_event_mi.mi365a	mi3650490rd0	f780ee1c	هيا. تحرك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04940	kh3_event_mi.mi365a	mi3650490rd1	4f3c8979	تحرك... تحرك أيها الغبي—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04941	kh3_event_mi.mi365a	mi3650500mk0	29b506ee	يبدو أن ورقتك الرابحة خاسرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04941	kh3_event_mi.mi365a	mi3650500mk0	29b506ee	يبدو أن ورقتك الرابحة ورقة جوكر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04942	kh3_event_mi.mi365a	mi3650510rd1	53c23aec	يا لها من كومة خردة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04943	kh3_event_mi.mi365a	mi3650520sr0	65a66480	ما— مهلا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04944	kh3_event_mi.mi365a	mi3650530su0	0a0456df	اتركه. لا أظنه يستطيع<br>أن يسبب لنا المزيد من المتاعب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -385,7 +385,7 @@ id	namespace	key	source_hash	AR	status	note
 05066	kh3_event_mi.mi373a	mi3730350do0	77de7360	لن تفعل ذلك بسورا! مستحيل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05067	kh3_event_mi.mi373a	mi3730360va0	2dde5ffb	لا تتدخل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05068	kh3_event_mi.mi373a	mi3730390do0	a4e84e8b	سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-05069	kh3_event_mi.mi373a	mi3730410va0	fd82ce1f	اتحد قلبك... بقلبي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05069	kh3_event_mi.mi373a	mi3730410va0	fd82ce1f	اجعل قلبك يتحد... بقلبي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05070	kh3_event_mi.mi373a	mi3730430su0	571ef052	خدعتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05071	kh3_event_mi.mi373a	mi3730451va0	1d07b4d7	أفلتني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05072	kh3_event_mi.mi373a	mi3730480mk1	51c811b4	هنا يا سولي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

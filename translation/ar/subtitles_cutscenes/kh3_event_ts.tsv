@@ -215,7 +215,7 @@ id	namespace	key	source_hash	AR	status	note
 06665	kh3_event_ts.ts255a	ts2550310wo0	22edf96f	هيا. يجب أن نجدهم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06666	kh3_event_ts.ts255a	ts2550320sr0	69fcab20	أرجوكم، دعونا نساعد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06667	kh3_event_ts.ts255a	ts2550340go0	057fc48c	نعم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-06668	kh3_event_ts.ts255a	ts2550350wo0_1	4e92ec96	ما رأيك يا باز? أتظن حقا أننا نستطيع إنقاذ أصدقائنا<br>وحدنا? لم نبلغ شيئا من قبل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06668	kh3_event_ts.ts255a	ts2550350wo0_1	4e92ec96	ما رأيك يا باز? أتظن حقا أننا نستطيع إنقاذ أصدقائنا<br>وحدنا? لم نحرز تقدما كبيرا من قبل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06669	kh3_event_ts.ts255a	ts2550350wo0_1b	5aabf327		todo	
 06670	kh3_event_ts.ts255a	ts2550350wo0_2	5c274378	يجب أن نقبل كل مساعدة ممكنة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06671	kh3_event_ts.ts255a	ts2550370go0	aad68946	لا تقلق. سورا قد يكون متهورا،<br>ودونالد يتذمر كثيرا. لكن يمكنك الوثوق بهما!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -243,7 +243,7 @@ id	namespace	key	source_hash	AR	status	note
 06693	kh3_event_ts.ts256a	ts2560110bz0	9229987c	هناك شيء غير طبيعي...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06694	kh3_event_ts.ts256a	ts2560200sr0	eb08b034	لعبة أخرى يتحكم بها أحد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06695	kh3_event_ts.ts256a	ts2560230sr0	44a1fdfe	باز، هل أنت متأكد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-06696	kh3_event_ts.ts256a	ts2560240bz0	e1bde14b	لو أراد اللعب بلطف،<br>لابتعد عن أصدقائي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06696	kh3_event_ts.ts256a	ts2560240bz0	e1bde14b	لو أرادت اللعب بلطف،<br>لابتعدت عن أصدقائي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06697	kh3_event_ts.ts257a	ts2570130re0	00be2521	ما هذا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06698	kh3_event_ts.ts257a	ts2570140re0	e1fa83b2	يا للهول! ماذا فعلت?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06699	kh3_event_ts.ts257a	ts2570170wo0	4730a5a0	حركات رائعة يا ريكس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -275,9 +275,9 @@ id	namespace	key	source_hash	AR	status	note
 06725	kh3_event_ts.ts257a	ts2570540bz1	99c3b4f3	إنها مهمة مهمة. هل تستطيع القيام بها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06726	kh3_event_ts.ts257a	ts2570550re0	ed9b26ab	نعم يا سيدي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06727	kh3_event_ts.ts258a	ts2580020wo0	b61e3659	هذا قسم الرضع والأطفال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-06728	kh3_event_ts.ts258a	ts2580020wo0b	d0cb10f8	من أين تظنون أن نبدأ?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06728	kh3_event_ts.ts258a	ts2580020wo0b	d0cb10f8	من أين تظنون أن علينا البدء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06729	kh3_event_ts.ts258a	ts2580030go0	df61e0e3	أيها الرقيب، ألم تذكر موسيقى?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-06730	kh3_event_ts.ts258a	ts2580040sg0	e2de8b46	تأكيد يا غوفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06730	kh3_event_ts.ts258a	ts2580040sg0	e2de8b46	نعم يا غوفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06731	kh3_event_ts.ts258a	ts2580050sr0	b3e28f4f	همم... حسنا.<br>لم لا نبحث عن الأشياء التي تصدر أصواتا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06732	kh3_event_ts.ts258a	ts2580070do0	e612d94a	تفكير جيد بالنسبة لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06733	kh3_event_ts.ts258a	ts2580090sr0	60d4b2a4	م... ماذا تقصد بالنسبة لي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -307,7 +307,7 @@ id	namespace	key	source_hash	AR	status	note
 06757	kh3_event_ts.ts260a	ts2600060sr0_2	37db4240	ها هو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06758	kh3_event_ts.ts260a	ts2600080sg0	b61cf907	أيها العريف!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06759	kh3_event_ts.ts260a	ts2600090sg0	d37bc241	هل أنت بخير يا بني?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-06760	kh3_event_ts.ts260a	ts2600100so0	79075127	حاضر يا سيدي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06760	kh3_event_ts.ts260a	ts2600100so0	79075127	نعم يا سيدي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06761	kh3_event_ts.ts260a	ts2600110bz0	bf86f4bd	هذا هو الجندي الذي فقد الرقيب الاتصال به.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06762	kh3_event_ts.ts260a	ts2600120sr0	54770351	إذن وجدت هام?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06763	kh3_event_ts.ts260a	ts2600130so0	d6ae1ced	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -337,7 +337,7 @@ id	namespace	key	source_hash	AR	status	note
 06787	kh3_event_ts.ts261a	ts2610250hm0	c4e66335	لقد عادت! هذه هي الدمية التي حبستني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06788	kh3_event_ts.ts261a	ts2610270wo0	32816049	هام، احتم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06789	kh3_event_ts.ts261a	ts2610280hm0	72b76598	علم. إقامة واحدة في<br>فندق الرعب تكفيني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-06790	kh3_event_ts.ts261a	ts2610290bz0	8b998e8d	ليست لعبة ممسوسة أخرى...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06790	kh3_event_ts.ts261a	ts2610290bz0	8b998e8d	لا! لعبة ممسوسة أخرى...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06791	kh3_event_ts.ts261a	ts2610300sr0	b658bc78	يا رفاق، انتبهوا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06792	kh3_event_ts.ts262a	ts2620030bz0_1	5146c924	مهلا... ماذا لو انتهى بنا الأمر مثلها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06793	kh3_event_ts.ts262a	ts2620030bz0_2	43f366ca	ننسى أنفسنا و... نهاجم بعضنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -506,8 +506,8 @@ id	namespace	key	source_hash	AR	status	note
 06956	kh3_event_ts.ts270a	ts2700200wo2	1d66df6e	لأنك لا تعرف <i(on)>شيئا<i(off)> عن القلوب والحب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06957	kh3_event_ts.ts270a	ts2700210sr0	36b03326	هناك قلوب في كل مكان حولنا، تحاول أن تترابط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06958	kh3_event_ts.ts270a	ts2700210sr0b	3860709e	"وحدتك" لم تزد<br>الرابطة بين وودي وباز إلا قوة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-06959	kh3_event_ts.ts270a	ts2700210sr1_1	a82f67e5	<i(on)>هذه<I(off)> هي طبيعة القلب الحقيقية—<br>ألا يفلت أبدا، أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-06960	kh3_event_ts.ts270a	ts2700210sr1_2	ba9ac80b	أينما كانوا، آندي والألعاب الأخرى<br>لم يفلتوا أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06959	kh3_event_ts.ts270a	ts2700210sr1_1	a82f67e5	<i(on)>هذه<I(off)> هي طبيعة القلب الحقيقية—<br>ألا يتخلى أبدا، أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+06960	kh3_event_ts.ts270a	ts2700210sr1_2	ba9ac80b	أينما كانوا، آندي والألعاب الأخرى<br>لم يتخلوا عن روابطهم أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06961	kh3_event_ts.ts270a	ts2700220wo0_1	90d4bb33	نعم! لا يمكنك أن تبعدنا عن آندي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06962	kh3_event_ts.ts270a	ts2700220wo0_2	826114dd	سنعود إلى البيت مهما حدث.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 06963	kh3_event_ts.ts270a	ts2700220wo0_3	3add73b8	ومعنا باز!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

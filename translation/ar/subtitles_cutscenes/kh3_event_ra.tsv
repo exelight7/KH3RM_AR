@@ -192,8 +192,8 @@ id	namespace	key	source_hash	AR	status	note
 05412	kh3_event_ra.ra311a	ra3110010go0	8691fbae	أتعرفون من يستخدم اللا أحد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05413	kh3_event_ra.ra311a	ra3110020do0	5ea66494	المنظمة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05414	kh3_event_ra.ra311a	ra3110030sr0	a4ff7f5b	نعم. أنا متفاجئ أننا لم نرهم بعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-05415	kh3_event_ra.ra311a	ra3110040sr0	45bbd9c8	أعرف أنك هناك! اخرج أيها المنتهي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-05416	kh3_event_ra.ra311a	ra3110050xm0	f4d56507	"المنتهي"? ولماذا تقول ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05415	kh3_event_ra.ra311a	ra3110040sr0	45bbd9c8	أعرف أنكم هناك! اخرجوا يا من انتهى عهدكم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05416	kh3_event_ra.ra311a	ra3110050xm0	f4d56507	"من انتهى عهدهم"? ولماذا تقول ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05417	kh3_event_ra.ra311a	ra3110070sr0_1	d46b887b	لأن التحكم باللا أحد?<br>هذا أسلوب المنظمة القديمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05418	kh3_event_ra.ra311a	ra3110070sr0_2	c6de2795	لماذا? هل أنت في المنظمة "الحقيقية" أيضا?<br>هنيئا لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05419	kh3_event_ra.ra311a	ra3110080xm0_1	8772511c	اسمي مارلوكسيا، ونعم، هذا صحيح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -255,13 +255,13 @@ id	namespace	key	source_hash	AR	status	note
 05475	kh3_event_ra.ra313a	ra3130100fy0	7b67dc19	عفوا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05476	kh3_event_ra.ra313a	ra3130110ra0	be401b42	لا أحد يقدرك، صحيح? صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05477	kh3_event_ra.ra313a	ra3130120fy0	b1a9aa95	أوه، هيا. إنه حصان سيئ!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-05478	kh3_event_ra.ra313a	ra3130130ra0	748e6dce	أوه. إنه ليس إلا حبيبا كبيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05478	kh3_event_ra.ra313a	ra3130130ra0	748e6dce	أوه. إنه في غاية اللطف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05479	kh3_event_ra.ra313a	ra3130140ra1	2d76ac38	أليس كذلك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05480	kh3_event_ra.ra313a	ra3130140ra2	3fc303d6	يا ماكسيموس?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05481	kh3_event_ra.ra313a	ra3130150fy0	50ed0c06	ما... لا بد أنك تمزحين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05482	kh3_event_ra.ra313a	ra3130160ra0_1	0b74e329	اسمع، اليوم هو أهم يوم في حياتي تقريبا،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05483	kh3_event_ra.ra313a	ra3130160ra0_2	19c14cc7	والمشكلة،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-05484	kh3_event_ra.ra313a	ra3130160ra0_2b	94fb0c40	أنني أحتاجك <i(on)>ألا<i(off)> تتسبب في اعتقاله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05484	kh3_event_ra.ra313a	ra3130160ra0_2b	94fb0c40	أنني أحتاج منك <i(on)>ألا<i(off)> تتسبب في اعتقاله.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05485	kh3_event_ra.ra313a	ra3130170ra0_1	0ac11e34	لأربع وعشرين ساعة فقط،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05486	kh3_event_ra.ra313a	ra3130170ra0_2	1874b1da	ثم يمكنكما مطاردة بعضكما<br>كما يحلو لكما. اتفقنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05487	kh3_event_ra.ra313a	ra3130190ra0	239bcdf0	وهو أيضا عيد ميلادي. لعلمك فقط.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -351,7 +351,7 @@ id	namespace	key	source_hash	AR	status	note
 05571	kh3_event_ra.ra318a	ra3180100ra0_2	4cb273fe	أم أنه لا ينبغي لي أن أناديك بذلك أصلا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05572	kh3_event_ra.ra318a	ra3180110gt0_1	0880b9bf	أوه يا رابونزل. هل تسمعين ما تقولين?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05573	kh3_event_ra.ra318a	ra3180110gt0_2	1a351651	لماذا تسألين سؤالا سخيفا كهذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-05574	kh3_event_ra.ra318a	ra3180120ra0	3be26a63	إنها أنت! كان <i(on)>كل شيء<i(off)> أنت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05574	kh3_event_ra.ra318a	ra3180120ra0	3be26a63	أنت من فعل ذلك! كان <i(on)>كل شيء<i(off)> من فعلك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05575	kh3_event_ra.ra318a	ra3180130gt0	fe65f486	كل ما فعلته كان لحمايتك <i(on)>أنت.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05576	kh3_event_ra.ra318a	ra3180150gt0	7a466953	رابونزل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05577	kh3_event_ra.ra318a	ra3180160ra0	750f813a	أمضيت حياتي كلها مختبئة من أناس<br>يريدون استغلالي من أجل قوتي...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -437,7 +437,7 @@ id	namespace	key	source_hash	AR	status	note
 05657	kh3_event_ra.ra324a	ra3240110fy0	c2758e34	رابونزل... كنت حلمي الجديد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05658	kh3_event_ra.ra324a	ra3240120ra0	cd9c3fe3	وأنت كنت حلمي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05659	kh3_event_ra.ra324a	ra3240160ra0_1	8f3158d8	<i(on)>اشفي ما قد جرح<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-05660	kh3_event_ra.ra324a	ra3240160ra0_1b	8a7e97e9	<i(on)>وغيري حكم الأقدار<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+05660	kh3_event_ra.ra324a	ra3240160ra0_1b	8a7e97e9	<i(on)>وغيري تدبير ربات القدر<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05661	kh3_event_ra.ra324a	ra3240160ra0_2	9d84f736	<i(on)>وأنقذي ما قد ضاع<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05662	kh3_event_ra.ra324a	ra3240160ra0_2b	04f1900a	<i(on)>وأرجعي ما كان لي<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 05663	kh3_event_ra.ra324a	ra3240160ra1	3bcdb3df	<i(on)>ما كان لي<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

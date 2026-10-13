@@ -99,7 +99,7 @@ id	namespace	key	source_hash	AR	status	note
 04322	kh3_event_kg_dlc.kg952a	kg9520070x70_5	ae1bff90	كل واحد منها يبحث عن حارس للنور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04323	kh3_event_kg_dlc.kg952a	kg9520080x20_1	5286ae6a	إذن الذين صاروا بشرا، ثم عادوا<br>إلى اللا أحد مرة أخرى هم أنا وأنت،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04324	kh3_event_kg_dlc.kg952a	kg9520080x21_1	c923e205	ولوكسورد ومارلوكسيا ولارزين، أي خمسة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04325	kh3_event_kg_dlc.kg952a	kg9520080x21_2	db964deb	أما الذين من الماضي والمنقولين إلى نسخ فهم<br>أنسيم وزيمناس وفانيتاس ونسخة ريكو،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04325	kh3_event_kg_dlc.kg952a	kg9520080x21_2	db964deb	أما القادمون من الماضي والمنقولون إلى نسخ فهم<br>أنسيم وزيمناس وفانيتاس ونسخة ريكو،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04326	kh3_event_kg_dlc.kg952a	kg9520080x21_2b	ff4d1efe		todo	
 04327	kh3_event_kg_dlc.kg952a	kg9520080x21_3	632a2a8e	والنسخة الأصغر من العجوز. وإذا أضفنا<br>العجوز، يصبح المجموع أحد عشر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04328	kh3_event_kg_dlc.kg952a	kg9520080x21_4	fefd1237	أظن أننا ما زلنا نحتاج اثنين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -130,7 +130,7 @@ id	namespace	key	source_hash	AR	status	note
 04353	kh3_event_kg_dlc.kg952a	kg9520130x70_3	7c7d5192	وجوده مرتبط ارتباطا وثيقا بذكريات سورا،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04354	kh3_event_kg_dlc.kg952a	kg9520130x70_3b	097eb790	ولذلك يفترض أن يكون أكثر من<br>كاف لحاجتنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04355	kh3_event_kg_dlc.kg952a	kg9520140x20	0816f567	رقم i...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04356	kh3_event_kg_dlc.kg952a	kg9520140x21	b0aa9202	عدد خيالي، يا للملاءمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04356	kh3_event_kg_dlc.kg952a	kg9520140x21	b0aa9202	عدد تخيلي، يا للملاءمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04357	kh3_event_kg_dlc.kg952a	kg9520150x70_1	d3c89757	بينما ينشغل زيهانورت الشاب<br>بنقل القلوب،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04358	kh3_event_kg_dlc.kg952a	kg9520150x70_2	c17d38b9	علي أن أؤدي واجبي. سأذهب<br>لأستعيد فيكسن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04359	kh3_event_kg_dlc.kg952a	kg9520160x20_1	ab4f4d66	موثوق كعادتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -201,7 +201,7 @@ id	namespace	key	source_hash	AR	status	note
 04424	kh3_event_kg_dlc.kg852r	kg852r0040nm0	3d3bfa3e	سورا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04425	kh3_event_kg_dlc.kg852r	kg852r0050sr0	6f700eed	ناميني?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04426	kh3_event_kg_dlc.kg852r	kg852r0060nm0_1	c59df47c	ماذا تفعلين هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04427	kh3_event_kg_dlc.kg852r	kg852r0060nm0_2	d7285b92	هل ضعت عن نفسك كما حدث لي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04427	kh3_event_kg_dlc.kg852r	kg852r0060nm0_2	d7285b92	هل فقدت ذاتك كما حدث لي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04428	kh3_event_kg_dlc.kg852r	kg852r0070sr0_1	fa72fd4d	حسنا، إنها قصة طويلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04429	kh3_event_kg_dlc.kg852r	kg852r0070sr0_2	e8c752a3	لكن أخبريني، لماذا لم تعودي<br>إلى قلب كايري بعد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04430	kh3_event_kg_dlc.kg852r	kg852r0190mm0	7dd14b44	إنه <i(on)>فعلا<i(off)> عضوهم الثالث عشر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -293,7 +293,7 @@ id	namespace	key	source_hash	AR	status	note
 04516	kh3_event_kg_dlc.kg957a	kg9570160tx0_1	dd71edc3	إن كان الظلام ما تبحث عنه يا فينتوس،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04517	kh3_event_kg_dlc.kg957a	kg9570160tx0_2	cfc4422d	فعندي منه أكثر من كاف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04518	kh3_event_kg_dlc.kg957a	kg9570180aq0	6dd3c56f	توقف! كف عن استخدام صديقنا في ألعابك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04519	kh3_event_kg_dlc.kg957a	kg9570190tx0	83407fee	معلم الكيبلايد يستخدم مفتاحه<br>بدافع الغضب? يا للعار.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04519	kh3_event_kg_dlc.kg957a	kg9570190tx0	83407fee	معلمة الكيبلايد تستخدم مفتاحها<br>بدافع الغضب? يا للعار.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04520	kh3_event_kg_dlc.kg957a	kg9570190tx0b	5dae646d		todo	
 04521	kh3_event_kg_dlc.kg957a	kg9570200aq0_1	07e59ed6	بيننا حساب لم يغلق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04522	kh3_event_kg_dlc.kg957a	kg9570200aq0_2	15503138	سقطت في الظلام، وطوال عشر سنوات<br>تجولت في عالم الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -332,7 +332,7 @@ id	namespace	key	source_hash	AR	status	note
 04555	kh3_event_kg_dlc.kg958a	kg9580120x70b	1e7898f5		todo	
 04556	kh3_event_kg_dlc.kg958a	kg9580130x80	a343767d	هاه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04557	kh3_event_kg_dlc.kg958a	kg9580140x10_1	7e67a09e	من دون المعركة بين الأنوار السبعة<br>والظلمات الثلاث عشرة،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04558	kh3_event_kg_dlc.kg958a	kg9580140x10_1b	a98d8a38	تحتاج كينغدوم هارتس إلى القلوب السبعة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04558	kh3_event_kg_dlc.kg958a	kg9580140x10_1b	a98d8a38	يحتاج كينغدوم هارتس إلى القلوب السبعة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04559	kh3_event_kg_dlc.kg958a	kg9580140x10_2	6cd20f70	لهذا نسعى إلى تدمير الحراس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04560	kh3_event_kg_dlc.kg958a	kg9580140x11	e5f4aca0	هل أنت أحمق حقا لدرجة...<br>أن تظن أنك تستطيع هزيمتنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04561	kh3_event_kg_dlc.kg958a	kg9580150x80	2760eba8	ما رأيك أنت?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -414,7 +414,7 @@ id	namespace	key	source_hash	AR	status	note
 04637	kh3_event_kg_dlc.kg878r	kg878r0070mm0_1	ce822886	<i(on)>المعلم زيهانورت يخبئ الكثير من<br>الحيل.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04638	kh3_event_kg_dlc.kg878r	kg878r0070mm0_2	dc378768	<i(on)>كايري واحدة من القلوب السبعة،<br>ولهذا بلورها―<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04639	kh3_event_kg_dlc.kg878r	kg878r0070mm0_2b	b5e10cb6		todo	
-04640	kh3_event_kg_dlc.kg878r	kg878r0070mm0_3	648be00d	<i(on)>كي يستخدمها ضمانا<br> حتى تفتح كينغدوم هارتس.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04640	kh3_event_kg_dlc.kg878r	kg878r0070mm0_3	648be00d	<i(on)>كي يستخدمها ضمانا<br> حتى يفتح كينغدوم هارتس.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04641	kh3_event_kg_dlc.kg878r	kg878r0070mm0_3b	794b0c28		todo	
 04642	kh3_event_kg_dlc.kg878r	kg878r0070mm0_4	f95cd8b4	<i(on)>إنها ملجؤه الأخير.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04643	kh3_event_kg_dlc.kg878r	kg878r0080sr0	dde934ca	<i(on)>إذن كيف نعيدها...?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
