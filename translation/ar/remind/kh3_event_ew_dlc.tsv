@@ -2,7 +2,7 @@ id	namespace	key	source_hash	AR	status	note
 02484	kh3_event_ew_dlc.ew953a	ew9530020sr0	d08fe856	هذا هو...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02485	kh3_event_ew_dlc.ew953a	ew9530040sr0	54ac7583	تشيريثي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02486	kh3_event_ew_dlc.ew953a	ew9530050cs0	f179a3a7	عدت بهذه السرعة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-02487	kh3_event_ew_dlc.ew953a	ew9530070cs0	3bb7d52b	ما الأمر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02487	kh3_event_ew_dlc.ew953a	ew9530070cs0	3bb7d52b	ما الخطب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02488	kh3_event_ew_dlc.ew953a	ew9530080sr0	879a4868	حسنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02489	kh3_event_ew_dlc.ew953a	ew9530090cs0	224f9e4c	حتى مع قوة اليقظة،<br>لا يمكنك أن تعيد شخصا هكذا ببساطة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02490	kh3_event_ew_dlc.ew953a	ew9530100sr0	9b64fbfd	لكن قلب كايري لم يضع بعد.<br>ما زالت معنا، أليس كذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -49,7 +49,7 @@ id	namespace	key	source_hash	AR	status	note
 02531	kh3_event_ew_dlc.ew979a	ew9790070sr0	d144ae63	هيا. الجميع ينتظر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02532	kh3_event_ew_dlc.ew979a	ew9790080kr0	a7cf4540		todo	
 02533	kh3_event_ew_dlc.ew979a	ew9790100sr0	b1256dd7		todo	
-02534	kh3_event_ew_dlc.ew979a	ew9790120kr0	71ff8059	ما الأمر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02534	kh3_event_ew_dlc.ew979a	ew9790120kr0	71ff8059	ما الخطب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02535	kh3_event_ew_dlc.ew979a	ew9790130sr0	1e8c201d	حسنا... صديقي يفترض أن يكون هنا، لكن...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02536	kh3_event_ew_dlc.ew979a	ew9790140sr0	ffc8868e	هييي! تشيريثي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02537	kh3_event_ew_dlc.ew979a	ew9790150sr0	9aafbdc8	واو! مهلا، لماذا لم تقل شيئا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

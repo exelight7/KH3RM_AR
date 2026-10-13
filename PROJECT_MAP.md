@@ -21,6 +21,8 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 
 ## 3. Current phase, last round, next step
 
+- **REVIEW5-Q1 (2026-10-13, complete locally, FAQ line 6 published):** review of quarter Q1 (ids 00001-04248, 4,104 rows read in 14 pages, event dialogue / camp / config / character names); 9 fixes applied (00114 addressee number, 00828 meaning, 00874 + 02487 + 02534 repeated-line wording, 00979 addressee number, 02373 meaning, 02882 dropped word, 04043 addressee gender), 3 doubts kept as questions; refresh 0 ERR (validator 98 flagged / 0 errors, unchanged), secret_check PASS. No build, no install, no release: fixes wait for BUILD-9. Report: `state\LAST_REPORT.md`; log `review\REVIEW5_Q1_LOG.md`.
+- **PUBLIC-CLEANUP (2026-10-13, PUBLISHED):** `make_public.py` no longer copies root `*.bat`; 18 .bat git-rm'd from public main (b5b5d99); `docs/TESTER_GUIDE.md` removal line now points to the installer / manual pak delete. README unchanged; release 0.9.0 still 5 assets, pre-release. Report: `state\LAST_REPORT.md`.
 - **PUBLISH-090 (2026-10-13, PUBLISHED):** README lines 49 / 59 accepted; `tools\publish.bat` pushed public main (24b0334); GitHub pre-release 0.9.0 with 5 assets (sizes + sha256 digests match SHA256SUMS), isPrerelease true: https://github.com/exelight7/KH3RM_AR/releases/tag/0.9.0. Notes say SpecialShip_02 / ps4 HelpItem30402 not yet seen in game and images pack is optional. Report: `state\LAST_REPORT.md`.
 - **RELEASE-090 (2026-10-13, built + installed, published by PUBLISH-090):** **IMAGES-MASS3** images pak (`texture_text.py mass` -> `out\builds\IMAGES-MASS3\`, sha d8d13948..., 41,083,305 B, 212 textures, 0 FAIL, 424 files PASS; the 420 MASS2 files byte-identical): ps4 `HelpItem30402` control panel + `SpecialShip_02` LV / MAX / NEXT / OBJECTIVE (sprite regions of the movie, existing rows 13279 / 15771 / 13280 / 13294) repainted; **211 / 234 = 90.2 % = 100 % of the repaintable textures**, the 23 others KEEP ENGLISH with a written reason in `technical\IMAGES_STILL_ENGLISH.tsv`. Installed via `SWAP_TO_IMAGES_MASS3.bat` (sha = pin; text pak still BUILD-8 45f043de...). Installer 0.9.0 rebuilt with IMAGES-MASS3 (37/37 selftest PASS); `out\release\v0.9.0\` ready (5 assets + Arabic notes). **Publishing stopped:** the generated README changes 2 wording lines (49, 59; from the OPUS-090 D template edit) besides value lines, so no push and no release. Plan: `docs\ROADMAP_TO_1.0.0.md`. Report: `state\LAST_REPORT.md`.
 - **Next step:** the rounds of `docs\ROADMAP_TO_1.0.0.md` (0.9.0 is out; no 1.0.0 tag yet).
@@ -64,6 +66,10 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 
 ## 4. Decisions already made
 
+- 2026-10-13 REVIEW5-Q1 (executor, within the user's round prompt): the 16,415 translated / reviewed / verified rows (807 `todo` skip rows and 42 image strings excluded) are split by ascending id into 4 consecutive quarters (4,104 / 4,104 / 4,104 / 4,103; `review\split\Q1_ids.tsv` ... `Q4_ids.tsv`, `MANIFEST.md`); owners: Q1 = Claude, Q2 = GPT, Q3 and Q4 reserved (nobody touches them). An owner opens corrections only for ids of the own quarter; the 137 Codex corrections, the 5 BUILD9_proposed rows, DECISIONS_NEEDED items, the 64 context items and Tangled are never changed by a review (doubts go to `review\REVIEW5_Q1_QUESTIONS.md`). The plural rendering of the 10 identical "wait" rows stays as it is; repeated EN lines in Q1 were harmonised to the majority wording only where nothing but taste differed (rows 00874, 02487, 02534); gender/number variants were left.
+
+- PUBLIC-CLEANUP: root swap/remove .bat scripts stay private only; docs
+ounds and docs\graph left as history.
 - PUBLISH-090: 0.9.0 is a GitHub PRE-RELEASE (not 1.0.0); README lines 49 / 59 wording accepted by the user; publish.bat pushes to exelight7/KH3RM_AR main.
 - 2026-10-13 RELEASE-090 (executor, within the user's round prompt): the image plan is closed at 211 / 234; KEEP ENGLISH = 5-8 px HUD words (5 tutorial pictures), key / button names and glyph-only pictures (16), the heart-only HudRight03, and the styled HudKairi_01 name emblem (a repaint test left hard cut edges: never ship an unclean texture); minigame sprite textures are repainted only inside the sprite regions read from the movie's bitmap fills, the English-language frame decides which words count (SpecialShip_02: LV, MAX, OBJECTIVE; NEXT = default frame, repainted too); the public README may change only through its placeholders, any other line difference stops publishing.
 
@@ -199,6 +205,8 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | `review\DECISIONS_NEEDED.md` | DECISIONS_NEEDED (LIGHT-2) |
 | `review\FLAGS.md` | Flagged rows |
 | `review\INDEX.md` | Review index |
+| `review\REVIEW5_Q1_LOG.md` | REVIEW5 Q1 log |
+| `review\REVIEW5_Q1_QUESTIONS.md` | REVIEW5 Q1 questions |
 | `review\RULES.md` | Review workflow |
 | `review\SAME_AS_EN.tsv` | TSV, columns: id, category, file, key, EN, AR, status, why |
 | `review\SKIP_AUDIT.tsv` | TSV, columns: id, category, file, key, EN, class, note |
@@ -370,10 +378,10 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 | items_abilities | 2334 | 2160 (92.5%) | 2160 (92.5%) | 2160 (92.5%) | 3 (0.1%) |
 | journal | 628 | 615 (97.9%) | 615 (97.9%) | 615 (97.9%) | 0 (0.0%) |
 | menus_ui | 3849 | 3605 (93.7%) | 3605 (93.7%) | 3605 (93.7%) | 94 (2.4%) |
-| remind | 1163 | 1126 (96.8%) | 1126 (96.8%) | 1126 (96.8%) | 0 (0.0%) |
-| subtitles_cutscenes | 6336 | 6083 (96.0%) | 6083 (96.0%) | 6083 (96.0%) | 1 (0.0%) |
+| remind | 1163 | 1126 (96.8%) | 1122 (96.5%) | 1126 (96.8%) | 0 (0.0%) |
+| subtitles_cutscenes | 6336 | 6083 (96.0%) | 6078 (95.9%) | 6083 (96.0%) | 1 (0.0%) |
 | tutorials | 614 | 613 (99.8%) | 613 (99.8%) | 613 (99.8%) | 0 (0.0%) |
-| TOTAL | 17222 | 16415 (95.3%) | 16415 (95.3%) | 16415 (95.3%) | 98 (0.6%) |
+| TOTAL | 17222 | 16415 (95.3%) | 16406 (95.3%) | 16415 (95.3%) | 98 (0.6%) |
 | images | 42 | 42 (100.0%) | 0 (0.0%) | 17 (40.5%) | 0 (0.0%) |
 | images | textures with English | repaint plan | repainted | images repainted % |
 |---|---|---|---|---|
@@ -381,6 +389,7 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 
 ## 8. Open questions
 
+- REVIEW5-Q1: public FAQ.md line 6 reworded (REMOVE_AR.bat no longer mentioned; closed). Open: the 9 Q1 fixes (`review\corrections\applied\review5_q1_*.tsv`) wait for BUILD-9 together with the 5 BUILD9_proposed rows and the accepted GPT Q2 fixes; 3 Q1 doubts in `review\REVIEW5_Q1_QUESTIONS.md` (00770, 01201, 01626) need the supervisor; Q3 / Q4 are reserved and unreviewed.
 - PUBLISH-090: README lines 49 / 59 accepted and published; 0.9.0 pre-release is live. Open: in-game check of the 2 new textures, Linux runtime, DECIDE-19.
 
 - DECIDE-19: supervisor to confirm or overrule `review\DECISIONS_ANSWERED.md` and say which rows of `review\proposed\BUILD9_proposed.tsv` become corrections (10847 plural form "5 حروف"..."5 أحرف", 14238 title width not yet seen in game). 10 items stay LEAVE (need new wording from the supervisor: 11946, 03280, 03556, 03566, 07579, 04052, 00331, 10348, Tangled 15281; 02369 already resolved).
@@ -459,6 +468,7 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 - 2026-10-13 **README-POLISH** (3 entries) — last: publish: update generator template and both README copies; documentation only.
 - 2026-10-13 **OPUS-090** (4 entries) — last: D/E: PROJECT_MAP 3/4/8, CHANGELOG, README template (0.9.0, BUILD-8), make_public temp run + public_check PASS, vault notes; refresh 0 ERR, secret_check PASS; private commit. RESUME: user installs BUILD-8 (+ IMAGES-MASS2) from cmd and confirms -> build_build8.py --installed -> publish.bat -> gh release create 0.9.0 (commands in state\LAST_REPORT.md).
 - 2026-10-13 **RELEASE-090** (5 entries) — last: 6/7: docs\ROADMAP_TO_1.0.0.md (Arabic), PROJECT_MAP 3/4/8, CHANGELOG; refresh, secret_check, private commit. RESUME: user says yes/no to README lines 49/59 -> (no: revert those 2 template lines) -> tools\refresh.bat -> tools\publish.bat -> gh release create 0.9.0 --prerelease with the 5 assets of out\release\v0.9.0 (command in state\LAST_REPORT.md).
+- 2026-10-13 **REVIEW5-Q1** (3 entries) — last: 3: no build, no install, no release (fixes wait for BUILD-9); PROJECT_MAP 3/4/8, CHANGELOG, refresh, secret_check PASS, private commit REVIEW5-Q1, publish (FAQ + generated docs). RESUME: BUILD-9 takes review5_q1 fixes + 5 BUILD9_proposed rows + accepted GPT Q2 fixes.
 
 ## 10. Public repository
 

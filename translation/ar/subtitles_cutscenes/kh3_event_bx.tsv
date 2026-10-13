@@ -81,7 +81,7 @@ id	namespace	key	source_hash	AR	status	note
 00976	kh3_event_bx.bx552a	bx5520420sr0_2	069dfb5d	نحن الثلاثة سنتولى أمر<br>بلا قلب عنكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00977	kh3_event_bx.bx552a	bx5520430sr0	6b3b60ae	صحيح يا دونالد، يا غوفي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00978	kh3_event_bx.bx552a	bx5520431do0	5a6dd1b6		todo	
-00979	kh3_event_bx.bx552a	bx5520440hr0	f7f58fcf	انتظر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00979	kh3_event_bx.bx552a	bx5520440hr0	f7f58fcf	انتظروا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00980	kh3_event_bx.bx552a	bx5520440hr1	4f49e8aa	سنأتي معكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00981	kh3_event_bx.bx552a	bx5520460do0	df8f9038	لا بأس. سنتولى الأمر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00982	kh3_event_bx.bx552a	bx5520470hr0	585cc205	يجب أن نساعد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

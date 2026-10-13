@@ -112,7 +112,7 @@ id	namespace	key	source_hash	AR	status	note
 00825	kh3_event_bt.bt906a	bt9060400xn0	cadcdddf	يا لك من ثعلب ماكر...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00826	kh3_event_bt.bt906a	bt9060430te0	3d15c1c2	والآن، سلم نصل χ يا زيهانورت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00827	kh3_event_bt.bt906a	bt9060450xn0	e1560dc0	فات الأوان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-00828	kh3_event_bt.bt906a	bt9060460eq0	79d38f9f	علينا نحن ربما... لكن ليس عليهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00828	kh3_event_bt.bt906a	bt9060460eq0	79d38f9f	بالنسبة إلينا ربما... لكن ليس بالنسبة إليهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00829	kh3_event_bt.bt906a	bt9060470xn0	2b987b4c	لا... أستطيع فعل هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00830	kh3_event_bt.bt906a	bt9060490eq0_1	40836a05	كفى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00831	kh3_event_bt.bt906a	bt9060490eq0_2	5236c5eb	كش ملك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
