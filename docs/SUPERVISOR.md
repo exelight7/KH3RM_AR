@@ -15,3 +15,8 @@ TASKS:
 3. Join fix in the font only (do not edit the Title movie): for Arabic glyphs that connect to the next letter (initial/medial forms, lam-alef where relevant), extend the joining stroke on the connecting side by the measured gap amount so joins stay closed with letterSpacing 2 and simply overlap when letterSpacing is 0. Same stroke thickness and baseline as the original join. Apply to the $sougei additions. If another font class is used on this screen by the strings below, add Arabic glyphs there too and report which.
 4. Translate the whole title screen (test values; glossary decides later): NEW GAME = لعبة جديدة, LOAD = تحميل, CONFIG = الخيارات, SPECIAL = خاص, Downloadable Content = المحتوى الإضافي, GAME SETTINGS = إعدادات اللعبة, Confirm = تأكيد, Cancel = إلغاء, "..." = ابدأ اللعبة من البداية. Also translate the help line shown for each other menu item (simple clear Arabic) and list them in the report for my review. Keep every tag/icon atom exactly. Write them into the translation\ TSVs with status "translated"..."*", "_"..."ARABIC-TEST-2: join fix, title screen, project map".
 Then stop.
+
+
+## Latest authorization — 2026-10-13
+
+The user's newer instruction adopts Graphify project-wide and requests complete translation review in four batches, detailed reports on the local device and GitHub after every batch, and a separate interactive-map section at the bottom of README. This explicitly supersedes the historical no-HTML/no-upload limits for the public graph and sanitized review reports only. Game installation and releases remain outside this request. Full EN/AR comparisons remain private.

@@ -9,7 +9,7 @@ id	namespace	key	source_hash	AR	status	note
 00722	kh3_event_bt.bt052a	bt10102ye1	d6645128	بالطبع سمعت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00723	kh3_event_bt.bt052a	bt10103yx0	270e8326	منذ زمن بعيد، خاض حاملو الكيبلايد حربا<br>من أجل امتلاك النور.	verified	TEST50 screenshot (chat, 2026-10-09): joined, RTL, 2 lines ordered, centred, size ok, ، renders in $jimakuNE; cloud review pass 2
 00724	kh3_event_bt.bt052a	bt10104ye0	3d495fa9	نعم، إنها قصة المعلم المفضلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-00725	kh3_event_bt.bt052a	bt10105yx0	749feac2	أتساءل ماذا كانوا ينوون أن يفعلوا<br>بكينغدوم هارتس بعد... إظهارها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00725	kh3_event_bt.bt052a	bt10105yx0	749feac2	أتساءل ماذا كانوا ينوون أن يفعلوا<br>بكينغدوم هارتس بعد... إظهاره.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00726	kh3_event_bt.bt052a	bt10105yx0b	69ebb09f		todo	
 00727	kh3_event_bt.bt052a	bt10106ye0	bae97aca	من يدري?<br>لا أفهم لماذا قد يشعل أحد حربا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00728	kh3_event_bt.bt052a	bt10107yx0	f33fcfa1	إذن... هل تعرف "المعلمين المفقودين"?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

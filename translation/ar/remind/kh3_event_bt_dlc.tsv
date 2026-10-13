@@ -12,7 +12,7 @@ id	namespace	key	source_hash	AR	status	note
 00872	kh3_event_bt_dlc.bt973a	bt9730070xn0_1b	dd0d93b5		todo	
 00873	kh3_event_bt_dlc.bt973a	bt9730070xn0_2	bce8b5fd	لا يهم—هل جئت وحدك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00874	kh3_event_bt_dlc.bt973a	bt9730080sr0	b86729b1	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-00875	kh3_event_bt_dlc.bt973a	bt9730100xn0	fe1f1a4e	هل أنت مستعد لدفع الثمن الأخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+00875	kh3_event_bt_dlc.bt973a	bt9730100xn0	fe1f1a4e	هل أنت مستعد لدفع الثمن الأغلى?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00876	kh3_event_bt_dlc.bt973a	bt9730120sr0_1	2b9260fe	كفى!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00877	kh3_event_bt_dlc.bt973a	bt9730120sr0_2	3927cf10	اثنان فقط... سأنقذ كايري!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 00878	kh3_event_bt_dlc.bt973a	bt9730130xn0	51b65784	للأسف، لقد تأخرت قليلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

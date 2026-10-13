@@ -43,7 +43,7 @@ id	namespace	key	source_hash	AR	status	note
 02355	kh3_event_ew.ew753a	ew7530020sr0	ff8508b9	مرحبا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02356	kh3_event_ew.ew753a	ew7530030st0	5c8d3a78	طاب يومك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02357	kh3_event_ew.ew753a	ew7530040sr0	7ba6956c	رائع! أنت تستطيعين الكلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-02358	kh3_event_ew.ew753a	ew7530050st0	d8aea7ad	تبدين كإنسانة. كيف<br>تحتفظين بمظهرك? هل أنت مميزة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02358	kh3_event_ew.ew753a	ew7530050st0	d8aea7ad	تبدو كإنسان. كيف<br>تحتفظ بمظهرك? هل أنت مميز?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02359	kh3_event_ew.ew753a	ew7530050st0b	6bd1a128		todo	
 02360	kh3_event_ew.ew753a	ew7530060sr0	b168e3e0	امم... التفاصيل غامضة قليلا عندي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02361	kh3_event_ew.ew753a	ew7530070st0	1260d121	كحالنا جميعا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -54,7 +54,7 @@ id	namespace	key	source_hash	AR	status	note
 02366	kh3_event_ew.ew753a	ew7530110st0	176629d3	فقط لأنه يحن إلى شخص آخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02367	kh3_event_ew.ew753a	ew7530120sr0	7ea06d9e	حقا? هل سيأتي أحد من أجلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02368	kh3_event_ew.ew753a	ew7530130st0_1	7c02f198	لا أستطيع أن أكون متأكدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-02369	kh3_event_ew.ew753a	ew7530130st0_2	6eb75e76	لقد تغير حتى لم يعد يعرف—<br>واستبدل قلبه بقلب آخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02369	kh3_event_ew.ew753a	ew7530130st0_2	6eb75e76	لقد تغير حتى تعذر التعرف عليه—<br>واستبدل قلبه بقلب آخر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02370	kh3_event_ew.ew753a	ew7530130st0_3	d60b3913	لكن لو استعاد نفسه القديمة،<br>لأحزنه غيابي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02371	kh3_event_ew.ew753a	ew7530130st0_4	4bdc01aa	لذا اخترت أن أنتظر هنا، حيث يمكنه أن يجدني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02372	kh3_event_ew.ew753a	ew7530140sr0	fa83f04b	جيد. يجب أن تؤمني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

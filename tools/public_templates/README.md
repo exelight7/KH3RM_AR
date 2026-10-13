@@ -83,3 +83,13 @@
 1. ثبّت Python وضع مفتاحك ونسخة اللعبة كما في `technical/RECON_KH3.md`.
 2. `python tools\merge_translation.py --check` ثم `python tools\validate.py`.
 3. `python tools\build_build7.py` يبني ملف pak.
+
+---
+
+## خريطة المشروع التفاعلية
+
+[![خريطة مشروع التعريب — اضغط للاستكشاف](docs/graph/overview.svg)](https://exelight7.github.io/KH3RM_AR/graph/)
+
+**[افتح الخريطة التفاعلية ←](https://exelight7.github.io/KH3RM_AR/graph/)**
+
+تصفح ملفات المشروع والأدوات وعلاقاتها، وابحث عن أي ملف أو مفهوم. [طريقة الاستخدام](docs/GRAPHIFY.md) · [تقارير دفعات المراجعة](docs/rounds/).

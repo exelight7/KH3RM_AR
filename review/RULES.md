@@ -1,5 +1,5 @@
 # Review workflow
-**No HTML outputs in this project; all human-readable reports are Markdown.**
+تقارير المراجعة تبقى Markdown. استثناء معتمد بطلب المستخدم في 2026-10-13: خريطة Graphify التفاعلية وواجهة README يجوز أن تكون HTML/SVG، وتنشر فقط من بيانات المستودع العام.
 **Every round must update `PROJECT_MAP.md` sections 3, 4 and 8 before stopping.**
 **Every round must end with `tools\publish.bat` after `refresh.bat` and `secret_check`; PROJECT_MAP sections 3, 4, 7, 8 must be updated BEFORE publishing; a new Release is created only when a new BUILD is installed AND at least its checklist screenshots were reviewed by the supervisor.**
 

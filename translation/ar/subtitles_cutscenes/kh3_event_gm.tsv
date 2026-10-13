@@ -39,7 +39,7 @@ id	namespace	key	source_hash	AR	status	note
 03075	kh3_event_gm.gm155a	gm1550180ci0	72599bc0	حسنا! أخيرا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 03076	kh3_event_gm.gm155a	gm1550190sr0	3af76007	تشيب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 03077	kh3_event_gm.gm155a	gm1550200de0_1	1c9fbbaa	عليك أن ترد على الهاتف يا سورا،<br>وإلا لن نستطيع إخبارك بالمستجدات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-03078	kh3_event_gm.gm155a	gm1550200de0_2	0e2a1444	لدينا الكثير و<i(on)>الكثير<i(off)> من الأمور المهمة<br>التي نريد أن نخبرك بها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+03078	kh3_event_gm.gm155a	gm1550200de0_2	0e2a1444	لدينا الكثير <i(on)>والكثير<i(off)> من الأمور المهمة<br>التي نريد أن نخبرك بها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 03079	kh3_event_gm.gm155a	gm1550210ci0	d2fbdf1c	لهذا طلبنا من المعلم ين سيد أن يتأكد<br>من حصولك على هاتف الغامي الذي صنعناه لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 03080	kh3_event_gm.gm155a	gm1550210ci0b	b3e4f130	لكي نبقى على تواصل<br>معك في كل الأوقات.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 03081	kh3_event_gm.gm155a	gm1550220de0	5e656e16	<i(on)>كما أنه<i(off)> يلتقط الصور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

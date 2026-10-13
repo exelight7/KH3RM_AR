@@ -78,7 +78,7 @@ def main():
         p = os.path.join(PUB, f)
         shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
     put('README.md', readme())
-    for f in ('PROJECT_MAP.md', 'CHANGELOG.md', 'FAQ.md', '.github/ISSUE_TEMPLATE/bug_report.yml', 'docs/TESTER_GUIDE.md'): doc(f, keys)
+    for f in ('PROJECT_MAP.md', 'CHANGELOG.md', 'FAQ.md', '.github/ISSUE_TEMPLATE/bug_report.yml', 'docs/TESTER_GUIDE.md', 'docs/GRAPHIFY.md', 'AGENTS.md', 'CLAUDE.md'): doc(f, keys)
     put('LICENSE_TODO.md', '# الترخيص — لم يُحسم بعد\n\nلم يختر صاحب المشروع ترخيصا بعد. إلى ذلك الحين: كل الحقوق محفوظة لنصنا العربي؛ '
         'ترجمة غير رسمية من المعجبين، لا علاقة لها بـ Square Enix أو Disney. ملف `LICENSE` في هذا المستودع هو الملف الافتراضي '
         '(GPL v2) الذي أنشأه GitHub مع المستودع، وليس قرارا بشأن نص الترجمة.\n')
@@ -86,6 +86,10 @@ def main():
     for f in sorted(glob.glob(os.path.join(ROOT, 'docs', 'rounds', '*.md'))): doc('docs/rounds/' + os.path.basename(f), keys)
     tech = TECH + sorted(os.path.basename(f) for f in glob.glob(os.path.join(ROOT, 'technical', '*CHECKLIST.md')))
     for f in tech: doc('technical/' + f, keys)
+    # Only the public graph snapshot is exported; the local graph contains private source context.
+    for f in ('index.html', 'explorer.html', 'graph.json', 'overview.svg'):
+        tools_copy('docs/graph/' + f)
+    tools_copy('docs/.nojekyll')
     n = translation(keys)
     img = os.path.join(ROOT, 'out', 'release', 'v' + IMG_VER, 'ui_ar.png')
     if os.path.exists(img):

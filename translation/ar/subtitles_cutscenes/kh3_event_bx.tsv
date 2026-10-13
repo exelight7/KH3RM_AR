@@ -251,7 +251,7 @@ id	namespace	key	source_hash	AR	status	note
 01146	kh3_event_bx.bx558a	bx5580170hr0	6bae003c	<i(on)>أيها الفريق، أبلغوا عن وضعكم.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01147	kh3_event_bx.bx558a	bx5580180hl0	7e005304	<i(on)>كل شيء جيد حتى الآن.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01148	kh3_event_bx.bx558a	bx5580190gg0	3499eb65	<i(on)>يا رفاق، سئمت حقا من مجرد مراوغة هذا الشيء.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-01149	kh3_event_bx.bx558a	bx5580200fr0	3bc5dc99	<i(on)>فريدي بدأ يحبط!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01149	kh3_event_bx.bx558a	bx5580200fr0	3bc5dc99	<i(on)>فريدي بدأ يشعر بالإحباط!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01150	kh3_event_bx.bx558a	bx5580210hr0	b79334c1	<i(on)>يا رفاق، أنا قادم.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01151	kh3_event_bx.bx558a	bx5580220hl0	710b5a12	لا يا هيرو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01152	kh3_event_bx.bx558a	bx5580230fr0	946c9153	هيرو، أنت حلل المكعبات المظلمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -393,7 +393,7 @@ id	namespace	key	source_hash	AR	status	note
 01288	kh3_event_bx.bx561a	bx5610140sr0	cfa34e04	قلت إنك صنعتها، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01289	kh3_event_bx.bx561a	bx5610150hr0	d74e3cb0	نعم. بايماكس هذا هو في الحقيقة<br>النموذج الثاني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01290	kh3_event_bx.bx561a	bx5610160hr0	78e7717a	آه، لا أقصد الإساءة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-01291	kh3_event_bx.bx561a	bx5610170bx0	6677be95	أنا روبوت. لا يمكن الإساءة إلي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01291	kh3_event_bx.bx561a	bx5610170bx0	6677be95	أنا روبوت. لا أشعر بالإهانة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01292	kh3_event_bx.bx561a	bx5610190hr0_1	1d796c8f	إنها قصة طويلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01293	kh3_event_bx.bx561a	bx5610190hr0_2	0fccc361	لكن بايماكس الأول والشريحة التي صنعتها...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01294	kh3_event_bx.bx561a	bx5610190hr0_2b	57e8dd38	اختفيا في بعد آخر<br>مع الروبوتات الدقيقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -524,7 +524,7 @@ id	namespace	key	source_hash	AR	status	note
 01419	kh3_event_bx.bx806a	bx8060090sr0	8c349880	أنت مخطئ. قلبي قوي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01420	kh3_event_bx.bx806a	bx8060100xy0	d955a80b	ما الذي تظنه قوة اليقظة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01421	kh3_event_bx.bx806a	bx8060100xy1	61e9cf6e	إنها لعبور القلوب للوصول إلى العوالم.<br>لا لعبور العوالم للوصول إلى القلوب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-01422	kh3_event_bx.bx806a	bx8060100xy2	735c6080	هناك ثمن باهظ يدفع<br>لمن يستخدم قوة كهذه بحماقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01422	kh3_event_bx.bx806a	bx8060100xy2	735c6080	هناك ثمن باهظ يدفعه<br>من يستخدم قوة كهذه بحماقة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01423	kh3_event_bx.bx806a	bx8060110sr0	90ca2b15	وماذا في ذلك? هل صرت قلقا علي <i(on)>أنا<i(off)> الآن?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01424	kh3_event_bx.bx806a	bx8060120xy0	139bde87	لا. لا خلاص لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01425	kh3_event_bx.bx806a	bx8060130sr0	5a045d99		todo	

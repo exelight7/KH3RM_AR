@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-13 — CODEX-REVIEW4-1
+
+مراجعة 4324 سطرا؛ تطبيق 37 تصحيحا لغويا في المصدر، وإبقاء 14 مسألة سياقية دون تخمين. التفاصيل في docs/rounds/CODEX-REVIEW4-1.md. اجتازت فحوص المشروع مع صفر أخطاء مانعة؛ التصحيحات تحتاج بناء واختبارا لاحقا.
+
 ## README-AR (2026-10-11)
 - Public README, TESTER_GUIDE, FAQ, bug report template and LICENSE_TODO are Arabic only; `make_public.py` and `tools\public_templates\README.md` generate them. Release 0.8.3 notes rewritten in Arabic (pre-release kept, assets untouched).
 

@@ -1,6 +1,6 @@
 id	namespace	key	source_hash	AR	status	note
 01433	kh3_event_ca.ca401a	ca4010010sl0_1	92fad890	<i(on)>يو هو، يو هو، حياة القراصنة لي<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-01434	kh3_event_ca.ca401a	ca4010010sl0_2	804f777e	<i(on)>قفز الكراكن من ملح المحيط<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01434	kh3_event_ca.ca401a	ca4010010sl0_2	804f777e	<i(on)>قفز الكراكن من مياه المحيط المالحة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01435	kh3_event_ca.ca401a	ca4010010sl0_2b	f06c9904	<i(on)>احذروا يا رفاقي، يو هو<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01436	kh3_event_ca.ca401a	ca4010010sl0_3	38f3101b	<i(on)>وفي الخزانة حبس العصفور<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01437	kh3_event_ca.ca401a	ca4010010sl0_3b	3cc6999a	<i(on)>احذروا يا رفاقي، يو هو<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -355,7 +355,7 @@ id	namespace	key	source_hash	AR	status	note
 01786	kh3_event_ca.ca413a	ca4130070cj0_2	9974a15c	لكنني معجب بطريقتك المتصالحة<br>في الاعتراف بالهزيمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01787	kh3_event_ca.ca413a	ca4130080x00_1	6c39571c	نعم... والآن، أظنني مدينا لك بجائزتك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01788	kh3_event_ca.ca413a	ca4130080x00_1b	89d7904f	لكنني أهملت أن أسأل عما تريده.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-01789	kh3_event_ca.ca413a	ca4130080x00_2	7e8cf8f2	ربما... تنيرني?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01789	kh3_event_ca.ca413a	ca4130080x00_2	7e8cf8f2	ربما... توضح لي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01790	kh3_event_ca.ca413a	ca4130090cj0_1	83d2e814	نعم، هذا سهل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01791	kh3_event_ca.ca413a	ca4130090cj0_2	916747fa	أريد الصندوق الذي على متن الهولندي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01792	kh3_event_ca.ca413a	ca4130100go0	f0667613	لا يا جاك، لا تخبره!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -366,7 +366,7 @@ id	namespace	key	source_hash	AR	status	note
 01797	kh3_event_ca.ca413a	ca4130160do0	03db3936	لقد خدعته!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01798	kh3_event_ca.ca413a	ca4130170x00	e3a84367	في الحقيقة، أنا من تفوق عليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01799	kh3_event_ca.ca413a	ca4130180sr0	851d52d8	كنت تعرف أنه سيخبرك أين هو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-01800	kh3_event_ca.ca413a	ca4130190x00	fa500800	لطالما كنت مهتما أكثر بكثير<br>باللعبة الطويلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01800	kh3_event_ca.ca413a	ca4130190x00	fa500800	لطالما كنت مهتما أكثر بكثير<br>بالاستراتيجية البعيدة المدى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01801	kh3_event_ca.ca413a	ca4130200x00	5af24cdc	والآن، لنر إلى أين ستأخذنا.<br>هذا إن استطعتم مجاراتي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01802	kh3_event_ca.ca413a	ca4130320sr0	0b333ee9	الحقوا به!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01803	kh3_event_ca.ca413a	ca4130330cj0	cd12c2cd	لا. لا فائدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -511,7 +511,7 @@ id	namespace	key	source_hash	AR	status	note
 01942	kh3_event_ca.ca419a	ca4190120dj0_2	7103a83c	مكان الأسرى ليس على السطح.<br>مكانك في الزنزانة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01943	kh3_event_ca.ca419a	ca4190140sr0	8dfa5672	نحن هنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01944	kh3_event_ca.ca419a	ca4190200cj0	384fd361	انقلبت الطاولة يا صاح.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-01945	kh3_event_ca.ca419a	ca4190210dj0	29b001a8	بالكاد. مجرد ديدان أخرى تنضم إلى طاقمي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01945	kh3_event_ca.ca419a	ca4190210dj0	29b001a8	كلا. مجرد ديدان أخرى تنضم إلى طاقمي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01946	kh3_event_ca.ca420a	ca4200020cj0	5d9423e2	هل تود الاستسلام?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01947	kh3_event_ca.ca420a	ca4200050dj0	c8486cfe	الصندوق. سلمه!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01948	kh3_event_ca.ca420a	ca4200060sr0	b03f0fd9	جاك!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

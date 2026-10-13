@@ -68,7 +68,11 @@
 
 افتح [بلاغا جديدا](https://github.com/exelight7/KH3RM_AR/issues/new/choose) بالقالب الجاهز: سطر واحد (الكلمات التي رأيتها، المكان، نوع المشكلة) مع لقطة شاشة. التفاصيل في [دليل المختبر](docs/TESTER_GUIDE.md). وللبحث عن السطر المقصود استعمل `python tools\find_text.py <كلمة>`.
 
-## المعرب
+## الحقوق
+
+ترجمة غير رسمية من المعجبين. لا يحتوي هذا المستودع على أي ملف من اللعبة ولا على نصها الأصلي؛ ملفات الترجمة فيه عربية فقط. الخط داخل الـ pak يحتوي رسوم حروف محوّلة من Segoe UI، ويتحمل صاحب المشروع مسؤولية استعمالها. حزمة الصور ليست جزءا من الإصدارات العامة. الترخيص لم يُحسم بعد (انظر `LICENSE_TODO.md`).
+
+## الشكر
 
 المؤلف: [exelight7](https://github.com/exelight7). المشروع الأقدم لتعريب Kingdom Hearts II Final Mix: [KH2FM_AR](https://github.com/exelight7/KH2FM_AR).
 
@@ -79,3 +83,13 @@
 1. ثبّت Python وضع مفتاحك ونسخة اللعبة كما في `technical/RECON_KH3.md`.
 2. `python tools\merge_translation.py --check` ثم `python tools\validate.py`.
 3. `python tools\build_build7.py` يبني ملف pak.
+
+---
+
+## خريطة المشروع التفاعلية
+
+[![خريطة مشروع التعريب — اضغط للاستكشاف](docs/graph/overview.svg)](https://exelight7.github.io/KH3RM_AR/graph/)
+
+**[افتح الخريطة التفاعلية ←](https://exelight7.github.io/KH3RM_AR/graph/)**
+
+تصفح ملفات المشروع والأدوات وعلاقاتها، وابحث عن أي ملف أو مفهوم. [طريقة الاستخدام](docs/GRAPHIFY.md) · [تقارير دفعات المراجعة](docs/rounds/).

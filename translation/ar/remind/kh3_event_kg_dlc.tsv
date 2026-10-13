@@ -37,7 +37,7 @@ id	namespace	key	source_hash	AR	status	note
 04260	kh3_event_kg_dlc.kg951a	kg9510150xy0_2	e53d8860	أدرك فقط أنه من السهل أن<br>نرفض ما لا نفهمه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04261	kh3_event_kg_dlc.kg951a	kg9510160ms0	7a4bd3cb	حسنا، حسنا... العالم يحتاج<br>إليك، سأسلم لك بهذه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04262	kh3_event_kg_dlc.kg951a	kg9510170xy0_1	f4e3ddb4	لا أعرف ما الذي أستطيع فعله، لكنني سأتحرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04263	kh3_event_kg_dlc.kg951a	kg9510170xy0_2	e656725a	ما سيأتي بعد ذلك أهم من أن نتركه للصدفة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04263	kh3_event_kg_dlc.kg951a	kg9510170xy0_2	e656725a	ما سيأتي بعد ذلك بالغ الأهمية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04264	kh3_event_kg_dlc.kg951a	kg9510180ms0_1	c2ba0719	أظن أن ترك النور الزائف يحدد<br>المستقبل قد يكون... خطوة سيئة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04265	kh3_event_kg_dlc.kg951a	kg9510180ms0_1b	f3750baa		todo	
 04266	kh3_event_kg_dlc.kg951a	kg9510180ms0_2	d00fa8f7	إذن? تستطيع أن تحدث فرقا، فأنت تملك القوة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -49,7 +49,7 @@ id	namespace	key	source_hash	AR	status	note
 04272	kh3_event_kg_dlc.kg951a	kg9510200ms0_1	060ae74e	هل ستترك الاختبار يقرر?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04273	kh3_event_kg_dlc.kg951a	kg9510200ms0_2	14bf48a0	اسمع مني، النتائج لا تهم.<br>أنت تؤمن بأن العالم يحتاج إليك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04274	kh3_event_kg_dlc.kg951a	kg9510200ms0_3	ac032fc5	يبدو أنك تعرف مسبقا إلى أين أنت ذاهب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04275	kh3_event_kg_dlc.kg951a	kg9510220xy0_1	3a9edc62	الأمر غريب. بطريقة ما، أشعر إلى أين<br>يفترض أن أذهب، وما يفترض أن أفعل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04275	kh3_event_kg_dlc.kg951a	kg9510220xy0_1	3a9edc62	الأمر غريب. بطريقة ما، أشعر بالوجهة التي<br>يفترض أن أقصدها، وبما يفترض أن أفعل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04276	kh3_event_kg_dlc.kg951a	kg9510220xy0_2	282b738c	نعم، حتى هذا المعطف، فيه شيء مألوف،<br>كأنني مقدر لي أن أرتديه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04277	kh3_event_kg_dlc.kg951a	kg9510230ms0	09dfaafc	همم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04278	kh3_event_kg_dlc.kg951a	kg9510240ms0	e89b0c6f	لا... ستتخلى عنه قريبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -75,7 +75,7 @@ id	namespace	key	source_hash	AR	status	note
 04298	kh3_event_kg_dlc.kg951a	kg9510330xy0	8d8149ff	معلم... مفقود...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04299	kh3_event_kg_dlc.kg951a	kg9510340ms0	69be6948	ليكن قلبك مفتاحك الذي يرشدك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04300	kh3_event_kg_dlc.kg952a	kg9520000txt	6eff27d7	<i(on)>بعد 75 عاما―<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04301	kh3_event_kg_dlc.kg952a	kg9520010x20	a2b9405f	ما المضحك أيها العجوز?<br>هل تشاركنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04301	kh3_event_kg_dlc.kg952a	kg9520010x20	a2b9405f	ما المضحك أيها العجوز?<br>هلا أخبرتنا بالسبب?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04302	kh3_event_kg_dlc.kg952a	kg9520020xn0_1	3339a714	أقف هنا اليوم بسبب لقاء مقدر،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04303	kh3_event_kg_dlc.kg952a	kg9520020xn0_2	218c08fa	قبل سنوات طويلة جدا، حين كنت فتى يافعا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04304	kh3_event_kg_dlc.kg952a	kg9520020xn0_3	99306f9f	لم أعرف قط من كان، وربما لن أعرف أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

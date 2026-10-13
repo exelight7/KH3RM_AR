@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">خريطة مشروع تعريب Kingdom Hearts III</title><desc id="desc">مخطط يربط مستودع التعريب بالترجمة والأدوات والتوثيق والحالة والبنية الفنية. اضغط لفتح الخريطة التفاعلية.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#121a35"/><stop offset="1" stop-color="#090f1e"/></linearGradient><radialGradient id="glow"><stop stop-color="#8067e9" stop-opacity=".25"/><stop offset="1" stop-color="#8067e9" stop-opacity="0"/></radialGradient><linearGradient id="core" x2="1" y2="1"><stop stop-color="#6e57bc"/><stop offset="1" stop-color="#283955"/></linearGradient></defs>
+  <rect width="1200" height="620" rx="28" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="618" rx="27" fill="none" stroke="#334264"/>
+  <ellipse cx="600" cy="320" rx="340" ry="220" fill="url(#glow)"/>
+  <g font-family="Segoe UI,Tahoma,sans-serif" fill="#edf1fc">
+    <text x="1132" y="67" text-anchor="end" font-size="15" fill="#ad9bf2" letter-spacing="2">GRAPHIFY / KH3RM_AR</text>
+    <text x="1132" y="119" text-anchor="end" font-size="36" font-weight="700">خريطة المشروع التفاعلية</text>
+    <text x="1132" y="153" text-anchor="end" font-size="18" fill="#aebbd4">من النص العربي إلى الأدوات والتوثيق — استكشف العلاقات بنفسك</text>
+    <g stroke="#687cae" stroke-width="2" fill="none" opacity=".65"><path d="M510 315C430 315 420 240 330 240"/><path d="M690 315C770 315 780 240 870 240"/><path d="M510 350C430 350 420 400 330 400"/><path d="M690 350C770 350 780 400 870 400"/><path d="M600 380V475"/></g>
+    <g fill="#17233c" stroke="#3d5077"><rect x="105" y="198" width="250" height="88" rx="17"/><rect x="845" y="198" width="250" height="88" rx="17"/><rect x="105" y="358" width="250" height="88" rx="17"/><rect x="845" y="358" width="250" height="88" rx="17"/><rect x="475" y="450" width="250" height="80" rx="17"/></g>
+    <rect x="475" y="278" width="250" height="108" rx="22" fill="url(#core)" stroke="#b19ae8"/>
+    <text x="600" y="321" text-anchor="middle" font-size="25" font-weight="700">KH3RM_AR</text><text x="600" y="355" text-anchor="middle" font-size="17" fill="#e1dff5">مستودع التعريب</text>
+    <g text-anchor="middle" font-size="21" font-weight="600"><text x="230" y="234">أدوات المشروع</text><text x="970" y="234">الترجمة العربية</text><text x="230" y="394">البنية الفنية</text><text x="970" y="394">الدليل والتقارير</text><text x="600" y="483">حالة التقدم</text></g>
+    <g text-anchor="middle" font-family="Consolas,monospace" font-size="14" fill="#9eb0cf"><text x="230" y="263">tools/</text><text x="970" y="263">translation/ar/</text><text x="230" y="423">technical/</text><text x="970" y="423">docs/</text><text x="600" y="510">state/</text></g>
+    <g fill="#b29df5"><circle cx="475" cy="315" r="5"/><circle cx="725" cy="315" r="5"/><circle cx="475" cy="350" r="5"/><circle cx="725" cy="350" r="5"/><circle cx="600" cy="386" r="5"/></g>
+    <rect x="66" y="550" width="1068" height="1" fill="#2d3b57"/><text x="600" y="587" text-anchor="middle" fill="#d1c3fc" font-size="18">← اضغط لفتح الخريطة والبحث في الملفات والعلاقات</text>
+  </g>
+</svg>

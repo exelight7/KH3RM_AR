@@ -533,3 +533,7 @@ RESUME IMAGES-MASS: next = cat 5 shared HUD textures (14), then cat 1b minigame 
 RESUME IMAGES-MASS: next = cat 1b minigame HUDs (16 scaleform_loc, priority 3), then pak + install + docs.
 2026-10-10 IMAGES-MASS close: pak 233ef228 installed (SWAP_TO_IMAGES_MASS.bat), checklist, stats 193/234 = 82.5 %, refresh 0 ERR. RESUME IMAGES-MASS: cat 1b minigame HUDs (16, see technical\IMAGES_STILL_ENGLISH.tsv 'not yet'), then rebuild (texture_text.py mass), update the pinned sha in tools\make_swap_scripts.py, reinstall.
 2026-10-11 README-AR public README, TESTER_GUIDE, FAQ, issue template, LICENSE_TODO and release 0.8.3 notes are Arabic only; make_public.py + README template generate them; PROJECT_MAP/CHANGELOG updated.
+
+2026-10-13 CODEX-REVIEW4-1 review: 4324 rows read and ledgered; 148 audited skips, 14 context questions preserved.
+2026-10-13 CODEX-REVIEW4-1 apply: 36 canonical corrections + 1 image-source corrections; original source columns and untargeted Arabic unchanged.
+2026-10-13 CODEX-REVIEW4-1 checks: mandatory refresh PASS, 0 ERR, secret_check PASS; public checkpoint ready.

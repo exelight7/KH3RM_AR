@@ -104,9 +104,9 @@ id	namespace	key	source_hash	AR	status	note
 02657	kh3_event_fz.fz456b	fz4560040_3	8793ae4b	<i(on)>لا تدعيهم يعرفون<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02658	kh3_event_fz.fz456b	fz4560040_3b	06288098	<i(on)>والآن قد عرفوا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02659	kh3_event_fz.fz456b	fz4560050sr0	fa4728fd	هذا صوت إلسا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-02660	kh3_event_fz.fz456b	fz4560070_1	0452d232	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02660	kh3_event_fz.fz456b	fz4560070_1	0452d232	<i(on)>دعيها تمضي! دعيها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02661	kh3_event_fz.fz456b	fz4560070_1b	eba4ca2f	<i(on)>لم أعد أستطيع كبتها<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-02662	kh3_event_fz.fz456b	fz4560070_2	16e77ddc	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02662	kh3_event_fz.fz456b	fz4560070_2	16e77ddc	<i(on)>دعيها تمضي! دعيها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02663	kh3_event_fz.fz456b	fz4560070_2b	652bcdcc	<i(on)>أدير ظهري وأغلق الباب بقوة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02664	kh3_event_fz.fz456b	fz4560070_3	ae5b1ab9	<i(on)>لا يهمني ما سيقولون<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02665	kh3_event_fz.fz456b	fz4560070_3b	a981cd52	<i(on)>فلتهدر العاصفة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -120,9 +120,9 @@ id	namespace	key	source_hash	AR	status	note
 02673	kh3_event_fz.fz456b	fz4560100_3b	c9e00ee6	<i(on)>أن أختبر الحدود وأتجاوزها<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02674	kh3_event_fz.fz456b	fz4560100_4	ab12e133	<i(on)>لا صواب، لا خطأ، لا قواعد لي<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02675	kh3_event_fz.fz456b	fz4560100_4b	c32507ff	<i(on)>أنا حرة!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-02676	kh3_event_fz.fz456b	fz4560110_1	32a48090	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02676	kh3_event_fz.fz456b	fz4560110_1	32a48090	<i(on)>دعيها تمضي! دعيها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02677	kh3_event_fz.fz456b	fz4560110_1b	eea232dd	<i(on)>أنا والريح والسماء واحد<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-02678	kh3_event_fz.fz456b	fz4560110_2	20112f7e	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02678	kh3_event_fz.fz456b	fz4560110_2	20112f7e	<i(on)>دعيها تمضي! دعيها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02679	kh3_event_fz.fz456b	fz4560110_2b	602d353e	<i(on)>لن تروني أبكي أبدا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02680	kh3_event_fz.fz456b	fz4560110_3	98ad481b	<i(on)>هنا أقف وهنا سأبقى<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02681	kh3_event_fz.fz456b	fz4560110_3b	ac8735a0	<i(on)>فلتهدر العاصفة<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -133,9 +133,9 @@ id	namespace	key	source_hash	AR	status	note
 02686	kh3_event_fz.fz456b	fz4560160_3	6554b06e	<i(on)>وفكرة واحدة تتبلور كنفحة جليدية<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02687	kh3_event_fz.fz456b	fz4560170	3d3a3471	<i(on)>لن أعود أبدا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02688	kh3_event_fz.fz456b	fz4560170b	3d4bf849	<i(on)>الماضي صار ماضيا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-02689	kh3_event_fz.fz456b	fz4560180_1	efdf8e4e	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02689	kh3_event_fz.fz456b	fz4560180_1	efdf8e4e	<i(on)>دعيها تمضي! دعيها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02690	kh3_event_fz.fz456b	fz4560180_1b	161edf29	<i(on)>وسأنهض كبزوغ الفجر<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-02691	kh3_event_fz.fz456b	fz4560180_2	fd6a21a0	<i(on)>دعها تمضي! دعها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02691	kh3_event_fz.fz456b	fz4560180_2	fd6a21a0	<i(on)>دعيها تمضي! دعيها تمضي!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02692	kh3_event_fz.fz456b	fz4560180_2b	9891d8ca	<i(on)>تلك الفتاة المثالية رحلت<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02693	kh3_event_fz.fz456b	fz4560190_1	41b71fdf	<i(on)>هنا أقف في ضوء النهار<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02694	kh3_event_fz.fz456b	fz4560190_1b	7379e46f	<i(on)>فلتهدر العاصفة!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -252,12 +252,12 @@ id	namespace	key	source_hash	AR	status	note
 02805	kh3_event_fz.fz461a	fz4610050_5b	7955db32	<i(on)>والآن لم نعد<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02806	kh3_event_fz.fz461a	fz4610050_6	d3333404	<i(on)>ليتك تخبرينني لماذا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02807	kh3_event_fz.fz461a	fz4610050_7	6b8f5361	<i(on)>هل تريدين أن نبني رجل ثلج?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-02808	kh3_event_fz.fz461a	fz4610050_8	33ec4337	<i(on)>لا يجب أن يكون رجل ثلج<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02808	kh3_event_fz.fz461a	fz4610050_8	33ec4337	<i(on)>ليس ضروريا أن يكون رجل ثلج<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02809	kh3_event_fz.fz461a	fz4610060	d36f773b	اذهبي يا آنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02810	kh3_event_fz.fz461a	fz4610070	1fc577a5	<i(on)>حسنا، وداعا<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02811	kh3_event_fz.fz461a	fz4610080af0_1	bfc0504f	مرت السنوات وبالكاد كنا نرى بعضنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02812	kh3_event_fz.fz461a	fz4610080af0_1b	8f84ff1c	ثم أخيرا حان وقت تتويجها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-02813	kh3_event_fz.fz461a	fz4610080af0_2	ad75ffa1	لنقل إنني كنت متحمسة أكثر من اللازم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02813	kh3_event_fz.fz461a	fz4610080af0_2	ad75ffa1	لنقل إنني كنت متحمسة جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02814	kh3_event_fz.fz461a	fz4610080af0_3	15c998c4	ظننت أن الفرصة ستتاح لنا أخيرا لنتحدث.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02815	kh3_event_fz.fz461a	fz4610080af0_4	881ea07d	لكن في الحفل، فعلت شيئا أغضبها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02816	kh3_event_fz.fz461a	fz4610080af0_4b	c764f178	تجادلنا، وفقدت أعصابي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
