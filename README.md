@@ -8,7 +8,7 @@
 
 القوائم والحوارات والمشاهد واليوميات والشروحات، بواجهة وخط عربي.
 
-**Windows · Linux** &nbsp; / &nbsp; **الإصدار 0.8.3 · تجريبي**
+**Windows · Linux** &nbsp; / &nbsp; **الإصدار 0.9.0 · تجريبي**
 
 [التنزيل](#التنزيل) &nbsp; · &nbsp; [التثبيت](#التثبيت) &nbsp; · &nbsp; [حالة المشروع](#حالة-المشروع) &nbsp; · &nbsp; [خريطة المشروع](#خريطة-المشروع)
 
@@ -20,12 +20,12 @@
 
 | Windows x64 | Linux x64 |
 |:---:|:---:|
-| **[↓ تنزيل المثبّت](https://github.com/exelight7/KH3RM_AR/releases/download/0.8.3/KH3RM_AR_Setup_v0.8.3_windows-x64.exe)** | **[↓ تنزيل الحزمة](https://github.com/exelight7/KH3RM_AR/releases/download/0.8.3/KH3RM_AR_Setup_v0.8.3_linux-x64.tar.gz)** |
+| **[↓ تنزيل المثبّت](https://github.com/exelight7/KH3RM_AR/releases/download/0.9.0/KH3RM_AR_Setup_v0.9.0_windows-x64.exe)** | **[↓ تنزيل الحزمة](https://github.com/exelight7/KH3RM_AR/releases/download/0.9.0/KH3RM_AR_Setup_v0.9.0_linux-x64.tar.gz)** |
 | شغّل المثبّت مباشرة | فك الضغط وشغّل `KH3RM_AR_Setup` |
 
 <div align="center">
 
-[تفاصيل الإصدار والملفات](https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.3) &nbsp; · &nbsp; [دليل المثبّت](tools/installer/README.md)
+[تفاصيل الإصدار والملفات](https://github.com/exelight7/KH3RM_AR/releases/tag/0.9.0) &nbsp; · &nbsp; [دليل المثبّت](tools/installer/README.md)
 
 </div>
 
@@ -40,13 +40,13 @@
 <details>
 <summary><strong>التثبيت اليدوي</strong></summary>
 
-نزّل `pakchunk99-arabic_P.pak` من [صفحة الإصدار](https://github.com/exelight7/KH3RM_AR/releases/tag/0.8.3)، وضعه داخل مجلد اللعبة في:
+نزّل `pakchunk99-arabic_P.pak` من [صفحة الإصدار](https://github.com/exelight7/KH3RM_AR/releases/tag/0.9.0)، وضعه داخل مجلد اللعبة في:
 
 ```text
 KINGDOM HEARTS III/Content/Paks/~mods/
 ```
 
-أنشئ مجلد `~mods` إن لم يكن موجودًا، وأبقِ نسخة واحدة من حزمة التعريب. للإزالة، احذف الحزمة واللعبة مغلقة.
+أنشئ مجلد `~mods` إن لم يكن موجودًا، وأبقِ نسخة واحدة من حزمة التعريب. حزمة الصور `pakchunk98-arabic-images_P.pak` اختيارية وتوضع في المجلد نفسه. للإزالة، احذف الحزمة واللعبة مغلقة.
 
 </details>
 
@@ -56,7 +56,7 @@ KINGDOM HEARTS III/Content/Paks/~mods/
 |:---:|:---:|:---:|
 | **100.0%** من النص القابل للترجمة | **٤ / ٤ دفعات** مكتملة | **98 سطرًا** · 0.6% |
 
-تضم الترجمة **16,415 سطرًا**. حزمة التنزيل الحالية هي BUILD-7؛ تصحيحات المراجعة الأخيرة في المصدر وتنتظر بناءً لاحقًا. نسخة Linux مبنية، وتجربتها على جهاز Linux ما زالت مطلوبة.
+تضم الترجمة **16,415 سطرًا**. حزمة التنزيل الحالية هي BUILD-8 وفيها تصحيحات المراجعة الأخيرة، ومعها حزمة صور اختيارية. نسخة Linux مبنية، وتجربتها على جهاز Linux ما زالت مطلوبة.
 
 **وجدت مشكلة؟** [أرسل بلاغًا](https://github.com/exelight7/KH3RM_AR/issues/new/choose) مع لقطة شاشة ومكان ظهورها.
 

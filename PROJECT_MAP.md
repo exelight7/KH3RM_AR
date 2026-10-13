@@ -21,6 +21,16 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 
 ## 3. Current phase, last round, next step
 
+- **RELEASE-090 (2026-10-13, built + installed, NOT published):** **IMAGES-MASS3** images pak (`texture_text.py mass` -> `out\builds\IMAGES-MASS3\`, sha d8d13948..., 41,083,305 B, 212 textures, 0 FAIL, 424 files PASS; the 420 MASS2 files byte-identical): ps4 `HelpItem30402` control panel + `SpecialShip_02` LV / MAX / NEXT / OBJECTIVE (sprite regions of the movie, existing rows 13279 / 15771 / 13280 / 13294) repainted; **211 / 234 = 90.2 % = 100 % of the repaintable textures**, the 23 others KEEP ENGLISH with a written reason in `technical\IMAGES_STILL_ENGLISH.tsv`. Installed via `SWAP_TO_IMAGES_MASS3.bat` (sha = pin; text pak still BUILD-8 45f043de...). Installer 0.9.0 rebuilt with IMAGES-MASS3 (37/37 selftest PASS); `out\release\v0.9.0\` ready (5 assets + Arabic notes). **Publishing stopped:** the generated README changes 2 wording lines (49, 59; from the OPUS-090 D template edit) besides value lines, so no push and no release. Plan: `docs\ROADMAP_TO_1.0.0.md`. Report: `state\LAST_REPORT.md`.
+- **Next step (RELEASE-090):** user says yes/no to README lines 49 / 59 (no = revert those two template lines to the published wording) -> `tools\refresh.bat` -> `tools\publish.bat` -> `gh release create 0.9.0 --prerelease` with the 5 assets (command in `state\LAST_REPORT.md`) -> then the rounds of `docs\ROADMAP_TO_1.0.0.md`.
+
+- **INSTALL-8 (2026-10-13, installed, NOT published):** `SWAP_TO_BUILD8.bat` + `SWAP_TO_IMAGES_MASS2.bat` run from cmd; `~mods` now holds BUILD-8 (`pakchunk99`, sha 45f043de..., 4,890,167 B) + IMAGES-MASS2 (`pakchunk98`, sha bc546502..., 40,442,423 B), both SHA256 equal to the pins; `state\INSTALLED.tsv` / STATS updated, 2 new rows in `state\SWAP_LOG.tsv`. Checklist rewritten to 5 yes/no lines: `technical\IMAGES_MASS2_CHECKLIST.md`. Next: user plays and reports only problems; then publish / 0.9.0 on the supervisor's word.
+- **DECIDE-19 (2026-10-13, documents only):** executor choices for the 19 items of `review\DECISIONS_NEEDED.md` -> `review\DECISIONS_ANSWERED.md` (A 5, B 4, LEAVE 10) and `review\proposed\BUILD9_proposed.tsv` (5 rows: 10847, 14238, 10694 + companion 15915, 09582; old_AR = current AR for all, validator logic 0 failures). Proposed only: nothing under `review\corrections`, no translation TSV, glossary, build, install or publish change. Report: `state\LAST_REPORT.md`.
+- **Next step (DECIDE-19):** supervisor reads `review\DECISIONS_ANSWERED.md`, overrules lines if wanted, and says which rows of `BUILD9_proposed.tsv` to move to `review\corrections\` for the next build. The OPUS-090 install steps below are unchanged.
+
+- **OPUS-090 (2026-10-13, built, NOT installed, NOT published):** **BUILD-8** text pak (`tools\build_build8.py`, BUILD-7 pipeline unchanged; sha 45f043de..., 4,890,167 B; exactly the 136 CODEX-REVIEW4 text corrections differ from BUILD-7, `out\builds\BUILD-8\diff_vs_build7.tsv`; 73 files PASS, round trip 16,391 exact + 24 same-visual + 0 fail, overflow = the same 15 rows) + `SWAP_TO_BUILD8.bat`. **IMAGES-MASS2** images pak (`texture_text.py mass` -> `out\builds\IMAGES-MASS2\`, sha bc546502..., 40,442,423 B, 210 textures, 1,344 boxes, 420 files PASS): the 16 minigame HUD textures (104 boxes, sprite rects read from the movies' bitmap fills, strings I0019-I0042) + I0013 «الهواء» re-render; the other 192 textures are byte-identical to IMAGES-MASS; `SWAP_TO_IMAGES_MASS2.bat`, checklist `technical\IMAGES_MASS2_CHECKLIST.md`. Images repainted 209 / 234 = 89.3 %. **Installer 0.9.0** (Avalonia): both paks embedded, optional images checkbox (default off), per-pak SHA256 install/remove, 37/37 `--selftest` PASS; Windows + Linux built to `out\release\v0.9.0\` (Linux not run on Linux; no real install/remove run). Installed in `~mods` is still BUILD-7 + IMAGES-MASS. Report: `state\LAST_REPORT.md`.
+- **Next step (OPUS-090):** the user installs BUILD-8 (`SWAP_TO_BUILD8.bat`) and, if wanted, IMAGES-MASS2 (`SWAP_TO_IMAGES_MASS2.bat`) from cmd, checks `technical\IMAGES_MASS2_CHECKLIST.md`, confirms -> `python -I tools\build_build8.py --installed` (updates `state\INSTALLED.tsv`) -> `tools\publish.bat` -> `gh release create 0.9.0 --prerelease` (exact commands in `state\LAST_REPORT.md`).
+
 - **README-POLISH (2026-10-13):** compact visual README, direct downloads, removed thanks/disclaimers, separate Graphify footer; documentation only.
 
 - **INSTALLER-CROSSPLATFORM (2026-10-13):** installer 0.8.3 now uses Avalonia for Windows/Linux, same BUILD-7 payload; credits only in GitHub. Windows UI previewed; Linux cross-published but not run on Linux. Report: docs/rounds/INSTALLER-CROSSPLATFORM.md. Source translation corrections still await a later game build.
@@ -52,6 +62,10 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 - **Releases:** latest public = 0.8.3 (docs/tools, pak = 0.8.2); 0.8.0 (BUILD-5, RELEASE-080), 0.8.1 (BUILD-6, FINAL-1) and 0.8.2 (BUILD-7, SYNC-BUILD7), all pre-release, tags without "v".
 
 ## 4. Decisions already made
+
+- 2026-10-13 RELEASE-090 (executor, within the user's round prompt): the image plan is closed at 211 / 234; KEEP ENGLISH = 5-8 px HUD words (5 tutorial pictures), key / button names and glyph-only pictures (16), the heart-only HudRight03, and the styled HudKairi_01 name emblem (a repaint test left hard cut edges: never ship an unclean texture); minigame sprite textures are repainted only inside the sprite regions read from the movie's bitmap fills, the English-language frame decides which words count (SpecialShip_02: LV, MAX, OBJECTIVE; NEXT = default frame, repainted too); the public README may change only through its placeholders, any other line difference stops publishing.
+
+- 2026-10-13 DECIDE-19 (executor, within the user's round prompt; supervisor can overrule): of the 19 DECISIONS_NEEDED items, B for 10847 (the Name Entry screen has kana/kanji/ABC/symbol pages and no Numerals page, so "numerals"..."Remove"..."remove images pack only" button.
 
 - 2026-10-13: user requested a cleaner README without thanks or corporate disclaimers; separate rights files stay unchanged.
 
@@ -128,6 +142,7 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | 2026-10-10 | Cloud corrections: `review\corrections\cloud\<page>.tsv` (same 4 columns; new_AR == old_AR marks a row as checked) are applied by `apply_corrections.py` and set status reviewed (verified kept) + note `cloud review pass 2`; sync replays the cloud corrections (old_AR must match) instead of copying TSVs, so local changes are never overwritten | executor, CLOUD-PREP |
 | 2026-10-10 | General note: the user tested BUILD-5/6 in game and reported OK, no screenshots (2026-10-10); no row is marked verified because of it | user, CLOUD-PREP |
 | 2026-10-10 | Cloud sync: parallel cloud branches may correct the same id; `apply_corrections` merges identical results and a check mark (new == old) with one real change (the real change wins); two different real changes stay a refusal. Glossary aligned to the corrected rows: Diving Strike = ability-row form, Powerwild / Frost Serpent = bestiary-row forms, Monsters Inc = the short menu form (no "limited"..."needs new wording"); installer 0.9.0 images-pack checkbox is planned in `docs\INSTALLER_0.9.0_PLAN.md`, no code yet | user, LIGHT-2 |
+| 2026-10-13 | INSTALL-8: BUILD-8 and IMAGES-MASS2 installed by the executor via the approved swap scripts (user approval in chat); swap scripts are run with `cmd /c .\SWAP_*.bat <NUL` from the project root, never Git Bash | user, INSTALL-8 |
 | 2026-10-11 | **Public README and public user docs (README, TESTER_GUIDE, FAQ, issue template, LICENSE_TODO, release notes) are Arabic only**; commands, file names and technical terms (Steam, Epic, SHA256, SmartScreen) stay Latin; no English game text; `make_public.py` + `tools\public_templates\README.md` generate it so a sync cannot restore the AR+EN version | user, README-AR |
 
 ## 5. Folders and key files (auto)
@@ -141,7 +156,7 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | `FAQ.md` | الأسئلة الشائعة |
 | `LICENSE_TODO.md` | License — undecided |
 | `PROJECT_MAP.md` | PROJECT_MAP — KH3 Arabic (start here) |
-| `README.md` | تعريب Kingdom Hearts III + Re Mind |
+| `README.md` | <div align="center"> |
 | `REMOVE_ARABIC.bat` | chcp 65001 >nul |
 | `REMOVE_IMAGES.bat` | chcp 65001 >nul |
 | `REMOVE_IMAGES_PILOT.bat` | chcp 65001 >nul |
@@ -152,9 +167,12 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | `SWAP_TO_BUILD5.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD6.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD7.bat` | chcp 65001 >nul |
+| `SWAP_TO_BUILD8.bat` | chcp 65001 >nul |
 | `SWAP_TO_F1.bat` | chcp 65001 >nul |
 | `SWAP_TO_F2.bat` | chcp 65001 >nul |
 | `SWAP_TO_IMAGES_MASS.bat` | chcp 65001 >nul |
+| `SWAP_TO_IMAGES_MASS2.bat` | chcp 65001 >nul |
+| `SWAP_TO_IMAGES_MASS3.bat` | chcp 65001 >nul |
 | `SWAP_TO_IMAGES_PILOT.bat` | chcp 65001 >nul |
 | `SWAP_TO_TEST50.bat` | chcp 65001 >nul |
 | `cloud_repo\` | (no description) |
@@ -163,7 +181,8 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | `docs\GRAPHIFY.md` | خريطة المشروع — Graphify |
 | `docs\INDEX.md` | Docs index |
 | `docs\INSTALLER_0.9.0_PLAN.md` | Installer 0.9.0 plan - optional "..." (documentation only) |
-| `docs\RELEASE_DRAFT_0.9.0.md` | 0.9.0 — DRAFT (not published) |
+| `docs\RELEASE_DRAFT_0.9.0.md` | 0.9.0 (تجريبي) |
+| `docs\ROADMAP_TO_1.0.0.md` | الطريق إلى 1.0.0 |
 | `docs\SUPERVISOR.md` | Supervisor instructions (full copy) |
 | `docs\TESTER_GUIDE.md` | دليل المختبر |
 | `extracted\` | read-only decrypted copies of game files + pak index (gitignored, never deleted) |
@@ -173,6 +192,7 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | `public_repo\` | (no description) |
 | `review\` | review pages (Markdown), corrections, validation report; **`review\script\` = the reference script for translation and review** (story order by the Theater table + TIPS pages, `tools\make_script.py`) |
 | `review\CLOUD_BUGS.md` | Tool bugs found by cloud sessions |
+| `review\DECISIONS_ANSWERED.md` | DECISIONS_ANSWERED (DECIDE-19) |
 | `review\DECISIONS_NEEDED.md` | DECISIONS_NEEDED (LIGHT-2) |
 | `review\FLAGS.md` | Flagged rows |
 | `review\INDEX.md` | Review index |
@@ -210,6 +230,7 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | `technical\FIELD_WIDTHS.tsv` | TSV, columns: prefix, keys, movie, field, font, font_id, size_pt, x0, x1, y0, y1, max_lines, reflow, evidence |
 | `technical\IMAGES2_PREP.md` | IMAGES2_PREP (LIGHT-3) |
 | `technical\IMAGES_INVENTORY.tsv` | TSV, columns: asset, group, size, format, mips, storage, pak, screen, english, plan, priority |
+| `technical\IMAGES_MASS2_CHECKLIST.md` | قائمة فحص الصور — الجولة 2 |
 | `technical\IMAGES_MASS_CHECKLIST.md` | قائمة فحص حزمة الصور (IMAGES-MASS) |
 | `technical\IMAGES_PILOT_CHECKLIST.md` | قائمة فحص تجربة الصور (IMAGES-PILOT) |
 | `technical\IMAGES_PLAN.md` | IMAGES_PLAN — English text inside textures (FINAL-1 part 2) |
@@ -237,6 +258,7 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | `tools\build_build5.py` | BUILD-5: the BUILD-4 pipeline unchanged (tools\build_build4.py: same movie patches, TresFont, line breaking, no <p align>) |
 | `tools\build_build6.py` | BUILD-6: the BUILD-5 pipeline unchanged (tools\build_build4.py via the same wrapper as build_build5.py: same movie |
 | `tools\build_build7.py` | BUILD-7: the BUILD-6 pipeline unchanged (tools\build_build4.py via the same wrapper as build_build6.py: same movie |
+| `tools\build_build8.py` | BUILD-8: the BUILD-7 pipeline unchanged (tools\build_build4.py via the same wrapper as build_build7.py: same movie |
 | `tools\build_test50.py` | TEST50 build: 50 test rows (menus, items, equipment, abilities, plural/acronym/set-letter rows, tutorials, |
 | `tools\cloud_check.py` | Cloud check (run after every page and by GitHub Actions): translation integrity + validate (0 ERR) + unit tests + secret scan. |
 | `tools\cloud_secret_check.py` | Check cloud_repo/ (or any directory / file list) before every push to the private cloud repo. Fails on: forbidden |
@@ -341,20 +363,28 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 
 | category | rows | translated | installed | reviewed | verified-by-screenshot |
 |---|---|---|---|---|---|
-| dialogue | 2298 | 2213 (96.3%) | 2181 (94.9%) | 2213 (96.3%) | 0 (0.0%) |
-| items_abilities | 2334 | 2160 (92.5%) | 2157 (92.4%) | 2160 (92.5%) | 3 (0.1%) |
-| journal | 628 | 615 (97.9%) | 598 (95.2%) | 615 (97.9%) | 0 (0.0%) |
-| menus_ui | 3849 | 3605 (93.7%) | 3604 (93.6%) | 3605 (93.7%) | 94 (2.4%) |
-| remind | 1163 | 1126 (96.8%) | 1112 (95.6%) | 1126 (96.8%) | 0 (0.0%) |
-| subtitles_cutscenes | 6336 | 6083 (96.0%) | 6021 (95.0%) | 6083 (96.0%) | 1 (0.0%) |
-| tutorials | 614 | 613 (99.8%) | 606 (98.7%) | 613 (99.8%) | 0 (0.0%) |
-| TOTAL | 17222 | 16415 (95.3%) | 16279 (94.5%) | 16415 (95.3%) | 98 (0.6%) |
-| images | 18 | 18 (100.0%) | 0 (0.0%) | 17 (94.4%) | 0 (0.0%) |
+| dialogue | 2298 | 2213 (96.3%) | 2213 (96.3%) | 2213 (96.3%) | 0 (0.0%) |
+| items_abilities | 2334 | 2160 (92.5%) | 2160 (92.5%) | 2160 (92.5%) | 3 (0.1%) |
+| journal | 628 | 615 (97.9%) | 615 (97.9%) | 615 (97.9%) | 0 (0.0%) |
+| menus_ui | 3849 | 3605 (93.7%) | 3605 (93.7%) | 3605 (93.7%) | 94 (2.4%) |
+| remind | 1163 | 1126 (96.8%) | 1126 (96.8%) | 1126 (96.8%) | 0 (0.0%) |
+| subtitles_cutscenes | 6336 | 6083 (96.0%) | 6083 (96.0%) | 6083 (96.0%) | 1 (0.0%) |
+| tutorials | 614 | 613 (99.8%) | 613 (99.8%) | 613 (99.8%) | 0 (0.0%) |
+| TOTAL | 17222 | 16415 (95.3%) | 16415 (95.3%) | 16415 (95.3%) | 98 (0.6%) |
+| images | 42 | 42 (100.0%) | 0 (0.0%) | 17 (40.5%) | 0 (0.0%) |
 | images | textures with English | repaint plan | repainted | images repainted % |
 |---|---|---|---|---|
-| all groups | 324 | 234 | 193 | 82.5% |
+| all groups | 324 | 234 | 211 | 90.2% |
 
 ## 8. Open questions
+
+- RELEASE-090: (1) README lines 49 (images-pack sentence) and 59 (BUILD-8 sentence) are wording changes from the OPUS-090 D template edit: accept (yes) or revert to the published wording (no)? 0.9.0 publish waits for this. (2) The README template has no images-count placeholder, so the images count is not in the README. (3) IMAGES-MASS3 words (SpecialShip_02, ps4 HelpItem30402) not seen in game. (4) 10847 plural form in BUILD-9: the TSVs only hold «حروف» (rows 15223 / 15226), supervisor to confirm. (5) The Arabic rule was broken once: a sed on `tools\installer\README.md` had Arabic in its pattern (result checked: UTF-8 valid, no U+FFFD, only the ASCII parts changed). Ordered plan with yes/no items: `docs\ROADMAP_TO_1.0.0.md`.
+
+- DECIDE-19: supervisor to confirm or overrule `review\DECISIONS_ANSWERED.md` and say which rows of `review\proposed\BUILD9_proposed.tsv` become corrections (10847 plural form "5 حروف"..."5 أحرف", 14238 title width not yet seen in game). 10 items stay LEAVE (need new wording from the supervisor: 11946, 03280, 03556, 03566, 07579, 04052, 00331, 10348, Tangled 15281; 02369 already resolved).
+
+- INSTALL-8: BUILD-8 + IMAGES-MASS2 installed; in-game check pending (5 yes/no lines in `technical\IMAGES_MASS2_CHECKLIST.md`); publish / 0.9.0 waits for the supervisor.
+
+- OPUS-090 (install done in INSTALL-8): the 24 new image strings I0019-I0042 need a read-through (e.g. انتهى! for FINISH, اكتمل! for CLEAR!, خفيف جدا / قوي جدا for the cooking pressure grades); the 100 Acre Wood SUMMARY plank sign is now plain Arabic lettering; the large COMPLETE box in HudSnowSlide_text1 has no sprite found in the movie (box set by hand). Linux installer still unrun on Linux; real install/remove with the installer not run. Graphify graph is a snapshot older than OPUS-090. The 19 DECISIONS_NEEDED items and 64 context items stay open (not decided).
 
 - README-POLISH: no new open questions; game verification and Linux runtime verification remain pending as previously documented.
 
@@ -424,6 +454,8 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 - 2026-10-13 **CODEX-REVIEW4-4** (3 entries) — last: checks: mandatory refresh PASS, 0 ERR, secret_check PASS; public checkpoint ready.
 - 2026-10-13 **INSTALLER-CROSSPLATFORM** (3 entries) — last: publish: update current 0.8.3 with additive installer assets; preserve all previous release assets.
 - 2026-10-13 **README-POLISH** (3 entries) — last: publish: update generator template and both README copies; documentation only.
+- 2026-10-13 **OPUS-090** (4 entries) — last: D/E: PROJECT_MAP 3/4/8, CHANGELOG, README template (0.9.0, BUILD-8), make_public temp run + public_check PASS, vault notes; refresh 0 ERR, secret_check PASS; private commit. RESUME: user installs BUILD-8 (+ IMAGES-MASS2) from cmd and confirms -> build_build8.py --installed -> publish.bat -> gh release create 0.9.0 (commands in state\LAST_REPORT.md).
+- 2026-10-13 **RELEASE-090** (5 entries) — last: 6/7: docs\ROADMAP_TO_1.0.0.md (Arabic), PROJECT_MAP 3/4/8, CHANGELOG; refresh, secret_check, private commit. RESUME: user says yes/no to README lines 49/59 -> (no: revert those 2 template lines) -> tools\refresh.bat -> tools\publish.bat -> gh release create 0.9.0 --prerelease with the 5 assets of out\release\v0.9.0 (command in state\LAST_REPORT.md).
 
 ## 10. Public repository
 

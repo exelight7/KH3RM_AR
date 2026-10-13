@@ -31,6 +31,12 @@ public static class Loc
         ["error"] = ("حدث خطأ غير متوقع.", "Unexpected error."),
         ["foot"] = ("غير رسمي · غير تابع لشركتي Square Enix وDisney · لا يغيّر أي ملف أصلي من اللعبة", "Unofficial · not affiliated with Square Enix or Disney · changes no original game file"),
         ["ver"] = ("الإصدار {0}", "Version {0}"),
+        ["img_check"] = ("تثبيت حزمة الصور أيضًا (اختيارية، 40 ميغابايت)", "Also install the images pack (optional, 40 MB)"),
+        ["st_img_cur"] = (" · حزمة الصور مثبّتة", " · images pack installed"),
+        ["st_img_old"] = (" · حزمة الصور: إصدار مختلف", " · images pack: different version"),
+        ["rm_img"] = ("إزالة حزمة الصور فقط", "Remove the images pack only"),
+        ["ok_inst_img"] = ("تم تثبيت التعريب وحزمة الصور والتحقق منهما. شغّل اللعبة.", "Arabic and the images pack installed and verified. Start the game."),
+        ["ok_rem_img"] = ("تمت إزالة حزمة الصور، والتعريب النصي باقٍ.", "Images pack removed, the Arabic text stays."),
     };
 
     public static string Get(string k) => Lang == "ar" ? T[k].ar : T[k].en;

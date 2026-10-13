@@ -10,18 +10,26 @@ namespace Kh3rmAr;
 /// <summary>Everything that touches the disk. No UI, so SelfTest can run it on fake folder trees.</summary>
 public static class Core
 {
-    public const string Version = "0.8.3";
+    public const string Version = "0.9.0";
     public const string PakName = "pakchunk99-arabic_P.pak";
-    public const string ExpectedSha = "f9e23f373ce52a5e9c6690d264b7228d43d0e28aa55d9d76386514db511e82d7"; // BUILD-7
+    public const string ExpectedSha = "45f043de4a4832b1ace0c34f43f2d09e96123d9aaff72768e04524d9ee70e381"; // BUILD-8
+    public const string ImagesPakName = "pakchunk98-arabic-images_P.pak";
+    public const string ImagesSha = "d8d139481f4c4b794483a61ddb44c4862ffdafeb052bd44ab2bcac67ab2865c9"; // IMAGES-MASS3
     public const string SteamAppId = "2552450";
     public const string ProcPrefix = "KINGDOM HEARTS III";
 
-    public static Stream OpenPak() =>
-        Assembly.GetExecutingAssembly().GetManifestResourceStream("pak") ?? throw new InvalidOperationException("pak resource missing");
+    /// <summary>One embedded pak: file name in ~mods, manifest resource name, expected SHA256.</summary>
+    public sealed record Pak(string Name, string Resource, string Sha);
+    public static readonly Pak Text = new(PakName, "pak", ExpectedSha);
+    public static readonly Pak Images = new(ImagesPakName, "pak.images", ImagesSha);
+    public static readonly Pak[] All = { Text, Images };
+
+    public static Stream OpenPak(Pak? pak = null) =>
+        Assembly.GetExecutingAssembly().GetManifestResourceStream((pak ?? Text).Resource) ?? throw new InvalidOperationException("pak resource missing");
 
     public static string Sha(Stream s) => Convert.ToHexString(SHA256.HashData(s)).ToLowerInvariant();
     public static string ShaFile(string p) { using var f = File.OpenRead(p); return Sha(f); }
-    public static string EmbeddedSha() { using var s = OpenPak(); return Sha(s); }
+    public static string EmbeddedSha(Pak? pak = null) { using var s = OpenPak(pak); return Sha(s); }
 
     // ---- locating the game -------------------------------------------------------------------------------
     /// <summary>Returns the ...\Content\Paks folder if dir is (or contains) a KH3 install, else null.</summary>
@@ -131,16 +139,18 @@ public static class Core
 
     public static string ModsDir(string paks) => Path.Combine(paks, "~mods");
 
-    public static Status GetStatus(string paks)
+    /// <summary>State of one of our paks (default: the text pak); OtherPaks = .pak files in ~mods that are not ours.</summary>
+    public static Status GetStatus(string paks, Pak? pak = null)
     {
+        pak ??= Text;
         var mods = ModsDir(paks);
-        var ours = Path.Combine(mods, PakName);
+        var ours = Path.Combine(mods, pak.Name);
         int others = Directory.Exists(mods)
             ? Directory.EnumerateFiles(mods).Count(f => f.EndsWith(".pak", StringComparison.OrdinalIgnoreCase)
-                                                       && !string.Equals(Path.GetFileName(f), PakName, StringComparison.OrdinalIgnoreCase))
+                                                       && !All.Any(p => string.Equals(Path.GetFileName(f), p.Name, StringComparison.OrdinalIgnoreCase)))
             : 0;
         if (!File.Exists(ours)) return new(State.NotInstalled, others);
-        return new(ShaFile(ours) == EmbeddedSha() ? State.Current : State.OtherVersion, others);
+        return new(ShaFile(ours) == pak.Sha ? State.Current : State.OtherVersion, others);
     }
 
     public static bool IsGameRunning(string prefix = ProcPrefix)
@@ -166,20 +176,34 @@ public static class Core
 
     public enum Result { Ok, GameRunning, NoPaks, Denied, HashMismatch, Error }
 
-    /// <summary>Creates ~mods, writes only our pak, verifies the SHA256 of the written file.</summary>
-    public static Result Install(string paks, Func<bool>? running = null)
+    /// <summary>Writes the text pak, and the images pak only when withImages. An installed images pak is never
+    /// removed by Install. Each pak is staged, its SHA256 verified, then moved into ~mods; the first failure stops.</summary>
+    public static Result Install(string paks, bool withImages = false, Func<bool>? running = null)
+    {
+        foreach (var pak in withImages ? All : new[] { Text })
+        {
+            var r = InstallOne(paks, pak, running);
+            if (r != Result.Ok) return r;
+        }
+        return Result.Ok;
+    }
+
+    public static Result Install(string paks, Func<bool>? running) => Install(paks, false, running);
+
+    /// <summary>Creates ~mods, writes only this pak, verifies the SHA256 of the written file.</summary>
+    public static Result InstallOne(string paks, Pak pak, Func<bool>? running = null)
     {
         if ((running ?? (() => IsGameRunning()))()) return Result.GameRunning;
         if (!Directory.Exists(paks)) return Result.NoPaks;
-        var dst = Path.Combine(ModsDir(paks), PakName);
+        var dst = Path.Combine(ModsDir(paks), pak.Name);
         var temporary = dst + "." + Guid.NewGuid().ToString("N") + ".tmp";
         try
         {
             Directory.CreateDirectory(ModsDir(paks));
-            using (var src = OpenPak())
+            using (var src = OpenPak(pak))
             using (var f = new FileStream(temporary, FileMode.CreateNew, FileAccess.Write, FileShare.None))
                 src.CopyTo(f);
-            if (ShaFile(temporary) != ExpectedSha) return Result.HashMismatch;
+            if (ShaFile(temporary) != pak.Sha) return Result.HashMismatch;
             if ((running ?? (() => IsGameRunning()))()) return Result.GameRunning;
             File.Move(temporary, dst, true);
             return Result.Ok;
@@ -195,15 +219,18 @@ public static class Core
         }
     }
 
-    /// <summary>Deletes only our pak; removes ~mods only when it is then empty.</summary>
-    public static Result Remove(string paks, Func<bool>? running = null)
+    /// <summary>Deletes only the chosen paks of ours (default: the text pak); removes ~mods only when it is then empty.</summary>
+    public static Result Remove(string paks, Func<bool>? running = null, params Pak[] which)
     {
         if ((running ?? (() => IsGameRunning()))()) return Result.GameRunning;
         var mods = ModsDir(paks);
         try
         {
-            var ours = Path.Combine(mods, PakName);
-            if (File.Exists(ours)) File.Delete(ours);
+            foreach (var pak in which.Length == 0 ? new[] { Text } : which)
+            {
+                var ours = Path.Combine(mods, pak.Name);
+                if (File.Exists(ours)) File.Delete(ours);
+            }
             if (Directory.Exists(mods) && !Directory.EnumerateFileSystemEntries(mods).Any()) Directory.Delete(mods);
             return Result.Ok;
         }

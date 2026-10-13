@@ -41,9 +41,13 @@
       <TextBox x:Name="PathText" IsReadOnly="True" TextWrapping="NoWrap" Watermark="Steam / Epic / Proton" AutomationProperties.Name="Game folder"/>
       <Button x:Name="BrowseBtn" Grid.Column="1" Classes="secondary" Margin="8,0,0,0" Click="BrowseClick"/>
      </Grid>
-     <TextBlock x:Name="DetectText" FontSize="11" Foreground="#797180" Margin="0,0,0,22" TextWrapping="Wrap"/>
+     <TextBlock x:Name="DetectText" FontSize="11" Foreground="#797180" Margin="0,0,0,12" TextWrapping="Wrap"/>
+     <CheckBox x:Name="ImagesCheck" FontSize="12" Foreground="#C9C1D0" Margin="0,0,0,12" AutomationProperties.Name="Images pack"/>
      <Button x:Name="InstallBtn" Classes="install" HorizontalAlignment="Stretch" Click="InstallClick"/>
-     <Button x:Name="RemoveBtn" Classes="chrome" HorizontalAlignment="Center" Margin="0,5,0,0" Click="RemoveClick" FontSize="12"/>
+     <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Spacing="6" Margin="0,5,0,0">
+      <Button x:Name="RemoveBtn" Classes="chrome" Click="RemoveClick" FontSize="12"/>
+      <Button x:Name="RemoveImgBtn" Classes="chrome" Click="RemoveImgClick" FontSize="12" IsVisible="False"/>
+     </StackPanel>
      <ProgressBar x:Name="BusyBar" IsVisible="False" IsIndeterminate="True" Height="3" Margin="0,5,0,0" Foreground="#E8CA89"/>
      <TextBlock x:Name="MsgText" FontSize="12" Margin="0,6,0,0" TextWrapping="Wrap" MaxHeight="55"/>
     </StackPanel>

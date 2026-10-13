@@ -15,7 +15,8 @@ public static class SelfTest
         var root = J(Path.GetTempPath(), "kh3rm_selftest_" + Guid.NewGuid().ToString("N")[..8]);
         try
         {
-            Check("embedded pak sha == BUILD-7", Core.EmbeddedSha() == Core.ExpectedSha);
+            Check("embedded pak sha == BUILD-8", Core.EmbeddedSha() == Core.ExpectedSha);
+            Check("embedded images pak sha == IMAGES-MASS3", Core.EmbeddedSha(Core.Images) == Core.ImagesSha);
 
             // fake Steam: library 2 holds the game under a custom installdir, listed in libraryfolders.vdf
             var steam = J(root, "Steam"); var lib2 = J(root, "Games", "SteamLib");
@@ -69,6 +70,40 @@ public static class SelfTest
             Core.Install(paks, () => false);
             Check("remove deletes empty ~mods", Core.Remove(paks, () => false) == Core.Result.Ok && !Directory.Exists(mods));
             Check("install on missing Paks -> NoPaks", Core.Install(J(root, "nope"), () => false) == Core.Result.NoPaks);
+
+            // images pack (0.9.0): optional second pak, installed / removed on its own
+            var img = J(mods, Core.ImagesPakName);
+            Check("install text only: images pak absent", Core.Install(paks, false, () => false) == Core.Result.Ok
+                  && File.Exists(ours) && !File.Exists(img) && Core.GetStatus(paks, Core.Images).State == Core.State.NotInstalled);
+            Check("install text + images: both present, both sha match", Core.Install(paks, true, () => false) == Core.Result.Ok
+                  && Core.ShaFile(ours) == Core.ExpectedSha && Core.ShaFile(img) == Core.ImagesSha);
+            Check("status: images current", Core.GetStatus(paks, Core.Images).State == Core.State.Current);
+            var imgTime = File.GetLastWriteTimeUtc(img);
+            Check("images unticked after an images install: images pak untouched", Core.Install(paks, false, () => false) == Core.Result.Ok
+                  && File.Exists(img) && File.GetLastWriteTimeUtc(img) == imgTime && Core.ShaFile(img) == Core.ImagesSha);
+            File.WriteAllText(J(mods, "other_mod_P.pak"), "x");
+            Check("status: our images pak is not counted as another mod", Core.GetStatus(paks).OtherPaks == 1);
+            File.WriteAllText(img, "modified");
+            Check("status: images other version (modified file)", Core.GetStatus(paks, Core.Images).State == Core.State.OtherVersion);
+            Check("reinstall with images repairs the images pak", Core.Install(paks, true, () => false) == Core.Result.Ok && Core.ShaFile(img) == Core.ImagesSha);
+            Check("install with images refused while running: nothing changes", Core.Install(paks, true, () => true) == Core.Result.GameRunning
+                  && Core.ShaFile(ours) == Core.ExpectedSha && Core.ShaFile(img) == Core.ImagesSha);
+            Check("remove images refused while running", Core.Remove(paks, () => true, Core.Images) == Core.Result.GameRunning && File.Exists(img));
+            Check("remove images only: text pak and ~mods stay", Core.Remove(paks, () => false, Core.Images) == Core.Result.Ok
+                  && !File.Exists(img) && File.Exists(ours) && Directory.Exists(mods));
+            Core.Install(paks, true, () => false);
+            Check("remove text only: images pak stays", Core.Remove(paks, () => false) == Core.Result.Ok && !File.Exists(ours) && File.Exists(img));
+            Check("other mods untouched by every case", File.ReadAllText(J(mods, "other_mod_P.pak")) == "x");
+            File.Delete(J(mods, "other_mod_P.pak"));
+            Core.Install(paks, true, () => false);
+            Check("remove both: ~mods deleted when empty", Core.Remove(paks, () => false, Core.All) == Core.Result.Ok && !Directory.Exists(mods));
+            Directory.CreateDirectory(img);   // a folder squatting on the images pak name: that write fails
+            var failed = Core.Install(paks, true, () => false);
+            Check("failed images write: reported (Denied/Error), text pak intact, no temp file left",
+                  (failed == Core.Result.Error || failed == Core.Result.Denied)
+                  && Core.ShaFile(ours) == Core.ExpectedSha && !Directory.EnumerateFiles(mods, "*.tmp").Any());
+            Directory.Delete(img);
+            Check("installer never wrote outside the temp tree", !Directory.Exists(J(root, "nope", "~mods")));
         }
         catch (Exception e) { log.Add("FAIL exception " + e); fail++; }
         finally { try { Directory.Delete(root, true); } catch (Exception) { } }

@@ -23,21 +23,22 @@ refilled; the Arabic may use the whole box, pixels between the two boxes stay un
 Sources: row:<id> | img:<id> (images_strings.tsv) | tpl:<id>:<arg>...[#line] (template row, tags dropped, {n} = rows or =digits) | <src>@<i>/<n> = word group i of n of that Arabic (logical order;
          for a phrase split over separate sprite pieces) | blank (empty the box: a piece whose word moved elsewhere).
 The edited mip 0 goes back through tools\texture_codec.py (only the changed 4x4 blocks are re-encoded).
+Effect extras (OPUS-090): fillc:/linec:/haloc:<hex> set a colour instead of sampling it; blur:<r> = a blurred glow copy.
 Usage: python -I tools\texture_text.py                    -> self check
-       python -I tools\texture_text.py mass [asset-substr] -> out\builds\IMAGES-MASS\ assets, checks, ref sheets, pak
+       python -I tools\texture_text.py mass [asset-substr] -> out\builds\IMAGES-MASS3\ assets, checks, ref sheets, pak
        python -I tools\texture_text.py --installed         -> the pak in ~mods = this build (sha)"""
 import csv, hashlib, os, re, subprocess, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import numpy as np
 import cv2
-from PIL import Image, ImageDraw, ImageFilter, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 import shaper
 import texture_codec as tc
 from tsvlib import load_translation
 
 RECTS = 'technical/images_rects.tsv'
 STRINGS = 'translation/images_strings.tsv'
-OUT = 'out/builds/IMAGES-MASS'
+OUT = 'out/builds/IMAGES-MASS3'                         # IMAGES-MASS and IMAGES-MASS2 stay as built
 PAK = os.path.join(OUT, 'pakchunk98-arabic-images_P.pak')
 MODS = r'C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS III\KINGDOM HEARTS III\Content\Paks\~mods'
 REPAK = os.path.abspath('tools/repak-0.2.3/repak.exe')
@@ -255,7 +256,7 @@ def fit(visual, w, h):
 def effect_layers(m, eff, st, fillrgb):
     """[(alpha mask, rgb)] bottom to top; eff like 'shadow:2:3:4', 'outline:1', 'glow:5', 'grad', joined by '+'"""
     out = []
-    for e in [x for x in eff.split('+') if x and x not in ('none', 'grad')]:
+    for e in [x for x in eff.split('+') if x.split(':')[0] in ('glow', 'shadow', 'outline')]:   # other tokens: see repaint
         k, *a = e.split(':')
         a = [float(v) for v in a]
         if k == 'glow' and st['halo'] is not None:
@@ -336,6 +337,17 @@ def repaint(img, r, ar):
     oy = cy - (mb[1] + mb[3]) / 2
     ox = int(round(min(max(ox, pad - mb[0]), bw - pad - mb[2])))
     oy = int(round(min(max(oy, pad - mb[1]), bh - pad - mb[3])))
+    for e in r['effect'].split('+'):                     # 'fillc:rrggbb' / 'linec:rrggbb' / 'haloc:rrggbbaa' override a sampled colour
+        if e[:6] in ('fillc:', 'linec:', 'haloc:'):
+            st[{'f': 'fill', 'l': 'outline', 'h': 'halo'}[e[0]]] = np.array([int(e[6 + 2 * i:8 + 2 * i], 16) for i in range(len(e[6:]) // 2)] + [255], np.float32)[:4]
+    blur = [float(e[5:]) for e in r['effect'].split('+') if e.startswith('blur:')]
+    wide = max([float(e[5:]) for e in r['effect'].split('+') if e.startswith('glow:')] + blur + [0])
+    if wide > 4:                                         # wide glow / blur: room around the mask so it fades out, not cut off
+        b = int(3 * wide)                                # (round 1 used glow <= 4: its output is unchanged)
+        m = ImageOps.expand(m, b)
+        mb, ox, oy = (mb[0] + b, mb[1] + b, mb[2] + b, mb[3] + b), ox - b, oy - b
+    if blur:                                             # glow copy of a word: the text itself is a soft blurred blob
+        m = m.filter(ImageFilter.MaxFilter(5)).filter(ImageFilter.GaussianBlur(blur[0]))
     fillrgb = st['fill'][:3]
     grad = 'grad' in r['effect'].split('+')
     if grad:
@@ -366,7 +378,7 @@ def rows_by_asset():
 
 
 def sheet(before, after, path):
-    """contact sheet: before | after over a dark backdrop (private, out/builds/IMAGES-MASS/ref)"""
+    """contact sheet: before | after over a dark backdrop (private, out/builds/IMAGES-MASS3/ref)"""
     ims = []
     for a in (before, after):
         im = Image.fromarray(a, 'RGBA')
