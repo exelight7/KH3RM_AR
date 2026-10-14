@@ -20,7 +20,7 @@ id	namespace	key	source_hash	AR	status	note
 10039	kh3_fieldvoice_ts.chat	donald_0090	d90f6f99	سورا، يجب أن نصل<br>إلى متجر الألعاب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10040	kh3_fieldvoice_ts.chat	donald_0100	5de538dd	أرجو أن تكون الألعاب بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10041	kh3_fieldvoice_ts.chat	donald_0110	914f3843	يجب أن ننقذ باز!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-10042	kh3_fieldvoice_ts.chat	goofy_0010	09ab32a8	سورا، أظن أن الترامبولين<br>ستعيدنا إلى غرفة آندي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10042	kh3_fieldvoice_ts.chat	goofy_0010	09ab32a8	سورا، أظن أن الترامبولين<br>سيعيدنا إلى غرفة آندي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10043	kh3_fieldvoice_ts.chat	goofy_0020	8724354b	اسمعوا، يبدو هذا مدخلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10044	kh3_fieldvoice_ts.chat	goofy_0030	4b8e35d5	يا سلام!<br>أشم رائحة شيء لذيذ!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10045	kh3_fieldvoice_ts.chat	goofy_0060	036e3bb1	أتظن أن هناك طريقة<br>لإصابته من بعيد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -60,7 +60,7 @@ id	namespace	key	source_hash	AR	status	note
 10079	kh3_fieldvoice_ts.talk	woody_0030	bc02cc11	لا يمكننا العودة إلى البيت دون ريكس.<br>لا نترك لعبة خلفنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10080	kh3_fieldvoice_ts.talk	woody_0040	b6c7c508	ستكون بخير يا باز. يجب أن تكون بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10081	kh3_fieldvoice_ts.talk	woody_0050	7a6dc596	شكرا مجددا لأنك ساعدتني<br>على إعادة أصدقائي إلى البيت سالمين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-10082	kh3_fieldvoice_ts.talk	woody_0060	f4e2c275	قل الكلمة فقط إن أردت مساعدتنا<br>في جمع أولئك الدخلاء المقنعين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10082	kh3_fieldvoice_ts.talk	woody_0060	f4e2c275	قل الكلمة فقط إن أردت مساعدتنا<br>في القبض على أولئك الدخلاء المقنعين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10083	kh3_fieldvoice_ts.talk	woody_0070	3848c2eb	تذكر، يمكنك زيارتنا في أي وقت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10084	kh3_fieldvoice_ts.talk	buzz_0010	743c42bc	أرجو حقا أن نجد بعض الأجوبة<br>في غالاكسي تويز.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10085	kh3_fieldvoice_ts.talk	buzz_0020	fab3455f	وكأن افتقاد آندي لم يكن كافيا،<br>صارت لدينا الآن مشاكل أكبر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

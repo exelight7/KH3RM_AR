@@ -106,7 +106,7 @@ id	namespace	key	source_hash	AR	status	note
 08528	kh3_fieldvoice_fz.chat	donald_0880	13a919f9	أين ذهبت? المكان ليس آمنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08529	kh3_fieldvoice_fz.chat	donald_0890	df031967	يجب أن نجد مخرجا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08530	kh3_fieldvoice_fz.chat	donald_0900	5be94e23	من الأفضل أن نبحث عن إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-08531	kh3_fieldvoice_fz.chat	donald_0910	97434ebd	هيا!<br>لنذهب إلى القصر الجليدي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08531	kh3_fieldvoice_fz.chat	donald_0910	97434ebd	هيا!<br>لنذهب إلى قصر الجليد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08532	kh3_fieldvoice_fz.chat	donald_0920	19cc495e	أرجو أن تكون إلسا بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08533	kh3_fieldvoice_fz.chat	donald_0950	13094047		todo	
 08534	kh3_fieldvoice_fz.chat	goofy_0010	09ab32a8	أتظن أن بلا قلب<br>يلاحقونها?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -140,7 +140,7 @@ id	namespace	key	source_hash	AR	status	note
 08562	kh3_fieldvoice_fz.chat	goofy_0290	3675b782	لكن يبدو أن له<br>صلة ما بإلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08563	kh3_fieldvoice_fz.chat	goofy_0320	f0bae7bb	نعم، والريح<br>تزيد البرد قسوة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08564	kh3_fieldvoice_fz.chat	goofy_0330	3c10e725	يجب أن ننتظر<br>هدوء العاصفة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-08565	kh3_fieldvoice_fz.chat	goofy_0340	36d5ee3c	يجب أن نكون بأمان هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08565	kh3_fieldvoice_fz.chat	goofy_0340	36d5ee3c	يفترض أن نكون بأمان هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08566	kh3_fieldvoice_fz.chat	goofy_0350	fa7feea2	أقترح أن نستريح هنا قليلا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08567	kh3_fieldvoice_fz.chat	goofy_0360	74f0e941	استعدوا للانطلاق!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08568	kh3_fieldvoice_fz.chat	goofy_0370	b85ae9df	يجب أن نذهب بينما<br>العاصفة هادئة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -182,7 +182,7 @@ id	namespace	key	source_hash	AR	status	note
 08604	kh3_fieldvoice_fz.chat	goofy_0860	05624d4f	تلك السيدة ذهبت نحو<br>الجبال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08605	kh3_fieldvoice_fz.chat	goofy_0870	c9c84dd1	يا للعجب، كيف يفترض<br>أن نخرج من هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08606	kh3_fieldvoice_fz.chat	goofy_0880	10e85f7d	يجب أن نجد إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-08607	kh3_fieldvoice_fz.chat	goofy_0890	dc425fe3	أتظن أن آنا وصلت<br>إلى القصر الجليدي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08607	kh3_fieldvoice_fz.chat	goofy_0890	dc425fe3	أتظن أن آنا وصلت<br>إلى قصر الجليد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08608	kh3_fieldvoice_fz.chat	goofy_0900	58a808a7	إلى أين تظن<br>أن ذلك الرجل أخذ إلسا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08609	kh3_fieldvoice_fz.chat	kristoff_0010	10b7f1fe	أولاف، لدي أخبار سيئة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08610	kh3_fieldvoice_fz.chat	kristoff_0020	9e38f61d	أخبار سيئة يا سورا.<br>حدث ذلك مجددا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -288,4 +288,4 @@ id	namespace	key	source_hash	AR	status	note
 08710	kh3_fieldvoice_fz.talk	olaf_0090	a580d8f1	أتريد أن نلعب لعبة معا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08711	kh3_fieldvoice_fz.talk	olaf_0100	216a8fb5	هيا، لنلعب أنا-أختبئ-وأنت-تبحث.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08712	kh3_fieldvoice_fz.talk	olaf_0110	edc08f2b	لقد عدت! مرحى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-08713	kh3_fieldvoice_fz.talk	olaf_0120	634f88c8	أهلا بعودتك إلى القصر الجليدي.<br>إنه تحفة إلسا <i(on)>الثانية<i(off)>. أنا كنت الأول.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08713	kh3_fieldvoice_fz.talk	olaf_0120	634f88c8	أهلا بعودتك إلى قصر الجليد.<br>إنه تحفة إلسا <i(on)>الثانية<i(off)>. أنا كنت الأول.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

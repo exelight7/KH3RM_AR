@@ -177,7 +177,7 @@ id	namespace	key	source_hash	AR	status	note
 11554	kh3_gumiship.item	material_0300	c6f0c84e	باركيه/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11555	kh3_gumiship.item	material_0310	0a5ac8d0	أرضية/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11556	kh3_gumiship.item	material_0320	84d5cf33	جليد/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11557	kh3_gumiship.item	material_0330	487fcfad	حمم/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11557	kh3_gumiship.item	material_0330	487fcfad	صهارة/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11558	kh3_gumiship.item	material_0340	42bac6b4	نار/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11559	kh3_gumiship.item	material_0350	8e10c62a	ثلج/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11560	kh3_gumiship.item	material_0360	009fc1c9	ماء/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -188,7 +188,7 @@ id	namespace	key	source_hash	AR	status	note
 11565	kh3_gumiship.item	material_0410	7ec2215f	بقع البقرة/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11566	kh3_gumiship.item	material_0420	f04d26bc	فرو/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11567	kh3_gumiship.item	material_0430	3ce72622	جلد/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11568	kh3_gumiship.item	material_0440	36222f3b	كريستال/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11568	kh3_gumiship.item	material_0440	36222f3b	بلورة/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11569	kh3_gumiship.item	material_0450	fa882fa5	جمشت/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11570	kh3_gumiship.item	material_0460	74072846	ألماس/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11571	kh3_gumiship.item	material_0470	b8ad28d8	حجر/M	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

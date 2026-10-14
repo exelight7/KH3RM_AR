@@ -12,8 +12,9 @@ KEEP = {'.git', 'LICENSE'}                         # remote content we never tou
 TECH = ['RECON_KH3.md', 'SHAPER_SPEC.md', 'FIELD_WIDTHS.tsv', 'TAGS.md', 'IMAGES_PLAN.md']   # + *CHECKLIST.md
 COLS = ['id', 'namespace', 'key', 'source_hash', 'AR', 'status', 'note']
 NOTE_ID = 'state/PROGRESS.md'
-RELEASE = '0.9.0'                                  # README download link (tag)
-SETUP = 'KH3RM_AR_Setup_v0.9.0_windows-x64.exe'                # installer attached to that release
+RELEASE = '0.9.1'                                  # README download link (tag)
+SETUP = 'KH3RM_AR_Setup_v0.9.1_windows-x64.exe'                # installer attached to that release
+BUILD = 'BUILD-10'                                 # text pak of that release (README status line)
 IMG_VER = '0.9.0'                                  # out\release\v<IMG_VER>\ui_ar.png screenshot
 # double-quoted English phrase of 3+ words (likely game text) -> "..."
 QUOTE = re.compile(r'"(?=[^"\n]*[A-Za-z])(?:[^"\n؀-ۿ]*\s){2}[^"\n؀-ۿ]*"')
@@ -66,7 +67,7 @@ def readme():
     t = [c.strip() for c in next(l for l in stats.splitlines() if l.startswith('| TOTAL')).strip('|').split('|')]
     pct = lambda s: s.split('(')[1].rstrip(')') if '(' in s else s
     cov = re.search(r'= (\d+) / (\d+) \(([\d.]+%)\)', stats)
-    v = {'VER': RELEASE, 'SETUP': SETUP, 'TRANSLATABLE': f'{int(cov.group(1)):,}', 'TRANSLATABLE_PCT': cov.group(3),
+    v = {'VER': RELEASE, 'SETUP': SETUP, 'BUILD': BUILD, 'TRANSLATABLE': f'{int(cov.group(1)):,}', 'TRANSLATABLE_PCT': cov.group(3),
          'VERIFIED': pct(t[5]), 'VERROWS': f"{int(t[5].split()[0]):,}"}
     s = open(os.path.join(ROOT, 'tools', 'public_templates', 'README.md'), encoding='utf-8').read()
     return re.sub(r'\{\{(\w+)\}\}', lambda m: v[m.group(1)], s)

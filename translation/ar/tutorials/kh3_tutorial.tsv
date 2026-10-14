@@ -31,7 +31,7 @@ id	namespace	key	source_hash	AR	status	note
 17166	kh3_tutorial.tut	detail_0030_09	152c3dfb	يسقط الأعداء <color(strong)>جوائز<color> عند هزيمتهم.<br>الجوائز الخضراء تعيد HP، والزرقاء تعيد MP.<br>بعض الجوائز تمنح موني أو أغراضا. احرص على التقاطها!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 17167	kh3_tutorial.tut	detail_0030_10	a48e72ef	اكتمل الدرس.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 17168	kh3_tutorial.tut	detail_0040_00	8960d4e2	<color(strong)>الجري الحر<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-17169	kh3_tutorial.tut	detail_0040_01	31dcb387	<color(strong)>يساعدك الجري الحر<color> على تجاوز العوائق المزعجة بسهولة.<pb>لنبدأ بالحواف الأمامية.<br>اركض نحوها لتتسلقها تلقائيا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+17169	kh3_tutorial.tut	detail_0040_01	31dcb387	يساعدك <color(strong)>الجري الحر<color> على تجاوز العوائق المزعجة بسهولة.<pb>لنبدأ بالحواف الأمامية.<br>اركض نحوها لتتسلقها تلقائيا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 17170	kh3_tutorial.tut	detail_0040_03	9bd57b0c	استخدم <icon(Lstick)> للركض صعودا على الحواف!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 17171	kh3_tutorial.tut	detail_0040_04	060243b5	جيد. والآن لنتعامل مع <color(strong)>الأعمدة المتلألئة<color> أمامك.<br>اركض نحوها لتقفز عبرها تلقائيا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 17172	kh3_tutorial.tut	detail_0040_05	bebe24d0	استخدم <icon(Lstick)> للركض عبر الأعمدة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

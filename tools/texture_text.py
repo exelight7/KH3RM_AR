@@ -24,8 +24,22 @@ Sources: row:<id> | img:<id> (images_strings.tsv) | tpl:<id>:<arg>...[#line] (te
          for a phrase split over separate sprite pieces) | blank (empty the box: a piece whose word moved elsewhere).
 The edited mip 0 goes back through tools\texture_codec.py (only the changed 4x4 blocks are re-encoded).
 Effect extras (OPUS-090): fillc:/linec:/haloc:<hex> set a colour instead of sampling it; blur:<r> = a blurred glow copy.
+RELEASE-091 extras: fill 'rowmed' = each row of the box gets its own median (a horizontal bar with specks);
+  effect 'plate:<r>:<b>' = the halo colour becomes an opaque plate: the text grown by r px (1 px soft edge) plus the
+  bottom b rows of the erased area (alpha profile of the old plate there), so the plate runs on into the bar below;
+  'feather:<sides>:<px>' = the new box fades into the old pixels over px at the given sides (l t r b);
+  fill 'echo:<dx>:<dy>:<d>:<s>:<gain>' (source blank) = a blurred flash copy of the texture's own artwork at offset
+  dx dy (glow = gain * blur(dilate(alpha, d), s), core = blur(alpha, 1)): the copy is changed by the difference of
+  the model between the old and the repainted artwork, so pixels whose model did not change stay as they were.
+Readability (RELEASE-091): every drawn box is measured at its real size with this renderer: stroke contrast = 75th
+  percentile of the coverage of the ink pixels (coverage >= 64), continuity = 8-connected components of the
+  coverage >= 128 mask against a 64 px reference rendering (ref - k .. ref, k = letters with 2 or 3 dots that may
+  merge into one blob; below 24 px only). Readable = contrast >= 192 and continuity. Textures that are new against
+  IMAGES-MASS3 must be readable in every box; the MASS3 textures are byte-identical and only reported.
 Usage: python -I tools\texture_text.py                    -> self check
-       python -I tools\texture_text.py mass [asset-substr] -> out\builds\IMAGES-MASS3\ assets, checks, ref sheets, pak
+       python -I tools\texture_text.py mass [asset-substr] -> out\builds\IMAGES-MASS4\ assets, checks, ref sheets, pak
+       python -I tools\texture_text.py trial               -> technical\images_rects_trial.tsv rendered and measured
+                                                              (out\builds\IMAGES-MASS4\trial\, no pak)
        python -I tools\texture_text.py --installed         -> the pak in ~mods = this build (sha)"""
 import csv, hashlib, os, re, subprocess, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -38,7 +52,10 @@ from tsvlib import load_translation
 
 RECTS = 'technical/images_rects.tsv'
 STRINGS = 'translation/images_strings.tsv'
-OUT = 'out/builds/IMAGES-MASS3'                         # IMAGES-MASS and IMAGES-MASS2 stay as built
+TRIAL = 'technical/images_rects_trial.tsv'
+OUT = 'out/builds/IMAGES-MASS4'                         # IMAGES-MASS .. IMAGES-MASS3 stay as built
+PREV = 'out/builds/IMAGES-MASS3/checks.tsv'             # textures of the previous build: readability only reported
+REWORDED = {'10694'}                                     # rows reworded after IMAGES-MASS3 (DECIDE-19 B, BUILD-9)
 PAK = os.path.join(OUT, 'pakchunk98-arabic-images_P.pak')
 MODS = r'C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS III\KINGDOM HEARTS III\Content\Paks\~mods'
 REPAK = os.path.abspath('tools/repak-0.2.3/repak.exe')
@@ -77,6 +94,8 @@ def fill_bg(img, box, mode):
         A = np.stack([np.ones_like(xx), xx, yy, xx * xx, yy * yy, xx * yy], -1)
         coef = np.linalg.lstsq(A[~ink], reg[~ink], rcond=None)[0]
         return (A.reshape(-1, 6) @ coef).reshape(h, w, 4).astype(np.float32)
+    if mode == 'rowmed':
+        return np.broadcast_to(np.median(img[y0:y1, x0:x1], 1)[:, None], (h, w, 4)).copy()
     if mode == 'flat':
         ring = np.concatenate([img[y0 - 1, x0 - 1:x1 + 1], img[y1, x0 - 1:x1 + 1], img[y0:y1, x0 - 1], img[y0:y1, x1]])
         return np.broadcast_to(np.median(ring, 0), (h, w, 4)).copy()
@@ -253,6 +272,27 @@ def fit(visual, w, h):
     return (lo,) + render(visual, lo)
 
 
+DOTS23 = set(map(chr, (0x062A, 0x062B, 0x0629, 0x0642, 0x064A, 0x0634)))   # ta tha ta-marbuta qaf ya shin
+READ_CONTRAST = 192
+
+
+def components(m):
+    return cv2.connectedComponents((np.asarray(m) >= 128).astype(np.uint8), connectivity=8)[0] - 1
+
+
+def legibility(ar, visual, size):
+    """(stroke contrast, components, reference components, k, readable) of the text at its real size"""
+    a = np.asarray(render(visual, size)[0]).astype(int)
+    contrast = int(np.percentile(a[a >= 64], 75)) if (a >= 64).any() else 0
+    font = ImageFont.truetype(FONT, 64, layout_engine=ImageFont.Layout.BASIC)
+    l, t, r, b = font.getbbox(visual)
+    ref = Image.new('L', (r - l + 16, b - t + 16), 0)
+    ImageDraw.Draw(ref).text((8 - l, 8 - t), visual, font=font, fill=255)
+    n, nref, k = components(a.astype(np.uint8)), components(ref), sum(c in DOTS23 for c in ar)
+    ok = contrast >= READ_CONTRAST and (size >= BIG or nref - k <= n <= nref)
+    return contrast, n, nref, k, ok
+
+
 def effect_layers(m, eff, st, fillrgb):
     """[(alpha mask, rgb)] bottom to top; eff like 'shadow:2:3:4', 'outline:1', 'glow:5', 'grad', joined by '+'"""
     out = []
@@ -301,12 +341,13 @@ def repaint(img, r, ar):
     bw, bh = x1 - x0, y1 - y0
     e0, f0, e1, f1 = map(int, (r.get('erase') or r['box']).split())   # erase box (old text) inside the box
     assert x0 <= e0 < e1 <= x1 and y0 <= f0 < f1 <= y1, r['box']
+    box0 = img[y0:y1, x0:x1].copy()
     eorig = img[f0:f1, e0:e1].copy()
     ebg = fill_bg(img, (e0, f0, e1, f1), r['fill'])
     ink = ink_mask(eorig, ebg, r['fill']) if ar is not None else None
     img[f0:f1, e0:e1] = ebg
     if ar is None:                                       # blank: the piece's word moved to another box
-        return dict(size=0, fill='-', outline='-', halo='-', margin='-', text='')
+        return dict(size=0, fill='-', outline='-', halo='-', margin='-', text='', read='-')
     st = sample(eorig, ebg, ink, r['fill'])
     orig, bg = np.zeros((bh, bw, 4), np.float32), img[y0:y1, x0:x1].copy()   # bg = the box with the old text erased
     orig[f0 - y0:f1 - y0, e0 - x0:e1 - x0] = eorig
@@ -356,20 +397,76 @@ def repaint(img, r, ar):
         fillrgb = np.stack([np.interp(t * (len(g) - 1), np.arange(len(g)), g[:, ch]) for ch in range(3)], -1)
         fillrgb = np.broadcast_to(fillrgb[:, None, :], (bh, bw, 3))
     out = bg.copy()
+    effs = r['effect'].split('+')
     fa = st['fill'][3] / 255 if r['fill'] == 'clear' and st['fill'][3] < 230 else 1   # faint (half-transparent) text
-    if 'knockout' in r['effect'].split('+'):             # text cut out of an opaque plate (alpha holes)
+    if 'knockout' in effs:                               # text cut out of an opaque plate (alpha holes)
         out[..., 3] *= 1 - place(np.asarray(m, np.float32) / 255, oy, ox, out.shape[:2])
     else:
+        for e in [e for e in effs if e.startswith('plate:')]:   # opaque plate: the text grown by pr px + bottom rows
+            pr, pb = map(int, e.split(':')[1:])
+            tm = place(np.asarray(m, np.float32) / 255, oy, ox, out.shape[:2]) > 0.5
+            grown = cv2.dilate(tm.astype(np.uint8), np.ones((2 * pr + 1, 2 * pr + 1), np.uint8)).astype(np.float32)
+            grown = cv2.GaussianBlur(grown, (3, 3), 0.7)
+            band, fb = np.zeros_like(grown), f1 - y0              # the bottom pb rows of the erased area
+            band[fb - pb:fb] = orig[fb - pb:fb, :, 3] / 255 * np.minimum(1, (np.arange(pb) + 1) / 3)[:, None]
+            over(out, np.maximum(grown, band) * st['halo'][3] / 255, st['halo'][:3])
         for alpha, rgb in effect_layers(m, r['effect'], st, fillrgb):
             over(out, place(alpha * fa, oy, ox, out.shape[:2]), rgb)
+    for e in [e for e in effs if e.startswith('feather:')]:     # fade into the old pixels at the given sides
+        sides, px = e.split(':')[1], int(e.split(':')[2])
+        yy, xx = np.mgrid[0:bh, 0:bw]
+        w = np.ones((bh, bw), np.float32)
+        for s, d in (('l', xx), ('r', bw - 1 - xx), ('t', yy), ('b', bh - 1 - yy)):
+            if s in sides:
+                w = np.minimum(w, (d + 1) / (px + 1))
+        out = blend(box0, out, w)
     img[y0:y1, x0:x1] = out
     margin = min(ox + mb[0], oy + mb[1], bw - (ox + mb[2]), bh - (oy + mb[3]))
+    read = '-' if blur else 'contrast %d, components %d of %d (k %d), %s' % (
+        lambda c, n, nr, k, ok: (c, n, nr, k, 'READABLE' if ok else 'UNREADABLE'))(*legibility(ar, visual, size))
     return dict(size=size, fill='grad' if grad else hexc(st['fill']), outline=hexc(st['outline']),
-                halo='-' if st['halo'] is None else hexc(st['halo']), margin=margin, text=ar)
+                halo='-' if st['halo'] is None else hexc(st['halo']), margin=margin, text=ar, read=read)
 
 
-def rows_by_asset():
-    with open(RECTS, encoding='utf-8') as f:
+def blend(a, b, w):
+    """premultiplied mix of two straight-alpha RGBA arrays: w = 1 -> b, w = 0 -> a"""
+    w = w[..., None]
+    pa, pb = a[..., :3] * a[..., 3:] / 255, b[..., :3] * b[..., 3:] / 255
+    al = a[..., 3:] * (1 - w) + b[..., 3:] * w
+    rgb = (pa * (1 - w) + pb * w) * 255 / np.maximum(al, 1e-6)
+    mix = np.concatenate([np.where(al > 0, rgb, 0), al], -1)
+    return np.where(w == 0, a, np.where(w == 1, b, mix)).astype(np.float32)   # untouched pixels stay exact
+
+
+def echo(img, before, r):
+    """flash copy (box) of the artwork at offset dx dy, two layers: a glow in the box's pink (model
+    gain * blur(dilate(art, d), s)) under an opaque core in its orange (model clip((blur(art, 1) - 0.7) / 0.5 + 0.5));
+    each pixel moves from its old value to the model of the repainted artwork (img) in proportion to how much the
+    model changed against the old artwork (before): weight = 8 x the larger layer difference, capped at 1"""
+    x0, y0, x1, y1 = map(int, r['box'].split())
+    dx, dy, d, s, gain = (float(v) for v in r['fill'].split(':')[1:])
+    shift = np.float32([[1, 0, dx], [0, 1, dy]])
+    def model(rgba):
+        art = rgba[..., 3].astype(np.float32) / 255
+        art[y0:y1, x0:x1] = 0                                          # the artwork, not the flash itself
+        glow = gain * cv2.GaussianBlur(cv2.dilate(art, np.ones((int(d), int(d)), np.uint8)), (0, 0), s)
+        core = np.clip((cv2.GaussianBlur(art, (0, 0), 1) - 0.7) / 0.5 + 0.5, 0, 1)
+        return [cv2.warpAffine(v, shift, art.shape[::-1])[y0:y1, x0:x1] for v in (glow, core)]
+    (g0, c0), (g1, c1) = model(before), model(img)
+    box = img[y0:y1, x0:x1]
+    a = box[..., 3] / 255
+    pink = np.median(box[(a > 0.1) & (a < 0.8)][:, :3], 0)
+    orange = np.median(box[(a > 0.97) & (box[..., 1] > 190)][:, :3], 0)
+    glow, core = np.clip(g1, 0, 1), c1
+    al = core + glow * (1 - core)
+    rgb = (orange * core[..., None] + pink * (glow * (1 - core))[..., None]) / np.maximum(al, 1e-6)[..., None]
+    new = np.concatenate([rgb, al[..., None] * 255], -1).astype(np.float32)
+    img[y0:y1, x0:x1] = blend(box, new, np.clip(np.maximum(np.abs(g1 - g0), np.abs(c1 - c0)) * 8, 0, 1))
+    return dict(size=0, fill='echo', outline='-', halo='-', margin='-', text='', read='-')
+
+
+def rows_by_asset(rects=RECTS):
+    with open(rects, encoding='utf-8') as f:
         rs = list(csv.DictReader(f, delimiter='\t', quoting=csv.QUOTE_NONE))
     by = {}
     for r in rs:
@@ -391,12 +488,16 @@ def sheet(before, after, path):
     c.save(path)
 
 
-def edit_all(only=''):
+def edit_all(only='', rects=RECTS, out=OUT):
     tr = {r['id']: r for r in load_translation()}
     strings = load_strings()
     files, log, checks = {}, [], []
-    os.makedirs(os.path.join(OUT, 'ref'), exist_ok=True)
-    for asset, rs in rows_by_asset().items():
+    os.makedirs(os.path.join(out, 'ref'), exist_ok=True)
+    prev = set()
+    if os.path.exists(PREV):
+        with open(PREV, encoding='utf-8') as f:
+            prev = {l.split('\t')[0] for l in f.read().splitlines()[1:]}
+    for asset, rs in rows_by_asset(rects).items():
         if only and only not in asset:
             continue
         t = tc.load(os.path.join('extracted/assets', asset))
@@ -412,16 +513,20 @@ def edit_all(only=''):
                 groups[r['size']] = min(groups.get(r['size'], 999), info['size'])
         rs = [dict(r, size=str(groups[r['size']])) if r['size'] in groups else r for r in rs]
         linked = lambda i: (rs[i].get('size') or '').startswith('=')
-        for i in sorted(range(len(rs)), key=linked):     # '=k' = the size of row k of this asset (layers of one word)
+        last = lambda i: (rs[i]['fill'].startswith('echo:'), linked(i))   # flash copies after their artwork
+        for i in sorted(range(len(rs)), key=last):       # '=k' = the size of row k of this asset (layers of one word)
             r = dict(rs[i])
             if linked(i):
                 r['size'] = sizes[int(r['size'][1:])]
             x0, y0, x1, y1 = map(int, r['box'].split())
             inside[y0:y1, x0:x1] = True
-            info = repaint(img, r, None if r['source'] == 'blank' else arabic(r['source'], tr, strings))
+            if r['fill'].startswith('echo:'):
+                info = echo(img, before, r)
+            else:
+                info = repaint(img, r, None if r['source'] == 'blank' else arabic(r['source'], tr, strings))
             sizes[i] = info['size']
             log.append([asset.split('/')[-1], r['box'], r['source'], str(info['size']), info['fill'], info['outline'],
-                        info['halo'], str(info['margin']), r.get('note', '')])
+                        info['halo'], str(info['margin']), info['read'], r.get('note', '')])
         new = np.clip(np.round(img), 0, 255).astype(np.uint8)
         name = asset.split('/')[-1][:-7]
         tag = asset.split('/')[-3] if asset.split('/')[-3] in ('hud_dance', 'hud_specialship') else             asset.split('/')[-2] if asset.split('/')[-2] in ('ps4', 'windows', 'xboxone') else ''
@@ -439,11 +544,16 @@ def edit_all(only=''):
         near = cv2.dilate(inside.astype(np.uint8), np.ones((7, 7), np.uint8)) > 0
         far = int((enc & ~near).sum())
         same = tc.info(t2) == tc.info(t) and len(ue) == len(t['ue']) and len(ub) == len(t['ub'])
-        margins = [int(l[7]) for l in log if l[0] == asset.split('/')[-1] and l[7] not in ('-',)]
+        mine = [l for l in log if l[0] == asset.split('/')[-1]]
+        margins = [int(l[7]) for l in mine if l[7] not in ('-',)]
+        low = sum('UNREADABLE' in l[8] for l in mine)
+        readable = ('PASS' if not low else 'FAIL') if asset not in prev else \
+            'MASS3 (reported only' + (f': {low} box(es) under the bar)' if low else ')')
         checks.append([asset, f"{pl['pf']} {pl['sx']}x{pl['sy']} mips {len(pl['mips'])}", 'PASS' if same else 'FAIL',
                        str(blocks), str(edit_out), str(int(enc.sum())), str(far), str(min(margins) if margins else '-'),
-                       'PASS' if same and edit_out == 0 and far == 0 and (not margins or min(margins) >= MARGIN) else 'FAIL'])
-        sheet(before, got, os.path.join(OUT, 'ref', (tag + '_' if tag else '') + name + '.png'))
+                       readable, 'PASS' if same and edit_out == 0 and far == 0 and (not margins or min(margins) >= MARGIN)
+                       and readable != 'FAIL' else 'FAIL'])
+        sheet(before, got, os.path.join(out, 'ref', (tag + '_' if tag else '') + name + '.png'))
         stem = asset[:-7]
         files[stem + '.uasset'], files[stem + '.uexp'] = ua, ue
         if ub:
@@ -457,17 +567,27 @@ def write_tsv(path, head, rows):
         f.writelines('\t'.join(map(str, r)) + '\n' for r in rows)
 
 
-def mass(only=''):
+def mass(only='', rects=RECTS, out=OUT):
     sys.stdout.reconfigure(encoding='utf-8')
-    files, log, checks = edit_all(only)
-    write_tsv(os.path.join(OUT, 'repaint_log.tsv'),
-              ['texture', 'box', 'source', 'font_px', 'fill', 'outline', 'halo', 'margin_px', 'note'], log)
-    write_tsv(os.path.join(OUT, 'checks.tsv'), ['asset', 'format', 'reparse_same_size', 'changed_blocks_mip0',
-              'edit_px_outside_boxes', 'encoded_px_outside_boxes', 'encoded_px_beyond_3px', 'min_margin_px', 'result'], checks)
+    os.makedirs(out, exist_ok=True)
+    files, log, checks = edit_all(only, rects, out)
+    write_tsv(os.path.join(out, 'repaint_log.tsv'), ['texture', 'box', 'source', 'font_px', 'fill', 'outline', 'halo',
+              'margin_px', 'readability', 'note'], log)
+    write_tsv(os.path.join(out, 'checks.tsv'), ['asset', 'format', 'reparse_same_size', 'changed_blocks_mip0',
+              'edit_px_outside_boxes', 'encoded_px_outside_boxes', 'encoded_px_beyond_3px', 'min_margin_px',
+              'readability', 'result'], checks)
     bad = [c[0] for c in checks if c[-1] != 'PASS']
     print(f'{len(checks)} textures, {len(log)} boxes, {len(bad)} FAIL', *bad, sep='\n  ')
-    if only:
+    if only or out != OUT:
         return
+    old = os.path.join(os.path.dirname(PREV), 'assets')            # the previous build's files stay byte-identical,
+    same = [rel for rel in files if os.path.exists(os.path.join(old, rel))]   # except textures drawing a row that
+    diff = [rel for rel in same if open(os.path.join(old, rel), 'rb').read() != files[rel]]   # was reworded since
+    by = rows_by_asset()
+    allowed = {a[:-7] for a, rs in by.items() if any(re.search(r'\b(%s)\b' % '|'.join(REWORDED), r['source']) for r in rs)}
+    assert all(rel.rsplit('.', 1)[0] in allowed for rel in diff), f'changed against {old}: {diff}'
+    print(f'{len(same) - len(diff)} files byte-identical to {old}; {len(diff)} changed by reworded rows '
+          f'{sorted(REWORDED)}: {diff}; {len(files) - len(same)} new')
     root = os.path.join(OUT, 'assets')
     for rel, data in files.items():
         os.makedirs(os.path.dirname(os.path.join(root, rel)), exist_ok=True)
@@ -522,6 +642,14 @@ def self_check():
     assert arabic('tpl:2:=7:1#0', rows, {}) == 'x 7' and arabic('tpl:2:=7:1#1', rows, {}) == 'y aa bb cc'
     wd = lambda st: (lambda b: b[2] - b[0])(mask(vis, 30, st).getbbox())
     assert wd(True) >= wd(False) + 2 * SS - 1, (wd(True), wd(False))
+    word = chr(0x0645) + chr(0x0633) + chr(0x062A) + chr(0x0648) + chr(0x0649)   # 5-letter word, ta has 2 dots
+    assert legibility(word, shaper.shape(word), 16)[-1] and not legibility(word, shaper.shape(word), 6)[-1]
+    bar = img.copy(); bar[20, 30] = 0
+    assert np.allclose(fill_bg(bar, (10, 18, 50, 22), 'rowmed')[2], img[20, 10:50])          # one speck gone
+    a, b = np.zeros((2, 2, 4), np.float32), np.full((2, 2, 4), 200, np.float32)
+    w = np.array([[0, 1], [0.5, 0.5]], np.float32)
+    m = blend(a, b, w)
+    assert (m[0, 0] == a[0, 0]).all() and (m[0, 1] == b[0, 1]).all() and m[1, 0, 3] == 100 and m[1, 0, 0] == 200
     print('texture_text self check: PASS')
 
 
@@ -531,6 +659,8 @@ if __name__ == '__main__':
         self_check()
     elif a[0] == 'mass':
         mass(a[1] if len(a) > 1 else '')
+    elif a[0] == 'trial':
+        mass(a[1] if len(a) > 1 else '', TRIAL, os.path.join(OUT, 'trial'))
     elif a[0] == '--installed':
         got = sha(open(os.path.join(MODS, os.path.basename(PAK)), 'rb').read())
         assert got == sha(open(PAK, 'rb').read()), 'the pak in ~mods is not this build'

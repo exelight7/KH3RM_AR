@@ -1,7 +1,7 @@
 id	namespace	key	source_hash	AR	status	note
 15913	kh3_system.general	system_0001	38503681	معلومات	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 15914	kh3_system.general	system_0002	2ae5996f	سؤال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-15915	kh3_system.general	system_0003	9259fe0a	تم الحصول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+15915	kh3_system.general	system_0003	9259fe0a	مكتسب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 15916	kh3_system.general	system_0004	0f8ec6b3	المستوى التالي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 15917	kh3_system.general	system_0006	a5870e38	تم الحصول على <color(strong)>{0}<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 15918	kh3_system.general	system_0007	1d3b695d	الأغراض المكتسبة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

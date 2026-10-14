@@ -45,7 +45,7 @@ id	namespace	key	source_hash	AR	status	note
 09963	kh3_fieldvoice_town_tt.chat	ol_lady01_0010	0242a2a7	برج الساعة ذلك يعمل<pb(1.45)>منذ كانت جدتك<br>فتاة صغيرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09964	kh3_fieldvoice_town_tt.chat	ol_lady01_0020	8ccda544	ماذا تريدون<br>على العشاء يا صغار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09965	kh3_fieldvoice_town_tt.chat	ol_lady01_0030	4067a5da	أنتم يا أطفال لا ترفضون<br>المثلجات أبدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09966	kh3_fieldvoice_town_tt.chat	ol_lady01_0060	0887abbe	يجب أن أحاول إعادة<br>وصفة ذلك المطعم في البيت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09966	kh3_fieldvoice_town_tt.chat	ol_lady01_0060	0887abbe	يجب أن أحاول إعداد<br>وصفة ذلك المطعم في البيت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09967	kh3_fieldvoice_town_tt.chat	ol_lady01_0070	c42dab20	لا تسقط!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09968	kh3_fieldvoice_town_tt.chat	ol_lady02_0010	5a5c0b8f	مطعم. يا إلهي، كم كبرت البلدة<br>منذ كنت في عمرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09969	kh3_fieldvoice_town_tt.chat	ol_lady02_0040	12bc05eb	حين كنت صغيرا، كان الترام<br>يبدو كبيرا وساحرا جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

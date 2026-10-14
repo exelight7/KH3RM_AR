@@ -36,8 +36,11 @@ why = read_tsv(os.path.join(ROOT, 'technical', 'images_work', 'still_english.tsv
 left = [[r[0], r[1], next((w[1] for w in why if w[0] in r[0]), r[9])] for r in inv if r[0] not in done]
 write_tsv(os.path.join(ROOT, 'technical', 'IMAGES_STILL_ENGLISH.tsv'), [['asset', 'group', 'reason']] + left)
 pd = sum(r[0] in done for r in plan)
-L += ['', '| images | textures with English | repaint plan | repainted | images repainted % |', '|---|---|---|---|---|',
-      f'| all groups | {len(inv)} | {len(plan)} | {pd} | {pct(pd, len(plan))} |']
+nt = sum(r[2].startswith('NO-TEXT') for r in left if r[0] in {p[0] for p in plan})   # plan textures without words
+un = len(plan) - pd - nt                                                            # still English: unreadable
+L += ['', '| images | textures with English | repaint plan | repainted | no translatable text | still English (unreadable) | images repainted % | of the textures with text |',
+      '|---|---|---|---|---|---|---|---|',
+      f'| all groups | {len(inv)} | {len(plan)} | {pd} | {nt} | {un} | {pct(pd, len(plan))} | {pd} / {pd + un} = {pct(pd, pd + un)} |']
 audited = sum(1 for r in rows if r['status'] not in ('translated', 'reviewed', 'verified'))   # skip-audited rows (review\SKIP_AUDIT.tsv)
 tt = sum(r['status'] != 'todo' for r in rows)
 L += ['', f'Translatable coverage = translated / (total rows - skip-audited rows) = {tt} / ({len(rows)} - {audited}) = {tt} / {len(rows) - audited} ({pct(tt, len(rows) - audited)})']

@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <AssemblyName>KH3RM_AR_Setup</AssemblyName>
     <RootNamespace>Kh3rmAr</RootNamespace>
-    <Version>0.9.0</Version>
+    <Version>0.9.1</Version>
     <RuntimeIdentifier Condition="'$(RuntimeIdentifier)'==''">win-x64</RuntimeIdentifier>
     <SelfContained>true</SelfContained>
     <PublishSingleFile>true</PublishSingleFile>
@@ -14,8 +14,8 @@
     <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
     <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
     <ApplicationIcon Condition="Exists('app.ico')">app.ico</ApplicationIcon>
-    <PakPath Condition="'$(PakPath)'==''">$(MSBuildThisFileDirectory)..\..\out\builds\BUILD-8\pakchunk99-arabic_P.pak</PakPath>
-    <ImagesPakPath Condition="'$(ImagesPakPath)'==''">$(MSBuildThisFileDirectory)..\..\out\builds\IMAGES-MASS3\pakchunk98-arabic-images_P.pak</ImagesPakPath>
+    <PakPath Condition="'$(PakPath)'==''">$(MSBuildThisFileDirectory)..\..\out\builds\BUILD-10\pakchunk99-arabic_P.pak</PakPath>
+    <ImagesPakPath Condition="'$(ImagesPakPath)'==''">$(MSBuildThisFileDirectory)..\..\out\builds\IMAGES-MASS4\pakchunk98-arabic-images_P.pak</ImagesPakPath>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Avalonia.Desktop" Version="11.3.22" />

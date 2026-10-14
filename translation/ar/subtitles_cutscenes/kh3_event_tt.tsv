@@ -318,7 +318,7 @@ id	namespace	key	source_hash	AR	status	note
 07336	kh3_event_tt.tt211a	tt2110080go0	1155bbdc	هل تعملون لدى العم سكروج<br>هنا في المطعم?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07337	kh3_event_tt.tt211a	tt2110090hi0	c0c9166c	امم... هل نعمل لديه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07338	kh3_event_tt.tt211a	tt2110100or0	ec195a4d	أعطانا عملا قصيرا<br>لنعلق هذه الملصقات الخاصة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-07339	kh3_event_tt.tt211a	tt2110110or0_1	5cc64492	السيد ماكدك سيقيم مهرجانا للأفلام<br>في الهواء الطلق في الساحة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07339	kh3_event_tt.tt211a	tt2110110or0_1	5cc64492	السيد ماكدك سيقيم مهرجانا للأفلام<br>في الهواء الطلق في الفناء.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07340	kh3_event_tt.tt211a	tt2110110or0_2	4e73eb7c	رائع، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07341	kh3_event_tt.tt211a	tt2110120or0_1	5e1843b5	آه. سورا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07342	kh3_event_tt.tt211a	tt2110120or0_2	4cadec5b	وجه هاتفك نحو الملصق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -443,7 +443,7 @@ id	namespace	key	source_hash	AR	status	note
 07461	kh3_event_tt.tt484a	tt4840100x40	4b928e7f	سيدي العزيز. أنت بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07462	kh3_event_tt.tt484a	tt4840110hi0	eccebed2	من هناك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07463	kh3_event_tt.tt484a	tt4840120dz0_1	4d0001e1	إيفن، هل هذا أنت?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-07464	kh3_event_tt.tt484a	tt4840120dz0_2	5fb5ae0f	إذن... أولئك اللا أحد كانوا من صنعك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07464	kh3_event_tt.tt484a	tt4840120dz0_2	5fb5ae0f	إذن... أنت وراء ما فعله أولئك اللا أحد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07465	kh3_event_tt.tt484a	tt4840130x40	e43bc3b5	كنت أنتظر هذا. تخليت عن حياة طبيعية<br>لكي أزرع نفسي في المنظمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07466	kh3_event_tt.tt484a	tt4840130x40b	92fbbf7c		todo	
 07467	kh3_event_tt.tt484a	tt4840130x41	5c87a4d0	وحين سمعت أن زيهانورت ذهب للبحث عنك،<br>أدركت أنها فرصتي لأجدك أنا أيضا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -494,7 +494,7 @@ id	namespace	key	source_hash	AR	status	note
 07512	kh3_event_tt.tt663a	tt6630120ma0_1	fede87c4	ستأتيك قريبا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07513	kh3_event_tt.tt663a	tt6630120ma0_2	ec6b282a	ما إن أحصل على الصندوق، حتى يبدأ عملنا الحقيقي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07514	kh3_event_tt.tt663a	tt6630130pe0	ffb6309b		todo	
-07515	kh3_event_tt.tt671a	tt6710010x80	d1c76a59	حسنا يا روكساس... كان يجب أن أكون هنا<br>من أجلك منذ زمن، لكن ها نحن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+07515	kh3_event_tt.tt671a	tt6710010x80	d1c76a59	حسنا يا روكساس... كان يجب أن أكون إلى جانبك<br>قبل الآن، لكن ها نحن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07516	kh3_event_tt.tt671a	tt6710020x70	a74e353f	ألا يجب أن تودع موطنك <i(on)>الحقيقي<i(off)>?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07517	kh3_event_tt.tt671a	tt6710040x80	fa4dba46	لماذا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 07518	kh3_event_tt.tt671a	tt6710050x70	460a93ac	لست هنا لأقاتل. استرخ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

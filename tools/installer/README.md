@@ -1,13 +1,13 @@
 # مثبت KH3RM_AR — Windows وLinux
 
-الإصدار **0.9.0**. يضم ملف واحد حزمتين:
-- حزمة النص BUILD-8 (`pakchunk99-arabic_P.pak`، 4,890,167 بايت) وفيها تصحيحات مراجعة الدفعات الأربع؛ تثبت دائما.
-- حزمة الصور IMAGES-MASS3 (`pakchunk98-arabic-images_P.pak`، 41,083,305 بايت)، اختيارية: تنسخ فقط عند تفعيل خانة «تثبيت حزمة الصور أيضًا». الخانة غير مفعلة افتراضيا، وتظهر مفعلة إذا كانت حزمة الصور مثبتة من قبل في المجلد المختار.
+الإصدار **0.9.1**. يضم ملف واحد حزمتين:
+- حزمة النص BUILD-10 (`pakchunk99-arabic_P.pak`، 4,890,202 بايت) وفيها تصحيحات مراجعة الدفعات الأربع؛ تثبت دائما.
+- حزمة الصور IMAGES-MASS4 (`pakchunk98-arabic-images_P.pak`، 41,492,782 بايت)، اختيارية: تنسخ فقط عند تفعيل خانة «تثبيت حزمة الصور أيضًا». الخانة غير مفعلة افتراضيا، وتظهر مفعلة إذا كانت حزمة الصور مثبتة من قبل في المجلد المختار.
 
 ## التشغيل
 
-- Windows x64: شغل `KH3RM_AR_Setup_v0.9.0_windows-x64.exe`.
-- Linux x64، ومنها Steam Deck: فك `KH3RM_AR_Setup_v0.9.0_linux-x64.tar.gz` وشغل `KH3RM_AR_Setup` من المجلد. اللعبة نفسها تعمل عبر Steam/Proton؛ هذا مثبت التعريب وليس منفذا للعبة.
+- Windows x64: شغل `KH3RM_AR_Setup_v0.9.1_windows-x64.exe`.
+- Linux x64، ومنها Steam Deck: فك `KH3RM_AR_Setup_v0.9.1_linux-x64.tar.gz` وشغل `KH3RM_AR_Setup` من المجلد. اللعبة نفسها تعمل عبر Steam/Proton؛ هذا مثبت التعريب وليس منفذا للعبة.
 - .NET مضمن. Linux يحتاج جلسة رسومية X11 أو XWayland، ومكتبات النظام المعتادة: libX11، libICE، libSM، libfontconfig. لا تشغل المثبت كـroot؛ اختر مكتبة Steam التي يملكها مستخدمك.
 - يدعم اكتشاف مكتبات Steam من libraryfolders.vdf وappmanifest، ومنها Steam Flatpak وXDG_DATA_HOME. Epic يكتشف تلقائيا على Windows؛ Linux يمكن اختيار مجلد تثبيت اللعبة يدويا.
 - أغلق اللعبة، اختر مجلدها، فعّل خانة الصور إن أردتها، ثم ثبت التعريب. يرفض البرنامج العمل واللعبة تعمل، ويفحص عمليات Proton/Wine على Linux.
@@ -17,13 +17,18 @@
 ## البناء
 
 ```powershell
-dotnet publish tools/installer/Installer.csproj -c Release -r win-x64 --self-contained true -o out/release/v0.9.0/windows
-dotnet publish tools/installer/Installer.csproj -c Release -r linux-x64 --self-contained true -o out/release/v0.9.0/linux
+dotnet publish tools/installer/Installer.csproj -c Release -r win-x64 --self-contained true -o out/release/v0.9.1/windows
+dotnet publish tools/installer/Installer.csproj -c Release -r linux-x64 --self-contained true -o out/release/v0.9.1/linux
 ```
 
-يفترض البناء وجود BUILD-8 وIMAGES-MASS3 تحت out/builds، ويتوقف إذا غابت إحداهما. يمكن تمرير `-p:PakPath=...` و`-p:ImagesPakPath=...`؛ يجب أن تطابق الحزمتان Core.ExpectedSha وCore.ImagesSha. في بيئة SDK Windows التي يفشل فيها workload resolver: مرر `-p:MSBuildEnableWorkloadResolver=false`.
+يفترض البناء وجود BUILD-10 وIMAGES-MASS4 تحت out/builds، ويتوقف إذا غابت إحداهما. يمكن تمرير `-p:PakPath=...` و`-p:ImagesPakPath=...`؛ يجب أن تطابق الحزمتان Core.ExpectedSha وCore.ImagesSha. في بيئة SDK Windows التي يفشل فيها workload resolver: مرر `-p:MSBuildEnableWorkloadResolver=false`.
 
 الواجهة العربية افتراضية، والتبديل إلى الإنجليزية داخل التطبيق. `--demo` معاينة لا تسمح بالتثبيت أو الإزالة ولا تفحص اللعبة. `--render ar output.png` أو `--render en output.png` يلتقط الواجهة التجريبية ثم يغلق البرنامج. `--selftest out.txt` يشغل 37 فحصا على مجلدات مؤقتة فقط. الملفات القديمة MainWindow.xaml وApp.xaml وEmblem محفوظة للتاريخ لكنها مستبعدة من Compile.
+
+## ما تغير في 0.9.1
+
+- حزمة النص BUILD-10 بدل BUILD-8.
+- حزمة الصور IMAGES-MASS4 بدل IMAGES-MASS3.
 
 ## ما تغير في 0.9.0
 

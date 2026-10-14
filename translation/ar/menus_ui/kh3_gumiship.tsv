@@ -110,7 +110,7 @@ id	namespace	key	source_hash	AR	status	note
 10691	kh3_gumiship.cockpit	alarm_0040	d16cc18f	الطيار الآلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 10692	kh3_gumiship.cockpit	alarm_0050	1dc6c111	تحذير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 10693	kh3_gumiship.cockpit	battle_0010	a54d6dd8	المضاعف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-10694	kh3_gumiship.cockpit	battle_0020	2bc26a3b	تم الحصول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+10694	kh3_gumiship.cockpit	battle_0020	2bc26a3b	مكتسب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 10695	kh3_gumiship.cockpit	battle_0030	e7686aa5	مكافأة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 10696	kh3_gumiship.cockpit	battle_0200	85dcf3d9	اهزم بلا قلب العملاق!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 10697	kh3_gumiship.cockpit	battle_0210	4976f347	اعترض العدو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -263,7 +263,7 @@ id	namespace	key	source_hash	AR	status	note
 10844	kh3_gumiship.edit	memo_0033	9dfbb047	لا يمكنك حفظ مخطط يحوي قدرات لم تتعلمها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 10845	kh3_gumiship.edit	memo_0040	858b16b0	إدخال الاسم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 10846	kh3_gumiship.edit	memo_0050	4921162e	هذا الاسم محظور.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-10847	kh3_gumiship.edit	memo_0060	c7ae11cd	يجب ألا يتجاوز الاسم 5 أرقام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+10847	kh3_gumiship.edit	memo_0060	c7ae11cd	يجب ألا يتجاوز الاسم 5 أحرف.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 10848	kh3_gumiship.edit	memo_0070	0b041153	حفظ سفينة الغامي كمخطط أصلي?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 10849	kh3_gumiship.edit	memo_0080	d22403ff	هيراغانا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 10850	kh3_gumiship.edit	memo_0090	1e8e0361	كاتاكانا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

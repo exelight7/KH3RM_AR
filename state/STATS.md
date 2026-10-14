@@ -6,14 +6,14 @@
 | items_abilities | 2334 | 2160 (92.5%) | 2160 (92.5%) | 2160 (92.5%) | 3 (0.1%) |
 | journal | 628 | 615 (97.9%) | 615 (97.9%) | 615 (97.9%) | 0 (0.0%) |
 | menus_ui | 3849 | 3605 (93.7%) | 3605 (93.7%) | 3605 (93.7%) | 94 (2.4%) |
-| remind | 1163 | 1126 (96.8%) | 1122 (96.5%) | 1126 (96.8%) | 0 (0.0%) |
-| subtitles_cutscenes | 6336 | 6083 (96.0%) | 6078 (95.9%) | 6083 (96.0%) | 1 (0.0%) |
+| remind | 1163 | 1126 (96.8%) | 1126 (96.8%) | 1126 (96.8%) | 0 (0.0%) |
+| subtitles_cutscenes | 6336 | 6083 (96.0%) | 6083 (96.0%) | 6083 (96.0%) | 1 (0.0%) |
 | tutorials | 614 | 613 (99.8%) | 613 (99.8%) | 613 (99.8%) | 0 (0.0%) |
-| TOTAL | 17222 | 16415 (95.3%) | 16406 (95.3%) | 16415 (95.3%) | 98 (0.6%) |
+| TOTAL | 17222 | 16415 (95.3%) | 16415 (95.3%) | 16415 (95.3%) | 98 (0.6%) |
 | images | 42 | 42 (100.0%) | 0 (0.0%) | 17 (40.5%) | 0 (0.0%) |
 
-| images | textures with English | repaint plan | repainted | images repainted % |
-|---|---|---|---|---|
-| all groups | 324 | 234 | 211 | 90.2% |
+| images | textures with English | repaint plan | repainted | no translatable text | still English (unreadable) | images repainted % | of the textures with text |
+|---|---|---|---|---|---|---|---|
+| all groups | 324 | 234 | 213 | 17 | 4 | 91.0% | 213 / 217 = 98.2% |
 
 Translatable coverage = translated / (total rows - skip-audited rows) = 16415 / (17222 - 807) = 16415 / 16415 (100.0%)

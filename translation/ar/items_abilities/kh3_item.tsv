@@ -244,7 +244,7 @@ id	namespace	key	source_hash	AR	status	note
 12473	kh3_item.accessary	item_36	bda5ba13	تعويذة القمر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12474	kh3_item.accessary	item_37	0519dd76	تميمة النجمة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12475	kh3_item.accessary	item_38	5d7acd20	الفنون الكونية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-12476	kh3_item.accessary	item_39	e5c6aa45	شارة الكريستال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+12476	kh3_item.accessary	item_39	e5c6aa45	شارة البلورة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12477	kh3_item.accessary	item_40	920becd6	زر كم الماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12478	kh3_item.accessary	item_41	2ab78bb3	زر كم الصاعقة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12479	kh3_item.accessary	item_42	3802245d	زر كم النار	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -257,7 +257,7 @@ id	namespace	key	source_hash	AR	status	note
 12486	kh3_item.accessary	item_49	ef03a35c	خاتم الحظ	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12487	kh3_item.accessary	item_50	5ea1ec48	شارة ذكرى البودينغ	reviewed	unsure: pun flan + anniversary approximated; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12488	kh3_item.accessary	item_57	c376d4f1	الاختراق	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-12489	kh3_item.accessary	item_58	9b15c4a7	شارة الكريستال+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+12489	kh3_item.accessary	item_58	9b15c4a7	شارة البلورة+	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12490	kh3_item.accessary	detail_item_01	7576ee40	يمنح زيادة متوسطة في القوة،<br>وزيادة صغيرة في السحر،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12491	kh3_item.accessary	detail_item_02	67c341ae	يمنح زيادة صغيرة في القوة،<br>وزيادة متوسطة في السحر،<br>وزيادة طفيفة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12492	kh3_item.accessary	detail_item_03	df7f26cb	يمنح زيادة طفيفة في القوة،<br>وزيادة صغيرة في أقصى AP.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

@@ -231,7 +231,7 @@ id	namespace	key	source_hash	AR	status	note
 04912	kh3_event_mi.mi365a	mi3650010mk0	a4f1c6d0	لا فائدة. نحتاج إلى دفعة ضحك أكبر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04913	kh3_event_mi.mi365a	mi3650020su0	874096e1	هل تتفضل بالقيام بالمهمة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04914	kh3_event_mi.mi365a	mi3650030mk0	6e3fb05c	بكل سرور.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04915	kh3_event_mi.mi365a	mi3650050mk0	ea1c2d89	40 – 0. انتهت المباراة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04915	kh3_event_mi.mi365a	mi3650050mk0	ea1c2d89	40 – 0. انتهى الشوط والمجموعة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04916	kh3_event_mi.mi365a	mi3650050mk1	52a04aec	لست أهلا لهذا المضرب.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04917	kh3_event_mi.mi365a	mi3650060mk0	45b56043	هيا. إنها نكتة عن التنس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04918	kh3_event_mi.mi365a	mi3650060mk1	fd090726	هل كان علي أن أختار تنس الطاولة?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

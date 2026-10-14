@@ -75,7 +75,7 @@ id	namespace	key	source_hash	AR	status	note
 09168	kh3_fieldvoice_ra.chat	goofy_0150	1644703d	سورا، ظننت أننا سنتفقد<br>البلدة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09169	kh3_fieldvoice_ra.chat	goofy_0160	98cb77de	أظنهم يقيمون مهرجانا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09170	kh3_fieldvoice_ra.chat	goofy_0170	54617740	مهلا، هل تلك ساحة<br>في آخر الشارع?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09171	kh3_fieldvoice_ra.chat	goofy_0180	8d4165ec	هل أنا الوحيد، أم أن<br>بلا قلب يتكاثرون?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09171	kh3_fieldvoice_ra.chat	goofy_0180	8d4165ec	هل يتهيأ لي، أم أن<br>بلا قلب يتكاثرون?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09172	kh3_fieldvoice_ra.chat	goofy_0190	41eb6572	أوشكنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09173	kh3_fieldvoice_ra.chat	goofy_0200	293aaca9	سورا، البرج!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09174	kh3_fieldvoice_ra.chat	goofy_0210	e590ac37	أظن أن رابونزل<br>وجدت شيئا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -137,7 +137,7 @@ id	namespace	key	source_hash	AR	status	note
 09230	kh3_fieldvoice_ra.chat	rapunzel_0510	d6e8579c	آه، ربما تريد أن ترينا<br>شيئا. لنتبعها!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09231	kh3_fieldvoice_ra.chat	rapunzel_0520	5867507f	أظنها تريدنا أن نأخذ هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09232	kh3_fieldvoice_ra.chat	rapunzel_0530	94cd50e1	شكرا لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09233	kh3_fieldvoice_ra.chat	rapunzel_0590	050d4c29	الطيور طارت من هنا يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09233	kh3_fieldvoice_ra.chat	rapunzel_0590	050d4c29	الطيور طارت في ذلك الاتجاه يا سورا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09234	kh3_fieldvoice_ra.chat	rapunzel_0600	6ddc85f2	آه، ها هي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09235	kh3_fieldvoice_ra.chat	rapunzel_0610	a176856c	بلطف يا سورا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09236	kh3_fieldvoice_ra.chat	rapunzel_0620	2ff9828f	ببطء. ببطء شديد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

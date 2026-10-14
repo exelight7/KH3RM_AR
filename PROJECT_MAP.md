@@ -21,6 +21,11 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 
 ## 3. Current phase, last round, next step
 
+- **RELEASE-091 (2026-10-14, built + installed + PUBLISHED):** GitHub pre-release **0.9.1** https://github.com/exelight7/KH3RM_AR/releases/tag/0.9.1 (5 assets: installer exe + Linux tar.gz + BUILD-10 text pak 89e00ead... + IMAGES-MASS4 images pak + SHA256SUMS). **IMAGES-MASS4** (`texture_text.py mass`, sha e8ebf70a..., 41,492,782 B, 214 textures, 1,356 boxes, checks 0 FAIL, 428 files list / hash-list / unpack + uexp re-parse PASS; 423 MASS3 files byte-identical, 1 changed on purpose = HelpItem50600 because row 10694 was reworded in BUILD-9, 4 new): the 23 keep items retried: 17 = NO-TEXT by pixel inspection (HudRight03 heart icon, 15 camera / button pictures, the keyboard key-name picture); HudKairi_01 repainted (name rebuilt on a new plate grown from the Arabic text + 4 plate rows into the cleaned base bar, right edge feathered into the ornament, blurred flash regenerated from the new emblem: glow model fit rms 0.047, core 0.111); HelpItem50300 partly repainted (row 10693 at 18 px, contrast 244, 5 / 5 components); 4 gummi tutorial pictures stay English (two HUD words at 5-6 px: contrast 134-136 < 192, components broken). New readability gate (`texture_text.py`: contrast >= 192 + continuity vs a 64 px reference) for every texture new against MASS3; trial file `technical\images_rects_trial.tsv` (`texture_text.py trial`). **Figures:** repainted N = 213, no translatable text M = 17, unreadable K = 4 -> 213 of 217 textures with text (98.2 %); plan 213 / 234 (91.0 %). Installed via `SWAP_TO_IMAGES_MASS4.bat` (sha = pin; text pak still BUILD-10, `--installed` both PASS). Installer 0.9.1 (BUILD-10 + IMAGES-MASS4, 37/37 selftest PASS). README: 5 value / link lines only (BUILD name now the `{{BUILD}}` placeholder). Report: `state\LAST_REPORT.md`.
+- **Next step:** user checks in game the Kairi HUD name and the 42 rows changed since 0.9.0, and decides about the readability finding below (section 8); then the rounds of `docs\ROADMAP_TO_1.0.0.md` (1.0.0 still locked).
+- **BUILD-10 (2026-10-14, built + installed, NOT published):** text pak `tools\build_build10.py` (BUILD-9 pipeline unchanged), sha 89e00ead0a83e5d1cb07d257d98530541da447a5849c42f84ba9759dd4c7beea, 4,890,202 B; 73 files PASS (list = hash-list = unpack), round trip 16,391 exact + 24 same-visual + 0 fail, validator 98 flagged / 0 errors, overflow = the same 15 rows (new none, gone none); vs BUILD-9 20 entries differ = the 19 GPT Q3 ids + 17169 (Q4 fix); installed sha = pin, images pak d8d13948... unchanged, `--installed` 16,415 of 16,415 shaped rows found. Corrections: `reviewrrectionsbuild10_round.tsv` (`tools\make_build10_corrections.py`). Report: `state\LAST_REPORT.md`.
+- **REVIEW5-Q4 (2026-10-14, complete locally, nothing built / installed / published):** review of quarter Q4 (ids 12884-17222, 4,103 rows read in 14 pages of 300: level/map/menu/Theater/Premium Menu/minigame texts, Gummiphone story + reports + glossary + characters + enemy notes, settings, system, commands, abilities, game-over hints, tutorials); 1 fix applied (17169: the `<color(strong)>` highlight wrapped the verb as well as the term, now only the term like 17196 / 17212 / 17217), 5 doubts kept in `review\REVIEW5_Q4_QUESTIONS.md` (13402, 14360, 14373, 15494-15497, 14763); protected rows (Codex 137, BUILD-9 13, BUILD9_proposed, DECISIONS_NEEDED, 64 context items, Tangled) not touched; repeated-EN consistency pass done (only Set / Strength / pts pairs differ, see log); refresh 0 ERR (validator 98 flagged / 0 errors, unchanged), secret_check PASS. The fix waits for the next build. Report: `state\LAST_REPORT.md`; log `review\REVIEW5_Q4_LOG.md`.
+- **BUILD-9 (2026-10-14, built + installed, NOT published):** text pak `tools\build_build9.py` (BUILD-8 pipeline unchanged), sha 23ae437a..., 4,890,263 B; 73 files PASS (list = hash-list = unpack), round trip 16,391 exact + 24 same-visual + 0 fail, validator 98 flagged / 0 errors, overflow = the same 15 rows (new none). Vs BUILD-8: 22 entries = the 9 REVIEW5-Q1 fixes + 13 new corrections `review\corrections\build9_round.tsv` (5 DECIDE-19 B rows incl. 10847 in the plural form "5 أحرف", + GPT Q2 04538, 04915, 06712, 07464, 07515, 07903, 07339 «الفناء», 08531 «قصر الجليد»; glossary-checked). Installed via `SWAP_TO_BUILD9.bat` (sha = pin; images pak still d8d13948...). Not applied: GPT 06084, 05228, the 21 GPT Q2 QUESTIONS. Report: `state\LAST_REPORT.md`.
 - **REVIEW5-Q1 (2026-10-13, complete locally, FAQ line 6 published):** review of quarter Q1 (ids 00001-04248, 4,104 rows read in 14 pages, event dialogue / camp / config / character names); 9 fixes applied (00114 addressee number, 00828 meaning, 00874 + 02487 + 02534 repeated-line wording, 00979 addressee number, 02373 meaning, 02882 dropped word, 04043 addressee gender), 3 doubts kept as questions; refresh 0 ERR (validator 98 flagged / 0 errors, unchanged), secret_check PASS. No build, no install, no release: fixes wait for BUILD-9. Report: `state\LAST_REPORT.md`; log `review\REVIEW5_Q1_LOG.md`.
 - **PUBLIC-CLEANUP (2026-10-13, PUBLISHED):** `make_public.py` no longer copies root `*.bat`; 18 .bat git-rm'd from public main (b5b5d99); `docs/TESTER_GUIDE.md` removal line now points to the installer / manual pak delete. README unchanged; release 0.9.0 still 5 assets, pre-release. Report: `state\LAST_REPORT.md`.
 - **PUBLISH-090 (2026-10-13, PUBLISHED):** README lines 49 / 59 accepted; `tools\publish.bat` pushed public main (24b0334); GitHub pre-release 0.9.0 with 5 assets (sizes + sha256 digests match SHA256SUMS), isPrerelease true: https://github.com/exelight7/KH3RM_AR/releases/tag/0.9.0. Notes say SpecialShip_02 / ps4 HelpItem30402 not yet seen in game and images pack is optional. Report: `state\LAST_REPORT.md`.
@@ -66,6 +71,8 @@ Full supervisor instructions: [docs/SUPERVISOR.md](docs/SUPERVISOR.md). Key rule
 
 ## 4. Decisions already made
 
+- 2026-10-14 RELEASE-091 (executor, within the user's round prompt): a texture is NO-TEXT when pixel inspection finds no words (button glyphs, counters, icons, key names); NO-TEXT textures stay in the 234 plan but are reported apart (M). Image readability = measured at the real size with the shipping renderer: 75th-percentile stroke coverage >= 192 and 8-connected components (coverage >= 128) between ref - k and ref of a 64 px rendering (k = letters with 2-3 dots; below 24 px only); every texture new against the previous images build must pass it, earlier byte-identical textures are only reported. A texture may ship partly repainted when only some of its words pass (HelpItem50300). Earlier images files must stay byte-identical except textures that draw a row reworded since (`REWORDED` in `texture_text.py`, now 10694). The README's build name is a template placeholder.
+- 2026-10-14 REVIEW5-Q4 (executor, within the user's round prompt): split owners updated to Q1 = Claude, Q2 = GPT, Q3 = GPT, Q4 = Claude (`review\split\MANIFEST.md`); Q4 rows are reviewed with the REVIEW5-Q1 checks and only unambiguous defects are corrected. A plural / singular addressee doubt, a gender doubt or a width-dependent wording (pts plural, Popcat group) goes to QUESTIONS and is not decided here; tag content scope: a highlight tag wraps the term that EN highlights, not the surrounding verb (17169).
 - 2026-10-13 REVIEW5-Q1 (executor, within the user's round prompt): the 16,415 translated / reviewed / verified rows (807 `todo` skip rows and 42 image strings excluded) are split by ascending id into 4 consecutive quarters (4,104 / 4,104 / 4,104 / 4,103; `review\split\Q1_ids.tsv` ... `Q4_ids.tsv`, `MANIFEST.md`); owners: Q1 = Claude, Q2 = GPT, Q3 and Q4 reserved (nobody touches them). An owner opens corrections only for ids of the own quarter; the 137 Codex corrections, the 5 BUILD9_proposed rows, DECISIONS_NEEDED items, the 64 context items and Tangled are never changed by a review (doubts go to `review\REVIEW5_Q1_QUESTIONS.md`). The plural rendering of the 10 identical "wait" rows stays as it is; repeated EN lines in Q1 were harmonised to the majority wording only where nothing but taste differed (rows 00874, 02487, 02534); gender/number variants were left.
 
 - PUBLIC-CLEANUP: root swap/remove .bat scripts stay private only; docs
@@ -149,8 +156,8 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | 2026-10-10 | **Cloud review:** private repo `KH3RM_AR_work` (github.com/exelight7/KH3RM_AR_work, PRIVATE, EN + AR workspace for cloud Claude sessions, `cloud_repo\` here, branch main, never public); public repo `KH3RM_AR` stays Arabic-only; **1.0.0 is LOCKED until (a) cloud second-pass review of all dialogue and subtitles is merged, (b) image phase done, (c) the user says go.** Cloud sessions follow `CLOUD_RULES.md`, ranges in `review\cloud\TASKS.md`, workflow `docs\CLOUD_WORKFLOW.md`, sync `tools\sync_cloud.bat` | user, CLOUD-PREP |
 | 2026-10-10 | Cloud corrections: `review\corrections\cloud\<page>.tsv` (same 4 columns; new_AR == old_AR marks a row as checked) are applied by `apply_corrections.py` and set status reviewed (verified kept) + note `cloud review pass 2`; sync replays the cloud corrections (old_AR must match) instead of copying TSVs, so local changes are never overwritten | executor, CLOUD-PREP |
 | 2026-10-10 | General note: the user tested BUILD-5/6 in game and reported OK, no screenshots (2026-10-10); no row is marked verified because of it | user, CLOUD-PREP |
-| 2026-10-10 | Cloud sync: parallel cloud branches may correct the same id; `apply_corrections` merges identical results and a check mark (new == old) with one real change (the real change wins); two different real changes stay a refusal. Glossary aligned to the corrected rows: Diving Strike = ability-row form, Powerwild / Frost Serpent = bestiary-row forms, Monsters Inc = the short menu form (no "limited"..."needs new wording"); installer 0.9.0 images-pack checkbox is planned in `docs\INSTALLER_0.9.0_PLAN.md`, no code yet | user, LIGHT-2 |
-| 2026-10-13 | INSTALL-8: BUILD-8 and IMAGES-MASS2 installed by the executor via the approved swap scripts (user approval in chat); swap scripts are run with `cmd /c .\SWAP_*.bat <NUL` from the project root, never Git Bash | user, INSTALL-8 |
+| 2026-10-10 | Cloud sync: parallel cloud branches may correct the same id; `apply_corrections` merges identical results and a check mark (new == old) with one real change (the real change wins); two different real changes stay a refusal. Glossary aligned to the corrected rows: Diving Strike = ability-row form, Powerwild / Frost Serpent = bestiary-row forms, Monsters Inc = the short menu form (no "limited"..."needs new wording"..."أحرف") + 8 GPT Q2 ids (04538, 04915, 06712, 07464, 07515, 07903, 07339, 08531); GPT 06084 / 05228 and all other GPT rows not applied; executor ran `SWAP_TO_BUILD9.bat` itself on the user's approval | user, BUILD-9 |
+| 2026-10-14 | BUILD-10: supervisor approved 12 direct GPT Q3 ids (08565, 08607, 08713, 08734, 09171, 09233, 09816, 09966, 10042, 10082, 10197, 10294) + 7 glossary-gated (10502, 10521, 10517, 11557, 11568, 12476, 12489); all 19 passed old_AR + validate + glossary checks, 0 skipped; 10882 / 10883 / 11500 and the other GPT rows not applied; executor ran `SWAP_TO_BUILD10.bat` (sha pinned). |
 | 2026-10-11 | **Public README and public user docs (README, TESTER_GUIDE, FAQ, issue template, LICENSE_TODO, release notes) are Arabic only**; commands, file names and technical terms (Steam, Epic, SHA256, SmartScreen) stay Latin; no English game text; `make_public.py` + `tools\public_templates\README.md` generate it so a sync cannot restore the AR+EN version | user, README-AR |
 
 ## 5. Folders and key files (auto)
@@ -170,6 +177,7 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | `REMOVE_IMAGES.bat` | chcp 65001 >nul |
 | `REMOVE_IMAGES_PILOT.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD1.bat` | chcp 65001 >nul |
+| `SWAP_TO_BUILD10.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD2.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD3.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD4.bat` | chcp 65001 >nul |
@@ -177,11 +185,13 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | `SWAP_TO_BUILD6.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD7.bat` | chcp 65001 >nul |
 | `SWAP_TO_BUILD8.bat` | chcp 65001 >nul |
+| `SWAP_TO_BUILD9.bat` | chcp 65001 >nul |
 | `SWAP_TO_F1.bat` | chcp 65001 >nul |
 | `SWAP_TO_F2.bat` | chcp 65001 >nul |
 | `SWAP_TO_IMAGES_MASS.bat` | chcp 65001 >nul |
 | `SWAP_TO_IMAGES_MASS2.bat` | chcp 65001 >nul |
 | `SWAP_TO_IMAGES_MASS3.bat` | chcp 65001 >nul |
+| `SWAP_TO_IMAGES_MASS4.bat` | chcp 65001 >nul |
 | `SWAP_TO_IMAGES_PILOT.bat` | chcp 65001 >nul |
 | `SWAP_TO_TEST50.bat` | chcp 65001 >nul |
 | `cloud_repo\` | (no description) |
@@ -207,6 +217,8 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | `review\INDEX.md` | Review index |
 | `review\REVIEW5_Q1_LOG.md` | REVIEW5 Q1 log |
 | `review\REVIEW5_Q1_QUESTIONS.md` | REVIEW5 Q1 questions |
+| `review\REVIEW5_Q4_LOG.md` | REVIEW5 Q4 log |
+| `review\REVIEW5_Q4_QUESTIONS.md` | REVIEW5 Q4 questions |
 | `review\RULES.md` | Review workflow |
 | `review\SAME_AS_EN.tsv` | TSV, columns: id, category, file, key, EN, AR, status, why |
 | `review\SKIP_AUDIT.tsv` | TSV, columns: id, category, file, key, EN, class, note |
@@ -253,6 +265,7 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | `technical\TEXT_COUNTS.tsv` | TSV, columns: level, name, category, entries, empty, unique_texts, words, chars |
 | `technical\TEXT_COVERAGE.md` | TEXT_COVERAGE — every source of visible text (FULL-1) |
 | `technical\images_rects.tsv` | TSV, columns: asset, box, source, fill, align, effect, scale, pad, rotate, size, erase, note |
+| `technical\images_rects_trial.tsv` | TSV, columns: asset, box, source, fill, align, effect, scale, pad, rotate, size, erase, note |
 | `technical\images_words.tsv` | TSV, columns: asset, screen, english, plan, priority |
 | `technical\theater_order.tsv` | TSV, columns: event, theater_scene_key |
 | `tools\` | all scripts (Python 3.12, run from the project root) + repak |
@@ -263,6 +276,7 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | `tools\build_arabictest1.py` | ARABIC-TEST-1 build: NEW GAME (kh3_menu.title/menu_0002) in 3 variants + TresFont with Segoe UI Arabic in $sougei. |
 | `tools\build_arabictest2.py` | ARABIC-TEST-2 build: title screen in Arabic (translation\ rows with status != todo, shaped) for kh3_menu + kh3_settings, |
 | `tools\build_build1.py` | BUILD-1 build: every translated row of every category (status != todo, AR not empty) shaped into the en .locres, |
+| `tools\build_build10.py` | BUILD-10: the BUILD-9 pipeline unchanged (tools\build_build4.py via the same wrapper) run on the current translation\ TSVs |
 | `tools\build_build2.py` | BUILD-2 (FULL-1): the full build of tools\build_build1.py (every translated row, line breaking) with the FULL-1 |
 | `tools\build_build3.py` | BUILD-3 (TRANS-4): the BUILD-2 full build plus |
 | `tools\build_build4.py` | BUILD-4: the first full build with every translated row (all categories: story dialogue, subtitles, Re Mind, |
@@ -270,6 +284,7 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | `tools\build_build6.py` | BUILD-6: the BUILD-5 pipeline unchanged (tools\build_build4.py via the same wrapper as build_build5.py: same movie |
 | `tools\build_build7.py` | BUILD-7: the BUILD-6 pipeline unchanged (tools\build_build4.py via the same wrapper as build_build6.py: same movie |
 | `tools\build_build8.py` | BUILD-8: the BUILD-7 pipeline unchanged (tools\build_build4.py via the same wrapper as build_build7.py: same movie |
+| `tools\build_build9.py` | BUILD-9: the BUILD-8 pipeline unchanged (tools\build_build4.py via the same wrapper) run on the current translation\ TSVs |
 | `tools\build_test50.py` | TEST50 build: 50 test rows (menus, items, equipment, abilities, plural/acronym/set-letter rows, tutorials, |
 | `tools\cloud_check.py` | Cloud check (run after every page and by GitHub Actions): translation integrity + validate (0 ERR) + unit tests + secret scan. |
 | `tools\cloud_secret_check.py` | Check cloud_repo/ (or any directory / file list) before every push to the private cloud repo. Fails on: forbidden |
@@ -289,6 +304,8 @@ User authorization 2026-10-13: Graphify is adopted for the whole project; HTML/S
 | `tools\images_tutorial_rects.py` | Tutorial pictures (IMAGES-MASS): technical\images_work\tutorial_spec.tsv -> technical\images_rects.tsv rows for every |
 | `tools\import_kh2_glossary.py` | One-time/idempotent (GLOSS-1): import translation\kh2_glossary.md (finished KH2 project, Arabic Markdown tables) |
 | `tools\locres.py` | UE4 .locres reader/writer (legacy v0 and compact v1, as shipped by KH3 / UE 4.17). |
+| `tools\make_build10_corrections.py` | BUILD-10: generate review\corrections\build10_round.tsv from review\gpt\Q3\proposals.tsv (approved ids only). |
+| `tools\make_build9_corrections.py` | BUILD-9: generate review\corrections\build9_round.tsv from review\proposed\BUILD9_proposed.tsv (+ 10847 wording from |
 | `tools\make_cloud.py` | Regenerate cloud_repo\ (git repo of the PRIVATE github.com/exelight7/KH3RM_AR_work) from the private project: exactly what a Linux |
 | `tools\make_glossary.py` | translation\glossary.tsv (source of truth) -> recount kh3_count/example_ids from translation\<cat>\*.tsv EN |
 | `tools\make_public.py` | Regenerate public_repo\ (a clone of github.com/exelight7/KH3RM_AR) from the private project. Never copies game files, |
@@ -378,18 +395,22 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 | items_abilities | 2334 | 2160 (92.5%) | 2160 (92.5%) | 2160 (92.5%) | 3 (0.1%) |
 | journal | 628 | 615 (97.9%) | 615 (97.9%) | 615 (97.9%) | 0 (0.0%) |
 | menus_ui | 3849 | 3605 (93.7%) | 3605 (93.7%) | 3605 (93.7%) | 94 (2.4%) |
-| remind | 1163 | 1126 (96.8%) | 1122 (96.5%) | 1126 (96.8%) | 0 (0.0%) |
-| subtitles_cutscenes | 6336 | 6083 (96.0%) | 6078 (95.9%) | 6083 (96.0%) | 1 (0.0%) |
+| remind | 1163 | 1126 (96.8%) | 1126 (96.8%) | 1126 (96.8%) | 0 (0.0%) |
+| subtitles_cutscenes | 6336 | 6083 (96.0%) | 6083 (96.0%) | 6083 (96.0%) | 1 (0.0%) |
 | tutorials | 614 | 613 (99.8%) | 613 (99.8%) | 613 (99.8%) | 0 (0.0%) |
-| TOTAL | 17222 | 16415 (95.3%) | 16406 (95.3%) | 16415 (95.3%) | 98 (0.6%) |
+| TOTAL | 17222 | 16415 (95.3%) | 16415 (95.3%) | 16415 (95.3%) | 98 (0.6%) |
 | images | 42 | 42 (100.0%) | 0 (0.0%) | 17 (40.5%) | 0 (0.0%) |
-| images | textures with English | repaint plan | repainted | images repainted % |
-|---|---|---|---|---|
-| all groups | 324 | 234 | 211 | 90.2% |
+| images | textures with English | repaint plan | repainted | no translatable text | still English (unreadable) | images repainted % | of the textures with text |
+|---|---|---|---|---|---|---|---|
+| all groups | 324 | 234 | 213 | 17 | 4 | 91.0% | 213 / 217 = 98.2% |
 
 ## 8. Open questions
 
-- REVIEW5-Q1: public FAQ.md line 6 reworded (REMOVE_AR.bat no longer mentioned; closed). Open: the 9 Q1 fixes (`review\corrections\applied\review5_q1_*.tsv`) wait for BUILD-9 together with the 5 BUILD9_proposed rows and the accepted GPT Q2 fixes; 3 Q1 doubts in `review\REVIEW5_Q1_QUESTIONS.md` (00770, 01201, 01626) need the supervisor; Q3 / Q4 are reserved and unreviewed.
+- RELEASE-091: by the new readability measure, 522 of the 1,346 drawn boxes of the earlier IMAGES-MASS3 textures (107 textures, mostly 5-11 px) are below the bar (`out\builds\IMAGES-MASS4\repaint_log.tsv`, column readability); they shipped before and stay unchanged. Supervisor: look at a few in game and say whether to keep them, enlarge where room allows, or return the worst to English. Also open: in-game check of the Kairi HUD name (flash copy included) and of the partly repainted gummi weapons picture (4 small HUD words stay English there); the 42 text rows changed since 0.9.0 are still unseen in game; Linux installer still unrun on Linux; installer install / remove never run on the real game folder.
+- REVIEW5-Q4: the 1 Q4 fix (`review\corrections\applied\review5_q4_p14.tsv`, row 17169) waits for the next build; 5 Q4 doubts in `review\REVIEW5_Q4_QUESTIONS.md` need the supervisor: 13402 / 14360 / 14373 (plural imperative where the player is addressed in the singular elsewhere), 15494-15497 (Popcat number and gender differ from 15493), 14763 vs 15593 (same EN, `نقاط` vs `من النقاط`; Premium Menu cell widths not seen in game). Q3 (GPT) is the only quarter still unreviewed.
+- BUILD-9: installed, in-game check pending (14238 title width, 10847 wording); publish waits for the supervisor. Still open: GPT Q2 06084 and 05228 (not applied), the 21 GPT Q2 QUESTIONS (`review\gpt\Q2\QUESTIONS.tsv`), 3 Q1 doubts (00770, 01201, 01626), Q3 (GPT) unreviewed; Q4 reviewed in REVIEW5-Q4 (1 fix, 5 doubts).
+- BUILD-10: installed, in-game check pending (the 19 changed rows); publish waits for the supervisor. Still open as before; GPT Q3 rows outside the 19 ids (10882, 10883, 11500 and the rest) are not applied.
+- REVIEW5-Q1: public FAQ.md line 6 reworded (REMOVE_AR.bat no longer mentioned; closed). Open: the 9 Q1 fixes (`review\corrections\applied\review5_q1_*.tsv`) wait for BUILD-9 together with the 5 BUILD9_proposed rows and the accepted GPT Q2 fixes; 3 Q1 doubts in `review\REVIEW5_Q1_QUESTIONS.md` (00770, 01201, 01626) need the supervisor; Q4 was reviewed in REVIEW5-Q4; Q3 is GPT's and still unreviewed.
 - PUBLISH-090: README lines 49 / 59 accepted and published; 0.9.0 pre-release is live. Open: in-game check of the 2 new textures, Linux runtime, DECIDE-19.
 
 - DECIDE-19: supervisor to confirm or overrule `review\DECISIONS_ANSWERED.md` and say which rows of `review\proposed\BUILD9_proposed.tsv` become corrections (10847 plural form "5 حروف"..."5 أحرف", 14238 title width not yet seen in game). 10 items stay LEAVE (need new wording from the supervisor: 11946, 03280, 03556, 03566, 07579, 04052, 00331, 10348, Tangled 15281; 02369 already resolved).
@@ -469,6 +490,7 @@ From `state\STATS.md` (regenerated by `tools\stats.py`).
 - 2026-10-13 **OPUS-090** (4 entries) — last: D/E: PROJECT_MAP 3/4/8, CHANGELOG, README template (0.9.0, BUILD-8), make_public temp run + public_check PASS, vault notes; refresh 0 ERR, secret_check PASS; private commit. RESUME: user installs BUILD-8 (+ IMAGES-MASS2) from cmd and confirms -> build_build8.py --installed -> publish.bat -> gh release create 0.9.0 (commands in state\LAST_REPORT.md).
 - 2026-10-13 **RELEASE-090** (5 entries) — last: 6/7: docs\ROADMAP_TO_1.0.0.md (Arabic), PROJECT_MAP 3/4/8, CHANGELOG; refresh, secret_check, private commit. RESUME: user says yes/no to README lines 49/59 -> (no: revert those 2 template lines) -> tools\refresh.bat -> tools\publish.bat -> gh release create 0.9.0 --prerelease with the 5 assets of out\release\v0.9.0 (command in state\LAST_REPORT.md).
 - 2026-10-13 **REVIEW5-Q1** (3 entries) — last: 3: no build, no install, no release (fixes wait for BUILD-9); PROJECT_MAP 3/4/8, CHANGELOG, refresh, secret_check PASS, private commit REVIEW5-Q1, publish (FAQ + generated docs). RESUME: BUILD-9 takes review5_q1 fixes + 5 BUILD9_proposed rows + accepted GPT Q2 fixes.
+- 2026-10-14 **RELEASE-091** (3 entries) — last: 4-7 installer 0.9.1 (BUILD-10 + IMAGES-MASS4) win-x64 + linux-x64, 37/37 selftest PASS; out\release\v0.9.1 (5 assets + Arabic notes); README 5 value/link lines only ({{BUILD}} placeholder), public_check PASS on TEMP; refresh 0 ERR, secret_check PASS, publish.bat, pre-release 0.9.1; PROJECT_MAP 3/4/8, CHANGELOG, ROADMAP status. RESUME: in-game check of the Kairi name and the 42 changed rows; decision on the 522 earlier image boxes under the readability bar.
 
 ## 10. Public repository
 

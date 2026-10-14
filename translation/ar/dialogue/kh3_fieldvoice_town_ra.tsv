@@ -19,7 +19,7 @@ id	namespace	key	source_hash	AR	status	note
 09813	kh3_fieldvoice_town_ra.chat	man05_0020	de5e1589	تخيلي هذا: أنا وأنت في<br>قارب تحت النجوم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09814	kh3_fieldvoice_town_ra.chat	man05_0030	12f41517	لنجعله يوما<br>يسجله التاريخ!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09815	kh3_fieldvoice_town_ra.chat	man05_0040	18311c0e	نعم، وإن آذيت نفسك،<br>فماذا بعد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09816	kh3_fieldvoice_town_ra.chat	man05_0050	d49b1c90	حسنا، الأميرة مخطوبة.<br>احذف <i(on)>ذلك<i(off)> الحلم من القائمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09816	kh3_fieldvoice_town_ra.chat	man05_0050	d49b1c90	حسنا، الأميرة مرتبطة.<br>احذف <i(on)>ذلك<i(off)> الحلم من القائمة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09817	kh3_fieldvoice_town_ra.chat	man06_0010	08cfbb42	ماذا?! يجب أن نذهب لإصلاحه!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09818	kh3_fieldvoice_town_ra.chat	man06_0020	8640bca1	أنت تحب حقا مشاهدة<br>القوارب وهي تصل، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09819	kh3_fieldvoice_town_ra.chat	man07_0010	89eade65	لا أستطيع القول إنني سمعت.<br>ماذا عنه?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

@@ -19,7 +19,7 @@ id	namespace	key	source_hash	AR	status	note
 08731	kh3_fieldvoice_gm.chat	goofy_0080	16e42983	هل هو طريق مسدود?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08732	kh3_fieldvoice_gm.ui	chip_0010	8de6f552	مرحى، منطقة جديدة!<br>يجب أن تتفقدوها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08733	kh3_fieldvoice_gm.ui	chip_0020	0369f2b1	مرحى! المزيد من العوالم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-08734	kh3_fieldvoice_gm.ui	chip_0030	cfc3f22f	سورا، أظنك مستعد<br>لسفينة صغيرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+08734	kh3_fieldvoice_gm.ui	chip_0030	cfc3f22f	سورا، أظنك مستعدا<br>لسفينة صغيرة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08735	kh3_fieldvoice_gm.ui	chip_0040	c506fb36	عمل رائع!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08736	kh3_fieldvoice_gm.ui	chip_0050	09acfba8	هذا يكفي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 08737	kh3_fieldvoice_gm.ui	chip_0060	8723fc4b	اترك الأمر لنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
