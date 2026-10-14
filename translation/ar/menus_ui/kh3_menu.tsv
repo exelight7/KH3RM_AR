@@ -600,7 +600,7 @@ id	namespace	key	source_hash	AR	status	note
 14370	kh3_menu.shop	mission_0160	20451bc4	تلك الأسماك تسبح في الهواء، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14371	kh3_menu.shop	mission_0170	ecef1b5a	مهلا، كوبو... ذلك الأخضر يبدو مألوفا، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14372	kh3_menu.shop	mission_0180	35cf09f6	هو يساعد في إبعاد الطيور عن الحقول، كوبو.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-14373	kh3_menu.shop	mission_0190	f9650968	أروني سربا مخيفا من الظلال، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+14373	kh3_menu.shop	mission_0190	f9650968	أرني سربا مخيفا من الظلال، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14374	kh3_menu.shop	mission_0200	91b4c0b3	أحيي بتحية الموغل جميع أصدقائك الأشداء، كوبو!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14375	kh3_menu.shop	mission_detail_0010	91a71c3b	يبدو أن الموغل يريد صورة <color(strong)>نواة اللهب<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14376	kh3_menu.shop	mission_detail_0020	1f281bd8	يبدو أن الموغل يريد صورة <color(strong)>نواة الماء<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -719,7 +719,7 @@ id	namespace	key	source_hash	AR	status	note
 14760	kh3_menu.debugcood	menu_0020	3567979c	معطل	verified	FULL-1 screenshot (chat, 2026-10-09, BUILD-1 pak); cloud review pass 2
 14761	kh3_menu.debugcood	menu_0030	f9cd9702	السجل	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14762	kh3_menu.debugcood	menu_0040	f3089e1b	مجموع النقاط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-14763	kh3_menu.debugcood	menu_0050	3fa29e85	{0} {0}|plural(one=نقطة,other=نقاط)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+14763	kh3_menu.debugcood	menu_0050	3fa29e85	{0} {0}|plural(one=نقطة,other=من النقاط)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14764	kh3_menu.debugcood	menu_0060	b12d9966	الرتبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14765	kh3_menu.debugcood	menu_0070	7d8799f8	العالم	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14766	kh3_menu.debugcood	menu_0080	a4a78b54	النتيجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -814,5 +814,5 @@ id	namespace	key	source_hash	AR	status	note
 14855	kh3_menu.debugcood	dialog_0060_ps	885ea45a	<color(strong)>عند تفعيل رموز المعركة لا يمكن الحصول<br>على بعض الكؤوس.<br><br>عند تفعيل رمز أستاذ سفينة الغامي<br>لن تتمكن من الحصول على كأس<br>"منقذ الحطام" باستخدام بيانات الحفظ هذه.<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14856	kh3_menu.debugcood	dialog_0060_xb1	62546621	<color(strong)>عند تفعيل رموز المعركة لا يمكن الحصول<br>على بعض الإنجازات.<br><br>عند تفعيل رمز أستاذ سفينة الغامي<br>لن تتمكن بيانات الحفظ هذه من الحصول<br>على إنجاز "منقذ الحطام".<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14857	kh3_menu.debugcood	dialog_0070	8c680b27	<color(strong)>تفعيل رمز المعركة?<color> تفعيل رموز المعركة<br>سيجعلك غير مؤهل لنيل درجة استحقاق رموز المحترفين.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-14858	kh3_menu.debugcood	window_0010	4b001fcb	النقاط: {0} {0}|plural(one=نقطة,other=نقاط)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-14859	kh3_menu.debugcood	window_0020	c58f1828	النقاط: {0} {0}|plural(one=نقطة,other=نقاط) <color(strong)>رقم قياسي جديد<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+14858	kh3_menu.debugcood	window_0010	4b001fcb	النقاط: {0} {0}|plural(one=نقطة,other=من النقاط)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+14859	kh3_menu.debugcood	window_0020	c58f1828	النقاط: {0} {0}|plural(one=نقطة,other=من النقاط) <color(strong)>رقم قياسي جديد<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

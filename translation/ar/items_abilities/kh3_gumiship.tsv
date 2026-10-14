@@ -120,7 +120,7 @@ id	namespace	key	source_hash	AR	status	note
 11497	kh3_gumiship.item	decogumi_0710	a86c9fe8	سلسلة نيون/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11498	kh3_gumiship.item	decogumi_0720	26e3980b	قبة الرادار/G	reviewed	unsure: Radome = قبة الرادار; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11499	kh3_gumiship.item	decogumi_0730	ea499895	هوائي/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11500	kh3_gumiship.item	decogumi_0740	e08c918c	طبق قطعي/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11500	kh3_gumiship.item	decogumi_0740	e08c918c	قطع مكافئ/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11501	kh3_gumiship.item	decogumi_0750	2c269112	ضوء دائري/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11502	kh3_gumiship.item	decogumi_0760	a2a996f1	ضوء مربع/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11503	kh3_gumiship.item	decogumi_0770	6e03966f	ضوء وامض/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

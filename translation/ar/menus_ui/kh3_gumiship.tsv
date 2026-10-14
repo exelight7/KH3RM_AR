@@ -298,8 +298,8 @@ id	namespace	key	source_hash	AR	status	note
 10879	kh3_gumiship.edit	choice_0090	0b0dabbd	تحتاج إلى الأجزاء الموضحة أدناه<br>لاستخدام هذا المخطط.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 10880	kh3_gumiship.edit	choice_0100	8fe7fcf9	ستزال القدرات التي تتجاوز حد AP<br>تلقائيا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 10881	kh3_gumiship.edit	choice_0110	434dfc67	<icon(Square)> بناء سفينة صغيرة جديدة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-10882	kh3_gumiship.edit	choice_0120	cdc2fb84	لا يمكن نشر هذا المخطط لأنه<br>يحوي قدرات لا يمكنك تركيبها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-10883	kh3_gumiship.edit	choice_0130	0168fb1a	لا يمكن نشر هذا المخطط لأنه<br>يتجاوز حد التكلفة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+10882	kh3_gumiship.edit	choice_0120	cdc2fb84	لا يمكن استخدام هذا المخطط لأنه<br>يحوي قدرات لا يمكنك تركيبها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+10883	kh3_gumiship.edit	choice_0130	0168fb1a	لا يمكن استخدام هذا المخطط لأنه<br>يتجاوز حد التكلفة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 10884	kh3_gumiship.edit	choice_0140	0badf203	السفينة الرئيسية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 10885	kh3_gumiship.edit	choice_0150	c707f29d	لا يمكنك استخدام بعض القدرات المضمنة.<br>ستزال تلقائيا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 10886	kh3_gumiship.edit	choice_0160	4988f57e	لقد تجاوزت حد التكلفة، وعليك<br>إزالة بعض الكتل قبل حفظ هذا المخطط.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -661,7 +661,7 @@ id	namespace	key	source_hash	AR	status	note
 11242	kh3_gumiship.menu	config_0330	0e60ba5b	استخدم <icon(RstickLeft)> للنظر لليمين، و<icon(RstickRight)> للنظر لليسار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11243	kh3_gumiship.menu	config_0340	04a5b342	اضبط الشريط لتغيير سرعة تحرك الكاميرا<br>لأعلى ولأسفل عند استخدام وحدة التحكم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11244	kh3_gumiship.menu	config_0350	c80fb3dc	اضبط الشريط لتغيير سرعة تحرك الكاميرا<br>لليسار ولليمين عند استخدام وحدة التحكم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11245	kh3_gumiship.menu	landing_0010	1899c117	هبوط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11245	kh3_gumiship.menu	landing_0010	1899c117	هبط	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11246	kh3_gumiship.menu	landing_0020	9616c6f4	هيا بنا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11247	kh3_gumiship.menu	landing_0030	5abcc66a	ليس الآن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11248	kh3_gumiship.menu	landing_0040	5079cf73	اختر وجهة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

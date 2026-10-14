@@ -8,7 +8,7 @@
 
 القوائم والحوارات والمشاهد واليوميات والشروحات، بواجهة وخط عربي.
 
-**Windows · Linux** &nbsp; / &nbsp; **الإصدار 0.9.1 · تجريبي**
+**Windows · Linux** &nbsp; / &nbsp; **الإصدار 0.9.2 · تجريبي**
 
 [التنزيل](#التنزيل) &nbsp; · &nbsp; [التثبيت](#التثبيت) &nbsp; · &nbsp; [حالة المشروع](#حالة-المشروع) &nbsp; · &nbsp; [خريطة المشروع](#خريطة-المشروع)
 
@@ -20,12 +20,12 @@
 
 | Windows x64 | Linux x64 |
 |:---:|:---:|
-| **[↓ تنزيل المثبّت](https://github.com/exelight7/KH3RM_AR/releases/download/0.9.1/KH3RM_AR_Setup_v0.9.1_windows-x64.exe)** | **[↓ تنزيل الحزمة](https://github.com/exelight7/KH3RM_AR/releases/download/0.9.1/KH3RM_AR_Setup_v0.9.1_linux-x64.tar.gz)** |
+| **[↓ تنزيل المثبّت](https://github.com/exelight7/KH3RM_AR/releases/download/0.9.2/KH3RM_AR_Setup_v0.9.2_windows-x64.exe)** | **[↓ تنزيل الحزمة](https://github.com/exelight7/KH3RM_AR/releases/download/0.9.2/KH3RM_AR_Setup_v0.9.2_linux-x64.tar.gz)** |
 | شغّل المثبّت مباشرة | فك الضغط وشغّل `KH3RM_AR_Setup` |
 
 <div align="center">
 
-[تفاصيل الإصدار والملفات](https://github.com/exelight7/KH3RM_AR/releases/tag/0.9.1) &nbsp; · &nbsp; [دليل المثبّت](tools/installer/README.md)
+[تفاصيل الإصدار والملفات](https://github.com/exelight7/KH3RM_AR/releases/tag/0.9.2) &nbsp; · &nbsp; [دليل المثبّت](tools/installer/README.md)
 
 </div>
 
@@ -40,7 +40,7 @@
 <details>
 <summary><strong>التثبيت اليدوي</strong></summary>
 
-نزّل `pakchunk99-arabic_P.pak` من [صفحة الإصدار](https://github.com/exelight7/KH3RM_AR/releases/tag/0.9.1)، وضعه داخل مجلد اللعبة في:
+نزّل `pakchunk99-arabic_P.pak` من [صفحة الإصدار](https://github.com/exelight7/KH3RM_AR/releases/tag/0.9.2)، وضعه داخل مجلد اللعبة في:
 
 ```text
 KINGDOM HEARTS III/Content/Paks/~mods/
@@ -56,7 +56,7 @@ KINGDOM HEARTS III/Content/Paks/~mods/
 |:---:|:---:|:---:|
 | **100.0%** من النص القابل للترجمة | **٤ / ٤ دفعات** مكتملة | **98 سطرًا** · 0.6% |
 
-تضم الترجمة **16,415 سطرًا**. حزمة التنزيل الحالية هي BUILD-10 وفيها تصحيحات المراجعة الأخيرة، ومعها حزمة صور اختيارية. نسخة Linux مبنية، وتجربتها على جهاز Linux ما زالت مطلوبة.
+تضم الترجمة **16,415 سطرًا**. حزمة التنزيل الحالية هي BUILD-12 وفيها تصحيحات المراجعة الأخيرة، ومعها حزمة صور اختيارية. نسخة Linux مبنية، وتجربتها على جهاز Linux ما زالت مطلوبة.
 
 **وجدت مشكلة؟** [أرسل بلاغًا](https://github.com/exelight7/KH3RM_AR/issues/new/choose) مع لقطة شاشة ومكان ظهورها.
 

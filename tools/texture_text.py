@@ -36,10 +36,12 @@ Readability (RELEASE-091): every drawn box is measured at its real size with thi
   coverage >= 128 mask against a 64 px reference rendering (ref - k .. ref, k = letters with 2 or 3 dots that may
   merge into one blob; below 24 px only). Readable = contrast >= 192 and continuity. Textures that are new against
   IMAGES-MASS3 must be readable in every box; the MASS3 textures are byte-identical and only reported.
+BATCH-234 (IMAGES-MASS5): rows enlarged by tools\images_enlarge.py (note 'MASS5: size') must be readable themselves;
+  only their textures may differ from IMAGES-MASS4, the other boxes of the previous build are only reported.
 Usage: python -I tools\texture_text.py                    -> self check
-       python -I tools\texture_text.py mass [asset-substr] -> out\builds\IMAGES-MASS4\ assets, checks, ref sheets, pak
+       python -I tools\texture_text.py mass [asset-substr] -> out\builds\IMAGES-MASS5\ assets, checks, ref sheets, pak
        python -I tools\texture_text.py trial               -> technical\images_rects_trial.tsv rendered and measured
-                                                              (out\builds\IMAGES-MASS4\trial\, no pak)
+                                                              (out\builds\IMAGES-MASS5\trial\, no pak)
        python -I tools\texture_text.py --installed         -> the pak in ~mods = this build (sha)"""
 import csv, hashlib, os, re, subprocess, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -53,9 +55,10 @@ from tsvlib import load_translation
 RECTS = 'technical/images_rects.tsv'
 STRINGS = 'translation/images_strings.tsv'
 TRIAL = 'technical/images_rects_trial.tsv'
-OUT = 'out/builds/IMAGES-MASS4'                         # IMAGES-MASS .. IMAGES-MASS3 stay as built
-PREV = 'out/builds/IMAGES-MASS3/checks.tsv'             # textures of the previous build: readability only reported
-REWORDED = {'10694'}                                     # rows reworded after IMAGES-MASS3 (DECIDE-19 B, BUILD-9)
+OUT = 'out/builds/IMAGES-MASS5'                         # IMAGES-MASS .. IMAGES-MASS4 stay as built
+PREV = 'out/builds/IMAGES-MASS4/checks.tsv'             # textures of the previous build: readability only reported
+REWORDED = set()                                         # rows reworded after IMAGES-MASS4 that an image draws (none)
+ENLARGED = 'MASS5: size'                                 # BATCH-234 rect note (tools\images_enlarge.py): must be readable
 PAK = os.path.join(OUT, 'pakchunk98-arabic-images_P.pak')
 MODS = r'C:\Program Files (x86)\Steam\steamapps\common\KINGDOM HEARTS III\KINGDOM HEARTS III\Content\Paks\~mods'
 REPAK = os.path.abspath('tools/repak-0.2.3/repak.exe')
@@ -547,8 +550,11 @@ def edit_all(only='', rects=RECTS, out=OUT):
         mine = [l for l in log if l[0] == asset.split('/')[-1]]
         margins = [int(l[7]) for l in mine if l[7] not in ('-',)]
         low = sum('UNREADABLE' in l[8] for l in mine)
+        grown = [l for l in mine if ENLARGED in l[9]]                     # enlarged boxes must pass themselves
         readable = ('PASS' if not low else 'FAIL') if asset not in prev else \
-            'MASS3 (reported only' + (f': {low} box(es) under the bar)' if low else ')')
+            'FAIL' if any('UNREADABLE' in l[8] for l in grown) else \
+            'previous build (reported only' + (f': {low} box(es) under the bar' if low else '') + \
+            (f'; {len(grown)} enlarged box(es) READABLE)' if grown else ')')
         checks.append([asset, f"{pl['pf']} {pl['sx']}x{pl['sy']} mips {len(pl['mips'])}", 'PASS' if same else 'FAIL',
                        str(blocks), str(edit_out), str(int(enc.sum())), str(far), str(min(margins) if margins else '-'),
                        readable, 'PASS' if same and edit_out == 0 and far == 0 and (not margins or min(margins) >= MARGIN)
@@ -584,10 +590,11 @@ def mass(only='', rects=RECTS, out=OUT):
     same = [rel for rel in files if os.path.exists(os.path.join(old, rel))]   # except textures drawing a row that
     diff = [rel for rel in same if open(os.path.join(old, rel), 'rb').read() != files[rel]]   # was reworded since
     by = rows_by_asset()
-    allowed = {a[:-7] for a, rs in by.items() if any(re.search(r'\b(%s)\b' % '|'.join(REWORDED), r['source']) for r in rs)}
+    allowed = {a[:-7] for a, rs in by.items() if any(ENLARGED in r['note'] or REWORDED and
+                                                     re.search(r'\b(%s)\b' % '|'.join(REWORDED), r['source']) for r in rs)}
     assert all(rel.rsplit('.', 1)[0] in allowed for rel in diff), f'changed against {old}: {diff}'
-    print(f'{len(same) - len(diff)} files byte-identical to {old}; {len(diff)} changed by reworded rows '
-          f'{sorted(REWORDED)}: {diff}; {len(files) - len(same)} new')
+    print(f'{len(same) - len(diff)} files byte-identical to {old}; {len(diff)} changed on purpose (reworded rows '
+          f'{sorted(REWORDED)}, enlarged boxes in {len(allowed)} textures); {len(files) - len(same)} new')
     root = os.path.join(OUT, 'assets')
     for rel, data in files.items():
         os.makedirs(os.path.dirname(os.path.join(root, rel)), exist_ok=True)

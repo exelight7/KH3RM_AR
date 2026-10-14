@@ -30,7 +30,7 @@ id	namespace	key	source_hash	AR	status	note
 09123	kh3_fieldvoice_ra.chat	sora_0310	49cc736e	لنر...<br>أين توجد أكثر زهور الهندباء?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09124	kh3_fieldvoice_ra.chat	sora_0320	c743748d		todo	
 09125	kh3_fieldvoice_ra.chat	sora_0330	0be97413		todo	
-09126	kh3_fieldvoice_ra.chat	sora_0350	cd867d94	هذا كل شيء!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09126	kh3_fieldvoice_ra.chat	sora_0350	cd867d94	هذا هو!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09127	kh3_fieldvoice_ra.chat	sora_0360	43097a77		todo	
 09128	kh3_fieldvoice_ra.chat	sora_0370	8fa37ae9		todo	
 09129	kh3_fieldvoice_ra.chat	sora_0380	56836845		todo	
