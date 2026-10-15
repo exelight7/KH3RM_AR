@@ -167,7 +167,7 @@ id	namespace	key	source_hash	AR	status	note
 16169	kh3_system.command	reaction_0110	0447cd6e	تفاد سريع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 16170	kh3_system.command	reaction_0120	8ac8ca8d	الدفع للخلف	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 16171	kh3_system.command	reaction_0130	4662ca13	النهوض	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-16172	kh3_system.command	reaction_0140	4ca7c30a	الإيمان الصامد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16172	kh3_system.command	reaction_0140	4ca7c30a	فيث الصامد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 16173	kh3_system.command	reaction_0150	800dc394	النور الصامد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 16174	kh3_system.command	reaction_0160	0e82c477	الإزاحة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 16175	kh3_system.command	quickbattle_0010	da490b8e	رمية سريعة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

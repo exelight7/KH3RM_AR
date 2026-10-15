@@ -162,7 +162,7 @@ id	namespace	key	source_hash	AR	status	note
 17046	kh3_system.gameoverhint	enemy_6030	dc377ce5	حين يصيبك مقذوف النصل الوامض،<br>سينخفض HP الأقصى لديك مؤقتا.<br>احرص على تجهيز أغراض العلاج.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 17047	kh3_system.gameoverhint	level_he_0010	df28e97f	سيسهل عليك اختراق صفوف الأعداء إذا استخدمت<br><color(strong)>حماية ترينتي<color> والسحر.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 17048	kh3_system.gameoverhint	level_he_0110	448da510	استخدم أمر لعبة الملاهي الذي يظهر لتلقين العدو<br>درسا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-17049	kh3_system.gameoverhint	level_he_0210	331377e0	هجمات الماء مفيدة ضد لب اللهب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+17049	kh3_system.gameoverhint	level_he_0210	331377e0	هجمات الماء مفيدة ضد نواة اللهب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 17050	kh3_system.gameoverhint	level_he_0410	dc2ed200	اضغط مطولا على <icon(R2)> لتنفيذ هجوم سريع الطلقات.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 17051	kh3_system.gameoverhint	level_ts_0010	0059095e	حاول معرفة وجهة UFO، ثم تقدم عليه.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 17052	kh3_system.gameoverhint	level_ts_0020	8ed60ebd	ألعاب الجيغاس مفيدة لضرب UFO من مسافة بعيدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

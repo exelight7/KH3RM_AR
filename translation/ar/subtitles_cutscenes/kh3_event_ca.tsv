@@ -167,7 +167,7 @@ id	namespace	key	source_hash	AR	status	note
 01598	kh3_event_ca.ca405a	ca4050010x40_4	fc9da72e	لا بد أن السر في ذلك الصندوق.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01599	kh3_event_ca.ca405a	ca4050010x40_5	4421c04b	يجب أن أعرف ما يحويه من أسرار.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01600	kh3_event_ca.ca405a	ca4050020x00	953835f5	أعتقد أن أوامرنا كانت أن نجد الصندوق<br>ونستولي عليه. لا أكثر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-01601	kh3_event_ca.ca405a	ca4050020x00b	b489fa4a	لجم فضولك الجامح هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01601	kh3_event_ca.ca405a	ca4050020x00b	b489fa4a	ألجم فضولك الجامح هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01602	kh3_event_ca.ca405a	ca4050030x40_1	c828ad26	قصير النظر دائما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01603	kh3_event_ca.ca405a	ca4050030x40_2	da9d02c8	لماذا قد تبحث المنظمة عني<br>فور استعادتي اكتمالي—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01604	kh3_event_ca.ca405a	ca4050030x40_3	622165ad	إن لم يكن ذلك تأكيدا لبراعتي الفكرية<br>واستثمارا في أبحاثي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -569,7 +569,7 @@ id	namespace	key	source_hash	AR	status	note
 02000	kh3_event_ca.ca420b	ca4201070gb0	a7482e2a	عربتك بانتظارك يا صاحبة السمو.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02001	kh3_event_ca.ca420b	ca4201080bs0	f36518ae	سيدة تيرنر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02002	kh3_event_ca.ca420b	ca4201090do0	522ba26c	إليزابيث...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-02003	kh3_event_ca.ca420b	ca4201100go0	5c2cf84f	اعتن بنفسك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02003	kh3_event_ca.ca420b	ca4201100go0	5c2cf84f	اعتني بنفسك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02004	kh3_event_ca.ca420b	ca4201120ez0	4e822f13	جاك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02005	kh3_event_ca.ca420b	ca4201130ez0	2be51455	شكرا لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02006	kh3_event_ca.ca420b	ca4201140sr0	fa61e16f	يوم واحد ليس وقتا كافيا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

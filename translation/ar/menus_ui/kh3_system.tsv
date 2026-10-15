@@ -213,7 +213,7 @@ id	namespace	key	source_hash	AR	status	note
 16318	kh3_system.situation	fr_finish	5355a5df	إنهاء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 16319	kh3_system.situation	fr_dualbreaker	7d2bc499	المبارزة المزدوجة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 16320	kh3_system.situation	fr_bxfinish	9d941821	ضربة السماء	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-16321	kh3_system.situation	fr_poppingholy	fded1276	وابل الإيمان	reviewed	context: Faith (glossary item name) is a command word here; GLOSS flag expected; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+16321	kh3_system.situation	fr_poppingholy	fded1276	وابل فيث	reviewed	context: Faith (glossary item name) is a command word here; GLOSS flag expected; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 16322	kh3_system.situation	fr_blizzagaboard	88242f3c	المنزلق الجليدي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 16323	kh3_system.situation	fr_thinkofyou	8610cbd3	أفكر بك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 16324	kh3_system.situation	fr_ultimateend	cb9847c1	النهاية الحقيقية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

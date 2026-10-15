@@ -385,7 +385,7 @@ id	namespace	key	source_hash	AR	status	note
 14155	kh3_menu.theater	scene_0190_100	309b98c2	ملائم بشكل مريب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14156	kh3_menu.theater	scene_0190_110	fc31985c	ممر جديد عبر "الثقب"	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14157	kh3_menu.theater	scene_0190_120	72be9fbf	سفينتنا الخاصة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-14158	kh3_menu.theater	scene_0190_130	be149f21	مفاوضات مع لوكسورد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+14158	kh3_menu.theater	scene_0190_130	be149f21	هدنة مع لوكسورد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14159	kh3_menu.theater	scene_0190_140	b4d19638	النصر في المتناول	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14160	kh3_menu.theater	scene_0190_150	787b96a6	اللعبة الطويلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14161	kh3_menu.theater	scene_0190_160	f6f49145	استفسار أخير	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -618,7 +618,7 @@ id	namespace	key	source_hash	AR	status	note
 14388	kh3_menu.shop	mission_detail_0140	42e25e30	يبدو أن الموغل يريد صورة <color(strong)>الترام<color>.<br>(بلدة الشفق / الحي السكني)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14389	kh3_menu.shop	mission_detail_0150	8e485eae	يبدو أن الموغل يريد صورة <color(strong)>الشلال في ميناء رويال<color>.<br>(الكاريبي / ميناء رويال)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14390	kh3_menu.shop	mission_detail_0160	00c7594d	يبدو أن الموغل يريد صورة <color(strong)>مخاريط الرياح السمكية<br>في وضح النهار<color>.<br>(سان فرانسوكيو / المدينة)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-14391	kh3_menu.shop	mission_detail_0170	cc6d59d3	يبدو أن الموغل يريد صورة <color(strong)>كاكتوار الأخضر الكبير<color>.<br>(صندوق الألعاب / غالاكسي تويز)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+14391	kh3_menu.shop	mission_detail_0170	cc6d59d3	يبدو أن الموغل يريد صورة <color(strong)>الكاكتوار الأخضر الكبير<color>.<br>(صندوق الألعاب / غالاكسي تويز)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14392	kh3_menu.shop	mission_detail_0180	154d4b7f	يبدو أن الموغل يريد صورة <color(strong)>فزاعة الطيور في الحقول<color>.<br>(غابة المئة فدان / بيت الأرنب)	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14393	kh3_menu.shop	mission_detail_0190	d9e74be1	يبدو أن الموغل يريد صورة <color(strong)>برج الشياطين<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14394	kh3_menu.shop	mission_detail_0200	b136823a	يبدو أن الموغل يريد صور <color(strong)>رفاق سورا<color>.<br>التقطت: {0} / {1}	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -667,7 +667,7 @@ id	namespace	key	source_hash	AR	status	note
 14437	kh3_menu.synthesis	collection_0140	341b1f26	احصل على كل أنواع المواد <color(strong)>المتلوية<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14438	kh3_menu.synthesis	collection_0150	f8b11fb8	احصل على كل أنواع المواد <color(strong)>البرزخية<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14439	kh3_menu.synthesis	collection_0160	763e185b	احصل على كل أنواع المواد <color(strong)>الشفقية<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-14440	kh3_menu.synthesis	collection_0170	ba9418c5	احصل على كل أنواع المواد <color(strong)>الميثريل<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+14440	kh3_menu.synthesis	collection_0170	ba9418c5	احصل على كل أنواع <color(strong)>مواد الميثريل<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14441	kh3_menu.synthesis	collection_0180	63b40a69	احصل على كل أنواع المواد <color(strong)>الشريرة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14442	kh3_menu.synthesis	collection_0190	af1e0af7	احصل على كل أنواع المواد <color(strong)>المهدئة<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14443	kh3_menu.synthesis	collection_0200	c7cfc32c	احصل على كل أنواع المواد <color(strong)>النبعية<color>.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -778,7 +778,7 @@ id	namespace	key	source_hash	AR	status	note
 14819	kh3_menu.debugcood	detail_challenge_0090	8cdfe236	لا يمكنك استخدام تحول السلاح أو السحر الكبير.<br><color(strong)>★★★★☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14820	kh3_menu.debugcood	detail_challenge_0100	0835b572	لا تظهر أوامر ألعاب الملاهي خارج <br>بعض المعارك الخاصة.<br><color(strong)>★☆☆☆☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14821	kh3_menu.debugcood	detail_challenge_0110	c49fb5ec	لا تظهر أوامر الفريق خارج <br>بعض المعارك الخاصة.<br><color(strong)>★☆☆☆☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-14822	kh3_menu.debugcood	detail_challenge_0120	4a10b20f	عملات الكوبو التي بحوزتك بلا تأثير.<br><color(strong)>★★☆☆☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+14822	kh3_menu.debugcood	detail_challenge_0120	4a10b20f	عملات كوبو التي بحوزتك بلا تأثير.<br><color(strong)>★★☆☆☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14823	kh3_menu.debugcood	detail_challenge_0130	86bab291	يوضع حد أقصى قدره 30 للقدرات التي يمكنك تركيبها على سورا.<br><color(strong)>★★★★☆<color>	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14824	kh3_menu.debugcood	cheatachievement_0010	cdf00c73	تحدي الجو	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14825	kh3_menu.debugcood	cheatachievement_0020	437f0b90	تحدي كسر الجليد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -793,7 +793,7 @@ id	namespace	key	source_hash	AR	status	note
 14834	kh3_menu.debugcood	detail_cheatachievement_0020	424cff47	جمد وحطم 30 عدوا في معركة واحدة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14835	kh3_menu.debugcood	detail_cheatachievement_0030	8ee6ffd9	استخدم أي رابطة لهزيمة 77 عدوا دفعة واحدة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14836	kh3_menu.debugcood	detail_cheatachievement_0040	8423f6c0	استخدم أي لعبة ملاهي لهزيمة 5 ألعاب جيغاس<br>دفعة واحدة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-14837	kh3_menu.debugcood	detail_cheatachievement_0050	4889f65e	سافر من البرج في الغابة إلى<br>مملكة كورونا دون المشي على الأرض والهبوط 5 مرات فقط كحد أقصى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+14837	kh3_menu.debugcood	detail_cheatachievement_0050	4889f65e	سافر من البرج في الغابة إلى<br>مملكة كورونا دون المشي على الأرض، مع الهبوط 5 مرات فقط كحد أقصى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14838	kh3_menu.debugcood	detail_cheatachievement_0060	c606f1bd	اهزم 10 أعداء دفعة واحدة باستخدام هجوم<br>الفريق ضربة الصراخ.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14839	kh3_menu.debugcood	detail_cheatachievement_0070	0aacf123	اهزم 20 من الظلال/الظلال الجديدة دفعة واحدة<br>باستخدام شكل الغضب.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 14840	kh3_menu.debugcood	detail_cheatachievement_0080	d38ce38f	أكمل بوابة المعركة بصعوبة ★★☆ مع تفعيل رمز المعركة "البقاء" فقط.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

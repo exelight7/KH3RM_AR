@@ -180,7 +180,7 @@ id	namespace	key	source_hash	AR	status	note
 04403	kh3_event_kg_dlc.kg702s	kg702s0270rk0_1	c62c283d	تماسك يا سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04404	kh3_event_kg_dlc.kg702s	kg702s0270rk0_2	d49987d3	لم نخسرهم.<br>ما زالت لديهم قلوبهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04405	kh3_event_kg_dlc.kg702s	kg702s0270rk0_3	6c25e0b6	لكن علينا أن نحميهم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04406	kh3_event_kg_dlc.kg702s	kg702s0280sr0	d2ed7c02	صحيح!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04406	kh3_event_kg_dlc.kg702s	kg702s0280sr0	d2ed7c02	حسنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04407	kh3_event_kg_dlc.kg702s	kg702s0290aq0	d92633c4	نقف معا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04408	kh3_event_kg_dlc.kg702s	kg702s0291sr0	19e2d6d5		todo	
 04409	kh3_event_kg_dlc.kg702s	kg702s0300aq0	a0bfbb17	ميكي، كايري، غوفي، اعتنوا بالآخرين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -192,15 +192,15 @@ id	namespace	key	source_hash	AR	status	note
 04415	kh3_event_kg_dlc.kg852r	kg852r0020vn0	3d83fb0a	<i(on)>تيرا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04416	kh3_event_kg_dlc.kg852r	kg852r0030aq0	85ffe7b8	<i(on)>فين!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04417	kh3_event_kg_dlc.kg852r	kg852r0050vn0	dcc75d99	<i(on)>تيرا! وجدناك!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04418	kh3_event_kg_dlc.kg852r	kg852r0070aq0	cb120ce1	<i(on)>تيرا، أرجوك قل إنك هناك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04419	kh3_event_kg_dlc.kg852r	kg852r0120vn0	bca69e2d	<i(on)>ما هذا يا أكوا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04418	kh3_event_kg_dlc.kg852r	kg852r0070aq0	cb120ce1	<i(on)>تيرا، أرجوك قل إنك ما زلت هناك.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04419	kh3_event_kg_dlc.kg852r	kg852r0120vn0	bca69e2d	<i(on)>ما الأمر يا أكوا?<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04420	kh3_event_kg_dlc.kg852r	kg852r0130aq0	04da829f	<i(on)>أعرف أنك لست هو.<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04421	kh3_event_kg_dlc.kg852r	kg852r0150aq0	80f91f4a	<i(on)>الآن، أطلق سراح صديقنا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04421	kh3_event_kg_dlc.kg852r	kg852r0150aq0	80f91f4a	<i(on)>والآن، حرر صديقنا!<i(off)>	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04422	kh3_event_kg_dlc.kg852r	kg852r0020sr0_1	fd10f424	هل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04423	kh3_event_kg_dlc.kg852r	kg852r0020sr0_2	efa55bca	هل عبرت من خلال الشق...?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04424	kh3_event_kg_dlc.kg852r	kg852r0040nm0	3d3bfa3e	سورا?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04425	kh3_event_kg_dlc.kg852r	kg852r0050sr0	6f700eed	ناميني?!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04426	kh3_event_kg_dlc.kg852r	kg852r0060nm0_1	c59df47c	ماذا تفعلين هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04426	kh3_event_kg_dlc.kg852r	kg852r0060nm0_1	c59df47c	ماذا تفعل هنا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04427	kh3_event_kg_dlc.kg852r	kg852r0060nm0_2	d7285b92	هل فقدت ذاتك كما حدث لي?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04428	kh3_event_kg_dlc.kg852r	kg852r0070sr0_1	fa72fd4d	حسنا، إنها قصة طويلة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04429	kh3_event_kg_dlc.kg852r	kg852r0070sr0_2	e8c752a3	لكن أخبريني، لماذا لم تعودي<br>إلى قلب كايري بعد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -211,7 +211,7 @@ id	namespace	key	source_hash	AR	status	note
 04434	kh3_event_kg_dlc.kg852r	kg852r0220tx1	0aebf653	لكن لا تخافوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04435	kh3_event_kg_dlc.kg852r	kg852r0220tx2	185e59bd	سيصاغ نصل χ على أي حال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04436	kh3_event_kg_dlc.kg852r	kg852r0080nm0	ee0dc7d5	لأنني... ما زلت غير قادرة على ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04437	kh3_event_kg_dlc.kg852r	kg852r0080nm1	56b1a0b0	لكنني... أنادي قلب تيرا،<br>وقد جلبت "إياه" إلى هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04437	kh3_event_kg_dlc.kg852r	kg852r0080nm1	56b1a0b0	لكنني... أنادي قلب تيرا،<br>وقد جلبته "هو" إلى هنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04438	kh3_event_kg_dlc.kg852r	kg852r0090sr0	bc463306	تيرا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04439	kh3_event_kg_dlc.kg852r	kg852r0100nm0	f2f37440	لا، قلب تيرا... غارق جدا في الظلام.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04440	kh3_event_kg_dlc.kg852r	kg852r0100nm1_1	aa5eb3f7	بدلا من ذلك، جلبت أكثر<br>أفكار تيرا خصوصية وقوة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -250,11 +250,11 @@ id	namespace	key	source_hash	AR	status	note
 04473	kh3_event_kg_dlc.kg860r	kg860r0020x90	507dcd28	مهلا، ظننت أنك رحلت الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04474	kh3_event_kg_dlc.kg860r	kg860r0040rk0	296a4c27	أنت...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04475	kh3_event_kg_dlc.kg860r	kg860r0040rk1	91d62b42	...المنظمة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04476	kh3_event_kg_dlc.kg860r	kg860r0050x90_1	ad4c04e8	واو، اهدؤوا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04477	kh3_event_kg_dlc.kg860r	kg860r0050x90_2	bff9ab06	لم آت لأقاتل، أعدكم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04478	kh3_event_kg_dlc.kg860r	kg860r0060x90_1	af9203cf	اسمعوا. اسمي ديميكس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04476	kh3_event_kg_dlc.kg860r	kg860r0050x90_1	ad4c04e8	واو، اهدأ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04477	kh3_event_kg_dlc.kg860r	kg860r0050x90_2	bff9ab06	لم آت لأقاتل، أعدك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04478	kh3_event_kg_dlc.kg860r	kg860r0060x90_1	af9203cf	اسمع. اسمي ديميكس.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04479	kh3_event_kg_dlc.kg860r	kg860r0060x90_2	bd27ac21	إنها قصة طويلة،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04480	kh3_event_kg_dlc.kg860r	kg860r0060x90_3	059bcb44	لكنني نوعا ما في صفكم...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04480	kh3_event_kg_dlc.kg860r	kg860r0060x90_3	059bcb44	لكنني نوعا ما في صفك...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04481	kh3_event_kg_dlc.kg860r	kg860r0060x90_4	984cf3fd	أوه، صحيح، خذ هذا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04482	kh3_event_kg_dlc.kg860r	kg860r0070x90_1	ae27fed2	ترى? كل الأشخاص الرائعين يملكون واحدا، صحيح?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04483	kh3_event_kg_dlc.kg860r	kg860r0070x90_2	bc92513c	زيك... أقصد، إينزو حصل لي عليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -373,8 +373,8 @@ id	namespace	key	source_hash	AR	status	note
 04596	kh3_event_kg_dlc.kg872t	kg872t0010x80	24e5aa6f	روكساس! شيون!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04597	kh3_event_kg_dlc.kg872t	kg872t0060x80	c5a10cfc	لنأخذ ما هو لنا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04598	kh3_event_kg_dlc.kg872t	kg872t0100xi0	592b0756	هل هذا... هل هذا هو الشعار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04599	kh3_event_kg_dlc.kg872t	kg872t0110x80_1	c8b199af	أجل. إنه العلامة التي منحنا إياها زيمناس.<br>هي ما ربطنا منذ البداية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04600	kh3_event_kg_dlc.kg872t	kg872t0110x80_2	da043641	إنه... أساس... الرابطة التي تجمعنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04599	kh3_event_kg_dlc.kg872t	kg872t0110x80_1	c8b199af	أجل. إنها العلامة التي منحنا إياها زيمناس.<br>هي ما ربطنا منذ البداية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04600	kh3_event_kg_dlc.kg872t	kg872t0110x80_2	da043641	إنها... أساس... الرابطة التي تجمعنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04601	kh3_event_kg_dlc.kg872t	kg872t0120rs0	94a9b458	ستختفي العلامة مع<br> زيمناس، ولا بأس بذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04602	kh3_event_kg_dlc.kg872t	kg872t0120rs1_1	727aaf9e	أردت فقط أن أستعيدها لنفسي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04603	kh3_event_kg_dlc.kg872t	kg872t0120rs1_2	60cf0070	بها نشأت رابطتنا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -421,7 +421,7 @@ id	namespace	key	source_hash	AR	status	note
 04644	kh3_event_kg_dlc.kg878r	kg878r0590mm0	101fe991	ما زال لدينا أمل واحد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04645	kh3_event_kg_dlc.kg878r	kg878r0600sr0	f00fb028	جلالتك، ريكو، هل أنتما بخير?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04646	kh3_event_kg_dlc.kg878r	kg878r0610mm0	d5da960b	نحن بخير.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-04647	kh3_event_kg_dlc.kg878r	kg878r0620rk0	c290a0cb	أجل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+04647	kh3_event_kg_dlc.kg878r	kg878r0620rk0	c290a0cb	نعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04648	kh3_event_kg_dlc.kg878r	kg878r0621vn0	271e0441	أي أمل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04649	kh3_event_kg_dlc.kg878r	kg878r0622rk0_1	965c483f	إنه زيهانورت.<br>خلال اختبار الإتقان،	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 04650	kh3_event_kg_dlc.kg878r	kg878r0622rk0_2	84e9e7d1	عرفنا أنه يستطيع تجاوز المكان والزمان.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

@@ -48,7 +48,7 @@ id	namespace	key	source_hash	AR	status	note
 09966	kh3_fieldvoice_town_tt.chat	ol_lady01_0060	0887abbe	يجب أن أحاول إعداد<br>وصفة ذلك المطعم في البيت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09967	kh3_fieldvoice_town_tt.chat	ol_lady01_0070	c42dab20	لا تسقط!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09968	kh3_fieldvoice_town_tt.chat	ol_lady02_0010	5a5c0b8f	مطعم. يا إلهي، كم كبرت البلدة<br>منذ كنت في عمرك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09969	kh3_fieldvoice_town_tt.chat	ol_lady02_0040	12bc05eb	حين كنت صغيرا، كان الترام<br>يبدو كبيرا وساحرا جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09969	kh3_fieldvoice_town_tt.chat	ol_lady02_0040	12bc05eb	حين كنت صغيرة، كان الترام<br>يبدو كبيرا وساحرا جدا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09970	kh3_fieldvoice_town_tt.chat	ol_lady02_0050	de160575	المزيد، المزيد!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09971	kh3_fieldvoice_town_tt.chat	ol_lady02_0060	50990296	كتبوا عن هذا المكان<br>في <i(on)>الأذواق الصعبة<i(off)>.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09972	kh3_fieldvoice_town_tt.chat	boy01_0010	a535c433	هل سمعت يوما بعجائب<br>بلدة الشفق السبع?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -90,7 +90,7 @@ id	namespace	key	source_hash	AR	status	note
 10008	kh3_fieldvoice_town_tt.chat	girl01_0070	e1bd00d0	حركات رائعة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10009	kh3_fieldvoice_town_tt.chat	girl01_0080	389d127c	إنه لطيف جدا!<br>أوه، انظروا إليه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10010	kh3_fieldvoice_town_tt.chat	girl01_0090	f43712e2	لماذا يكون طعم المثلجات<br>أفضل بكثير في السينما?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-10011	kh3_fieldvoice_town_tt.chat	girl02_0010	7fcca07f	أوه، يا لك من محظوظ. أبي لا يفعل<br>شيئا سوى التذمر من تعبه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+10011	kh3_fieldvoice_town_tt.chat	girl02_0010	7fcca07f	أوه، يا لك من محظوظة. أبي لا يفعل<br>شيئا سوى التذمر من تعبه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10012	kh3_fieldvoice_town_tt.chat	girl02_0020	f143a79c	اختبار الأسبوع القادم<br>سيقضي عليك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10013	kh3_fieldvoice_town_tt.chat	girl02_0030	3de9a702	بالطبع. لكنني ظننت<br>أن كل ذلك ثبت أنه خرافة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 10014	kh3_fieldvoice_town_tt.chat	girl02_0060	7509a966	أرجو أن تأخذني أمي<br>إلى ذلك المطعم.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

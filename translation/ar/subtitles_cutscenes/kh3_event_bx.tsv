@@ -365,7 +365,7 @@ id	namespace	key	source_hash	AR	status	note
 01260	kh3_event_bx.bx560a	bx5600310dr0_2	46d48930	لكنني أعدك بأن أعيدها إلى حيث وجدتها تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01261	kh3_event_bx.bx560a	bx5600320hr0	1eeb5386	ماذا تقصد?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01262	kh3_event_bx.bx560a	bx5600330dr0	7e862541	أظنني سأعود إلى العمل الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-01263	kh3_event_bx.bx560a	bx5600340sr0	e74287a1	انتظروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01263	kh3_event_bx.bx560a	bx5600340sr0	e74287a1	انتظر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01264	kh3_event_bx.bx560a	bx5600360hr0_1	835ee866	يجب أن نوقفه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01265	kh3_event_bx.bx560a	bx5600360hr0_2	91eb4788	يا رفاق—	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01266	kh3_event_bx.bx560a	bx5600380bx0	32090711	تعانون جميعا من إرهاق حاد.<br>أوصي بالراحة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -529,7 +529,7 @@ id	namespace	key	source_hash	AR	status	note
 01424	kh3_event_bx.bx806a	bx8060120xy0	139bde87	لا. لا خلاص لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01425	kh3_event_bx.bx806a	bx8060130sr0	5a045d99		todo	
 01426	kh3_event_bx.bx806a	bx8060140xy0	97b84352	لقد دفعت الثمن.<br>وهو يرقد في قاع الهاوية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-01427	kh3_event_bx.bx806a	bx8060150sr0	de27c04c	انتظروا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+01427	kh3_event_bx.bx806a	bx8060150sr0	de27c04c	انتظر!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01428	kh3_event_bx.bx806a	bx8060160ji0	c1ee7796	سورا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01429	kh3_event_bx.bx806a	bx8060170ci0	39207641	أسرع يا سورا!<br>الطريق إلى مقبرة الكيبلايد مفتوح!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 01430	kh3_event_bx.bx806a	bx8060180de0	6688faa0	أنا وتشيب وجدنا طريقا جديدا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

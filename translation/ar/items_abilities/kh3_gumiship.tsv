@@ -35,18 +35,18 @@ id	namespace	key	source_hash	AR	status	note
 11412	kh3_gumiship.item	materialgumi_0340	44bfa606	أسطواني/G-07	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11413	kh3_gumiship.item	materialgumi_0350	8815a698	أسطواني/G-08	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11414	kh3_gumiship.item	materialgumi_0360	069aa17b	أسطواني/G-09	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11415	kh3_gumiship.item	materialgumi_0370	ca30a1e5	ريح/G-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11416	kh3_gumiship.item	materialgumi_0380	1310b349	ريح/G-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11417	kh3_gumiship.item	materialgumi_0390	dfbab3d7	ريح/G-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11418	kh3_gumiship.item	materialgumi_0400	b46d4173	ريح/G-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11419	kh3_gumiship.item	materialgumi_0410	78c741ed	ريح/G-05	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11420	kh3_gumiship.item	materialgumi_0420	f648460e	ريح/G-06	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11421	kh3_gumiship.item	materialgumi_0430	3ae24690	ريح/G-07	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11422	kh3_gumiship.item	materialgumi_0440	30274f89	ريح/G-08	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11423	kh3_gumiship.item	materialgumi_0450	fc8d4f17	ريح/G-09	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11424	kh3_gumiship.item	materialgumi_0460	720248f4	ريح/G-10	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11425	kh3_gumiship.item	materialgumi_0470	bea8486a	ريح/G-11	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11426	kh3_gumiship.item	materialgumi_0480	67885ac6	ريح/G-12	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11415	kh3_gumiship.item	materialgumi_0370	ca30a1e5	هوائي/G-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11416	kh3_gumiship.item	materialgumi_0380	1310b349	هوائي/G-02	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11417	kh3_gumiship.item	materialgumi_0390	dfbab3d7	هوائي/G-03	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11418	kh3_gumiship.item	materialgumi_0400	b46d4173	هوائي/G-04	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11419	kh3_gumiship.item	materialgumi_0410	78c741ed	هوائي/G-05	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11420	kh3_gumiship.item	materialgumi_0420	f648460e	هوائي/G-06	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11421	kh3_gumiship.item	materialgumi_0430	3ae24690	هوائي/G-07	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11422	kh3_gumiship.item	materialgumi_0440	30274f89	هوائي/G-08	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11423	kh3_gumiship.item	materialgumi_0450	fc8d4f17	هوائي/G-09	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11424	kh3_gumiship.item	materialgumi_0460	720248f4	هوائي/G-10	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11425	kh3_gumiship.item	materialgumi_0470	bea8486a	هوائي/G-11	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11426	kh3_gumiship.item	materialgumi_0480	67885ac6	هوائي/G-12	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11427	kh3_gumiship.item	decogumi_0010	dcf47667	نار/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11428	kh3_gumiship.item	decogumi_0020	527b7184	نار قوية/G	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11429	kh3_gumiship.item	decogumi_0030	9ed1711a	نار كبرى/G-01	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -536,7 +536,7 @@ id	namespace	key	source_hash	AR	status	note
 11913	kh3_gumiship.item	blueprint_1220	a13cb5dc	تابع علامة الاستفهام	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11914	kh3_gumiship.item	blueprint_1230	6d96b542	الطائر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11915	kh3_gumiship.item	blueprint_1240	6753bc5b	دنب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-11916	kh3_gumiship.item	blueprint_1250	abf9bcc5	القطب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+11916	kh3_gumiship.item	blueprint_1250	abf9bcc5	النجم القطبي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11917	kh3_gumiship.item	blueprint_1260	2576bb26	الصليب الجنوبي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11918	kh3_gumiship.item	blueprint_1270	e9dcbbb8	الصقر الليلي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 11919	kh3_gumiship.item	blueprint_1280	30fca914	أثر النيزك	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -636,7 +636,7 @@ id	namespace	key	source_hash	AR	status	note
 12013	kh3_gumiship.item	detail_2050	4395b54b	يولد حاجزا بقدر كبير من HP في بداية كل معركة. ركب أكثر من واحد لتقوية الحاجز.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12014	kh3_gumiship.item	detail_2060	cd1ab2a8	يفعل وضع الهياج الذي يحسن قوة سفينتك ويمنحك نقاطا أعلى عند هزيمة الأعداء. لكن HP سيثبت عند 1.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12015	kh3_gumiship.item	detail_2070	01b0b236	يكشف HP البلا قلب الكبار.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-12016	kh3_gumiship.item	detail_3010	69b72a20	الخامة الافتراضية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+12016	kh3_gumiship.item	detail_3010	69b72a20	المادة الافتراضية.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12017	kh3_gumiship.item	detail_3020	e7382dc3	لون موحد.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12018	kh3_gumiship.item	detail_4010	944ed255	يتيح لك تخصيص سفينتك دون تكلفة بناء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12019	kh3_gumiship.item	detail_5010	3a2643c4		todo	skip: empty

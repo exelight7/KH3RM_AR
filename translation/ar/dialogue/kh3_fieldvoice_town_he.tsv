@@ -27,7 +27,7 @@ id	namespace	key	source_hash	AR	status	note
 09673	kh3_fieldvoice_town_he.chat	man04_0020	5f7b70ae	فتح الطرق<br>هو المهمة الأولى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09674	kh3_fieldvoice_town_he.chat	man04_0030	93d17030	أوه، عظيم. والآن ماذا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09675	kh3_fieldvoice_town_he.chat	man04_0040	99147929	سمعت أن هناك وحوشا ما زالت<br>تثير المتاعب في الوادي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09676	kh3_fieldvoice_town_he.chat	man04_0070	179b7eca	يا رجل، أستطيع أن آكل أفعى عملاقة كاملة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09676	kh3_fieldvoice_town_he.chat	man04_0070	179b7eca	يا رجل، أستطيع أن آكل هيدرا كاملة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09677	kh3_fieldvoice_town_he.chat	man04_0090	02116cf8	ملامح منحوتة يا شباب!<br>أريدها خشنة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09678	kh3_fieldvoice_town_he.chat	man04_0100	86fb3bbc	لكن لا تجعلوها منحوتة <i(on)>أكثر من اللازم<i(off)>!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09679	kh3_fieldvoice_town_he.chat	man04_0110	4a513b22	مهلا، على مهلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -69,7 +69,7 @@ id	namespace	key	source_hash	AR	status	note
 09715	kh3_fieldvoice_town_he.chat	girl03_0020	7066c2bb	أوه، يا لك من محظوظ! أنا أغار جداااا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09716	kh3_fieldvoice_town_he.chat	girl03_0050	7aa3cba2	آه! يجب أن أعود إلى البيت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09717	kh3_fieldvoice_town_he.chat	girl03_0070	3886ccdf	آه! إنه هرقل!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09718	kh3_fieldvoice_town_he.chat	girl04_0010	cff1f22f	أوه، آسف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09718	kh3_fieldvoice_town_he.chat	girl04_0010	cff1f22f	أوه، آسفة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09719	kh3_fieldvoice_town_he.chat	girl04_0020	417ef5cc	<i(on)>ماذا?<i(off)> مستحيل...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09720	kh3_fieldvoice_town_he.chat	girl04_0030	8dd4f552	أعرف، أعرف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09721	kh3_fieldvoice_town_he.chat	girl04_0060	c534fb36	أنا أنتظر أبي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -136,7 +136,7 @@ id	namespace	key	source_hash	AR	status	note
 09782	kh3_fieldvoice_town_he.talk	man02_0020	ef4622fe	آه، إنه أنت! لقد أنقذتني حقا.<br>تفضل، لدي شيء لك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09783	kh3_fieldvoice_town_he.talk	lady01_0010	1c61e196	شكرا لكم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09784	kh3_fieldvoice_town_he.talk	lady01_0020	92eee675	لقد أحدثتم فرقا كبيرا أيها الأبطال الصغار.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09785	kh3_fieldvoice_town_he.talk	lady01_0030	5e44e6eb	بفضلكم خرجت سالما.<br>خذ هذه. أصر على ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09785	kh3_fieldvoice_town_he.talk	lady01_0030	5e44e6eb	بفضلكم خرجت سالمة.<br>خذ هذه. أصر على ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09786	kh3_fieldvoice_town_he.talk	lady02_0010	447f48be	أنتم أبطالي!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09787	kh3_fieldvoice_town_he.talk	lady02_0020	caf04f5d	آه، إنه أنت! انتظر، أردت أن أعطيك هذه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09788	kh3_fieldvoice_town_he.talk	girl01_0010	27d20957	شكرا لأنك أنقذتني! أنت بطلي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

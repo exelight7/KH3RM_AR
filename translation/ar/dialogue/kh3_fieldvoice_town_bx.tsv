@@ -103,7 +103,7 @@ id	namespace	key	source_hash	AR	status	note
 09461	kh3_fieldvoice_town_bx.chat	lady04_0010	f4421aee	ابنتي<br>مصرة تماما<pb(1.75)>على أن تصبح بطلة<br>حين تكبر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09462	kh3_fieldvoice_town_bx.chat	lady04_0020	7acd1d0d	عظيم، رائع حقا.<br>العطلة فسدت.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09463	kh3_fieldvoice_town_bx.chat	lady04_0030	b6671d93	نحتاج إلى مواهب جديدة—<br>الأفضل والأذكى.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09464	kh3_fieldvoice_town_bx.chat	lady04_0040	bca2148a	حسنا، لا أستطيع البقاء محبوسا<br>يوما آخر.<pb(2.25)>سأجرب حظي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09464	kh3_fieldvoice_town_bx.chat	lady04_0040	bca2148a	حسنا، لا أستطيع البقاء محبوسة<br>يوما آخر.<pb(2.25)>سأجرب حظي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09465	kh3_fieldvoice_town_bx.chat	lady04_0050	70081414	ماذا نفعل إن<br>هاجم وحش مرة أخرى?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09466	kh3_fieldvoice_town_bx.chat	lady04_0060	fe8713f7	ماذا يعني ذلك أصلا?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09467	kh3_fieldvoice_town_bx.chat	lady05_0010	75677fc9	إذن: أبطال حقيقيون، تسويق سيئ.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -127,7 +127,7 @@ id	namespace	key	source_hash	AR	status	note
 09485	kh3_fieldvoice_town_bx.chat	lady10_0020	127e7e4f	هل رأيت الأبطال<br>في الأخبار?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09486	kh3_fieldvoice_town_bx.chat	lady10_0030	ded47ed1	أظن أن هذا جانب مشرق،<br>على الأقل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09487	kh3_fieldvoice_town_bx.chat	lady11_0010	1dd41c8b	لست مضطرا لذلك.<br>التقنية موجودة لتعمل من أجلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09488	kh3_fieldvoice_town_bx.chat	lady11_0020	935b1b68	نعم، لكنني مرعوب من رؤية<br>حال بريدي الوارد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09488	kh3_fieldvoice_town_bx.chat	lady11_0020	935b1b68	نعم، لكنني مرعوبة من رؤية<br>حال بريدي الوارد...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09489	kh3_fieldvoice_town_bx.chat	lady11_0030	5ff11bf6	نعم، لا بد أنه كان معلقا<br>بأسلاك أو شيء من هذا القبيل.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09490	kh3_fieldvoice_town_bx.chat	lady12_0010	45cab5a3	واو، قوي <i(on)>و<i(off)>حنون?<br>لا يمكن طلب أكثر من ذلك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09491	kh3_fieldvoice_town_bx.chat	lady13_0010	c4efd084	أنا أصوت لمكان<br>يطل على المدينة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -149,7 +149,7 @@ id	namespace	key	source_hash	AR	status	note
 09507	kh3_fieldvoice_town_bx.chat	th_lady05_0030	9d145c00	معرض الجامعة قادم.<br>جرب التوظيف هناك.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09508	kh3_fieldvoice_town_bx.chat	th_lady05_0040	97d15519	ديناصور وحش ضخم فعل ذلك?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09509	kh3_fieldvoice_town_bx.chat	th_lady05_0050	5b7b5587	تبدو بيئة<br>رائعة حقا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09510	kh3_fieldvoice_town_bx.chat	th_lady05_0060	d5f45264	بالتأكيد. أتخيل نفسي<br>مقذوفا إلى الخليج.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09510	kh3_fieldvoice_town_bx.chat	th_lady05_0060	d5f45264	بالتأكيد. أتخيل نفسي<br>مقذوفة إلى الخليج.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09511	kh3_fieldvoice_town_bx.chat	th_lady05_0070	195e52fa	أنتم تشاهدون أفلاما كثيرة جدا.<br>كونوا جادين.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09512	kh3_fieldvoice_town_bx.chat	th_lady05_0080	c07e4056	أوه، أنا سأختار الطراز القديم. مؤثرات حقيقية<br>فقط، لا أشياء حاسوبية.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09513	kh3_fieldvoice_town_bx.chat	th_lady05_0090	0cd440c8	مهلا، هل صاروا<br>الأبطال التسعة الآن? حسنا...	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -157,7 +157,7 @@ id	namespace	key	source_hash	AR	status	note
 09515	kh3_fieldvoice_town_bx.chat	th_lady05_0130	06b1106f	لا أقصد الإساءة، لكنني أرجو أن يقل عملكم<br><i(on)>كثيرا<i(off)> أيها الأبطال.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09516	kh3_fieldvoice_town_bx.chat	th_lady06_0010	872ff255	أجل. الآن تحتاج فقط<br>إلى أن يأتي الصيف.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09517	kh3_fieldvoice_town_bx.chat	th_lady06_0020	09a0f5b6	أوه، نعم! لنجد<br>منصة مراقبة.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-09518	kh3_fieldvoice_town_bx.chat	th_lady06_0030	c50af528	كان مشابها بالتأكيد،<br>لكنني لست متأكدا أنه نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+09518	kh3_fieldvoice_town_bx.chat	th_lady06_0030	c50af528	كان مشابها بالتأكيد،<br>لكنني لست متأكدة أنه نفسه.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09519	kh3_fieldvoice_town_bx.chat	th_lady06_0040	cfcffc31		todo	
 09520	kh3_fieldvoice_town_bx.chat	th_lady08_0010	e51f9cbb	تخيل كيف يبدو الأمر<br>فوق هذه المباني.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 09521	kh3_fieldvoice_town_bx.chat	th_lady08_0020	6b909b58	نعم. أكثر من ذلك وكنا<br>سندفن تماما.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

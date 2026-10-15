@@ -238,7 +238,7 @@ id	namespace	key	source_hash	AR	status	note
 13214	kh3_level.bx	information_0130	b429eab7	اهزم المكعبات المظلمة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13215	kh3_level.bx	information_0140	beece3ae	تحدث إلى هيرو عندما تكون مستعدا للانطلاق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13216	kh3_level.bx	information_0150	7246e330	أخضع بايماكس المظلم!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-13217	kh3_level.bx	information_0160	fcc9e4d3	استخدم <icon(Decide)><color(strong)>الضربة<color> لصد المكعبات المظلمة القادمة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13217	kh3_level.bx	information_0160	fcc9e4d3	استخدم <icon(Decide)><color(strong)>الضرب<color> لصد المكعبات المظلمة القادمة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13218	kh3_level.bx	other_0010	b6819bff	التوجه إلى المدينة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13219	kh3_level.bx	other_0020	380e9c1c	العودة إلى مرآب هيرو?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13220	kh3_level.bx	other_0030	f4a49c82	تم فتح <color(strong)>فلاش تريسر<color>.<br>تحدث إلى أصدقائك في المدينة لاختبار مهاراتك.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -371,7 +371,7 @@ id	namespace	key	source_hash	AR	status	note
 13347	kh3_level.ew	choice_0080	c7a7ab23	لا	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13348	kh3_level.ew	choice_0090	0b0dabbd	ساعدني على التذكر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13349	kh3_level.ew	choice_0100	8fe7fcf9	علمني القتال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-13350	kh3_level.ew	choice_0110	434dfc67	أنا بخير الآن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13350	kh3_level.ew	choice_0110	434dfc67	لا حاجة الآن	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13351	kh3_level.ew	choice_0510	404bc718	مغامرة عادية	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13352	kh3_level.ew	choice_0520	cec4c0fb	مغامرة سهلة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13353	kh3_level.ew	choice_0530	026ec065	مغامرة صعبة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -418,7 +418,7 @@ id	namespace	key	source_hash	AR	status	note
 13394	kh3_level.kg	information_0640	ca740a21	استخدم <icon(Lstick)> لتحمل الهجمات. يمكنك صد <br>الهجمات بالضغط على <icon(Decide)> في الوقت المناسب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13395	kh3_level.kg	information_0650	06de0abf	استخدم <icon(LstickUp)> للدفع إلى الخلف!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13396	kh3_level.kg	information_0660	88510d5c	اضغط <icon(Decide)> لزيادة القوة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-13397	kh3_level.kg	information_0670	44fb0dc2	<icon(Triangle)> استخدم الإيمان الصامد لإلقاء النور على ثقب المفتاح!	reviewed	context: Faith (glossary item name) is a command word here (Enduring Faith); GLOSS flag expected; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13397	kh3_level.kg	information_0670	44fb0dc2	<icon(Triangle)> استخدم فيث الصامد لإلقاء النور على ثقب المفتاح!	reviewed	context: Faith (glossary item name) is a command word here (Enduring Faith); GLOSS flag expected; reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13398	kh3_level.kg	information_0680	9ddb1f6e	اضغط <icon(Decide)> لإطلاق النور نحو الثقوب. <br>يمكنك ربط عدة ثقوب معا باستهداف <br>الثقوب المتوهجة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13399	kh3_level.kg	information_0690	51711ff0	<icon(Triangle)> استخدم النور الصامد لإيصال النور إلى الحراس!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13400	kh3_level.kg	information_0700	d59b48b4	<icon(Triangle)> حرر الحراس بربط القلوب!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -495,7 +495,7 @@ id	namespace	key	source_hash	AR	status	note
 13471	kh3_level.rg	choice_0070	1e87b98f	تحدي البيانات المعاد إنشاؤها	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13472	kh3_level.ss	information_0010	6da9a1a5	اهزم يوزورا!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13473	kh3_level.ss	information_0100	3aa6ed54	هاجم يوزورا للإفلات من الأماكن التي يصنعها.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-13474	kh3_level.ss	information_0110	f60cedca	أخذ يوزورا عملة الكوبو الخاصة بك!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13474	kh3_level.ss	information_0110	f60cedca	أخذ يوزورا عملة كوبو الخاصة بك!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13475	kh3_level.ss	dialog_0010_1	93272732	تم فتح القائمة المميزة.<br>يمكنك الآن استخدام رموز التسهيل ورموز المحترفين معا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13476	kh3_level.ss	dialog_0010_2	819288dc	تم فتح رموز المحترفين في القائمة المميزة.<br>يمكنك الآن استخدام رموز التسهيل ورموز المحترفين معا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13477	kh3_level.ss	dialog_0010_3	392eefb9	تم فتح رموز التسهيل في القائمة المميزة.<br>يمكنك الآن استخدام رموز التسهيل ورموز المحترفين معا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -555,5 +555,5 @@ id	namespace	key	source_hash	AR	status	note
 13531	kh3_level.ex	battleportal_14_c	86750fba	<b(on)>بوابة المعركة 14 - الصعوبة ★★★ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?<br>يجب على سورا خوض هذا التحدي وحده.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13532	kh3_level.ex	battleportal_15	05b6738c	<b(on)>بوابة المعركة 0 - الصعوبة ★☆☆<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13533	kh3_level.ex	battleportal_15_c	1dd043d5	<b(on)>بوابة المعركة 0 - الصعوبة ★☆☆ - مكتملة<b(off)><br><br>خصوم أقوياء يقبعون خلف هذه البوابة.<br>هل تدخل لمواجهتهم في معركة?	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-13534	kh3_level.ex	achievement_0010	a3aaad37	ابدأ <color(strong)>تحدي المشي في السماء<color> للقائمة المميزة! <br>صل إلى مملكة كورونا دون المشي على <br>الأرض والهبوط 5 مرات فقط كحد أقصى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+13534	kh3_level.ex	achievement_0010	a3aaad37	ابدأ <color(strong)>تحدي المشي في السماء<color> للقائمة المميزة! <br>صل إلى مملكة كورونا دون المشي على <br>الأرض، مع الهبوط 5 مرات فقط كحد أقصى!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 13535	kh3_level.ex	achievement_0020	2d25aad4	فشل <color(strong)>تحدي المشي في السماء<color> للقائمة المميزة!	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

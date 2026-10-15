@@ -357,7 +357,7 @@ id	namespace	key	source_hash	AR	status	note
 02910	kh3_event_fz.fz465a	fz4650420ks0	1944f8ec	ماذا? أوه، هيا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02911	kh3_event_fz.fz465a	fz4650440ks0	9d676539	أرأيت? الآن أغضبته.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02912	kh3_event_fz.fz465a	fz4650450ol0	5e9d4687	سأشتت انتباهه. اذهبوا أنتم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-02913	kh3_event_fz.fz465a	fz4650460ol0	f1340b4d	لا، لا. ليس أنتم!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02913	kh3_event_fz.fz465a	fz4650460ol0	f1340b4d	لا، لا. أنتم لا!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02914	kh3_event_fz.fz465a	fz4650470ol0	9453300b	الأمر صار أصعب بكثير الآن.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02915	kh3_event_fz.fz465a	fz4650480sr0	88efc34e	يمكننا أن نكسب لكم بعض الوقت!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02916	kh3_event_fz.fz465a	fz4650540ol0	badf18e6	انتظروني!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
@@ -382,7 +382,7 @@ id	namespace	key	source_hash	AR	status	note
 02935	kh3_event_fz.fz466a	fz4660240do0	bdc584c3	لا بد أنهم عادوا إلى القصر.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02936	kh3_event_fz.fz466a	fz4660250sr0	479c9f0c	هذا منطقي. ونحن أيضا.<br>ما زال علينا التحدث إلى إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02937	kh3_event_fz.fz466a	fz4660260go0	009520bf	المرة الثانية هي الحاسمة!	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
-02938	kh3_event_fz.fz466a	fz4660270sr0	8d52e980	نعم، لنعد إلى القصر الجليدي.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
+02938	kh3_event_fz.fz466a	fz4660270sr0	8d52e980	نعم، لنعد إلى قصر الجليد.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02939	kh3_event_fz.fz467a	fz4670030sr0	eb5ecb7c	مهلا... هذه إلسا.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02940	kh3_event_fz.fz467a	fz4670040sr0	0a1a6def	لكن من ذلك الرجل?	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2
 02941	kh3_event_fz.fz467a	fz4670050go0	87dda4d0	ربما شخص من آرنديل<br>جاء إلى هنا ليساعدها.	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2; cloud review pass 2

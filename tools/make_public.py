@@ -12,9 +12,9 @@ KEEP = {'.git', 'LICENSE'}                         # remote content we never tou
 TECH = ['RECON_KH3.md', 'SHAPER_SPEC.md', 'FIELD_WIDTHS.tsv', 'TAGS.md', 'IMAGES_PLAN.md']   # + *CHECKLIST.md
 COLS = ['id', 'namespace', 'key', 'source_hash', 'AR', 'status', 'note']
 NOTE_ID = 'state/PROGRESS.md'
-RELEASE = '0.9.2'                                  # README download link (tag)
-SETUP = 'KH3RM_AR_Setup_v0.9.2_windows-x64.exe'                # installer attached to that release
-BUILD = 'BUILD-12'                                 # text pak of that release (README status line)
+RELEASE = '0.9.8'                                  # README download link (tag)
+SETUP = 'KH3RM_AR_Setup_v0.9.8_windows-x64.exe'                # installer attached to that release
+BUILD = 'BUILD-18'                               # text pak of that release (README status line)
 IMG_VER = '0.9.0'                                  # out\release\v<IMG_VER>\ui_ar.png screenshot
 # double-quoted English phrase of 3+ words (likely game text) -> "..."
 QUOTE = re.compile(r'"(?=[^"\n]*[A-Za-z])(?:[^"\n؀-ۿ]*\s){2}[^"\n؀-ۿ]*"')

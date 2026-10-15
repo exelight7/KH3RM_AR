@@ -25,10 +25,10 @@ def load(path):
         return list(csv.DictReader(f, delimiter='\t', quoting=csv.QUOTE_NONE))
 
 
-def room(visual, r):
+def room(visual, r, st=None):
     x0, y0, x1, y1 = map(int, r['box'].split())
     p = max(int(r.get('pad') or 2), tt.MARGIN)
-    return tt.fit(visual, x1 - x0 - 2 * p, y1 - y0 - 2 * p)[0]
+    return tt.fit(visual, x1 - x0 - 2 * p, y1 - y0 - 2 * p, st)[0]
 
 
 def first_readable(ar, visual, lo, hi, ok=lambda s: True):
@@ -38,7 +38,7 @@ def first_readable(ar, visual, lo, hi, ok=lambda s: True):
 _tex = {}
 
 
-def covered(r, visual, size):
+def covered(r, visual, size, st=None, grow=1):
     """artwork pixels outside the erase box (icons, frames beside the old text: colour far from the box's fitted
     background, or any opaque pixel on a clear texture) under the text's ink bbox (+1 px) at this size, placed as
     repaint() does. A wide text is clamped at the box edge and pushed over such icons, so a larger size may only cover
@@ -55,14 +55,14 @@ def covered(r, visual, size):
     mode = 'clear' if r['fill'] == 'clear' else 'fit'
     art = tt.ink_mask(img[y0:y1, x0:x1], tt.fill_bg(img.copy(), (x0, y0, x1, y1), mode), mode)
     art[f0 - y0:f1 - y0, e0 - x0:e1 - x0] = False
-    mb = tt.render(visual, size)[1]
+    mb = tt.render(visual, size, st)[1]
     pad, bw, bh = int(r.get('pad') or 2), x1 - x0, y1 - y0
     ox = (ib[0] + ib[2]) / 2 - (mb[0] + mb[2]) / 2 if r['align'] == 'center' else ib[0] - mb[0] if r['align'] == 'left' else ib[2] - mb[2]
     oy = (ib[1] + ib[3]) / 2 - (mb[1] + mb[3]) / 2
     ox = int(round(min(max(ox, pad - mb[0]), bw - pad - mb[2])))
     oy = int(round(min(max(oy, pad - mb[1]), bh - pad - mb[3])))
     hit = np.zeros_like(art)
-    hit[max(0, oy + mb[1] - 1):oy + mb[3] + 1, max(0, ox + mb[0] - 1):ox + mb[2] + 1] = True
+    hit[max(0, oy + mb[1] - grow):oy + mb[3] + grow, max(0, ox + mb[0] - grow):ox + mb[2] + grow] = True
     return hit & art
 
 

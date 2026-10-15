@@ -115,7 +115,7 @@ id	namespace	key	source_hash	AR	status	note
 14564	kh3_menu.hologram	select_0470	df1711ee	مثلجات ملح البحر	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
 14565	kh3_menu.hologram	select_0480	06370342	بلورة: نار	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
 14566	kh3_menu.hologram	select_0490	ca9d03dc	بلورة: جليد	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-14567	kh3_menu.hologram	select_0500	4e775498	بلورة: البرق	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14567	kh3_menu.hologram	select_0500	4e775498	بلورة: برق	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
 14568	kh3_menu.hologram	select_0510	82dd5406	بلورة: ماء	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
 14569	kh3_menu.hologram	select_0520	0c5253e5	بلورة: ريح	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
 14570	kh3_menu.hologram	select_0530	c0f8537b	بلورة: نور	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
@@ -126,10 +126,10 @@ id	namespace	key	source_hash	AR	status	note
 14575	kh3_menu.hologram	select_0590	51384fb3	نار	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
 14576	kh3_menu.hologram	select_0600	39e98668	ماء	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
 14577	kh3_menu.hologram	select_0610	f54386f6	جليد	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-14578	kh3_menu.hologram	select_0620	7bcc8115	البرق	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14578	kh3_menu.hologram	select_0620	7bcc8115	برق	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
 14579	kh3_menu.hologram	select_0630	b766818b	ريح	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-14580	kh3_menu.hologram	select_0640	bda38892	النور	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
-14581	kh3_menu.hologram	select_0650	7109880c	الظلام	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14580	kh3_menu.hologram	select_0640	bda38892	نور	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
+14581	kh3_menu.hologram	select_0650	7109880c	ظلام	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
 14582	kh3_menu.hologram	select_0660	ff868fef	ماس كهربائي	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
 14583	kh3_menu.hologram	select_0670	332c8f71	الصدم	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2
 14584	kh3_menu.hologram	select_0680	ea0c9ddd	تحطم	reviewed	reviewed_by Claude Sonnet 5.5 pass, REVIEW-2

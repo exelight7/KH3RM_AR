@@ -154,8 +154,8 @@ id	namespace	key	source_hash	AR	status	note
 12383	kh3_item.guard	item_50	5ea1ec48	ثقل القوة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12384	kh3_item.guard	item_51	e61d8b2d	ثقل السحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12385	kh3_item.guard	item_52	f4a824c3	حزام السيد	reviewed	unsure: Master = السيد (glossary has Master الإتقان / السيد); reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-12386	kh3_item.guard	detail_item_01	7576ee40	يمنح زيادة متوسطة في الدفاع،<br>وزيادة صغيرة في مقاومة<br>الصاعقة، الماء، الهواء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-12387	kh3_item.guard	detail_item_02	67c341ae	يمنح زيادة كبيرة في الدفاع،<br>وزيادة صغيرة في مقاومة<br>النار، الجليد، الظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+12386	kh3_item.guard	detail_item_01	7576ee40	يمنح زيادة متوسطة في الدفاع،<br>وزيادة صغيرة في مقاومة<br>الصاعقة والماء والهواء.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+12387	kh3_item.guard	detail_item_02	67c341ae	يمنح زيادة كبيرة في الدفاع،<br>وزيادة صغيرة في مقاومة<br>النار والجليد والظلام.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12388	kh3_item.guard	detail_item_03	df7f26cb	يمنح زيادة طفيفة في الدفاع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12389	kh3_item.guard	detail_item_04	42a81e72	يمنح زيادة صغيرة في الدفاع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12390	kh3_item.guard	detail_item_05	fa147917	يمنح زيادة متوسطة في الدفاع.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -466,7 +466,7 @@ id	namespace	key	source_hash	AR	status	note
 12695	kh3_item.food	fdstuff_0020	4a5e5a9a	محار الإسكالوب	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12696	kh3_item.food	fdstuff_0030	86f45a04	كركند	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12697	kh3_item.food	fdstuff_0040	8c31531d	سمك موسى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-12698	kh3_item.food	fdstuff_0050	409b5383	ثعبان البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+12698	kh3_item.food	fdstuff_0050	409b5383	أنقليس	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12699	kh3_item.food	fdstuff_0060	ce145460	قاروص	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12700	kh3_item.food	fdstuff_0070	02be54fe	بلح البحر	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12701	kh3_item.food	fdstuff_0080	db9e4652	سمك القد	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -661,7 +661,7 @@ id	namespace	key	source_hash	AR	status	note
 12890	kh3_item.key	detail_key_11	1721d9ed	مجسم لعبة على هيئة هرقل.<br>صغير بما يكفي ليرميه من ليسوا أبطالا.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12891	kh3_item.key	detail_key_12	05947603	شهادة تمنح لمن جمع<br>كل الحظ من مختلف العوالم.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12892	kh3_item.key	detail_key_13	bd281166	شهادة تمنح لمن تحمل<br>أصعب التجارب على الإطلاق.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-12893	kh3_item.key	detail_other_01	6e127204	عملة خاصة تحمي سورا من<br>الأسوأ. إذا انخفض HP إلى 0 فإنها<br>تستعيد الصحة مرة واحدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+12893	kh3_item.key	detail_other_01	6e127204	عملة خاصة تحمي سورا من<br>الأسوأ. إذا انخفض HP إلى 0 فإنها<br>تعيد الصحة مرة واحدة.	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12894	kh3_item.navi	mi_01	f10fe7a0	خريطة: شركة المرعبين	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12895	kh3_item.navi	mi_02	e3ba484e	خريطة: المصنع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12896	kh3_item.navi	ts_01	fbe125c3	خريطة: بيت آندي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
@@ -690,7 +690,7 @@ id	namespace	key	source_hash	AR	status	note
 12919	kh3_item.lsi	game_03	756766dc	المزارع الموسيقي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12920	kh3_item.lsi	game_04	e8b05e65	بناء مبنى	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12921	kh3_item.lsi	game_05	500c3900	الطبيب المجنون	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
-12922	kh3_item.lsi	game_06	42b996ee	ميكي يقطع	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
+12922	kh3_item.lsi	game_06	42b996ee	مشاغبات ميكي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12923	kh3_item.lsi	game_07	fa05f18b	متاعب التاكسي	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12924	kh3_item.lsi	game_08	a266e1dd	معركة الحظيرة	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2
 12925	kh3_item.lsi	game_09	1ada86b8	فتى الكرنفال	reviewed	reviewed_by GPT Sol 6.1 + supervisor, REVIEW-1; cloud review pass 2

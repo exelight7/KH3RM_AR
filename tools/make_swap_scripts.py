@@ -1,7 +1,7 @@
 """SWAP-1/TEST50/BUILD-1/FULL-1/TRANS-4/BUILD-4: generate SWAP_TO_F1.bat, SWAP_TO_F2.bat, SWAP_TO_TEST50.bat, SWAP_TO_BUILD1.bat,
-SWAP_TO_BUILD2.bat, SWAP_TO_BUILD3.bat, SWAP_TO_BUILD4.bat, SWAP_TO_BUILD5.bat, SWAP_TO_BUILD6.bat, SWAP_TO_BUILD7.bat, SWAP_TO_BUILD8.bat, SWAP_TO_BUILD9.bat, SWAP_TO_BUILD10.bat, SWAP_TO_BUILD11.bat, SWAP_TO_BUILD12.bat,
+SWAP_TO_BUILD2.bat, SWAP_TO_BUILD3.bat, SWAP_TO_BUILD4.bat, SWAP_TO_BUILD5.bat, SWAP_TO_BUILD6.bat, SWAP_TO_BUILD7.bat, SWAP_TO_BUILD8.bat, SWAP_TO_BUILD9.bat, SWAP_TO_BUILD10.bat, SWAP_TO_BUILD11.bat, SWAP_TO_BUILD12.bat, SWAP_TO_BUILD13.bat, SWAP_TO_BUILD14.bat, SWAP_TO_BUILD15.bat, SWAP_TO_BUILD16.bat, SWAP_TO_BUILD17.bat, SWAP_TO_BUILD18.bat,
 REMOVE_ARABIC.bat, SWAP_TO_IMAGES_PILOT.bat, REMOVE_IMAGES_PILOT.bat (FINAL-1: touch only pakchunk98-arabic-images_P.pak),
-SWAP_TO_IMAGES_MASS.bat, SWAP_TO_IMAGES_MASS2.bat, SWAP_TO_IMAGES_MASS3.bat, SWAP_TO_IMAGES_MASS4.bat, SWAP_TO_IMAGES_MASS5.bat, REMOVE_IMAGES.bat (IMAGES-MASS, same rule) in the project root (CRLF)."""
+SWAP_TO_IMAGES_MASS.bat, SWAP_TO_IMAGES_MASS2.bat, SWAP_TO_IMAGES_MASS3.bat, SWAP_TO_IMAGES_MASS4.bat, SWAP_TO_IMAGES_MASS5.bat, SWAP_TO_IMAGES_MASS6.bat, SWAP_TO_IMAGES_MASS7.bat, SWAP_TO_IMAGES_MASS8.bat, SWAP_TO_IMAGES_MASS9.bat, SWAP_TO_IMAGES_MASS10.bat, SWAP_TO_IMAGES_MASS11.bat, REMOVE_IMAGES.bat (IMAGES-MASS, same rule) in the project root (CRLF)."""
 import os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # the .bat files stay pure ASCII (cmd mis-parses UTF-8 bytes after chcp 65001); Arabic lines live in tools\swap_msgs\*.txt and are shown with `type`
@@ -21,6 +21,12 @@ MSGS = {
     'done_BUILD10': 'تم: BUILD-10 مثبت الآن / Done: BUILD-10 installed',
     'done_BUILD11': 'تم: BUILD-11 مثبت الآن / Done: BUILD-11 installed',
     'done_BUILD12': 'تم: BUILD-12 مثبت الآن / Done: BUILD-12 installed',
+    'done_BUILD13': 'تم: BUILD-13 مثبت الآن / Done: BUILD-13 installed',
+    'done_BUILD14': 'تم: BUILD-14 مثبت الآن / Done: BUILD-14 installed',
+    'done_BUILD15': 'تم: BUILD-15 مثبت الآن / Done: BUILD-15 installed',
+    'done_BUILD16': 'تم: BUILD-16 مثبت الآن / Done: BUILD-16 installed',
+    'done_BUILD17': 'تم: BUILD-17 مثبت الآن / Done: BUILD-17 installed',
+    'done_BUILD18': 'تم: BUILD-18 مثبت الآن / Done: BUILD-18 installed',
     'done_IMAGES_PILOT': 'تم: تجربة الصور مثبتة الآن بجانب التعريب النصي / Done: image pilot installed next to the text pak',
     'done_REMOVE_IMAGES': 'تم: حُذفت حزمة الصور، والتعريب النصي باقٍ / Done: images pak removed, text pak kept',
     'done_IMAGES_MASS': 'تم: حزمة الصور مثبتة الآن بجانب التعريب النصي / Done: images pak installed next to the text pak',
@@ -28,7 +34,13 @@ MSGS = {
     'done_IMAGES_MASS3': 'تم: حزمة الصور (الجولة 3) مثبتة الآن بجانب التعريب النصي / Done: images pak (round 3) installed next to the text pak',
     'done_IMAGES_MASS4': 'تم: حزمة الصور (الجولة 4) مثبتة الآن بجانب التعريب النصي / Done: images pak (round 4) installed next to the text pak',
     'done_IMAGES_MASS5': 'تم: حزمة الصور (الجولة 5) مثبتة الآن بجانب التعريب النصي / Done: images pak (round 5) installed next to the text pak',
-    'done_REMOVE': 'تم: حُذف التعريب من اللعبة / Done: Arabic removed',
+    'done_IMAGES_MASS6': 'تم: حزمة الصور (الجولة 6) مثبتة الآن بجانب التعريب النصي / Done: images pak (round 6) installed next to the text pak',
+    'done_IMAGES_MASS7': 'تم: حزمة الصور (الجولة 7) مثبتة الآن بجانب التعريب النصي / Done: images pak (round 7) installed next to the text pak',
+    'done_IMAGES_MASS8': 'تم: حزمة الصور (الجولة 8) مثبتة الآن بجانب التعريب النصي / Done: images pak (round 8) installed next to the text pak',
+    'done_IMAGES_MASS9': 'تم: حزمة الصور (الجولة 9) مثبتة الآن بجانب التعريب النصي / Done: images pak (round 9) installed next to the text pak',
+    'done_IMAGES_MASS10': 'تم: حزمة الصور (الجولة 10) مثبتة الآن بجانب التعريب النصي / Done: images pak (round 10) installed next to the text pak',
+    'done_IMAGES_MASS11': 'تم: حزمة الصور (الجولة 11) مثبتة الآن بجانب التعريب النصي / Done: images pak (round 11) installed next to the text pak',
+    'done_REMOVE':'تم: حُذف التعريب من اللعبة / Done: Arabic removed',
     'running': 'اللعبة تعمل الآن. أغلقها ثم شغّل هذا الملف من جديد. / The game is running. Close it, then run this file again.',
     'permfail': 'فشل: لا توجد صلاحية على مجلد اللعبة / FAILED: no permission on the game folder',
     'badhash': 'فشل: البصمة لا تطابق البناء، حُذف الملف / FAILED: SHA256 mismatch, copy removed',
@@ -127,7 +139,13 @@ B = {'F1': r'%~dp0out\builds\ARABIC-TEST-2\pakchunk99-arabictest2F1_P.pak',
      'BUILD9': r'%~dp0out\builds\BUILD-9\pakchunk99-arabic_P.pak',
      'BUILD10': r'%~dp0out\builds\BUILD-10\pakchunk99-arabic_P.pak',
      'BUILD11': r'%~dp0out\builds\BUILD-11\pakchunk99-arabic_P.pak',
-     'BUILD12': r'%~dp0out\builds\BUILD-12\pakchunk99-arabic_P.pak'}
+     'BUILD12': r'%~dp0out\builds\BUILD-12\pakchunk99-arabic_P.pak',
+     'BUILD13': r'%~dp0out\builds\BUILD-13\pakchunk99-arabic_P.pak',
+     'BUILD14': r'%~dp0out\builds\BUILD-14\pakchunk99-arabic_P.pak',
+     'BUILD15': r'%~dp0out\builds\BUILD-15\pakchunk99-arabic_P.pak',
+     'BUILD16': r'%~dp0out\builds\BUILD-16\pakchunk99-arabic_P.pak',
+     'BUILD17': r'%~dp0out\builds\BUILD-17\pakchunk99-arabic_P.pak',
+     'BUILD18': r'%~dp0out\builds\BUILD-18\pakchunk99-arabic_P.pak'}
 H = {'F1': '302d95d10a972622a2c9d805ff6bbeb5e4cdf47eb2f64e814a240b5accf1f2d0',
      'F2': '5e60bd3a94a573b8af2db8182baaeea4480bf5244f8113b1eebd77cbdb43cb99',
      'TEST50': 'a26a76917c005f8c1d26e7c42da030bf405075a9243f9bdb68191099ead14191',
@@ -142,7 +160,13 @@ H = {'F1': '302d95d10a972622a2c9d805ff6bbeb5e4cdf47eb2f64e814a240b5accf1f2d0',
      'BUILD9': '23ae437a117d5f77f1742d85b1f80a87e5dad0dc8755cf0950a79f99ca2a62f0',
      'BUILD10': '89e00ead0a83e5d1cb07d257d98530541da447a5849c42f84ba9759dd4c7beea',
      'BUILD11': '8aa9b0e816e61a303f8b1f36e03fa90caf5c2d0a4ed90e1b7bd0a812ffeb7f91',
-     'BUILD12': '2cdb5b7b7ee79f5432f488aa86f1a2cf724eaf6983c0077f797dd831e62795cd'}
+     'BUILD12': '2cdb5b7b7ee79f5432f488aa86f1a2cf724eaf6983c0077f797dd831e62795cd',
+     'BUILD13': '3675a16aefe35a70010e1c721de0701f7709b589b1987fb1a4860653bf78fd7c',
+     'BUILD14': 'a7d2eacd7bf7f790d91b57568e184ab45b0266112baa98532380c661d6bf5f92',
+     'BUILD15': '11c078410b74471d8a078707ac20035de6d3fa1910e5237a69992a068a17b79f',
+     'BUILD16': '5ff72110e9ab7c8cca443ce6d7c9b5d27b209bde395a904d6cf81ba08ca1ec5f',
+     'BUILD17': '58bad87725b3e1029cb7fb4a31258a0fda97eca5d3d4192d1562ed3bc4f9858c',
+     'BUILD18': 'dde67ce67b7d93bf95835a0126e317e003e3a2a51370321da51ce48035afe527'}
 def write(name, body):
     s = (body + TAIL).replace('@TAB@', TAB).replace('@MSG@', MSG)
     with open(os.path.join(ROOT, name), 'w', encoding='utf-8', newline='') as f:
@@ -171,5 +195,23 @@ write('SWAP_TO_IMAGES_MASS4.bat', HEAD.replace('@ACT@', 'IMAGES_MASS4').replace(
 MASS5 = 'b' + 'uilds' + chr(92) + 'IMAGES-MASS5' + chr(92) + PILOT
 write('SWAP_TO_IMAGES_MASS5.bat', HEAD.replace('@ACT@', 'IMAGES_MASS5').replace('@SRC@', r'%~dp0out' + chr(92) + MASS5)
       .replace('@WANT@', 'd5b39c12c25f34108b97d9d8c6056374800bcd6a9727bb26f82a01941a0bff21').replace('@CHECKSRC@', CHECK).replace('@DEL@', PILOT) + SWAP)
-# REMOVE_IMAGES.bat deletes the images pak by name (any build: IMAGES-MASS .. -MASS5), so it pins no hash
+MASS6 = 'b' + 'uilds' + chr(92) + 'IMAGES-MASS6' + chr(92) + PILOT
+write('SWAP_TO_IMAGES_MASS6.bat', HEAD.replace('@ACT@', 'IMAGES_MASS6').replace('@SRC@', r'%~dp0out' + chr(92) + MASS6)
+      .replace('@WANT@', 'a6b6d55625de72f2948c581f445ab6298a44f5fb644f60bbf72743a83f19aa55').replace('@CHECKSRC@', CHECK).replace('@DEL@', PILOT) + SWAP)
+MASS7 = 'b' + 'uilds' + chr(92) + 'IMAGES-MASS7' + chr(92) + PILOT
+write('SWAP_TO_IMAGES_MASS7.bat', HEAD.replace('@ACT@', 'IMAGES_MASS7').replace('@SRC@', r'%~dp0out' + chr(92) + MASS7)
+      .replace('@WANT@', 'dabd8b855cb83d3aa0b529bcccbcb5a80fc04ac382ed57346b6ae25aa3b38bad').replace('@CHECKSRC@', CHECK).replace('@DEL@', PILOT) + SWAP)
+MASS8 = 'b' + 'uilds' + chr(92) + 'IMAGES-MASS8' + chr(92) + PILOT
+write('SWAP_TO_IMAGES_MASS8.bat', HEAD.replace('@ACT@', 'IMAGES_MASS8').replace('@SRC@', r'%~dp0out' + chr(92) + MASS8)
+      .replace('@WANT@', '917d92733f1e7808007bc089aa067e7b12973d3ddc6ae1045532908baea282e0').replace('@CHECKSRC@', CHECK).replace('@DEL@', PILOT) + SWAP)
+MASS9 = 'b' + 'uilds' + chr(92) + 'IMAGES-MASS9' + chr(92) + PILOT
+write('SWAP_TO_IMAGES_MASS9.bat', HEAD.replace('@ACT@', 'IMAGES_MASS9').replace('@SRC@', r'%~dp0out' + chr(92) + MASS9)
+      .replace('@WANT@', 'abe75ddd6ee0e1522ec8f217d88a4826cdc4ba89a88655c1c58906bbc9245573').replace('@CHECKSRC@', CHECK).replace('@DEL@', PILOT) + SWAP)
+MASS10 = 'b' + 'uilds' + chr(92) + 'IMAGES-MASS10' + chr(92) + PILOT
+write('SWAP_TO_IMAGES_MASS10.bat', HEAD.replace('@ACT@', 'IMAGES_MASS10').replace('@SRC@', r'%~dp0out' + chr(92) + MASS10)
+      .replace('@WANT@', '2dfb6baff273fc0320c687b3c0afac988703e83d5b9682a8ede61cb84f83ba34').replace('@CHECKSRC@', CHECK).replace('@DEL@', PILOT) + SWAP)
+MASS11 = 'b' + 'uilds' + chr(92) + 'IMAGES-MASS11' + chr(92) + PILOT
+write('SWAP_TO_IMAGES_MASS11.bat', HEAD.replace('@ACT@', 'IMAGES_MASS11').replace('@SRC@', r'%~dp0out' + chr(92) + MASS11)
+      .replace('@WANT@', '7b37f84b390db3d62fe837892a99bbe3fe4ae7cccf9bc67a119decb3d643c964').replace('@CHECKSRC@', CHECK).replace('@DEL@', PILOT) + SWAP)
+# REMOVE_IMAGES.bat deletes the images pak by name (any build: IMAGES-MASS .. -MASS11), so it pins no hash
 write('REMOVE_IMAGES.bat', HEAD.replace('@ACT@', 'REMOVE_IMAGES').replace('@SRC@', '-').replace('@WANT@', '-').replace('@CHECKSRC@', '').replace('@DEL@', PILOT) + REMOVE)
