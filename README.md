@@ -8,7 +8,7 @@
 
 القوائم والحوارات والمشاهد واليوميات والشروحات، بواجهة وخط عربي.
 
-**Windows · Linux** &nbsp; / &nbsp; **الإصدار 0.9.8 · تجريبي**
+**Windows · Linux** &nbsp; / &nbsp; **الإصدار 0.9.9 · تجريبي**
 
 [التنزيل](#التنزيل) &nbsp; · &nbsp; [التثبيت](#التثبيت) &nbsp; · &nbsp; [حالة المشروع](#حالة-المشروع) &nbsp; · &nbsp; [خريطة المشروع](#خريطة-المشروع)
 
@@ -20,12 +20,12 @@
 
 | Windows x64 | Linux x64 |
 |:---:|:---:|
-| **[↓ تنزيل المثبّت](https://github.com/exelight7/KH3RM_AR/releases/download/0.9.8/KH3RM_AR_Setup_v0.9.8_windows-x64.exe)** | **[↓ تنزيل الحزمة](https://github.com/exelight7/KH3RM_AR/releases/download/0.9.8/KH3RM_AR_Setup_v0.9.8_linux-x64.tar.gz)** |
-| شغّل المثبّت مباشرة | فك الضغط وشغّل `KH3RM_AR_Setup` |
+| **[↓ تنزيل المثبّت](https://github.com/exelight7/KH3RM_AR/releases/download/0.9.9/KH3RM_AR_Setup_v0.9.9_windows-x64-folder.zip)** | **[↓ تنزيل الحزمة](https://github.com/exelight7/KH3RM_AR/releases/download/0.9.9/KH3RM_AR_Setup_v0.9.9_linux-x64.tar.gz)** |
+| فك الضغط وشغّل `KH3RM_AR_Setup.exe` من المجلد | فك الضغط وشغّل `KH3RM_AR_Setup` |
 
 <div align="center">
 
-[تفاصيل الإصدار والملفات](https://github.com/exelight7/KH3RM_AR/releases/tag/0.9.8) &nbsp; · &nbsp; [دليل المثبّت](tools/installer/README.md)
+[تفاصيل الإصدار والملفات](https://github.com/exelight7/KH3RM_AR/releases/tag/0.9.9) &nbsp; · &nbsp; [دليل المثبّت](tools/installer/README.md)
 
 </div>
 
@@ -40,7 +40,7 @@
 <details>
 <summary><strong>التثبيت اليدوي</strong></summary>
 
-نزّل `pakchunk99-arabic_P.pak` من [صفحة الإصدار](https://github.com/exelight7/KH3RM_AR/releases/tag/0.9.8)، وضعه داخل مجلد اللعبة في:
+نزّل `pakchunk99-arabic_P.pak` من [صفحة الإصدار](https://github.com/exelight7/KH3RM_AR/releases/tag/0.9.9)، وضعه داخل مجلد اللعبة في:
 
 ```text
 KINGDOM HEARTS III/Content/Paks/~mods/

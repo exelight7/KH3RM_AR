@@ -10,7 +10,7 @@ namespace Kh3rmAr;
 /// <summary>Everything that touches the disk. No UI, so SelfTest can run it on fake folder trees.</summary>
 public static class Core
 {
-    public const string Version = "0.9.8";
+    public const string Version = "0.9.9";
     public const string PakName = "pakchunk99-arabic_P.pak";
     public const string ExpectedSha = "dde67ce67b7d93bf95835a0126e317e003e3a2a51370321da51ce48035afe527"; // BUILD-18
     public const string ImagesPakName = "pakchunk98-arabic-images_P.pak";

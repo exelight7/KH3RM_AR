@@ -6,12 +6,14 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <AssemblyName>KH3RM_AR_Setup</AssemblyName>
     <RootNamespace>Kh3rmAr</RootNamespace>
-    <Version>0.9.8</Version>
+    <Version>0.9.9</Version>
     <RuntimeIdentifier Condition="'$(RuntimeIdentifier)'==''">win-x64</RuntimeIdentifier>
     <SelfContained>true</SelfContained>
-    <PublishSingleFile>true</PublishSingleFile>
-    <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
-    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <PublishSingleFile>false</PublishSingleFile>
+    <EnableCompressionInSingleFile>false</EnableCompressionInSingleFile>
+    <IncludeNativeLibrariesForSelfExtract>false</IncludeNativeLibrariesForSelfExtract>
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
     <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
     <ApplicationIcon Condition="Exists('app.ico')">app.ico</ApplicationIcon>
     <PakPath Condition="'$(PakPath)'==''">$(MSBuildThisFileDirectory)..\..\out\builds\BUILD-18\pakchunk99-arabic_P.pak</PakPath>

@@ -20,8 +20,8 @@
 
 | Windows x64 | Linux x64 |
 |:---:|:---:|
-| **[↓ تنزيل المثبّت](https://github.com/exelight7/KH3RM_AR/releases/download/{{VER}}/KH3RM_AR_Setup_v{{VER}}_windows-x64.exe)** | **[↓ تنزيل الحزمة](https://github.com/exelight7/KH3RM_AR/releases/download/{{VER}}/KH3RM_AR_Setup_v{{VER}}_linux-x64.tar.gz)** |
-| شغّل المثبّت مباشرة | فك الضغط وشغّل `KH3RM_AR_Setup` |
+| **[↓ تنزيل المثبّت](https://github.com/exelight7/KH3RM_AR/releases/download/{{VER}}/{{SETUP}})** | **[↓ تنزيل الحزمة](https://github.com/exelight7/KH3RM_AR/releases/download/{{VER}}/KH3RM_AR_Setup_v{{VER}}_linux-x64.tar.gz)** |
+| فك الضغط وشغّل `KH3RM_AR_Setup.exe` من المجلد | فك الضغط وشغّل `KH3RM_AR_Setup` |
 
 <div align="center">
 
