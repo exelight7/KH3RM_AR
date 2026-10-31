@@ -83,6 +83,7 @@ class T(unittest.TestCase):
 
     def test_real_rows(self):
         rows = {r['id']: r for r in load_translation()}
+        if not rows: self.skipTest('private translation workspace not present (public clone)')
         for i in REAL:
             x = rows[i]['AR']
             v = shape(x)
@@ -127,6 +128,7 @@ class Wrap(unittest.TestCase):
 
     def test_conv_rows(self):  # the 12 tutorial control lists translated in BUILD-1
         rows = {r['id']: r for r in load_translation()}
+        if not rows: self.skipTest('private translation workspace not present (public clone)')
         for i in ('10307', '10308', '10309', '10310', '10317', '10318', '10319', '10320', '10510', '10511', '10530', '10531'):
             x = rows[i]['AR']
             self.assertNotEqual(rows[i]['status'], 'todo', i)

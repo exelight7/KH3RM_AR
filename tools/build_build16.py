@@ -1,9 +1,9 @@
-r"""BUILD-16: a copy of toolsuild_build15.py with the BUILD-16 TresFont (toolsont_swap_adapter16.py: BUILD-15's font with the
+r"""BUILD-16: a copy of tools\build_build15.py with the BUILD-16 TresFont (tools\font_swap_adapter16.py: BUILD-15's font with the
 6 ya glyphs restored from BUILD-14 by tools\ya_restore16.py, i.e. the BUILD-14 pair byte for byte). Translation = BUILD-15's.
 Gate (no hardcoded ids): no id corrected since the BUILD-15 commit; no locres row differs from BUILD-15 (advances unchanged, so
 no wrapping changes); files differing from BUILD-15 = TresFont.uasset + .uexp only; no new overflow row; no new glyph gap; no
 missing Arabic.
--> outuilds\BUILD-16\pakchunk99-arabic_P.pak + verify tables, diff_vs_build15.tsv, files_vs_build15.tsv,
+-> out\builds\BUILD-16\pakchunk99-arabic_P.pak + verify tables, diff_vs_build15.tsv, files_vs_build15.tsv,
 overflow_vs_build15.tsv, glyph_gaps.tsv, fonts_license\ (OFL.txt + SOURCES.md, outside the pak).
 Usage (from the project root): python -I tools/build_build16.py   |   --installed (after SWAP_TO_BUILD16.bat)"""
 import collections, hashlib, os, shutil, subprocess, sys

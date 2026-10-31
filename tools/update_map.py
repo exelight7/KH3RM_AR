@@ -106,6 +106,11 @@ def update(text):
 
 if __name__ == '__main__':
     assert update('# T\n\n## 1. A\nkeep\n## 7. Numbers (auto)\nold\n').startswith('# T\n\n## 1. A\nkeep\n## 7. Numbers (auto)\n\nFrom')
-    new = update(open(MAP, encoding='utf-8').read())
+    old = open(MAP, encoding='utf-8').read()
+    heads = re.findall(r'(?m)^## .*\(auto\)[ \t]*$', old)
+    missing = [k for k in AUTO if not any(k in h for h in heads)]
+    if missing:  # e.g. every line prefixed with a backtick: the sections would silently stop updating
+        sys.exit(f'update_map: FAIL, no "## ... (auto)" heading for {missing} in PROJECT_MAP.md (file damaged?)')
+    new = update(old)
     open(MAP, 'w', encoding='utf-8', newline='\n').write(new)
     print('update_map: PROJECT_MAP.md auto sections refreshed')
