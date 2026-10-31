@@ -1,8 +1,8 @@
 # Changelog
 
-## 2026-10-31 — RELEASE-RC2 (1.0.0-rc.2 prepared, not published)
+## 2026-10-31 — RELEASE-RC2 (1.0.0-rc.2 published as pre-release)
 
-Installer-only release candidate: version 1.0.0-rc.2 in Core.cs, Installer.csproj and make_public.py (README.md mirrored, installer README with a "what changed" section). Same BUILD-18 and IMAGES-MASS11 paks as 0.9.9 (byte-identical). Built locally with .NET SDK 10.0.403 into `C:\1\release_1.0.0-rc.2\`: Windows folder zip (93,561,841 B, sha256 405773c0ac2a061f2e6dc8393245ab8d61a33b8b2cf63a0ecfbf44ff0019e7a8), Linux tar.gz (91,300,871 B, sha256 abcca3ffebb307f2a9f252f6f6c5030ee7683c44b6e912798080b1974e7af392), both paks, the IBM Plex OFL text as a separate asset, SHA256SUMS.txt and Arabic release notes. `--selftest` 37/37 on the published folder and after unzipping; zip and tar round trips byte-identical. Not run on Linux, no VirusTotal scan of this package, not published.
+Installer-only release candidate: version 1.0.0-rc.2 in Core.cs, Installer.csproj and make_public.py (README.md mirrored, installer README with a "what changed" section). Same BUILD-18 and IMAGES-MASS11 paks as 0.9.9 (byte-identical). Built locally with .NET SDK 10.0.403 into `C:\1\release_1.0.0-rc.2\`: Windows folder zip (93,561,841 B, sha256 405773c0ac2a061f2e6dc8393245ab8d61a33b8b2cf63a0ecfbf44ff0019e7a8), Linux tar.gz (91,300,871 B, sha256 abcca3ffebb307f2a9f252f6f6c5030ee7683c44b6e912798080b1974e7af392), both paks, the IBM Plex OFL text as a separate asset, SHA256SUMS.txt and Arabic release notes. `--selftest` 37/37 on the published folder and after unzipping; zip and tar round trips byte-identical. Published at https://github.com/exelight7/KH3RM_AR/releases/tag/1.0.0-rc.2 (tag = main 7088b9b, six assets, remote sizes and sha256 digests equal the local files). Not run on Linux, no VirusTotal scan of this package.
 
 ## 2026-10-31 — RC-PREP-1 (installer retarget and RC checklist, no new build)
 
