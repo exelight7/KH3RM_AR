@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-31 — PLAN-1.0.0 (documents only)
+
+Road to 1.0.0 recorded (docs/rounds/PLAN-1.0.0.md): next pre-release is 1.0.0-rc.2; in-game verification by the focused checklist technical/RC_CHECKLIST.md (62 places). No build, translation, installer or release change.
+
 ## 2026-10-31 — MAINT-1 (maintenance, no new build)
 
 Repaired PROJECT_MAP.md and CHANGELOG.md (backtick prefix on every line and path escapes lost as control characters since BATCH-234); PROJECT_MAP auto sections 7 and 9 refreshed again (they had stopped updating). Same escape damage fixed in three tool comments. New guards: update_map.py fails on missing auto headings, public_check.py refuses damaged text files; new tools/repair_docs.py for the private copies. Data-dependent tests skip in a public clone. No translation, pak, installer or release change.
