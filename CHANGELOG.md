@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-31 — RELEASE-RC2 (1.0.0-rc.2 prepared, not published)
+
+Installer-only release candidate: version 1.0.0-rc.2 in Core.cs, Installer.csproj and make_public.py (README.md mirrored, installer README with a "what changed" section). Same BUILD-18 and IMAGES-MASS11 paks as 0.9.9 (byte-identical). Built locally with .NET SDK 10.0.403 into `C:\1\release_1.0.0-rc.2\`: Windows folder zip (93,561,841 B, sha256 405773c0ac2a061f2e6dc8393245ab8d61a33b8b2cf63a0ecfbf44ff0019e7a8), Linux tar.gz (91,300,871 B, sha256 abcca3ffebb307f2a9f252f6f6c5030ee7683c44b6e912798080b1974e7af392), both paks, the IBM Plex OFL text as a separate asset, SHA256SUMS.txt and Arabic release notes. `--selftest` 37/37 on the published folder and after unzipping; zip and tar round trips byte-identical. Not run on Linux, no VirusTotal scan of this package, not published.
+
+## 2026-10-31 — RC-PREP-1 (installer retarget and RC checklist, no new build)
+
+The installer project now targets net10.0 (LTS) instead of net8.0, whose support ends on 2026-11-10; Avalonia 11.3.22 and the 0.9.9 packaging settings (self-contained folder, no single file, no compression, no debug symbols) are unchanged. Built with SDK 10.0.403 (download SHA512 verified) in a scratch copy with the real BUILD-18 and IMAGES-MASS11 paks of release 0.9.9 (sha256 equal to the pins in Core.cs): win-x64 and linux-x64 publish, bundled runtime 10.0.14, `--selftest` 37/37 on the win-x64 folder and after zip extraction; Linux not run. New `technical/RC_CHECKLIST.md` (64 yes/no places for the final verification). No translation, pak, font or release change.
 ## 2026-10-31 — PLAN-1.0.0 (documents only)
 
 Road to 1.0.0 recorded (docs/rounds/PLAN-1.0.0.md): next pre-release is 1.0.0-rc.2; in-game verification by the focused checklist technical/RC_CHECKLIST.md (62 places). No build, translation, installer or release change.

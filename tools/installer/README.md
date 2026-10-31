@@ -1,13 +1,13 @@
 # مثبت KH3RM_AR — Windows وLinux
 
-الإصدار **0.9.9**. يأتي المثبت في حزمة مضغوطة تضم البرنامج ومكتباته و.NET، وتبقى حزمتا التعريب مضمّنتين داخله:
+الإصدار **1.0.0-rc.2** (مرشح إصدار). يأتي المثبت في حزمة مضغوطة تضم البرنامج ومكتباته و.NET، وتبقى حزمتا التعريب مضمّنتين داخله:
 - حزمة النص BUILD-18 (`pakchunk99-arabic_P.pak`، 5,103,489 بايت) وفيها تصحيحات المراجعة اللغوية الكاملة؛ تثبت دائما.
 - حزمة الصور IMAGES-MASS11 (`pakchunk98-arabic-images_P.pak`، 41,493,315 بايت)، اختيارية: تنسخ فقط عند تفعيل خانة «تثبيت حزمة الصور أيضًا». الخانة غير مفعلة افتراضيا، وتظهر مفعلة إذا كانت حزمة الصور مثبتة من قبل في المجلد المختار.
 
 ## التشغيل
 
-- Windows x64: فك `KH3RM_AR_Setup_v0.9.9_windows-x64-folder.zip` بالكامل، ثم شغل `KH3RM_AR_Setup.exe` من المجلد الناتج. أبق ملفات DLL وبقية ملفات المجلد معه.
-- Linux x64، ومنها Steam Deck: فك `KH3RM_AR_Setup_v0.9.9_linux-x64.tar.gz` بالكامل وشغل `KH3RM_AR_Setup` من المجلد. اللعبة نفسها تعمل عبر Steam/Proton؛ هذا مثبت التعريب وليس منفذا للعبة.
+- Windows x64: فك `KH3RM_AR_Setup_v1.0.0-rc.2_windows-x64-folder.zip` بالكامل، ثم شغل `KH3RM_AR_Setup.exe` من المجلد الناتج. أبق ملفات DLL وبقية ملفات المجلد معه.
+- Linux x64، ومنها Steam Deck: فك `KH3RM_AR_Setup_v1.0.0-rc.2_linux-x64.tar.gz` بالكامل وشغل `KH3RM_AR_Setup` من المجلد. اللعبة نفسها تعمل عبر Steam/Proton؛ هذا مثبت التعريب وليس منفذا للعبة.
 - .NET مضمن. Linux يحتاج جلسة رسومية X11 أو XWayland، ومكتبات النظام المعتادة: libX11، libICE، libSM، libfontconfig. لا تشغل المثبت كـroot؛ اختر مكتبة Steam التي يملكها مستخدمك.
 - يدعم اكتشاف مكتبات Steam من libraryfolders.vdf وappmanifest، ومنها Steam Flatpak وXDG_DATA_HOME. Epic يكتشف تلقائيا على Windows؛ Linux يمكن اختيار مجلد تثبيت اللعبة يدويا.
 - أغلق اللعبة، اختر مجلدها، فعّل خانة الصور إن أردتها، ثم ثبت التعريب. يرفض البرنامج العمل واللعبة تعمل، ويفحص عمليات Proton/Wine على Linux.
@@ -17,13 +17,19 @@
 ## البناء
 
 ```powershell
-dotnet publish tools/installer/Installer.csproj -c Release -r win-x64 --self-contained true -o out/release/v0.9.9/windows
-dotnet publish tools/installer/Installer.csproj -c Release -r linux-x64 --self-contained true -o out/release/v0.9.9/linux
+dotnet publish tools/installer/Installer.csproj -c Release -r win-x64 --self-contained true -o out/release/v1.0.0-rc.2/windows
+dotnet publish tools/installer/Installer.csproj -c Release -r linux-x64 --self-contained true -o out/release/v1.0.0-rc.2/linux
 ```
 
-يفترض البناء وجود BUILD-18 وIMAGES-MASS11 تحت out/builds، ويتوقف إذا غابت إحداهما. يمكن تمرير `-p:PakPath=...` و`-p:ImagesPakPath=...`؛ يجب أن تطابق الحزمتان Core.ExpectedSha وCore.ImagesSha. في بيئة SDK Windows التي يفشل فيها workload resolver: مرر `-p:MSBuildEnableWorkloadResolver=false`.
+المشروع يستهدف `net10.0` (.NET 10 LTS، دعمه حتى 2028-11-14) بعد أن كان `net8.0` حتى 0.9.9، فيلزم .NET SDK 10.0.x للبناء؛ حزم 0.9.9 المنشورة تبقى على .NET 8.0.32. يفترض البناء وجود BUILD-18 وIMAGES-MASS11 تحت out/builds، ويتوقف إذا غابت إحداهما. يمكن تمرير `-p:PakPath=...` و`-p:ImagesPakPath=...`؛ يجب أن تطابق الحزمتان Core.ExpectedSha وCore.ImagesSha. في بيئة SDK Windows التي يفشل فيها workload resolver: مرر `-p:MSBuildEnableWorkloadResolver=false`.
 
 الواجهة العربية افتراضية، والتبديل إلى الإنجليزية داخل التطبيق. `--demo` معاينة لا تسمح بالتثبيت أو الإزالة ولا تفحص اللعبة. `--render ar output.png` أو `--render en output.png` يلتقط الواجهة التجريبية ثم يغلق البرنامج. `--selftest out.txt` يشغل 37 فحصا على مجلدات مؤقتة فقط. الملفات القديمة MainWindow.xaml وApp.xaml وEmblem محفوظة للتاريخ لكنها مستبعدة من Compile.
+
+## ما تغير في 1.0.0-rc.2
+
+- المثبت يعمل على .NET 10 LTS المضمن (10.0.14) بدل .NET 8.0.32 الذي ينتهي دعمه في 2026-11-10. لا تحتاج تثبيت .NET. بقيت إعدادات الحزمة كما في 0.9.9: مجلد مستقل، بلا SingleFile ولا ضغط، بلا رموز تصحيح.
+- حزمتا التعريب BUILD-18 وIMAGES-MASS11 لم تتغيرا بايتا ببايت، وبصمتاهما SHA256 هما نفسهما.
+- رخصة IBM Plex Sans Arabic (OFL) داخل الأرشيفين، وهي أيضا ملف مستقل في صفحة الإصدار.
 
 ## ما تغير في 0.9.9
 
