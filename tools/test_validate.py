@@ -1,6 +1,6 @@
 import os, sys, unittest
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from validate import check, build_gloss
+from validate import check, build_gloss, TYPOS
 
 def c(en, ar, **k):
     return check(en, ar, **k)
@@ -99,6 +99,7 @@ class T(unittest.TestCase):
     def test_qmark_typo(self):
         self.assertIn('QMARK', c('Why?', 'لماذا؟'))
         self.assertEqual(c('Why?', 'لماذا?'), [])
+        if not TYPOS: self.skipTest('translation\\typo_patterns.tsv not present (public clone)')
         self.assertIn('TYPO', c('Go', 'اصل إلى الباب'))      # imperative wrong
         self.assertEqual(c('Go', 'واصل إلى الباب'), [])       # longer word, not a hit
         self.assertEqual(c('Go', 'صل إلى الباب'), [])

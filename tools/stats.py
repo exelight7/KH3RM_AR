@@ -17,7 +17,7 @@ if os.path.exists(LOG):
             shot.update(x.strip() for x in r[2].split(',') if x.strip())
 INST = os.path.join(ROOT, 'state', 'INSTALLED.tsv')
 inst = {r[0]: r[1] for r in read_tsv(INST)[1:]} if os.path.exists(INST) else {}
-ar_hash = lambda ar: hashlib.sha1(ar.encode('utf-8')).hexdigest()[:10]  # same as toolsuild_build1.py
+ar_hash = lambda ar: hashlib.sha1(ar.encode('utf-8')).hexdigest()[:10]  # same as tools\build_build1.py
 pct = lambda a, b: f'{100 * a / b:.1f}%' if b else '-'
 L = ['# STATS', '', '| category | rows | translated | installed | reviewed | verified-by-screenshot |', '|---|---|---|---|---|---|']
 img_rows = load_images_strings()   # own category, not part of TOTAL

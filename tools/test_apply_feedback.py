@@ -1,5 +1,7 @@
 import os, subprocess, sys, tempfile
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+if not os.path.exists(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'translation', 'images_strings.tsv')):
+    sys.exit(print('%s SKIP: private translation workspace not present (public clone)' % os.path.basename(__file__)))
 import apply_feedback as af, find_text as ft
 rows = ft.all_rows()
 r = next(x for x in rows if x['category'] == 'menus_ui' and x['AR'] and '<' not in x['AR'])

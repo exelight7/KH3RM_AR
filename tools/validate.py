@@ -3,7 +3,7 @@ ERR codes: TAGS (tag/arg/icon sequence differs) BR (<br> count) LATIN (Latin/Gre
   QMARK (Arabic question mark U+061F; ASCII ? until a screenshot proves it, REVIEW-1)
 WARN codes: ARGORDER (same tags, different order) DSPACE LEAD TRAIL (only if EN lacks them) RATIO
   HASHTAG (hashtag token in Latin letters while EN is a hashtag row)
-  TYPO (a pattern of translation	ypo_patterns.tsv, whole-word regex, matches AR)
+  TYPO (a pattern of translation\typo_patterns.tsv, whole-word regex, matches AR)
   GLOSS (an approved glossary term is in EN but its approved Arabic is missing from AR; see build_gloss)
 Rows with empty AR and status todo are skipped."""
 import os, re, sys

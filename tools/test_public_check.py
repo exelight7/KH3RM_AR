@@ -14,6 +14,7 @@ CASES = [
     ('tools/KEY_SOURCE.txt', b'x', 'forbidden path'), ('notes.md', b'has SECRETKEY here', 'AES key'),
     ('translation/ar/a/c.tsv', b'id\tEN\tAR\n', 'EN column'),
     ('translation/ar/a/d.tsv', b'id\tAR\n1\tThe quick brown fox jumps over\n', 'Latin sentence'),
+    ('docs/a.md', b'path tools\x08uild_build1.py\n', 'damaged text'), ('docs/b.md', b'`# T\n' + b'`line\n' * 12, 'damaged text'),
 ]
 with tempfile.TemporaryDirectory() as d:
     put(d, 'README.md')
